@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Q10.Pickpoint.API", "Q10.Pickpoint.API\Q10.Pickpoint.API.csproj", "{1CFC09E7-578A-449B-A7E3-CF3516076553}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Q10.Pickpoint.Models", "Q10.Pickpoint.Models\Q10.Pickpoint.Models.csproj", "{BA62F527-4084-4AE7-A45C-04A866977602}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Q10.Pickpoint.Business", "Q10.Pickpoint.Business\Q10.Pickpoint.Business.csproj", "{2B3FDC3E-657E-4075-945D-19E11F444ED5}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Q10.Pickpoint.Db", "Q10.Pickpoint.Db\Q10.Pickpoint.Db.sqlproj", "{749BB9E7-C774-4F2C-BE3E-633800F48D24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CFC09E7-578A-449B-A7E3-CF3516076553}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CFC09E7-578A-449B-A7E3-CF3516076553}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CFC09E7-578A-449B-A7E3-CF3516076553}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CFC09E7-578A-449B-A7E3-CF3516076553}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA62F527-4084-4AE7-A45C-04A866977602}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA62F527-4084-4AE7-A45C-04A866977602}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA62F527-4084-4AE7-A45C-04A866977602}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA62F527-4084-4AE7-A45C-04A866977602}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B3FDC3E-657E-4075-945D-19E11F444ED5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B3FDC3E-657E-4075-945D-19E11F444ED5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B3FDC3E-657E-4075-945D-19E11F444ED5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B3FDC3E-657E-4075-945D-19E11F444ED5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{749BB9E7-C774-4F2C-BE3E-633800F48D24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{749BB9E7-C774-4F2C-BE3E-633800F48D24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{749BB9E7-C774-4F2C-BE3E-633800F48D24}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{749BB9E7-C774-4F2C-BE3E-633800F48D24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{749BB9E7-C774-4F2C-BE3E-633800F48D24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{749BB9E7-C774-4F2C-BE3E-633800F48D24}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACFB9614-0A2A-429B-8DD2-98E29CF76D1F}
+	EndGlobalSection
+EndGlobal

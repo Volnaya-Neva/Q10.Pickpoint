@@ -1,0 +1,73 @@
+{
+  "$schema": "https://json.schemastore.org/launchsettings.json",
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:14013",
+      "sslPort": 44319
+    }
+  },
+  "profiles": {
+    "Run (SberCloud)": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+      "applicationUrl": "http://localhost:7096",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": ""
+      }
+    },
+    "Run (Dima)": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+      "applicationUrl": "http://localhost:7096",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": ".Dima"
+      }
+    },
+    "Run (Evgen)": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+      "applicationUrl": "http://localhost:7096",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": ".Evgen"
+      }
+    },
+    "Run (Pavel)": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+      "applicationUrl": "http://localhost:7096",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": ".Pavel"
+      }
+    },
+    "Run (Stas)": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+      "applicationUrl": "http://95.84.209.203:7096",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": ".Stas"
+      }
+    },
+    "Run (Timur)": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+      "applicationUrl": "http://localhost:7096",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": ".Timur"
+      }
+    }
+  }
+}
