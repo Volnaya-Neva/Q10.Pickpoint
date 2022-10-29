@@ -6,40 +6,21 @@ using System.ComponentModel;
 
 namespace Q10.Pickpoint.API.Controllers;
 
-public class TestController : BaseController
+public class TestController : BaseController<TestService>
 {
-    public TestController(IMapper mapper, ITestService baseService) : base(mapper, baseService)
+    public TestController(IMapper mapper, ITestService testService) : base(mapper, testService)
     {
     }
 
     [HttpGet("Geo-Json")]
     [Description("Генерация маркеров")]
-    public FeatureCollection GetGeoJson([FromQuery] int count = 3)
-    {
-        FeatureCollection featureCollection = new()
-        {
-            Type = nameof(FeatureCollection),
-            Features = new Feature[count]
-        };
-        Random random = new();
-        for (int i = 0; i < count; i++)
-        {
-            featureCollection.Features[i] = new()
-            {
-                Type = "Feature",
-                Geometry = new()
-                {
-                    Type = "Point",
-                    Coordinates = new[] { (float)(37 + random.NextDouble()), (float)(55 + random.NextDouble()) }
-                },
-                Properties = new()
-                {
-                    Id = $"{i}",
-                    Title = $"{i}"
-                }
-            };
-        }
+    public FeatureCollection GetGeoJson([FromQuery] int count = 3) => Service.GetGenFeatureCollection(count);
 
-        return featureCollection;
+    [HttpPost("Load-Data-Mos-Ru-Type")]
+    [Description("Загрузка типово json файлов из data.mos.ru |Формат таблицы Number/Type/IsUse")]
+    public void LoadDataMosRuType([FromBody] string path)
+    {
+        Service.LoadDataMosRuType(path);
+
     }
 }

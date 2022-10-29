@@ -8,14 +8,14 @@ namespace Q10.Pickpoint.API.Controllers;
 [ApiController]
 [EnableCors("CorsApi")]
 [Route("[controller]")]
-public abstract class BaseController : Controller
+public abstract class BaseController<T> : Controller where T : IGeneralService
 {
     protected IMapper Mapper { get; }
-    protected IBaseService BaseService { get; }
+    protected T Service { get; }
 
-    protected BaseController(IMapper mapper, IBaseService baseService)
+    protected BaseController(IMapper mapper, IGeneralService generalService)
     {
         Mapper = mapper;
-        BaseService = baseService;
+        Service = (T)generalService;
     }
 }

@@ -3,19 +3,19 @@ using System.Net;
 using System.Text.Json.Serialization;
 using NSwag.Generation.Processors.Security;
 using Q10.Pickpoint.API.Controllers.Extensions;
+using Q10.Pickpoint.Core;
 using Q10.Pickpoint.Models.Settings;
 
 namespace Q10.Pickpoint.API;
 
 public class Startup
 {
-    public AppConfig? AppConfig { get; }
     public Startup(IConfiguration configuration)
     {
         string currentEnvironment = configuration.GetValue<string>("ASPNETCORE_ENVIRONMENT") ?? string.Empty;
         IConfigurationBuilder builder = new ConfigurationBuilder().AddJsonFile($"appsettings{currentEnvironment}.json", true);
         Configuration = builder.Build();
-        AppConfig = builder.Build().Get<AppConfig>();
+        Instance.App.Config = builder.Build().Get<AppConfig>();
     }
 
     public IConfiguration Configuration { get; }

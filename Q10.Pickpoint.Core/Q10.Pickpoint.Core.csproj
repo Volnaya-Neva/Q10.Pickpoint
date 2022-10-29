@@ -7,8 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Q10.Pickpoint.DAL\Q10.Pickpoint.DAL.csproj" />
-    <ProjectReference Include="..\Q10.Pickpoint.ExcelInterop\Q10.Pickpoint.ExcelInterop.csproj" />
+    <ProjectReference Include="..\Q10.Pickpoint.Models\Q10.Pickpoint.Models.csproj" />
   </ItemGroup>
 
 </Project>

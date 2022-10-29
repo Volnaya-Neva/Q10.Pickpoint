@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Insight.Database.Core" Version="6.3.10" />
+    <PackageReference Include="Insight.Database.Providers.MsSqlClient" Version="6.3.10" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Q10.Pickpoint.Core\Q10.Pickpoint.Core.csproj" />
+  </ItemGroup>
+
+</Project>

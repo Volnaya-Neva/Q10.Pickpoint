@@ -22,7 +22,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Q10.Pickpoint.Business\Q10.Pickpoint.Business.csproj" />
-    <ProjectReference Include="..\Q10.Pickpoint.Models\Q10.Pickpoint.Models.csproj" />
   </ItemGroup>
 
 </Project>

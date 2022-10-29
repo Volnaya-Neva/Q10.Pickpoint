@@ -11,6 +11,12 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Q10.Pickpoint.Business", "Q
 EndProject
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Q10.Pickpoint.Db", "Q10.Pickpoint.Db\Q10.Pickpoint.Db.sqlproj", "{749BB9E7-C774-4F2C-BE3E-633800F48D24}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Q10.Pickpoint.Core", "Q10.Pickpoint.Core\Q10.Pickpoint.Core.csproj", "{31B7DFAE-7F0E-4F15-B5A6-10F74E578AC2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Q10.Pickpoint.ExcelInterop", "Q10.Pickpoint.ExcelInterop\Q10.Pickpoint.ExcelInterop.csproj", "{25F2AA62-E34B-4549-BAC9-67E2A9BBD00A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q10.Pickpoint.DAL", "Q10.Pickpoint.DAL\Q10.Pickpoint.DAL.csproj", "{016E5D2B-794E-4721-9CC3-AEC65146BABC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,6 +41,18 @@ Global
 		{749BB9E7-C774-4F2C-BE3E-633800F48D24}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{749BB9E7-C774-4F2C-BE3E-633800F48D24}.Release|Any CPU.Build.0 = Release|Any CPU
 		{749BB9E7-C774-4F2C-BE3E-633800F48D24}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{31B7DFAE-7F0E-4F15-B5A6-10F74E578AC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31B7DFAE-7F0E-4F15-B5A6-10F74E578AC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31B7DFAE-7F0E-4F15-B5A6-10F74E578AC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31B7DFAE-7F0E-4F15-B5A6-10F74E578AC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25F2AA62-E34B-4549-BAC9-67E2A9BBD00A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25F2AA62-E34B-4549-BAC9-67E2A9BBD00A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25F2AA62-E34B-4549-BAC9-67E2A9BBD00A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25F2AA62-E34B-4549-BAC9-67E2A9BBD00A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{016E5D2B-794E-4721-9CC3-AEC65146BABC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{016E5D2B-794E-4721-9CC3-AEC65146BABC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{016E5D2B-794E-4721-9CC3-AEC65146BABC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{016E5D2B-794E-4721-9CC3-AEC65146BABC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
