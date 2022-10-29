@@ -10,19 +10,17 @@ public class DataMosRuTypeTable : BaseTable
     {
     }
 
-    public override List<DataSet> Fill()
+    public override DataSet Fill()
     {
-        List<DataSet> dataSets = new();
+        DataSet dataSet = new();
         foreach (object[,] values in Values)
         {
-            DataSet dataSet = new();
             DataTable table = dataSet.Tables.Add(nameof(DataMosRuTypeTable));
             SetColumns(values, ref table);
             SetRows(values, ref table);
-            dataSets.Add(dataSet);
         }
 
-        return dataSets;
+        return dataSet;
     }
 
     private void SetColumns(object[,] values, ref DataTable table)

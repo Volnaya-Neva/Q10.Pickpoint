@@ -10,5 +10,5 @@ public abstract class BaseTable
 
     protected BaseTable(List<object[,]> values) => Values = values;
 
-    public abstract List<DataSet> Fill();
+    public abstract DataSet Fill();
 }

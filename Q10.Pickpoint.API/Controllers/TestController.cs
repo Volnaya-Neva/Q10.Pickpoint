@@ -21,6 +21,5 @@ public class TestController : BaseController<TestService>
     public void LoadDataMosRuType([FromBody] string path)
     {
         Service.LoadDataMosRuType(path);
-
     }
 }

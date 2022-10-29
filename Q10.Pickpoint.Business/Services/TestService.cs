@@ -10,7 +10,6 @@ public class TestService : BaseService<ITestRepository>, ITestService
 {
     public TestService(ITestRepository testRepository) : base(testRepository)
     {
-
     }
 
     public FeatureCollection GetGenFeatureCollection(int count)
@@ -47,7 +46,7 @@ public class TestService : BaseService<ITestRepository>, ITestService
         List<object[,]> values = excelMaster.ReadExcel(path);
         DataMosRuTypeTable table = new();
         excelMaster.ConvertToDataSet(values, ref table);
-        List<DataSet> dataSets = table.Fill();
-        dataSets.ForEach(Repository.WriteDataSets);
+        DataSet dataSet = table.Fill();
+        Repository.WriteDataSets(dataSet);
     }
 }
