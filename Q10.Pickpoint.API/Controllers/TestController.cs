@@ -22,4 +22,10 @@ public class TestController : BaseController<TestService>
     {
         Service.LoadDataMosRuType(path);
     }
+
+    [HttpGet("Json")]
+    public void G()
+    {
+
+    }
 }

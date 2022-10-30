@@ -1,0 +1,189 @@
+namespace Q10.Pickpoint.Models.JsonModel;
+
+public class Json2105
+{
+    public Feature[] Features { get; set; }
+    public string Type { get; set; }
+
+    public class Feature
+    {
+        public Geometry Geometry { get; set; }
+        public Properties Properties { get; set; }
+        public string Type { get; set; }
+    }
+
+    public class Geometry
+    {
+        public float[] Coordinates { get; set; }
+        public string Type { get; set; }
+    }
+
+    public class Properties
+    {
+        public string FullName { get; set; }
+        public string ShortName { get; set; }
+        public string CommonName { get; set; }
+        public string UniverType { get; set; }
+        public string AdmArea { get; set; }
+        public string District { get; set; }
+        public string ZipCode { get; set; }
+        public string Address { get; set; }
+        public string LegalAddress { get; set; }
+        public string ChiefPosition { get; set; }
+        public string ChiefName { get; set; }
+        public string Fax { get; set; }
+        public string Inn { get; set; }
+        public string Kpp { get; set; }
+        public string Ogrn { get; set; }
+        public string StateAccStatus { get; set; }
+        public string StateAccNum { get; set; }
+        public string StateAccDocSer { get; set; }
+        public string StateAccDocNum { get; set; }
+        public string StateAccDate { get; set; }
+        public string StateAccExp { get; set; }
+        public string LicStatus { get; set; }
+        public string LicNum { get; set; }
+        public string LicDocSer { get; set; }
+        public string LicDocNum { get; set; }
+        public string LicDate { get; set; }
+        public string LicExp { get; set; }
+        public string Subord { get; set; }
+        public int GlobalId { get; set; }
+        public int PublicPhoneisDeleted0 { get; set; }
+        public string PublicPhonePublicPhone0 { get; set; }
+        public int PublicPhoneGlobalId0 { get; set; }
+        public int PublicPhoneisDeleted1 { get; set; }
+        public string PublicPhonePublicPhone1 { get; set; }
+        public int PublicPhoneGlobalId1 { get; set; }
+        public int PublicPhoneisDeleted2 { get; set; }
+        public string PublicPhonePublicPhone2 { get; set; }
+        public int PublicPhoneGlobalId2 { get; set; }
+        public int EmailisDeleted0 { get; set; }
+        public string EmailEmail0 { get; set; }
+        public int EmailGlobalId0 { get; set; }
+        public int WebSiteisDeleted0 { get; set; }
+        public string WebSiteWebSite0 { get; set; }
+        public int WebSiteGlobalId0 { get; set; }
+        public int FacListisDeleted0 { get; set; }
+        public string FacListFacList0 { get; set; }
+        public int FacListGlobalId0 { get; set; }
+        public int FacListisDeleted1 { get; set; }
+        public string FacListFacList1 { get; set; }
+        public int FacListGlobalId1 { get; set; }
+        public int FacListisDeleted2 { get; set; }
+        public string FacListFacList2 { get; set; }
+        public int FacListGlobalId2 { get; set; }
+        public int FacListisDeleted3 { get; set; }
+        public string FacListFacList3 { get; set; }
+        public int FacListGlobalId3 { get; set; }
+        public int FacListisDeleted4 { get; set; }
+        public string FacListFacList4 { get; set; }
+        public int FacListGlobalId4 { get; set; }
+        public int FacListisDeleted5 { get; set; }
+        public string FacListFacList5 { get; set; }
+        public int FacListGlobalId5 { get; set; }
+        public int FacListisDeleted6 { get; set; }
+        public string FacListFacList6 { get; set; }
+        public int FacListGlobalId6 { get; set; }
+        public int FacListisDeleted7 { get; set; }
+        public string FacListFacList7 { get; set; }
+        public int FacListGlobalId7 { get; set; }
+        public int FacListisDeleted8 { get; set; }
+        public string FacListFacList8 { get; set; }
+        public int FacListGlobalId8 { get; set; }
+        public int FacListisDeleted9 { get; set; }
+        public string FacListFacList9 { get; set; }
+        public int FacListGlobalId9 { get; set; }
+        public int FacListisDeleted10 { get; set; }
+        public string FacListFacList10 { get; set; }
+        public int FacListGlobalId10 { get; set; }
+        public int FacListisDeleted11 { get; set; }
+        public string FacListFacList11 { get; set; }
+        public int FacListGlobalId11 { get; set; }
+        public int FacListisDeleted12 { get; set; }
+        public string FacListFacList12 { get; set; }
+        public int FacListGlobalId12 { get; set; }
+        public int FacListisDeleted13 { get; set; }
+        public string FacListFacList13 { get; set; }
+        public int FacListGlobalId13 { get; set; }
+        public int FacListisDeleted14 { get; set; }
+        public string FacListFacList14 { get; set; }
+        public int FacListGlobalId14 { get; set; }
+        public int FacListisDeleted15 { get; set; }
+        public string FacListFacList15 { get; set; }
+        public int FacListGlobalId15 { get; set; }
+        public int FacListisDeleted16 { get; set; }
+        public string FacListFacList16 { get; set; }
+        public int FacListGlobalId16 { get; set; }
+        public int FacListisDeleted17 { get; set; }
+        public string FacListFacList17 { get; set; }
+        public int FacListGlobalId17 { get; set; }
+        public int FacListisDeleted18 { get; set; }
+        public string FacListFacList18 { get; set; }
+        public int FacListGlobalId18 { get; set; }
+        public int FacListisDeleted19 { get; set; }
+        public string FacListFacList19 { get; set; }
+        public int FacListGlobalId19 { get; set; }
+        public int FacListisDeleted20 { get; set; }
+        public string FacListFacList20 { get; set; }
+        public int FacListGlobalId20 { get; set; }
+        public int FacListisDeleted21 { get; set; }
+        public string FacListFacList21 { get; set; }
+        public int FacListGlobalId21 { get; set; }
+        public int FacListisDeleted22 { get; set; }
+        public string FacListFacList22 { get; set; }
+        public int FacListGlobalId22 { get; set; }
+        public int FacListisDeleted23 { get; set; }
+        public string FacListFacList23 { get; set; }
+        public int FacListGlobalId23 { get; set; }
+        public int FacListisDeleted24 { get; set; }
+        public string FacListFacList24 { get; set; }
+        public int FacListGlobalId24 { get; set; }
+        public int FacListisDeleted25 { get; set; }
+        public string FacListFacList25 { get; set; }
+        public int FacListGlobalId25 { get; set; }
+        public int FacListisDeleted26 { get; set; }
+        public string FacListFacList26 { get; set; }
+        public int FacListGlobalId26 { get; set; }
+        public int FacListisDeleted27 { get; set; }
+        public string FacListFacList27 { get; set; }
+        public int FacListGlobalId27 { get; set; }
+        public int FacListisDeleted28 { get; set; }
+        public string FacListFacList28 { get; set; }
+        public int FacListGlobalId28 { get; set; }
+        public int FacListisDeleted29 { get; set; }
+        public string FacListFacList29 { get; set; }
+        public int FacListGlobalId29 { get; set; }
+        public int FacListisDeleted30 { get; set; }
+        public string FacListFacList30 { get; set; }
+        public int FacListGlobalId30 { get; set; }
+        public int FacListisDeleted31 { get; set; }
+        public string FacListFacList31 { get; set; }
+        public int FacListGlobalId31 { get; set; }
+        public int FacListisDeleted32 { get; set; }
+        public string FacListFacList32 { get; set; }
+        public int FacListGlobalId32 { get; set; }
+        public int FacListisDeleted33 { get; set; }
+        public string FacListFacList33 { get; set; }
+        public int FacListGlobalId33 { get; set; }
+        public int FacListisDeleted34 { get; set; }
+        public string FacListFacList34 { get; set; }
+        public int FacListGlobalId34 { get; set; }
+        public int FacListisDeleted35 { get; set; }
+        public string FacListFacList35 { get; set; }
+        public int FacListGlobalId35 { get; set; }
+        public int FacListisDeleted36 { get; set; }
+        public string FacListFacList36 { get; set; }
+        public int FacListGlobalId36 { get; set; }
+        public int FacListisDeleted37 { get; set; }
+        public string FacListFacList37 { get; set; }
+        public int FacListGlobalId37 { get; set; }
+        public int FacListisDeleted38 { get; set; }
+        public string FacListFacList38 { get; set; }
+        public int FacListGlobalId38 { get; set; }
+        public int EmailisDeleted1 { get; set; }
+        public string EmailEmail1 { get; set; }
+        public int EmailGlobalId1 { get; set; }
+    }
+
+}
