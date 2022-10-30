@@ -2,5 +2,8 @@
 
 public abstract class JsonType2 : IJsonType
 {
-    
+    public void CreateModelForDb()
+    {
+        throw new NotImplementedException();
+    }
 }
