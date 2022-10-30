@@ -8,10 +8,11 @@ using Q10.Pickpoint.Models.JsonModel.Type2;
 using Q10.Pickpoint.Models.JsonModel.Type3;
 using Q10.Pickpoint.Serializer;
 using System.Data;
+using System.Runtime.InteropServices.JavaScript;
 
 namespace Q10.Pickpoint.Business.Services;
 
-public class TestService : BaseService<ITestRepository>, ITestService 
+public class TestService : BaseService<ITestRepository>, ITestService
 {
     public TestService(ITestRepository testRepository) : base(testRepository)
     {
@@ -69,16 +70,18 @@ public class TestService : BaseService<ITestRepository>, ITestService
                     using StreamReader streamReader = new(fileInfo.FullName);
                     string json = streamReader.ReadToEnd();
                     string name = fileInfo.Name.Replace(".json", string.Empty);
-                    bool isOk = Enum.TryParse($"_{name}", out JsonEnum jsonEnum);
-                    if (isOk)
+                    bool isOk = int.TryParse(name, out int number);
+                    if (!isOk) { continue; }
+                    isOk = Enum.TryParse($"_{name}", out JsonEnum jsonEnum);
+                    if (!isOk) { continue; }
+                    JsonManager jsonManager = new JsonManager();
+                    IJsonType? jsonType = SwitchJsonEnum(jsonEnum, json, jsonManager);
+                    if (jsonType is not null)
                     {
-                        JsonManager jsonManager = new JsonManager();
-                        IJsonType? jsonType = SwitchJsonEnum(jsonEnum, json, jsonManager);
-                        if (jsonType is not null)
-                        {
-                            jsonTypes.Add(jsonType);
-                        }
+                        jsonType.Number = number;
+                        jsonTypes.Add(jsonType);
                     }
+
                 }
                 catch (Exception e)
                 {
@@ -88,6 +91,16 @@ public class TestService : BaseService<ITestRepository>, ITestService
         }
 
         return jsonTypes;
+    }
+
+    public void WriteDbJsons(List<IJsonType> jsonTypes)
+    {
+        foreach (IJsonType jsonType in jsonTypes)
+        {
+            bool isUse = Repository.CheckIsUseByNumber(jsonType.Number);
+            if(!isUse) { continue; }
+            //Создать модель общую через jsonType.CreateModelForDb(); и захерачить в бд
+        }
     }
 
     private IJsonType? SwitchJsonEnum(JsonEnum jsonEnum, string json, JsonManager jsonManager)

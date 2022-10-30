@@ -2,5 +2,6 @@
 
 public interface IJsonType
 {
-    void CreateModelForDb();
+    public int Number { get; set; }
+    object CreateModelForDb();
 }

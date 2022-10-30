@@ -42,5 +42,6 @@ public class TestController : BaseController<TestService>
     public void LoadJsonSource([FromBody] string directory)
     {
         List<IJsonType> jsonTypes = Service.LoadJsonSource(directory);
+        Service.WriteDbJsons(jsonTypes);
     }
 }

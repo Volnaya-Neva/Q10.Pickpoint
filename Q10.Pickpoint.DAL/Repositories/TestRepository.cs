@@ -7,7 +7,7 @@ namespace Q10.Pickpoint.DAL.Repositories;
 
 public class TestRepository : BaseRepository, ITestRepository
 {
-    private IDataMosRuTypeRepositoryDb _dataMosRuTypeRepositoryDb;
+    private readonly IDataMosRuTypeRepositoryDb _dataMosRuTypeRepositoryDb;
     public TestRepository() => _dataMosRuTypeRepositoryDb = Connection.As<IDataMosRuTypeRepositoryDb>();
 
     public void WriteDataSets(DataSet dataSet)
@@ -29,5 +29,21 @@ public class TestRepository : BaseRepository, ITestRepository
         {
             Console.WriteLine(e);
         }
+    }
+
+    public bool CheckIsUseByNumber(int number)
+    {
+        bool isUse;
+        try
+        {
+            isUse = _dataMosRuTypeRepositoryDb.CheckIsUseByNumber(number);
+        }
+        catch (Exception e)
+        {
+            isUse = false;
+            Console.WriteLine($"Ошибка проверки {e.Message}");
+        }
+
+        return isUse;
     }
 }
