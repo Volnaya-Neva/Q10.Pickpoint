@@ -11,7 +11,7 @@ using System.Data;
 
 namespace Q10.Pickpoint.Business.Services;
 
-public class TestService : BaseService<ITestRepository>, ITestService
+public class TestService : BaseService<ITestRepository>, ITestService 
 {
     public TestService(ITestRepository testRepository) : base(testRepository)
     {
@@ -45,13 +45,13 @@ public class TestService : BaseService<ITestRepository>, ITestService
         return featureCollection;
     }
 
-    public void LoadDataMosRuType(string path)
+    public void LoadDataMosRuType<T>(string path) where T : BaseTable, new()
     {
         ExcelMaster excelMaster = new();
         List<object[,]> values = excelMaster.ReadExcel(path);
-        DataMosRuTypeTable table = new();
+        T table = new();
         excelMaster.ConvertToDataSet(values, ref table);
-        DataSet dataSet = table.Fill();
+        DataSet dataSet = table.Fill<T>();
         Repository.WriteDataSets(dataSet);
     }
 
