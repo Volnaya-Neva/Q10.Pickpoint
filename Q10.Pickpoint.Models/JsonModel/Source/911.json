@@ -1,0 +1,423 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.7530582017468,
+          55.7820486159923
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "веревочный городок - Панда парк",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Измайлово",
+        "Address": "аллея Большого Круга, дом 7",
+        "Email": "izmpark@mail.ru",
+        "WebSite": "izmailovsky-park.ru",
+        "HelpPhone": "(499) 166-61-19",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "да",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.04-30.10",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "грунтовое покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": "частично приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407122386
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6697690437888,
+          55.7954303419449
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "веревочный городок «Панда-парк»",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Сокольники",
+        "Address": "улица Сокольнический Вал, дом 1, строение 1",
+        "Email": "info@park.sokolniki.com",
+        "WebSite": "park.sokolniki.com",
+        "HelpPhone": "(499) 268-54-30",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "да",
+        "HasDressingRoom": "нет",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "да",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "грунтовое покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 930206183
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5144634883915,
+          55.7330956809152
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "городок веревочный",
+        "AdmArea": "Западный административный округ",
+        "District": "район Дорогомилово",
+        "Address": "площадь Победы, дом 3, строение 2",
+        "Email": "info@poklonnaya-gora.ru",
+        "WebSite": "wikiway.com/russia/moskva/poklonnaya-gora/",
+        "HelpPhone": "(499) 148-83-00",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.05-30.09",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 930206185
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4781865645709,
+          55.7507165210557
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "веревочный городок «Панда-парк»",
+        "AdmArea": "Западный административный округ",
+        "District": "район Филёвский Парк",
+        "Address": "Большая Филёвская улица, дом 22, строение 2",
+        "Email": "info@parkfili.com",
+        "WebSite": "parkfili.com",
+        "HelpPhone": "(499) 145-45-05",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "освещение лампами накаливания",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 930212488
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4335529423615,
+          55.7720393759378
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "городок веревочный, «Эверест»",
+        "AdmArea": "Западный административный округ",
+        "District": "район Крылатское",
+        "Address": "Крылатская улица, дом 30, строение 2",
+        "Email": "info@parkskazka.com",
+        "WebSite": "parkskazka.com/",
+        "HelpPhone": "(499) 113-45-96",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "да",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "да",
+        "HasFirstAidPost": "да",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1047335082
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.756383123294,
+          55.6618420980121
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "парк веревочный «Гулливер»",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Марьино",
+        "Address": "улица Перерва, дом 41, корпус 1",
+        "Email": "park850@mail.ru",
+        "WebSite": "parkseason.ru/parki-moskvi/park-im-artema-borovika/",
+        "HelpPhone": "(495) 657-45-12",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "да",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "15.04-31.12",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "деревянное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1047339897
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6144593994461,
+          55.8351136716459
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "городок веревочный, «Скай Таун Канатные джунгли»",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Останкинский район",
+        "Address": "проспект Мира, дом 119, строение 6",
+        "Email": "info@vvcentre.ru",
+        "WebSite": "vdnh.ru",
+        "HelpPhone": "(495) 748-35-00",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "да",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "да",
+        "HasFirstAidPost": "да",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.09-31.08",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": "частично приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1047340039
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6745903744354,
+          55.6131966246771
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "городок веревочный",
+        "AdmArea": "Южный административный округ",
+        "District": "район Бирюлёво Восточное",
+        "Address": "Дольская улица, дом 1",
+        "Email": "gmz@tsaritsyno.net",
+        "WebSite": "www.tsaritsyno-museum.ru",
+        "HelpPhone": "(495) 321-63-66",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "да",
+        "HasTechService": "да",
+        "HasDressingRoom": "нет",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "да",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.05-30.09",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "асфальтовое, бетонное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1047358040
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.438351,
+          55.560204
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "городок веревочный",
+        "AdmArea": "Новомосковский административный округ",
+        "District": "поселение Сосенское",
+        "Address": "деревня Сосенки, дом 43А",
+        "Email": "info@birdsandbees.ru",
+        "WebSite": "birdsandbees.ru/",
+        "HelpPhone": "(495) 225-38-38",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "да",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "да",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.05-31.10",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1123996048
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.362595521147,
+          55.8369379768844
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "городок веревочный, «Панда парк»",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Митино",
+        "Address": "улица Барышиха, дом 8",
+        "Email": "info@bapark.ru",
+        "WebSite": "bapark.ru",
+        "HelpPhone": "(499) 184-34-22",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1124001781
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5735265341701,
+          55.6074398965835
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "городок веревочный",
+        "AdmArea": "Южный административный округ",
+        "District": "район Чертаново Центральное",
+        "Address": "улица Красного Маяка, дом 28",
+        "Email": "mayak@sport-vsegda.ru",
+        "WebSite": "sport-vsegda.ru/stadionkrasnyimayak",
+        "HelpPhone": "(495) 727-27-26",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "да",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "да",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "газонное покрытие (натуральное)",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 2366651731
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

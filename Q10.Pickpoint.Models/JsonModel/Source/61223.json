@@ -1,0 +1,125 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.5448079876053,
+          55.7084980084775
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameObservationPlatform": "Смотровая площадка «Воробьевы горы»",
+        "AdmArea": "Западный административный округ",
+        "District": "район Раменки",
+        "Address": "город Москва, улица Косыгина, владение 28, з/у 1",
+        "RefineLocation": "",
+        "NumberFreeBinoculars": 5,
+        "NumberPaidBinoculars": 0,
+        "globalid": 896550224
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6055378626577,
+          55.7444788106923
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameObservationPlatform": "Смотровая площадка на Храме Христа Спасителя",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Хамовники",
+        "Address": "город Москва, улица Волхонка, дом 15",
+        "RefineLocation": "",
+        "NumberFreeBinoculars": 0,
+        "NumberPaidBinoculars": 2,
+        "globalid": 896550289
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6720282345837,
+          55.6746314053413
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameObservationPlatform": "Смотровая площадка Объединенного художественного историко – архитектурного и природно – ландшафтного музея – заповедника «Коломенское»",
+        "AdmArea": "Южный административный округ",
+        "District": "район Нагатинский Затон",
+        "Address": "город Москва, проспект Андропова, владение 39, строение 61",
+        "RefineLocation": "",
+        "NumberFreeBinoculars": 2,
+        "NumberPaidBinoculars": 0,
+        "globalid": 896550316
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6116267691991,
+          55.8197158890093
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameObservationPlatform": "Останкинская телебашня",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Останкинский район",
+        "Address": "город Москва, улица Академика Королёва, дом 15, корпус 1",
+        "RefineLocation": "",
+        "NumberFreeBinoculars": 5,
+        "NumberPaidBinoculars": 0,
+        "globalid": 896550536
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5876719441792,
+          55.7181397652346
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameObservationPlatform": "Смотровая площадка на входе (колоннаде) ЦПКиО имени Горького",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Якиманка",
+        "Address": "город Москва, улица Крымский Вал, дом 9, строение 1Б/Н",
+        "RefineLocation": "",
+        "NumberFreeBinoculars": 0,
+        "NumberPaidBinoculars": 2,
+        "globalid": 896550556
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6248862007303,
+          55.7601694252716
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameObservationPlatform": "Смотровая площадка в здании Центрального Детского мира",
+        "AdmArea": "Центральный административный округ",
+        "District": "Мещанский район",
+        "Address": "город Москва, Театральный проезд, дом 5, строение 1",
+        "RefineLocation": "",
+        "NumberFreeBinoculars": 2,
+        "NumberPaidBinoculars": 0,
+        "globalid": 896550567
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

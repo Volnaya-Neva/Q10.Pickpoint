@@ -1,0 +1,716 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.51987058477,
+          55.770341232215
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 1,
+        "FullNameen": "Государственное бюджетное учреждение «Автомобильные дороги»",
+        "ShortNameen": "ГБУ «Автомобильные дороги»",
+        "INNen": "7727656790",
+        "KPPen": "771401001",
+        "OGRNen": "1087746839487",
+        "AdmAreaen": "Severny'j administrativny'j okrug",
+        "Districten": "Xoroshyovskij rajon",
+        "Addressen": "1-я Магистральная улица, дом 23",
+        "Emailen": "ador-kanc@dom.mos.ru",
+        "globalid": 1699185,
+        "Phoneenisdeleted0": 0,
+        "PhoneenPhoneen0": "(499) 722-90-00",
+        "Phoneenglobalid0": 399
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.680921516444,
+          55.750538121966
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 2,
+        "FullNameen": "Государственное бюджетное учреждение по эксплуатации и ремонту инженерных сооружений «Гормост»",
+        "ShortNameen": "ГБУ «Гормост»",
+        "INNen": "7722765428",
+        "KPPen": "772201001",
+        "OGRNen": "5117746071119",
+        "AdmAreaen": "Yugo-Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Lefortovo",
+        "Addressen": "Верхний Золоторожский переулок, дом 5, корпус 3",
+        "Emailen": "gormost@dom.mos.ru",
+        "globalid": 1699186,
+        "Phoneenisdeleted0": 0,
+        "PhoneenPhoneen0": "(495) 632-58-03",
+        "Phoneenglobalid0": 272,
+        "Phoneenisdeleted1": 0,
+        "PhoneenPhoneen1": "(495) 632-58-07",
+        "Phoneenglobalid1": 273,
+        "Phoneenisdeleted2": 0,
+        "PhoneenPhoneen2": "(495) 632-58-32",
+        "Phoneenglobalid2": 274,
+        "Phoneenisdeleted3": 0,
+        "PhoneenPhoneen3": "(495) 361-38-79",
+        "Phoneenglobalid3": 275
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6871464891019,
+          55.7413782775456
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 4,
+        "FullNameen": "Государственное казенное учреждение «Центр координации деятельности государственных учреждений инженерных служб административных округов и районов города Москвы»",
+        "ShortNameen": "ГКУ «Центр координации ГУ ИС»",
+        "INNen": "7709824226",
+        "KPPen": "770901001",
+        "OGRNen": "1097746035001",
+        "AdmAreaen": "Czentral`ny'j administrativny'j okrug",
+        "Districten": "Taganskij rajon",
+        "Addressen": "Рабочая улица, дом 37",
+        "Emailen": "guis-info@dom.mos.ru",
+        "globalid": 1699188,
+        "Phoneenisdeleted0": 0,
+        "PhoneenPhoneen0": "(495) 221-39-30",
+        "Phoneenglobalid0": 376
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.62823778912,
+          55.772705295298
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 5,
+        "FullNameen": "Государственное казенное учреждение города Москвы «Городской центр жилищных субсидий»",
+        "ShortNameen": "ГКУ «ГЦЖС»",
+        "INNen": "7702361280",
+        "KPPen": "770201001",
+        "OGRNen": "1047702001016",
+        "AdmAreaen": "Czentral`ny'j administrativny'j okrug",
+        "Districten": "Meshhanskij rajon",
+        "Addressen": "Малая Сухаревская площадь, дом 2-4, строение 1",
+        "Emailen": "gcjs-info@dom.mos.ru",
+        "globalid": 1699189,
+        "Phoneenisdeleted0": 0,
+        "PhoneenPhoneen0": "(495) 608-22-64",
+        "Phoneenglobalid0": 286
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.596595362456,
+          55.770687118345
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 6,
+        "FullNameen": "Государственное бюджетное учреждение города Москвы «Доринвест»",
+        "ShortNameen": "ГБУ «Доринвест»",
+        "INNen": "7710958150",
+        "KPPen": "771001001",
+        "OGRNen": "1147746225175",
+        "AdmAreaen": "Czentral`ny'j administrativny'j okrug",
+        "Districten": "Tverskoj rajon",
+        "Addressen": "2-я Тверская-Ямская улица, дом 2",
+        "Emailen": "gbudorinvest@mos.ru",
+        "globalid": 1699190,
+        "Phoneenisdeleted0": 0,
+        "PhoneenPhoneen0": "(499) 250-06-30",
+        "Phoneenglobalid0": 287
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.598199719143,
+          55.750027343674
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 9,
+        "FullNameen": "Государственное бюджетное учреждение города Москвы «Московский аналитический центр в сфере городского хозяйства»",
+        "ShortNameen": "ГБУ «МАЦ»",
+        "INNen": "7701989480",
+        "KPPen": "770101001",
+        "OGRNen": "1137746148242",
+        "AdmAreaen": "Czentral`ny'j administrativny'j okrug",
+        "Districten": "Basmanny'j rajon",
+        "Addressen": "Филипповский переулок, дом 13, строение 1",
+        "Emailen": "GBUmac-secr@dom.mos.ru",
+        "globalid": 1699192,
+        "Phoneenisdeleted0": 0,
+        "PhoneenPhoneen0": "(495) 775-87-70",
+        "Phoneenglobalid0": 378
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.660843518835,
+          55.769519495779
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 25,
+        "FullNameen": "Государственное казенное учреждение города Москвы «Центр информационного обеспечения и содействия реформе в жилищно-коммунальном хозяйстве города Москвы»",
+        "ShortNameen": "ГКУ «Центр реформы в ЖКХ»",
+        "INNen": "7701292227",
+        "KPPen": "770101001",
+        "OGRNen": "1027739073548",
+        "AdmAreaen": "Czentral`ny'j administrativny'j okrug",
+        "Districten": "Basmanny'j rajon",
+        "Addressen": "Новая Басманная улица, дом 18, строение 1",
+        "Emailen": "center@kgh.mos.ru",
+        "globalid": 1699201,
+        "Phoneenisdeleted0": 0,
+        "PhoneenPhoneen0": "(499) 267-40-90",
+        "Phoneenglobalid0": 266
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.567128101544,
+          55.748371787771
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 26,
+        "FullNameen": "Государственное бюджетное учреждение города Москвы по эксплуатации высотных административных и жилых домов",
+        "ShortNameen": "ГБУ ЭВАЖД",
+        "INNen": "7730199840",
+        "KPPen": "773001001",
+        "OGRNen": "1027700326840",
+        "AdmAreaen": "Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Dorogomilovo",
+        "Addressen": "2-я Бородинская улица, дом 17",
+        "Emailen": "orgotdel@evagd.ru",
+        "globalid": 1699202,
+        "Phoneenisdeleted0": 0,
+        "PhoneenPhoneen0": "(499) 243-07-27",
+        "Phoneenglobalid0": 267
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.619103617098,
+          55.733009568695
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 27,
+        "FullNameen": "Государственное унитарное предприятие «Экотехпром»",
+        "ShortNameen": "ГУП «Экотехпром»",
+        "INNen": "7706043312",
+        "KPPen": "770601001",
+        "OGRNen": "1027739016161",
+        "AdmAreaen": "Czentral`ny'j administrativny'j okrug",
+        "Districten": "rajon Yakimanka",
+        "Addressen": "улица Большая Полянка, дом 42, строение 1",
+        "Emailen": "company@eco-pro.ru",
+        "globalid": 1699203,
+        "Phoneenisdeleted0": 0,
+        "PhoneenPhoneen0": "(499) 238-49-34",
+        "Phoneenglobalid0": 268
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.674354940224,
+          55.771354777413
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 16,
+        "FullNameen": "Акционерное общество «Мосводоканал»",
+        "ShortNameen": "АО «Мосводоканал»",
+        "INNen": "7701984274",
+        "KPPen": "774850001",
+        "OGRNen": "1127747298250",
+        "AdmAreaen": "Czentral`ny'j administrativny'j okrug",
+        "Districten": "Basmanny'j rajon",
+        "Addressen": "Плетешковский переулок, дом 2",
+        "Emailen": "post@mosvodokanal.ru",
+        "globalid": 1699206,
+        "Phoneenisdeleted0": 0,
+        "PhoneenPhoneen0": "(499) 763-34-34",
+        "Phoneenglobalid0": 303
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.531774709514,
+          55.743804306965
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 17,
+        "FullNameen": "Государственное унитарное предприятие «Мосводосток»",
+        "ShortNameen": "ГУП «Мосводосток»",
+        "INNen": "7705013033",
+        "KPPen": "770501001",
+        "OGRNen": "1027739015567",
+        "AdmAreaen": "Czentral`ny'j administrativny'j okrug",
+        "Districten": "rajon Zamoskvorech`e",
+        "Addressen": "улица Набережная Тараса Шевченко, дом 31",
+        "Emailen": "cancel@mosvodostok.info",
+        "globalid": 1699207,
+        "Phoneenisdeleted0": 0,
+        "PhoneenPhoneen0": "(495) 657-87-02",
+        "Phoneenglobalid0": 422
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.614045816129,
+          55.817903438745
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 18,
+        "FullNameen": "Государственное бюджетное учреждение города Москвы Озеленение",
+        "ShortNameen": "ГБУ Озеленение",
+        "INNen": "9717025245",
+        "KPPen": "771701001",
+        "OGRNen": "1167746446383",
+        "AdmAreaen": "Severo-Vostochny'j administrativny'j okrug",
+        "Districten": "Ostankinskij rajon",
+        "Addressen": "Прудовой проезд, дом 13, строение 8",
+        "Emailen": "info@zelenhoz.ru",
+        "globalid": 1699208,
+        "Phoneenisdeleted0": 0,
+        "PhoneenPhoneen0": "(495) 615-31-39",
+        "Phoneenglobalid0": 308
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.572666578367,
+          55.783242310589
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 19,
+        "FullNameen": "Акционерное общество «Мослифт»",
+        "ShortNameen": "АО «Мослифт»",
+        "INNen": "7714941510",
+        "KPPen": "771401001",
+        "OGRNen": "1147746872701",
+        "AdmAreaen": "Severny'j administrativny'j okrug",
+        "Districten": "rajon Begovoj",
+        "Addressen": "Ленинградский проспект, дом 26, корпус 1",
+        "Emailen": "info@moslift.ru",
+        "globalid": 1699209,
+        "Phoneenisdeleted0": 0,
+        "PhoneenPhoneen0": "(499) 755-22-00",
+        "Phoneenglobalid0": 309
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.598684853333,
+          55.74249978739
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 21,
+        "FullNameen": "Государственное казенное учреждение города Москвы по организации обращения с отходами производства и потребления «Мосэкопром»",
+        "ShortNameen": "ГКУ «Мосэкопром»",
+        "INNen": "7743709375",
+        "KPPen": "770401001",
+        "OGRNen": "5087746232426",
+        "AdmAreaen": "Czentral`ny'j administrativny'j okrug",
+        "Districten": "rajon Xamovniki",
+        "Addressen": "Всеволожский переулок, дом 3",
+        "Emailen": "mosecoprom@dom.mos.ru",
+        "globalid": 1699211,
+        "Phoneenisdeleted0": 0,
+        "PhoneenPhoneen0": "(495) 637-70-10",
+        "Phoneenglobalid0": 311
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.640124194327,
+          55.802074987982
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 45,
+        "FullNameen": "Государственное унитарное предприятие МОССВЕТ",
+        "ShortNameen": "ГУП Моссвет",
+        "INNen": "7703214270",
+        "KPPen": "770301001",
+        "OGRNen": "1027700073081",
+        "AdmAreaen": "Czentral`ny'j administrativny'j okrug",
+        "Districten": "Presnenskij rajon",
+        "Addressen": "Кучин переулок, дом 8, строение 1",
+        "Emailen": "mossvet@mossvet.ru",
+        "globalid": 409948400,
+        "Phoneenisdeleted0": 0,
+        "PhoneenPhoneen0": "(495) 683-94-00",
+        "Phoneenglobalid0": 421
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.639144755286,
+          55.773931328603
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 31,
+        "FullNameen": "Акционерное общество Москоллектор",
+        "ShortNameen": "АО Москоллектор",
+        "INNen": "7708000882",
+        "KPPen": "770801001",
+        "OGRNen": "1027700385008",
+        "AdmAreaen": "Czentral`ny'j administrativny'j okrug",
+        "Districten": "Krasnosel`skij rajon",
+        "Addressen": "1-й Коптельский переулок, 14-16, строение 4",
+        "Emailen": "Kancler@moscollector.ru",
+        "globalid": 409958177,
+        "Phoneenisdeleted0": 0,
+        "PhoneenPhoneen0": "(499) 222-22-01",
+        "Phoneenglobalid0": 370
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.618799191175,
+          55.772853067112
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 33,
+        "FullNameen": "Государственного казенного учреждения города Москвы Энергетика",
+        "ShortNameen": "ГКУ Энергетика",
+        "INNen": "7707703787",
+        "KPPen": "770701001",
+        "OGRNen": "1097746266694",
+        "AdmAreaen": "Czentral`ny'j administrativny'j okrug",
+        "Districten": "Tverskoj rajon",
+        "Addressen": "Цветной бульвар, дом 25, строение 4",
+        "Emailen": "info@energo.mos.ru",
+        "globalid": 409965680,
+        "Phoneenisdeleted0": 0,
+        "PhoneenPhoneen0": "(495) 694-61-50",
+        "Phoneenglobalid0": 372
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.785208275362,
+          55.794693966654
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 34,
+        "FullNameen": "Казенное предприятие Московская энергетическая дирекция",
+        "ShortNameen": "КП МЭД",
+        "INNen": "7719034354",
+        "KPPen": "771901001",
+        "OGRNen": "1027700513532",
+        "AdmAreaen": "Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Izmajlovo",
+        "Addressen": "4-я Парковая улица, дом 27",
+        "Emailen": "info@kpmed.ru",
+        "globalid": 409967840,
+        "Phoneenisdeleted0": 0,
+        "PhoneenPhoneen0": "(495) 662-18-66",
+        "Phoneenglobalid0": 373
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.637382164001,
+          55.760556556814
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 37,
+        "FullNameen": "Акционерное общество «Мосгорсвет»",
+        "ShortNameen": "АО «Мосгорсвет»",
+        "INNen": "7703551276",
+        "KPPen": "770301001",
+        "OGRNen": "1057746902960",
+        "AdmAreaen": "Czentral`ny'j administrativny'j okrug",
+        "Districten": "Basmanny'j rajon",
+        "Addressen": "Армянский переулок, дом 3, строение 11",
+        "Emailen": "mosgorsvet@mail.ru",
+        "globalid": 905440934,
+        "Phoneenisdeleted0": 0,
+        "PhoneenPhoneen0": "(495) 628-06-02",
+        "Phoneenglobalid0": 423
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.628105332947,
+          55.748237974046
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 38,
+        "FullNameen": "Акционерное общество «Объединенная энергетическая компания»",
+        "ShortNameen": "АО «ОЭК»",
+        "INNen": "7720522853",
+        "KPPen": "997650001",
+        "OGRNen": "1057746394155",
+        "AdmAreaen": "Czentral`ny'j administrativny'j okrug",
+        "Districten": "rajon Zamoskvorech`e",
+        "Addressen": "Раушская набережная, дом 8",
+        "Emailen": "info@uneco.ru",
+        "globalid": 905446812,
+        "Phoneenisdeleted0": 0,
+        "PhoneenPhoneen0": "(495) 660-59-29",
+        "Phoneenglobalid0": 418
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.486541768613,
+          55.665776641527
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 39,
+        "FullNameen": "Публичное акционерное общество энергетики и электрификации «Мосэнерго»",
+        "ShortNameen": "ПАО «Мосэнерго»",
+        "INNen": "7705035012",
+        "KPPen": "997650001",
+        "OGRNen": "1027700302420",
+        "AdmAreaen": "Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Troparyovo-Nikulino",
+        "Addressen": "проспект Вернадского, дом 101, корпус 3",
+        "Emailen": "mosenergo@mosenergo.ru",
+        "globalid": 905461370,
+        "Phoneenisdeleted0": 0,
+        "PhoneenPhoneen0": "(495) 957-19-57",
+        "Phoneenglobalid0": 391
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.486620167432,
+          55.665621416176
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 40,
+        "FullNameen": "Публичное акционерное общество «Московская объединенная энергетическая компания»",
+        "ShortNameen": "ПАО «МОЭК»",
+        "INNen": "7720518494",
+        "KPPen": "772901001",
+        "OGRNen": "1047796974092",
+        "AdmAreaen": "Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Troparyovo-Nikulino",
+        "Addressen": "проспект Вернадского, дом 101, корпус 3",
+        "Emailen": "info@moek.ru",
+        "globalid": 905472722,
+        "Phoneenisdeleted0": 0,
+        "PhoneenPhoneen0": "(495) 587-77-88",
+        "Phoneenglobalid0": 394
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.645714593476,
+          55.713130201306
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 41,
+        "FullNameen": "Публичное акционерное общество «Россети Московский регион»",
+        "ShortNameen": "ПАО «Россети Московский регион»",
+        "INNen": "5036065113",
+        "KPPen": "772501001",
+        "OGRNen": "1057746555811",
+        "AdmAreaen": "Yuzhny'j administrativny'j okrug",
+        "Districten": "Danilovskij rajon",
+        "Addressen": "2-й Павелецкий проезд, дом 3, строение 2",
+        "Emailen": "client@rossetimr.ru",
+        "globalid": 905482165,
+        "Phoneenisdeleted0": 0,
+        "PhoneenPhoneen0": "(495) 662-40-70",
+        "Phoneenglobalid0": 395
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.570927753448,
+          55.693924860299
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 42,
+        "FullNameen": "Акционерное общество\n«Мосэнергосбыт»",
+        "ShortNameen": "АО «Мосэнергосбыт»",
+        "INNen": "7736520080",
+        "KPPen": "997650001",
+        "OGRNen": "1057746557329",
+        "AdmAreaen": "Yugo-Zapadny'j administrativny'j okrug",
+        "Districten": "Akademicheskij rajon",
+        "Addressen": " улица Вавилова, дом 9",
+        "Emailen": "info@mosenergosbyt.ru",
+        "globalid": 905486694,
+        "Phoneenisdeleted0": 0,
+        "PhoneenPhoneen0": "(499) 550-95-50",
+        "Phoneenglobalid0": 413
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.659528066543,
+          55.7349535998
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 43,
+        "FullNameen": "Государственное бюджетное учреждение города Москвы «Единый информационно-расчетный центр города Москвы»",
+        "ShortNameen": "ГБУ «ЕИРЦ города Москвы»",
+        "INNen": "7710918359",
+        "KPPen": "770501001",
+        "OGRNen": "1127746615831",
+        "AdmAreaen": "Czentral`ny'j administrativny'j okrug",
+        "Districten": "Taganskij rajon",
+        "Addressen": "Воронцовский переулок, дом 2,  строение 1",
+        "Emailen": "gbueirc-info@dom.mos.ru",
+        "globalid": 905488928,
+        "Phoneenisdeleted0": 0,
+        "PhoneenPhoneen0": "(495) 114-55-26",
+        "Phoneenglobalid0": 398
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.667421179016,
+          55.757467095361
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 44,
+        "FullNameen": "Акционерное общество «МОСГАЗ»",
+        "ShortNameen": "АО «МОСГАЗ»",
+        "INNen": "7709919968",
+        "KPPen": "770901001",
+        "OGRNen": "1127747295686",
+        "AdmAreaen": "Czentral`ny'j administrativny'j okrug",
+        "Districten": "Basmanny'j rajon",
+        "Addressen": "Мрузовский переулок, дом 11, строение 1",
+        "Emailen": "info@mos-gaz.ru",
+        "globalid": 911553212,
+        "Phoneenisdeleted0": 0,
+        "PhoneenPhoneen0": "(495) 660-60-80",
+        "Phoneenglobalid0": 424
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6772124735361,
+          55.8541739716328
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 22,
+        "FullNameen": "Государственное унитарное предприятие «Московский городской центр дезинфекции»",
+        "ShortNameen": "ГУП «МГЦД»",
+        "INNen": "7716082078",
+        "KPPen": "771601001",
+        "OGRNen": "1037739394990",
+        "AdmAreaen": "Severo-Vostochny'j administrativny'j okrug",
+        "Districten": "Yaroslavskij rajon",
+        "Addressen": "Москва, Ярославское шоссе, д. 9",
+        "Emailen": "office@mgcd.ru",
+        "globalid": 1146947362,
+        "Phoneenisdeleted0": 0,
+        "PhoneenPhoneen0": "(499) 188-33-33",
+        "Phoneenglobalid0": 427
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

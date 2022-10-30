@@ -1,0 +1,67 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.6071161,
+          55.7734946
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Департамент здравоохранения города Москвы",
+        "ShortName": "ДЗМ",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "Оружейный переулок, дом 43, строение 1",
+        "ChiefName": "Хрипун Алексей Иванович",
+        "ChiefPosition": "руководитель",
+        "ChiefGender": "мужской",
+        "WebSite": "www.mosgorzdrav.ru",
+        "INN": "7707089084",
+        "KPP": "770701001",
+        "ExtraInfo": "",
+        "globalid": 30541580,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhoneglobalid0": 4827,
+        "PublicPhonePublicPhone0": "",
+        "Faxisdeleted0": 0,
+        "Faxglobalid0": 2,
+        "FaxFax0": "",
+        "Emailisdeleted0": 0,
+        "Emailglobalid0": 2850,
+        "EmailEmail0": "",
+        "WorkingHoursisdeleted0": 0,
+        "WorkingHoursglobalid0": 82443,
+        "WorkingHoursDayOfWeek0": null,
+        "WorkingHoursHours0": "",
+        "WorkingHoursisdeleted1": 0,
+        "WorkingHoursglobalid1": 82444,
+        "WorkingHoursDayOfWeek1": null,
+        "WorkingHoursHours1": "",
+        "WorkingHoursisdeleted2": 0,
+        "WorkingHoursglobalid2": 82445,
+        "WorkingHoursDayOfWeek2": null,
+        "WorkingHoursHours2": "",
+        "WorkingHoursisdeleted3": 0,
+        "WorkingHoursglobalid3": 82446,
+        "WorkingHoursDayOfWeek3": null,
+        "WorkingHoursHours3": "",
+        "WorkingHoursisdeleted4": 0,
+        "WorkingHoursglobalid4": 82447,
+        "WorkingHoursDayOfWeek4": null,
+        "WorkingHoursHours4": "",
+        "WorkingHoursisdeleted5": 0,
+        "WorkingHoursglobalid5": 82448,
+        "WorkingHoursDayOfWeek5": null,
+        "WorkingHoursHours5": "",
+        "WorkingHoursisdeleted6": 0,
+        "WorkingHoursglobalid6": 82449,
+        "WorkingHoursDayOfWeek6": null,
+        "WorkingHoursHours6": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

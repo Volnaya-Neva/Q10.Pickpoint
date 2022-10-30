@@ -1,0 +1,467 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.1536562781901,
+          55.9869795157353
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectName": "Дворовая территория",
+        "NameSummer": "поле регбийное",
+        "AdmArea": "Зеленоградский административный округ",
+        "District": "район Крюково",
+        "Address": "город Зеленоград, корпус 1437",
+        "Email": "krukovo@mos.ru",
+        "WebSite": "krukovo.mos.ru",
+        "HelpPhone": "(499) 717-23-95",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "EquipmentRentalComments": "",
+        "HasTechService": "нет",
+        "TechServiceComments": "",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.08-30.09",
+        "Lighting": "освещение газоразрядными лампами",
+        "SurfaceTypeSummer": "газонное покрытие (искусственное)",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "PaidComments": "",
+        "DisabilityFriendly": "частично приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407267109
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5000378279559,
+          55.7498661871933
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectName": "Стадион «Фили»",
+        "NameSummer": "поле регбийное",
+        "AdmArea": "Западный административный округ",
+        "District": "район Филёвский Парк",
+        "Address": "Новозаводская улица, дом 27А, строение 1",
+        "Email": "info@sportcosmos.ru",
+        "WebSite": "www.sportcosmos.ru/sk-fili",
+        "HelpPhone": "(495) 120-51-20",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "EquipmentRentalComments": "",
+        "HasTechService": "нет",
+        "TechServiceComments": "",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "25.04-30.10",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "газонное покрытие (натуральное)",
+        "Seats": 2500,
+        "Paid": "платно",
+        "PaidComments": "",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 423037247
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.2213412102928,
+          55.9873439340475
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectName": "Комплекс спортивных сооружений «ГБУ «СШОР № 111» Москомспорта»",
+        "NameSummer": "поле регбийное",
+        "AdmArea": "Зеленоградский административный округ",
+        "District": "район Савёлки",
+        "Address": "город Зеленоград, Озёрная аллея, дом 10",
+        "Email": "s111@mossport.ru",
+        "WebSite": "s111.mossport.ru",
+        "HelpPhone": "(499) 735-99-81",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "EquipmentRentalComments": "",
+        "HasTechService": "да",
+        "TechServiceComments": "",
+        "HasDressingRoom": "да",
+        "HasEatery": "нет",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "да",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.09-31.08",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "газонное покрытие (искусственное)",
+        "Seats": 700,
+        "Paid": "бесплатно",
+        "PaidComments": "",
+        "DisabilityFriendly": "частично приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 628710809
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.590450866205,
+          55.902392455817
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectName": "Спортивный комплекс образовательного учреждения",
+        "NameSummer": "поле регбийное",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Бибирево",
+        "Address": "Алтуфьевское шоссе, дом 94",
+        "Email": "gyms@edu.mos.ru",
+        "WebSite": "gsg.mskobr.ru",
+        "HelpPhone": "(495) 707-07-62",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "EquipmentRentalComments": "",
+        "HasTechService": "нет",
+        "TechServiceComments": "",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "да",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-30.11",
+        "Lighting": "освещение лампами накаливания",
+        "SurfaceTypeSummer": "газонное покрытие (искусственное)",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "PaidComments": "",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 628712808
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5366307921036,
+          55.8334352145031
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectName": "Спортивный комплекс высшего учебного заведения «Московский авиационный институт»",
+        "NameSummer": "поле регбийное",
+        "AdmArea": "Северный административный округ",
+        "District": "район Коптево",
+        "Address": "Большая Академическая улица, дом 38",
+        "Email": "mai@mai.ru",
+        "WebSite": "mai.ru",
+        "HelpPhone": "(499) 154-52-71",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "EquipmentRentalComments": "",
+        "HasTechService": "нет",
+        "TechServiceComments": "",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "газонное покрытие (искусственное)",
+        "Seats": 0,
+        "Paid": "платно",
+        "PaidComments": "",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1047335736
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5641220133716,
+          55.8856155066349
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectName": "Спортивный комплекс образовательного учреждения",
+        "NameSummer": "поле регбийное",
+        "AdmArea": "Северный административный округ",
+        "District": "район Восточное Дегунино",
+        "Address": "Керамический проезд, дом 59",
+        "Email": "spo-9@edu.mos.ru",
+        "WebSite": "kat-9.mskobr.ru",
+        "HelpPhone": "(499) 480-65-00",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "EquipmentRentalComments": "",
+        "HasTechService": "нет",
+        "TechServiceComments": "",
+        "HasDressingRoom": "да",
+        "HasEatery": "нет",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "газонное покрытие (натуральное)",
+        "Seats": 0,
+        "Paid": "платно",
+        "PaidComments": "",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1047349839
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.3798424714472,
+          55.6361358294928
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectName": "Дворовая территория",
+        "NameSummer": "поле регбийное",
+        "AdmArea": "Западный административный округ",
+        "District": "район Солнцево",
+        "Address": "Родниковая улица, дом 12, корпус 1, строение 1",
+        "Email": "solntsevo@mos.ru",
+        "WebSite": "solntsevo.mos.ru/",
+        "HelpPhone": "(495) 435-22-20",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "EquipmentRentalComments": "",
+        "HasTechService": "нет",
+        "TechServiceComments": "",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-30.11",
+        "Lighting": "освещение светодиодными лампами",
+        "SurfaceTypeSummer": "газонное покрытие (натуральное)",
+        "Seats": 20,
+        "Paid": "бесплатно",
+        "PaidComments": "",
+        "DisabilityFriendly": "частично приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1047350451
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.615301197681,
+          55.856882916399
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectName": "Спортивный комплекс образовательного учреждения",
+        "NameSummer": "поле регбийное",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Отрадное",
+        "Address": "Отрадная улица, дом 11Б",
+        "Email": "950@edu.mos.ru",
+        "WebSite": "sch950sv.mskobr.ru",
+        "HelpPhone": "(499) 204-34-46",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "EquipmentRentalComments": "",
+        "HasTechService": "нет",
+        "TechServiceComments": "",
+        "HasDressingRoom": "да",
+        "HasEatery": "нет",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "газонное покрытие (искусственное)",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "PaidComments": "",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1047358828
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6062151182502,
+          55.7822474407512
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectName": "Стадион (менее 1500 мест) «Слава»",
+        "NameSummer": "поле регбийное, «Слава»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "Селезнёвская улица, дом 13, строение 2",
+        "Email": "slavaclub@inbox.ru",
+        "WebSite": "rugby-slava.ru/",
+        "HelpPhone": "(499) 978-70-19",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "EquipmentRentalComments": "",
+        "HasTechService": "нет",
+        "TechServiceComments": "",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.01-31.12",
+        "Lighting": "освещение газоразрядными лампами",
+        "SurfaceTypeSummer": "газонное покрытие (натуральное)",
+        "Seats": 400,
+        "Paid": "платно",
+        "PaidComments": "",
+        "DisabilityFriendly": "частично приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1266922032
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.59408623349,
+          55.859616420593
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectName": "Спортивный комплекс образовательного учреждения",
+        "NameSummer": "поле регбийное",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Отрадное",
+        "Address": "улица Санникова, дом 3, корпус 3",
+        "Email": "962@edu.mos.ru",
+        "WebSite": "sch962sv.mskobr.ru/",
+        "HelpPhone": "(499) 903-16-19",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "EquipmentRentalComments": "",
+        "HasTechService": "нет",
+        "TechServiceComments": "",
+        "HasDressingRoom": "да",
+        "HasEatery": "нет",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "да",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "освещение газоразрядными лампами",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "PaidComments": "",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 2366623607
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7948860105727,
+          55.6907218666249
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectName": "Академия Регби",
+        "NameSummer": "поле регбийное",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Выхино-Жулебино",
+        "Address": "Тополёвая аллея, дом 10",
+        "Email": "",
+        "WebSite": "rugby-forum.ru",
+        "HelpPhone": "(495) 554-38-40",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "EquipmentRentalComments": "",
+        "HasTechService": "нет",
+        "TechServiceComments": "",
+        "HasDressingRoom": "да",
+        "HasEatery": "нет",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.01-31.12",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "PaidComments": "",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 2366665389
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,423 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.666294,
+          55.737573
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 1,
+        "Nameen": "Праздничный Фейерверк в ПКиО «Таганский»",
+        "AdmAreaen": "Czentral`ny'j administrativny'j okrug",
+        "Districten": "Taganskij rajon",
+        "Locationen": "улица Таганская, владение 40-42",
+        "LocationClarificationen": "",
+        "globalid": 169190743
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.667846,
+          55.792944
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 6,
+        "Nameen": "Праздничный Фейерверк в ПКиО «Сокольники»",
+        "AdmAreaen": "Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Sokol`niki",
+        "Locationen": "Митьковский проезд, дом 2",
+        "LocationClarificationen": "Площадка для проведения публичных выступлений «Гайд-парк»",
+        "globalid": 169190850
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.611003,
+          55.770445
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 7,
+        "Nameen": "Праздничный Фейерверк в Саду «Эрмитаж»",
+        "AdmAreaen": "Czentral`ny'j administrativny'j okrug",
+        "Districten": "Tverskoj rajon",
+        "Locationen": "улица Каретный ряд, дом 3",
+        "LocationClarificationen": "",
+        "globalid": 169190951
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.775385,
+          55.74457
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 8,
+        "Nameen": "Праздничный Фейерверк в ПКиО «Перовский»",
+        "AdmAreaen": "Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Perovo",
+        "Locationen": "улица Лазо, владение 7",
+        "LocationClarificationen": "Площадка возле Купавенского пруда",
+        "globalid": 169190952
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.545791,
+          55.756123
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 9,
+        "Nameen": "Праздничный Фейерверк на Красногвардейских прудах",
+        "AdmAreaen": "Czentral`ny'j administrativny'j okrug",
+        "Districten": "Presnenskij rajon",
+        "Locationen": "Красногвардейские пруды",
+        "LocationClarificationen": "Нижний Красногвардейский пруд",
+        "globalid": 169190953
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.452106,
+          55.865943
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 10,
+        "Nameen": "Праздничный Фейерверк в ПКиО «Северное Тушино»",
+        "AdmAreaen": "Severo-Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Severnoe Tushino",
+        "Locationen": "ул. Свободы, вл. 50-70",
+        "LocationClarificationen": "Площадка у беговой дорожки",
+        "globalid": 169190954
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.572158,
+          55.90164
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 12,
+        "Nameen": "Праздничный Фейерверк в ПКиО «Лианозовский»",
+        "AdmAreaen": "Severo-Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Lianozovo",
+        "Locationen": "улица Угличская, владение 13",
+        "LocationClarificationen": "На лужайке между Нижним Лианозовским прудом и детской площадкой «Замок»",
+        "globalid": 169191156
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.770466,
+          55.688218
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 14,
+        "Nameen": "Праздничный Фейерверк в ПКиО «Кузьминки»",
+        "AdmAreaen": "Yugo-Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Kuz`minki",
+        "Locationen": "улица Заречье, владение 3А",
+        "LocationClarificationen": "Площадка вблизи Индустриального музея",
+        "globalid": 169191158
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.652498,
+          55.6602
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 15,
+        "Nameen": "Праздничный Фейерверк в Парке имени Ю.М. Лужкова",
+        "AdmAreaen": "Yuzhny'j administrativny'j okrug",
+        "Districten": "rajon Nagatino-Sadovniki",
+        "Locationen": "проспект Андропова, дом 58А",
+        "LocationClarificationen": "Фонтанная площадь за главной сценой",
+        "globalid": 169191159
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.658941,
+          55.766573
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 19,
+        "Nameen": "Праздничный Фейерверк в Саду имени Баумана",
+        "AdmAreaen": "Czentral`ny'j administrativny'j okrug",
+        "Districten": "Basmanny'j rajon",
+        "Locationen": "улица Старая Басманная, дом 15А, строение 4",
+        "LocationClarificationen": "Около теннисного корта",
+        "globalid": 169191368
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.499588,
+          55.728877
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 22,
+        "Nameen": "Праздничный Фейерверк в Парке Победы на Поклонной горе",
+        "AdmAreaen": "Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Dorogomilovo",
+        "Locationen": "Парк Победы, Поклонная гора",
+        "LocationClarificationen": "Парк Победы на Поклонной горе, Аллея Партизан",
+        "globalid": 170869737
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.632081,
+          55.749411
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 36,
+        "Nameen": "Праздничный Фейерверк на Москворецкой набережной напротив парка «Зарядье»",
+        "AdmAreaen": "Czentral`ny'j administrativny'j okrug",
+        "Districten": "Tverskoj rajon",
+        "Locationen": "Москворецкая набережная",
+        "LocationClarificationen": "Москворецкая набережная",
+        "globalid": 282200762
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.21675,
+          55.988731
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 44,
+        "Nameen": "Праздничный Фейерверк в Зеленограде",
+        "AdmAreaen": "Zelenogradskij administrativny'j okrug",
+        "Districten": "rajon Savyolki",
+        "Locationen": "Озёрная аллея, дом 4, строение 2",
+        "LocationClarificationen": "Центральная площадь, дом 1, Парк Победы",
+        "globalid": 282206215
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.50713,
+          55.533401
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 50,
+        "Nameen": "Праздничный Фейерверк в Сквере на улице Кадырова",
+        "AdmAreaen": "Yugo-Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Yuzhnoe Butovo",
+        "Locationen": "улица Кадырова",
+        "LocationClarificationen": "Сквер на улице Кадырова",
+        "globalid": 638387675
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.755223,
+          55.791883
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 51,
+        "Nameen": "Праздничный Фейерверк в Городке имени Баумана",
+        "AdmAreaen": "Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Izmajlovo",
+        "Locationen": "Измайловское шоссе, Первомайская улица, Вернисажная улица",
+        "LocationClarificationen": "Измайловский остров",
+        "globalid": 638387751
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.370297,
+          55.832832
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 52,
+        "Nameen": "Праздничный Фейерверк в Митино",
+        "AdmAreaen": "Severo-Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Mitino",
+        "Locationen": "улица Рословка, дом 5",
+        "LocationClarificationen": "На территории ландшафтного парка за ФОК «Аквамарин»",
+        "globalid": 638387797
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.349413,
+          55.597972
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 56,
+        "Nameen": "Праздничный Фейерверк в Московском",
+        "AdmAreaen": "Novomoskovskij administrativny'j okrug",
+        "Districten": "poselenie Moskovskij",
+        "Locationen": "Поселение «Московский», Проектируемый проезд № 5562",
+        "LocationClarificationen": "Центр спорта «Московский»",
+        "globalid": 638387892
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.635769,
+          55.827418
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 61,
+        "Nameen": "Праздничный Фейерверк на ВДНХ",
+        "AdmAreaen": "Severo-Vostochny'j administrativny'j okrug",
+        "Districten": "Ostankinskij rajon",
+        "Locationen": "ВДНХ",
+        "LocationClarificationen": "Территория ВДНХ, Центральная аллея ВДНХ",
+        "globalid": 707419181
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.711766,
+          55.68307
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 62,
+        "Nameen": "Праздничный Фейерверк в Печатниках",
+        "AdmAreaen": "Yugo-Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Pechatniki",
+        "Locationen": "напротив улицы Гурьянова, дом 31",
+        "LocationClarificationen": "акватория Москвы-реки, ледокол-буксир",
+        "globalid": 707419189
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.297813,
+          55.466829
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 66,
+        "Nameen": "Праздничный Фейерверк в Троицке",
+        "AdmAreaen": "Troiczkij administrativny'j okrug",
+        "Districten": "poselenie Troiczk",
+        "Locationen": "Физическая улица, Центральная улица",
+        "LocationClarificationen": "Возле Пожарной части № 42",
+        "globalid": 886065001
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.528338,
+          55.788613
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 67,
+        "Nameen": "Праздничный Фейерверк в Парке «Ходынское поле»",
+        "AdmAreaen": "Severny'j administrativny'j okrug",
+        "Districten": "Xoroshyovskij rajon",
+        "Locationen": "Ходынский бульвар, дом 1",
+        "LocationClarificationen": "Ходынский бульвар",
+        "globalid": 903905568
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.668799,
+          55.881206
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 70,
+        "Nameen": "Праздничный Фейерверк в Сквере по Олонецкому проезду",
+        "AdmAreaen": "Severo-Vostochny'j administrativny'j okrug",
+        "Districten": "Babushkinskij rajon",
+        "Locationen": "рядом с Енисейской улицей, д. 43А",
+        "LocationClarificationen": "Сквер по Олонецкому проезду",
+        "globalid": 1139164679
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

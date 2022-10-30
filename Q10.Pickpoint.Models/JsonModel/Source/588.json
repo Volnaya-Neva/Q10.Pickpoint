@@ -1,0 +1,3178 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.691030166675,
+          55.741460690732
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Международная улица, дом 25",
+        "AdmArea": "Центральный административный округ",
+        "District": "Таганский район",
+        "TotalParkingSlots": 390,
+        "ConstructionBegin": "февраль 2010 года",
+        "ConstructionEnd": "март 2011 года",
+        "globalid": 20440992
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.692749573707,
+          55.739611343782
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Международная улица, дом 27",
+        "AdmArea": "Центральный административный округ",
+        "District": "Таганский район",
+        "TotalParkingSlots": 375,
+        "ConstructionBegin": "февраль 2010 года",
+        "ConstructionEnd": "март 2011 года",
+        "globalid": 20440993
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.509377600938,
+          55.876079327219
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Базовская улица, дом 8А",
+        "AdmArea": "Северный административный округ",
+        "District": "район Западное Дегунино",
+        "TotalParkingSlots": 125,
+        "ConstructionBegin": "март 2010 года",
+        "ConstructionEnd": "май 2011 года",
+        "globalid": 20440995
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.573253296561,
+          55.802535726004
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Башиловская улица, дом 23, сооружение 1, сооружение 2, сооружение 3",
+        "AdmArea": "Северный административный округ",
+        "District": "Савёловский район",
+        "TotalParkingSlots": 123,
+        "ConstructionBegin": "август 2010 года",
+        "ConstructionEnd": "март 2012 года",
+        "globalid": 20440996
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.570730295773,
+          55.802482401731
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Башиловская улица, дом 23Б",
+        "AdmArea": "Северный административный округ",
+        "District": "Савёловский район",
+        "TotalParkingSlots": 100,
+        "ConstructionBegin": "сентябрь 2010 года",
+        "ConstructionEnd": "декабрь 2011 года",
+        "globalid": 20440997
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.517644248488,
+          55.87268238644
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Весенняя улица, дом 6А",
+        "AdmArea": "Северный административный округ",
+        "District": "район Западное Дегунино",
+        "TotalParkingSlots": 98,
+        "ConstructionBegin": "декабрь 2011 года",
+        "ConstructionEnd": "июль 2013 года",
+        "globalid": 20441000
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.52649796547,
+          55.866115004824
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "улица Ивана Сусанина, дом 2, строение 1",
+        "AdmArea": "Северный административный округ",
+        "District": "район Западное Дегунино",
+        "TotalParkingSlots": 299,
+        "ConstructionBegin": "ноябрь 2010 года",
+        "ConstructionEnd": "декабрь 2013 года",
+        "globalid": 20441001
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.542002569536,
+          55.800485347988
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Красноармейская улица, дом 15А",
+        "AdmArea": "Северный административный округ",
+        "District": "район Аэропорт",
+        "TotalParkingSlots": 99,
+        "ConstructionBegin": "апрель 2010 года",
+        "ConstructionEnd": "сентябрь 2011 года",
+        "globalid": 20441002
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.523727898384,
+          55.827918367673
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Новопетровская улица, дом 7А",
+        "AdmArea": "Северный административный округ",
+        "District": "район Коптево",
+        "TotalParkingSlots": 149,
+        "ConstructionBegin": "май 2010 года",
+        "ConstructionEnd": "март 2011 года",
+        "globalid": 20441003
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.537060397035,
+          55.884143028313
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Учинская улица, дом 6А",
+        "AdmArea": "Северный административный округ",
+        "District": "Дмитровский район",
+        "TotalParkingSlots": 100,
+        "ConstructionBegin": "март 2010 года",
+        "ConstructionEnd": "декабрь 2011 года",
+        "globalid": 20441007
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.614437398591,
+          55.821034661754
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "улица Академика Королёва, дом 15А",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Останкинский район",
+        "TotalParkingSlots": 440,
+        "ConstructionBegin": "октябрь 2010 года",
+        "ConstructionEnd": "июль 2013 года",
+        "globalid": 20441008
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.617099555174,
+          55.864989552684
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "улица Пестеля, дом 6, корпус 1",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Отрадное",
+        "TotalParkingSlots": 170,
+        "ConstructionBegin": "август 2010 года",
+        "ConstructionEnd": "сентябрь 2013 года",
+        "globalid": 20441012
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.609569863187,
+          55.876709892556
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "улица Римского-Корсакова, дом 15Б, строение 4",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Отрадное",
+        "TotalParkingSlots": 409,
+        "ConstructionBegin": "июнь 2010 года",
+        "ConstructionEnd": "февраль 2012 года",
+        "globalid": 20441013
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.550851266608,
+          55.914786777346
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Челобитьевское шоссе, дом 4А",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Северный",
+        "TotalParkingSlots": 196,
+        "ConstructionBegin": "август 2010 года",
+        "ConstructionEnd": "январь 2014 года",
+        "globalid": 20441015
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.910534847581,
+          55.827375332845
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Северный, микрорайон 9, корпус 2",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Северный",
+        "TotalParkingSlots": 197,
+        "ConstructionBegin": "апрель 2010 года",
+        "ConstructionEnd": "июнь 2013 года",
+        "globalid": 20441016
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.663965642595,
+          55.852179091595
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Уржумская улица, 4, корпус 1",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Свиблово",
+        "TotalParkingSlots": 360,
+        "ConstructionBegin": "март 2010 года",
+        "ConstructionEnd": "февраль 2011 года",
+        "globalid": 20441017
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.707171362283,
+          55.813251822127
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "3-я Гражданская улица, дом 19",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Богородское",
+        "TotalParkingSlots": 182,
+        "ConstructionBegin": "март 2012 года",
+        "ConstructionEnd": "октябрь 2012 года",
+        "globalid": 20441018
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.826277363668,
+          55.724710254425
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Вешняковская улица, дом 16, блок А, стр. 1",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Вешняки",
+        "TotalParkingSlots": 183,
+        "ConstructionBegin": "март 2010 года",
+        "ConstructionEnd": "июнь 2011 года",
+        "globalid": 20441020
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.82554423849,
+          55.725171855273
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Вешняковская улица, дом 16, блок Б",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Вешняки",
+        "TotalParkingSlots": 100,
+        "ConstructionBegin": "март 2010 года",
+        "ConstructionEnd": "июнь 2011 года",
+        "globalid": 20441021
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.679254596699,
+          55.784437170072
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "улица Жебрунова, 6Б",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Сокольники",
+        "TotalParkingSlots": 369,
+        "ConstructionBegin": "октябрь 2010 года",
+        "ConstructionEnd": "август 2012 года",
+        "globalid": 20441022
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.829129995584,
+          55.745685350395
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Кетчерская улица, дом 5А",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Вешняки",
+        "TotalParkingSlots": 292,
+        "ConstructionBegin": "июнь 2010 года",
+        "ConstructionEnd": "май 2012 года",
+        "globalid": 20441023
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.839145569093,
+          55.782812095021
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Малый Купавенский проезд, дом 14А",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Ивановское",
+        "TotalParkingSlots": 350,
+        "ConstructionBegin": "февраль 2010 года",
+        "ConstructionEnd": "декабрь 2011 года",
+        "globalid": 20441024
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.749330344092,
+          55.825775619365
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Открытое шоссе, дом 19Б",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Богородское",
+        "TotalParkingSlots": 207,
+        "ConstructionBegin": "март 2010 года",
+        "ConstructionEnd": "март 2011 года",
+        "globalid": 20441025
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.768755941669,
+          55.829173471152
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Открытое шоссе, дом 30А",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Богородское",
+        "TotalParkingSlots": 95,
+        "ConstructionBegin": "июль 2010 года",
+        "ConstructionEnd": "апрель 2011 года",
+        "globalid": 20441026
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.830304569221,
+          55.813928883239
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Хабаровская улица, дом 2А",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Гольяново",
+        "TotalParkingSlots": 248,
+        "ConstructionBegin": "октябрь 2010 года",
+        "ConstructionEnd": "октябрь 2012 года",
+        "globalid": 20441027
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.753978898722,
+          55.754103900536
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Электродная улица, дом 5",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Перово",
+        "TotalParkingSlots": 190,
+        "ConstructionBegin": "январь 2011 года",
+        "ConstructionEnd": "март 2013 года",
+        "globalid": 20441028
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.685069714362,
+          55.699395143838
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "2-й Южнопортовый проезд, дом 13, корпус 2",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Печатники",
+        "TotalParkingSlots": 250,
+        "ConstructionBegin": "март 2010 года",
+        "ConstructionEnd": "декабрь 2011 года",
+        "globalid": 20441029
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.685898264101,
+          55.699857627308
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "2-й Южнопортовый проезд, дом 15, корпус 2",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Печатники",
+        "TotalParkingSlots": 253,
+        "ConstructionBegin": "март 2010 года",
+        "ConstructionEnd": "декабрь 2011 года",
+        "globalid": 20441030
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.718685637677,
+          55.743501435221
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "2-й Кабельный проезд, дом 11",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Лефортово",
+        "TotalParkingSlots": 154,
+        "ConstructionBegin": "октябрь 2010 года",
+        "ConstructionEnd": "декабрь 2011 года",
+        "globalid": 20441031
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.851300917185,
+          55.694277806999
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Привольная улица, дом 33, корпус 1",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Выхино-Жулебино",
+        "TotalParkingSlots": 700,
+        "ConstructionBegin": "март 2010 года",
+        "ConstructionEnd": "декабрь 2011 года",
+        "globalid": 20441032
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.852141251322,
+          55.694516521401
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Привольная улица, дом 33, корпус 2",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Выхино-Жулебино",
+        "TotalParkingSlots": 313,
+        "ConstructionBegin": "март 2010 года",
+        "ConstructionEnd": "декабрь 2011 года",
+        "globalid": 20441033
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.788389459571,
+          55.672130164183
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Краснодарский проезд, дом 12",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Люблино",
+        "TotalParkingSlots": 482,
+        "ConstructionBegin": "март 2010 года",
+        "ConstructionEnd": "февраль 2011 года",
+        "globalid": 20441034
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.783525900967,
+          55.668307428678
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Краснодарский проезд, дом 2",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Люблино",
+        "TotalParkingSlots": 494,
+        "ConstructionBegin": "март 2010 года",
+        "ConstructionEnd": "февраль 2011 года",
+        "globalid": 20441035
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.78683714204,
+          55.670384676118
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Краснодарский проезд, дом 8",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Люблино",
+        "TotalParkingSlots": 494,
+        "ConstructionBegin": "март 2010 года",
+        "ConstructionEnd": "февраль 2011 года",
+        "globalid": 20441036
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.778012545289,
+          55.664956244493
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "улица Верхние Поля, дом 44",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Марьино",
+        "TotalParkingSlots": 322,
+        "ConstructionBegin": "июнь 2010 года",
+        "ConstructionEnd": "июнь 2011 года",
+        "globalid": 20441037
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.759745678059,
+          55.673028348867
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Новороссийская улица, 23, корпус 1",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Люблино",
+        "TotalParkingSlots": 397,
+        "ConstructionBegin": "октябрь 2010 года",
+        "ConstructionEnd": "июнь 2014 года",
+        "globalid": 20441038
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.838854727138,
+          55.684581243898
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Привольная улица, дом 54, корпус 2",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Выхино-Жулебино",
+        "TotalParkingSlots": 450,
+        "ConstructionBegin": "март 2010 года",
+        "ConstructionEnd": "август 2011 года",
+        "globalid": 20441046
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.79790134647,
+          55.709072774745
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Сормовский проезд, дом 7, корпус 2",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Выхино-Жулебино",
+        "TotalParkingSlots": 315,
+        "ConstructionBegin": "апрель 2010 года",
+        "ConstructionEnd": "июль 2011 года",
+        "globalid": 20441047
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.772459303135,
+          55.634804446172
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Братеевская улица, дом 22А",
+        "AdmArea": "Южный административный округ",
+        "District": "район Братеево",
+        "TotalParkingSlots": 328,
+        "ConstructionBegin": "сентябрь 2010 года",
+        "ConstructionEnd": "июль 2013 года",
+        "globalid": 20441049
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.771274627605,
+          55.634269840306
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Братеевская улица, 20, корпус 2",
+        "AdmArea": "Южный административный округ",
+        "District": "район Братеево",
+        "TotalParkingSlots": 397,
+        "ConstructionBegin": "январь 2011 года",
+        "ConstructionEnd": "июль 2015 года",
+        "globalid": 20441050
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.772142195818,
+          55.636572597363
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Братеевская улица, дом 24, корпус 1",
+        "AdmArea": "Южный административный округ",
+        "District": "район Братеево",
+        "TotalParkingSlots": 472,
+        "ConstructionBegin": "сентябрь 2010 года",
+        "ConstructionEnd": "май 2011 года",
+        "globalid": 20441051
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.735029234176,
+          55.611460306112
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Воронежская улица, дом 13, корпус 2",
+        "AdmArea": "Южный административный округ",
+        "District": "район Орехово-Борисово Южное",
+        "TotalParkingSlots": 517,
+        "ConstructionBegin": "ноябрь 2010 года",
+        "ConstructionEnd": "март 2013 года",
+        "globalid": 20441052
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.711866348166,
+          55.605410520305
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Домодедовская улица, дом 26",
+        "AdmArea": "Южный административный округ",
+        "District": "район Орехово-Борисово Южное",
+        "TotalParkingSlots": 91,
+        "ConstructionBegin": "июль 2010 года",
+        "ConstructionEnd": "август 2012 года",
+        "globalid": 20441053
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.638611164095,
+          55.711646833949
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "2-й Павелецкий проезд, дом 14",
+        "AdmArea": "Южный административный округ",
+        "District": "Даниловский район",
+        "TotalParkingSlots": 120,
+        "ConstructionBegin": "ноябрь 2010 года",
+        "ConstructionEnd": "сентябрь 2012 года",
+        "globalid": 20441054
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.718483916234,
+          55.605330263921
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Каширское шоссе, дом 122, корпус 2",
+        "AdmArea": "Южный административный округ",
+        "District": "район Орехово-Борисово Южное",
+        "TotalParkingSlots": 100,
+        "ConstructionBegin": "май 2011 года",
+        "ConstructionEnd": "март 2014 года",
+        "globalid": 20441055
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.697771272859,
+          55.619971422582
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "улица Маршала Захарова, дом 23, корпус 1",
+        "AdmArea": "Южный административный округ",
+        "District": "район Орехово-Борисово Северное",
+        "TotalParkingSlots": 300,
+        "ConstructionBegin": "март 2010 года",
+        "ConstructionEnd": "июль 2012 года",
+        "globalid": 20441056
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.649417465412,
+          55.644734837295
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "улица Москворечье, 2, корпус 3",
+        "AdmArea": "Южный административный округ",
+        "District": "район Москворечье-Сабурово",
+        "TotalParkingSlots": 182,
+        "ConstructionBegin": "ноябрь 2011 года",
+        "ConstructionEnd": "август 2012 года",
+        "globalid": 20441057
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.615167951045,
+          55.594572572146
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Россошанская улица, дом 13, корпус 4",
+        "AdmArea": "Южный административный округ",
+        "District": "район Чертаново Южное",
+        "TotalParkingSlots": 42,
+        "ConstructionBegin": "июнь 2010 года",
+        "ConstructionEnd": "апрель 2012 года",
+        "globalid": 20441058
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.64762362162,
+          55.632565148501
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "улица Бехтерева, дом 14",
+        "AdmArea": "Южный административный округ",
+        "District": "район Царицыно",
+        "TotalParkingSlots": 326,
+        "ConstructionBegin": "июль 2010 года",
+        "ConstructionEnd": "сентябрь 2012 года",
+        "globalid": 20441059
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.560695307263,
+          55.567944610727
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Куликовская улица, дом 22",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Северное Бутово",
+        "TotalParkingSlots": 259,
+        "ConstructionBegin": "сентябрь 2010 года",
+        "ConstructionEnd": "апрель 2014 года",
+        "globalid": 20441061
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.521099108434,
+          55.65525208166
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Академика Волгина улица, дом 2, корпус 3",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "Обручевский район",
+        "TotalParkingSlots": 165,
+        "ConstructionBegin": "сентябрь 2010 года",
+        "ConstructionEnd": "март 2015 года",
+        "globalid": 20441062
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.573294349138,
+          55.561154159911
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "бульвар Дмитрия Донского, дом 21",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Северное Бутово",
+        "TotalParkingSlots": 225,
+        "ConstructionBegin": "апрель 2010 года",
+        "ConstructionEnd": "декабрь 2011 года",
+        "globalid": 20441063
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.589287066623,
+          55.575646293664
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Старобитцевская улица, 14",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Северное Бутово",
+        "TotalParkingSlots": 225,
+        "ConstructionBegin": "сентябрь 2010 года",
+        "ConstructionEnd": "апрель 2015 года",
+        "globalid": 20441064
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.535806976941,
+          55.532913145752
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Чечёрский проезд, дом 9А",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Южное Бутово",
+        "TotalParkingSlots": 525,
+        "ConstructionBegin": "январь 2011 года",
+        "ConstructionEnd": "май 2013 года",
+        "globalid": 20441065
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.52239249998,
+          55.528439926548
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Чечёрский проезд, дом 31, строение 1",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Южное Бутово",
+        "TotalParkingSlots": 24,
+        "ConstructionBegin": "февраль 2011 года",
+        "ConstructionEnd": "октябрь 2012 года",
+        "globalid": 20441066
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.578311039365,
+          55.506865004667
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "улица Маршала Савицкого, дом 5",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Южное Бутово",
+        "TotalParkingSlots": 488,
+        "ConstructionBegin": "апрель 2010 года",
+        "ConstructionEnd": "май 2012 года",
+        "globalid": 20441067
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.57661213183,
+          55.505805801187
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "улица Маршала Савицкого, дом 4",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Южное Бутово",
+        "TotalParkingSlots": 487,
+        "ConstructionBegin": "март 2010 года",
+        "ConstructionEnd": "декабрь 2011 года",
+        "globalid": 20441068
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.574631940292,
+          55.500690417859
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "улица Брусилова, дом 3",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Южное Бутово",
+        "TotalParkingSlots": 480,
+        "ConstructionBegin": "март 2010 года",
+        "ConstructionEnd": "декабрь 2011 года",
+        "globalid": 20441069
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.588451410835,
+          55.500796538702
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "улица Брусилова, дом 23",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Южное Бутово",
+        "TotalParkingSlots": 487,
+        "ConstructionBegin": "март 2010 года",
+        "ConstructionEnd": "июнь 2011 года",
+        "globalid": 20441070
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.597355329837,
+          55.50054256549
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "улица Брусилова, дом 35",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Южное Бутово",
+        "TotalParkingSlots": 334,
+        "ConstructionBegin": "март 2010 года",
+        "ConstructionEnd": "май 2011 года",
+        "globalid": 20441071
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.600542823354,
+          55.50136076126
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "улица Брусилова, дом 39",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Южное Бутово",
+        "TotalParkingSlots": 524,
+        "ConstructionBegin": "август 2010 года",
+        "ConstructionEnd": "июль 2011 года",
+        "globalid": 20441072
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.503993250117,
+          55.541219283203
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "улица Академика Семёнова, дом 19, строение 1",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Южное Бутово",
+        "TotalParkingSlots": 96,
+        "ConstructionBegin": "июль 2010 года",
+        "ConstructionEnd": "май 2011 года",
+        "globalid": 20441073
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.506816971846,
+          55.541896322791
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "улица Академика Семёнова, дом 13, строение 1",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Южное Бутово",
+        "TotalParkingSlots": 99,
+        "ConstructionBegin": "июль 2010 года",
+        "ConstructionEnd": "декабрь 2011 года",
+        "globalid": 20441074
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.509451359056,
+          55.542858485007
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "улица Академика Семёнова, дом 7, строение 1",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Южное Бутово",
+        "TotalParkingSlots": 99,
+        "ConstructionBegin": "июль 2010 года",
+        "ConstructionEnd": "март 2015 года",
+        "globalid": 20441075
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.560327470886,
+          55.542663385187
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Изюмская улица, дом 63",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Южное Бутово",
+        "TotalParkingSlots": 435,
+        "ConstructionBegin": "апрель 2010 года",
+        "ConstructionEnd": "октябрь 2013 года",
+        "globalid": 20441076
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.51605755529,
+          55.541268141262
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "улица Адмирала Лазарева, дом 49",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Южное Бутово",
+        "TotalParkingSlots": 470,
+        "ConstructionBegin": "март 2010 года",
+        "ConstructionEnd": "июнь 2011 года",
+        "globalid": 20441077
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.581995650786,
+          55.537869811538
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Варшавское шоссе, дом 204",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Южное Бутово",
+        "TotalParkingSlots": 267,
+        "ConstructionBegin": "апрель 2010 года",
+        "ConstructionEnd": "июнь 2011 года",
+        "globalid": 20441078
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.39812594948,
+          55.737088051019
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Бобруйская улица, дом 11",
+        "AdmArea": "Западный административный округ",
+        "District": "район Кунцево",
+        "TotalParkingSlots": 461,
+        "ConstructionBegin": "март 2010 года",
+        "ConstructionEnd": "май 2011 года",
+        "globalid": 20441079
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.194443420692,
+          55.602608158457
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Советская улица, дом 20",
+        "AdmArea": "Западный административный округ",
+        "District": "район Внуково",
+        "TotalParkingSlots": 121,
+        "ConstructionBegin": "февраль 2012 года",
+        "ConstructionEnd": "декабрь 2013 года",
+        "globalid": 20441080
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.396191978943,
+          55.657309825397
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Боровское шоссе дом 6, корпус 4",
+        "AdmArea": "Западный административный округ",
+        "District": "район Солнцево",
+        "TotalParkingSlots": 538,
+        "ConstructionBegin": "июнь 2010 года",
+        "ConstructionEnd": "май 2013 года",
+        "globalid": 20441081
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.398110254321,
+          55.657843233248
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Боровское шоссе, дом 6, корпус 3",
+        "AdmArea": "Западный административный округ",
+        "District": "район Солнцево",
+        "TotalParkingSlots": 554,
+        "ConstructionBegin": "июнь 2010 года",
+        "ConstructionEnd": "май 2013 года",
+        "globalid": 20441082
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.404492791435,
+          55.659395623469
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Боровское шоссе, дом 6, корпус 2",
+        "AdmArea": "Западный административный округ",
+        "District": "район Солнцево",
+        "TotalParkingSlots": 345,
+        "ConstructionBegin": "июнь 2010 года",
+        "ConstructionEnd": "июнь 2013 года",
+        "globalid": 20441083
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.40595280338,
+          55.659735956088
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Боровское шоссе, дом 6, корпус 1",
+        "AdmArea": "Западный административный округ",
+        "District": "район Солнцево",
+        "TotalParkingSlots": 402,
+        "ConstructionBegin": "апрель 2010 года",
+        "ConstructionEnd": "июнь 2013 года",
+        "globalid": 20441084
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.36582030275,
+          55.635773050515
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Новоорловская улица, 5, корпус 1",
+        "AdmArea": "Западный административный округ",
+        "District": "район Ново-Переделкино",
+        "TotalParkingSlots": 329,
+        "ConstructionBegin": "июнь 2010 года",
+        "ConstructionEnd": "июнь 2014 года",
+        "globalid": 20441085
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.515206880531,
+          55.668941963551
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Ленинский проспект, дом 100",
+        "AdmArea": "Западный административный округ",
+        "District": "район Проспект Вернадского",
+        "TotalParkingSlots": 60,
+        "ConstructionBegin": "февраль 2010 года",
+        "ConstructionEnd": "июнь 2013 года",
+        "globalid": 20441087
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.412968021698,
+          55.726413345576
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "улица Маршала Неделина, дом 29",
+        "AdmArea": "Западный административный округ",
+        "District": "Можайский район",
+        "TotalParkingSlots": 673,
+        "ConstructionBegin": "март 2010 года",
+        "ConstructionEnd": "ноябрь 2011 года",
+        "globalid": 20441088
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.382831563815,
+          55.641723753122
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Производственная улица, 14, корпус 1",
+        "AdmArea": "Западный административный округ",
+        "District": "район Солнцево",
+        "TotalParkingSlots": 312,
+        "ConstructionBegin": "март 2010 года",
+        "ConstructionEnd": "июнь 2014 года",
+        "globalid": 20441090
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.410984114401,
+          55.708341072572
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Витебская улица, дом 11",
+        "AdmArea": "Западный административный округ",
+        "District": "Можайский район",
+        "TotalParkingSlots": 805,
+        "ConstructionBegin": "март 2010 года",
+        "ConstructionEnd": "август 2011 года",
+        "globalid": 20441091
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.339278767738,
+          55.635929600311
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "улица Федосьино, дом 3",
+        "AdmArea": "Западный административный округ",
+        "District": "район Ново-Переделкино",
+        "TotalParkingSlots": 298,
+        "ConstructionBegin": "апрель 2010 года",
+        "ConstructionEnd": "август 2012 года",
+        "globalid": 20441092
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.348829515724,
+          55.858384184162
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "улица Барышиха, дом 45",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Митино",
+        "TotalParkingSlots": 275,
+        "ConstructionBegin": "май 2010 года",
+        "ConstructionEnd": "декабрь 2011 года",
+        "globalid": 20441093
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.347792430021,
+          55.833541869255
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Волоцкой переулок, дом 3",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Митино",
+        "TotalParkingSlots": 970,
+        "ConstructionBegin": "май 2010 года",
+        "ConstructionEnd": "май 2013 года",
+        "globalid": 20441094
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.350522826732,
+          55.826159215529
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "улица Генерала Белобородова, дом 38",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Митино",
+        "TotalParkingSlots": 239,
+        "ConstructionBegin": "май 2010 года",
+        "ConstructionEnd": "июль 2011 года",
+        "globalid": 20441095
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.350345309262,
+          55.839517156022
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Дубравная улица, дом 53",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Митино",
+        "TotalParkingSlots": 799,
+        "ConstructionBegin": "март 2010 года",
+        "ConstructionEnd": "декабрь 2011 года",
+        "globalid": 20441096
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.409377188814,
+          55.885982707622
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Новокуркинское шоссе, дом 20",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Куркино",
+        "TotalParkingSlots": 284,
+        "ConstructionBegin": "декабрь 2010 года",
+        "ConstructionEnd": "октябрь 2012 года",
+        "globalid": 20441097
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.389285266371,
+          55.79210862166
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Проектируемый проезд № 607, владение 14, корпус 2",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Строгино",
+        "TotalParkingSlots": 978,
+        "ConstructionBegin": "май 2010 года",
+        "ConstructionEnd": "июнь 2014 года",
+        "globalid": 20441098
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.401576063733,
+          55.795374797495
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Проектируемый проезд № 607, дом 19",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Строгино",
+        "TotalParkingSlots": 240,
+        "ConstructionBegin": "июль 2010 года",
+        "ConstructionEnd": "ноябрь 2011 года",
+        "globalid": 20441099
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.374511475258,
+          55.845391598871
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Пятницкое шоссе, дом 19, корпус 1",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Митино",
+        "TotalParkingSlots": 368,
+        "ConstructionBegin": "март 2010 года",
+        "ConstructionEnd": "ноябрь 2011 года",
+        "globalid": 20441100
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.390729016334,
+          55.793225644664
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "улица Твардовского, дом 8, корпус 4",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Строгино",
+        "TotalParkingSlots": 676,
+        "ConstructionBegin": "май 2010 года",
+        "ConstructionEnd": "декабрь 2011 года",
+        "globalid": 20441101
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.390987942476,
+          55.89918532335
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Юровская улица, дом 103",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Куркино",
+        "TotalParkingSlots": 520,
+        "ConstructionBegin": "июль 2010 года",
+        "ConstructionEnd": "декабрь 2011 года",
+        "globalid": 20441102
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.197369842079,
+          56.006456293716
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "2-й Западный проезд, дом 2Б",
+        "AdmArea": "Зеленоградский административный округ",
+        "District": "район Матушкино",
+        "TotalParkingSlots": 412,
+        "ConstructionBegin": "июль 2010 года",
+        "ConstructionEnd": "декабрь 2011 года",
+        "globalid": 20441103
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.157211007814,
+          55.989682435458
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Новокрюковская улица, дом 3А",
+        "AdmArea": "Зеленоградский административный округ",
+        "District": "район Крюково",
+        "TotalParkingSlots": 345,
+        "ConstructionBegin": "июнь 2010 года",
+        "ConstructionEnd": "июнь 2013 года",
+        "globalid": 20441104
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.201901413625,
+          56.000354873003
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "город Зеленоград, корпус 226",
+        "AdmArea": "Зеленоградский административный округ",
+        "District": "район Матушкино",
+        "TotalParkingSlots": 267,
+        "ConstructionBegin": "ноябрь 2010 года",
+        "ConstructionEnd": "сентябрь 2012 года",
+        "globalid": 20441105
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.184473015712,
+          55.976457205664
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "город Зеленоград, корпус 845",
+        "AdmArea": "Зеленоградский административный округ",
+        "District": "район Старое Крюково",
+        "TotalParkingSlots": 235,
+        "ConstructionBegin": "март 2010 года",
+        "ConstructionEnd": "май 2011 года",
+        "globalid": 20441106
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.184959946121,
+          55.976851176436
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "город Зеленоград, корпус 846",
+        "AdmArea": "Зеленоградский административный округ",
+        "District": "район Старое Крюково",
+        "TotalParkingSlots": 281,
+        "ConstructionBegin": "март 2010 года",
+        "ConstructionEnd": "май 2011 года",
+        "globalid": 20441107
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.162940638432,
+          55.974899244101
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "город Зеленоград, корпус 2006",
+        "AdmArea": "Зеленоградский административный округ",
+        "District": "район Крюково",
+        "TotalParkingSlots": 185,
+        "ConstructionBegin": "март 2010 года",
+        "ConstructionEnd": "декабрь 2011 года",
+        "globalid": 20441108
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.164591843864,
+          55.970816221857
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "город Зеленоград, корпус 2021",
+        "AdmArea": "Зеленоградский административный округ",
+        "District": "район Крюково",
+        "TotalParkingSlots": 177,
+        "ConstructionBegin": "апрель 2010 года",
+        "ConstructionEnd": "декабрь 2011 года",
+        "globalid": 20441109
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.169927055345,
+          55.975463702109
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "город Зеленоград, корпус 2025",
+        "AdmArea": "Зеленоградский административный округ",
+        "District": "район Крюково",
+        "TotalParkingSlots": 185,
+        "ConstructionBegin": "март 2010 года",
+        "ConstructionEnd": "декабрь 2011 года",
+        "globalid": 20441110
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.174735468422,
+          55.971633742327
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "город Зеленоград, корпус 2036",
+        "AdmArea": "Зеленоградский административный округ",
+        "District": "район Крюково",
+        "TotalParkingSlots": 183,
+        "ConstructionBegin": "апрель 2010 года",
+        "ConstructionEnd": "декабрь 2011 года",
+        "globalid": 20441111
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.69023809425,
+          55.742673556619
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Международная улица, дом 23",
+        "AdmArea": "Центральный административный округ",
+        "District": "Таганский район",
+        "TotalParkingSlots": 258,
+        "ConstructionBegin": "февраль 2010 года",
+        "ConstructionEnd": "декабрь 2010 года",
+        "globalid": 20441113
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.474711560816,
+          55.868359366427
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Смольная улица, дом 42А",
+        "AdmArea": "Северный административный округ",
+        "District": "район Левобережный",
+        "TotalParkingSlots": 100,
+        "ConstructionBegin": "февраль 2010 года",
+        "ConstructionEnd": "декабрь 2010 года",
+        "globalid": 20441115
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.533368954246,
+          55.834349667777
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Большая Академическая улица, дом 43А",
+        "AdmArea": "Северный административный округ",
+        "District": "район Коптево",
+        "TotalParkingSlots": 100,
+        "ConstructionBegin": "апрель 2010 года",
+        "ConstructionEnd": "декабрь 2010 года",
+        "globalid": 20441116
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.523979895313,
+          55.836974876768
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "3-й Михалковский переулок, дом 26А",
+        "AdmArea": "Северный административный округ",
+        "District": "район Коптево",
+        "TotalParkingSlots": 274,
+        "ConstructionBegin": "март 2010 года",
+        "ConstructionEnd": "декабрь 2010 года",
+        "globalid": 20441117
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.779584175971,
+          55.747631620292
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "1-я Владимирская улица, дом 34А",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Перово",
+        "TotalParkingSlots": 100,
+        "ConstructionBegin": "апрель 2010 года",
+        "ConstructionEnd": "декабрь 2010 года",
+        "globalid": 20441118
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.726791812219,
+          55.777684259867
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Кирпичная улица, дом 15",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Соколиная Гора",
+        "TotalParkingSlots": 96,
+        "ConstructionBegin": "июнь 2010 года",
+        "ConstructionEnd": "декабрь 2010 года",
+        "globalid": 20441119
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.727854031175,
+          55.777611462023
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Кирпичная улица, дом 15, строение 1",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Соколиная Гора",
+        "TotalParkingSlots": 91,
+        "ConstructionBegin": "июнь 2010 года",
+        "ConstructionEnd": "декабрь 2010 года",
+        "globalid": 20441120
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.696465491256,
+          55.798940498877
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Колодезный переулок, дом 3Б",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Сокольники",
+        "TotalParkingSlots": 234,
+        "ConstructionBegin": "май 2010 года",
+        "ConstructionEnd": "декабрь 2010 года",
+        "globalid": 20441121
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.561353057309,
+          55.568828445448
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Куликовская улица, дом 18",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Северное Бутово",
+        "TotalParkingSlots": 234,
+        "ConstructionBegin": "март 2010 года",
+        "ConstructionEnd": "август 2010 года",
+        "globalid": 20441122
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.537804420956,
+          55.64867287834
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "улица Бутлерова, дом 15А",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Коньково",
+        "TotalParkingSlots": 207,
+        "ConstructionBegin": "март 2010 года",
+        "ConstructionEnd": "сентябрь 2010 года",
+        "globalid": 20441123
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.434410471185,
+          55.856436193858
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "улица Героев Панфиловцев, дом 7",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Северное Тушино",
+        "TotalParkingSlots": 96,
+        "ConstructionBegin": "июнь 2010 года",
+        "ConstructionEnd": "сентябрь 2010 года",
+        "globalid": 20441124
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.430076945625,
+          55.8575831387
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "улица Героев Панфиловцев, дом 11",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Северное Тушино",
+        "TotalParkingSlots": 260,
+        "ConstructionBegin": "май 2010 года",
+        "ConstructionEnd": "сентябрь 2010 года",
+        "globalid": 20441125
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.717342519564,
+          55.691670545521
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "улица Гурьянова, дом 6, корпус 3",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Печатники",
+        "TotalParkingSlots": 270,
+        "ConstructionBegin": "апрель 2010 года",
+        "ConstructionEnd": "сентябрь 2010 года",
+        "globalid": 20441127
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.659998861588,
+          55.77787146034
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Краснопрудная улица, дом 3, строение 3\n",
+        "AdmArea": "Центральный административный округ",
+        "District": "Красносельский район",
+        "TotalParkingSlots": 124,
+        "ConstructionBegin": "декабрь 2010 года",
+        "ConstructionEnd": "август 2012 года",
+        "globalid": 20443056
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.689247806919,
+          55.743674831616
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Международная улица, дом 21",
+        "AdmArea": "Центральный административный округ",
+        "District": "Таганский район",
+        "TotalParkingSlots": 461,
+        "ConstructionBegin": "февраль 2010 года",
+        "ConstructionEnd": "июль 2011 года",
+        "globalid": 20443472
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.556369011244,
+          55.870233986081
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Бескудниковский бульвар, дом 28А, строение 1\n",
+        "AdmArea": "Северный административный округ",
+        "District": "Бескудниковский район",
+        "TotalParkingSlots": 99,
+        "ConstructionBegin": "июль 2011 года",
+        "ConstructionEnd": "июнь 2014 года",
+        "globalid": 20444460
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.537665203412,
+          55.875105011387
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Бескудниковский бульвар, дом 58А",
+        "AdmArea": "Северный административный округ",
+        "District": "Бескудниковский район",
+        "TotalParkingSlots": 300,
+        "ConstructionBegin": "январь 2010 года",
+        "ConstructionEnd": "сентябрь 2011 года",
+        "globalid": 20444461
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.532601569675,
+          55.780900775478
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "улица Полины Осипенко, дом 16Б",
+        "AdmArea": "Северный административный округ",
+        "District": "Хорошёвский район",
+        "TotalParkingSlots": 100,
+        "ConstructionBegin": "февраль 2010 года",
+        "ConstructionEnd": "декабрь 2011 года",
+        "globalid": 20444462
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.532164101479,
+          55.780097969816
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "улица Полины Осипенко, дом 16А",
+        "AdmArea": "Северный административный округ",
+        "District": "Хорошёвский район",
+        "TotalParkingSlots": 274,
+        "ConstructionBegin": "апрель 2010 года",
+        "ConstructionEnd": "август 2012 года",
+        "globalid": 20444463
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.472823512231,
+          55.871509601564
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Смольная улица, дом 48А",
+        "AdmArea": "Северный административный округ",
+        "District": "район Левобережный",
+        "TotalParkingSlots": 169,
+        "ConstructionBegin": "март 2010 года",
+        "ConstructionEnd": "май 2011 года",
+        "globalid": 20444464
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.649451733825,
+          55.841265733649
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "улица Докукина, 16, корпус 3",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Ростокино",
+        "TotalParkingSlots": 225,
+        "ConstructionBegin": "март 2010 года",
+        "ConstructionEnd": "февраль 2011 года",
+        "globalid": 20444465
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.579476953136,
+          55.878117607479
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Инженерная улица, дом 5, корпус 2",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Алтуфьевский район",
+        "TotalParkingSlots": 717,
+        "ConstructionBegin": "июль 2010 года",
+        "ConstructionEnd": "август 2012 года",
+        "globalid": 20444476
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.606803703455,
+          55.89089901133
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "улица Конёнкова, дом 11, корпус 1",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Бибирево",
+        "TotalParkingSlots": 100,
+        "ConstructionBegin": "май 2010 года",
+        "ConstructionEnd": "май 2013 года",
+        "globalid": 20444477
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.64436073137,
+          55.889886366434
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Полярная улица, 37, корпус 1",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Северное Медведково",
+        "TotalParkingSlots": 189,
+        "ConstructionBegin": "октябрь 2012 года",
+        "ConstructionEnd": "январь 2015 года",
+        "globalid": 20444478
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.709083882224,
+          55.797628681067
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "1-я улица Бухвостова, дом 1",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Преображенское",
+        "TotalParkingSlots": 516,
+        "ConstructionBegin": "февраль 2012 года",
+        "ConstructionEnd": "май 2013 года",
+        "globalid": 20444479
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.754969143668,
+          55.716174122963
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "улица Васильцовский Стан, дом 12, корпус 1",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "Рязанский район",
+        "TotalParkingSlots": 372,
+        "ConstructionBegin": "апрель 2010 года",
+        "ConstructionEnd": "апрель 2011 года\n",
+        "globalid": 20444480
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.753626925842,
+          55.716635689792
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "улица Васильцовский Стан, дом 13, корпус 1",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "Рязанский район",
+        "TotalParkingSlots": 312,
+        "ConstructionBegin": "апрель 2010 года",
+        "ConstructionEnd": "май 2011 года\n",
+        "globalid": 20444481
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.752388241657,
+          55.717115812792
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "улица Васильцовский Стан, дом 13, корпус 2",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "Рязанский район",
+        "TotalParkingSlots": 446,
+        "ConstructionBegin": "май 2010 года",
+        "ConstructionEnd": "май 2011 года",
+        "globalid": 20444482
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.746815897292,
+          55.718160780009
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Саратовская улица, дом 31, корпус 1",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "Рязанский район",
+        "TotalParkingSlots": 324,
+        "ConstructionBegin": "март 2010 года",
+        "ConstructionEnd": "апрель 2011 года",
+        "globalid": 20444483
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.744393523468,
+          55.719854339595
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Волжский бульвар, дом 1, корпус 2",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "Рязанский район",
+        "TotalParkingSlots": 463,
+        "ConstructionBegin": "июнь 2010 года",
+        "ConstructionEnd": "декабрь 2011 года",
+        "globalid": 20444484
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.743525350297,
+          55.720023517932
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Волжский бульвар, дом 1, корпус 1",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "Рязанский район",
+        "TotalParkingSlots": 1136,
+        "ConstructionBegin": "июнь 2010 года",
+        "ConstructionEnd": "декабрь 2011 года",
+        "globalid": 20444485
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.757899013403,
+          55.715115328374
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Окская улица, дом 7, корпус 2",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "Рязанский район",
+        "TotalParkingSlots": 780,
+        "ConstructionBegin": "март 2010 года",
+        "ConstructionEnd": "май 2011 года",
+        "globalid": 20444486
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.665907786063,
+          55.589616981076
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Бирюлёвская улица,  35",
+        "AdmArea": "Южный административный округ",
+        "District": "район Бирюлёво Восточное",
+        "TotalParkingSlots": 130,
+        "ConstructionBegin": "июнь 2010 года",
+        "ConstructionEnd": "ноябрь 2014 года",
+        "globalid": 20444487
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.581718991346,
+          55.537265700568
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Варшавское шоссе, дом 206",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Южное Бутово",
+        "TotalParkingSlots": 300,
+        "ConstructionBegin": "февраль 2010 года",
+        "ConstructionEnd": "июнь 2011 года",
+        "globalid": 20444488
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.476055856837,
+          55.673714586964
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "улица Коштоянца, дом 22",
+        "AdmArea": "Западный административный округ",
+        "District": "район Тропарёво-Никулино",
+        "TotalParkingSlots": 442,
+        "ConstructionBegin": "сентябрь 2010 года",
+        "ConstructionEnd": "октябрь 2014 года",
+        "globalid": 20444489
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.451240511831,
+          55.663602927683
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Никулинская улица, дом 11, корпус 4",
+        "AdmArea": "Западный административный округ",
+        "District": "район Тропарёво-Никулино",
+        "TotalParkingSlots": 418,
+        "ConstructionBegin": "июнь 2010 года",
+        "ConstructionEnd": "декабрь 2011 года",
+        "globalid": 20462878
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.717531482766,
+          55.745017270937
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "2-й Кабельный проезд, 5",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Лефортово",
+        "TotalParkingSlots": 100,
+        "ConstructionBegin": "апрель 2011 года",
+        "ConstructionEnd": "июнь 2014 года",
+        "globalid": 20462879
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.64552891564,
+          55.892902687128
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Полярная улица, 39, корпус 1",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Северное Медведково",
+        "TotalParkingSlots": 275,
+        "ConstructionBegin": "март 2010 года",
+        "ConstructionEnd": "декабрь 2010 года",
+        "globalid": 20463137
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.646299103358,
+          55.780494970623
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Пантелеевская улица, дом 4",
+        "AdmArea": "Центральный административный округ",
+        "District": "Красносельский район",
+        "TotalParkingSlots": 243,
+        "ConstructionBegin": "декабрь 2010 года",
+        "ConstructionEnd": "июль 2013 года",
+        "globalid": 20463260
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.750550344223,
+          55.717759698788
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Саратовская улица, дом 26",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "Рязанский район",
+        "TotalParkingSlots": 150,
+        "ConstructionBegin": "апрель 2010 года",
+        "ConstructionEnd": "сентябрь 2010 года",
+        "globalid": 20463301
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.536136051379,
+          55.862232691887
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "улица Пяловская, дом 1",
+        "AdmArea": "Северный административный округ",
+        "District": "район Западное Дегунино",
+        "TotalParkingSlots": 457,
+        "ConstructionBegin": "февраль 2011 года",
+        "ConstructionEnd": "январь 2016 года",
+        "globalid": 64237024
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.695054060763,
+          55.881891179503
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "улица Малыгина, дом 8А",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Лосиноостровский район",
+        "TotalParkingSlots": 154,
+        "ConstructionBegin": "март 2011 года",
+        "ConstructionEnd": "декабрь 2015 года",
+        "globalid": 64237025
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.539046092846,
+          55.921109327493
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Долгопруднинское шоссе, дом 8",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Северный",
+        "TotalParkingSlots": 348,
+        "ConstructionBegin": "май 2010 года",
+        "ConstructionEnd": "сентябрь 2015 года",
+        "globalid": 64237026
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.728908082357,
+          55.772500792508
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "10-я улица Соколиной Горы, дом 4А",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Соколиная Гора",
+        "TotalParkingSlots": 113,
+        "ConstructionBegin": "июнь 2011 года",
+        "ConstructionEnd": "ноябрь 2015 года",
+        "globalid": 64237079
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.871600278031,
+          55.815365249019
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "улица Западная, дом 7Д",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Восточный",
+        "TotalParkingSlots": 237,
+        "ConstructionBegin": "апрель 2012 года",
+        "ConstructionEnd": "декабрь 2015 года",
+        "globalid": 64237113
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.729486576969,
+          55.781112984452
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "улица Ибрагимова, дом 7А",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Соколиная Гора",
+        "TotalParkingSlots": 100,
+        "ConstructionBegin": "октябрь 2011 года",
+        "ConstructionEnd": "декабрь 2015 года",
+        "globalid": 64237196
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.636859402485,
+          55.681657964082
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Нагатинская улица, дом 7",
+        "AdmArea": "Южный административный округ",
+        "District": "район Нагатино-Садовники",
+        "TotalParkingSlots": 198,
+        "ConstructionBegin": "июль 2010 года",
+        "ConstructionEnd": "декабрь 2015 года",
+        "globalid": 64237257
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.355336458219,
+          55.635598346904
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "улица Шолохова, дом 3",
+        "AdmArea": "Западный административный округ",
+        "District": "район Ново-Переделкино",
+        "TotalParkingSlots": 130,
+        "ConstructionBegin": "ноябрь 2010 года",
+        "ConstructionEnd": "декабрь 2015 года",
+        "globalid": 64237329
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.451414322805,
+          55.663241296699
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Никулинская улица, дом 11, корпус 5",
+        "AdmArea": "Западный административный округ",
+        "District": "район Тропарёво-Никулино",
+        "TotalParkingSlots": 512,
+        "ConstructionBegin": "июнь 2010 года",
+        "ConstructionEnd": "декабрь 2011 года",
+        "globalid": 64244102
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.399424091527,
+          55.899730584712
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Новокуркинское шоссе, дом 18",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Куркино",
+        "TotalParkingSlots": 284,
+        "ConstructionBegin": "декабрь 2010 года",
+        "ConstructionEnd": "октябрь 2012 года",
+        "globalid": 64244103
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.399740361008,
+          55.899038531163
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Новокуркинское шоссе, дом 16",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Куркино",
+        "TotalParkingSlots": 300,
+        "ConstructionBegin": "декабрь 2010 года",
+        "ConstructionEnd": "октябрь 2012 года",
+        "globalid": 64244104
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.535824880746,
+          55.532974076447
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Чечёрский  проезд, дом 9А, строение 1",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Южное Бутово",
+        "TotalParkingSlots": 16,
+        "ConstructionBegin": "январь 2011 года",
+        "ConstructionEnd": "май 2013 года",
+        "globalid": 64337261
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.521717880516,
+          55.528553174466
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Чечёрский проезд, дом 31",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Южное Бутово",
+        "TotalParkingSlots": 763,
+        "ConstructionBegin": "февраль 2011 года",
+        "ConstructionEnd": "октябрь 2012 года",
+        "globalid": 64337494
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.473542556874,
+          55.870842514809
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Смольная улица, дом 48Б",
+        "AdmArea": "Северный административный округ",
+        "District": "район Левобережный",
+        "TotalParkingSlots": 331,
+        "ConstructionBegin": "март 2010 года",
+        "ConstructionEnd": "май 2011 года",
+        "globalid": 64338800
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.682145777088,
+          55.68831430667
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Якорная улица, 1",
+        "AdmArea": "Южный административный округ",
+        "District": "район Нагатинский Затон",
+        "TotalParkingSlots": 245,
+        "ConstructionBegin": "апрель 2011 года",
+        "ConstructionEnd": "октябрь 2016 года",
+        "globalid": 284372442
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.582414975238,
+          55.603014156466
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Академика Янгеля улица, д.14, корп.11",
+        "AdmArea": "Южный административный округ",
+        "District": "район Чертаново Южное",
+        "TotalParkingSlots": 91,
+        "ConstructionBegin": "август 2010 года",
+        "ConstructionEnd": "ноябрь 2016 года",
+        "globalid": 284372445
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.548178746068,
+          55.909533249027
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "МКАД 82-й км, вл.3",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Лианозово",
+        "TotalParkingSlots": 254,
+        "ConstructionBegin": "июль 2010 года",
+        "ConstructionEnd": "ноябрь 2016 года",
+        "globalid": 284372450
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.546122857128,
+          55.55138497971
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Поляны улица, д.22",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Южное Бутово",
+        "TotalParkingSlots": 783,
+        "ConstructionBegin": "октябрь 2011 года",
+        "ConstructionEnd": "декабрь 2016 года",
+        "globalid": 284372451
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.631566548356,
+          55.897943719645
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Корнейчука улица, д.31",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Бибирево",
+        "TotalParkingSlots": 567,
+        "ConstructionBegin": "декабрь 2010 года",
+        "ConstructionEnd": "декабрь 2016 года",
+        "globalid": 284372452
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.401162706382,
+          55.641047415473
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Авиаторов улица, д.7, корп.2",
+        "AdmArea": "Западный административный округ",
+        "District": "район Солнцево",
+        "TotalParkingSlots": 216,
+        "ConstructionBegin": "октябрь 2010 года",
+        "ConstructionEnd": "апрель 2017 года",
+        "globalid": 401132622
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.506737568925,
+          55.646956971026
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Академика Опарина улица, д.7",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Коньково",
+        "TotalParkingSlots": 382,
+        "ConstructionBegin": "ноябрь 2010 года",
+        "ConstructionEnd": "сентябрь 2017 года",
+        "globalid": 659867969
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.397177012849,
+          55.884891373378
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Куркинское шоссе, д.17, корп.2",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Куркино",
+        "TotalParkingSlots": 110,
+        "ConstructionBegin": "декабрь 2010 года",
+        "ConstructionEnd": "октябрь 2017 года",
+        "globalid": 659867979
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.525617487916,
+          55.599467603178
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Голубинская улица, д.21А",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Ясенево",
+        "TotalParkingSlots": 290,
+        "ConstructionBegin": "октябрь 2010 года",
+        "ConstructionEnd": "сентябрь 2017 года",
+        "globalid": 659867980
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.757676413529,
+          55.667905764652
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Верхние Поля улица, д.35",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Люблино",
+        "TotalParkingSlots": 281,
+        "ConstructionBegin": "апрель 2011 года",
+        "ConstructionEnd": "октябрь 2017 года",
+        "globalid": 659867982
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.774570966227,
+          55.67339952676
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Краснодарская улица, д.66, корп.2",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Люблино",
+        "TotalParkingSlots": 283,
+        "ConstructionBegin": "апрель 2011 года",
+        "ConstructionEnd": "декабрь 2017 года",
+        "globalid": 832071058
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.389834042102,
+          55.720484449295
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Барвихинская улица, д.20А",
+        "AdmArea": "Западный административный округ",
+        "District": "Можайский район",
+        "TotalParkingSlots": 316,
+        "ConstructionBegin": "март 2011 года",
+        "ConstructionEnd": "декабрь 2017 года",
+        "globalid": 832095105
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.836152198363,
+          55.815123072792
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Красноярская улица, д.2",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Гольяново",
+        "TotalParkingSlots": 242,
+        "ConstructionBegin": "январь 2011 года",
+        "ConstructionEnd": "декабрь 2017 года",
+        "globalid": 832142369
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.709985566239,
+          55.615386029159
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Каширское шоссе, д.94",
+        "AdmArea": "Южный административный округ",
+        "District": "район Орехово-Борисово Северное",
+        "TotalParkingSlots": 371,
+        "ConstructionBegin": "июнь 2010 года",
+        "ConstructionEnd": "январь 2018 года",
+        "globalid": 860060997
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.397655445226,
+          55.705110357539
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Беловежская улица, д.12",
+        "AdmArea": "Западный административный округ",
+        "District": "Можайский район",
+        "TotalParkingSlots": 473,
+        "ConstructionBegin": "апрель 2011 года",
+        "ConstructionEnd": "январь 2018 года",
+        "globalid": 860061076
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

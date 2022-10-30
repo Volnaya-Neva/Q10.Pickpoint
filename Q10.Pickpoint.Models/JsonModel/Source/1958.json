@@ -1,0 +1,62 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.639781827119,
+          55.774537559102
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Департамент образования и науки города Москвы",
+        "ShortName": "ДОНМ",
+        "AdmArea": "Центральный административный округ",
+        "District": "Красносельский район",
+        "Address": "улица Большая Спасская, дом 15, строение 1; \nулица Большая Спасская, дом 15, строение 4",
+        "ChiefName": "Молотков Александр Борисович",
+        "WebSite": "mos.ru/donm",
+        "INN": "7719028495",
+        "KPP": "770801001",
+        "ExtraInfo": "станция метро Сухаревская",
+        "globalid": 1047120955,
+        "WorkingHoursisdeleted0": 0,
+        "WorkingHoursDayOfWeek0": null,
+        "WorkingHoursHours0": "",
+        "WorkingHoursglobalid0": 29,
+        "WorkingHoursisdeleted1": 0,
+        "WorkingHoursDayOfWeek1": null,
+        "WorkingHoursHours1": "",
+        "WorkingHoursglobalid1": 30,
+        "WorkingHoursisdeleted2": 0,
+        "WorkingHoursDayOfWeek2": null,
+        "WorkingHoursHours2": "",
+        "WorkingHoursglobalid2": 31,
+        "WorkingHoursisdeleted3": 0,
+        "WorkingHoursDayOfWeek3": null,
+        "WorkingHoursHours3": "",
+        "WorkingHoursglobalid3": 32,
+        "WorkingHoursisdeleted4": 0,
+        "WorkingHoursDayOfWeek4": null,
+        "WorkingHoursHours4": "",
+        "WorkingHoursglobalid4": 33,
+        "WorkingHoursisdeleted5": 0,
+        "WorkingHoursDayOfWeek5": null,
+        "WorkingHoursHours5": "",
+        "WorkingHoursglobalid5": 34,
+        "WorkingHoursisdeleted6": 0,
+        "WorkingHoursDayOfWeek6": null,
+        "WorkingHoursHours6": "",
+        "WorkingHoursglobalid6": 35,
+        "Emailisdeleted0": 0,
+        "EmailEmail0": "",
+        "Emailglobalid0": 6,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "PublicPhoneglobalid0": 6
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

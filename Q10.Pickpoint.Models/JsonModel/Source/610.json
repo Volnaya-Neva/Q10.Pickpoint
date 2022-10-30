@@ -1,0 +1,114 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            37.6307309384472,
+            55.7815565883874
+          ]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "CommonName": "ЦЗН",
+        "FullName": "Государственное казенное учреждение города Москвы Центр занятости населения города Москвы",
+        "ShortName": "ГКУ ЦЗН",
+        "ChiefName": "Тарасов Андрей Андреевич",
+        "ChiefPosition": "директор",
+        "ClarificationWorkingHours": "Понедельник, вторник, среда, четверг с 09:00 до 18:00, пятница с 09:00 до 16:45",
+        "WebSite": "czn.mos.ru",
+        "globalid": 641991408
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            37.6707958872109,
+            55.7470053403892
+          ]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "CommonName": "Центр Моя карьера",
+        "FullName": "Государственное бюджетное учреждение города Москвы «Моя карьера»",
+        "ShortName": "ГБУ МК",
+        "ChiefName": "Швец Ирина Юрьевна",
+        "ChiefPosition": "директор",
+        "ClarificationWorkingHours": "Понедельник - пятница: с 09:00 до 20:00\nБез перерыва на обед\nСуббота, воскресенье: выходные дни.\n",
+        "WebSite": "mycareer.moscow",
+        "globalid": 919225779,
+        "OrgInfoisdeleted0": 0,
+        "OrgInfoglobalid0": 470153,
+        "OrgInfoChiefPhone0": [
+          {
+            "isdeleted": 0,
+            "globalid": 573021,
+            "ChiefPhone": ""
+          }
+        ],
+        "OrgInfoINN0": "",
+        "OrgInfoKPP0": "",
+        "OrgInfoOGRN0": "",
+        "OrgInfoLegalAddress0": "",
+        "OrgInfoFullName0": "",
+        "OrgInfoChiefName0": "",
+        "OrgInfoChiefPosition0": "",
+        "ObjectAddressisdeleted0": 0,
+        "ObjectAddressglobalid0": 477105,
+        "ObjectAddressAdmArea0": null,
+        "ObjectAddressDistrict0": null,
+        "ObjectAddressPostalCode0": "",
+        "ObjectAddressAddress0": "",
+        "ObjectAddressSocialServices0": null,
+        "ObjectAddressAvailability0": [
+          {
+            "isdeleted": 0,
+            "globalid": 297330,
+            "availablek": null,
+            "availableo": null,
+            "availablez": null,
+            "availables": null,
+            "availableelement": []
+          }
+        ],
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhoneglobalid0": 48581,
+        "PublicPhonePublicPhone0": "",
+        "WorkingHoursisdeleted0": 0,
+        "WorkingHoursglobalid0": 3287980,
+        "WorkingHoursDayWeek0": null,
+        "WorkingHoursWorkHours0": "",
+        "WorkingHoursisdeleted1": 0,
+        "WorkingHoursglobalid1": 3287970,
+        "WorkingHoursDayWeek1": null,
+        "WorkingHoursWorkHours1": "",
+        "WorkingHoursisdeleted2": 0,
+        "WorkingHoursglobalid2": 3287966,
+        "WorkingHoursDayWeek2": null,
+        "WorkingHoursWorkHours2": "",
+        "WorkingHoursisdeleted3": 0,
+        "WorkingHoursglobalid3": 3287992,
+        "WorkingHoursDayWeek3": null,
+        "WorkingHoursWorkHours3": "",
+        "WorkingHoursisdeleted4": 0,
+        "WorkingHoursglobalid4": 3287956,
+        "WorkingHoursDayWeek4": null,
+        "WorkingHoursWorkHours4": "",
+        "WorkingHoursisdeleted5": 0,
+        "WorkingHoursglobalid5": 3287990,
+        "WorkingHoursDayWeek5": null,
+        "WorkingHoursWorkHours5": "",
+        "WorkingHoursisdeleted6": 0,
+        "WorkingHoursglobalid6": 3287958,
+        "WorkingHoursDayWeek6": null,
+        "WorkingHoursWorkHours6": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,2917 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.7468281896953,
+          55.6740922071156
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ «Детская городская поликлиника №150 Департамента здравоохранения города Москвы» Филиал №1",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Люблино, проспект 40 лет Октября, дом 25",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Люблино",
+        "WorkYear": 2021,
+        "ContractNumber": "32009870012",
+        "Customer": "ГАУ МосжилНИИпроект",
+        "Contractor": "ООО Центр Инженерных Систем",
+        "PlannedStartDate": "18.01.2021",
+        "PlannedEndDate": "01.11.2021",
+        "ActualStartDate": "18.01.2021",
+        "ActualEndDate": "16.05.2022",
+        "WorkStatus": "Завершены",
+        "globalid": 1132650469
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7834898828586,
+          55.7554826241838
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ Детская городская поликлиника № 7 Департамента здравоохранения города Москвы, Филиал № 4",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "город Москва, 2-я Владимирская улица, дом 29А",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Перово",
+        "WorkYear": 2021,
+        "ContractNumber": "32009869989",
+        "Customer": "ГАУ МосжилНИИпроект",
+        "Contractor": "ООО Эксперт-Строй",
+        "PlannedStartDate": "18.01.2021",
+        "PlannedEndDate": "15.07.2021",
+        "ActualStartDate": "18.01.2021",
+        "ActualEndDate": "",
+        "WorkStatus": "В работе",
+        "globalid": 1132656958
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.8079240035618,
+          55.7084366314493
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ «Детская городская поликлиника № 143 Департамента здравоохранения города Москвы», Филиал №3",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Выхино-Жулебино, Ферганская улица, дом 10, корпус 2",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Выхино-Жулебино",
+        "WorkYear": 2021,
+        "ContractNumber": "32009860476",
+        "Customer": "ГАУ МосжилНИИпроект",
+        "Contractor": "ООО ЮВИСТРОЙ",
+        "PlannedStartDate": "03.02.2021",
+        "PlannedEndDate": "15.07.2021",
+        "ActualStartDate": "03.02.2021",
+        "ActualEndDate": "",
+        "WorkStatus": "В работе",
+        "globalid": 1132654688
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7340525904981,
+          55.64973867285
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ «Детская городская поликлиника № 148 Департамента здравоохранения города Москвы», филиал № 3",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Марьино, Новочеркасский бульвар, дом 35",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Марьино",
+        "WorkYear": 2021,
+        "ContractNumber": "32110028847",
+        "Customer": "ГАУ МосжилНИИпроект",
+        "Contractor": "АО ГРУППА КОМПАНИЙ ЕКС",
+        "PlannedStartDate": "18.01.2021",
+        "PlannedEndDate": "01.11.2021",
+        "ActualStartDate": "18.01.2021",
+        "ActualEndDate": "18.04.2022",
+        "WorkStatus": "Завершены",
+        "globalid": 1132658258
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5177533112473,
+          55.6483679251376
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ «Детская городская поликлиника № 81 Департамента здравоохранения города Москвы»",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "город Москва, улица Миклухо-Маклая, дом 29, корпус 3",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Коньково",
+        "WorkYear": 2021,
+        "ContractNumber": "32009852347",
+        "Customer": "ГАУ МосжилНИИпроект",
+        "Contractor": "ООО «Монолит»",
+        "PlannedStartDate": "18.01.2021",
+        "PlannedEndDate": "15.07.2021",
+        "ActualStartDate": "18.01.2021",
+        "ActualEndDate": "18.04.2022",
+        "WorkStatus": "Завершены",
+        "globalid": 1133025447
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5688782737558,
+          55.6556723579595
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ Детская городская поликлиника № 69 Департамент здравоохранения города Москвы, Филиал № 1",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "город Москва, Севастопольский проспект, дом 40, строение 1",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Черёмушки",
+        "WorkYear": 2021,
+        "ContractNumber": "32109931520",
+        "Customer": "ГАУ МосжилНИИпроект",
+        "Contractor": "ООО «ПСК «Континент»",
+        "PlannedStartDate": "18.01.2021",
+        "PlannedEndDate": "15.07.2021",
+        "ActualStartDate": "18.01.2021",
+        "ActualEndDate": "",
+        "WorkStatus": "В работе",
+        "globalid": 1133025931
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4373937717874,
+          55.8649462160958
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ Детская городская поликлиника № 94 Департамент здравоохранения города Москвы, Филиал № 1",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "город Москва, Планерная улица, дом 16",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Северное Тушино",
+        "WorkYear": 2021,
+        "ContractNumber": "32009870040",
+        "Customer": "ГАУ МосжилНИИпроект",
+        "Contractor": "ООО КАРСТРОЙ",
+        "PlannedStartDate": "18.02.2021",
+        "PlannedEndDate": "17.03.2022",
+        "ActualStartDate": "18.02.2021",
+        "ActualEndDate": "21.02.2022",
+        "WorkStatus": "Завершены",
+        "globalid": 1133028199
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5872046260267,
+          55.8572098915457
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ Детская городская поликлиника № 110 Департамента здравоохранения города Москвы, Филиал № 1",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "город Москва, улица Хачатуряна, дом 3",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Отрадное",
+        "WorkYear": 2021,
+        "ContractNumber": "32109930591",
+        "Customer": "ГАУ МосжилНИИпроект",
+        "Contractor": "ООО «БАСК»",
+        "PlannedStartDate": "18.01.2021",
+        "PlannedEndDate": "15.07.2021",
+        "ActualStartDate": "18.01.2021",
+        "ActualEndDate": "28.03.2022",
+        "WorkStatus": "Завершены",
+        "globalid": 1133032901
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.779775051138,
+          55.8125008691288
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ Городская поликлиника № 191 Департамент здравоохранения города Москвы, Филиал № 4",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "город Москва, Амурская улица, дом 36",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Гольяново",
+        "WorkYear": 2021,
+        "ContractNumber": "32109992204",
+        "Customer": "ГАУ МосжилНИИпроект",
+        "Contractor": "ООО «ДИАЛОГ»",
+        "PlannedStartDate": "18.01.2021",
+        "PlannedEndDate": "15.09.2021",
+        "ActualStartDate": "18.01.2021",
+        "ActualEndDate": "08.02.2022",
+        "WorkStatus": "Завершены",
+        "globalid": 1133033484
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5534824598811,
+          55.5514820470831
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ «Детская городская поликлиника № 118 Департамента здравоохранения города Москвы», филиал № 1",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "город Москва, Скобелевская улица, дом 2",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Южное Бутово",
+        "WorkYear": 2021,
+        "ContractNumber": "32009870127",
+        "Customer": "ГАУ МосжилНИИпроект",
+        "Contractor": "ООО «СК Форпост»",
+        "PlannedStartDate": "15.02.2021",
+        "PlannedEndDate": "01.11.2021",
+        "ActualStartDate": "15.02.2021",
+        "ActualEndDate": "16.05.2022",
+        "WorkStatus": "Завершены",
+        "globalid": 1133034842
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7133238747861,
+          55.7859979726826
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ Городская поликлиника № 64 Департамента здравоохранения города Москвы",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Соколиная Гора, Малая Семёновская улица, дом 13, строение 2",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Соколиная Гора",
+        "WorkYear": 2021,
+        "ContractNumber": "32009860474",
+        "Customer": "ГАУ МосжилНИИпроект",
+        "Contractor": "ООО «Монолит»",
+        "PlannedStartDate": "08.02.2021",
+        "PlannedEndDate": "15.07.2021",
+        "ActualStartDate": "08.02.2021",
+        "ActualEndDate": "21.06.2022",
+        "WorkStatus": "Завершены",
+        "globalid": 1133035385
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5346825721425,
+          55.6106389376387
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ Городская поликлиника №134 ДЗМ, филиал № 1",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "город Москва, Тарусская улица, дом 6, корпус 1",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Ясенево",
+        "WorkYear": 2021,
+        "ContractNumber": "9 - АНО",
+        "Customer": "АНО «Развитие городских технологий»",
+        "Contractor": "ООО «Грани города»",
+        "PlannedStartDate": "02.03.2021",
+        "PlannedEndDate": "15.09.2021",
+        "ActualStartDate": "02.03.2021",
+        "ActualEndDate": "",
+        "WorkStatus": "В работе",
+        "globalid": 1133035668
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.3616161341007,
+          55.8496566260947
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ Городская поликлиника № 180 ДЗМ, филиал № 3",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "город Москва, Пятницкое шоссе, дом 29, корпус 3, строение 1",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Митино",
+        "WorkYear": 2021,
+        "ContractNumber": "№ 10 - АНО",
+        "Customer": "АНО «Развитие городских технологий»",
+        "Contractor": "ООО «СК Столица»",
+        "PlannedStartDate": "02.03.2021",
+        "PlannedEndDate": "15.10.2021",
+        "ActualStartDate": "02.03.2021",
+        "ActualEndDate": "",
+        "WorkStatus": "В работе",
+        "globalid": 1133035765
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4623938923383,
+          55.8049519809629
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ Городская Поликлиника № 115 ДЗМ, филиал № 1",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "город Москва, улица Маршала Новикова, дом 14, корпус 1",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Щукино",
+        "WorkYear": 2021,
+        "ContractNumber": "№ 1 - АНО",
+        "Customer": "АНО «Развитие городских технологий»",
+        "Contractor": "ООО «ВСУ»",
+        "PlannedStartDate": "25.02.2021",
+        "PlannedEndDate": "15.09.2021",
+        "ActualStartDate": "25.02.2021",
+        "ActualEndDate": "",
+        "WorkStatus": "В работе",
+        "globalid": 1133035818
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.771493367397,
+          55.6768080388585
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ Городская Поликлиника № 19 ДЗМ, филиал № 3",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Люблино, Краснодарская улица, дом 63",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Люблино",
+        "WorkYear": 2021,
+        "ContractNumber": "№ 16 - АНО",
+        "Customer": "АНО «Развитие городских технологий»",
+        "Contractor": "ООО Альянс",
+        "PlannedStartDate": "02.03.2021",
+        "PlannedEndDate": "15.09.2021",
+        "ActualStartDate": "02.03.2021",
+        "ActualEndDate": "14.06.2022",
+        "WorkStatus": "Завершены",
+        "globalid": 1133036188
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.772058995825,
+          55.6422091678352
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ Городская Поликлиника № 210 ДЗМ, филиал № 2",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "город Москва, Алма-Атинская улица, дом 3, корпус 3",
+        "AdmArea": "Южный административный округ",
+        "District": "район Братеево",
+        "WorkYear": 2021,
+        "ContractNumber": "№ 25 - АНО",
+        "Customer": "АНО «Развитие городских технологий»",
+        "Contractor": "ООО Стройстандарт",
+        "PlannedStartDate": "16.03.2021",
+        "PlannedEndDate": "15.11.2021",
+        "ActualStartDate": "16.03.2021",
+        "ActualEndDate": "",
+        "WorkStatus": "В работе",
+        "globalid": 1133037936
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5012819119578,
+          55.8546318239612
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ Городская Поликлиника № 45ДЗМ, филиал № 5",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "город Москва, Флотская улица, дом 9, строение 1",
+        "AdmArea": "Северный административный округ",
+        "District": "район Ховрино",
+        "WorkYear": 2021,
+        "ContractNumber": "№ 17 - АНО",
+        "Customer": "АНО «Развитие городских технологий»",
+        "Contractor": "ООО «Дендрострой»",
+        "PlannedStartDate": "10.03.2021",
+        "PlannedEndDate": "01.10.2021",
+        "ActualStartDate": "10.03.2021",
+        "ActualEndDate": "",
+        "WorkStatus": "В работе",
+        "globalid": 1133037946
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6183731781352,
+          55.8992819139664
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ Диагностический Центр № 5 ДЗМ, филиал № 4",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "город Москва, улица Корнейчука, дом 28",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Бибирево",
+        "WorkYear": 2021,
+        "ContractNumber": "№ 11 - АНО",
+        "Customer": "АНО «Развитие городских технологий»",
+        "Contractor": "ООО ИнжМедСтрой",
+        "PlannedStartDate": "02.03.2021",
+        "PlannedEndDate": "15.09.2021",
+        "ActualStartDate": "02.03.2021",
+        "ActualEndDate": "25.04.2022",
+        "WorkStatus": "Завершены",
+        "globalid": 1133038006
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.542727925474,
+          55.7562095231898
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГП 220 филиал № 1",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "город Москва, Шмитовский проезд, дом 25, строение 1",
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "WorkYear": 2021,
+        "ContractNumber": "№ 2 - АНО",
+        "Customer": "АНО «Развитие городских технологий»",
+        "Contractor": "ООО «Акпстройинвест»",
+        "PlannedStartDate": "25.02.2021",
+        "PlannedEndDate": "15.09.2021",
+        "ActualStartDate": "25.02.2021",
+        "ActualEndDate": "",
+        "WorkStatus": "В работе",
+        "globalid": 1132408905
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.9169202454021,
+          55.6835475236355
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ Городская поликлиника № 23 ДЗМ, филиал № 4",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "город Москва, 1-я Вольская улица, дом 3, корпус 1",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Некрасовка",
+        "WorkYear": 2021,
+        "ContractNumber": "№ 3 - АНО",
+        "Customer": "АНО «Развитие городских технологий»",
+        "Contractor": "ООО Горстройпроект",
+        "PlannedStartDate": "25.02.2021",
+        "PlannedEndDate": "01.11.2021",
+        "ActualStartDate": "25.02.2021",
+        "ActualEndDate": "25.04.2022",
+        "WorkStatus": "Завершены",
+        "globalid": 1133038050
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4358538531578,
+          55.8612123039692
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ Городская Поликлиника № 219 ДЗМ, филиал № 3",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "город Москва, Планерная улица, дом 8",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Северное Тушино",
+        "WorkYear": 2021,
+        "ContractNumber": "№ 4 - АНО",
+        "Customer": "АНО «Развитие городских технологий»",
+        "Contractor": "ООО «Гарантстрой»",
+        "PlannedStartDate": "25.02.2021",
+        "PlannedEndDate": "15.09.2021",
+        "ActualStartDate": "25.02.2021",
+        "ActualEndDate": "",
+        "WorkStatus": "В работе",
+        "globalid": 1133038054
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5135148524629,
+          55.7122367186578
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ Городская Поликлиника № 209 ДЗМ, филиал № 2",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "город Москва, Мосфильмовская улица, дом 29А",
+        "AdmArea": "Западный административный округ",
+        "District": "район Раменки",
+        "WorkYear": 2021,
+        "ContractNumber": "№ 5 - АНО",
+        "Customer": "АНО «Развитие городских технологий»",
+        "Contractor": "ООО «ТСМ Управление»",
+        "PlannedStartDate": "25.02.2021",
+        "PlannedEndDate": "15.09.2021",
+        "ActualStartDate": "25.02.2021",
+        "ActualEndDate": "",
+        "WorkStatus": "В работе",
+        "globalid": 1133038102
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6189176831463,
+          55.5976752129337
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ Детская Городская Поликлиника № 98 ДЗМ",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "город Москва, Дорожная улица, дом 26",
+        "AdmArea": "Южный административный округ",
+        "District": "район Чертаново Южное",
+        "WorkYear": 2021,
+        "ContractNumber": "№ 12 - АНО",
+        "Customer": "АНО «Развитие городских технологий»",
+        "Contractor": "ООО ГРП",
+        "PlannedStartDate": "02.03.2021",
+        "PlannedEndDate": "15.10.2021",
+        "ActualStartDate": "02.03.2021",
+        "ActualEndDate": "",
+        "WorkStatus": "В работе",
+        "globalid": 1133038469
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.1841566616777,
+          55.9851957890615
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГКБ им. Кончаловского филиал ПО № 5",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "город Москва, город Зеленоград, корпус 911",
+        "AdmArea": "Зеленоградский административный округ",
+        "District": "район Старое Крюково",
+        "WorkYear": 2021,
+        "ContractNumber": "№ 18 - АНО",
+        "Customer": "АНО «Развитие городских технологий»",
+        "Contractor": "ООО АртСтройТехнология",
+        "PlannedStartDate": "10.03.2021",
+        "PlannedEndDate": "15.11.2021",
+        "ActualStartDate": "10.03.2021",
+        "ActualEndDate": "",
+        "WorkStatus": "В работе",
+        "globalid": 1133038885
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5194488589697,
+          55.8019853620658
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ Городская Поликлиника № 62 ДЗМ, филиал № 1",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "город Москва, Чапаевский переулок, дом 4",
+        "AdmArea": "Северный административный округ",
+        "District": "район Сокол",
+        "WorkYear": 2021,
+        "ContractNumber": "№ 28 - АНО",
+        "Customer": "АНО «Развитие городских технологий»",
+        "Contractor": "ООО «СТМ»",
+        "PlannedStartDate": "16.03.2021",
+        "PlannedEndDate": "01.10.2021",
+        "ActualStartDate": "16.03.2021",
+        "ActualEndDate": "",
+        "WorkStatus": "В работе",
+        "globalid": 1133103090
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6805513122988,
+          55.7335731866809
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ Детская Городская Поликлиника № 104 ДЗМ",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Таганский, Сибирский проезд, дом 1, строение 1",
+        "AdmArea": "Центральный административный округ",
+        "District": "Таганский район",
+        "WorkYear": 2021,
+        "ContractNumber": "№ 19 - АНО",
+        "Customer": "АНО «Развитие городских технологий»",
+        "Contractor": "ООО «И-Групп»",
+        "PlannedStartDate": "10.03.2021",
+        "PlannedEndDate": "15.09.2021",
+        "ActualStartDate": "10.03.2021",
+        "ActualEndDate": "14.06.2022",
+        "WorkStatus": "Завершены",
+        "globalid": 1133103852
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7018828685414,
+          55.678686608268
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ Детская Городская Поликлиника № 91 ДЗМ, филиал № 3",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "город Москва, Коломенская набережная, дом 14, корпус 2",
+        "AdmArea": "Южный административный округ",
+        "District": "район Нагатинский Затон",
+        "WorkYear": 2021,
+        "ContractNumber": "№ 6 - АНО",
+        "Customer": "АНО Развитие городских технологий",
+        "Contractor": "ООО МДК",
+        "PlannedStartDate": "25.02.2021",
+        "PlannedEndDate": "15.10.2021",
+        "ActualStartDate": "25.02.2021",
+        "ActualEndDate": "",
+        "WorkStatus": "В работе",
+        "globalid": 1133107371
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7767972652749,
+          55.7252421937194
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ Диагностический Центр № 3 ДЗМ, филиал № 1",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Рязанский, улица Михайлова, дом 33",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "Рязанский район",
+        "WorkYear": 2021,
+        "ContractNumber": "№ 7 - АНО",
+        "Customer": "АНО «Развитие городских технологий»",
+        "Contractor": "АО ГК ЕКС",
+        "PlannedStartDate": "25.02.2021",
+        "PlannedEndDate": "15.09.2021",
+        "ActualStartDate": "25.02.2021",
+        "ActualEndDate": "28.03.2022",
+        "WorkStatus": "Завершены",
+        "globalid": 1133108159
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.8029210490986,
+          55.6374127518268
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ ГКБ им. Демихова, Детская Городская Поликлиника №148 ДЗМ, филиал № 4",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "город Москва, 3-й квартал Капотня, дом 27",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Капотня",
+        "WorkYear": 2021,
+        "ContractNumber": "№ 26 - АНО",
+        "Customer": "АНО РГТ",
+        "Contractor": "АО ГК ЕКС",
+        "PlannedStartDate": "16.03.2021",
+        "PlannedEndDate": "15.11.2021",
+        "ActualStartDate": "16.03.2021",
+        "ActualEndDate": "",
+        "WorkStatus": "В работе",
+        "globalid": 1133108686
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.8586062426211,
+          55.8179241867705
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ «Городская поликлиника № 175 ДЗМ» филиал № 5",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "Западная улица, дом 2, строение 3",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Восточный",
+        "WorkYear": 2021,
+        "ContractNumber": "№ 13 - АНО",
+        "Customer": "АНО «Развитие городских технологий»",
+        "Contractor": "ООО БСО Логистик",
+        "PlannedStartDate": "02.03.2021",
+        "PlannedEndDate": "15.07.2021",
+        "ActualStartDate": "02.03.2021",
+        "ActualEndDate": "18.04.2022",
+        "WorkStatus": "Завершены",
+        "globalid": 1133109571
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.3983023474163,
+          55.8096156153462
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ «Детская городская поликлиника № 58 ДЗМ» филиал №1",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "город Москва, улица Кулакова, дом 13",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Строгино",
+        "WorkYear": 2021,
+        "ContractNumber": "№ 20 - АНО",
+        "Customer": "АНО «Развитие городских технологий»",
+        "Contractor": "ООО КС Энерго",
+        "PlannedStartDate": "10.03.2021",
+        "PlannedEndDate": "15.09.2021",
+        "ActualStartDate": "10.03.2021",
+        "ActualEndDate": "",
+        "WorkStatus": "В работе",
+        "globalid": 1133109988
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4678441635359,
+          55.7782412219748
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ «Детская городская поликлиника № 94 ДЗМ» филиал №2",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "город Москва, бульвар Генерала Карбышева, дом 3",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Хорошёво-Мнёвники",
+        "WorkYear": 2021,
+        "ContractNumber": "№ 8 - АНО",
+        "Customer": "АНО «Развитие городских технологий»",
+        "Contractor": "ООО Ювистрой",
+        "PlannedStartDate": "24.02.2021",
+        "PlannedEndDate": "01.10.2021",
+        "ActualStartDate": "24.02.2021",
+        "ActualEndDate": "",
+        "WorkStatus": "В работе",
+        "globalid": 1133110381
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7206060528005,
+          55.6178892229168
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ «Детская городская поликлиника № 214 ДЗМ» филиал № 2",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "город Москва, улица Генерала Белова, дом 19, корпус 2",
+        "AdmArea": "Южный административный округ",
+        "District": "район Орехово-Борисово Северное",
+        "WorkYear": 2021,
+        "ContractNumber": "№ 21 - АНО",
+        "Customer": "АНО «Развитие городских технологий»",
+        "Contractor": "ООО СК ТОРН",
+        "PlannedStartDate": "10.03.2021",
+        "PlannedEndDate": "15.11.2021",
+        "ActualStartDate": "10.03.2021",
+        "ActualEndDate": "",
+        "WorkStatus": "В работе",
+        "globalid": 1133110807
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7387118801651,
+          55.6451000744203
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ «Городская поликлиника № 36 ДЗМ» филиал № 1",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "город Москва, Новочеркасский бульвар, дом 48",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Марьино",
+        "WorkYear": 2021,
+        "ContractNumber": "№ 22 - АНО",
+        "Customer": "АНО «Развитие городских технологий»",
+        "Contractor": "ООО «И-Групп»",
+        "PlannedStartDate": "10.03.2021",
+        "PlannedEndDate": "15.11.2021",
+        "ActualStartDate": "10.03.2021",
+        "ActualEndDate": "",
+        "WorkStatus": "В работе",
+        "globalid": 1133111589
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4994234158075,
+          55.6762365706914
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ «Городская поликлиника № 8 ДЗМ» филиал № 1",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "город Москва, проспект Вернадского, дом 30",
+        "AdmArea": "Западный административный округ",
+        "District": "район Проспект Вернадского",
+        "WorkYear": 2021,
+        "ContractNumber": "№ 14 - АНО",
+        "Customer": "АНО «Развитие городских технологий»",
+        "Contractor": "ООО Реновации в строительстве",
+        "PlannedStartDate": "02.03.2021",
+        "PlannedEndDate": "15.09.2021",
+        "ActualStartDate": "02.03.2021",
+        "ActualEndDate": "",
+        "WorkStatus": "В работе",
+        "globalid": 1133112131
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4075170187659,
+          55.8115553140828
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ «Городская поликлиника № 180 ДЗМ» филиал № 2",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "город Москва, улица Исаковского, дом 16, корпус 2",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Строгино",
+        "WorkYear": 2021,
+        "ContractNumber": "№ 15 - АНО",
+        "Customer": "АНО «Развитие городских технологий»",
+        "Contractor": "АО АРПТ",
+        "PlannedStartDate": "02.03.2021",
+        "PlannedEndDate": "15.09.2021",
+        "ActualStartDate": "02.03.2021",
+        "ActualEndDate": "",
+        "WorkStatus": "В работе",
+        "globalid": 1133112910
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.8330299222645,
+          55.760317485824
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ «Городская поликлиника № 175 ДЗМ» филиал № 3",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Ивановское, улица Молостовых, дом 7А",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Ивановское",
+        "WorkYear": 2021,
+        "ContractNumber": "№ 23 - АНО",
+        "Customer": "АНО «Развитие городских технологий»",
+        "Contractor": "ООО «ТСП»",
+        "PlannedStartDate": "10.03.2021",
+        "PlannedEndDate": "15.10.2021",
+        "ActualStartDate": "10.03.2021",
+        "ActualEndDate": "25.04.2022",
+        "WorkStatus": "Завершены",
+        "globalid": 1133113342
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.57974700243,
+          55.6862343666872
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ «Городская поликлиника № 22 ДЗМ» филиал № 2",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "город Москва, улица Дмитрия Ульянова, дом 25",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "Академический район",
+        "WorkYear": 2021,
+        "ContractNumber": "№ 24 - АНО",
+        "Customer": "АНО «Развитие городских технологий»",
+        "Contractor": "ООО ВСУ",
+        "PlannedStartDate": "15.03.2021",
+        "PlannedEndDate": "01.10.2021",
+        "ActualStartDate": "15.03.2021",
+        "ActualEndDate": "",
+        "WorkStatus": "В работе",
+        "globalid": 1133114193
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.524411801314,
+          55.8337213042583
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ Детская Городская Поликлиника № 15 ДЗМ, филиал № 1",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "город Москва, Коптевский бульвар, дом 18Б",
+        "AdmArea": "Северный административный округ",
+        "District": "район Коптево",
+        "WorkYear": 2021,
+        "ContractNumber": "№ 29 - АНО",
+        "Customer": "АНО РГТ",
+        "Contractor": "ООО ЦИС",
+        "PlannedStartDate": "30.07.2021",
+        "PlannedEndDate": "14.03.2022",
+        "ActualStartDate": "",
+        "ActualEndDate": "",
+        "WorkStatus": "Приостановлены",
+        "globalid": 1133114774
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5607727252523,
+          55.8892656996538
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ КДЦ №6 ДЗМ, филиал 3",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "город Москва, Дубнинская улица, дом 40, корпус 2",
+        "AdmArea": "Северный административный округ",
+        "District": "район Восточное Дегунино",
+        "WorkYear": 2021,
+        "ContractNumber": "№",
+        "Customer": "не определен",
+        "Contractor": "не определен",
+        "PlannedStartDate": "30.07.2021",
+        "PlannedEndDate": "14.03.2022",
+        "ActualStartDate": "",
+        "ActualEndDate": "",
+        "WorkStatus": "Приостановлены",
+        "globalid": 1133115392
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6694853817295,
+          55.5862884894424
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ ГП №52 ДЗМ, филиал № 3",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "город Москва, Лебедянская улица, дом 10",
+        "AdmArea": "Южный административный округ",
+        "District": "район Бирюлёво Восточное",
+        "WorkYear": 2021,
+        "ContractNumber": "№",
+        "Customer": "не определен",
+        "Contractor": "не определен",
+        "PlannedStartDate": "30.07.2021",
+        "PlannedEndDate": "14.03.2022",
+        "ActualStartDate": "",
+        "ActualEndDate": "",
+        "WorkStatus": "Приостановлены",
+        "globalid": 1133116087
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5188095092804,
+          55.8766681039878
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ КДЦ №6 ДЗМ, филиал № 3",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "город Москва, Ангарская улица, дом 24",
+        "AdmArea": "Северный административный округ",
+        "District": "район Западное Дегунино",
+        "WorkYear": 2021,
+        "ContractNumber": "№",
+        "Customer": "не определен",
+        "Contractor": "не определен",
+        "PlannedStartDate": "30.07.2021",
+        "PlannedEndDate": "14.03.2022",
+        "ActualStartDate": "",
+        "ActualEndDate": "",
+        "WorkStatus": "Приостановлены",
+        "globalid": 1133116441
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4788981797167,
+          55.763902073566
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ ГП №195 ДЗМ, филиал № 5",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "город Москва, Филёвский бульвар, дом 18",
+        "AdmArea": "Западный административный округ",
+        "District": "район Филёвский Парк",
+        "WorkYear": 2021,
+        "ContractNumber": "№",
+        "Customer": "не определен",
+        "Contractor": "не определен",
+        "PlannedStartDate": "30.07.2021",
+        "PlannedEndDate": "14.03.2022",
+        "ActualStartDate": "",
+        "ActualEndDate": "",
+        "WorkStatus": "Приостановлены",
+        "globalid": 1133117379
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.3465750881264,
+          55.8508388377237
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ ДГП № 140 ДЗМ филиал № 2",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "город Москва, Ангелов переулок, дом 9, корпус 1",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Митино",
+        "WorkYear": 2021,
+        "ContractNumber": "№",
+        "Customer": "не определен",
+        "Contractor": "не определен",
+        "PlannedStartDate": "30.07.2021",
+        "PlannedEndDate": "14.03.2022",
+        "ActualStartDate": "",
+        "ActualEndDate": "",
+        "WorkStatus": "Приостановлены",
+        "globalid": 1133117810
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.352738291576,
+          55.7841853932907
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ ГП № 195 ДЗМ филиал №1",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Кунцево, посёлок Рублёво, Советская улица, дом 2",
+        "AdmArea": "Западный административный округ",
+        "District": "район Кунцево",
+        "WorkYear": 2021,
+        "ContractNumber": "349-АНО",
+        "Customer": "АНО «Развитие городских технологий»",
+        "Contractor": "ГБУ «Мосремонт»",
+        "PlannedStartDate": "20.12.2021",
+        "PlannedEndDate": "14.11.2022",
+        "ActualStartDate": "",
+        "ActualEndDate": "",
+        "WorkStatus": "В работе",
+        "globalid": 2373157989
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5814906935521,
+          55.7941238757352
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ «Городская поликлиника № 6 ДЗМ» филиал № 1",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Савеловский, 1-я Квесисская улица, дом 8",
+        "AdmArea": "Северный административный округ",
+        "District": "Савёловский район",
+        "WorkYear": 2021,
+        "ContractNumber": "№ 354-АНО",
+        "Customer": "АНО «Развитие городских технологий»",
+        "Contractor": "ООО «Дендрострой»",
+        "PlannedStartDate": "20.12.2021",
+        "PlannedEndDate": "14.11.2022",
+        "ActualStartDate": "",
+        "ActualEndDate": "",
+        "WorkStatus": "В работе",
+        "globalid": 2373161169
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6096910013309,
+          55.648445021927
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ ГП №2 ДЗМ филиал №3",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "город Москва, Ялтинская улица, дом 10",
+        "AdmArea": "Южный административный округ",
+        "District": "Нагорный район",
+        "WorkYear": 2021,
+        "ContractNumber": "№ 353-АНО",
+        "Customer": "АНО «Развитие городских технологий»",
+        "Contractor": "ООО «КарСтрой»",
+        "PlannedStartDate": "27.12.2021",
+        "PlannedEndDate": "14.11.2022",
+        "ActualStartDate": "",
+        "ActualEndDate": "",
+        "WorkStatus": "В работе",
+        "globalid": 2373161399
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7790474556892,
+          55.7099764056681
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ «Детская городская поликлиника № 48 ДЗМ» филиал №1",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "город Москва, улица Фёдора Полетаева, дом 22",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Кузьминки",
+        "WorkYear": 2021,
+        "ContractNumber": "№ 350 – АНО",
+        "Customer": "АНО «Развитие городских технологий»",
+        "Contractor": "ООО «Грани Города»",
+        "PlannedStartDate": "27.12.2021",
+        "PlannedEndDate": "14.11.2022",
+        "ActualStartDate": "",
+        "ActualEndDate": "",
+        "WorkStatus": "В работе",
+        "globalid": 2373161688
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6076465600944,
+          55.8961001978656
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ «Детская городская поликлиника №125 ДЗМ» филиал №3",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Бибирево, улица Лескова, дом 22А",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Бибирево",
+        "WorkYear": 2021,
+        "ContractNumber": "№ 356 – АНО",
+        "Customer": "АНО сРазвитие городских технологий»",
+        "Contractor": "ЗАО РСФ «Ремстройсервис»",
+        "PlannedStartDate": "27.12.2021",
+        "PlannedEndDate": "14.11.2022",
+        "ActualStartDate": "",
+        "ActualEndDate": "",
+        "WorkStatus": "В работе",
+        "globalid": 2373161817
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6854915656128,
+          55.7416355856405
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ «ГП № 46 ДЗМ», филиал № 1",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Таганский, Рабочая улица, дом 34, строение 1",
+        "AdmArea": "Центральный административный округ",
+        "District": "Таганский район",
+        "WorkYear": 2022,
+        "ContractNumber": "№ 12-22-АНО",
+        "Customer": "АНО «Развитие городских технологий»",
+        "Contractor": "ООО «РКСервис»",
+        "PlannedStartDate": "28.02.2022",
+        "PlannedEndDate": "12.12.2022",
+        "ActualStartDate": "",
+        "ActualEndDate": "",
+        "WorkStatus": "В работе",
+        "globalid": 2373161828
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5656710529184,
+          55.6676102193198
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ «Городская поликлиника № 22 ДЗМ» филиал № 1",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "город Москва, улица Цюрупы, дом 30/63",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Черёмушки",
+        "WorkYear": 2022,
+        "ContractNumber": "№ 9 – 22 – АНО",
+        "Customer": "АНО «Развитие городских технологий»",
+        "Contractor": "ООО «Либерти Лайнс»",
+        "PlannedStartDate": "28.02.2022",
+        "PlannedEndDate": "12.12.2022",
+        "ActualStartDate": "",
+        "ActualEndDate": "",
+        "WorkStatus": "В работе",
+        "globalid": 2373161833
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5791799306995,
+          55.6544937604097
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "«Клинико-диагностический центр №1, филиал №1»",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "город Москва, улица Каховка, дом 12А",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Зюзино",
+        "WorkYear": 2022,
+        "ContractNumber": "№ 351-АНО",
+        "Customer": "АНО «Развитие городских технологий»",
+        "Contractor": "ООО «СКСтолица»",
+        "PlannedStartDate": "27.12.2021",
+        "PlannedEndDate": "19.12.2022",
+        "ActualStartDate": "",
+        "ActualEndDate": "",
+        "WorkStatus": "В работе",
+        "globalid": 2373161834
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7749264101649,
+          55.7902194018814
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБЗУ «Детская городская поликлиника №52 ДЗМ», филиал №2",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "город Москва, Первомайская улица, дом 10А",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Измайлово",
+        "WorkYear": 2022,
+        "ContractNumber": "№ 352-АНО",
+        "Customer": "АНО «Развитие городских технологий»",
+        "Contractor": "ООО «ТСП»",
+        "PlannedStartDate": "27.12.2021",
+        "PlannedEndDate": "19.12.2022",
+        "ActualStartDate": "",
+        "ActualEndDate": "",
+        "WorkStatus": "В работе",
+        "globalid": 2373161889
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6015061701432,
+          55.6010393894738
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ «Городская Поликлиника №170 ДЗМ» филиал №2",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "город Москва, Варшавское шоссе, дом 148, корпус 1",
+        "AdmArea": "Южный административный округ",
+        "District": "район Чертаново Южное",
+        "WorkYear": 2022,
+        "ContractNumber": "№ 14-22 – АНО",
+        "Customer": "АНО «Развитие городских технологий»",
+        "Contractor": "ООО «ИнжМедСтрой»",
+        "PlannedStartDate": "28.02.2022",
+        "PlannedEndDate": "02.02.2023",
+        "ActualStartDate": "",
+        "ActualEndDate": "",
+        "WorkStatus": "В работе",
+        "globalid": 2373161893
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7246401916543,
+          55.6779199373979
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ «Городская поликлиника № 109 ДЗМ», филиал №1",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Печатники, Шоссейная улица, дом 41",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Печатники",
+        "WorkYear": 2023,
+        "ContractNumber": "№ 28-22-АНО",
+        "Customer": "АНО «Развитие Городских Технологий»",
+        "Contractor": "ООО «ГорСтройПроект»",
+        "PlannedStartDate": "21.03.2022",
+        "PlannedEndDate": "20.02.2023",
+        "ActualStartDate": "",
+        "ActualEndDate": "",
+        "WorkStatus": "В работе",
+        "globalid": 2373161896
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5926120325002,
+          55.6205219109726
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ «Детская городская поликлиника № 129 ДЗМ»",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Чертаново Центральное, Чертановская улица, дом 28А",
+        "AdmArea": "Южный административный округ",
+        "District": "район Чертаново Центральное",
+        "WorkYear": 2022,
+        "ContractNumber": "№ 27–22 – АНО",
+        "Customer": "АНО «Развитие городских технологий»",
+        "Contractor": "ООО «Грани города»",
+        "PlannedStartDate": "21.03.2022",
+        "PlannedEndDate": "20.02.2023",
+        "ActualStartDate": "",
+        "ActualEndDate": "",
+        "WorkStatus": "В работе",
+        "globalid": 2373161899
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.712808862176,
+          55.7853947448182
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ Городская поликлиника № 64 ДЗМ",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Соколиная Гора, Малая Семёновская улица, дом 13",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Соколиная Гора",
+        "WorkYear": 2022,
+        "ContractNumber": "№ 13-22-АНО",
+        "Customer": "АНО «Развитие Городских Технологий»",
+        "Contractor": "ООО «ПСК СПЕЦГЕОПРОЕКТ»",
+        "PlannedStartDate": "14.02.2022",
+        "PlannedEndDate": "15.03.2023",
+        "ActualStartDate": "",
+        "ActualEndDate": "",
+        "WorkStatus": "В работе",
+        "globalid": 2373161906
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.8234746655322,
+          55.7541379178344
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ Городская поликлиника № 69 ДЗМ, филиал № 1",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Новогиреево, Федеративный проспект, дом 31",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Новогиреево",
+        "WorkYear": 2023,
+        "ContractNumber": "№ 34-33-АНО",
+        "Customer": "АНО «Развитие Городских Технологий»",
+        "Contractor": "ООО «ТСП»",
+        "PlannedStartDate": "04.04.2022",
+        "PlannedEndDate": "25.03.2023",
+        "ActualStartDate": "",
+        "ActualEndDate": "",
+        "WorkStatus": "В работе",
+        "globalid": 2373162026
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5646749290755,
+          55.8232493582271
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ ГП № 6 ДЗМ филиал № 4",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "город Москва, улица Немчинова, дом 14",
+        "AdmArea": "Северный административный округ",
+        "District": "Тимирязевский район",
+        "WorkYear": 2023,
+        "ContractNumber": "№ 44-22-АНО",
+        "Customer": "АНО «Развитие городских технологий»",
+        "Contractor": "ГБУ «Мосремонт»",
+        "PlannedStartDate": "04.04.2022",
+        "PlannedEndDate": "25.03.2023",
+        "ActualStartDate": "",
+        "ActualEndDate": "",
+        "WorkStatus": "В работе",
+        "globalid": 2373162065
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4744490026896,
+          55.8669581553369
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ «ДГП №133 ДЗМ»",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Левобережный, Смольная улица, дом 55",
+        "AdmArea": "Северный административный округ",
+        "District": "район Левобережный",
+        "WorkYear": 2023,
+        "ContractNumber": "№ 45-22-АНО",
+        "Customer": "АНО «Развитие городских технологий»",
+        "Contractor": "ООО «СТМ»",
+        "PlannedStartDate": "04.04.2022",
+        "PlannedEndDate": "15.03.2023",
+        "ActualStartDate": "",
+        "ActualEndDate": "",
+        "WorkStatus": "В работе",
+        "globalid": 2373162067
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5388371597014,
+          55.8653175397733
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ «ДГП № 86 ДЗМ» филиал № 2",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "город Москва, Дегунинская улица, дом 8А",
+        "AdmArea": "Северный административный округ",
+        "District": "район Западное Дегунино",
+        "WorkYear": 2023,
+        "ContractNumber": "№ 31-22-АНО",
+        "Customer": "АНО «Развитие городских технологий»",
+        "Contractor": "ООО «РОТВЕК»",
+        "PlannedStartDate": "04.04.2022",
+        "PlannedEndDate": "15.03.2023",
+        "ActualStartDate": "",
+        "ActualEndDate": "",
+        "WorkStatus": "В работе",
+        "globalid": 2373162086
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.630009624875,
+          55.7760209918817
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ «ДГП № 32 ДЗМ» филиал № 2",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "город Москва, улица Гиляровского, дом 15",
+        "AdmArea": "Центральный административный округ",
+        "District": "Мещанский район",
+        "WorkYear": 2023,
+        "ContractNumber": "№ 49-22-АНО",
+        "Customer": "АНО «Развитие городских технологий»",
+        "Contractor": "ООО «ГАРАНТСТРОЙ»",
+        "PlannedStartDate": "04.04.2022",
+        "PlannedEndDate": "15.03.2023",
+        "ActualStartDate": "",
+        "ActualEndDate": "",
+        "WorkStatus": "В работе",
+        "globalid": 2373162088
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6613733660713,
+          55.6813968352524
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ «ГП №67 ДЗМ» филиал №1",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Нагатино-Садовники, Высокая улица, дом 19",
+        "AdmArea": "Южный административный округ",
+        "District": "район Нагатино-Садовники",
+        "WorkYear": 2023,
+        "ContractNumber": "№ 33-22-АНО",
+        "Customer": "АНО «Развитие Городских Технологий»",
+        "Contractor": "ООО «Триумф»",
+        "PlannedStartDate": "04.04.2022",
+        "PlannedEndDate": "25.03.2023",
+        "ActualStartDate": "",
+        "ActualEndDate": "",
+        "WorkStatus": "В работе",
+        "globalid": 2373162151
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5378928726173,
+          55.8709204901387
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ «КДЦ №6 ДЗМ» филиал №2",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "город Москва, Бескудниковский бульвар, дом 59, строение 1",
+        "AdmArea": "Северный административный округ",
+        "District": "Бескудниковский район",
+        "WorkYear": 2023,
+        "ContractNumber": "№ 48-22-АНО",
+        "Customer": "АНО «Развитие городских технологий»",
+        "Contractor": "ООО «СтройСити»",
+        "PlannedStartDate": "04.04.2022",
+        "PlannedEndDate": "20.03.2023",
+        "ActualStartDate": "",
+        "ActualEndDate": "",
+        "WorkStatus": "В работе",
+        "globalid": 2373164652
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.8289669151187,
+          55.7765505581196
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ «ДГП № 122 ДЗМ», филиал № 4",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Ивановское, Челябинская улица, дом 16, корпус 1",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Ивановское",
+        "WorkYear": 2023,
+        "ContractNumber": "№ 73-22-АНО",
+        "Customer": "АНО «Развитие городских технологий»",
+        "Contractor": "ООО «ИНТЕРВЕСТ»",
+        "PlannedStartDate": "11.04.2022",
+        "PlannedEndDate": "10.04.2023",
+        "ActualStartDate": "",
+        "ActualEndDate": "",
+        "WorkStatus": "В работе",
+        "globalid": 2373164722
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.448325287827,
+          55.6785752226791
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ «Детская городская поликлиника №131 ДЗМ» филиал №3",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Очаково-Матвеевское, Большая Очаковская улица, дом 38-А",
+        "AdmArea": "Западный административный округ",
+        "District": "район Очаково-Матвеевское",
+        "WorkYear": 2023,
+        "ContractNumber": "№ 62-22-АНО",
+        "Customer": "АНО «Развитие городских технологий»",
+        "Contractor": "ООО «МосСервисСтрой»",
+        "PlannedStartDate": "11.04.2022",
+        "PlannedEndDate": "10.04.2023",
+        "ActualStartDate": "",
+        "ActualEndDate": "",
+        "WorkStatus": "В работе",
+        "globalid": 2373164888
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4585801810418,
+          55.7194480910987
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ «Детская городская поликлиника №30 ДЗМ» филиал №3",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Фили-Давыдково, улица Артамонова, дом 6",
+        "AdmArea": "Западный административный округ",
+        "District": "район Фили-Давыдково",
+        "WorkYear": 2023,
+        "ContractNumber": "№ 61-22-АНО",
+        "Customer": "АНО «Развитие городских технологий»",
+        "Contractor": "ООО «ЭкоСистема»",
+        "PlannedStartDate": "11.04.2022",
+        "PlannedEndDate": "10.04.2023",
+        "ActualStartDate": "",
+        "ActualEndDate": "",
+        "WorkStatus": "В работе",
+        "globalid": 2373164929
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5449612924103,
+          55.800716129997
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ «Городская поликлиника № 62 ДЗМ»",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "город Москва, Красноармейская улица, дом 18",
+        "AdmArea": "Северный административный округ",
+        "District": "район Аэропорт",
+        "WorkYear": 2023,
+        "ContractNumber": "№",
+        "Customer": "АНО «Развитие городских технологий»",
+        "Contractor": "ООО «МЕГАПАРК»",
+        "PlannedStartDate": "04.04.2022",
+        "PlannedEndDate": "25.03.2023",
+        "ActualStartDate": "",
+        "ActualEndDate": "",
+        "WorkStatus": "В работе",
+        "globalid": 2373164932
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6299578055414,
+          55.8192619942916
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ Городская поликлиника № 12 ДЗМ филиал № 2",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Останкинский, улица Цандера, дом 9, строение 1",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Останкинский район",
+        "WorkYear": 2023,
+        "ContractNumber": "№",
+        "Customer": "АНО «Развитие городских технологий»",
+        "Contractor": "ООО «СМУ 13»",
+        "PlannedStartDate": "11.04.2022",
+        "PlannedEndDate": "10.04.2023",
+        "ActualStartDate": "",
+        "ActualEndDate": "",
+        "WorkStatus": "В работе",
+        "globalid": 2373164937
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5269775398399,
+          55.6640963719661
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ «ДГП № 10 ДЗМ» филиал 3",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "город Москва, улица Новаторов, дом 7",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "Обручевский район",
+        "WorkYear": 2023,
+        "ContractNumber": "№ 77-22-АНО",
+        "Customer": "АНО «Развитие городских технологий»",
+        "Contractor": "ООО ПСК «Континент»",
+        "PlannedStartDate": "11.04.2022",
+        "PlannedEndDate": "10.04.2023",
+        "ActualStartDate": "",
+        "ActualEndDate": "",
+        "WorkStatus": "В работе",
+        "globalid": 2373164940
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5821957215266,
+          55.5746306384109
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ «КДП №121 ДЗМ» филиал №7, ГБУЗ «Детская городская поликлиника №118 ДЗМ» филиал №5",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "город Москва, Ратная улица, дом 8Г",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Северное Бутово",
+        "WorkYear": 2023,
+        "ContractNumber": "№",
+        "Customer": "АНО «Развитие городских технологий»",
+        "Contractor": "ООО «Форпост»",
+        "PlannedStartDate": "11.04.2022",
+        "PlannedEndDate": "20.08.2023",
+        "ActualStartDate": "",
+        "ActualEndDate": "",
+        "WorkStatus": "В работе",
+        "globalid": 2373164950
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7407124938502,
+          55.6012285794589
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ Детская городская поликлиника № 12 филиал №1",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Орехово-Борисово Южное, Елецкая улица, дом 35, корпус 1",
+        "AdmArea": "Южный административный округ",
+        "District": "район Орехово-Борисово Южное",
+        "WorkYear": 2023,
+        "ContractNumber": "№ 70 – 22 – АНО",
+        "Customer": "АНО «Развитие городских технологий»",
+        "Contractor": "ООО «МДК»",
+        "PlannedStartDate": "11.04.2022",
+        "PlannedEndDate": "05.05.2024",
+        "ActualStartDate": "",
+        "ActualEndDate": "",
+        "WorkStatus": "В работе",
+        "globalid": 2373164957
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.8225569494013,
+          55.7232760752427
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ «Детская городская поликлиника №7 ДЗМ»",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Вешняки, улица Молдагуловой, дом 5А",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Вешняки",
+        "WorkYear": 2023,
+        "ContractNumber": "№ 75-22-АНО",
+        "Customer": "АНО «Развитие городских технологий»",
+        "Contractor": "ООО «ГАРАНТРЕСТАВПРОЕКТ»",
+        "PlannedStartDate": "11.04.2022",
+        "PlannedEndDate": "05.05.2023",
+        "ActualStartDate": "",
+        "ActualEndDate": "",
+        "WorkStatus": "В работе",
+        "globalid": 2373164968
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4754388966574,
+          55.7364200671718
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ «Детская городская поликлиника №130 ДЗМ» филиал №2",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Фили-Давыдково, улица Пивченкова, дом 9",
+        "AdmArea": "Западный административный округ",
+        "District": "район Фили-Давыдково",
+        "WorkYear": 2023,
+        "ContractNumber": "№ 76-22-АНО",
+        "Customer": "АНО «Развитие городских технологий»",
+        "Contractor": "ООО «Мегалит»",
+        "PlannedStartDate": "11.04.2022",
+        "PlannedEndDate": "10.04.2023",
+        "ActualStartDate": "",
+        "ActualEndDate": "",
+        "WorkStatus": "В работе",
+        "globalid": 2373165126
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6079850137079,
+          55.8614899744729
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ «Городская поликлиника № 107 ДЗМ»",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "город Москва, улица Декабристов, дом 24",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Отрадное",
+        "WorkYear": 2023,
+        "ContractNumber": "№ 79-22-АНО",
+        "Customer": "АНО «Развитие городских технологий»",
+        "Contractor": "АО «ГК «ЕКС»",
+        "PlannedStartDate": "11.04.2022",
+        "PlannedEndDate": "20.08.2023",
+        "ActualStartDate": "",
+        "ActualEndDate": "",
+        "WorkStatus": "В работе",
+        "globalid": 2373165234
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6726637884894,
+          55.7772086389132
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ «Детская городская поликлиника №32 ДЗМ» филиал №3",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Красносельский, Ольховская улица, дом 35, строение 1",
+        "AdmArea": "Центральный административный округ",
+        "District": "Красносельский район",
+        "WorkYear": 2023,
+        "ContractNumber": "№ 74-22-АНО",
+        "Customer": "АНО «Развитие городских технологий»",
+        "Contractor": "ООО «ГАРАНТРЕСТАВПРОЕКТ»",
+        "PlannedStartDate": "11.04.2022",
+        "PlannedEndDate": "10.04.2023",
+        "ActualStartDate": "",
+        "ActualEndDate": "",
+        "WorkStatus": "В работе",
+        "globalid": 2373165238
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7154988918411,
+          55.7333248256519
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ «Диагностический центр №3 ДЗМ» филиал № 5",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Нижегородский, улица Верхняя Хохловка, дом 2, строение 1",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "Нижегородский район",
+        "WorkYear": 2023,
+        "ContractNumber": "№",
+        "Customer": "АНО «Развитие городских технологий»",
+        "Contractor": "ООО «Шаркс»",
+        "PlannedStartDate": "18.04.2022",
+        "PlannedEndDate": "12.05.2023",
+        "ActualStartDate": "",
+        "ActualEndDate": "",
+        "WorkStatus": "В работе",
+        "globalid": 2373165777
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5293649527898,
+          55.7373659188821
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ «КДЦ № 4 ДЗМ» филиал №3",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Дорогомилово, Поклонная улица, дом 8, корпус 3",
+        "AdmArea": "Западный административный округ",
+        "District": "район Дорогомилово",
+        "WorkYear": 2023,
+        "ContractNumber": "№",
+        "Customer": "АНО «Развитие городских технологий»",
+        "Contractor": "ООО «Хорос»",
+        "PlannedStartDate": "25.04.2022",
+        "PlannedEndDate": "15.05.2023",
+        "ActualStartDate": "",
+        "ActualEndDate": "",
+        "WorkStatus": "В работе",
+        "globalid": 2373165962
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.1906129528721,
+          55.978937992942
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ «Детская городская поликлиника № 105 ДЗМ филиал №1»",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "город Москва, город Зеленоград, корпус 805, строение 1",
+        "AdmArea": "Зеленоградский административный округ",
+        "District": "район Старое Крюково",
+        "WorkYear": 2023,
+        "ContractNumber": "№ 81-22 – АНО",
+        "Customer": "АНО «Развитие городских технологий»",
+        "Contractor": "ООО «К7»",
+        "PlannedStartDate": "25.04.2022",
+        "PlannedEndDate": "15.08.2023",
+        "ActualStartDate": "",
+        "ActualEndDate": "",
+        "WorkStatus": "В работе",
+        "globalid": 2373166054
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5746242771337,
+          55.9018453900226
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "«ГБУЗ Диагностический центр № 5 с поликлиническим отделением ДЗМ»",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "город Москва, Абрамцевская улица, дом 16, строение 1",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Лианозово",
+        "WorkYear": 2023,
+        "ContractNumber": "№ 82-22-АНО",
+        "Customer": "АНО «Развитие городских технологий»",
+        "Contractor": "ООО «Центр Инженерных систем»",
+        "PlannedStartDate": "25.04.2022",
+        "PlannedEndDate": "15.09.2023",
+        "ActualStartDate": "",
+        "ActualEndDate": "",
+        "WorkStatus": "В работе",
+        "globalid": 2373166136
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.8580116644171,
+          55.8183747198475
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ «Городская поликлиника № 175 ДЗМ» филиал № 5",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Восточный, Западная улица, дом 2",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Восточный",
+        "WorkYear": 2023,
+        "ContractNumber": "№ 91-22-АНО",
+        "Customer": "АНО «Развитие Городских Технологий»",
+        "Contractor": "ООО «БСО Логистик»",
+        "PlannedStartDate": "04.05.2022",
+        "PlannedEndDate": "12.05.2023",
+        "ActualStartDate": "",
+        "ActualEndDate": "",
+        "WorkStatus": "В работе",
+        "globalid": 2373166236
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4770172316969,
+          55.6408964452563
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ «Диагностический клинический центр №1, филиал №4»",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Теплый Стан, улица Академика Бакулева, дом 18",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Тёплый Стан",
+        "WorkYear": 2023,
+        "ContractNumber": "№ 93-22-АНО",
+        "Customer": "АНО «Развитие городских технологий»",
+        "Contractor": "ООО «К-ТЕХ»",
+        "PlannedStartDate": "04.05.2022",
+        "PlannedEndDate": "15.08.2023",
+        "ActualStartDate": "",
+        "ActualEndDate": "",
+        "WorkStatus": "В работе",
+        "globalid": 2373166333
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.8103834907135,
+          55.6992457591582
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ «Городская поликлиника № 23 ДЗМ» филиал № 2",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "город Москва, Ташкентская улица, дом 25, корпус 2, строение 1",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Выхино-Жулебино",
+        "WorkYear": 2023,
+        "ContractNumber": "№",
+        "Customer": "АНО «Развитие городских технологий»",
+        "Contractor": "ООО «Шаркс»",
+        "PlannedStartDate": "11.05.2022",
+        "PlannedEndDate": "12.06.2023",
+        "ActualStartDate": "",
+        "ActualEndDate": "",
+        "WorkStatus": "В работе",
+        "globalid": 2373166417
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5928692222739,
+          55.8934601985962
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ «Диагностический центр № 5 ДЗМ» филиал № 3",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "город Москва, Шенкурский проезд, дом 8А",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Бибирево",
+        "WorkYear": 2023,
+        "ContractNumber": "№",
+        "Customer": "АНО «Развитие городских технологий»",
+        "Contractor": "ООО «Меком»",
+        "PlannedStartDate": "11.05.2022",
+        "PlannedEndDate": "12.06.2023",
+        "ActualStartDate": "",
+        "ActualEndDate": "",
+        "WorkStatus": "В работе",
+        "globalid": 2373166521
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7260340741844,
+          55.8771426868525
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ «Городская поликлиника №218 ДЗМ»",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "город Москва, улица Ротерта, дом 12",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Ярославский район",
+        "WorkYear": 2023,
+        "ContractNumber": "№ 110-22-АНО",
+        "Customer": "АНО «Развитие городских технологий»",
+        "Contractor": "ЗАО РСФ «Ремстройсервис»",
+        "PlannedStartDate": "16.05.2022",
+        "PlannedEndDate": "20.08.2023",
+        "ActualStartDate": "",
+        "ActualEndDate": "",
+        "WorkStatus": "В работе",
+        "globalid": 2373166633
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5159542160372,
+          55.5452897698435
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ «ДГП № 118 ДЗМ» филиал № 2",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Южное Бутово, Бартеневская улица, дом 61",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Южное Бутово",
+        "WorkYear": 2023,
+        "ContractNumber": "№",
+        "Customer": "АНО «Развитие городских технологий»",
+        "Contractor": "ООО «СК Форпост»",
+        "PlannedStartDate": "30.05.2022",
+        "PlannedEndDate": "11.09.2023",
+        "ActualStartDate": "",
+        "ActualEndDate": "",
+        "WorkStatus": "В работе",
+        "globalid": 2373166739
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7697055659434,
+          55.6702140032417
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ «ДГП № 150 ДЗМ» филиал № 2",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "город Москва, Цимлянская улица, дом 22",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Люблино",
+        "WorkYear": 2023,
+        "ContractNumber": "№",
+        "Customer": "АНО «Развитие городских технологий»",
+        "Contractor": "ООО «СК АНКОН»",
+        "PlannedStartDate": "30.05.2022",
+        "PlannedEndDate": "11.09.2023",
+        "ActualStartDate": "",
+        "ActualEndDate": "",
+        "WorkStatus": "В работе",
+        "globalid": 2373166818
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.746967824353,
+          55.6516009077671
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ «ДГП № 150 ДЗМ» филиал № 3",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Марьино, Новомарьинская улица, дом 3",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Марьино",
+        "WorkYear": 2023,
+        "ContractNumber": "№ 113-22-АНО",
+        "Customer": "АНО «Развитие Городских Технологий»",
+        "Contractor": "ООО «Альянс»",
+        "PlannedStartDate": "06.06.2022",
+        "PlannedEndDate": "20.09.2023",
+        "ActualStartDate": "",
+        "ActualEndDate": "",
+        "WorkStatus": "В работе",
+        "globalid": 2373166984
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.526533456915,
+          55.6005424964465
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ «Детская городская поликлиника № 42 ДЗМ» Филиал №1",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Ясенево, Голубинская улица, дом 21, корпус 2",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Ясенево",
+        "WorkYear": 2020,
+        "ContractNumber": "№",
+        "Customer": "АНО «Развитие Городских Технологий»",
+        "Contractor": "ООО «Срой Стандарт»",
+        "PlannedStartDate": "30.06.2020",
+        "PlannedEndDate": "27.06.2022",
+        "ActualStartDate": "",
+        "ActualEndDate": "",
+        "WorkStatus": "В работе",
+        "globalid": 2373167141
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7688661785404,
+          55.6411201614968
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ «Детская городская поликлиника № 145 ДЗМ» филиал №1",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Братеево, Алма-Атинская улица, дом 6, корпус 1",
+        "AdmArea": "Южный административный округ",
+        "District": "район Братеево",
+        "WorkYear": 2020,
+        "ContractNumber": "№",
+        "Customer": "АНО «Развитие Городских Технологий»",
+        "Contractor": "АО «АРПТ»",
+        "PlannedStartDate": "30.06.2020",
+        "PlannedEndDate": "25.07.2022",
+        "ActualStartDate": "",
+        "ActualEndDate": "",
+        "WorkStatus": "В работе",
+        "globalid": 2373167340
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5533569621445,
+          55.5424159754335
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ «Консультативно -диагностический центр № 121 ДЗМ» филиал № 2",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "город Москва, Венёвская улица, дом 27",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Южное Бутово",
+        "WorkYear": 2022,
+        "ContractNumber": "№",
+        "Customer": "АНО «Развитие Городских Технологий»",
+        "Contractor": "ООО СК «Форпост»",
+        "PlannedStartDate": "14.02.2022",
+        "PlannedEndDate": "12.12.2022",
+        "ActualStartDate": "",
+        "ActualEndDate": "",
+        "WorkStatus": "В работе",
+        "globalid": 2373167535
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7085635153363,
+          55.6122346757606
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ «Городская поликлиника № 166 ДЗМ»",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Орехово-Борисово Северное, Домодедовская улица, дом 9",
+        "AdmArea": "Южный административный округ",
+        "District": "район Орехово-Борисово Северное",
+        "WorkYear": 2022,
+        "ContractNumber": "№",
+        "Customer": "АНО «Развитие Городских Технологий»",
+        "Contractor": "ООО «ФАГОТ»",
+        "PlannedStartDate": "28.02.2022",
+        "PlannedEndDate": "26.12.2022",
+        "ActualStartDate": "",
+        "ActualEndDate": "",
+        "WorkStatus": "В работе",
+        "globalid": 2373167812
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.8466798800361,
+          55.7159865594595
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ «Городская поликлиника № 66 ДЗМ» филиал № 3",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Косино-Ухтомский, Красносолнечная улица, дом 40А",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Косино-Ухтомский",
+        "WorkYear": 2023,
+        "ContractNumber": "№",
+        "Customer": "АНО «Развитие Городских Технологий»",
+        "Contractor": "ООО «Интервест»",
+        "PlannedStartDate": "04.04.2022",
+        "PlannedEndDate": "15.03.2023",
+        "ActualStartDate": "",
+        "ActualEndDate": "",
+        "WorkStatus": "В работе",
+        "globalid": 2373168050
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.8266133252355,
+          55.8052023687531
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ «Городская поликлиника № 191 ДЗМ» филиал № 2",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Северное Измайлово, Сиреневый бульвар, дом 71А",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Северное Измайлово",
+        "WorkYear": 2023,
+        "ContractNumber": "№",
+        "Customer": "АНО «Развитие Городских Технологий»",
+        "Contractor": "ООО «ПСК СПЕЦГЕОПРОЕКТ»",
+        "PlannedStartDate": "04.04.2022",
+        "PlannedEndDate": "25.03.2023",
+        "ActualStartDate": "",
+        "ActualEndDate": "",
+        "WorkStatus": "В работе",
+        "globalid": 2373168170
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.2979333039825,
+          55.615775419441
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ «Городская поликлиника № 212 ДЗМ» филиал № 217",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Внуково, Насосная улица, дом 1А, строение 1",
+        "AdmArea": "Западный административный округ",
+        "District": "район Внуково",
+        "WorkYear": 2023,
+        "ContractNumber": "№",
+        "Customer": "АНО «Развитие Городских Технологий»",
+        "Contractor": "ООО «ЦИС»",
+        "PlannedStartDate": "04.04.2022",
+        "PlannedEndDate": "20.05.2023",
+        "ActualStartDate": "",
+        "ActualEndDate": "",
+        "WorkStatus": "В работе",
+        "globalid": 2373168365
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5141441889317,
+          55.7125588441018
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ «Детская городская поликлиника № 131 ДЗМ» филиал №2",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Раменки, Мосфильмовская улица, дом 27А",
+        "AdmArea": "Западный административный округ",
+        "District": "район Раменки",
+        "WorkYear": 2023,
+        "ContractNumber": "№",
+        "Customer": "АНО «Развитие Городских Технологий»",
+        "Contractor": "ООО «ТСМ Управление»",
+        "PlannedStartDate": "04.04.2022",
+        "PlannedEndDate": "15.03.2023",
+        "ActualStartDate": "",
+        "ActualEndDate": "",
+        "WorkStatus": "В работе",
+        "globalid": 2373168644
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.3650922996201,
+          55.6393729679778
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ «Детская городская поликлиника № 132 ДЗМ»",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Ново-Переделкино, Новоорловская улица, дом 2, корпус 1",
+        "AdmArea": "Западный административный округ",
+        "District": "район Ново-Переделкино",
+        "WorkYear": 2023,
+        "ContractNumber": "№",
+        "Customer": "АНО «Развитие Городских Технологий»",
+        "Contractor": "ООО «СК Столица»",
+        "PlannedStartDate": "04.04.2022",
+        "PlannedEndDate": "20.05.2023",
+        "ActualStartDate": "",
+        "ActualEndDate": "",
+        "WorkStatus": "В работе",
+        "globalid": 2373168755
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5017203954382,
+          55.7513985675687
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ «Консультативно -диагностический центр № 4ДЗМ» филиал № 2",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Филевский Парк, Физкультурный проезд, дом 6",
+        "AdmArea": "Западный административный округ",
+        "District": "район Филёвский Парк",
+        "WorkYear": 2023,
+        "ContractNumber": "№",
+        "Customer": "АНО «Развитие Городских Технологий»",
+        "Contractor": "ООО «СК Форпост»",
+        "PlannedStartDate": "04.04.2022",
+        "PlannedEndDate": "20.04.2023",
+        "ActualStartDate": "",
+        "ActualEndDate": "",
+        "WorkStatus": "В работе",
+        "globalid": 2373168985
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.611996557281,
+          55.8016050535454
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ «Городская поликлиника № 12 ДЗМ» филиал № 5",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "город Москва, 9-й проезд Марьиной Рощи, дом 8А, строение 1",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Марьина Роща",
+        "WorkYear": 2023,
+        "ContractNumber": "№",
+        "Customer": "АНО «Развитие Городских Технологий»",
+        "Contractor": "ООО «Антери»",
+        "PlannedStartDate": "04.04.2022",
+        "PlannedEndDate": "25.03.2023",
+        "ActualStartDate": "",
+        "ActualEndDate": "",
+        "WorkStatus": "В работе",
+        "globalid": 2373169159
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6924607142828,
+          55.8800345117846
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ «Городская поликлиника № 218 ДЗМ» филиал № 3",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Лосиноостровский, 1-я Напрудная улица, дом 15",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Лосиноостровский район",
+        "WorkYear": 2023,
+        "ContractNumber": "№",
+        "Customer": "АНО «Развитие Городских Технологий»",
+        "Contractor": "ЗАО ПСФ «Ремстройсервис»",
+        "PlannedStartDate": "04.04.2022",
+        "PlannedEndDate": "25.03.2023",
+        "ActualStartDate": "",
+        "ActualEndDate": "",
+        "WorkStatus": "В работе",
+        "globalid": 2373169458
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4494337849975,
+          55.8335383075263
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ «Детская городская поликлиника № 94 ДЗМ»",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "город Москва, Вишнёвая улица, дом 20, корпус 2",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Покровское-Стрешнево",
+        "WorkYear": 2023,
+        "ContractNumber": "№",
+        "Customer": "АНО «Развитие Городских Технологий»",
+        "Contractor": "ГБУ «Мосремонт»",
+        "PlannedStartDate": "04.04.2022",
+        "PlannedEndDate": "15.03.2023",
+        "ActualStartDate": "",
+        "ActualEndDate": "",
+        "WorkStatus": "В работе",
+        "globalid": 2373169574
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6170754181579,
+          55.7143915676072
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ «Детская городская поликлиника № 91 ДЗМ» филиал № 2",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "город Москва, улица Лестева, дом 5",
+        "AdmArea": "Южный административный округ",
+        "District": "Даниловский район",
+        "WorkYear": 2023,
+        "ContractNumber": "№",
+        "Customer": "АНО «Развитие Городских Технологий»",
+        "Contractor": "ООО «Меридиан»",
+        "PlannedStartDate": "04.04.2022",
+        "PlannedEndDate": "15.03.2023",
+        "ActualStartDate": "",
+        "ActualEndDate": "",
+        "WorkStatus": "В работе",
+        "globalid": 2373169682
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5328078455758,
+          55.6741235408087
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ «Детская городская поликлиника № 10 ДЗМ» филиал № 1",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Ломоносовский, улица Академика Пилюгина, дом 26, корпус 5",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "Ломоносовский район",
+        "WorkYear": 2023,
+        "ContractNumber": "№",
+        "Customer": "АНО «Развитие Городских Технологий»",
+        "Contractor": "ООО «ЦИС»",
+        "PlannedStartDate": "04.04.2022",
+        "PlannedEndDate": "25.03.2023",
+        "ActualStartDate": "",
+        "ActualEndDate": "",
+        "WorkStatus": "В работе",
+        "globalid": 2373169744
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4059623702633,
+          55.7624324102312
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectImpName": "ГБУЗ «Детская городская поликлиника № 130 ДЗМ» филиал № 1",
+        "WorkType": "Работы по капитальному ремонту городской поликлиники",
+        "WorkArea": "",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Крылатское, Осенний бульвар, дом 19",
+        "AdmArea": "Западный административный округ",
+        "District": "район Крылатское",
+        "WorkYear": 2023,
+        "ContractNumber": "№",
+        "Customer": "АНО «Развитие Городских Технологий»",
+        "Contractor": "ООО «Стройситикомплект»",
+        "PlannedStartDate": "04.04.2022",
+        "PlannedEndDate": "20.05.2023",
+        "ActualStartDate": "",
+        "ActualEndDate": "",
+        "WorkStatus": "В работе",
+        "globalid": 2373169851
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

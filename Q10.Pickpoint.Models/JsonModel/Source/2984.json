@@ -1,0 +1,545 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.5759155,
+          55.7396355
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Парковка №5010 (1)",
+        "Capacity": 1,
+        "AdmArea": "Центральный административный округ",
+        "District": "район Хамовники",
+        "Location": "улица Плющиха, дом 44/2 (со стороны 1-го Вражского переулка)",
+        "globalid": 1036018658
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5601355,
+          55.7277125
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Парковка №5008",
+        "Capacity": 1,
+        "AdmArea": "Центральный административный округ",
+        "District": "район Хамовники",
+        "Location": "Новодевичий проезд, дом 2",
+        "globalid": 1036018659
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.628142,
+          55.7437665
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Парковка №5005",
+        "Capacity": 1,
+        "AdmArea": "Центральный административный округ",
+        "District": "район Замоскворечье",
+        "Location": "Пятницкая улица, дом 13",
+        "globalid": 1036018660
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5918595,
+          55.7406155
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Парковка №5016",
+        "Capacity": 1,
+        "AdmArea": "Центральный административный округ",
+        "District": "район Хамовники",
+        "Location": "улица Пречистенка, дом 25",
+        "globalid": 1036018661
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.581115,
+          55.723622
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Парковка №5011",
+        "Capacity": 1,
+        "AdmArea": "Центральный административный округ",
+        "District": "район Хамовники",
+        "Location": "2-я Фрунзенская улица, дом 10, корпус 1",
+        "globalid": 1036018662
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.629113,
+          55.733196
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Парковка №5018",
+        "Capacity": 5,
+        "AdmArea": "Центральный административный округ",
+        "District": "район Замоскворечье",
+        "Location": "2-й Новокузнецкий переулок, дом 13/15, строение 6",
+        "globalid": 1036018675
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.630046,
+          55.733019
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Парковка №5019",
+        "Capacity": 5,
+        "AdmArea": "Центральный административный округ",
+        "District": "район Замоскворечье",
+        "Location": "2-й Новокузнецкий переулок, дом 13/15, строение 6",
+        "globalid": 1043839788
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6342275,
+          55.7253405
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Парковка №5001",
+        "Capacity": 1,
+        "AdmArea": "Центральный административный округ",
+        "District": "район Замоскворечье",
+        "Location": "Большая Пионерская улица, дом 40, строение 1",
+        "globalid": 1036018664
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.650318,
+          55.7589655
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Парковка №5014",
+        "Capacity": 1,
+        "AdmArea": "Центральный административный округ",
+        "District": "Басманный район",
+        "Location": "Подсосенский переулок, дом 3, корпус 1",
+        "globalid": 1036018663
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6173441673401,
+          55.7634650303158
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Парковка №5012",
+        "Capacity": 1,
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Location": "улица Петровка, дом 11",
+        "globalid": 1036018666
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6341072876539,
+          55.7426035514538
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Парковка №5002",
+        "Capacity": 1,
+        "AdmArea": "Центральный административный округ",
+        "District": "район Замоскворечье",
+        "Location": "улица Большая Татарская, дом 13, строение 5 (со стороны Руновского переулка)",
+        "globalid": 1036018665
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.634158,
+          55.7550665
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Парковка №5003",
+        "Capacity": 1,
+        "AdmArea": "Центральный административный округ",
+        "District": "Басманный район",
+        "Location": "Лубянский проезд, дом 25, строение 1",
+        "globalid": 1036018667
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5992165,
+          55.746955
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Парковка №5015",
+        "Capacity": 1,
+        "AdmArea": "Центральный административный округ",
+        "District": "район Хамовники",
+        "Location": "Гоголевский бульвар, дом 17, строение 1",
+        "globalid": 1036018670
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6446145,
+          55.762142
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Парковка №5004",
+        "Capacity": 1,
+        "AdmArea": "Центральный административный округ",
+        "District": "Басманный район",
+        "Location": "Чистопрудный бульвар, дом 15, строение 1",
+        "globalid": 1036018669
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6266155,
+          55.7526295
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Парковка №5017",
+        "Capacity": 2,
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Location": "улица Ильинка, дом 4",
+        "globalid": 1036018671
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5842795,
+          55.738791
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Парковка №5009",
+        "Capacity": 1,
+        "AdmArea": "Центральный административный округ",
+        "District": "район Хамовники",
+        "Location": "Смоленский бульвар, дом 1/2 (со стороны улицы Бурденко)",
+        "globalid": 1036018672
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5390305,
+          55.757464
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Парковка №5013",
+        "Capacity": 1,
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "Location": "Стрельбищенский переулок, дом 5, (со стороны 3-й Красногвардейской улицы)",
+        "globalid": 1036018673
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5667548946704,
+          55.7274456297585
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Парковка №5006",
+        "Capacity": 1,
+        "AdmArea": "Центральный административный округ",
+        "District": "район Хамовники",
+        "Location": "Малая Пироговская улица, дом 21, (со стороны Усачёвского переулка)",
+        "globalid": 1036018674
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6193545,
+          55.7341995
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Парковка №5025",
+        "Capacity": 1,
+        "AdmArea": "Центральный административный округ",
+        "District": "район Якиманка",
+        "Location": "улица Большая Полянка, дом 30",
+        "globalid": 1036018676
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.632036,
+          55.7897225
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Парковка №5024",
+        "Capacity": 1,
+        "AdmArea": "Центральный административный округ",
+        "District": "Мещанский район",
+        "Location": "Трифоновская улица, дом 56",
+        "globalid": 1036018677
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6163105,
+          55.765092
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Парковка №5023",
+        "Capacity": 1,
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Location": "улица Петровка, дом 19, строение 1",
+        "globalid": 1036018678
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5941475,
+          55.771943
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Парковка №5022",
+        "Capacity": 1,
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Location": "2-я Тверская-Ямская улица, дом 20-22, строение 2",
+        "globalid": 1036018679
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6631475,
+          55.7699025
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Парковка №5021",
+        "Capacity": 1,
+        "AdmArea": "Центральный административный округ",
+        "District": "Басманный район",
+        "Location": "Новая Басманная улица, дом 25/2 (со стороны 1-го Басманного переулка)",
+        "globalid": 1036018680
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6388945,
+          55.7580205
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Парковка №5020",
+        "Capacity": 1,
+        "AdmArea": "Центральный административный округ",
+        "District": "Басманный район",
+        "Location": "улица Покровка, дом 2/1, строение 1, (со стороны Старосадского переулка)",
+        "globalid": 1036018681
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.624199,
+          55.76209
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Парковка №5007",
+        "Capacity": 1,
+        "AdmArea": "Центральный административный округ",
+        "District": "Мещанский район",
+        "Location": "улица Кузнецкий Мост, дом 20/6/9, строение 1",
+        "globalid": 1036018668
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5526135,
+          55.7585755
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Парковка №5026",
+        "Capacity": 1,
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "Location": "Шмитовский проезд, дом 10/7",
+        "globalid": 1069622308
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5267675,
+          55.7386905
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Парковка №5027",
+        "Capacity": 1,
+        "AdmArea": "Западный административный округ",
+        "District": "район Дорогомилово",
+        "Location": "Кутузовский проспект, дом 36А",
+        "globalid": 2366530712
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6468075,
+          55.717735
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Парковка №5028",
+        "Capacity": 1,
+        "AdmArea": "Южный административный округ",
+        "District": "Даниловский район",
+        "Location": "Дербеневская улица, дом 24",
+        "globalid": 2366530714
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5916795,
+          55.7327725
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Парковка №5029",
+        "Capacity": 1,
+        "AdmArea": "Центральный административный округ",
+        "District": "район Хамовники",
+        "Location": "Комсомольский проспект, дом 6",
+        "globalid": 2366530717
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.629831,
+          55.7273595
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Парковка №5030",
+        "Capacity": 1,
+        "AdmArea": "Центральный административный округ",
+        "District": "район Замоскворечье",
+        "Location": "Стремянный переулок, дом 26",
+        "globalid": 2366530719
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

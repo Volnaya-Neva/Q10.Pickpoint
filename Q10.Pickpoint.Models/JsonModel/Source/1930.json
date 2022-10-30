@@ -1,0 +1,195 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.6824817410997,
+          55.7453235997382
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "CommonName": "ГБУ «Центральный государственный архив трудовых отношений города Москвы»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Таганский район",
+        "Address": "город Москва, Международная улица, дом 10, строение 1",
+        "WorkHoursClarification": "",
+        "WebSite": "www.cgato.mos.ru",
+        "globalid": 25159596
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6661965111636,
+          55.7440299868699
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "CommonName": "ГКУ «Центральный объединенный архив города Москвы»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Таганский район",
+        "Address": "город Москва, Товарищеский переулок, дом 25, строение 1",
+        "WorkHoursClarification": "",
+        "WebSite": "coa.mos.ru",
+        "globalid": 25159597
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.57444029,
+          55.73249516
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "CommonName": "Государственный архив Российской Федерации",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Хамовники",
+        "Address": "город Москва, Большая Пироговская улица, дом 17, строение 1",
+        "WorkHoursClarification": "",
+        "WebSite": "www.statearchive.ru",
+        "globalid": 25159598
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.57444029,
+          55.73249516
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "CommonName": "Российский государственный архив экономики",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Хамовники",
+        "Address": "город Москва, Большая Пироговская улица, дом 17, строение 1",
+        "WorkHoursClarification": "",
+        "WebSite": "www.rgae.ru",
+        "globalid": 25159599
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.489719380744,
+          55.8341293073429
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "CommonName": "Российский государственный военный архив",
+        "AdmArea": "Северный административный округ",
+        "District": "Войковский район",
+        "Address": "город Москва, улица Адмирала Макарова, дом 29",
+        "WorkHoursClarification": "",
+        "WebSite": "rgvarchive.ru",
+        "globalid": 25159600
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.48812713,
+          55.83406198
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "CommonName": "Российский государственный архив литературы и искусства",
+        "AdmArea": "Северный административный округ",
+        "District": "Войковский район",
+        "Address": "город Москва, Выборгская улица, дом 3, корпус 2",
+        "WorkHoursClarification": "",
+        "WebSite": "www.rgali.ru",
+        "globalid": 25159601
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5388996,
+          55.65743035
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "CommonName": "Российский государственный архив научно-технической документации",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "Обручевский район",
+        "Address": "город Москва, Профсоюзная улица, дом 82",
+        "WorkHoursClarification": "",
+        "WebSite": "www.rgantd.ru",
+        "globalid": 25159603
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6285771558238,
+          55.7554085191896
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "CommonName": "Российский государственный архив новейшей истории",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "город Москва, улица Ильинка, дом 12/2/1, строение 1",
+        "WorkHoursClarification": "",
+        "WebSite": "ргани.рф",
+        "globalid": 25159604
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5400256099831,
+          55.6579262516915
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "CommonName": "ГБУ «Центральный государственный архив города Москвы»",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "Обручевский район",
+        "Address": "город Москва, Профсоюзная улица, дом 80",
+        "WorkHoursClarification": "",
+        "WebSite": "cga.mos.ru",
+        "globalid": 25159615
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.61310705,
+          55.76222565
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "CommonName": "Российский государственный архив социально-политической истории",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "город Москва, улица Большая Дмитровка, дом 13",
+        "WorkHoursClarification": "",
+        "WebSite": "www.rgaspi.su",
+        "globalid": 25159616
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

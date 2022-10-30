@@ -1,0 +1,534 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.6165932363248,
+          55.7559257421443
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 4400704,
+        "Iden": 21,
+        "Addressen": "Манежная площадь",
+        "AdmAreaen": null,
+        "Districten": null,
+        "Perioden": "27.05.2022-05.06.2022",
+        "WorkingHoursen": "10:00-21:00",
+        "WorkingHoursWeekenden": "10:00-21:00",
+        "WebSiteen": "mos.ru",
+        "AmountOfPlacesen": 10,
+        "EventNameen": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.61801989043,
+          55.7564458485414
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 4400705,
+        "Iden": 22,
+        "Addressen": "Переход от Манежной площади к площади Революции",
+        "AdmAreaen": null,
+        "Districten": null,
+        "Perioden": "27.05.2022-05.06.2022",
+        "WorkingHoursen": "10:00-21:00",
+        "WorkingHoursWeekenden": "10:00-21:00",
+        "WebSiteen": "mos.ru",
+        "AmountOfPlacesen": 1,
+        "EventNameen": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6101306119997,
+          55.7618678737914
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 4400706,
+        "Iden": 23,
+        "Addressen": "Тверская площадь",
+        "AdmAreaen": null,
+        "Districten": null,
+        "Perioden": "27.05.2022-05.06.2022",
+        "WorkingHoursen": "10:00-21:00",
+        "WorkingHoursWeekenden": "10:00-21:00",
+        "WebSiteen": "mos.ru",
+        "AmountOfPlacesen": 1,
+        "EventNameen": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.619355084508,
+          55.7570780893181
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 4400707,
+        "Iden": 24,
+        "Addressen": "площадь Революции",
+        "AdmAreaen": null,
+        "Districten": null,
+        "Perioden": "27.05.2022-05.06.2022",
+        "WorkingHoursen": "10:00-21:00",
+        "WorkingHoursWeekenden": "10:00-21:00",
+        "WebSiteen": "mos.ru",
+        "AmountOfPlacesen": 1,
+        "EventNameen": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5235685893631,
+          55.8318104783482
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 4400708,
+        "Iden": 25,
+        "Addressen": "Коптевский бульвар, вл.18 (парк «Бригантина»)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "Perioden": "27.05.2022-05.06.2022",
+        "WorkingHoursen": "10:00-21:00",
+        "WorkingHoursWeekenden": "10:00-21:00",
+        "WebSiteen": "mos.ru",
+        "AmountOfPlacesen": 1,
+        "EventNameen": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6015998790939,
+          55.8612154295256
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 4400709,
+        "Iden": 26,
+        "Addressen": "ул. Хачатуряна, вл.13 (возле ст. м. «Отрадное)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "Perioden": "27.05.2022-05.06.2022",
+        "WorkingHoursen": "10:00-21:00",
+        "WorkingHoursWeekenden": "10:00-21:00",
+        "WebSiteen": "mos.ru",
+        "AmountOfPlacesen": 1,
+        "EventNameen": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.8648702850926,
+          55.7435432361156
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 4400710,
+        "Iden": 27,
+        "Addressen": "ул. Городецкая, вл.1",
+        "AdmAreaen": null,
+        "Districten": null,
+        "Perioden": "27.05.2022-05.06.2022",
+        "WorkingHoursen": "10:00-21:00",
+        "WorkingHoursWeekenden": "10:00-21:00",
+        "WebSiteen": "mos.ru",
+        "AmountOfPlacesen": 10,
+        "EventNameen": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.8788311688611,
+          55.7140698039691
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 4400711,
+        "Iden": 28,
+        "Addressen": "ул. Святоозерская, вл.1",
+        "AdmAreaen": null,
+        "Districten": null,
+        "Perioden": "27.05.2022-05.06.2022",
+        "WorkingHoursen": "10:00-21:00",
+        "WorkingHoursWeekenden": "10:00-21:00",
+        "WebSiteen": "mos.ru",
+        "AmountOfPlacesen": 10,
+        "EventNameen": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.8275529565024,
+          55.7271434069181
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 4400712,
+        "Iden": 29,
+        "Addressen": "ул. Вешняковская, вл.16",
+        "AdmAreaen": null,
+        "Districten": null,
+        "Perioden": "27.05.2022-05.06.2022",
+        "WorkingHoursen": "10:00-21:00",
+        "WorkingHoursWeekenden": "10:00-21:00",
+        "WebSiteen": "mos.ru",
+        "AmountOfPlacesen": 1,
+        "EventNameen": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.8001459202784,
+          55.8214670102055
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 4400713,
+        "Iden": 30,
+        "Addressen": "сквер у Гольяновского пруда",
+        "AdmAreaen": null,
+        "Districten": null,
+        "Perioden": "27.05.2022-05.06.2022",
+        "WorkingHoursen": "10:00-21:00",
+        "WorkingHoursWeekenden": "10:00-21:00",
+        "WebSiteen": "mos.ru",
+        "AmountOfPlacesen": 10,
+        "EventNameen": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.766050676399,
+          55.7062678734158
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 4400714,
+        "Iden": 32,
+        "Addressen": "площадь Славы (Волгоградский пр-т, вл.119)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "Perioden": "27.05.2022-05.06.2022",
+        "WorkingHoursen": "10:00-21:00",
+        "WorkingHoursWeekenden": "10:00-21:00",
+        "WebSiteen": "mos.ru",
+        "AmountOfPlacesen": 1,
+        "EventNameen": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7446381293508,
+          55.6576481194267
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 4400715,
+        "Iden": 8,
+        "Addressen": "ул. Перерва, вл.52",
+        "AdmAreaen": null,
+        "Districten": null,
+        "Perioden": "27.05.2022-05.06.2022",
+        "WorkingHoursen": "10:00-21:00",
+        "WorkingHoursWeekenden": "10:00-21:00",
+        "WebSiteen": "mos.ru",
+        "AmountOfPlacesen": 10,
+        "EventNameen": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.9296325720212,
+          55.7044588535105
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 4400716,
+        "Iden": 9,
+        "Addressen": "ТПУ «Некрасовка» (сквер у ст. метро Некрасовка)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "Perioden": "27.05.2022-05.06.2022",
+        "WorkingHoursen": "10:00-21:00",
+        "WorkingHoursWeekenden": "10:00-21:00",
+        "WebSiteen": "mos.ru",
+        "AmountOfPlacesen": 10,
+        "EventNameen": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7432154233506,
+          55.6136358682677
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 4400720,
+        "Iden": 4,
+        "Addressen": "Ореховый б-р, вл.24, стр.1",
+        "AdmAreaen": null,
+        "Districten": null,
+        "Perioden": "27.05.2022-05.06.2022",
+        "WorkingHoursen": "10:00-21:00",
+        "WorkingHoursWeekenden": "10:00-21:00",
+        "WebSiteen": "mos.ru",
+        "AmountOfPlacesen": 7,
+        "EventNameen": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7648270250764,
+          55.6328823536041
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 4400722,
+        "Iden": 16,
+        "Addressen": "ст. м. «Алма-Атинская» (ул. Ключевая, вл.22, к. 1)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "Perioden": "27.05.2022-05.06.2022",
+        "WorkingHoursen": "10:00-21:00",
+        "WorkingHoursWeekenden": "10:00-21:00",
+        "WebSiteen": "mos.ru",
+        "AmountOfPlacesen": 10,
+        "EventNameen": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5548798599853,
+          55.6695808113566
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 4400723,
+        "Iden": 17,
+        "Addressen": "ул. Профсоюзная, вл.41",
+        "AdmAreaen": null,
+        "Districten": null,
+        "Perioden": "27.05.2022-05.06.2022",
+        "WorkingHoursen": "10:00-21:00",
+        "WorkingHoursWeekenden": "10:00-21:00",
+        "WebSiteen": "mos.ru",
+        "AmountOfPlacesen": 10,
+        "EventNameen": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5009458583757,
+          55.6187382956014
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 4400724,
+        "Iden": 18,
+        "Addressen": "ул. Теплый стан, вл.1Б",
+        "AdmAreaen": null,
+        "Districten": null,
+        "Perioden": "27.05.2022-05.06.2022",
+        "WorkingHoursen": "10:00-21:00",
+        "WorkingHoursWeekenden": "10:00-21:00",
+        "WebSiteen": "mos.ru",
+        "AmountOfPlacesen": 10,
+        "EventNameen": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5750077830675,
+          55.5669385566503
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 4400725,
+        "Iden": 19,
+        "Addressen": "бульвар Дмитрия Донского, вл.11",
+        "AdmAreaen": null,
+        "Districten": null,
+        "Perioden": "27.05.2022-05.06.2022",
+        "WorkingHoursen": "10:00-21:00",
+        "WorkingHoursWeekenden": "10:00-21:00",
+        "WebSiteen": "mos.ru",
+        "AmountOfPlacesen": 10,
+        "EventNameen": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.529466689922,
+          55.5416337886694
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 4400726,
+        "Iden": 20,
+        "Addressen": "ул. Адмирала Руднева, вл.8",
+        "AdmAreaen": null,
+        "Districten": null,
+        "Perioden": "27.05.2022-05.06.2022",
+        "WorkingHoursen": "10:00-21:00",
+        "WorkingHoursWeekenden": "10:00-21:00",
+        "WebSiteen": "mos.ru",
+        "AmountOfPlacesen": 10,
+        "EventNameen": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4787209890775,
+          55.7039442800113
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 167278514,
+        "Iden": 6,
+        "Addressen": "ул. Матвеевская, вл.2",
+        "AdmAreaen": null,
+        "Districten": null,
+        "Perioden": "27.05.2022-05.06.2022",
+        "WorkingHoursen": "10:00-21:00",
+        "WorkingHoursWeekenden": "10:00-21:00",
+        "WebSiteen": "mos.ru",
+        "AmountOfPlacesen": 1,
+        "EventNameen": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.3580966144573,
+          55.8473248381715
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 167575810,
+        "Iden": 7,
+        "Addressen": "ул. Митинская, вл.31",
+        "AdmAreaen": null,
+        "Districten": null,
+        "Perioden": "27.05.2022-05.06.2022",
+        "WorkingHoursen": "10:00-21:00",
+        "WorkingHoursWeekenden": "10:00-21:00",
+        "WebSiteen": "mos.ru",
+        "AmountOfPlacesen": 2,
+        "EventNameen": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.3867041649012,
+          55.8993932019816
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 167575812,
+        "Iden": 729,
+        "Addressen": "пересечение ул. Соколово-Мещерская и ул. Юровская",
+        "AdmAreaen": null,
+        "Districten": null,
+        "Perioden": "27.05.2022-05.06.2022",
+        "WorkingHoursen": "10:00-21:00",
+        "WorkingHoursWeekenden": "10:00-21:00",
+        "WebSiteen": "mos.ru",
+        "AmountOfPlacesen": 2,
+        "EventNameen": null
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.1557592124243,
+          55.9760612791807
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 167575813,
+        "Iden": 730,
+        "Addressen": "г. Зеленоград, 16 мкрн, Бульварная зона",
+        "AdmAreaen": null,
+        "Districten": null,
+        "Perioden": "27.05.2022-05.06.2022",
+        "WorkingHoursen": "10:00-21:00",
+        "WorkingHoursWeekenden": "10:00-21:00",
+        "WebSiteen": "mos.ru",
+        "AmountOfPlacesen": 2,
+        "EventNameen": null
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,489 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.598922088364,
+          55.731833345372
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Вкусы России",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Якиманка",
+        "Address": "ГАУК «ЦПКиО им М.Горького»",
+        "Period": "14.07.2022-17.07.2022",
+        "AmountOfPlaces": null,
+        "WorkingHours": "10:00-22:00",
+        "WorkingHoursWeekend": "10:00-22:00",
+        "WebSite": "mos.ru",
+        "globalid": 1006080925
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.610424756895,
+          55.761932983547
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Вкусы России",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "Тверская площадь",
+        "Period": "14.07.2022-17.07.2022",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-22:00",
+        "WorkingHoursWeekend": "11:00-22:00",
+        "WebSite": "mos.ru",
+        "globalid": 1006080927
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.864891290774,
+          55.74363036548
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Вкусы России",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Новокосино",
+        "Address": "ул. Городецкая, вл.1",
+        "Period": "14.07.2022-17.07.2022",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "11:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 1006080930
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.800757885198,
+          55.821612854237
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Вкусы России",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Гольяново",
+        "Address": "сквер у Гольяновского пруда",
+        "Period": "14.07.2022-17.07.2022",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "11:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 1006080933
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.74338364612,
+          55.613643523599
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Вкусы России",
+        "AdmArea": "Южный административный округ",
+        "District": "район Зябликово",
+        "Address": "Ореховый б-р, вл.24, стр.1",
+        "Period": "14.07.2022-17.07.2022",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "11:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 1006080937
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.55536973471,
+          55.669480087273
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Вкусы России",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Черёмушки",
+        "Address": "ул. Профсоюзная, вл.41",
+        "Period": "14.07.2022-17.07.2022",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "11:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 1006080939
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.529318332672,
+          55.541812637293
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Вкусы России",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Южное Бутово",
+        "Address": "ул. Адмирала Руднева, вл.8",
+        "Period": "14.07.2022-17.07.2022",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "11:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 1006080942
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.386678457369,
+          55.899436343537
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Вкусы России",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Куркино",
+        "Address": "пересечение ул. Соколово-Мещерская и ул. Юровская",
+        "Period": "14.07.2022-17.07.2022",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "11:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 1006080945
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.523235082517,
+          55.831799919578
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Вкусы России",
+        "AdmArea": "Северный административный округ",
+        "District": "район Коптево",
+        "Address": "Коптевский бульвар, вл.18 (парк «Бригантина»)",
+        "Period": "14.07.2022-17.07.2022",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "11:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 1006080928
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.827551364899,
+          55.727467555891
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Вкусы России",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Вешняки",
+        "Address": "ул. Святоозерская, вл.1",
+        "Period": "14.07.2022-17.07.2022",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "11:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 1006080931
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.766293287168,
+          55.706556065585
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Вкусы России",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Кузьминки",
+        "Address": "площадь Славы (Волгоградский пр-т, вл.119)",
+        "Period": "14.07.2022-17.07.2022",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "11:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 1006080934
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.930226325552,
+          55.704505257106
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Вкусы России",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Некрасовка",
+        "Address": "сквер у ст. метро Некрасовка",
+        "Period": "14.07.2022-17.07.2022",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "11:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 1006080936
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.501956224332,
+          55.619011722762
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Вкусы России",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Тёплый Стан",
+        "Address": "ул. Теплый стан, вл.1Б",
+        "Period": "14.07.2022-17.07.2022",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "11:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 1006080940
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.479182481657,
+          55.70419845835
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Вкусы России",
+        "AdmArea": "Западный административный округ",
+        "District": "район Очаково-Матвеевское",
+        "Address": "ул. Матвеевская, вл.2",
+        "Period": "14.07.2022-17.07.2022",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "11:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 1006080943
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.155529260526,
+          55.975936912754
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Вкусы России",
+        "AdmArea": "Зеленоградский административный округ",
+        "District": "район Крюково",
+        "Address": "г. Зеленоград, 16 мкрн, бульварная зона",
+        "Period": "14.07.2022-17.07.2022",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "11:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 1006080946
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.619445919991,
+          55.757040430195
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Вкусы России",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "Площадь Революции",
+        "Period": "14.07.2022-17.07.2022",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-22:00",
+        "WorkingHoursWeekend": "11:00-22:00",
+        "WebSite": "mos.ru",
+        "globalid": 1006080926
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.601433992277,
+          55.861205650655
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Вкусы России",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Отрадное",
+        "Address": "Сквер по ул. Хачатуряна",
+        "Period": "14.07.2022-17.07.2022",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "11:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 1006080929
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.827551364899,
+          55.727467555891
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Вкусы России",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Вешняки",
+        "Address": "ул. Вешняковская, вл.16",
+        "Period": "14.07.2022-17.07.2022",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "11:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 1006080932
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.744714021683,
+          55.657787129976
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Вкусы России",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Марьино",
+        "Address": "ул. Перерва, вл.52",
+        "Period": "14.07.2022-17.07.2022",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "11:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 1006080935
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.764794826508,
+          55.632900898826
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Вкусы России",
+        "AdmArea": "Южный административный округ",
+        "District": "район Братеево",
+        "Address": "ст. м. «Алма-Атинская» (ул. Ключевая, вл.22, к. 1)",
+        "Period": "14.07.2022-17.07.2022",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "11:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 1006080938
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.57531285275,
+          55.566954872906
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Вкусы России",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Северное Бутово",
+        "Address": "бульвар Дмитрия Донского, вл.11",
+        "Period": "14.07.2022-17.07.2022",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "11:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 1006080941
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.358373999541,
+          55.847269763963
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Вкусы России",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Митино",
+        "Address": "ул. Митинская, вл.31",
+        "Period": "14.07.2022-17.07.2022",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "11:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 1006080944
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

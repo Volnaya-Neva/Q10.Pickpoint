@@ -1,0 +1,243 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.5838878275287,
+          55.7871370558504
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameOrg": "Акционерное общество «Москва Медиа»",
+        "Name": "Шестаков Игорь Леонидович",
+        "Position": "Генеральный директор",
+        "AdmArea": "Северный административный округ",
+        "District": "район Беговой",
+        "PostalCode": "127137",
+        "Address": "город Москва, улица Правды, дом 24, строение 2А",
+        "globalid": 878953505,
+        "Emailglobalid0": 19,
+        "Emailisdeleted0": 0,
+        "EmailEmail0": "",
+        "Emailglobalid1": 20,
+        "Emailisdeleted1": 0,
+        "EmailEmail1": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5869203347827,
+          55.7897397799028
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameOrg": "Акционерное общество «Редакция газеты «Вечерняя Москва»",
+        "Name": "Рудницкий Георгий Михайлович",
+        "Position": "Генеральный директор",
+        "AdmArea": "Северный административный округ",
+        "District": "район Беговой",
+        "PostalCode": "127015",
+        "Address": "город Москва, Бумажный проезд, дом 14, строение 2",
+        "globalid": 878953936,
+        "Phoneglobalid0": 19,
+        "Phoneisdeleted0": 0,
+        "PhonePhone0": "",
+        "Phoneglobalid1": 20,
+        "Phoneisdeleted1": 0,
+        "PhonePhone1": "",
+        "Emailglobalid0": 23,
+        "Emailisdeleted0": 0,
+        "EmailEmail0": "",
+        "Emailglobalid1": 24,
+        "Emailisdeleted1": 0,
+        "EmailEmail1": "",
+        "WebSiteglobalid0": 27,
+        "WebSiteisdeleted0": 0,
+        "WebSiteWebSite0": "",
+        "WebSiteglobalid1": 28,
+        "WebSiteisdeleted1": 0,
+        "WebSiteWebSite1": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6349526848966,
+          55.738458185854
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameOrg": "Акционерное общество «ТВ Центр»",
+        "Name": "Быстрицкая Юлия Анатольевна",
+        "Position": "Генеральный директор",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Замоскворечье",
+        "PostalCode": "115184",
+        "Address": "город Москва, Большая Татарская улица, дом 33, строение 1",
+        "globalid": 878954410,
+        "Phoneglobalid0": 21,
+        "Phoneisdeleted0": 0,
+        "PhonePhone0": "",
+        "Emailglobalid0": 25,
+        "Emailisdeleted0": 0,
+        "EmailEmail0": "",
+        "WebSiteglobalid0": 34,
+        "WebSiteisdeleted0": 0,
+        "WebSiteWebSite0": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.63753605638,
+          55.7599571361767
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameOrg": "Казенное предприятие города Москвы «Мосгорпечать»",
+        "Name": "Капустина Екатерина Геннадьевна",
+        "Position": "Генеральный директор",
+        "AdmArea": "Центральный административный округ",
+        "District": "Басманный район",
+        "PostalCode": "101000",
+        "Address": "город Москва, Архангельский переулок, дом 1, строение 2",
+        "globalid": 878954568,
+        "Phoneglobalid0": 23,
+        "Phoneisdeleted0": 0,
+        "PhonePhone0": "",
+        "Emailglobalid0": 27,
+        "Emailisdeleted0": 0,
+        "EmailEmail0": "",
+        "WebSiteglobalid0": 36,
+        "WebSiteisdeleted0": 0,
+        "WebSiteWebSite0": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5588997655024,
+          55.7621667103982
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameOrg": "Открытое акционерное общество «Московская газетная типография»",
+        "Name": "Яковлев Юрий Владимирович",
+        "Position": "Генеральный директор",
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "PostalCode": "123995",
+        "Address": "город Москва, улица 1905 Года, дом 7, строение 1",
+        "globalid": 878954710,
+        "Phoneglobalid0": 25,
+        "Phoneisdeleted0": 0,
+        "PhonePhone0": "",
+        "Emailglobalid0": 29,
+        "Emailisdeleted0": 0,
+        "EmailEmail0": "",
+        "WebSiteglobalid0": 38,
+        "WebSiteisdeleted0": 0,
+        "WebSiteWebSite0": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5588997655024,
+          55.7621667103982
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameOrg": "Открытое акционерное общество «Объединенная редакция изданий Мэра и Правительства Москвы»",
+        "Name": "Жигайлов Эдуард Алексеевич",
+        "Position": "Генеральный директор",
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "PostalCode": "123022",
+        "Address": "город Москва, улица 1905 Года, дом 7, строение 1",
+        "globalid": 878955050,
+        "Phoneglobalid0": 26,
+        "Phoneisdeleted0": 0,
+        "PhonePhone0": "",
+        "Emailglobalid0": 30,
+        "Emailisdeleted0": 0,
+        "EmailEmail0": "",
+        "WebSiteglobalid0": 39,
+        "WebSiteisdeleted0": 0,
+        "WebSiteWebSite0": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5986903922804,
+          55.6765449645761
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameOrg": "Открытое акционерное общество «Окружная газета Юго-Западного административного округа»",
+        "Name": "Яковлев Анатолий Николаевич",
+        "Position": "Генеральный директор",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Котловка",
+        "PostalCode": "117186",
+        "Address": "город Москва, Нагорная улица, дом 26, корпус 1",
+        "globalid": 878955501,
+        "Phoneglobalid0": 27,
+        "Phoneisdeleted0": 0,
+        "PhonePhone0": "",
+        "Emailglobalid0": 31,
+        "Emailisdeleted0": 0,
+        "EmailEmail0": "",
+        "WebSiteglobalid0": 40,
+        "WebSiteisdeleted0": 0,
+        "WebSiteWebSite0": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6182399615118,
+          55.6992987573289
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameOrg": "Государственное бюджетное учреждение города Москвы «Городская реклама и информация»",
+        "Name": "Семенов Павел Валерьевич",
+        "Position": "Генеральный директор",
+        "AdmArea": "Южный административный округ",
+        "District": "Донской район",
+        "PostalCode": "117105",
+        "Address": "город Москва, Варшавское шоссе, дом 8А",
+        "globalid": 878956266,
+        "Phoneglobalid0": 28,
+        "Phoneisdeleted0": 0,
+        "PhonePhone0": "",
+        "Emailglobalid0": 32,
+        "Emailisdeleted0": 0,
+        "EmailEmail0": "",
+        "WebSiteglobalid0": 41,
+        "WebSiteisdeleted0": 0,
+        "WebSiteWebSite0": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

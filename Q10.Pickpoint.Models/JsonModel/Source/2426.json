@@ -1,0 +1,64 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.595,
+          55.7522
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Департамент природопользования и охраны окружающей среды города Москвы",
+        "ShortName": "Мосприрода",
+        "INN": "7704221753",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Арбат",
+        "PostalCode": "119019",
+        "Address": "улица Новый Арбат, дом 11, корпус 1",
+        "ChiefName": "Кульбачевский Антон Олегович",
+        "ChiefPosition": "руководитель",
+        "WebSite": "www.mos.ru/eco",
+        "ClarificationOfWorkingHours": "",
+        "Functions": "Функции по реализации государственной политики в области экологической экспертизы",
+        "globalid": 59519453,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhoneglobalid0": 4,
+        "PublicPhonePublicPhone0": "",
+        "Emailisdeleted0": 0,
+        "Emailglobalid0": 2,
+        "EmailEmail0": "",
+        "WorkingHoursisdeleted0": 0,
+        "WorkingHoursglobalid0": 83241,
+        "WorkingHoursDayOfWeek0": null,
+        "WorkingHoursHours0": "",
+        "WorkingHoursisdeleted1": 0,
+        "WorkingHoursglobalid1": 83242,
+        "WorkingHoursDayOfWeek1": null,
+        "WorkingHoursHours1": "",
+        "WorkingHoursisdeleted2": 0,
+        "WorkingHoursglobalid2": 83243,
+        "WorkingHoursDayOfWeek2": null,
+        "WorkingHoursHours2": "",
+        "WorkingHoursisdeleted3": 0,
+        "WorkingHoursglobalid3": 83244,
+        "WorkingHoursDayOfWeek3": null,
+        "WorkingHoursHours3": "",
+        "WorkingHoursisdeleted4": 0,
+        "WorkingHoursglobalid4": 83245,
+        "WorkingHoursDayOfWeek4": null,
+        "WorkingHoursHours4": "",
+        "WorkingHoursisdeleted5": 0,
+        "WorkingHoursglobalid5": 83246,
+        "WorkingHoursDayOfWeek5": null,
+        "WorkingHoursHours5": "",
+        "WorkingHoursisdeleted6": 0,
+        "WorkingHoursglobalid6": 83247,
+        "WorkingHoursDayOfWeek6": null,
+        "WorkingHoursHours6": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,2786 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.525625,
+          55.818085
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "САО",
+        "ADDRESS": "Большая Академическая ул., д.6А",
+        "UNOM": "2110011",
+        "FLOOR": "2, подземный этаж",
+        "SQUARE": "830.8",
+        "STARTARENDE": "2472427.57",
+        "USE": "дошкольное образование",
+        "DATEAUCTION": "26.03.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "ООО \"Детский сад ЗНАЙКА\"",
+        "RESULTARENDE": "2472427,57",
+        "XWGS84": "37.525625",
+        "YWGS84": "55.818085",
+        "GLOBALID": "91523077"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.794652,
+          55.789001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ВАО",
+        "ADDRESS": "Парковая ул. 7-я, д.2, корп.1",
+        "UNOM": "18660",
+        "FLOOR": "подвал",
+        "SQUARE": "277.7",
+        "STARTARENDE": "1206884.0",
+        "USE": "свободное",
+        "DATEAUCTION": "29.01.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "Аукцион признан несостоявшимся",
+        "RESULTARENDE": null,
+        "XWGS84": "37.794652",
+        "YWGS84": "55.789001",
+        "GLOBALID": "90694138"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.720749,
+          55.622038
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ЮАО",
+        "ADDRESS": "Шипиловская ул., д.25, корп.2",
+        "UNOM": "2122919",
+        "FLOOR": "2, подземный этаж",
+        "SQUARE": "1817.8",
+        "STARTARENDE": "5289798.0",
+        "USE": "дошкольное образование",
+        "DATEAUCTION": "12.03.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "Аукцион признан несостоявшимся",
+        "RESULTARENDE": null,
+        "XWGS84": "37.720749",
+        "YWGS84": "55.622038",
+        "GLOBALID": "90855863"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.894544,
+          55.714438
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ВАО",
+        "ADDRESS": "Святоозёрская ул., д.15",
+        "UNOM": "240024",
+        "FLOOR": "1 этаж",
+        "SQUARE": "182.6",
+        "STARTARENDE": "1357266.0",
+        "USE": "Свободное",
+        "DATEAUCTION": "19.02.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "ООО \"СТРОЙУНИВЕРСАЛ\"",
+        "RESULTARENDE": "2911335,57",
+        "XWGS84": "37.894544",
+        "YWGS84": "55.714438",
+        "GLOBALID": "90694165"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.58685,
+          55.845295
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "СВАО",
+        "ADDRESS": "Ботаническая ул., д.10А",
+        "UNOM": "2648",
+        "FLOOR": "1 этаж",
+        "SQUARE": "73.1",
+        "STARTARENDE": "763383.0",
+        "USE": "торговое",
+        "DATEAUCTION": "19.03.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "ООО \"ВЕД\"",
+        "RESULTARENDE": "1156525,53",
+        "XWGS84": "37.58685",
+        "YWGS84": "55.845295",
+        "GLOBALID": "90855897"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.675879,
+          55.708862
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ЮВАО",
+        "ADDRESS": "7-я Кожуховская ул., д.18А",
+        "UNOM": "2124219",
+        "FLOOR": "2 этажа,  1 подземный этаж",
+        "SQUARE": "964.5",
+        "STARTARENDE": "3874397.0",
+        "USE": "дошкольное образование",
+        "DATEAUCTION": "12.03.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "НОЧУДО \" Детский сад \"Знайка\"",
+        "RESULTARENDE": "5056088,09",
+        "XWGS84": "37.675879",
+        "YWGS84": "55.708862",
+        "GLOBALID": "90855874"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.565391,
+          55.795677
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "САО",
+        "ADDRESS": "Мишина ул., д.26",
+        "UNOM": "340001",
+        "FLOOR": "1 этаж",
+        "SQUARE": "241.3",
+        "STARTARENDE": "3528993.2",
+        "USE": "торговое",
+        "DATEAUCTION": "19.03.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "Аукцион признан несостоявшимся",
+        "RESULTARENDE": null,
+        "XWGS84": "37.565391",
+        "YWGS84": "55.795677",
+        "GLOBALID": "90855895"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.903216,
+          55.715503
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ВАО",
+        "ADDRESS": "Красковская ул., д.60А",
+        "UNOM": "2122032",
+        "FLOOR": "1 этаж",
+        "SQUARE": "150.2",
+        "STARTARENDE": "1211213.0",
+        "USE": "торговое",
+        "DATEAUCTION": "13.03.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "ООО \"ИНФОТОРГ\"",
+        "RESULTARENDE": "2355809,28",
+        "XWGS84": "37.903216",
+        "YWGS84": "55.715503",
+        "GLOBALID": "90855883"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.705274,
+          55.744031
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ЮВАО",
+        "ADDRESS": "Душинская ул., д.20",
+        "UNOM": "7340",
+        "FLOOR": "1 этаж",
+        "SQUARE": "302.2",
+        "STARTARENDE": "1966113.0",
+        "USE": "свободное",
+        "DATEAUCTION": "19.03.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "ООО \"ЗОЛОТЫЕ ЗВЕЗДЫ\"",
+        "RESULTARENDE": "2378996,73",
+        "XWGS84": "37.705274",
+        "YWGS84": "55.744031",
+        "GLOBALID": "90855891"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.420663,
+          55.664149
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ЗАО",
+        "ADDRESS": "Матросова ул., д.7, корп.4",
+        "UNOM": "71182",
+        "FLOOR": "подвал",
+        "SQUARE": "671.0",
+        "STARTARENDE": "2302496.24",
+        "USE": "торговое",
+        "DATEAUCTION": "12.03.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "Аукцион признан несостоявшимся",
+        "RESULTARENDE": null,
+        "XWGS84": "37.420663",
+        "YWGS84": "55.664149",
+        "GLOBALID": "90855871"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.508886,
+          55.600204
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ЮЗАО",
+        "ADDRESS": "Одоевского пр., д.3, корп.7",
+        "UNOM": "70312",
+        "FLOOR": "1 этаж",
+        "SQUARE": "274.5",
+        "STARTARENDE": "2040633.0",
+        "USE": "медицинское",
+        "DATEAUCTION": "05.03.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "Аукцион признан несостоявшимся",
+        "RESULTARENDE": null,
+        "XWGS84": "37.508886",
+        "YWGS84": "55.600204",
+        "GLOBALID": "90855844"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.531895,
+          55.778693
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "САО",
+        "ADDRESS": "Хорошевское ш., д.62",
+        "UNOM": "28102",
+        "FLOOR": "1 этаж",
+        "SQUARE": "966.1",
+        "STARTARENDE": "7074827.59",
+        "USE": "Свободное",
+        "DATEAUCTION": "19.02.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "ОО \"СОН - МЕД\"",
+        "RESULTARENDE": "10470777,83",
+        "XWGS84": "37.531895",
+        "YWGS84": "55.778693",
+        "GLOBALID": "90694166"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.683244,
+          55.578482
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ЮАО",
+        "ADDRESS": "Липецкая ул., д.54/21, стр.2",
+        "UNOM": "2122490",
+        "FLOOR": "подвал",
+        "SQUARE": "522.9",
+        "STARTARENDE": "1482944.0",
+        "USE": "свободное",
+        "DATEAUCTION": "19.03.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "ООО \"ЛИДЕР\"",
+        "RESULTARENDE": "4782494,40",
+        "XWGS84": "37.683244",
+        "YWGS84": "55.578482",
+        "GLOBALID": "90855887"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.695575,
+          55.857988
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "СВАО",
+        "ADDRESS": "Ярославское шоссе, д.26, корп.6",
+        "UNOM": "230218",
+        "FLOOR": "1 этаж",
+        "SQUARE": "303.2",
+        "STARTARENDE": "2557492.0",
+        "USE": "торговое",
+        "DATEAUCTION": "29.01.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "ООО \"ФРЕГАТ\"",
+        "RESULTARENDE": "2787666,28",
+        "XWGS84": "37.695575",
+        "YWGS84": "55.857988",
+        "GLOBALID": "90694137"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.610225,
+          55.678967
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ЮЗАО",
+        "ADDRESS": "Нагорная ул., д.13А, корп.4",
+        "UNOM": "15568",
+        "FLOOR": "цоколь",
+        "SQUARE": "288.9",
+        "STARTARENDE": "2284043.0",
+        "USE": "торговое",
+        "DATEAUCTION": "05.02.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "Аукцион признан несостоявшимся",
+        "RESULTARENDE": null,
+        "XWGS84": "37.610225",
+        "YWGS84": "55.678967",
+        "GLOBALID": "90694153"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.565808,
+          55.801694
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "САО",
+        "ADDRESS": "Хуторская 1-я ул, д. 2, корп.1",
+        "UNOM": "19662",
+        "FLOOR": "подвал",
+        "SQUARE": "566.7",
+        "STARTARENDE": "1737966.89",
+        "USE": "свободное",
+        "DATEAUCTION": "05.02.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "Аукцион признан несостоявшимся",
+        "RESULTARENDE": null,
+        "XWGS84": "37.565808",
+        "YWGS84": "55.801694",
+        "GLOBALID": "90694147"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.576142,
+          55.502883
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ЮЗАО",
+        "ADDRESS": "Захаринские Дворики ул., д.1, корп.2",
+        "UNOM": "290412",
+        "FLOOR": "1 этаж",
+        "SQUARE": "127.9",
+        "STARTARENDE": "980993.0",
+        "USE": "торговое",
+        "DATEAUCTION": "29.01.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "ООО \"Континент\"",
+        "RESULTARENDE": "1662783,14",
+        "XWGS84": "37.576142",
+        "YWGS84": "55.502883",
+        "GLOBALID": "90694145"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.543154,
+          55.923432
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "СВАО",
+        "ADDRESS": "Дмитровское шоссе, д.165Д, корп.6",
+        "UNOM": "230244",
+        "FLOOR": "1 этаж",
+        "SQUARE": "176.9",
+        "STARTARENDE": "1440497.0",
+        "USE": "торговое",
+        "DATEAUCTION": "05.02.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "ООО Мирцам",
+        "RESULTARENDE": "2139138,05",
+        "XWGS84": "37.543154",
+        "YWGS84": "55.923432",
+        "GLOBALID": "90694155"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.799835,
+          55.753406
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ВАО",
+        "ADDRESS": "Зеленый просп., д.30",
+        "UNOM": "8357",
+        "FLOOR": "1 этаж",
+        "SQUARE": "118.8",
+        "STARTARENDE": "729670.0",
+        "USE": "торговое",
+        "DATEAUCTION": "12.03.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "ООО \"БИЗНЕС=ЭКСПЕРТ\"",
+        "RESULTARENDE": null,
+        "XWGS84": "37.799835",
+        "YWGS84": "55.753406",
+        "GLOBALID": "90855866"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.47958,
+          55.705957
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ЗАО",
+        "ADDRESS": "Веерная ул., д.1, корп.7",
+        "UNOM": "310055",
+        "FLOOR": "1 этаж",
+        "SQUARE": "307.0",
+        "STARTARENDE": "2380048.2",
+        "USE": "медицинское",
+        "DATEAUCTION": "05.03.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "ООО \"КЛИНИКА ОРИС\"",
+        "RESULTARENDE": "2499050,61",
+        "XWGS84": "37.47958",
+        "YWGS84": "55.705957",
+        "GLOBALID": "90855843"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.498574,
+          55.747629
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ЗАО",
+        "ADDRESS": "Большая Филевская ул. д.15",
+        "UNOM": "3202392",
+        "FLOOR": "подвал",
+        "SQUARE": "114.3",
+        "STARTARENDE": "670863.28",
+        "USE": "торговое",
+        "DATEAUCTION": "12.03.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "Аукцион признан несостоявшимся",
+        "RESULTARENDE": null,
+        "XWGS84": "37.498574",
+        "YWGS84": "55.747629",
+        "GLOBALID": "90855868"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.796154,
+          55.81284
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ВАО",
+        "ADDRESS": "Амурская ул., д.76",
+        "UNOM": "260039",
+        "FLOOR": "1 этаж",
+        "SQUARE": "32.9",
+        "STARTARENDE": "491033.0",
+        "USE": "торговое",
+        "DATEAUCTION": "13.03.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "Аукцион признан несостоявшимся",
+        "RESULTARENDE": null,
+        "XWGS84": "37.796154",
+        "YWGS84": "55.81284",
+        "GLOBALID": "90855880"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.611584,
+          55.681663
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ЮЗАО",
+        "ADDRESS": "Нагорная ул., д.5, корп.1",
+        "UNOM": "15548",
+        "FLOOR": "подвал",
+        "SQUARE": "385.1",
+        "STARTARENDE": "3180926.0",
+        "USE": "свободное",
+        "DATEAUCTION": "19.03.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "Аукцион признан несостоявшимся",
+        "RESULTARENDE": null,
+        "XWGS84": "37.611584",
+        "YWGS84": "55.681663",
+        "GLOBALID": "90855898"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.694678,
+          55.81688
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ВАО",
+        "ADDRESS": "3-я Богатырская, д.3",
+        "UNOM": "240112",
+        "FLOOR": "1 этаж",
+        "SQUARE": "135.0",
+        "STARTARENDE": "1025730.0",
+        "USE": "торговое",
+        "DATEAUCTION": "11.03.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "ООО \"АЛЕГРЕТТО\"",
+        "RESULTARENDE": "1374478,20",
+        "XWGS84": "37.694678",
+        "YWGS84": "55.81688",
+        "GLOBALID": "90855849"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.705274,
+          55.744031
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ЮВАО",
+        "ADDRESS": "Душинская ул., д.20",
+        "UNOM": "7340",
+        "FLOOR": "1 этаж",
+        "SQUARE": "302.2",
+        "STARTARENDE": "1966113.0",
+        "USE": "свободное",
+        "DATEAUCTION": "29.01.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "Аукцион признан несостоявшимся",
+        "RESULTARENDE": null,
+        "XWGS84": "37.705274",
+        "YWGS84": "55.744031",
+        "GLOBALID": "90694141"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.473474,
+          55.862614
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "САО",
+        "ADDRESS": "Беломорская ул., д.18А",
+        "UNOM": "340129",
+        "FLOOR": "1 этаж",
+        "SQUARE": "105.6",
+        "STARTARENDE": "916865.66",
+        "USE": "свободное",
+        "DATEAUCTION": "11.03.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "ООО \"АЛКОМ\"",
+        "RESULTARENDE": "3108174,59",
+        "XWGS84": "37.473474",
+        "YWGS84": "55.862614",
+        "GLOBALID": "90855856"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.730235,
+          55.811014
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ВАО",
+        "ADDRESS": "Бульвар Маршала Рокоссовского, д.4",
+        "UNOM": "21903",
+        "FLOOR": "1 этаж",
+        "SQUARE": "73.8",
+        "STARTARENDE": "597928.0",
+        "USE": "торговое",
+        "DATEAUCTION": "13.03.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "ООО \"Бизнес Стандарт\"",
+        "RESULTARENDE": "810192,41",
+        "XWGS84": "37.730235",
+        "YWGS84": "55.811014",
+        "GLOBALID": "90855876"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.731535,
+          55.771582
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ВАО",
+        "ADDRESS": "Соколиной горы 9-я ул., д.3",
+        "UNOM": "24184",
+        "FLOOR": "подвал",
+        "SQUARE": "698.7",
+        "STARTARENDE": "1773301.0",
+        "USE": "свободное",
+        "DATEAUCTION": "29.01.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "Аукцион признан несостоявшимся",
+        "RESULTARENDE": null,
+        "XWGS84": "37.731535",
+        "YWGS84": "55.771582",
+        "GLOBALID": "90694139"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.815179,
+          55.810552
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ВАО",
+        "ADDRESS": "Щелковское ш., д.82, корп.1",
+        "UNOM": "240038",
+        "FLOOR": "1 этаж",
+        "SQUARE": "70.2",
+        "STARTARENDE": "1046822.0",
+        "USE": "торговое",
+        "DATEAUCTION": "12.03.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "ООО \"ГЛАВТОРГ\"",
+        "RESULTARENDE": "1837172,61",
+        "XWGS84": "37.815179",
+        "YWGS84": "55.810552",
+        "GLOBALID": "90855873"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.808734,
+          55.791444
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ВАО",
+        "ADDRESS": "Нижняя Первомайская ул., д.47",
+        "UNOM": "2502127",
+        "FLOOR": "подвал",
+        "SQUARE": "2143.5",
+        "STARTARENDE": "1.24323E7",
+        "USE": "Свободное",
+        "DATEAUCTION": "19.02.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "Аукцион признан несостоявшимся",
+        "RESULTARENDE": null,
+        "XWGS84": "37.808734",
+        "YWGS84": "55.791444",
+        "GLOBALID": "90694163"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.66383,
+          55.828768
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "СВАО",
+        "ADDRESS": "Кадомцева пр., д.13",
+        "UNOM": "9033",
+        "FLOOR": "подвал",
+        "SQUARE": "208.4",
+        "STARTARENDE": "1495270.0",
+        "USE": "торговое",
+        "DATEAUCTION": "11.03.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "Аукцион признан несостоявшимся",
+        "RESULTARENDE": null,
+        "XWGS84": "37.66383",
+        "YWGS84": "55.828768",
+        "GLOBALID": "90855852"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.490805,
+          55.830435
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "САО",
+        "ADDRESS": "Ленинградское ш., д. 34, корп.2",
+        "UNOM": "12744",
+        "FLOOR": "1 этаж",
+        "SQUARE": "109.5",
+        "STARTARENDE": "1056033.33",
+        "USE": "торговое",
+        "DATEAUCTION": "11.03.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "Аукцион признан несостоявшимся",
+        "RESULTARENDE": null,
+        "XWGS84": "37.490805",
+        "YWGS84": "55.830435",
+        "GLOBALID": "90855853"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.579853,
+          55.821874
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "СВАО",
+        "ADDRESS": "Яблочкова ул., д.25",
+        "UNOM": "30460",
+        "FLOOR": "подвал",
+        "SQUARE": "629.4",
+        "STARTARENDE": "3984731.0",
+        "USE": "торговое",
+        "DATEAUCTION": "02.04.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "Аукцион признан несостоявшимся",
+        "RESULTARENDE": null,
+        "XWGS84": "37.579853",
+        "YWGS84": "55.821874",
+        "GLOBALID": "91523083"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.728726,
+          55.79347
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ВАО",
+        "ADDRESS": "2-я Пугачевская ул., д.10, корп.1",
+        "UNOM": "21207",
+        "FLOOR": "1 этаж",
+        "SQUARE": "129.4",
+        "STARTARENDE": "983828.0",
+        "USE": "торговое",
+        "DATEAUCTION": "12.03.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "ООО \"ИНВЕСТ-ГРУПП\"",
+        "RESULTARENDE": "2070957,94",
+        "XWGS84": "37.728726",
+        "YWGS84": "55.79347",
+        "GLOBALID": "90855865"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.422053,
+          55.739902
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ЗАО",
+        "ADDRESS": "Ельнинская ул., д.20, корп.2",
+        "UNOM": "320111",
+        "FLOOR": "1 этаж",
+        "SQUARE": "237.2",
+        "STARTARENDE": "2304103.87",
+        "USE": "медицинское",
+        "DATEAUCTION": "05.03.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "ООО \"ИНПРОМЕД\"",
+        "RESULTARENDE": "8121966,14",
+        "XWGS84": "37.422053",
+        "YWGS84": "55.739902",
+        "GLOBALID": "90855845"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.40993,
+          55.652286
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ЗАО",
+        "ADDRESS": "Главмосстроя ул., д.8",
+        "UNOM": "410281",
+        "FLOOR": "1 этаж",
+        "SQUARE": "392.1",
+        "STARTARENDE": "2622921.58",
+        "USE": "Торговое",
+        "DATEAUCTION": "19.02.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "ООО \"МАГНИТ\"",
+        "RESULTARENDE": "4039299,23",
+        "XWGS84": "37.40993",
+        "YWGS84": "55.652286",
+        "GLOBALID": "90694160"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.787803,
+          55.795365
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ВАО",
+        "ADDRESS": "Парковая 5-я ул., д.25",
+        "UNOM": "18584",
+        "FLOOR": "подвал",
+        "SQUARE": "233.7",
+        "STARTARENDE": "895772.0",
+        "USE": "свободное",
+        "DATEAUCTION": "29.01.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "Аукцион признан несостоявшимся",
+        "RESULTARENDE": null,
+        "XWGS84": "37.787803",
+        "YWGS84": "55.795365",
+        "GLOBALID": "90694140"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.44514,
+          55.676994
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ЗАО",
+        "ADDRESS": "Очаковская Большая ул., д.42, корп.1",
+        "UNOM": "310049",
+        "FLOOR": "1 этаж",
+        "SQUARE": "261.3",
+        "STARTARENDE": "2312196.67",
+        "USE": "торговое",
+        "DATEAUCTION": "05.02.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "ООО \"ЭРА\"",
+        "RESULTARENDE": "2647465,19",
+        "XWGS84": "37.44514",
+        "YWGS84": "55.676994",
+        "GLOBALID": "90694156"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.779031,
+          55.752284
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ВАО",
+        "ADDRESS": "1-я Владимирская ул., д.31",
+        "UNOM": "4017",
+        "FLOOR": "1 этаж",
+        "SQUARE": "58.8",
+        "STARTARENDE": "612931.0",
+        "USE": "торговое",
+        "DATEAUCTION": "13.03.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "Аукцион признан несостоявшимся",
+        "RESULTARENDE": null,
+        "XWGS84": "37.779031",
+        "YWGS84": "55.752284",
+        "GLOBALID": "90855875"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.696501,
+          55.816745
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ВАО",
+        "ADDRESS": "Миллионная ул., д.11, корп.1",
+        "UNOM": "14380",
+        "FLOOR": "1 этаж",
+        "SQUARE": "232.7",
+        "STARTARENDE": "1903486.0",
+        "USE": "торговое",
+        "DATEAUCTION": "13.03.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "Аукцион признан несостоявшимся",
+        "RESULTARENDE": null,
+        "XWGS84": "37.696501",
+        "YWGS84": "55.816745",
+        "GLOBALID": "90855885"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.632422,
+          55.877172
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "СВАО",
+        "ADDRESS": "Молодцова ул., д.19, корп.2",
+        "UNOM": "230387",
+        "FLOOR": "1 этаж",
+        "SQUARE": "122.2",
+        "STARTARENDE": "1105788.0",
+        "USE": "Торговое",
+        "DATEAUCTION": "19.02.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "ООО \"СТРАТЕГИЯ\"",
+        "RESULTARENDE": "1603392,60",
+        "XWGS84": "37.632422",
+        "YWGS84": "55.877172",
+        "GLOBALID": "90694162"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.502809,
+          55.691648
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ЗАО",
+        "ADDRESS": "Мичуринский проспект, д.39",
+        "UNOM": "310145",
+        "FLOOR": "1 этаж",
+        "SQUARE": "176.8",
+        "STARTARENDE": "2118159.47",
+        "USE": "торговое",
+        "DATEAUCTION": "13.03.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "Аукцион признан несостоявшимся",
+        "RESULTARENDE": null,
+        "XWGS84": "37.502809",
+        "YWGS84": "55.691648",
+        "GLOBALID": "90855877"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.812334,
+          55.810361
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ВАО",
+        "ADDRESS": "Щелковское ш., д.78",
+        "UNOM": "29955",
+        "FLOOR": "подвал",
+        "SQUARE": "367.7",
+        "STARTARENDE": "2665090.0",
+        "USE": "торговое",
+        "DATEAUCTION": "13.03.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "Аукцион признан несостоявшимся",
+        "RESULTARENDE": null,
+        "XWGS84": "37.812334",
+        "YWGS84": "55.810361",
+        "GLOBALID": "90855886"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.664989,
+          55.777751
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ЦАО",
+        "ADDRESS": "Краснопрудная ул., д.22А",
+        "UNOM": "11638",
+        "FLOOR": "5 этаж",
+        "SQUARE": "301.5",
+        "STARTARENDE": "2789592.57",
+        "USE": "свободное",
+        "DATEAUCTION": "19.03.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "ООО \"ОТЕЛЬ СЕРВИС\"",
+        "RESULTARENDE": "3807793,80",
+        "XWGS84": "37.664989",
+        "YWGS84": "55.777751",
+        "GLOBALID": "90855892"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.735563,
+          55.659118
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ЮВАО",
+        "ADDRESS": "Нижние Поля ул., д.23",
+        "UNOM": "2129513",
+        "FLOOR": "2-х этажное здание",
+        "SQUARE": "573.8",
+        "STARTARENDE": "3834705.0",
+        "USE": "Свободное",
+        "DATEAUCTION": "19.02.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "Аукцион признан несостоявшимся",
+        "RESULTARENDE": null,
+        "XWGS84": "37.735563",
+        "YWGS84": "55.659118",
+        "GLOBALID": "90694164"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.426313,
+          55.739823
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ЗАО",
+        "ADDRESS": "Рублевское ш., д.93, корп.2",
+        "UNOM": "320267",
+        "FLOOR": "1 этаж",
+        "SQUARE": "71.7",
+        "STARTARENDE": "903169.05",
+        "USE": "торговое",
+        "DATEAUCTION": "13.03.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "ООО \"КОНСАЛТ\"",
+        "RESULTARENDE": "1530871,54",
+        "XWGS84": "37.426313",
+        "YWGS84": "55.739823",
+        "GLOBALID": "90855879"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.679381,
+          55.873531
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "СВАО",
+        "ADDRESS": "Летчика Бабушкина ул., д. 42",
+        "UNOM": "1122",
+        "FLOOR": "1 этаж",
+        "SQUARE": "210.3",
+        "STARTARENDE": "1847906.0",
+        "USE": "медицинское",
+        "DATEAUCTION": "29.01.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "ООО \"Клиника ОРИС\"",
+        "RESULTARENDE": "1847906,00",
+        "XWGS84": "37.679381",
+        "YWGS84": "55.873531",
+        "GLOBALID": "90694146"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.706115,
+          55.778111
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ЦАО",
+        "ADDRESS": "Семеновская наб., д.3/1, корп.3",
+        "UNOM": "23354",
+        "FLOOR": "подвал, 1 этаж",
+        "SQUARE": "587.5",
+        "STARTARENDE": "4119291.5",
+        "USE": "свободное",
+        "DATEAUCTION": "29.01.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "Нахле Халил Мунир",
+        "RESULTARENDE": "6055358,51",
+        "XWGS84": "37.706115",
+        "YWGS84": "55.778111",
+        "GLOBALID": "90694135"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.502809,
+          55.691648
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ЗАО",
+        "ADDRESS": "Мичуринский пр., д.39",
+        "UNOM": "310145",
+        "FLOOR": "1 этаж",
+        "SQUARE": "211.4",
+        "STARTARENDE": "2282984.7",
+        "USE": "торговое",
+        "DATEAUCTION": "11.03.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "Аукцион признан несостоявшимся",
+        "RESULTARENDE": null,
+        "XWGS84": "37.502809",
+        "YWGS84": "55.691648",
+        "GLOBALID": "90855854"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.459134,
+          55.696721
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ЗАО",
+        "ADDRESS": "Очаковское ш., д.6, корп.1",
+        "UNOM": "18278",
+        "FLOOR": "1 этаж",
+        "SQUARE": "299.6",
+        "STARTARENDE": "2860041.52",
+        "USE": "торговое",
+        "DATEAUCTION": "13.03.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "Аукцион признан несостоявшимся",
+        "RESULTARENDE": null,
+        "XWGS84": "37.459134",
+        "YWGS84": "55.696721",
+        "GLOBALID": "90855878"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.786926,
+          55.80042
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ВАО",
+        "ADDRESS": "Парковая 5-я ул., д.37А",
+        "UNOM": "2105318",
+        "FLOOR": "2, подземный этаж",
+        "SQUARE": "797.3",
+        "STARTARENDE": "3496161.0",
+        "USE": "дошкольное образование",
+        "DATEAUCTION": "26.03.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "ИП Лаптева Екатерина Николаевна",
+        "RESULTARENDE": "4614932,52",
+        "XWGS84": "37.786926",
+        "YWGS84": "55.80042",
+        "GLOBALID": "91523078"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.434252,
+          55.849194
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "СЗАО",
+        "ADDRESS": "Бульвар Яна Райниса, д.11",
+        "UNOM": "21554",
+        "FLOOR": "цоколь",
+        "SQUARE": "254.9",
+        "STARTARENDE": "2381786.0",
+        "USE": "Торговое",
+        "DATEAUCTION": "19.02.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "ООО \"ТРОЙКА\"",
+        "RESULTARENDE": "2405603,86",
+        "XWGS84": "37.434252",
+        "YWGS84": "55.849194",
+        "GLOBALID": "90694167"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.398387,
+          55.713682
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ЗАО",
+        "ADDRESS": "Беловежская ул., д.11",
+        "UNOM": "320184",
+        "FLOOR": "1 этаж",
+        "SQUARE": "140.2",
+        "STARTARENDE": "1480983.07",
+        "USE": "торговое",
+        "DATEAUCTION": "02.04.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "ООО \"АЙДАРБЕК\"",
+        "RESULTARENDE": "1606866,63",
+        "XWGS84": "37.398387",
+        "YWGS84": "55.713682",
+        "GLOBALID": "91523081"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.664989,
+          55.777751
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ЦАО",
+        "ADDRESS": "Краснопрудная ул., д.22А",
+        "UNOM": "11638",
+        "FLOOR": "5 этаж",
+        "SQUARE": "301.5",
+        "STARTARENDE": "2789529.57",
+        "USE": "Свободное",
+        "DATEAUCTION": "19.02.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "Аукцион признан несостоявшимся",
+        "RESULTARENDE": null,
+        "XWGS84": "37.664989",
+        "YWGS84": "55.777751",
+        "GLOBALID": "90694161"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.68539,
+          55.743443
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ЦАО",
+        "ADDRESS": "Ковров пер., д.15",
+        "UNOM": "430016",
+        "FLOOR": "1 этаж",
+        "SQUARE": "144.6",
+        "STARTARENDE": "2484855.56",
+        "USE": "Торговое",
+        "DATEAUCTION": "19.02.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "Аукцион признан несостоявшимся",
+        "RESULTARENDE": null,
+        "XWGS84": "37.68539",
+        "YWGS84": "55.743443",
+        "GLOBALID": "90694159"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.869475,
+          55.813957
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ВАО",
+        "ADDRESS": "Западная ул., д.7А, стр.1",
+        "UNOM": "2137011",
+        "FLOOR": "здание",
+        "SQUARE": "27.9",
+        "STARTARENDE": "272555.0",
+        "USE": "торговое",
+        "DATEAUCTION": "12.03.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "Аукцион признан несостоявшимся",
+        "RESULTARENDE": null,
+        "XWGS84": "37.869475",
+        "YWGS84": "55.813957",
+        "GLOBALID": "90855869"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.709813,
+          55.81172
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ВАО",
+        "ADDRESS": "2-я Прогонная ул., д.11",
+        "UNOM": "20822",
+        "FLOOR": "1 этаж",
+        "SQUARE": "134.6",
+        "STARTARENDE": "1182999.0",
+        "USE": "торговое",
+        "DATEAUCTION": "12.03.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "Аукцион признан несостоявшимся",
+        "RESULTARENDE": null,
+        "XWGS84": "37.709813",
+        "YWGS84": "55.81172",
+        "GLOBALID": "90855864"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6931,
+          55.816012
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ВАО",
+        "ADDRESS": "Краснобогатырская ул., д.11",
+        "UNOM": "240110",
+        "FLOOR": "1 этаж",
+        "SQUARE": "103.0",
+        "STARTARENDE": "873749.0",
+        "USE": "торговое",
+        "DATEAUCTION": "12.03.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "ООО \"АГРЕЙ\"",
+        "RESULTARENDE": "1428579,62",
+        "XWGS84": "37.6931",
+        "YWGS84": "55.816012",
+        "GLOBALID": "90855870"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.506975,
+          55.795822
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "САО",
+        "ADDRESS": "Сальвадора Альенде ул., д.4, корп.1",
+        "UNOM": "22591",
+        "FLOOR": "подвал",
+        "SQUARE": "176.7",
+        "STARTARENDE": "592574.05",
+        "USE": "свободное",
+        "DATEAUCTION": "29.01.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "Аукцион признан несостоявшимся",
+        "RESULTARENDE": null,
+        "XWGS84": "37.506975",
+        "YWGS84": "55.795822",
+        "GLOBALID": "90693634"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.464003,
+          55.723765
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ЗАО",
+        "ADDRESS": "Кременчугская ул., д.3, корп.3",
+        "UNOM": "320108",
+        "FLOOR": "1 этаж",
+        "SQUARE": "213.7",
+        "STARTARENDE": "2075830.51",
+        "USE": "медицинское",
+        "DATEAUCTION": "05.03.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "Аукцион признан несостоявшимся",
+        "RESULTARENDE": null,
+        "XWGS84": "37.464003",
+        "YWGS84": "55.723765",
+        "GLOBALID": "90855846"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.660677,
+          55.747447
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ЦАО",
+        "ADDRESS": "Николоямская ул.,д. 39/43, корп.2",
+        "UNOM": "26777",
+        "FLOOR": "подвал",
+        "SQUARE": "283.2",
+        "STARTARENDE": "2193197.09",
+        "USE": "торговое",
+        "DATEAUCTION": "05.02.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "Аукцион признан несостоявшимся",
+        "RESULTARENDE": null,
+        "XWGS84": "37.660677",
+        "YWGS84": "55.747447",
+        "GLOBALID": "90694151"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.736502,
+          55.698127
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ЮВАО",
+        "ADDRESS": "Чистова ул., д.3А, стр.1",
+        "UNOM": "2129308",
+        "FLOOR": "2, подземный этаж",
+        "SQUARE": "758.8",
+        "STARTARENDE": "2308270.0",
+        "USE": "дошкольное образование",
+        "DATEAUCTION": "26.03.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "Маховнева Наталья Леонидовна",
+        "RESULTARENDE": "2308270,00",
+        "XWGS84": "37.736502",
+        "YWGS84": "55.698127",
+        "GLOBALID": "91523075"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.683244,
+          55.578482
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ЮАО",
+        "ADDRESS": "Липецкая ул., д.54/21, стр.2",
+        "UNOM": "2122490",
+        "FLOOR": "подвал",
+        "SQUARE": "522.9",
+        "STARTARENDE": "1482944.0",
+        "USE": "свободное",
+        "DATEAUCTION": "29.01.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "Аукцион признан несостоявшимся",
+        "RESULTARENDE": null,
+        "XWGS84": "37.683244",
+        "YWGS84": "55.578482",
+        "GLOBALID": "90694136"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.796154,
+          55.81284
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ВАО",
+        "ADDRESS": "Амурская ул., д.76",
+        "UNOM": "260039",
+        "FLOOR": "1 этаж",
+        "SQUARE": "49.9",
+        "STARTARENDE": "722702.0",
+        "USE": "торговое",
+        "DATEAUCTION": "13.03.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "Аукцион признан несостоявшимся",
+        "RESULTARENDE": null,
+        "XWGS84": "37.796154",
+        "YWGS84": "55.81284",
+        "GLOBALID": "90855882"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.807651,
+          55.748925
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ВАО",
+        "ADDRESS": "Алексея Дикого ул., д.3",
+        "UNOM": "2131322",
+        "FLOOR": "подвал",
+        "SQUARE": "73.9",
+        "STARTARENDE": "478946.0",
+        "USE": "торговое",
+        "DATEAUCTION": "11.03.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "Аукцион признан несостоявшимся",
+        "RESULTARENDE": null,
+        "XWGS84": "37.807651",
+        "YWGS84": "55.748925",
+        "GLOBALID": "90855855"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.674252,
+          55.732804
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ЦАО",
+        "ADDRESS": "Стройковская ул., д.17/1",
+        "UNOM": "24949",
+        "FLOOR": "подвал",
+        "SQUARE": "235.0",
+        "STARTARENDE": "2874769.1",
+        "USE": "торговое",
+        "DATEAUCTION": "05.02.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "ООО \"СКАЙЛАЙН\"",
+        "RESULTARENDE": "2903516,79",
+        "XWGS84": "37.674252",
+        "YWGS84": "55.732804",
+        "GLOBALID": "90694152"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.541041,
+          55.839522
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "САО",
+        "ADDRESS": "3-й Новомихалковский пр., д.5",
+        "UNOM": "16664",
+        "FLOOR": "1 этаж",
+        "SQUARE": "270.0",
+        "STARTARENDE": "1959708.6",
+        "USE": "медицинское",
+        "DATEAUCTION": "05.03.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "Аукцион признан несостоявшимся",
+        "RESULTARENDE": null,
+        "XWGS84": "37.541041",
+        "YWGS84": "55.839522",
+        "GLOBALID": "90855841"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.568361,
+          55.800377
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "САО",
+        "ADDRESS": "Вятский 4-й пер., д. 24, корп.1",
+        "UNOM": "19660",
+        "FLOOR": "подвал",
+        "SQUARE": "522.4",
+        "STARTARENDE": "1465258.86",
+        "USE": "свободное",
+        "DATEAUCTION": "05.02.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "Аукцион признан несостоявшимся",
+        "RESULTARENDE": null,
+        "XWGS84": "37.568361",
+        "YWGS84": "55.800377",
+        "GLOBALID": "90694150"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.47001,
+          55.813548
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "СЗАО",
+        "ADDRESS": "Волоколамское ш., д.41, корп.1",
+        "UNOM": "4681",
+        "FLOOR": "подвал",
+        "SQUARE": "447.7",
+        "STARTARENDE": "3754860.0",
+        "USE": "торговое",
+        "DATEAUCTION": "11.03.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "Аукцион признан несостоявшимся",
+        "RESULTARENDE": null,
+        "XWGS84": "37.47001",
+        "YWGS84": "55.813548",
+        "GLOBALID": "90855850"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.796154,
+          55.81284
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ВАО",
+        "ADDRESS": "Яблочкова ул., д.25",
+        "UNOM": "260039",
+        "FLOOR": "1 этаж",
+        "SQUARE": "32.9",
+        "STARTARENDE": "491033.0",
+        "USE": "торговое",
+        "DATEAUCTION": "17.04.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "ООО \"Флорико\"",
+        "RESULTARENDE": "491033,00",
+        "XWGS84": "37.796154",
+        "YWGS84": "55.81284",
+        "GLOBALID": "91523085"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.794652,
+          55.789001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ВАО",
+        "ADDRESS": "Парковая ул. 7-я, д.2, корп.1",
+        "UNOM": "18660",
+        "FLOOR": "подвал",
+        "SQUARE": "277.7",
+        "STARTARENDE": "1206884.0",
+        "USE": "свободное",
+        "DATEAUCTION": "19.03.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "Аукцион признан несостоявшимся",
+        "RESULTARENDE": null,
+        "XWGS84": "37.794652",
+        "YWGS84": "55.789001",
+        "GLOBALID": "90855888"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.814911,
+          55.719264
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ВАО",
+        "ADDRESS": "Красный Казанец ул., д.15, корп.1",
+        "UNOM": "11748",
+        "FLOOR": "1 этаж",
+        "SQUARE": "50.2",
+        "STARTARENDE": "357324.0",
+        "USE": "торговое",
+        "DATEAUCTION": "13.03.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "ООО \"СтройМаг\"",
+        "RESULTARENDE": "389483,16",
+        "XWGS84": "37.814911",
+        "YWGS84": "55.719264",
+        "GLOBALID": "90855884"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.529715,
+          55.806127
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "САО",
+        "ADDRESS": "Шебашёвский пр-д, д.3",
+        "UNOM": "218085",
+        "FLOOR": "2",
+        "SQUARE": "1456.1",
+        "STARTARENDE": "5814382.03",
+        "USE": "дошкольное образование",
+        "DATEAUCTION": "26.03.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "ООО \"Детский сад ЗНАЙКА\"",
+        "RESULTARENDE": "9128579,79",
+        "XWGS84": "37.529715",
+        "YWGS84": "55.806127",
+        "GLOBALID": "91523072"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.662311,
+          55.829693
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "СВАО",
+        "ADDRESS": "Малахитовая ул., д.8, корп.3",
+        "UNOM": "13718",
+        "FLOOR": "1 этаж",
+        "SQUARE": "226.3",
+        "STARTARENDE": "2413263.0",
+        "USE": "торговое",
+        "DATEAUCTION": "11.03.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "Аукцион признан несостоявшимся",
+        "RESULTARENDE": null,
+        "XWGS84": "37.662311",
+        "YWGS84": "55.829693",
+        "GLOBALID": "90855859"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.568015,
+          55.5476
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ЮЗАО",
+        "ADDRESS": "Изюмская ул., д.47, корп.1",
+        "UNOM": "290069",
+        "FLOOR": "1 этаж",
+        "SQUARE": "144.3",
+        "STARTARENDE": "1437084.0",
+        "USE": "торговое",
+        "DATEAUCTION": "11.03.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "Аукцион признан несостоявшимся",
+        "RESULTARENDE": null,
+        "XWGS84": "37.568015",
+        "YWGS84": "55.5476",
+        "GLOBALID": "90855857"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.921476,
+          55.70245
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ЮВАО",
+        "ADDRESS": "Защитников Москвы пр-т, д.13",
+        "UNOM": "270290",
+        "FLOOR": "1 этаж",
+        "SQUARE": "113.8",
+        "STARTARENDE": "883088.0",
+        "USE": "торговое",
+        "DATEAUCTION": "05.02.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "ООО \"ГРАНД-ИНВЕСТ\"",
+        "RESULTARENDE": "2278367,04",
+        "XWGS84": "37.921476",
+        "YWGS84": "55.70245",
+        "GLOBALID": "90694157"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.808734,
+          55.791444
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ВАО",
+        "ADDRESS": "Нижняя Первомайская ул., д.47",
+        "UNOM": "2502127",
+        "FLOOR": "подвал",
+        "SQUARE": "2143.5",
+        "STARTARENDE": "1.24323E7",
+        "USE": "свободное",
+        "DATEAUCTION": "02.04.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "Аукцион признан несостоявшимся",
+        "RESULTARENDE": null,
+        "XWGS84": "37.808734",
+        "YWGS84": "55.791444",
+        "GLOBALID": "91523082"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.670893,
+          55.7774
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ЦАО",
+        "ADDRESS": "Нижняя Красносельская ул., д.15, стр.1",
+        "UNOM": "11664",
+        "FLOOR": "цоколь",
+        "SQUARE": "143.4",
+        "STARTARENDE": "1128136.4",
+        "USE": "свободное",
+        "DATEAUCTION": "29.01.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "ИП Пилатов Н.А.",
+        "RESULTARENDE": "1128136,40",
+        "XWGS84": "37.670893",
+        "YWGS84": "55.7774",
+        "GLOBALID": "90694144"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.735563,
+          55.659118
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ЮВАО",
+        "ADDRESS": "Нижние Поля ул., д.23",
+        "UNOM": "2129513",
+        "FLOOR": "2-х этажное здание",
+        "SQUARE": "573.8",
+        "STARTARENDE": "3834705.0",
+        "USE": "свободное",
+        "DATEAUCTION": "02.04.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "ООО \"Дрессвип\"",
+        "RESULTARENDE": "8436351,00",
+        "XWGS84": "37.735563",
+        "YWGS84": "55.659118",
+        "GLOBALID": "91523079"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.426313,
+          55.739823
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ЗАО",
+        "ADDRESS": "Рублевское ш., д.93, корп.2",
+        "UNOM": "320267",
+        "FLOOR": "1 этаж",
+        "SQUARE": "133.3",
+        "STARTARENDE": "1679113.45",
+        "USE": "торговое",
+        "DATEAUCTION": "11.03.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "ООО \"КОНСАЛТ\"",
+        "RESULTARENDE": "1889002,63",
+        "XWGS84": "37.426313",
+        "YWGS84": "55.739823",
+        "GLOBALID": "90855860"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.705274,
+          55.744031
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ЮВАО",
+        "ADDRESS": "Душинская ул., д.20",
+        "UNOM": "7340",
+        "FLOOR": "1 этаж",
+        "SQUARE": "272.4",
+        "STARTARENDE": "1661640.0",
+        "USE": "свободное",
+        "DATEAUCTION": "29.01.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "ИП Пантелеева Надежда Юрьевна",
+        "RESULTARENDE": "1744722,00",
+        "XWGS84": "37.705274",
+        "YWGS84": "55.744031",
+        "GLOBALID": "90694143"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.560062,
+          55.8133
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "САО",
+        "ADDRESS": "Астрадамская ул., д.15, корп.2",
+        "UNOM": "2110005",
+        "FLOOR": "2, подземный этаж",
+        "SQUARE": "821.2",
+        "STARTARENDE": "2443858.35",
+        "USE": "дошкольное образование",
+        "DATEAUCTION": "26.03.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "ООО \"Детский сад ЗНАЙКА\"",
+        "RESULTARENDE": "2443858,35",
+        "XWGS84": "37.560062",
+        "YWGS84": "55.8133",
+        "GLOBALID": "91523076"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.771312,
+          55.744089
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ВАО",
+        "ADDRESS": "Лазо ул., д.8, корп.1",
+        "UNOM": "12549",
+        "FLOOR": "1 этаж",
+        "SQUARE": "299.5",
+        "STARTARENDE": "2435235.0",
+        "USE": "торговое",
+        "DATEAUCTION": "11.03.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "Аукцион признан несостоявшимся",
+        "RESULTARENDE": null,
+        "XWGS84": "37.771312",
+        "YWGS84": "55.744089",
+        "GLOBALID": "90855858"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.422805,
+          55.741488
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ЗАО",
+        "ADDRESS": "Рублевское ш., д. 97, корп.2",
+        "UNOM": "320268",
+        "FLOOR": "1 этаж",
+        "SQUARE": "153.3",
+        "STARTARENDE": "1931043.45",
+        "USE": "торговое",
+        "DATEAUCTION": "11.03.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "ООО \"СИГНИЯ\"",
+        "RESULTARENDE": "2626219,09",
+        "XWGS84": "37.422805",
+        "YWGS84": "55.741488",
+        "GLOBALID": "90855861"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.796154,
+          55.81284
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ВАО",
+        "ADDRESS": "Амурская ул., д.76",
+        "UNOM": "260039",
+        "FLOOR": "1 этаж",
+        "SQUARE": "33.2",
+        "STARTARENDE": "494282.0",
+        "USE": "торговое",
+        "DATEAUCTION": "13.03.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "Аукцион признан несостоявшимся",
+        "RESULTARENDE": null,
+        "XWGS84": "37.796154",
+        "YWGS84": "55.81284",
+        "GLOBALID": "90855881"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.679838,
+          55.700745
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ЮВАО",
+        "ADDRESS": "2-й Южнопортовый пр., д.5, корп.1",
+        "UNOM": "30222",
+        "FLOOR": "1 этаж",
+        "SQUARE": "235.4",
+        "STARTARENDE": "1878963.0",
+        "USE": "торговое",
+        "DATEAUCTION": "19.03.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "Аукцион признан несостоявшимся",
+        "RESULTARENDE": null,
+        "XWGS84": "37.679838",
+        "YWGS84": "55.700745",
+        "GLOBALID": "90855896"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.719495,
+          55.801645
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ВАО",
+        "ADDRESS": "Зельев пер., д.3",
+        "UNOM": "8428",
+        "FLOOR": "1 этаж",
+        "SQUARE": "95.3",
+        "STARTARENDE": "843214.0",
+        "USE": "торговое",
+        "DATEAUCTION": "11.03.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "ООО \"БИЗНЕС ЭКСПЕРТ\"",
+        "RESULTARENDE": "1387087,03",
+        "XWGS84": "37.719495",
+        "YWGS84": "55.801645",
+        "GLOBALID": "90855851"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.459134,
+          55.696721
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ЗАО",
+        "ADDRESS": "Яблочкова ул., д.25",
+        "UNOM": "18278",
+        "FLOOR": "1 этаж",
+        "SQUARE": "299.6",
+        "STARTARENDE": "2860041.52",
+        "USE": "торговое",
+        "DATEAUCTION": "17.04.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "ООО \"Сигния\"",
+        "RESULTARENDE": "2860041,52",
+        "XWGS84": "37.459134",
+        "YWGS84": "55.696721",
+        "GLOBALID": "91523084"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.39422,
+          55.709077
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ЗАО",
+        "ADDRESS": "Беловежская ул., д.57",
+        "UNOM": "320166",
+        "FLOOR": "1 этаж",
+        "SQUARE": "212.1",
+        "STARTARENDE": "1715405.41",
+        "USE": "медицинское",
+        "DATEAUCTION": "05.03.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "Аукцион признан несостоявшимся",
+        "RESULTARENDE": null,
+        "XWGS84": "37.39422",
+        "YWGS84": "55.709077",
+        "GLOBALID": "90855848"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.821946,
+          55.793379
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ВАО",
+        "ADDRESS": "Первомайская ул., д. 128/9",
+        "UNOM": "19226",
+        "FLOOR": "подвал",
+        "SQUARE": "97.2",
+        "STARTARENDE": "718794.0",
+        "USE": "торговое",
+        "DATEAUCTION": "12.03.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "Аукцион признан несостоявшимся",
+        "RESULTARENDE": null,
+        "XWGS84": "37.821946",
+        "YWGS84": "55.793379",
+        "GLOBALID": "90855872"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.617733,
+          55.661825
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ЮАО",
+        "ADDRESS": "Варшавское шоссе, д.60, корп.2",
+        "UNOM": "2107270",
+        "FLOOR": "2, подземный этаж",
+        "SQUARE": "955.7",
+        "STARTARENDE": "6109790.0",
+        "USE": "дошкольное образование",
+        "DATEAUCTION": "26.03.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "Никитин Алексей Игоревич",
+        "RESULTARENDE": "9195233,95",
+        "XWGS84": "37.617733",
+        "YWGS84": "55.661825",
+        "GLOBALID": "91523074"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.610225,
+          55.678967
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ЮЗАО",
+        "ADDRESS": "Нагорная ул., д.13А, корп.4",
+        "UNOM": "15568",
+        "FLOOR": "цоколь",
+        "SQUARE": "288.9",
+        "STARTARENDE": "2284043.0",
+        "USE": "торговое",
+        "DATEAUCTION": "19.03.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "Аукцион признан несостоявшимся",
+        "RESULTARENDE": null,
+        "XWGS84": "37.610225",
+        "YWGS84": "55.678967",
+        "GLOBALID": "90855894"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.565391,
+          55.795677
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "САО",
+        "ADDRESS": "Мишина ул., д.26",
+        "UNOM": "340001",
+        "FLOOR": "1 этаж",
+        "SQUARE": "241.3",
+        "STARTARENDE": "3528993.2",
+        "USE": "торговое",
+        "DATEAUCTION": "05.02.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "Аукцион признан несостоявшимся",
+        "RESULTARENDE": null,
+        "XWGS84": "37.565391",
+        "YWGS84": "55.795677",
+        "GLOBALID": "90694154"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.398387,
+          55.713682
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ЗАО",
+        "ADDRESS": "Беловежская ул., д.11",
+        "UNOM": "320184",
+        "FLOOR": "1 этаж",
+        "SQUARE": "139.7",
+        "STARTARENDE": "1475701.39",
+        "USE": "торговое",
+        "DATEAUCTION": "02.04.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "ООО \"СЭЛА\"",
+        "RESULTARENDE": "1556864,97",
+        "XWGS84": "37.398387",
+        "YWGS84": "55.713682",
+        "GLOBALID": "91523080"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.737416,
+          55.712522
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ЮВАО",
+        "ADDRESS": "1-й Саратовский пр., д.3А",
+        "UNOM": "2130037",
+        "FLOOR": "2, подземный этаж",
+        "SQUARE": "837.1",
+        "STARTARENDE": "3682403.0",
+        "USE": "дошкольное образование",
+        "DATEAUCTION": "12.03.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "НОЧУДО \"Детский сад \"Знайка\"",
+        "RESULTARENDE": "3682403,00",
+        "XWGS84": "37.737416",
+        "YWGS84": "55.712522",
+        "GLOBALID": "90855862"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.674518,
+          55.643434
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ЮАО",
+        "ADDRESS": "Каширское ш., д. 66, корп.2",
+        "UNOM": "2123744",
+        "FLOOR": "3-х этажное здание",
+        "SQUARE": "991.6",
+        "STARTARENDE": "6096357.0",
+        "USE": "Свободное",
+        "DATEAUCTION": "19.02.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "ООО \"ПТК ЛАЙНВЭЙ\"",
+        "RESULTARENDE": "8077673,03",
+        "XWGS84": "37.674518",
+        "YWGS84": "55.643434",
+        "GLOBALID": "90694158"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.810185,
+          55.752234
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ВАО",
+        "ADDRESS": "Зеленый пр., д.48, корп.3",
+        "UNOM": "82051",
+        "FLOOR": "1 этаж",
+        "SQUARE": "403.3",
+        "STARTARENDE": "3655915.0",
+        "USE": "медицинское",
+        "DATEAUCTION": "05.03.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "Аукцион признан несостоявшимся",
+        "RESULTARENDE": null,
+        "XWGS84": "37.810185",
+        "YWGS84": "55.752234",
+        "GLOBALID": "90855842"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.660677,
+          55.747447
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ЦАО",
+        "ADDRESS": "Николоямская ул.,д. 39/43, корп.2",
+        "UNOM": "26777",
+        "FLOOR": "подвал",
+        "SQUARE": "283.2",
+        "STARTARENDE": "2193197.09",
+        "USE": "торговое",
+        "DATEAUCTION": "19.03.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "Аукцион признан несостоявшимся",
+        "RESULTARENDE": null,
+        "XWGS84": "37.660677",
+        "YWGS84": "55.747447",
+        "GLOBALID": "90855893"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.483624,
+          55.79339
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "СЗАО",
+        "ADDRESS": "Расплетина ул., д.20",
+        "UNOM": "21682",
+        "FLOOR": "1 этаж",
+        "SQUARE": "742.4",
+        "STARTARENDE": "4614785.0",
+        "USE": "медицинское",
+        "DATEAUCTION": "05.03.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "Аукцион признан несостоявшимся",
+        "RESULTARENDE": null,
+        "XWGS84": "37.483624",
+        "YWGS84": "55.79339",
+        "GLOBALID": "90855847"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.787803,
+          55.795365
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ВАО",
+        "ADDRESS": "Парковая 5-я ул., д.25",
+        "UNOM": "18584",
+        "FLOOR": "подвал",
+        "SQUARE": "233.7",
+        "STARTARENDE": "895772.0",
+        "USE": "свободное",
+        "DATEAUCTION": "19.03.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "Аукцион признан несостоявшимся",
+        "RESULTARENDE": null,
+        "XWGS84": "37.787803",
+        "YWGS84": "55.795365",
+        "GLOBALID": "90855890"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.731535,
+          55.771582
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ВАО",
+        "ADDRESS": "Соколиной горы 9-я ул., д.3",
+        "UNOM": "24184",
+        "FLOOR": "подвал",
+        "SQUARE": "698.7",
+        "STARTARENDE": "1773301.0",
+        "USE": "свободное",
+        "DATEAUCTION": "19.03.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "Аукцион признан несостоявшимся",
+        "RESULTARENDE": null,
+        "XWGS84": "37.731535",
+        "YWGS84": "55.771582",
+        "GLOBALID": "90855889"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.496788,
+          55.80325
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "САО",
+        "ADDRESS": "Панфилова ул., д.10",
+        "UNOM": "18446",
+        "FLOOR": "подвал",
+        "SQUARE": "266.3",
+        "STARTARENDE": "816694.17",
+        "USE": "свободное",
+        "DATEAUCTION": "05.02.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "Аукцион признан несостоявшимся",
+        "RESULTARENDE": null,
+        "XWGS84": "37.496788",
+        "YWGS84": "55.80325",
+        "GLOBALID": "90694149"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.725541,
+          55.779653
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ВАО",
+        "ADDRESS": "Измайловское ш.,  д.15",
+        "UNOM": "8718",
+        "FLOOR": "подвал",
+        "SQUARE": "194.8",
+        "STARTARENDE": "1341393.0",
+        "USE": "торговое",
+        "DATEAUCTION": "12.03.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "WINNER": "Аукцион признан несостоявшимся",
+        "RESULTARENDE": null,
+        "XWGS84": "37.725541",
+        "YWGS84": "55.779653",
+        "GLOBALID": "90855867"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

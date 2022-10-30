@@ -1,0 +1,502 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            37.483981657764,
+            55.797529692329
+          ],
+          [
+            37.485308188867,
+            55.797332331109
+          ]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "FullName": "Государственное бюджетное учреждение здравоохранения города Москвы «Центр медицинской профилактики Департамента здравоохранения города Москвы»",
+        "ShortName": "ГБУЗ ЦМП ДЗМ",
+        "ChiefName": "Елагина Татьяна Николаевна",
+        "ChiefPosition": "главный врач",
+        "ChiefGender": "женский",
+        "ClarificationWorkingHours": "",
+        "globalid": 656106822,
+        "OrgInfoisdeleted0": 0,
+        "OrgInfoFullName0": "",
+        "OrgInfoINN0": "",
+        "OrgInfoKPP0": "",
+        "OrgInfoOGRN0": "",
+        "OrgInfoLegalAddress0": "",
+        "OrgInfoChiefName0": "",
+        "OrgInfoChiefPosition0": null,
+        "OrgInfoChiefGender0": null,
+        "OrgInfoChiefPhone0": [
+          {
+            "isdeleted": 0,
+            "globalid": 335239,
+            "ChiefPhone": ""
+          }
+        ],
+        "OrgInfoglobalid0": 334947,
+        "ObjectAddressisdeleted0": 0,
+        "ObjectAddressAdmArea0": null,
+        "ObjectAddressDistrict0": null,
+        "ObjectAddressPostalCode0": "",
+        "ObjectAddressAddress0": "",
+        "ObjectAddressAvailability0": [
+          {
+            "isdeleted": 0,
+            "globalid": 157217,
+            "availablek": null,
+            "availableo": null,
+            "availablez": null,
+            "availables": null,
+            "availableelement": [
+              {
+                "isdeleted": 0,
+                "globalid": 6233301,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6233330,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6233939,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6235204,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6235306,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6238617,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6240243,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6241597,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6242756,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6242757,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6242905,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6243892,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6244042,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6244315,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6244316,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6247361,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6247563,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6248266,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6248792,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6250413,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6251478,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6253815,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6253997,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6255179,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6255333,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6255540,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6256929,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6257778,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6258377,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6259301,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6259521,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6259599,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6259785,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6260139,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6262245,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6262246,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6262307,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6262597,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6262967,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6262971,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6264509,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6265522,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              }
+            ]
+          }
+        ],
+        "ObjectAddressExtrainfo0": "",
+        "ObjectAddressglobalid0": 375248,
+        "ObjectAddressisdeleted1": 0,
+        "ObjectAddressAdmArea1": null,
+        "ObjectAddressDistrict1": null,
+        "ObjectAddressPostalCode1": "",
+        "ObjectAddressAddress1": "",
+        "ObjectAddressAvailability1": [
+          {
+            "isdeleted": 0,
+            "globalid": 158293,
+            "availablek": null,
+            "availableo": null,
+            "availablez": null,
+            "availables": null,
+            "availableelement": []
+          }
+        ],
+        "ObjectAddressExtrainfo1": "",
+        "ObjectAddressglobalid1": 375647,
+        "ChiefPhoneisdeleted0": 0,
+        "ChiefPhoneChiefPhone0": "",
+        "ChiefPhoneglobalid0": 352505,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "PublicPhoneglobalid0": 383786,
+        "Faxisdeleted0": 0,
+        "FaxFax0": "",
+        "Faxglobalid0": 344345,
+        "Emailisdeleted0": 0,
+        "EmailEmail0": "",
+        "Emailglobalid0": 347074,
+        "WorkingHoursisdeleted0": 0,
+        "WorkingHoursDayWeek0": null,
+        "WorkingHoursWorkHours0": "",
+        "WorkingHoursglobalid0": 2493729,
+        "WorkingHoursisdeleted1": 0,
+        "WorkingHoursDayWeek1": null,
+        "WorkingHoursWorkHours1": "",
+        "WorkingHoursglobalid1": 2493125,
+        "WorkingHoursisdeleted2": 0,
+        "WorkingHoursDayWeek2": null,
+        "WorkingHoursWorkHours2": "",
+        "WorkingHoursglobalid2": 2483487,
+        "WorkingHoursisdeleted3": 0,
+        "WorkingHoursDayWeek3": null,
+        "WorkingHoursWorkHours3": "",
+        "WorkingHoursglobalid3": 2489892,
+        "WorkingHoursisdeleted4": 0,
+        "WorkingHoursDayWeek4": null,
+        "WorkingHoursWorkHours4": "",
+        "WorkingHoursglobalid4": 2494508,
+        "WorkingHoursisdeleted5": 0,
+        "WorkingHoursDayWeek5": null,
+        "WorkingHoursWorkHours5": "",
+        "WorkingHoursglobalid5": 2493063,
+        "WorkingHoursisdeleted6": 0,
+        "WorkingHoursDayWeek6": null,
+        "WorkingHoursWorkHours6": "",
+        "WorkingHoursglobalid6": 2486961
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

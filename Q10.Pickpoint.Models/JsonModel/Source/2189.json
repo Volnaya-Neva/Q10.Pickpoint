@@ -1,0 +1,47 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.292136731264,
+          55.46951586577
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 119,
+        "Nameen": "Отдел жилищных субсидий поселения Троицка",
+        "AdmAreaen": null,
+        "Districten": null,
+        "Addressen": "Солнечная улица, дом 12",
+        "Emailen": "144@nm.subsident.ru",
+        "ClarificationOfWorkingHoursen": "обед 13:00-13:45",
+        "ExtraInfoen": "",
+        "globalid": 1689940
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.589169831283,
+          55.503145666501
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 120,
+        "Nameen": "Отдел жилищных субсидий поселения Щербинка",
+        "AdmAreaen": null,
+        "Districten": null,
+        "Addressen": "улица Маршала Савицкого, дом 18, корпус 2",
+        "Emailen": "145@nm.subsident.ru",
+        "ClarificationOfWorkingHoursen": "обед 13:00-13:45",
+        "ExtraInfoen": "",
+        "globalid": 1689941
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,551 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.555417,
+          55.599169
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "«Бор-1»",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Ясенево",
+        "Address": "город Москва, Новоясеневский проспект, дом 25/20",
+        "ManagementCompany": "Бор-1",
+        "LegalAddressOfManagementCompany": "117463, Москва г, НОВОЯСЕНЕВСКИЙ пр-кт, строение № СТРОЕНИЕ 1",
+        "MarketType": "Специализированный (сельскохозяйственный)",
+        "ExtraInfo": "",
+        "globalid": 634960233
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.554883,
+          55.897109
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "«Автохозяйство Лианозово»",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Лианозово",
+        "Address": "город Москва, Лианозовский проезд, владение 1",
+        "ManagementCompany": "Автохозяйство Лианозово",
+        "LegalAddressOfManagementCompany": "127576, Москва г, Илимская ул, дом № 1",
+        "MarketType": "Специализированный (сельскохозяйственный)",
+        "ExtraInfo": "",
+        "globalid": 634960515
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.529546,
+          55.808488
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "«Ленинградский рынок»",
+        "AdmArea": "Северный административный округ",
+        "District": "район Аэропорт",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Аэропорт, Часовая улица, дом 11",
+        "ManagementCompany": "Ленинградский рынок",
+        "LegalAddressOfManagementCompany": "125315, Москва г, Часовая ул, дом № 11",
+        "MarketType": "Специализированный (сельскохозяйственный)",
+        "ExtraInfo": "",
+        "globalid": 634960785
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.40742,
+          55.646096
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управляющая Компания «Лагонда»",
+        "AdmArea": "Западный административный округ",
+        "District": "район Солнцево",
+        "Address": "город Москва, улица Щорса, дом 5, корпус 1",
+        "ManagementCompany": "Сигма-ХХI век",
+        "LegalAddressOfManagementCompany": "121165, СТУДЕНЧЕСКАЯ ул, дом № 31, корпус 1, квартира дом 31",
+        "MarketType": "Специализированный (сельскохозяйственный)",
+        "ExtraInfo": "",
+        "globalid": 634960884
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.637058,
+          55.793346
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "«Рижский рынок»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Мещанский район",
+        "Address": "город Москва, проспект Мира, дом 88, строение 1",
+        "ManagementCompany": "Рижский рынок",
+        "LegalAddressOfManagementCompany": "129110, город Москва, проспект Мира, дом 88",
+        "MarketType": "Специализированный (сельскохозяйственный)",
+        "ExtraInfo": "",
+        "globalid": 634961048
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.521984,
+          55.833476
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "«Коптевский рынок»",
+        "AdmArea": "Северный административный округ",
+        "District": "район Коптево",
+        "Address": "город Москва, Коптевская улица, дом 24, строение 1",
+        "ManagementCompany": "Коптевский рынок",
+        "LegalAddressOfManagementCompany": "125239, город Москва, Коптевская улица, дом 24",
+        "MarketType": "Специализированный (сельскохозяйственный)",
+        "ExtraInfo": "",
+        "globalid": 634961204
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.676861,
+          55.870152
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "«Северный рынок»",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Лосиноостровский район",
+        "Address": "город Москва, улица Лётчика Бабушкина, дом 30, строение 1",
+        "ManagementCompany": "СЕВЕРНЫЙ РЫНОК",
+        "LegalAddressOfManagementCompany": "129281, МОСКВА г, ЛЁТЧИКА БАБУШКИНА ул, дом № 30СТР1",
+        "MarketType": "Специализированный (сельскохозяйственный)",
+        "ExtraInfo": "",
+        "globalid": 634961303
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          36.941086,
+          55.46347
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "«Свеал»",
+        "AdmArea": "Троицкий административный округ",
+        "District": "поселение Новофедоровское",
+        "Address": "город Москва, поселение Новофедоровское, деревня Яковлевское, дом 1",
+        "ManagementCompany": "СВЕАЛ",
+        "LegalAddressOfManagementCompany": "143396, МОСКВА г, ВЕРХОВЬЕ (ПЕРВОМАЙСКОЕ) ДЕРЕВНЯ, дом № 50",
+        "MarketType": "Универсальный",
+        "ExtraInfo": "",
+        "globalid": 634961484
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.878632,
+          55.747698
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "«Крона-Маркет»",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Новокосино",
+        "Address": "город Москва, Суздальская улица, дом 25А, строение 1",
+        "ManagementCompany": "Крона-Маркет",
+        "LegalAddressOfManagementCompany": "111141, Москва г, Кусковская ул, дом № 31А",
+        "MarketType": "Универсальный",
+        "ExtraInfo": "",
+        "globalid": 634961621
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.718787,
+          55.793149
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "«Преображенский рынок»",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Преображенское",
+        "Address": "город Москва, улица Преображенский Вал, дом 17, строение 1",
+        "ManagementCompany": "ГУП «М.Прогресс»",
+        "LegalAddressOfManagementCompany": "107061, Москва г, Преображенский Вал ул, дом № 17",
+        "MarketType": "Специализированный (сельскохозяйственный)",
+        "ExtraInfo": "",
+        "globalid": 634961733
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.719471,
+          55.646725
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "«Барс-2»",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Марьино",
+        "Address": "город Москва, Новочеркасский бульвар, владение 5А, строение 1",
+        "ManagementCompany": "Барс-2",
+        "LegalAddressOfManagementCompany": "140011, Московская область, Люберецкий район, город Люберцы, Шоссейная улица, дом 2",
+        "MarketType": "Специализированный (сельскохозяйственный)",
+        "ExtraInfo": "",
+        "globalid": 634962123
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.731897,
+          55.700639
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "«Люблинский рынок»",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Текстильщики",
+        "Address": "город Москва, Люблинская улица, дом 10, строение 1",
+        "ManagementCompany": "ЛЮБЛИНСКИЙ РЫНОК",
+        "LegalAddressOfManagementCompany": "Москва г, Люблинская ул, дом № 10-12",
+        "MarketType": "Специализированный (сельскохозяйственный)",
+        "ExtraInfo": "",
+        "globalid": 634962356
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.620375,
+          55.712142
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "«Даниловский рынок»",
+        "AdmArea": "Южный административный округ",
+        "District": "Даниловский район",
+        "Address": "город Москва, Мытная улица, дом 74",
+        "ManagementCompany": "Даниловский рынок",
+        "LegalAddressOfManagementCompany": "115191, город Москва, Мытная улица, дом 74",
+        "MarketType": "Специализированный (сельскохозяйственный)",
+        "ExtraInfo": "",
+        "globalid": 634962619
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.667025,
+          55.618861
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "«Рыночный комплекс «Царицынский»",
+        "AdmArea": "Южный административный округ",
+        "District": "район Царицыно",
+        "Address": "город Москва, Каспийская улица, дом 36",
+        "ManagementCompany": "РЫНОЧНЫЙ КОМПЛЕКС ЦАРИЦЫНСКИЙ",
+        "LegalAddressOfManagementCompany": "115516, город Москва, Каспийская улица, дом 36",
+        "MarketType": "Специализированный (сельскохозяйственный)",
+        "ExtraInfo": "",
+        "globalid": 634962886
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.508853,
+          55.618151
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "«Калужская сельскохозяйственная ярмарка»",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Ясенево",
+        "Address": "город Москва, Профсоюзная улица, строение Б/Н",
+        "ManagementCompany": "Калужская сельскохозяйственная ярмарка",
+        "LegalAddressOfManagementCompany": "117588, Москва г, Новоясеневский пр-кт, дом № 1",
+        "MarketType": "Специализированный (сельскохозяйственный)",
+        "ExtraInfo": "",
+        "globalid": 634962939
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.50132,
+          55.618773
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "«Стройтехинвест»",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Тёплый Стан",
+        "Address": "город Москва, улица Тёплый Стан, владение 1Б, строение 1",
+        "ManagementCompany": "СТРОЙТЕХиНВЕСТ",
+        "LegalAddressOfManagementCompany": "Москва г, Теплый Стан ул, дом № 1Б,  3",
+        "MarketType": "Специализированный (сельскохозяйственный)",
+        "ExtraInfo": "",
+        "globalid": 634963249
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.509531,
+          55.618209
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "«Торговая компания - КАРЕН»",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Ясенево",
+        "Address": "город Москва, Новоясеневский проспект, дом 1Б, корпус 2",
+        "ManagementCompany": "ТОРГОВАЯ КОМПАНИЯ-КАРЕН",
+        "LegalAddressOfManagementCompany": "117292, Москва г, ПРОФСОЮЗНАЯ ул, дом № ДОМ 4, корпус КОРПУС 4",
+        "MarketType": "Специализированный (сельскохозяйственный)",
+        "ExtraInfo": "",
+        "globalid": 634963314
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.550567,
+          55.683919
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "«Черемушкинский торг»",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "Гагаринский район",
+        "Address": "город Москва, улица Вавилова, дом 64/1, строение 1",
+        "ManagementCompany": "Руслан",
+        "LegalAddressOfManagementCompany": "142191, Москва г, Троицк г, Городская ул, дом № 6",
+        "MarketType": "Специализированный (сельскохозяйственный)",
+        "ExtraInfo": "",
+        "globalid": 634963478
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.554205,
+          55.742823
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "«Данвита»",
+        "AdmArea": "Западный административный округ",
+        "District": "район Дорогомилово",
+        "Address": "город Москва, улица Можайский Вал, дом 10",
+        "ManagementCompany": "ДАНВИТА",
+        "LegalAddressOfManagementCompany": "121151, Москва г, Можайский Вал ул, дом № 10, комната 6",
+        "MarketType": "Специализированный (сельскохозяйственный)",
+        "ExtraInfo": "",
+        "globalid": 634963692
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.406954,
+          55.725998
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "«Кунцевский рынок»",
+        "AdmArea": "Западный административный округ",
+        "District": "Можайский район",
+        "Address": "город Москва, улица Маршала Неделина, дом 19",
+        "ManagementCompany": "Кунцевский рынок",
+        "LegalAddressOfManagementCompany": "121354, город Москва, улица Маршала Неделина, дом 19",
+        "MarketType": "Специализированный (сельскохозяйственный)",
+        "ExtraInfo": "",
+        "globalid": 634963783
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.298387,
+          55.476547
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "МУП «Магазин Центральный»",
+        "AdmArea": "Троицкий административный округ",
+        "District": "поселение Троицк",
+        "Address": "город Москва, город Троицк, Октябрьский проспект, дом 16Б",
+        "ManagementCompany": "г. Троицка Магазин «Центральный»",
+        "LegalAddressOfManagementCompany": "142191, Москва г, Троицк г, Академика Верещагина пл, дом № 1",
+        "MarketType": "Универсальный",
+        "ExtraInfo": "",
+        "globalid": 634963909
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.444456,
+          55.529558
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "«Сампо»",
+        "AdmArea": "Новомосковский административный округ",
+        "District": "поселение Воскресенское",
+        "Address": "город Москва, поселение Воскресенское, посёлок Воскресенское, дом 28А",
+        "ManagementCompany": "Сампо",
+        "LegalAddressOfManagementCompany": "142791, город Москва, поселение Воскресенское,поселок подсобного хозяйства Воскресенское, дом 28",
+        "MarketType": "Специализированный (сельскохозяйственный)",
+        "ExtraInfo": "",
+        "globalid": 634964048
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.637758,
+          55.79643
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "ООО «Илион Трейд»",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Алексеевский район",
+        "Address": "город Москва, проспект Мира, владение 98А, строение 1",
+        "ManagementCompany": "Фирма «ИЛИОН-ТРЕЙД»",
+        "LegalAddressOfManagementCompany": "129110, город Москва, Водопроводный переулок, дом 1",
+        "MarketType": "Специализированный (радиорынок)",
+        "ExtraInfo": "Распоряжение ДТиУ № 705 от 29.12.2011 (реконструкция)",
+        "globalid": 634964186
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.8343,
+          55.654689
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "«Оптово-розничный рынок «Садовод»",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Капотня",
+        "Address": "МКАД, 14-й километр, дом 2, строение 1",
+        "ManagementCompany": "РЫНОК САДОВОД",
+        "LegalAddressOfManagementCompany": "109429 , МОСКВА ГОРОД, МКАД 14-Й КИЛОМЕТР, дом № ДОМ 4",
+        "MarketType": "Универсальный",
+        "ExtraInfo": "",
+        "globalid": 885653837
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.606182,
+          55.656712
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "«Москворецкий рынок»",
+        "AdmArea": "Южный административный округ",
+        "District": "Нагорный район",
+        "Address": "город Москва, Болотниковская улица, дом 12",
+        "ManagementCompany": "Москворецкий рынок",
+        "LegalAddressOfManagementCompany": "117556, город Москва, Симферопольский бульвар, дом 11/12",
+        "MarketType": "Специализированный (сельскохозяйственный)",
+        "ExtraInfo": "",
+        "globalid": 969666305
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.172499,
+          55.9824528238189
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "«Вит-Сириус»",
+        "AdmArea": "Зеленоградский административный округ",
+        "District": "район Силино",
+        "Address": "город Москва, город Зеленоград, улица Панфилова, дом 13, строение 1",
+        "ManagementCompany": "ВИТ-СИРИУС",
+        "LegalAddressOfManagementCompany": "124575, ЗЕЛЕНОГРАД г, 124575 , МОСКВА ГОРОД, ГОРОД ЗЕЛЕНОГРАД, УЛИЦА ПАНФИЛОВА, ПАНФИЛОВА ул, строение № СТРОЕНИЕ 1",
+        "MarketType": "Специализированный (сельскохозяйственный)",
+        "ExtraInfo": "",
+        "globalid": 1010306150
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

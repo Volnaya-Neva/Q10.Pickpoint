@@ -1,0 +1,322 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.609038,
+          55.737324
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Летний кинотеатр в Парке искусств «Музеон»",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Якиманка",
+        "Location": "улица Крымский Вал, владение 2\n",
+        "LocationClarification": "расположен между Мароновским переулком и Крымской набережной в парке Искусств «Музеон» за Центральным Домом Художника, от станции метро пешком или на троллейбусе №10, «Б» до остановки «Парк культуры»",
+        "WebSite": "www.park-gorkogo.com",
+        "ExtraInfo": "Билеты можно приобрести на сайте, в кассе парка или непосредственно в кинотеатре перед показом. Расписание сеансов можно уточнить на сайте кинотеатра\nКасса работает ежедневно с 10:00 до 22:00 в Павильоне ИНФОБОКС у входа в парк с Крымского вала, а также в Летнем кинотеатре за час до начала сеанса.",
+        "globalid": 14174215,
+        "ShowTimesglobalid0": 1,
+        "ShowTimesisdeleted0": 0,
+        "Costglobalid0": 2,
+        "Costisdeleted0": 0,
+        "Costglobalid1": 4,
+        "Costisdeleted1": 0,
+        "Costglobalid2": 35,
+        "Costisdeleted2": 0,
+        "Phoneglobalid0": 1,
+        "Phoneisdeleted0": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.599085,
+          55.725909
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Летний кинотеатр «Летний пионер» в Центральном парке культуры и отдыха имени М.Горького",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Якиманка",
+        "Location": "улица Крымский Вал, дом 9\n",
+        "LocationClarification": "расположен в конце Центральной аллеи",
+        "NearestMetroStation": "Парк культуры",
+        "WebSite": "www.pioner-cinema.ru",
+        "ExtraInfo": "Показы в кинотеатре проводятся при условии, что на сеанс приобретено не менее 10 билетов. Без мест, действует свободная рассадка",
+        "globalid": 14174217,
+        "ShowTimesglobalid0": 4,
+        "ShowTimesisdeleted0": 0,
+        "Costglobalid0": 6,
+        "Costisdeleted0": 0,
+        "Phoneglobalid0": 3,
+        "Phoneisdeleted0": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.487559,
+          55.745549
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Летний кинотеатр в Парке культуры и отдыха «Фили»",
+        "AdmArea": "Западный административный округ",
+        "District": "район Филёвский Парк",
+        "Location": "Большая Филёвская улица, дом 22, строение 1\n",
+        "LocationClarification": "расположен напротив главного входа в парк",
+        "NearestMetroStation": "Багратионовская",
+        "WebSite": "www.parkfili.com",
+        "ExtraInfo": "",
+        "globalid": 14174220,
+        "ShowTimesglobalid0": 7,
+        "ShowTimesisdeleted0": 0,
+        "Costglobalid0": 8,
+        "Costisdeleted0": 0,
+        "Phoneglobalid0": 5,
+        "Phoneisdeleted0": 0,
+        "Phoneglobalid1": 67,
+        "Phoneisdeleted1": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.553765,
+          55.753077
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Летний кинотеатр в Парке культуры и отдыха «Красная Пресня»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "Location": "улица Мантулинская, дом 5\n",
+        "LocationClarification": "11 минут пешком (990 метров) от метро «Выставочная», 21 минута пешком (1700 метров) от станции метро «Улица 1905 года», либо 3 остановки на автобусе №12 до остановки «Улица Анны Северьяновой»",
+        "WebSite": "www.p-kp.ru",
+        "ExtraInfo": "Телефон для уточнения информации (499) 256-13-02",
+        "globalid": 14174229,
+        "ShowTimesglobalid0": 12,
+        "ShowTimesisdeleted0": 0,
+        "Costglobalid0": 11,
+        "Costisdeleted0": 0,
+        "Phoneglobalid0": 8,
+        "Phoneisdeleted0": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.682736,
+          55.866829
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Летний кинотеатр в Парке культуры и отдыха «Бабушкинский»",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Лосиноостровский район",
+        "Location": "улица Менжинского, дом 6, строение 3\n",
+        "LocationClarification": "17 минут пешком (1400 метров) от метро «Бабушкинская»",
+        "NearestMetroStation": "Бабушкинская",
+        "WebSite": "www.bapark.ru",
+        "ExtraInfo": "при проведении культурно-развлекательных мероприятий в Зеленом театре, время показов фильмов может меняться.",
+        "globalid": 14174231,
+        "ShowTimesglobalid0": 17,
+        "ShowTimesisdeleted0": 0,
+        "ShowTimesglobalid1": 18,
+        "ShowTimesisdeleted1": 0,
+        "ShowTimesglobalid2": 19,
+        "ShowTimesisdeleted2": 0,
+        "Costglobalid0": 13,
+        "Costisdeleted0": 0,
+        "Phoneglobalid0": 10,
+        "Phoneisdeleted0": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.669585,
+          55.797903
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Летний кинотеатр «Пионер» в Парке культуры и отдыха «Сокольники»",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Сокольники",
+        "Location": "Митьковский проезд, дом 10\n",
+        "LocationClarification": "между 2-м Лучевым просеком и Митьковским проездом (около Большого розария)",
+        "NearestMetroStation": "Сокольники",
+        "WebSite": "www.park.sokolniki.com",
+        "ExtraInfo": "Показы в кинотеатре проводятся при условии, что на сеанс приобретено не менее 10 билетов.",
+        "globalid": 14174233,
+        "ShowTimesglobalid0": 21,
+        "ShowTimesisdeleted0": 0,
+        "Costglobalid0": 16,
+        "Costisdeleted0": 0,
+        "Phoneglobalid0": 12,
+        "Phoneisdeleted0": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.609272,
+          55.770796
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Летний кинотеатр в саду «Эрмитаж»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Location": "улица Каретный ряд, дом 3, строение 1\n",
+        "LocationClarification": "11 минут пешком (890 метров) от метро «Чеховская»",
+        "WebSite": "www.mosgorsad.ru",
+        "ExtraInfo": "",
+        "globalid": 14174240,
+        "ShowTimesglobalid0": 24,
+        "ShowTimesisdeleted0": 0,
+        "Costglobalid0": 24,
+        "Costisdeleted0": 0,
+        "Costglobalid1": 25,
+        "Costisdeleted1": 0,
+        "Costglobalid2": 26,
+        "Costisdeleted2": 0,
+        "Costglobalid3": 27,
+        "Costisdeleted3": 0,
+        "Costglobalid4": 28,
+        "Costisdeleted4": 0,
+        "Costglobalid5": 29,
+        "Costisdeleted5": 0,
+        "Costglobalid6": 30,
+        "Costisdeleted6": 0,
+        "Phoneglobalid0": 15,
+        "Phoneisdeleted0": 0,
+        "Phoneglobalid1": 16,
+        "Phoneisdeleted1": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.77599,
+          55.738632
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Летний кинотеатр в Перовском парке культуры и отдыха",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Перово",
+        "Location": "улица Лазо, владение 7\n",
+        "LocationClarification": "23 минуты пешком (1900 метров) от метро «Перово»",
+        "NearestMetroStation": "Перово",
+        "WebSite": "www.perovskiy-park.ru",
+        "ExtraInfo": "",
+        "globalid": 14174246,
+        "ShowTimesglobalid0": 28,
+        "ShowTimesisdeleted0": 0,
+        "Costglobalid0": 34,
+        "Costisdeleted0": 0,
+        "Phoneglobalid0": 20,
+        "Phoneisdeleted0": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.609272,
+          55.742417
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Летний кинотеатр во дворе «Стрелки»",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Якиманка",
+        "Location": "Берсеневская набережная, дом 14",
+        "LocationClarification": "12 минут пешком (900 метров) от метро «Кропоткинская»",
+        "NearestMetroStation": "Кропоткинская",
+        "WebSite": "www.strelka.com",
+        "ExtraInfo": "",
+        "globalid": 877131310,
+        "ShowTimesglobalid0": 33,
+        "ShowTimesisdeleted0": 0,
+        "Costglobalid0": 40,
+        "Costisdeleted0": 0,
+        "Phoneglobalid0": 73,
+        "Phoneisdeleted0": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.659227,
+          55.767928
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Кинотеатр в саду имени Баумана",
+        "AdmArea": "Центральный административный округ",
+        "District": "Басманный район",
+        "Location": "улица Старая Басманная, дом 15",
+        "LocationClarification": "11 минут пешком (870 метров) от метро «Красные Ворота», либо либо 1 остановка на троллейбусе № 24 от станции метро «Ст. м. Красные Ворота» до остановки «Сад имени Баумана»",
+        "WebSite": "www.sadbaumana.ru",
+        "ExtraInfo": "",
+        "globalid": 877173614,
+        "ShowTimesglobalid0": 34,
+        "ShowTimesisdeleted0": 0,
+        "Costglobalid0": 41,
+        "Costisdeleted0": 0,
+        "Phoneglobalid0": 74,
+        "Phoneisdeleted0": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.637614,
+          55.826291
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Летний кинотеатр на ВДНХ",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Останкинский район",
+        "Location": "Проспект мира, дом 119",
+        "LocationClarification": "4 минуты пешком (340 метров) от монорельса «Выставочный центр», либо 11 минут пешком (900 метров) от метро «ВДНХ»",
+        "NearestMetroStation": "ВДНХ",
+        "WebSite": "www.znanie.vdnh.ru",
+        "ExtraInfo": "",
+        "globalid": 877210849,
+        "ShowTimesglobalid0": 35,
+        "ShowTimesisdeleted0": 0,
+        "Costglobalid0": 42,
+        "Costisdeleted0": 0,
+        "Phoneglobalid0": 75,
+        "Phoneisdeleted0": 0
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

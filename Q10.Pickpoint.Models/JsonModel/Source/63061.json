@@ -1,0 +1,841 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.642714977483,
+          55.762868110228
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московская неделя Моды. Модная столица",
+        "AdmArea": "Центральный административный округ",
+        "District": "Басманный район",
+        "Address": "Чистопрудный бульвар",
+        "Period": "20.06.2022-26.06.2022",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-22:00",
+        "WorkingHoursWeekend": "11:00-22:00",
+        "WebSite": "mos.ru",
+        "globalid": 423492916
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.647546529879,
+          55.756956664528
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московская неделя Моды. Модная столица",
+        "AdmArea": "Центральный административный округ",
+        "District": "Басманный район",
+        "Address": "Покровский бульвар",
+        "Period": "20.06.2022-26.06.2022",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-22:00",
+        "WorkingHoursWeekend": "11:00-22:00",
+        "WebSite": "mos.ru",
+        "globalid": 423494318
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.523624896785,
+          55.831821511092
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московская неделя Моды. Модная столица",
+        "AdmArea": "Северный административный округ",
+        "District": "район Коптево",
+        "Address": "Коптевский бульвар, вл.18 (парк «Бригантина»)",
+        "Period": "20.06.2022-26.06.2022",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "11:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 423496319
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.601630687495,
+          55.861223211892
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московская неделя Моды. Модная столица",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Отрадное",
+        "Address": "Сквер по ул. Хачатуряна",
+        "Period": "20.06.2022-26.06.2022",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "11:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 423499334
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.864871621077,
+          55.743612499273
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московская неделя Моды. Модная столица",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Новокосино",
+        "Address": "ул. Городецкая, вл.1",
+        "Period": "20.06.2022-26.06.2022",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "11:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 423500344
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.878588437925,
+          55.714141759475
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московская неделя Моды. Модная столица",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Косино-Ухтомский",
+        "Address": "ул. Святоозерская, вл.1",
+        "Period": "20.06.2022-26.06.2022",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "11:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 423501351
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.827515602112,
+          55.72712418254
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московская неделя Моды. Модная столица",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Вешняки",
+        "Address": "ул. Вешняковская, вл.16",
+        "Period": "20.06.2022-26.06.2022",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "11:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 423505007
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.799563408335,
+          55.821648012121
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московская неделя Моды. Модная столица",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Гольяново",
+        "Address": "Сквер у Гольяновского пруда",
+        "Period": "20.06.2022-26.06.2022",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "11:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 423513445
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.766243219266,
+          55.706562110611
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московская неделя Моды. Модная столица",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Кузьминки",
+        "Address": "Площадь Славы (Волгоградский пр-т, вл.119а)",
+        "Period": "20.06.2022-26.06.2022",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "11:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 423517450
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.744739055634,
+          55.657671627554
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московская неделя Моды. Модная столица",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Марьино",
+        "Address": "ул. Перерва, вл. 52",
+        "Period": "20.06.2022-26.06.2022",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "11:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 423520538
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.930147648076,
+          55.705336474986
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московская неделя Моды. Модная столица",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Некрасовка",
+        "Address": "Сквер у ст. метро Некрасовка",
+        "Period": "20.06.2022-26.06.2022",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "11:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 423528457
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.743279933711,
+          55.613649077861
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московская неделя Моды. Модная столица",
+        "AdmArea": "Южный административный округ",
+        "District": "район Зябликово",
+        "Address": "Ореховый б-р, вл. 24, стр. 1",
+        "Period": "20.06.2022-26.06.2022",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "11:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 423532268
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.764809131622,
+          55.632880710851
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московская неделя Моды. Модная столица",
+        "AdmArea": "Южный административный округ",
+        "District": "район Братеево",
+        "Address": "ст. м. Алма-Атинская (ул. Ключевая, вл. 22, к. 1)",
+        "Period": "20.06.2022-26.06.2022",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "11:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 423541368
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.555282116155,
+          55.669556981495
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московская неделя Моды. Модная столица",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Черёмушки",
+        "Address": "ул. Профсоюзная, вл. 41",
+        "Period": "20.06.2022-26.06.2022",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "11:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 423550473
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.501609325627,
+          55.61878705272
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московская неделя Моды. Модная столица",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Тёплый Стан",
+        "Address": "ул. Теплый стан, вл. 1Б",
+        "Period": "20.06.2022-26.06.2022",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "11:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 423554936
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.628728151212,
+          55.766502266383
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московская неделя Моды. Модная столица",
+        "AdmArea": "Центральный административный округ",
+        "District": "Мещанский район",
+        "Address": "Рождественский бульвар",
+        "Period": "20.06.2022-26.06.2022",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-22:00",
+        "WorkingHoursWeekend": "11:00-22:00",
+        "WebSite": "mos.ru",
+        "globalid": 171664769
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.530133724213,
+          55.541804543392
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московская неделя Моды. Модная столица",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Южное Бутово",
+        "Address": "ул. Адмирала Руднева, вл. 8",
+        "Period": "20.06.2022-26.06.2022",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "11:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 1006080913
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.386717796326,
+          55.899464915577
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московская неделя Моды. Модная столица",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Куркино",
+        "Address": "Пересечение ул. Соколово-Мещерская и ул. Юровская",
+        "Period": "20.06.2022-26.06.2022",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "11:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 1006080916
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.551348209381,
+          55.755603813194
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московская неделя Моды. Модная столица",
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "Address": "Парк «Красная Пресня»",
+        "Period": "20.06.2022-26.06.2022",
+        "AmountOfPlaces": null,
+        "WorkingHours": "12:00-20:00",
+        "WorkingHoursWeekend": "11:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 1006080919
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.768235206604,
+          55.694638112468
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московская неделя Моды. Модная столица",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Кузьминки",
+        "Address": "Парк «Кузьминки»",
+        "Period": "20.06.2022-26.06.2022",
+        "AmountOfPlaces": null,
+        "WorkingHours": "12:00-20:00",
+        "WorkingHoursWeekend": "11:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 1006080922
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.479146719088,
+          55.703908281475
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московская неделя Моды. Модная столица",
+        "AdmArea": "Западный административный округ",
+        "District": "район Очаково-Матвеевское",
+        "Address": "ул. Матвеевская, вл. 2",
+        "Period": "20.06.2022-26.06.2022",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "11:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 1006080914
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.534682750484,
+          55.666696919184
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московская неделя Моды. Модная столица",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "Обручевский район",
+        "Address": "Воронцовский парк",
+        "Period": "20.06.2022-26.06.2022",
+        "AmountOfPlaces": null,
+        "WorkingHours": "12:00-20:00",
+        "WorkingHoursWeekend": "11:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 1006080918
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.451026439885,
+          55.861042581264
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московская неделя Моды. Модная столица",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Северное Тушино",
+        "Address": "Парк «Северное Тушино»",
+        "Period": "20.06.2022-26.06.2022",
+        "AmountOfPlaces": null,
+        "WorkingHours": "12:00-20:00",
+        "WorkingHoursWeekend": "11:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 1006080921
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.358275652041,
+          55.84730264046
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московская неделя Моды. Модная столица",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Митино",
+        "Address": "ул. Митинская, вл. 31",
+        "Period": "20.06.2022-26.06.2022",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "11:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 1006080915
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.628595829228,
+          55.751095646336
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московская неделя Моды. Модная столица",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "г. Зеленоград, 16 мкрн, бульварная зона",
+        "Period": "20.06.2022-26.06.2022",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "11:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 1006080917
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.776224613408,
+          55.741844222895
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московская неделя Моды. Модная столица",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Перово",
+        "Address": "Перовский парк",
+        "Period": "20.06.2022-26.06.2022",
+        "AmountOfPlaces": null,
+        "WorkingHours": "12:00-20:00",
+        "WorkingHoursWeekend": "11:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 1006080920
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.61922955513,
+          55.757085457169
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московская неделя Моды. Модная столица",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "Площадь Революции",
+        "Period": "20.06.2022-26.06.2022",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-22:00",
+        "WorkingHoursWeekend": "11:00-22:00",
+        "WebSite": "mos.ru",
+        "globalid": 171576004
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.610367536545,
+          55.761874631688
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московская неделя Моды. Модная столица",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "Тверская площадь",
+        "Period": "20.06.2022-26.06.2022",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-22:00",
+        "WorkingHoursWeekend": "11:00-22:00",
+        "WebSite": "mos.ru",
+        "globalid": 171576005
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.603275775909,
+          55.762626659485
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московская неделя Моды. Модная столица",
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "Address": "Тверской бульвар",
+        "Period": "20.06.2022-26.06.2022",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-22:00",
+        "WorkingHoursWeekend": "11:00-22:00",
+        "WebSite": "mos.ru",
+        "globalid": 171576006
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.60185778141,
+          55.76151873361
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московская неделя Моды. Модная столица",
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "Address": "Тверской бульвар, вл. 19 (у пам. Есенину)",
+        "Period": "20.06.2022-26.06.2022",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-22:00",
+        "WorkingHoursWeekend": "11:00-22:00",
+        "WebSite": "mos.ru",
+        "globalid": 171576007
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.598651647677,
+          55.757922599027
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московская неделя Моды. Модная столица",
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "Address": "Тверской бульвар, вл. 2 (у пам. Тимирязеву)",
+        "Period": "20.06.2022-26.06.2022",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-22:00",
+        "WorkingHoursWeekend": "11:00-22:00",
+        "WebSite": "mos.ru",
+        "globalid": 171576008
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.600182294955,
+          55.745737998891
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московская неделя Моды. Модная столица",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Хамовники",
+        "Address": "Гоголевский бульвар",
+        "Period": "20.06.2022-26.06.2022",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-22:00",
+        "WorkingHoursWeekend": "11:00-22:00",
+        "WebSite": "mos.ru",
+        "globalid": 171576009
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.610703706632,
+          55.767298969028
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московская неделя Моды. Модная столица",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "Страстной бульвар",
+        "Period": "20.06.2022-26.06.2022",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-22:00",
+        "WorkingHoursWeekend": "11:00-22:00",
+        "WebSite": "mos.ru",
+        "globalid": 171576011
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.606283426394,
+          55.765621046201
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московская неделя Моды. Модная столица",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "Пушкинская площадь",
+        "Period": "20.06.2022-26.06.2022",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-22:00",
+        "WorkingHoursWeekend": "11:00-22:00",
+        "WebSite": "mos.ru",
+        "globalid": 171576012
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.619193792234,
+          55.767528319784
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московская неделя Моды. Модная столица",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "Петровский бульвар",
+        "Period": "20.06.2022-26.06.2022",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-22:00",
+        "WorkingHoursWeekend": "11:00-22:00",
+        "WebSite": "mos.ru",
+        "globalid": 171576013
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.575180530548,
+          55.566907857046
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московская неделя Моды. Модная столица",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Северное Бутово",
+        "Address": "Бульвар Дмитрия Донского, вл. 11",
+        "Period": "20.06.2022-26.06.2022",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "11:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 620928227
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.621690034757,
+          55.770030971979
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московская неделя Моды. Модная столица",
+        "AdmArea": "Центральный административный округ",
+        "District": "Мещанский район",
+        "Address": "Цветной бульвар",
+        "Period": "20.06.2022-26.06.2022",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-22:00",
+        "WorkingHoursWeekend": "11:00-22:00",
+        "WebSite": "mos.ru",
+        "globalid": 171635736
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.633888721684,
+          55.766473597043
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московская неделя Моды. Модная столица",
+        "AdmArea": "Центральный административный округ",
+        "District": "Красносельский район",
+        "Address": "Сретенский бульвар",
+        "Period": "20.06.2022-26.06.2022",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-22:00",
+        "WorkingHoursWeekend": "11:00-22:00",
+        "WebSite": "mos.ru",
+        "globalid": 272437690
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

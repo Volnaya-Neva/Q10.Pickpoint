@@ -1,0 +1,551 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.663629,
+          55.709495
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Nameen": "Кенгуру",
+        "IsNetObjecten": "да",
+        "OperatingCompanyen": "Кенгуру",
+        "TypeServiceen": "",
+        "AdmAreaen": "Yuzhny'j administrativny'j okrug",
+        "Districten": "Danilovskij rajon",
+        "Addressen": "город Москва, Автозаводская улица, дом 3",
+        "ClarificationOfWorkingHoursen": "",
+        "globalid": 637623931
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5855129139902,
+          55.7704992918902
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Nameen": "Магазин «1000 мелочей»",
+        "IsNetObjecten": "нет",
+        "OperatingCompanyen": "",
+        "TypeServiceen": "",
+        "AdmAreaen": "Czentral`ny'j administrativny'j okrug",
+        "Districten": "Presnenskij rajon",
+        "Addressen": "город Москва, Васильевская улица, дом 3",
+        "ClarificationOfWorkingHoursen": "",
+        "globalid": 637631382
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7813037078383,
+          55.7576959527988
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Nameen": "Пятерочка",
+        "IsNetObjecten": "да",
+        "OperatingCompanyen": "Пятерочка",
+        "TypeServiceen": "",
+        "AdmAreaen": "Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Perovo",
+        "Addressen": "город Москва, 2-я Владимирская улица, дом 21/9",
+        "ClarificationOfWorkingHoursen": "",
+        "globalid": 637631862
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7855507230235,
+          55.7632561068741
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Nameen": "Магнит",
+        "IsNetObjecten": "да",
+        "OperatingCompanyen": "Магнит",
+        "TypeServiceen": "",
+        "AdmAreaen": "Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Perovo",
+        "Addressen": "город Москва, 3-я Владимирская улица, дом 3, корпус 1",
+        "ClarificationOfWorkingHoursen": "",
+        "globalid": 637631997
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.787656,
+          55.759716999
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Nameen": "Дикси",
+        "IsNetObjecten": "да",
+        "OperatingCompanyen": "Дикси",
+        "TypeServiceen": "",
+        "AdmAreaen": "Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Perovo",
+        "Addressen": "город Москва, 3-я Владимирская улица, дом 11",
+        "ClarificationOfWorkingHoursen": "",
+        "globalid": 637632024
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6376879233596,
+          55.7276285157725
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Nameen": "Смешные цены",
+        "IsNetObjecten": "да",
+        "OperatingCompanyen": "Смешные цены",
+        "TypeServiceen": "",
+        "AdmAreaen": "Czentral`ny'j administrativny'j okrug",
+        "Districten": "rajon Zamoskvorech`e",
+        "Addressen": "город Москва, Дубининская улица, дом 11, строение 1",
+        "ClarificationOfWorkingHoursen": "",
+        "globalid": 637634576
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5390481269743,
+          55.6899742567187
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Nameen": "Итал Базар",
+        "IsNetObjecten": "нет",
+        "OperatingCompanyen": "",
+        "TypeServiceen": "",
+        "AdmAreaen": "Yugo-Zapadny'j administrativny'j okrug",
+        "Districten": "Gagarinskij rajon",
+        "Addressen": "город Москва, Ломоносовский проспект, дом 19",
+        "ClarificationOfWorkingHoursen": "",
+        "globalid": 637645907
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4719207897141,
+          55.7850368454311
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Nameen": "Дисконт центр №1",
+        "IsNetObjecten": "нет",
+        "OperatingCompanyen": "",
+        "TypeServiceen": "",
+        "AdmAreaen": "Severo-Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Xoroshyovo-Mnyovniki",
+        "Addressen": "улица Маршала Тухачевского, дом 34",
+        "ClarificationOfWorkingHoursen": "",
+        "globalid": 637703407
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5660340514729,
+          55.8607162505174
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Nameen": "Магазин",
+        "IsNetObjecten": "нет",
+        "OperatingCompanyen": "",
+        "TypeServiceen": "",
+        "AdmAreaen": "Severny'j administrativny'j okrug",
+        "Districten": "rajon Vostochnoe Degunino",
+        "Addressen": "город Москва, Дубнинская улица, дом 15, корпус 2",
+        "ClarificationOfWorkingHoursen": "",
+        "globalid": 637739571
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.635562757554,
+          55.732286436144
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Nameen": "Магазин распродаж «Смешные цены»",
+        "IsNetObjecten": "да",
+        "OperatingCompanyen": "Смешные цены",
+        "TypeServiceen": "",
+        "AdmAreaen": "Czentral`ny'j administrativny'j okrug",
+        "Districten": "rajon Zamoskvorech`e",
+        "Addressen": "город Москва, Новокузнецкая улица, дом 39",
+        "ClarificationOfWorkingHoursen": "",
+        "globalid": 638049277
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6565551263678,
+          55.7085378409231
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Nameen": "Магазин «Odji»",
+        "IsNetObjecten": "да",
+        "OperatingCompanyen": "Odji",
+        "TypeServiceen": "",
+        "AdmAreaen": "Yuzhny'j administrativny'j okrug",
+        "Districten": "Danilovskij rajon",
+        "Addressen": "улица Мастеркова, дом 4",
+        "ClarificationOfWorkingHoursen": "",
+        "globalid": 638302793
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6565551263678,
+          55.7085378409231
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Nameen": "Дисконт-центр Puma",
+        "IsNetObjecten": "да",
+        "OperatingCompanyen": "Puma",
+        "TypeServiceen": "",
+        "AdmAreaen": "Yuzhny'j administrativny'j okrug",
+        "Districten": "Danilovskij rajon",
+        "Addressen": "город Москва, улица Мастеркова, дом 4",
+        "ClarificationOfWorkingHoursen": "",
+        "globalid": 638302794
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6565551263678,
+          55.7085378409231
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Nameen": "Дисконт-Adidas (Мужской)",
+        "IsNetObjecten": "да",
+        "OperatingCompanyen": "Adidas",
+        "TypeServiceen": "",
+        "AdmAreaen": "Yuzhny'j administrativny'j okrug",
+        "Districten": "Danilovskij rajon",
+        "Addressen": "город Москва, улица Мастеркова, дом 4",
+        "ClarificationOfWorkingHoursen": "",
+        "globalid": 638302845
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.697345121515,
+          55.678257986809
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Nameen": "Заодно Магазин«фиксированных цен»",
+        "IsNetObjecten": "да",
+        "OperatingCompanyen": "Заодно",
+        "TypeServiceen": "",
+        "AdmAreaen": "Yuzhny'j administrativny'j okrug",
+        "Districten": "rajon Nagatinskij Zaton",
+        "Addressen": "город Москва, Коломенская улица, дом 17",
+        "ClarificationOfWorkingHoursen": "",
+        "globalid": 638304542
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5925828710196,
+          55.7931088605881
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Nameen": "Смешные цены",
+        "IsNetObjecten": "да",
+        "OperatingCompanyen": "Смешные цены",
+        "TypeServiceen": "",
+        "AdmAreaen": "Severo-Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Mar`ina Roshha",
+        "Addressen": "город Москва, улица Сущёвский Вал, дом 5, строение 22",
+        "ClarificationOfWorkingHoursen": "",
+        "globalid": 638371318
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.884471,
+          55.7149187455069
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Nameen": "Обои Град",
+        "IsNetObjecten": "нет",
+        "OperatingCompanyen": "",
+        "TypeServiceen": "",
+        "AdmAreaen": "Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Kosino-Uxtomskij",
+        "Addressen": "город Москва, Святоозерская улица, дом 1",
+        "ClarificationOfWorkingHoursen": "",
+        "globalid": 638382449
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.884471,
+          55.7149187455069
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Nameen": "Дисконт №1",
+        "IsNetObjecten": "нет",
+        "OperatingCompanyen": "",
+        "TypeServiceen": "",
+        "AdmAreaen": "Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Kosino-Uxtomskij",
+        "Addressen": "город Москва, Святоозерская улица, дом 1",
+        "ClarificationOfWorkingHoursen": "",
+        "globalid": 638382454
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.854548,
+          55.700735
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Nameen": "Петрова Ольга Владимировна",
+        "IsNetObjecten": "нет",
+        "OperatingCompanyen": "",
+        "TypeServiceen": "",
+        "AdmAreaen": "Yugo-Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Vy'xino-Zhulebino",
+        "Addressen": "город Москва, Лермонтовский проспект, дом 19, корпус 1",
+        "ClarificationOfWorkingHoursen": "",
+        "globalid": 638383976
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.792847,
+          55.637355
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Nameen": "Павильон Мануилов Н.В.",
+        "IsNetObjecten": "нет",
+        "OperatingCompanyen": "",
+        "TypeServiceen": "",
+        "AdmAreaen": "Yugo-Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Kapotnya",
+        "Addressen": "город Москва, 1-й Капотнинский проезд, дом 12, строение 1",
+        "ClarificationOfWorkingHoursen": "",
+        "globalid": 638385178
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.792847,
+          55.637355
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Nameen": "Павильон Доронин С.Н.",
+        "IsNetObjecten": "нет",
+        "OperatingCompanyen": "",
+        "TypeServiceen": "",
+        "AdmAreaen": "Yugo-Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Kapotnya",
+        "Addressen": "город Москва, 1-й Капотнинский проезд, дом 12, строение 1",
+        "ClarificationOfWorkingHoursen": "",
+        "globalid": 638385179
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.792847,
+          55.637355
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Nameen": "Магазин Борисова Л.Г.",
+        "IsNetObjecten": "нет",
+        "OperatingCompanyen": "",
+        "TypeServiceen": "",
+        "AdmAreaen": "Yugo-Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Kapotnya",
+        "Addressen": "город Москва, 1-й Капотнинский проезд, дом 12, строение 1",
+        "ClarificationOfWorkingHoursen": "",
+        "globalid": 638385181
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.706346,
+          55.747529
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Nameen": "Сумки",
+        "IsNetObjecten": "нет",
+        "OperatingCompanyen": "",
+        "TypeServiceen": "",
+        "AdmAreaen": "Yugo-Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Lefortovo",
+        "Addressen": "город Москва, шоссе Энтузиастов, дом 12, корпус 2",
+        "ClarificationOfWorkingHoursen": "",
+        "globalid": 638387099
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.545885,
+          55.774313
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Nameen": "Дисконт Оптика",
+        "IsNetObjecten": "нет",
+        "OperatingCompanyen": "",
+        "TypeServiceen": "",
+        "AdmAreaen": "Severny'j administrativny'j okrug",
+        "Districten": "Xoroshyovskij rajon",
+        "Addressen": "город Москва, Хорошёвское шоссе, дом 16, строение 3",
+        "ClarificationOfWorkingHoursen": "",
+        "globalid": 638451677
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.632306,
+          55.7213697473735
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Nameen": "Магазин «Фамилия»",
+        "IsNetObjecten": "да",
+        "OperatingCompanyen": "Фамилия",
+        "TypeServiceen": "",
+        "AdmAreaen": "Yuzhny'j administrativny'j okrug",
+        "Districten": "Danilovskij rajon",
+        "Addressen": "город Москва, Дубининская улица, дом 71",
+        "ClarificationOfWorkingHoursen": "",
+        "globalid": 638453234
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.615942007276,
+          55.6274948905518
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Nameen": "Фамилия",
+        "IsNetObjecten": "да",
+        "OperatingCompanyen": "Фамилия",
+        "TypeServiceen": "",
+        "AdmAreaen": "Yuzhny'j administrativny'j okrug",
+        "Districten": "rajon Chertanovo Severnoe",
+        "Addressen": "город Москва, Варшавское шоссе, дом 124, корпус 1",
+        "ClarificationOfWorkingHoursen": "",
+        "globalid": 638453482
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.16598,
+          55.599112
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Nameen": "Магнит",
+        "IsNetObjecten": "да",
+        "OperatingCompanyen": "Магнит",
+        "TypeServiceen": "",
+        "AdmAreaen": "Novomoskovskij administrativny'j okrug",
+        "Districten": "poselenie Kokoshkino",
+        "Addressen": "город Москва, поселение Кокошкино, дачный посёлок Кокошкино, Дачная улица, дом 10",
+        "ClarificationOfWorkingHoursen": "",
+        "globalid": 638481021
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

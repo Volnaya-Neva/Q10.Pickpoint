@@ -1,0 +1,1753 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.6768478258254,
+          55.6699301725333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "прокат спортивного инвентаря на Набережной",
+        "AdmArea": "Южный административный округ",
+        "District": "район Нагатинский Затон",
+        "Address": "проспект Андропова, дом 39",
+        "Email": "mgomz@culture.mos.ru",
+        "WebSite": "www.mgomz.ru",
+        "HelpPhone": "(499) 612-11-55",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "да",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "да",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.05-30.09",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407123539
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6593137667522,
+          55.7673215593617
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "прокат спортивного инвентаря (отдельно стоящий)",
+        "AdmArea": "Центральный административный округ",
+        "District": "Басманный район",
+        "Address": "Старая Басманная улица, дом 15А, строение 4",
+        "Email": "sadbaumana@culture.mos.ru",
+        "WebSite": "sadbaumana.ru",
+        "HelpPhone": "(499) 261-58-83",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "да",
+        "HasTechService": "да",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.05-30.11",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "асфальтовое, бетонное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": "частично приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407125119
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4515782402458,
+          55.8601970740559
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "прокат спортивного инвентаря (отдельностоящий) №1",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Северное Тушино",
+        "Address": "улица Свободы, дом 52",
+        "Email": "info@mosparks.ru",
+        "WebSite": "mosparks.ru/",
+        "HelpPhone": "(495) 640-73-55",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "да",
+        "HasTechService": "да",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.05-30.09",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407126010
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4123445788542,
+          55.7901815613567
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "прокат спортивного инвентаря №2",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Хорошёво-Мнёвники",
+        "Address": "Таманская улица, дом 2А, строение 1",
+        "Email": "dir-serbor@mos.eco.ru",
+        "WebSite": "www.mospriroda.ru",
+        "HelpPhone": "(499) 199-01-10",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "да",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "да",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-30.11",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "грунтовое покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407128337
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4807586351213,
+          55.743522447511
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "прокат спортивного инвентаря №2",
+        "AdmArea": "Западный административный округ",
+        "District": "район Филёвский Парк",
+        "Address": "Большая Филёвская улица, дом 22, строение 2",
+        "Email": "info@parkfili.com",
+        "WebSite": "parkfili.com",
+        "HelpPhone": "(499) 145-45-05",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "да",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.04-30.11",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "деревянное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407135050
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4902610938074,
+          55.7467558404456
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "прокат спортивного инвентаря №3",
+        "AdmArea": "Западный административный округ",
+        "District": "район Филёвский Парк",
+        "Address": "Большая Филёвская улица, дом 22, строение 2",
+        "Email": "info@parkfili.com",
+        "WebSite": "parkfili.com",
+        "HelpPhone": "(499) 145-45-05",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "да",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.04-30.11",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "деревянное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407135127
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6754989036116,
+          55.5917579895272
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "прокат спортивного инвентаря",
+        "AdmArea": "Южный административный округ",
+        "District": "район Бирюлёво Восточное",
+        "Address": "Липецкая улица, дом 26",
+        "Email": "oopt.uao@gmail.com",
+        "WebSite": "www.ooptuao.ru",
+        "HelpPhone": "(495) 326-46-74",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "да",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-30.11",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407136936
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5290255683747,
+          55.6676817791342
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "прокат спортивного инвентаря (отдельностоящий) №3, У большого пруда",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "Обручевский район",
+        "Address": "Воронцовский парк, дом 3",
+        "Email": "info@usadba-vorontsovo.ru",
+        "WebSite": "www.usadba-vorontsovo.ru",
+        "HelpPhone": "(495) 580-26-78",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "да",
+        "HasTechService": "нет",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "деревянное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407137850
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7628670478454,
+          55.7916188749803
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "прокат спортивного инвентаря",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Измайлово",
+        "Address": "городок имени Баумана, дом 2, строение 14",
+        "Email": "mgomz@culture.mos.ru",
+        "WebSite": "www.mgomz.ru",
+        "HelpPhone": "(499) 165-12-36",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "да",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-30.09",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "асфальтовое, бетонное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407137961
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7519849967505,
+          55.7823516829014
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "прокат спортивного инвентаря у Кругового обзора-М",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Измайлово",
+        "Address": "аллея Большого Круга, дом 7",
+        "Email": "izmpark@mail.ru",
+        "WebSite": "izmailovsky-park.ru",
+        "HelpPhone": "(499) 166-61-19",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "да",
+        "HasTechService": "да",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "асфальтовое, бетонное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": "частично приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407138002
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7492720518977,
+          55.7741492782533
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "прокат спортивного инвентаря у памятника В.И. Ленину",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Измайлово",
+        "Address": "аллея Большого Круга, дом 7",
+        "Email": "izmpark@mail.ru",
+        "WebSite": "izmailovsky-park.ru",
+        "HelpPhone": "(499) 166-61-19",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "да",
+        "HasTechService": "да",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "асфальтовое, бетонное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": "частично приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407138069
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7495670948894,
+          55.7735211026823
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "прокат спортивного инвентаря на Центральной площади у пруда",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Измайлово",
+        "Address": "аллея Большого Круга, дом 7",
+        "Email": "izmpark@mail.ru",
+        "WebSite": "izmailovsky-park.ru",
+        "HelpPhone": "(499) 166-61-19",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "да",
+        "HasTechService": "да",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "асфальтовое, бетонное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": "частично приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407138134
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7426970317639,
+          55.6878537346065
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "прокат спортивного инвентаря №2",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Люблино",
+        "Address": "Летняя улица, дом 1, строение 1",
+        "Email": "mgomz@culture.mos.ru",
+        "WebSite": "www.mgomz.ru",
+        "HelpPhone": "(495) 350-15-53",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "да",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "асфальтовое, бетонное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407138193
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4280773750039,
+          55.7822240358801
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "прокат спортивного инвентаря №3",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Хорошёво-Мнёвники",
+        "Address": "Таманская улица, дом 2А, строение 1",
+        "Email": "dir-serbor@mos.eco.ru",
+        "WebSite": "www.mospriroda.ru",
+        "HelpPhone": "(499) 199-01-10",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "да",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "да",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.06-31.08",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "деревянное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407152208
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5828941022761,
+          55.7115013834127
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "прокат спортивного инвентаря (отдельностоящий), Нескучный сад",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Якиманка",
+        "Address": "улица Крымский Вал, дом 9, строение 1",
+        "Email": "official@park-gorkogo.com",
+        "WebSite": "www.park-gorkogo.com",
+        "HelpPhone": "(495) 995-00-20",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "да",
+        "HasTechService": "да",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "да",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.05-30.09",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "деревянное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": "частично приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 625842898
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5960378378982,
+          55.7260135821523
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "прокат спортивного инвентаря (отдельностоящий), Пушкинская набережная",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Якиманка",
+        "Address": "улица Крымский Вал, дом 9, строение 1",
+        "Email": "official@park-gorkogo.com",
+        "WebSite": "www.park-gorkogo.com",
+        "HelpPhone": "(495) 995-00-20",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "да",
+        "HasTechService": "да",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "да",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.05-30.09",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "деревянное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": "частично приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 625842976
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5924845649308,
+          55.7224102098896
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "прокат спортивного инвентаря (отдельностоящий) №5, около театра Стаса Намина",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Якиманка",
+        "Address": "улица Крымский Вал, дом 9, строение 1",
+        "Email": "official@park-gorkogo.com",
+        "WebSite": "www.park-gorkogo.com",
+        "HelpPhone": "(495) 995-00-20",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "да",
+        "HasTechService": "да",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "да",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.05-30.09",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "асфальтовое, бетонное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": "частично приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 625843081
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6001077960974,
+          55.7301936384121
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "прокат спортивного инвентаря (отдельностоящий) №1, песочница",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Якиманка",
+        "Address": "улица Крымский Вал, дом 9, строение 1",
+        "Email": "official@park-gorkogo.com",
+        "WebSite": "www.park-gorkogo.com",
+        "HelpPhone": "(495) 995-00-20",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "да",
+        "HasTechService": "да",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "да",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.05-30.11",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "деревянное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": "частично приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 625843082
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5937556117755,
+          55.724415538829
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "прокат спортивного инвентаря (отдельностоящий) №4, титовский проезд",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Якиманка",
+        "Address": "улица Крымский Вал, дом 9, строение 1",
+        "Email": "official@park-gorkogo.com",
+        "WebSite": "www.park-gorkogo.com",
+        "HelpPhone": "(495) 995-00-20",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "да",
+        "HasTechService": "да",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "да",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.05-30.09",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "деревянное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": "частично приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 625843164
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5977133584347,
+          55.7295905723373
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "прокат спортивного инвентаря (отдельностоящий) №2, мосигра",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Якиманка",
+        "Address": "улица Крымский Вал, дом 9, строение 1",
+        "Email": "official@park-gorkogo.com",
+        "WebSite": "www.park-gorkogo.com",
+        "HelpPhone": "(495) 995-00-20",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "да",
+        "HasTechService": "да",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "да",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.05-30.09",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "деревянное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": "частично приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 625843184
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6523272021246,
+          55.6642025292807
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "прокат спортивного инвентаря (отдельностоящий)",
+        "AdmArea": "Южный административный округ",
+        "District": "район Нагатино-Садовники",
+        "Address": "Коломенский проезд, дом 14",
+        "Email": "yuao@mosgorsport.ru",
+        "WebSite": "yuao.mossport.ru/",
+        "HelpPhone": "(495) 198-08-03",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "да",
+        "HasEatery": "нет",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-30.11",
+        "Lighting": "освещение лампами накаливания",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 688505589
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4941239394522,
+          55.7307610687319
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "прокат спортивного инвентаря №2",
+        "AdmArea": "Западный административный округ",
+        "District": "район Дорогомилово",
+        "Address": "площадь Победы, дом 3, строение 2",
+        "Email": "info@poklonnaya-gora.ru",
+        "WebSite": "wikiway.com/russia/moskva/poklonnaya-gora/",
+        "HelpPhone": "(499) 148-83-00",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "да",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "деревянное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": "частично приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 863616533
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6665151797797,
+          55.7383722953257
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "прокат спортивного инвентаря",
+        "AdmArea": "Центральный административный округ",
+        "District": "Таганский район",
+        "Address": "Таганская улица, дом 40-42, строение 6",
+        "Email": "fok@parktaganskiy.com",
+        "WebSite": "parktaganskiy.ru",
+        "HelpPhone": "(495) 632-64-20",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "да",
+        "HasTechService": "нет",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.05-30.10",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "асфальтовое, бетонное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 863620837
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6058172752878,
+          55.7325065609947
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "прокат спортивного инвентаря, «Велопрокат Электра МСК»",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Якиманка",
+        "Address": "улица Крымский Вал, дом 10",
+        "Email": "official@park-gorkogo.com",
+        "WebSite": "www.park-gorkogo.com",
+        "HelpPhone": "(499) 995-00-20",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "да",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.04-30.09",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "деревянное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": "частично приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 863622782
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6106779245808,
+          55.7388843614845
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "прокат спортивного инвентаря (отдельностоящий)",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Якиманка",
+        "Address": "улица Крымский Вал, дом 10",
+        "Email": "official@park-gorkogo.com",
+        "WebSite": "www.park-gorkogo.com",
+        "HelpPhone": "(499) 995-00-20",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "да",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.04-30.09",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": "частично приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 863622814
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5318855926384,
+          55.8814113842875
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "Прокат спортивного инвентаря и оборудования",
+        "AdmArea": "Северный административный округ",
+        "District": "Дмитровский район",
+        "Address": "Ангарская улица, дом 53, корпус 1",
+        "Email": "Liapark@ya.ru",
+        "WebSite": "liapark.ru/park-angarskie-prudy",
+        "HelpPhone": "(499) 908-35-00",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "да",
+        "HasTechService": "да",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "да",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.05-31.10",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "асфальтовое, бетонное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 930087482
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6347417279646,
+          55.8271764083515
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "прокат спортивного инвентаря (отдельностоящий) №4, в карманах Центральной аллеи",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Останкинский район",
+        "Address": "проспект Мира, дом 119, строение 6",
+        "Email": "info@vvcentre.ru",
+        "WebSite": "vdnh.ru",
+        "HelpPhone": "(495) 748-35-00",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "да",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "да",
+        "HasFirstAidPost": "да",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.04-31.09",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "асфальтовое, бетонное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": "частично приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1047339635
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6360201608106,
+          55.8279674650947
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "прокат спортивного инвентаря (отдельностоящий) №3, в карманах Центральной аллеи",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Останкинский район",
+        "Address": "проспект Мира, дом 119, строение 6",
+        "Email": "info@vvcentre.ru",
+        "WebSite": "vdnh.ru",
+        "HelpPhone": "(495) 748-35-00",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "да",
+        "HasTechService": "да",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "да",
+        "HasFirstAidPost": "да",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.04-31.09",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "асфальтовое, бетонное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": "частично приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1047339805
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6356000349741,
+          55.8267363766186
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "прокат спортивного инвентаря (отдельностоящий) №2, в карманах Центральной аллеи",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Останкинский район",
+        "Address": "проспект Мира, дом 119, строение 6",
+        "Email": "info@vvcentre.ru",
+        "WebSite": "vdnh.ru",
+        "HelpPhone": "(495) 748-35-00",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "да",
+        "HasTechService": "да",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "да",
+        "HasFirstAidPost": "да",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.04-31.09",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "асфальтовое, бетонное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": "частично приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1047340077
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.637021605752,
+          55.8274146816987
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "прокат спортивного инвентаря (отдельностоящий) №1, в карманах Центральной аллеи",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Останкинский район",
+        "Address": "проспект Мира, дом 119, строение 6",
+        "Email": "info@vvcentre.ru",
+        "WebSite": "vdnh.ru",
+        "HelpPhone": "(495) 748-35-00",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "да",
+        "HasTechService": "да",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "да",
+        "HasFirstAidPost": "да",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.04-31.09",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "асфальтовое, бетонное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": "частично приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1047340155
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4523508536448,
+          55.861187927599
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "прокат спортивного инвентаря (отдельностоящий) №2",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Северное Тушино",
+        "Address": "улица Свободы, дом 52",
+        "Email": "info@mosparks.ru",
+        "WebSite": "mosparks.ru/",
+        "HelpPhone": "(495) 640-73-55",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "да",
+        "HasTechService": "да",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "21.05-30.09",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1047342062
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6511964125864,
+          55.660613721746
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "прокат спортивного инвентаря (отдельностоящий) №3",
+        "AdmArea": "Южный административный округ",
+        "District": "район Нагатино-Садовники",
+        "Address": "проспект Андропова, дом 58А",
+        "Email": "parkkuzminki@culture.mos.ru",
+        "WebSite": "www.park-kuzminki.ru",
+        "HelpPhone": "(499) 175-33-69",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "да",
+        "HasTechService": "нет",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1047346705
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.658875455507,
+          55.6667518061618
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "прокат спортивного инвентаря (отдельностоящий) №2",
+        "AdmArea": "Южный административный округ",
+        "District": "район Нагатино-Садовники",
+        "Address": "проспект Андропова, дом 58А",
+        "Email": "parkkuzminki@culture.mos.ru",
+        "WebSite": "www.park-kuzminki.ru",
+        "HelpPhone": "(499) 175-33-69",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "да",
+        "HasTechService": "нет",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1047346840
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6896862272421,
+          55.7644271999236
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "прокат спортивного инвентаря",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Лефортово",
+        "Address": "Красноказарменная улица, дом 3",
+        "Email": "mgomz@culture.mos.ru",
+        "WebSite": "avtodor-uvao.ru",
+        "HelpPhone": "(499) 261-70-20",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "да",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.05-30.09",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "асфальтовое, бетонное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1047348797
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6346833966255,
+          55.8655258610192
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "прокат спортивного инвентаря (отдельностоящий)",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Южное Медведково",
+        "Address": "Заповедная улица, дом 5",
+        "Email": "s2@mossport.ru",
+        "WebSite": "skmedvedkovo.ru/",
+        "HelpPhone": "(499) 186-17-01",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "да",
+        "HasTechService": "да",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "освещение лампами накаливания",
+        "SurfaceTypeSummer": "деревянное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1266752272
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.3912486471874,
+          55.9269234122907
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "прокат спортивного инвентаря (отдельностоящий)",
+        "AdmArea": "Северный административный округ",
+        "District": "Молжаниновский район",
+        "Address": "4-я улица Новосёлки, дом 2",
+        "Email": "mso@mos.sport",
+        "WebSite": "mos.sport/",
+        "HelpPhone": "(495) 681-01-48",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "да",
+        "HasTechService": "нет",
+        "HasDressingRoom": "да",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "31.03-30.11",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "частично приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1266752979
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.1752868963805,
+          55.3108584806149
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "прокат спортивного инвентаря (отдельностоящий)",
+        "AdmArea": "Троицкий административный округ",
+        "District": "поселение Вороновское",
+        "Address": "поселение Вороновское, посёлок ЛМС, микрорайон \"Центральный\", дом 9",
+        "Email": "sbvoronovo@mossport.ru",
+        "WebSite": "tinao.mossport.ru/",
+        "HelpPhone": "(926) 152-66-21",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "да",
+        "HasTechService": "да",
+        "HasDressingRoom": "да",
+        "HasEatery": "нет",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-30.11",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1266753003
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.2241498492238,
+          55.9870873124283
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "прокат спортивного инвентаря (отдельностоящий)",
+        "AdmArea": "Зеленоградский административный округ",
+        "District": "район Савёлки",
+        "Address": "город Зеленоград, Озёрная аллея, дом 2",
+        "Email": "mso@mos.sport",
+        "WebSite": "mos.sport/",
+        "HelpPhone": "(495) 681-01-48",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "да",
+        "HasTechService": "да",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-30.11",
+        "Lighting": "освещение лампами накаливания",
+        "SurfaceTypeSummer": "рулонное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1266753005
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.8760411995118,
+          55.7386856489035
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "прокат спортивного инвентаря (отдельно стоящий)",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Новокосино",
+        "Address": "Салтыковская улица, дом 33, корпус 2",
+        "Email": "mso@mos.sport",
+        "WebSite": "mos.sport/",
+        "HelpPhone": "(495) 681-01-48",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "да",
+        "HasTechService": "да",
+        "HasDressingRoom": "да",
+        "HasEatery": "нет",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-30.11",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "деревянное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1266753028
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.8980977387142,
+          55.7234071909951
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "прокат спортивного инвентаря (отдельно стоящий)",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Косино-Ухтомский",
+        "Address": "Лухмановская улица, дом 19А",
+        "Email": "mso@mos.sport",
+        "WebSite": "mos.sport/",
+        "HelpPhone": "(495) 681-01-48",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "да",
+        "HasTechService": "да",
+        "HasDressingRoom": "да",
+        "HasEatery": "нет",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-30.11",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "деревянное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1266753032
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5331215522765,
+          55.8878208752849
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "прокат спортивного инвентаря (отдельностоящий)",
+        "AdmArea": "Северный административный округ",
+        "District": "Дмитровский район",
+        "Address": "Лобненская улица, дом 13А",
+        "Email": "s70@mossport.ru",
+        "WebSite": "s70.mossport.ru",
+        "HelpPhone": "(495) 483-35-04",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "да",
+        "HasTechService": "да",
+        "HasDressingRoom": "да",
+        "HasEatery": "нет",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "освещение лампами накаливания",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1266753036
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.8084197143737,
+          55.7606372870031
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "прокат спортивного инвентаря",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Ивановское",
+        "Address": "улица Металлургов, дом 60, корпус 1",
+        "Email": "c.vao@mossport.ru",
+        "WebSite": "vao.mossport.ru/",
+        "HelpPhone": "(495) 306-36-45",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "да",
+        "HasTechService": "да",
+        "HasDressingRoom": "да",
+        "HasEatery": "нет",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-30.11",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "деревянное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1266753038
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4703739545822,
+          55.8786878975169
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "прокат спортивного инвентаря (отдельностоящий)",
+        "AdmArea": "Северный административный округ",
+        "District": "район Ховрино",
+        "Address": "Левобережная улица, дом 12, корпус 1",
+        "Email": "s1@mossport.ru",
+        "WebSite": "umkabm.ru/",
+        "HelpPhone": "(499) 458-10-84",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "да",
+        "HasTechService": "да",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-30.11",
+        "Lighting": "освещение лампами накаливания",
+        "SurfaceTypeSummer": "деревянное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1266753041
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7795772178977,
+          55.6528657779457
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "прокат спортивного инвентаря (отдельно стоящий)",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Марьино",
+        "Address": "улица Марьинский Парк, дом 4, строение 3",
+        "Email": "info@biathlon-maryino.ru",
+        "WebSite": "biathlon-maryino.ru/",
+        "HelpPhone": "(495) 363-70-22",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "да",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 2305332786
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.8088834569771,
+          55.8281069052414
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "прокат спортивного инвентаря (отдельно стоящий)",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Гольяново",
+        "Address": "Курганская улица, дом 2",
+        "Email": "mso@mos.sport",
+        "WebSite": "mos.sport/",
+        "HelpPhone": "(495) 681-01-48",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "да",
+        "HasTechService": "нет",
+        "HasDressingRoom": "да",
+        "HasEatery": "нет",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-30.11",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "деревянное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 2366623124
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4288586410843,
+          55.8030344850136
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "прокат спортивного инвентаря (отдельно стоящий)",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Строгино",
+        "Address": "Строгинское шоссе, дом 3Б/Н",
+        "Email": "mso@mos.sport",
+        "WebSite": "mos.sport/",
+        "HelpPhone": "(495) 681-01-48",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "да",
+        "HasTechService": "нет",
+        "HasDressingRoom": "да",
+        "HasEatery": "нет",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "освещение лампами накаливания",
+        "SurfaceTypeSummer": "деревянное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 2366665429
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

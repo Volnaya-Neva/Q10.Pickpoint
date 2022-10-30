@@ -1,0 +1,4625 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.65486112,
+          55.77574627
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 1,
+        "NameOfStation": "Комсомольская",
+        "Line": "Кольцевая линия",
+        "LongitudeWGS84": "37.65486112",
+        "LatitudeWGS84": "55.77574627",
+        "AdmArea": "Центральный административный округ",
+        "District": "Красносельский район",
+        "Year": 2022,
+        "Month": "Июль",
+        "globalid": 2379935799
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.81860885,
+          55.71545536
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 2,
+        "NameOfStation": "Выхино",
+        "Line": "Таганско-Краснопресненская линия",
+        "LongitudeWGS84": "37.81860885",
+        "LatitudeWGS84": "55.71545536",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Выхино-Жулебино",
+        "Year": 2022,
+        "Month": "Июль",
+        "globalid": 2379935642
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.71878552,
+          55.61087011
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 3,
+        "NameOfStation": "Домодедовская",
+        "Line": "Замоскворецкая линия",
+        "LongitudeWGS84": "37.71878552",
+        "LatitudeWGS84": "55.61087011",
+        "AdmArea": "Южный административный округ",
+        "District": "район Орехово-Борисово Южное",
+        "Year": 2022,
+        "Month": "Июль",
+        "globalid": 2379935643
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.50697019,
+          55.61863853
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 4,
+        "NameOfStation": "Тёплый стан",
+        "Line": "Калужско-Рижская линия",
+        "LongitudeWGS84": "37.50697019",
+        "LatitudeWGS84": "55.61863853",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Ясенево",
+        "Year": 2022,
+        "Month": "Июль",
+        "globalid": 2379935644
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.79874691,
+          55.80974166
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 5,
+        "NameOfStation": "Щёлковская",
+        "Line": "Арбатско-Покровская линия",
+        "LongitudeWGS84": "37.79874691",
+        "LatitudeWGS84": "55.80974166",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Северное Измайлово",
+        "Year": 2022,
+        "Month": "Июль",
+        "globalid": 2379935645
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.66917139,
+          55.62167819
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 6,
+        "NameOfStation": "Царицыно",
+        "Line": "Замоскворецкая линия",
+        "LongitudeWGS84": "37.66917139",
+        "LatitudeWGS84": "55.62167819",
+        "AdmArea": "Южный административный округ",
+        "District": "район Царицыно",
+        "Year": 2022,
+        "Month": "Июль",
+        "globalid": 2379935646
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.64142125,
+          55.82118628
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 7,
+        "NameOfStation": "ВДНХ",
+        "Line": "Калужско-Рижская линия",
+        "LongitudeWGS84": "37.64142125",
+        "LatitudeWGS84": "55.82118628",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Останкинский район",
+        "Year": 2022,
+        "Month": "Июль",
+        "globalid": 2379935647
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.81742514,
+          55.72333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 8,
+        "NameOfStation": "Новогиреево",
+        "Line": "Калининская линия",
+        "LongitudeWGS84": "37.81742514",
+        "LatitudeWGS84": "55.723330",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Вешняки",
+        "Year": 2022,
+        "Month": "Июль",
+        "globalid": 2379935649
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.57755224,
+          55.56967951
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 9,
+        "NameOfStation": "Бульвар Дмитрия Донского",
+        "Line": "Серпуховско-Тимирязевская линия",
+        "LongitudeWGS84": "37.57755224",
+        "LatitudeWGS84": "55.56967951",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Северное Бутово",
+        "Year": 2022,
+        "Month": "Июль",
+        "globalid": 2379935650
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.73242901,
+          55.70881677
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 10,
+        "NameOfStation": "Текстильщики",
+        "Line": "Таганско-Краснопресненская линия",
+        "LongitudeWGS84": "37.73242901",
+        "LatitudeWGS84": "55.70881677",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Текстильщики",
+        "Year": 2022,
+        "Month": "Июль",
+        "globalid": 2379935651
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.65486112,
+          55.77574627
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 1,
+        "NameOfStation": "Комсомольская",
+        "Line": "Кольцевая линия",
+        "LongitudeWGS84": "37.65486112",
+        "LatitudeWGS84": "55.77574627",
+        "AdmArea": "Центральный административный округ",
+        "District": "Красносельский район",
+        "Year": 2022,
+        "Month": "Июнь",
+        "globalid": 2375973454
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.81860885,
+          55.71545536
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 2,
+        "NameOfStation": "Выхино",
+        "Line": "Таганско-Краснопресненская линия",
+        "LongitudeWGS84": "37.81860885",
+        "LatitudeWGS84": "55.71545536",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Выхино-Жулебино",
+        "Year": 2022,
+        "Month": "Июнь",
+        "globalid": 2375973445
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.50697019,
+          55.61863853
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 3,
+        "NameOfStation": "Тёплый стан",
+        "Line": "Калужско-Рижская линия",
+        "LongitudeWGS84": "37.50697019",
+        "LatitudeWGS84": "55.61863853",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Ясенево",
+        "Year": 2022,
+        "Month": "Июнь",
+        "globalid": 2375973446
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.71878552,
+          55.61087011
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 4,
+        "NameOfStation": "Домодедовская",
+        "Line": "Замоскворецкая линия",
+        "LongitudeWGS84": "37.71878552",
+        "LatitudeWGS84": "55.61087011",
+        "AdmArea": "Южный административный округ",
+        "District": "район Орехово-Борисово Южное",
+        "Year": 2022,
+        "Month": "Июнь",
+        "globalid": 2375973447
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.79874691,
+          55.80974166
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 5,
+        "NameOfStation": "Щёлковская",
+        "Line": "Арбатско-Покровская линия",
+        "LongitudeWGS84": "37.79874691",
+        "LatitudeWGS84": "55.80974166",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Северное Измайлово",
+        "Year": 2022,
+        "Month": "Июнь",
+        "globalid": 2375973448
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.66917139,
+          55.62167819
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 6,
+        "NameOfStation": "Царицыно",
+        "Line": "Замоскворецкая линия",
+        "LongitudeWGS84": "37.66917139",
+        "LatitudeWGS84": "55.62167819",
+        "AdmArea": "Южный административный округ",
+        "District": "район Царицыно",
+        "Year": 2022,
+        "Month": "Июнь",
+        "globalid": 2375973449
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.64142125,
+          55.82118628
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 7,
+        "NameOfStation": "ВДНХ",
+        "Line": "Калужско-Рижская линия",
+        "LongitudeWGS84": "37.64142125",
+        "LatitudeWGS84": "55.82118628",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Останкинский район",
+        "Year": 2022,
+        "Month": "Июнь",
+        "globalid": 2375973450
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.81742514,
+          55.72333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 8,
+        "NameOfStation": "Новогиреево",
+        "Line": "Калининская линия",
+        "LongitudeWGS84": "37.81742514",
+        "LatitudeWGS84": "55.723330",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Вешняки",
+        "Year": 2022,
+        "Month": "Июнь",
+        "globalid": 2375973451
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.57755224,
+          55.56967951
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 9,
+        "NameOfStation": "Бульвар Дмитрия Донского",
+        "Line": "Серпуховско-Тимирязевская линия",
+        "LongitudeWGS84": "37.57755224",
+        "LatitudeWGS84": "55.56967951",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Северное Бутово",
+        "Year": 2022,
+        "Month": "Июнь",
+        "globalid": 2375973452
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.73242901,
+          55.70881677
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 10,
+        "NameOfStation": "Текстильщики",
+        "Line": "Таганско-Краснопресненская линия",
+        "LongitudeWGS84": "37.73242901",
+        "LatitudeWGS84": "55.70881677",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Текстильщики",
+        "Year": 2022,
+        "Month": "Июнь",
+        "globalid": 2375973453
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.65486112,
+          55.77574627
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 1,
+        "NameOfStation": "Комсомольская",
+        "Line": "Кольцевая линия",
+        "LongitudeWGS84": "37.65486112",
+        "LatitudeWGS84": "55.77574627",
+        "AdmArea": "Центральный административный округ",
+        "District": "Красносельский район",
+        "Year": 2022,
+        "Month": "Май",
+        "globalid": 2370780977
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.81860885,
+          55.71545536
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 2,
+        "NameOfStation": "Выхино",
+        "Line": "Таганско-Краснопресненская линия",
+        "LongitudeWGS84": "37.81860885",
+        "LatitudeWGS84": "55.71545536",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Выхино-Жулебино",
+        "Year": 2022,
+        "Month": "Май",
+        "globalid": 2370779679
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.71878552,
+          55.61087011
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 3,
+        "NameOfStation": "Домодедовская",
+        "Line": "Замоскворецкая линия",
+        "LongitudeWGS84": "37.71878552",
+        "LatitudeWGS84": "55.61087011",
+        "AdmArea": "Южный административный округ",
+        "District": "район Орехово-Борисово Южное",
+        "Year": 2022,
+        "Month": "Май",
+        "globalid": 2370779680
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.79874691,
+          55.80974166
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 4,
+        "NameOfStation": "Щёлковская",
+        "Line": "Арбатско-Покровская линия",
+        "LongitudeWGS84": "37.79874691",
+        "LatitudeWGS84": "55.80974166",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Северное Измайлово",
+        "Year": 2022,
+        "Month": "Май",
+        "globalid": 2370779681
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.50697019,
+          55.61863853
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 5,
+        "NameOfStation": "Тёплый стан",
+        "Line": "Калужско-Рижская линия",
+        "LongitudeWGS84": "37.50697019",
+        "LatitudeWGS84": "55.61863853",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Ясенево",
+        "Year": 2022,
+        "Month": "Май",
+        "globalid": 2370779682
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.66917139,
+          55.62167819
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 6,
+        "NameOfStation": "Царицыно",
+        "Line": "Замоскворецкая линия",
+        "LongitudeWGS84": "37.66917139",
+        "LatitudeWGS84": "55.62167819",
+        "AdmArea": "Южный административный округ",
+        "District": "район Царицыно",
+        "Year": 2022,
+        "Month": "Май",
+        "globalid": 2370779683
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.81742514,
+          55.72333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 7,
+        "NameOfStation": "Новогиреево",
+        "Line": "Калининская линия",
+        "LongitudeWGS84": "37.81742514",
+        "LatitudeWGS84": "55.723330",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Вешняки",
+        "Year": 2022,
+        "Month": "Май",
+        "globalid": 2370779684
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.64142125,
+          55.82118628
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 8,
+        "NameOfStation": "ВДНХ",
+        "Line": "Калужско-Рижская линия",
+        "LongitudeWGS84": "37.64142125",
+        "LatitudeWGS84": "55.82118628",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Останкинский район",
+        "Year": 2022,
+        "Month": "Май",
+        "globalid": 2370779685
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.73242901,
+          55.70881677
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 9,
+        "NameOfStation": "Текстильщики",
+        "Line": "Таганско-Краснопресненская линия",
+        "LongitudeWGS84": "37.73242901",
+        "LatitudeWGS84": "55.70881677",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Текстильщики",
+        "Year": 2022,
+        "Month": "Май",
+        "globalid": 2370779686
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.57755224,
+          55.56967951
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 10,
+        "NameOfStation": "Бульвар Дмитрия Донского",
+        "Line": "Серпуховско-Тимирязевская линия",
+        "LongitudeWGS84": "37.57755224",
+        "LatitudeWGS84": "55.56967951",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Северное Бутово",
+        "Year": 2022,
+        "Month": "Май",
+        "globalid": 2370779687
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.65486112,
+          55.77574627
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 1,
+        "NameOfStation": "Комсомольская",
+        "Line": "Кольцевая линия",
+        "LongitudeWGS84": "37.65486112",
+        "LatitudeWGS84": "55.77574627",
+        "AdmArea": "Центральный административный округ",
+        "District": "Красносельский район",
+        "Year": 2022,
+        "Month": "Апрель",
+        "globalid": 2366313399
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.81860885,
+          55.71545536
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 2,
+        "NameOfStation": "Выхино",
+        "Line": "Таганско-Краснопресненская линия",
+        "LongitudeWGS84": "37.81860885",
+        "LatitudeWGS84": "55.71545536",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Выхино-Жулебино",
+        "Year": 2022,
+        "Month": "Апрель",
+        "globalid": 2366417832
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.71878552,
+          55.61087011
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 3,
+        "NameOfStation": "Домодедовская",
+        "Line": "Замоскворецкая линия",
+        "LongitudeWGS84": "37.71878552",
+        "LatitudeWGS84": "55.61087011",
+        "AdmArea": "Южный административный округ",
+        "District": "район Орехово-Борисово Южное",
+        "Year": 2022,
+        "Month": "Апрель",
+        "globalid": 2366417897
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.79874691,
+          55.80974166
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 4,
+        "NameOfStation": "Щёлковская",
+        "Line": "Арбатско-Покровская линия",
+        "LongitudeWGS84": "37.79874691",
+        "LatitudeWGS84": "55.80974166",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Северное Измайлово",
+        "Year": 2022,
+        "Month": "Апрель",
+        "globalid": 2366417938
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.50697019,
+          55.61863853
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 5,
+        "NameOfStation": "Тёплый стан",
+        "Line": "Калужско-Рижская линия",
+        "LongitudeWGS84": "37.50697019",
+        "LatitudeWGS84": "55.61863853",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Ясенево",
+        "Year": 2022,
+        "Month": "Апрель",
+        "globalid": 2366417975
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.81742514,
+          55.72333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 6,
+        "NameOfStation": "Новогиреево",
+        "Line": "Калининская линия",
+        "LongitudeWGS84": "37.81742514",
+        "LatitudeWGS84": "55.723330",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Вешняки",
+        "Year": 2022,
+        "Month": "Апрель",
+        "globalid": 2366417992
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.66917139,
+          55.62167819
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 7,
+        "NameOfStation": "Царицыно",
+        "Line": "Замоскворецкая линия",
+        "LongitudeWGS84": "37.66917139",
+        "LatitudeWGS84": "55.62167819",
+        "AdmArea": "Южный административный округ",
+        "District": "район Царицыно",
+        "Year": 2022,
+        "Month": "Апрель",
+        "globalid": 2366417995
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.57755224,
+          55.56967951
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 8,
+        "NameOfStation": "Бульвар Дмитрия Донского",
+        "Line": "Серпуховско-Тимирязевская линия",
+        "LongitudeWGS84": "37.57755224",
+        "LatitudeWGS84": "55.56967951",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Северное Бутово",
+        "Year": 2022,
+        "Month": "Апрель",
+        "globalid": 2366418028
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.86379572,
+          55.74507473
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 9,
+        "NameOfStation": "Новокосино",
+        "Line": "Калининская линия",
+        "LongitudeWGS84": "37.86379572",
+        "LatitudeWGS84": "55.74507473",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Новокосино",
+        "Year": 2022,
+        "Month": "Апрель",
+        "globalid": 2366418076
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.73242901,
+          55.70881677
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 10,
+        "NameOfStation": "Текстильщики",
+        "Line": "Таганско-Краснопресненская линия",
+        "LongitudeWGS84": "37.73242901",
+        "LatitudeWGS84": "55.70881677",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Текстильщики",
+        "Year": 2022,
+        "Month": "Апрель",
+        "globalid": 2366418093
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.65486112,
+          55.77574627
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 1,
+        "NameOfStation": "Комсомольская",
+        "Line": "Кольцевая линия",
+        "LongitudeWGS84": "37.65486112",
+        "LatitudeWGS84": "55.77574627",
+        "AdmArea": "Центральный административный округ",
+        "District": "Красносельский район",
+        "Year": 2022,
+        "Month": "Март",
+        "globalid": 2362409067
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.81860885,
+          55.71545536
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 2,
+        "NameOfStation": "Выхино",
+        "Line": "Таганско-Краснопресненская линия",
+        "LongitudeWGS84": "37.81860885",
+        "LatitudeWGS84": "55.71545536",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Выхино-Жулебино",
+        "Year": 2022,
+        "Month": "Март",
+        "globalid": 2362409077
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.79874691,
+          55.80974166
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 3,
+        "NameOfStation": "Щёлковская",
+        "Line": "Арбатско-Покровская линия",
+        "LongitudeWGS84": "37.79874691",
+        "LatitudeWGS84": "55.80974166",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Северное Измайлово",
+        "Year": 2022,
+        "Month": "Март",
+        "globalid": 2362409079
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.71878552,
+          55.61087011
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 4,
+        "NameOfStation": "Домодедовская",
+        "Line": "Замоскворецкая линия",
+        "LongitudeWGS84": "37.71878552",
+        "LatitudeWGS84": "55.61087011",
+        "AdmArea": "Южный административный округ",
+        "District": "район Орехово-Борисово Южное",
+        "Year": 2022,
+        "Month": "Март",
+        "globalid": 2362409080
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.50697019,
+          55.61863853
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 5,
+        "NameOfStation": "Тёплый стан",
+        "Line": "Калужско-Рижская линия",
+        "LongitudeWGS84": "37.50697019",
+        "LatitudeWGS84": "55.61863853",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Ясенево",
+        "Year": 2022,
+        "Month": "Март",
+        "globalid": 2362464375
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.66917139,
+          55.62167819
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 6,
+        "NameOfStation": "Царицыно",
+        "Line": "Замоскворецкая линия",
+        "LongitudeWGS84": "37.66917139",
+        "LatitudeWGS84": "55.62167819",
+        "AdmArea": "Южный административный округ",
+        "District": "район Царицыно",
+        "Year": 2022,
+        "Month": "Март",
+        "globalid": 2362464381
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.81742514,
+          55.72333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 7,
+        "NameOfStation": "Новогиреево",
+        "Line": "Калининская линия",
+        "LongitudeWGS84": "37.81742514",
+        "LatitudeWGS84": "55.723330",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Вешняки",
+        "Year": 2022,
+        "Month": "Март",
+        "globalid": 2362464385
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.57755224,
+          55.56967951
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 8,
+        "NameOfStation": "Бульвар Дмитрия Донского",
+        "Line": "Серпуховско-Тимирязевская линия",
+        "LongitudeWGS84": "37.57755224",
+        "LatitudeWGS84": "55.56967951",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Северное Бутово",
+        "Year": 2022,
+        "Month": "Март",
+        "globalid": 2362464386
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.86379572,
+          55.74507473
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 9,
+        "NameOfStation": "Новокосино",
+        "Line": "Калининская линия",
+        "LongitudeWGS84": "37.86379572",
+        "LatitudeWGS84": "55.74507473",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Новокосино",
+        "Year": 2022,
+        "Month": "Март",
+        "globalid": 2362464410
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.64142125,
+          55.82118628
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 10,
+        "NameOfStation": "ВДНХ",
+        "Line": "Калужско-Рижская линия",
+        "LongitudeWGS84": "37.64142125",
+        "LatitudeWGS84": "55.82118628",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Останкинский район",
+        "Year": 2022,
+        "Month": "Март",
+        "globalid": 2362464411
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.65486112,
+          55.77574627
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 1,
+        "NameOfStation": "Комсомольская",
+        "Line": "Кольцевая линия",
+        "LongitudeWGS84": "37.65486112",
+        "LatitudeWGS84": "55.77574627",
+        "AdmArea": "Центральный административный округ",
+        "District": "Красносельский район",
+        "Year": 2022,
+        "Month": "Февраль",
+        "globalid": 2359788801
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.81860885,
+          55.71545536
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 2,
+        "NameOfStation": "Выхино",
+        "Line": "Таганско-Краснопресненская линия",
+        "LongitudeWGS84": "37.81860885",
+        "LatitudeWGS84": "55.71545536",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Выхино-Жулебино",
+        "Year": 2022,
+        "Month": "Февраль",
+        "globalid": 2359788802
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.79874691,
+          55.80974166
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 3,
+        "NameOfStation": "Щёлковская",
+        "Line": "Арбатско-Покровская линия",
+        "LongitudeWGS84": "37.79874691",
+        "LatitudeWGS84": "55.80974166",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Северное Измайлово",
+        "Year": 2022,
+        "Month": "Февраль",
+        "globalid": 2359792617
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.66917139,
+          55.62167819
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 4,
+        "NameOfStation": "Царицыно",
+        "Line": "Замоскворецкая линия",
+        "LongitudeWGS84": "37.66917139",
+        "LatitudeWGS84": "55.62167819",
+        "AdmArea": "Южный административный округ",
+        "District": "район Царицыно",
+        "Year": 2022,
+        "Month": "Февраль",
+        "globalid": 2359788803
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.81742514,
+          55.72333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 5,
+        "NameOfStation": "Новогиреево",
+        "Line": "Калининская линия",
+        "LongitudeWGS84": "37.81742514",
+        "LatitudeWGS84": "55.723330",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Вешняки",
+        "Year": 2022,
+        "Month": "Февраль",
+        "globalid": 2359788816
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.57755224,
+          55.56967951
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 6,
+        "NameOfStation": "Бульвар Дмитрия Донского",
+        "Line": "Серпуховско-Тимирязевская линия",
+        "LongitudeWGS84": "37.57755224",
+        "LatitudeWGS84": "55.56967951",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Северное Бутово",
+        "Year": 2022,
+        "Month": "Февраль",
+        "globalid": 2359788815
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.71878552,
+          55.61087011
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 7,
+        "NameOfStation": "Домодедовская",
+        "Line": "Замоскворецкая линия",
+        "LongitudeWGS84": "37.71878552",
+        "LatitudeWGS84": "55.61087011",
+        "AdmArea": "Южный административный округ",
+        "District": "район Орехово-Борисово Южное",
+        "Year": 2022,
+        "Month": "Февраль",
+        "globalid": 2359788817
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.50697019,
+          55.61863853
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 8,
+        "NameOfStation": "Тёплый стан",
+        "Line": "Калужско-Рижская линия",
+        "LongitudeWGS84": "37.50697019",
+        "LatitudeWGS84": "55.61863853",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Ясенево",
+        "Year": 2022,
+        "Month": "Февраль",
+        "globalid": 2359788818
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.86379572,
+          55.74507473
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 9,
+        "NameOfStation": "Новокосино",
+        "Line": "Калининская линия",
+        "LongitudeWGS84": "37.86379572",
+        "LatitudeWGS84": "55.74507473",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Новокосино",
+        "Year": 2022,
+        "Month": "Февраль",
+        "globalid": 2359788819
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.64142125,
+          55.82118628
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 10,
+        "NameOfStation": "ВДНХ",
+        "Line": "Калужско-Рижская линия",
+        "LongitudeWGS84": "37.64142125",
+        "LatitudeWGS84": "55.82118628",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Останкинский район",
+        "Year": 2022,
+        "Month": "Февраль",
+        "globalid": 2359788821
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.65486112,
+          55.77574627
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 1,
+        "NameOfStation": "Комсомольская",
+        "Line": "Кольцевая линия",
+        "LongitudeWGS84": "37.65486112",
+        "LatitudeWGS84": "55.77574627",
+        "AdmArea": "Центральный административный округ",
+        "District": "Красносельский район",
+        "Year": 2022,
+        "Month": "Январь",
+        "globalid": 2257254012
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.81860885,
+          55.71545536
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 2,
+        "NameOfStation": "Выхино",
+        "Line": "Таганско-Краснопресненская линия",
+        "LongitudeWGS84": "37.81860885",
+        "LatitudeWGS84": "55.71545536",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Выхино-Жулебино",
+        "Year": 2022,
+        "Month": "Январь",
+        "globalid": 2257253944
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.79874691,
+          55.80974166
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 3,
+        "NameOfStation": "Щёлковская",
+        "Line": "Арбатско-Покровская линия",
+        "LongitudeWGS84": "37.79874691",
+        "LatitudeWGS84": "55.80974166",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Северное Измайлово",
+        "Year": 2022,
+        "Month": "Январь",
+        "globalid": 2257254028
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.57755224,
+          55.56967951
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 4,
+        "NameOfStation": "Бульвар Дмитрия Донского",
+        "Line": "Серпуховско-Тимирязевская линия",
+        "LongitudeWGS84": "37.57755224",
+        "LatitudeWGS84": "55.56967951",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Северное Бутово",
+        "Year": 2022,
+        "Month": "Январь",
+        "globalid": 2257254032
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.71878552,
+          55.61087011
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 5,
+        "NameOfStation": "Домодедовская",
+        "Line": "Замоскворецкая линия",
+        "LongitudeWGS84": "37.71878552",
+        "LatitudeWGS84": "55.61087011",
+        "AdmArea": "Южный административный округ",
+        "District": "район Орехово-Борисово Южное",
+        "Year": 2022,
+        "Month": "Январь",
+        "globalid": 2257253947
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.66917139,
+          55.62167819
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 6,
+        "NameOfStation": "Царицыно",
+        "Line": "Замоскворецкая линия",
+        "LongitudeWGS84": "37.66917139",
+        "LatitudeWGS84": "55.62167819",
+        "AdmArea": "Южный административный округ",
+        "District": "район Царицыно",
+        "Year": 2022,
+        "Month": "Январь",
+        "globalid": 2257254039
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.81742514,
+          55.72333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 7,
+        "NameOfStation": "Новогиреево",
+        "Line": "Калининская линия",
+        "LongitudeWGS84": "37.81742514",
+        "LatitudeWGS84": "55.723330",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Вешняки",
+        "Year": 2022,
+        "Month": "Январь",
+        "globalid": 2257254044
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.50697019,
+          55.61863853
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 8,
+        "NameOfStation": "Тёплый стан",
+        "Line": "Калужско-Рижская линия",
+        "LongitudeWGS84": "37.50697019",
+        "LatitudeWGS84": "55.61863853",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Ясенево",
+        "Year": 2022,
+        "Month": "Январь",
+        "globalid": 2257253950
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.86379572,
+          55.74507473
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 9,
+        "NameOfStation": "Новокосино",
+        "Line": "Калининская линия",
+        "LongitudeWGS84": "37.86379572",
+        "LatitudeWGS84": "55.74507473",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Новокосино",
+        "Year": 2022,
+        "Month": "Январь",
+        "globalid": 2257253951
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.73242901,
+          55.70881677
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 10,
+        "NameOfStation": "Текстильщики",
+        "Line": "Таганско-Краснопресненская линия",
+        "LongitudeWGS84": "37.73242901",
+        "LatitudeWGS84": "55.70881677",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Текстильщики",
+        "Year": 2022,
+        "Month": "Январь",
+        "globalid": 2257253952
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.65486112,
+          55.77574627
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 1,
+        "NameOfStation": "Комсомольская",
+        "Line": "Кольцевая линия",
+        "LongitudeWGS84": "37.65486112",
+        "LatitudeWGS84": "55.77574627",
+        "AdmArea": "Центральный административный округ",
+        "District": "Красносельский район",
+        "Year": 2022,
+        "Month": "Сентябрь",
+        "globalid": 2387305268
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.81860885,
+          55.71545536
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 2,
+        "NameOfStation": "Выхино",
+        "Line": "Таганско-Краснопресненская линия",
+        "LongitudeWGS84": "37.81860885",
+        "LatitudeWGS84": "55.71545536",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Выхино-Жулебино",
+        "Year": 2022,
+        "Month": "Сентябрь",
+        "globalid": 2387281233
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.79874691,
+          55.80974166
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 3,
+        "NameOfStation": "Щёлковская",
+        "Line": "Арбатско-Покровская линия",
+        "LongitudeWGS84": "37.79874691",
+        "LatitudeWGS84": "55.80974166",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Северное Измайлово",
+        "Year": 2022,
+        "Month": "Сентябрь",
+        "globalid": 2387281234
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.71878552,
+          55.61087011
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 4,
+        "NameOfStation": "Домодедовская",
+        "Line": "Замоскворецкая линия",
+        "LongitudeWGS84": "37.71878552",
+        "LatitudeWGS84": "55.61087011",
+        "AdmArea": "Южный административный округ",
+        "District": "район Орехово-Борисово Южное",
+        "Year": 2022,
+        "Month": "Сентябрь",
+        "globalid": 2387281236
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.50697019,
+          55.61863853
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 5,
+        "NameOfStation": "Тёплый стан",
+        "Line": "Калужско-Рижская линия",
+        "LongitudeWGS84": "37.50697019",
+        "LatitudeWGS84": "55.61863853",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Ясенево",
+        "Year": 2022,
+        "Month": "Сентябрь",
+        "globalid": 2387281237
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.66917139,
+          55.62167819
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 6,
+        "NameOfStation": "Царицыно",
+        "Line": "Замоскворецкая линия",
+        "LongitudeWGS84": "37.66917139",
+        "LatitudeWGS84": "55.62167819",
+        "AdmArea": "Южный административный округ",
+        "District": "район Царицыно",
+        "Year": 2022,
+        "Month": "Сентябрь",
+        "globalid": 2387305145
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.81742514,
+          55.72333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 7,
+        "NameOfStation": "Новогиреево",
+        "Line": "Калининская линия",
+        "LongitudeWGS84": "37.81742514",
+        "LatitudeWGS84": "55.723330",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Вешняки",
+        "Year": 2022,
+        "Month": "Сентябрь",
+        "globalid": 2387305146
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.57755224,
+          55.56967951
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 8,
+        "NameOfStation": "Бульвар Дмитрия Донского",
+        "Line": "Серпуховско-Тимирязевская линия",
+        "LongitudeWGS84": "37.57755224",
+        "LatitudeWGS84": "55.56967951",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Северное Бутово",
+        "Year": 2022,
+        "Month": "Сентябрь",
+        "globalid": 2387305147
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.64142125,
+          55.82118628
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 9,
+        "NameOfStation": "ВДНХ",
+        "Line": "Калужско-Рижская линия",
+        "LongitudeWGS84": "37.64142125",
+        "LatitudeWGS84": "55.82118628",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Останкинский район",
+        "Year": 2022,
+        "Month": "Сентябрь",
+        "globalid": 2387305148
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.73242901,
+          55.70881677
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 10,
+        "NameOfStation": "Текстильщики",
+        "Line": "Таганско-Краснопресненская линия",
+        "LongitudeWGS84": "37.73242901",
+        "LatitudeWGS84": "55.70881677",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Текстильщики",
+        "Year": 2022,
+        "Month": "Сентябрь",
+        "globalid": 2387305149
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.65486112,
+          55.77574627
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 1,
+        "NameOfStation": "Комсомольская",
+        "Line": "Кольцевая линия",
+        "LongitudeWGS84": "37.65486112",
+        "LatitudeWGS84": "55.77574627",
+        "AdmArea": "Центральный административный округ",
+        "District": "Красносельский район",
+        "Year": 2022,
+        "Month": "Август",
+        "globalid": 2382463131
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.81860885,
+          55.71545536
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 2,
+        "NameOfStation": "Выхино",
+        "Line": "Таганско-Краснопресненская линия",
+        "LongitudeWGS84": "37.81860885",
+        "LatitudeWGS84": "55.71545536",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Выхино-Жулебино",
+        "Year": 2022,
+        "Month": "Август",
+        "globalid": 2382463038
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.71878552,
+          55.61087011
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 3,
+        "NameOfStation": "Домодедовская",
+        "Line": "Замоскворецкая линия",
+        "LongitudeWGS84": "37.71878552",
+        "LatitudeWGS84": "55.61087011",
+        "AdmArea": "Южный административный округ",
+        "District": "район Орехово-Борисово Южное",
+        "Year": 2022,
+        "Month": "Август",
+        "globalid": 2382463039
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.66917139,
+          55.62167819
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 4,
+        "NameOfStation": "Царицыно",
+        "Line": "Замоскворецкая линия",
+        "LongitudeWGS84": "37.66917139",
+        "LatitudeWGS84": "55.62167819",
+        "AdmArea": "Южный административный округ",
+        "District": "район Царицыно",
+        "Year": 2022,
+        "Month": "Август",
+        "globalid": 2382463040
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.79874691,
+          55.80974166
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 5,
+        "NameOfStation": "Щёлковская",
+        "Line": "Арбатско-Покровская линия",
+        "LongitudeWGS84": "37.79874691",
+        "LatitudeWGS84": "55.80974166",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Северное Измайлово",
+        "Year": 2022,
+        "Month": "Август",
+        "globalid": 2382463041
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.50697019,
+          55.61863853
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 6,
+        "NameOfStation": "Тёплый стан",
+        "Line": "Калужско-Рижская линия",
+        "LongitudeWGS84": "37.50697019",
+        "LatitudeWGS84": "55.61863853",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Ясенево",
+        "Year": 2022,
+        "Month": "Август",
+        "globalid": 2382463043
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.81742514,
+          55.72333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 7,
+        "NameOfStation": "Новогиреево",
+        "Line": "Калининская линия",
+        "LongitudeWGS84": "37.81742514",
+        "LatitudeWGS84": "55.723330",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Вешняки",
+        "Year": 2022,
+        "Month": "Август",
+        "globalid": 2382463044
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.64142125,
+          55.82118628
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 8,
+        "NameOfStation": "ВДНХ",
+        "Line": "Калужско-Рижская линия",
+        "LongitudeWGS84": "37.64142125",
+        "LatitudeWGS84": "55.82118628",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Останкинский район",
+        "Year": 2022,
+        "Month": "Август",
+        "globalid": 2382463045
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.57755224,
+          55.56967951
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 9,
+        "NameOfStation": "Бульвар Дмитрия Донского",
+        "Line": "Серпуховско-Тимирязевская линия",
+        "LongitudeWGS84": "37.57755224",
+        "LatitudeWGS84": "55.56967951",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Северное Бутово",
+        "Year": 2022,
+        "Month": "Август",
+        "globalid": 2382463047
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.73242901,
+          55.70881677
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 10,
+        "NameOfStation": "Текстильщики",
+        "Line": "Таганско-Краснопресненская линия",
+        "LongitudeWGS84": "37.73242901",
+        "LatitudeWGS84": "55.70881677",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Текстильщики",
+        "Year": 2022,
+        "Month": "Август",
+        "globalid": 2382463048
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.65486112,
+          55.77574627
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 1,
+        "NameOfStation": "Комсомольская",
+        "Line": "Кольцевая линия",
+        "LongitudeWGS84": "37.65486112",
+        "LatitudeWGS84": "55.77574627",
+        "AdmArea": "Центральный административный округ",
+        "District": "Красносельский район",
+        "Year": 2021,
+        "Month": "Июль",
+        "globalid": 1146052635
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.81860885,
+          55.71545536
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 2,
+        "NameOfStation": "Выхино",
+        "Line": "Таганско-Краснопресненская линия",
+        "LongitudeWGS84": "37.81860885",
+        "LatitudeWGS84": "55.71545536",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Выхино-Жулебино",
+        "Year": 2021,
+        "Month": "Июль",
+        "globalid": 1146052590
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.50697019,
+          55.61863853
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 3,
+        "NameOfStation": "Тёплый стан",
+        "Line": "Калужско-Рижская линия",
+        "LongitudeWGS84": "37.50697019",
+        "LatitudeWGS84": "55.61863853",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Ясенево",
+        "Year": 2021,
+        "Month": "Июль",
+        "globalid": 1146052591
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.71878552,
+          55.61087011
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 4,
+        "NameOfStation": "Домодедовская",
+        "Line": "Замоскворецкая линия",
+        "LongitudeWGS84": "37.71878552",
+        "LatitudeWGS84": "55.61087011",
+        "AdmArea": "Южный административный округ",
+        "District": "район Орехово-Борисово Южное",
+        "Year": 2021,
+        "Month": "Июль",
+        "globalid": 1146052592
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.79874691,
+          55.80974166
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 5,
+        "NameOfStation": "Щёлковская",
+        "Line": "Арбатско-Покровская линия",
+        "LongitudeWGS84": "37.79874691",
+        "LatitudeWGS84": "55.80974166",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Северное Измайлово",
+        "Year": 2021,
+        "Month": "Июль",
+        "globalid": 1146052593
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.66917139,
+          55.62167819
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 6,
+        "NameOfStation": "Царицыно",
+        "Line": "Замоскворецкая линия",
+        "LongitudeWGS84": "37.66917139",
+        "LatitudeWGS84": "55.62167819",
+        "AdmArea": "Южный административный округ",
+        "District": "район Царицыно",
+        "Year": 2021,
+        "Month": "Июль",
+        "globalid": 1146052594
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.81742514,
+          55.72333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 7,
+        "NameOfStation": "Новогиреево",
+        "Line": "Калининская линия",
+        "LongitudeWGS84": "37.81742514",
+        "LatitudeWGS84": "55.723330",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Вешняки",
+        "Year": 2021,
+        "Month": "Июль",
+        "globalid": 1146052595
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.57755224,
+          55.56967951
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 8,
+        "NameOfStation": "Бульвар Дмитрия Донского",
+        "Line": "Серпуховско-Тимирязевская линия",
+        "LongitudeWGS84": "37.57755224",
+        "LatitudeWGS84": "55.56967951",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Северное Бутово",
+        "Year": 2021,
+        "Month": "Июль",
+        "globalid": 1146052596
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.73242901,
+          55.70881677
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 9,
+        "NameOfStation": "Текстильщики",
+        "Line": "Таганско-Краснопресненская линия",
+        "LongitudeWGS84": "37.73242901",
+        "LatitudeWGS84": "55.70881677",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Текстильщики",
+        "Year": 2021,
+        "Month": "Июль",
+        "globalid": 1146052597
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.86427956,
+          55.74511606
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 10,
+        "NameOfStation": "Новокосино",
+        "Line": "Калининская линия",
+        "LongitudeWGS84": "37.86427956",
+        "LatitudeWGS84": "55.74511606",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Новокосино",
+        "Year": 2021,
+        "Month": "Июль",
+        "globalid": 1146052598
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.65486112,
+          55.77574627
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 1,
+        "NameOfStation": "Комсомольская",
+        "Line": "Кольцевая линия",
+        "LongitudeWGS84": "37.65486112",
+        "LatitudeWGS84": "55.77574627",
+        "AdmArea": "Центральный административный округ",
+        "District": "Красносельский район",
+        "Year": 2021,
+        "Month": "Июнь",
+        "globalid": 1146052633
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.81860885,
+          55.71545536
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 2,
+        "NameOfStation": "Выхино",
+        "Line": "Таганско-Краснопресненская линия",
+        "LongitudeWGS84": "37.81860885",
+        "LatitudeWGS84": "55.71545536",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Выхино-Жулебино",
+        "Year": 2021,
+        "Month": "Июнь",
+        "globalid": 1146052580
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.71878552,
+          55.61087011
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 3,
+        "NameOfStation": "Домодедовская",
+        "Line": "Замоскворецкая линия",
+        "LongitudeWGS84": "37.71878552",
+        "LatitudeWGS84": "55.61087011",
+        "AdmArea": "Южный административный округ",
+        "District": "район Орехово-Борисово Южное",
+        "Year": 2021,
+        "Month": "Июнь",
+        "globalid": 1146052581
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.79874691,
+          55.80974166
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 4,
+        "NameOfStation": "Щёлковская",
+        "Line": "Арбатско-Покровская линия",
+        "LongitudeWGS84": "37.79874691",
+        "LatitudeWGS84": "55.80974166",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Северное Измайлово",
+        "Year": 2021,
+        "Month": "Июнь",
+        "globalid": 1146052582
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.50697019,
+          55.61863853
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 5,
+        "NameOfStation": "Тёплый стан",
+        "Line": "Калужско-Рижская линия",
+        "LongitudeWGS84": "37.50697019",
+        "LatitudeWGS84": "55.61863853",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Ясенево",
+        "Year": 2021,
+        "Month": "Июнь",
+        "globalid": 1146052583
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.66917139,
+          55.62167819
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 6,
+        "NameOfStation": "Царицыно",
+        "Line": "Замоскворецкая линия",
+        "LongitudeWGS84": "37.66917139",
+        "LatitudeWGS84": "55.62167819",
+        "AdmArea": "Южный административный округ",
+        "District": "район Царицыно",
+        "Year": 2021,
+        "Month": "Июнь",
+        "globalid": 1146052584
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.81742514,
+          55.72333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 7,
+        "NameOfStation": "Новогиреево",
+        "Line": "Калининская линия",
+        "LongitudeWGS84": "37.81742514",
+        "LatitudeWGS84": "55.723330",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Вешняки",
+        "Year": 2021,
+        "Month": "Июнь",
+        "globalid": 1146052585
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.57755224,
+          55.56967951
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 8,
+        "NameOfStation": "Бульвар Дмитрия Донского",
+        "Line": "Серпуховско-Тимирязевская линия",
+        "LongitudeWGS84": "37.57755224",
+        "LatitudeWGS84": "55.56967951",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Северное Бутово",
+        "Year": 2021,
+        "Month": "Июнь",
+        "globalid": 1146052586
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.73242901,
+          55.70881677
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 9,
+        "NameOfStation": "Текстильщики",
+        "Line": "Таганско-Краснопресненская линия",
+        "LongitudeWGS84": "37.73242901",
+        "LatitudeWGS84": "55.70881677",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Текстильщики",
+        "Year": 2021,
+        "Month": "Июнь",
+        "globalid": 1146052587
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.86427956,
+          55.74511606
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 10,
+        "NameOfStation": "Новокосино",
+        "Line": "Калининская линия",
+        "LongitudeWGS84": "37.86427956",
+        "LatitudeWGS84": "55.74511606",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Новокосино",
+        "Year": 2021,
+        "Month": "Июнь",
+        "globalid": 1146052617
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.65486112,
+          55.77574627
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 1,
+        "NameOfStation": "Комсомольская",
+        "Line": "Кольцевая линия",
+        "LongitudeWGS84": "37.65486112",
+        "LatitudeWGS84": "55.77574627",
+        "AdmArea": "Центральный административный округ",
+        "District": "Красносельский район",
+        "Year": 2021,
+        "Month": "Май",
+        "globalid": 1146052632
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.81860885,
+          55.71545536
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 2,
+        "NameOfStation": "Выхино",
+        "Line": "Таганско-Краснопресненская линия",
+        "LongitudeWGS84": "37.81860885",
+        "LatitudeWGS84": "55.71545536",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Выхино-Жулебино",
+        "Year": 2021,
+        "Month": "Май",
+        "globalid": 1146052570
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.71878552,
+          55.61087011
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 3,
+        "NameOfStation": "Домодедовская",
+        "Line": "Замоскворецкая линия",
+        "LongitudeWGS84": "37.71878552",
+        "LatitudeWGS84": "55.61087011",
+        "AdmArea": "Южный административный округ",
+        "District": "район Орехово-Борисово Южное",
+        "Year": 2021,
+        "Month": "Май",
+        "globalid": 1146052571
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.79874691,
+          55.80974166
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 4,
+        "NameOfStation": "Щёлковская",
+        "Line": "Арбатско-Покровская линия",
+        "LongitudeWGS84": "37.79874691",
+        "LatitudeWGS84": "55.80974166",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Северное Измайлово",
+        "Year": 2021,
+        "Month": "Май",
+        "globalid": 1146052572
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.73242901,
+          55.70881677
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 5,
+        "NameOfStation": "Текстильщики",
+        "Line": "Таганско-Краснопресненская линия",
+        "LongitudeWGS84": "37.73242901",
+        "LatitudeWGS84": "55.70881677",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Текстильщики",
+        "Year": 2021,
+        "Month": "Май",
+        "globalid": 1146052573
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.50697019,
+          55.61863853
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 6,
+        "NameOfStation": "Тёплый стан",
+        "Line": "Калужско-Рижская линия",
+        "LongitudeWGS84": "37.50697019",
+        "LatitudeWGS84": "55.61863853",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Ясенево",
+        "Year": 2021,
+        "Month": "Май",
+        "globalid": 1146052574
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.66917139,
+          55.62167819
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 7,
+        "NameOfStation": "Царицыно",
+        "Line": "Замоскворецкая линия",
+        "LongitudeWGS84": "37.66917139",
+        "LatitudeWGS84": "55.62167819",
+        "AdmArea": "Южный административный округ",
+        "District": "район Царицыно",
+        "Year": 2021,
+        "Month": "Май",
+        "globalid": 1146052575
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.76640443,
+          55.70549
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 8,
+        "NameOfStation": "Кузьминки",
+        "Line": "Таганско-Краснопресненская линия",
+        "LongitudeWGS84": "37.76640443",
+        "LatitudeWGS84": "55.70549000",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Кузьминки",
+        "Year": 2021,
+        "Month": "Май",
+        "globalid": 1146052576
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.81742514,
+          55.72333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 9,
+        "NameOfStation": "Новогиреево",
+        "Line": "Калининская линия",
+        "LongitudeWGS84": "37.81742514",
+        "LatitudeWGS84": "55.723330",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Вешняки",
+        "Year": 2021,
+        "Month": "Май",
+        "globalid": 1146052577
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.57755224,
+          55.56967951
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 10,
+        "NameOfStation": "Бульвар Дмитрия Донского",
+        "Line": "Серпуховско-Тимирязевская линия",
+        "LongitudeWGS84": "37.57755224",
+        "LatitudeWGS84": "55.56967951",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Северное Бутово",
+        "Year": 2021,
+        "Month": "Май",
+        "globalid": 1146052578
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.65486112,
+          55.77574627
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 1,
+        "NameOfStation": "Комсомольская",
+        "Line": "Кольцевая линия",
+        "LongitudeWGS84": "37.65486112",
+        "LatitudeWGS84": "55.77574627",
+        "AdmArea": "Центральный административный округ",
+        "District": "Красносельский район",
+        "Year": 2021,
+        "Month": "Апрель",
+        "globalid": 1146052631
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.81860885,
+          55.71545536
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 2,
+        "NameOfStation": "Выхино",
+        "Line": "Таганско-Краснопресненская линия",
+        "LongitudeWGS84": "37.81860885",
+        "LatitudeWGS84": "55.71545536",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Выхино-Жулебино",
+        "Year": 2021,
+        "Month": "Апрель",
+        "globalid": 1146052560
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.79874691,
+          55.80974166
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 3,
+        "NameOfStation": "Щёлковская",
+        "Line": "Арбатско-Покровская линия",
+        "LongitudeWGS84": "37.79874691",
+        "LatitudeWGS84": "55.80974166",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Северное Измайлово",
+        "Year": 2021,
+        "Month": "Апрель",
+        "globalid": 1146052561
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.71878552,
+          55.61087011
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 4,
+        "NameOfStation": "Домодедовская",
+        "Line": "Замоскворецкая линия",
+        "LongitudeWGS84": "37.71878552",
+        "LatitudeWGS84": "55.61087011",
+        "AdmArea": "Южный административный округ",
+        "District": "район Орехово-Борисово Южное",
+        "Year": 2021,
+        "Month": "Апрель",
+        "globalid": 1146052562
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.50697019,
+          55.61863853
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 5,
+        "NameOfStation": "Тёплый стан",
+        "Line": "Калужско-Рижская линия",
+        "LongitudeWGS84": "37.50697019",
+        "LatitudeWGS84": "55.61863853",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Ясенево",
+        "Year": 2021,
+        "Month": "Апрель",
+        "globalid": 1146052563
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.81742514,
+          55.72333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 6,
+        "NameOfStation": "Новогиреево",
+        "Line": "Калининская линия",
+        "LongitudeWGS84": "37.81742514",
+        "LatitudeWGS84": "55.723330",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Вешняки",
+        "Year": 2021,
+        "Month": "Апрель",
+        "globalid": 1146052564
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.57755224,
+          55.56967951
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 7,
+        "NameOfStation": "Бульвар Дмитрия Донского",
+        "Line": "Серпуховско-Тимирязевская линия",
+        "LongitudeWGS84": "37.57755224",
+        "LatitudeWGS84": "55.56967951",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Северное Бутово",
+        "Year": 2021,
+        "Month": "Апрель",
+        "globalid": 1146052565
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.66917139,
+          55.62167819
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 8,
+        "NameOfStation": "Царицыно",
+        "Line": "Замоскворецкая линия",
+        "LongitudeWGS84": "37.66917139",
+        "LatitudeWGS84": "55.62167819",
+        "AdmArea": "Южный административный округ",
+        "District": "район Царицыно",
+        "Year": 2021,
+        "Month": "Апрель",
+        "globalid": 1146052566
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.73242901,
+          55.70881677
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 9,
+        "NameOfStation": "Текстильщики",
+        "Line": "Таганско-Краснопресненская линия",
+        "LongitudeWGS84": "37.73242901",
+        "LatitudeWGS84": "55.70881677",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Текстильщики",
+        "Year": 2021,
+        "Month": "Апрель",
+        "globalid": 1146052567
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.76640443,
+          55.70549
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 10,
+        "NameOfStation": "Кузьминки",
+        "Line": "Таганско-Краснопресненская линия",
+        "LongitudeWGS84": "37.76640443",
+        "LatitudeWGS84": "55.70549000",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Кузьминки",
+        "Year": 2021,
+        "Month": "Апрель",
+        "globalid": 1146052568
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.65486112,
+          55.77574627
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 1,
+        "NameOfStation": "Комсомольская",
+        "Line": "Кольцевая линия",
+        "LongitudeWGS84": "37.65486112",
+        "LatitudeWGS84": "55.77574627",
+        "AdmArea": "Центральный административный округ",
+        "District": "Красносельский район",
+        "Year": 2021,
+        "Month": "Март",
+        "globalid": 1146052630
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.81860885,
+          55.71545536
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 2,
+        "NameOfStation": "Выхино",
+        "Line": "Таганско-Краснопресненская линия",
+        "LongitudeWGS84": "37.81860885",
+        "LatitudeWGS84": "55.71545536",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Выхино-Жулебино",
+        "Year": 2021,
+        "Month": "Март",
+        "globalid": 1146052550
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.79874691,
+          55.80974166
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 3,
+        "NameOfStation": "Щёлковская",
+        "Line": "Арбатско-Покровская линия",
+        "LongitudeWGS84": "37.79874691",
+        "LatitudeWGS84": "55.80974166",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Северное Измайлово",
+        "Year": 2021,
+        "Month": "Март",
+        "globalid": 1146052551
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.71878552,
+          55.61087011
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 4,
+        "NameOfStation": "Домодедовская",
+        "Line": "Замоскворецкая линия",
+        "LongitudeWGS84": "37.71878552",
+        "LatitudeWGS84": "55.61087011",
+        "AdmArea": "Южный административный округ",
+        "District": "район Орехово-Борисово Южное",
+        "Year": 2021,
+        "Month": "Март",
+        "globalid": 1146052552
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.81742514,
+          55.72333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 5,
+        "NameOfStation": "Новогиреево",
+        "Line": "Калининская линия",
+        "LongitudeWGS84": "37.81742514",
+        "LatitudeWGS84": "55.723330",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Вешняки",
+        "Year": 2021,
+        "Month": "Март",
+        "globalid": 1146052553
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.57755224,
+          55.56967951
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 6,
+        "NameOfStation": "Бульвар Дмитрия Донского",
+        "Line": "Серпуховско-Тимирязевская линия",
+        "LongitudeWGS84": "37.57755224",
+        "LatitudeWGS84": "55.56967951",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Северное Бутово",
+        "Year": 2021,
+        "Month": "Март",
+        "globalid": 1146052554
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.66917139,
+          55.62167819
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 7,
+        "NameOfStation": "Царицыно",
+        "Line": "Замоскворецкая линия",
+        "LongitudeWGS84": "37.66917139",
+        "LatitudeWGS84": "55.62167819",
+        "AdmArea": "Южный административный округ",
+        "District": "район Царицыно",
+        "Year": 2021,
+        "Month": "Март",
+        "globalid": 1146052555
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.86427956,
+          55.74511606
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 8,
+        "NameOfStation": "Новокосино",
+        "Line": "Калининская линия",
+        "LongitudeWGS84": "37.86427956",
+        "LatitudeWGS84": "55.74511606",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Новокосино",
+        "Year": 2021,
+        "Month": "Март",
+        "globalid": 1146052556
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.73242901,
+          55.70881677
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 9,
+        "NameOfStation": "Текстильщики",
+        "Line": "Таганско-Краснопресненская линия",
+        "LongitudeWGS84": "37.73242901",
+        "LatitudeWGS84": "55.70881677",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Текстильщики",
+        "Year": 2021,
+        "Month": "Март",
+        "globalid": 1146052557
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.66426861,
+          55.67841547
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 10,
+        "NameOfStation": "Коломенская",
+        "Line": "Замоскворецкая линия",
+        "LongitudeWGS84": "37.66426861",
+        "LatitudeWGS84": "55.67841547",
+        "AdmArea": "Южный административный округ",
+        "District": "район Нагатинский Затон",
+        "Year": 2021,
+        "Month": "Март",
+        "globalid": 1146052558
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.65486112,
+          55.77574627
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 1,
+        "NameOfStation": "Комсомольская",
+        "Line": "Кольцевая линия",
+        "LongitudeWGS84": "37.65486112",
+        "LatitudeWGS84": "55.77574627",
+        "AdmArea": "Центральный административный округ",
+        "District": "Красносельский район",
+        "Year": 2021,
+        "Month": "Февраль",
+        "globalid": 1146052628
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.81860885,
+          55.71545536
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 2,
+        "NameOfStation": "Выхино",
+        "Line": "Таганско-Краснопресненская линия",
+        "LongitudeWGS84": "37.81860885",
+        "LatitudeWGS84": "55.71545536",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Выхино-Жулебино",
+        "Year": 2021,
+        "Month": "Февраль",
+        "globalid": 1146052540
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.79874691,
+          55.80974166
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 3,
+        "NameOfStation": "Щёлковская",
+        "Line": "Арбатско-Покровская линия",
+        "LongitudeWGS84": "37.79874691",
+        "LatitudeWGS84": "55.80974166",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Северное Измайлово",
+        "Year": 2021,
+        "Month": "Февраль",
+        "globalid": 1146052541
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.81742514,
+          55.72333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 4,
+        "NameOfStation": "Новогиреево",
+        "Line": "Калининская линия",
+        "LongitudeWGS84": "37.81742514",
+        "LatitudeWGS84": "55.723330",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Вешняки",
+        "Year": 2021,
+        "Month": "Февраль",
+        "globalid": 1146052542
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.57755224,
+          55.56967951
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 5,
+        "NameOfStation": "Бульвар Дмитрия Донского",
+        "Line": "Серпуховско-Тимирязевская линия",
+        "LongitudeWGS84": "37.57755224",
+        "LatitudeWGS84": "55.56967951",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Северное Бутово",
+        "Year": 2021,
+        "Month": "Февраль",
+        "globalid": 1146052543
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.86427956,
+          55.74511606
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 6,
+        "NameOfStation": "Новокосино",
+        "Line": "Калининская линия",
+        "LongitudeWGS84": "37.86427956",
+        "LatitudeWGS84": "55.74511606",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Новокосино",
+        "Year": 2021,
+        "Month": "Февраль",
+        "globalid": 1146052544
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.66917139,
+          55.62167819
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 7,
+        "NameOfStation": "Царицыно",
+        "Line": "Замоскворецкая линия",
+        "LongitudeWGS84": "37.66917139",
+        "LatitudeWGS84": "55.62167819",
+        "AdmArea": "Южный административный округ",
+        "District": "район Царицыно",
+        "Year": 2021,
+        "Month": "Февраль",
+        "globalid": 1146052545
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.71878552,
+          55.61087011
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 8,
+        "NameOfStation": "Домодедовская",
+        "Line": "Замоскворецкая линия",
+        "LongitudeWGS84": "37.71878552",
+        "LatitudeWGS84": "55.61087011",
+        "AdmArea": "Южный административный округ",
+        "District": "район Орехово-Борисово Южное",
+        "Year": 2021,
+        "Month": "Февраль",
+        "globalid": 1146052546
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.73242901,
+          55.70881677
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 9,
+        "NameOfStation": "Текстильщики",
+        "Line": "Таганско-Краснопресненская линия",
+        "LongitudeWGS84": "37.73242901",
+        "LatitudeWGS84": "55.70881677",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Текстильщики",
+        "Year": 2021,
+        "Month": "Февраль",
+        "globalid": 1146052547
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.76640443,
+          55.70549
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 10,
+        "NameOfStation": "Кузьминки",
+        "Line": "Таганско-Краснопресненская линия",
+        "LongitudeWGS84": "37.76640443",
+        "LatitudeWGS84": "55.70549000",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Кузьминки",
+        "Year": 2021,
+        "Month": "Февраль",
+        "globalid": 1146052548
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.65486112,
+          55.77574627
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 1,
+        "NameOfStation": "Комсомольская",
+        "Line": "Кольцевая линия",
+        "LongitudeWGS84": "37.65486112",
+        "LatitudeWGS84": "55.77574627",
+        "AdmArea": "Центральный административный округ",
+        "District": "Красносельский район",
+        "Year": 2021,
+        "Month": "Январь",
+        "globalid": 1146052610
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.81860885,
+          55.71545536
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 2,
+        "NameOfStation": "Выхино",
+        "Line": "Таганско-Краснопресненская линия",
+        "LongitudeWGS84": "37.81860885",
+        "LatitudeWGS84": "55.71545536",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Выхино-Жулебино",
+        "Year": 2021,
+        "Month": "Январь",
+        "globalid": 1146052530
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.79874691,
+          55.80974166
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 3,
+        "NameOfStation": "Щёлковская",
+        "Line": "Арбатско-Покровская линия",
+        "LongitudeWGS84": "37.79874691",
+        "LatitudeWGS84": "55.80974166",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Северное Измайлово",
+        "Year": 2021,
+        "Month": "Январь",
+        "globalid": 1146052531
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.57755224,
+          55.56967951
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 4,
+        "NameOfStation": "Бульвар Дмитрия Донского",
+        "Line": "Серпуховско-Тимирязевская линия",
+        "LongitudeWGS84": "37.57755224",
+        "LatitudeWGS84": "55.56967951",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Северное Бутово",
+        "Year": 2021,
+        "Month": "Январь",
+        "globalid": 1146052532
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.71878552,
+          55.61087011
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 5,
+        "NameOfStation": "Домодедовская",
+        "Line": "Замоскворецкая линия",
+        "LongitudeWGS84": "37.71878552",
+        "LatitudeWGS84": "55.61087011",
+        "AdmArea": "Южный административный округ",
+        "District": "район Орехово-Борисово Южное",
+        "Year": 2021,
+        "Month": "Январь",
+        "globalid": 1146052533
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.81742514,
+          55.72333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 6,
+        "NameOfStation": "Новогиреево",
+        "Line": "Калининская линия",
+        "LongitudeWGS84": "37.81742514",
+        "LatitudeWGS84": "55.723330",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Вешняки",
+        "Year": 2021,
+        "Month": "Январь",
+        "globalid": 1146052534
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.86427956,
+          55.74511606
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 7,
+        "NameOfStation": "Новокосино",
+        "Line": "Калининская линия",
+        "LongitudeWGS84": "37.86427956",
+        "LatitudeWGS84": "55.74511606",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Новокосино",
+        "Year": 2021,
+        "Month": "Январь",
+        "globalid": 1146052535
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.66917139,
+          55.62167819
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 8,
+        "NameOfStation": "Царицыно",
+        "Line": "Замоскворецкая линия",
+        "LongitudeWGS84": "37.66917139",
+        "LatitudeWGS84": "55.62167819",
+        "AdmArea": "Южный административный округ",
+        "District": "район Царицыно",
+        "Year": 2021,
+        "Month": "Январь",
+        "globalid": 1146052536
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.73242901,
+          55.70881677
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 9,
+        "NameOfStation": "Текстильщики",
+        "Line": "Таганско-Краснопресненская линия",
+        "LongitudeWGS84": "37.73242901",
+        "LatitudeWGS84": "55.70881677",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Текстильщики",
+        "Year": 2021,
+        "Month": "Январь",
+        "globalid": 1146052537
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.43716386,
+          55.8264244
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 10,
+        "NameOfStation": "Тушинская",
+        "Line": "Таганско-Краснопресненская линия",
+        "LongitudeWGS84": "37.43716386",
+        "LatitudeWGS84": "55.82642440",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Покровское-Стрешнево",
+        "Year": 2021,
+        "Month": "Январь",
+        "globalid": 1146052538
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.65486112,
+          55.77574627
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 1,
+        "NameOfStation": "Комсомольская",
+        "Line": "Кольцевая линия",
+        "LongitudeWGS84": "37.65486112",
+        "LatitudeWGS84": "55.77574627",
+        "AdmArea": "Центральный административный округ",
+        "District": "Красносельский район",
+        "Year": 2021,
+        "Month": "Декабрь",
+        "globalid": 1304122819
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.81860885,
+          55.71545536
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 2,
+        "NameOfStation": "Выхино",
+        "Line": "Таганско-Краснопресненская линия",
+        "LongitudeWGS84": "37.81860885",
+        "LatitudeWGS84": "55.71545536",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Выхино-Жулебино",
+        "Year": 2021,
+        "Month": "Декабрь",
+        "globalid": 1304347427
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.50697019,
+          55.61863853
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 3,
+        "NameOfStation": "Тёплый стан",
+        "Line": "Калужско-Рижская линия",
+        "LongitudeWGS84": "37.50697019",
+        "LatitudeWGS84": "55.61863853",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Ясенево",
+        "Year": 2021,
+        "Month": "Декабрь",
+        "globalid": 1306313995
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.71878552,
+          55.61087011
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 4,
+        "NameOfStation": "Домодедовская",
+        "Line": "Замоскворецкая линия",
+        "LongitudeWGS84": "37.71878552",
+        "LatitudeWGS84": "55.61087011",
+        "AdmArea": "Южный административный округ",
+        "District": "район Орехово-Борисово Южное",
+        "Year": 2021,
+        "Month": "Декабрь",
+        "globalid": 1306593324
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.79874691,
+          55.80974166
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 5,
+        "NameOfStation": "Щёлковская",
+        "Line": "Арбатско-Покровская линия",
+        "LongitudeWGS84": "37.79874691",
+        "LatitudeWGS84": "55.80974166",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Северное Измайлово",
+        "Year": 2021,
+        "Month": "Декабрь",
+        "globalid": 1306901341
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.57755224,
+          55.56967951
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 6,
+        "NameOfStation": "Бульвар Дмитрия Донского",
+        "Line": "Серпуховско-Тимирязевская линия",
+        "LongitudeWGS84": "37.57755224",
+        "LatitudeWGS84": "55.56967951",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Северное Бутово",
+        "Year": 2021,
+        "Month": "Декабрь",
+        "globalid": 1307242048
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.66917139,
+          55.62167819
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 7,
+        "NameOfStation": "Царицыно",
+        "Line": "Замоскворецкая линия",
+        "LongitudeWGS84": "37.66917139",
+        "LatitudeWGS84": "55.62167819",
+        "AdmArea": "Южный административный округ",
+        "District": "район Царицыно",
+        "Year": 2021,
+        "Month": "Декабрь",
+        "globalid": 1307449449
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.81742514,
+          55.72333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 8,
+        "NameOfStation": "Новогиреево",
+        "Line": "Калининская линия",
+        "LongitudeWGS84": "37.81742514",
+        "LatitudeWGS84": "55.723330",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Вешняки",
+        "Year": 2021,
+        "Month": "Декабрь",
+        "globalid": 1307562540
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.63353147,
+          55.7532979
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 9,
+        "NameOfStation": "Китай-город",
+        "Line": "Калужско-Рижская линия",
+        "LongitudeWGS84": "37.63353147",
+        "LatitudeWGS84": "55.75329790",
+        "AdmArea": "Центральный административный округ",
+        "District": "Таганский район",
+        "Year": 2021,
+        "Month": "Декабрь",
+        "globalid": 1307652484
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.64142125,
+          55.82118628
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 10,
+        "NameOfStation": "ВДНХ",
+        "Line": "Калужско-Рижская линия",
+        "LongitudeWGS84": "37.64142125",
+        "LatitudeWGS84": "55.82118628",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Останкинский район",
+        "Year": 2021,
+        "Month": "Декабрь",
+        "globalid": 1307772883
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.65486112,
+          55.77574627
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 1,
+        "NameOfStation": "Комсомольская",
+        "Line": "Кольцевая линия",
+        "LongitudeWGS84": "37.65486112",
+        "LatitudeWGS84": "55.77574627",
+        "AdmArea": "Центральный административный округ",
+        "District": "Красносельский район",
+        "Year": 2021,
+        "Month": "Ноябрь",
+        "globalid": 1266370699
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.81860885,
+          55.71545536
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 2,
+        "NameOfStation": "Выхино",
+        "Line": "Таганско-Краснопресненская линия",
+        "LongitudeWGS84": "37.81860885",
+        "LatitudeWGS84": "55.71545536",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Выхино-Жулебино",
+        "Year": 2021,
+        "Month": "Ноябрь",
+        "globalid": 1266370635
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.79874691,
+          55.80974166
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 3,
+        "NameOfStation": "Щёлковская",
+        "Line": "Арбатско-Покровская линия",
+        "LongitudeWGS84": "37.79874691",
+        "LatitudeWGS84": "55.80974166",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Северное Измайлово",
+        "Year": 2021,
+        "Month": "Ноябрь",
+        "globalid": 1266370636
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.71878552,
+          55.61087011
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 4,
+        "NameOfStation": "Домодедовская",
+        "Line": "Замоскворецкая линия",
+        "LongitudeWGS84": "37.71878552",
+        "LatitudeWGS84": "55.61087011",
+        "AdmArea": "Южный административный округ",
+        "District": "район Орехово-Борисово Южное",
+        "Year": 2021,
+        "Month": "Ноябрь",
+        "globalid": 1266370637
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.57755224,
+          55.56967951
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 5,
+        "NameOfStation": "Бульвар Дмитрия Донского",
+        "Line": "Серпуховско-Тимирязевская линия",
+        "LongitudeWGS84": "37.57755224",
+        "LatitudeWGS84": "55.56967951",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Северное Бутово",
+        "Year": 2021,
+        "Month": "Ноябрь",
+        "globalid": 1266370638
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.81742514,
+          55.72333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 6,
+        "NameOfStation": "Новогиреево",
+        "Line": "Калининская линия",
+        "LongitudeWGS84": "37.81742514",
+        "LatitudeWGS84": "55.723330",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Вешняки",
+        "Year": 2021,
+        "Month": "Ноябрь",
+        "globalid": 1266370639
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.66917139,
+          55.62167819
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 7,
+        "NameOfStation": "Царицыно",
+        "Line": "Замоскворецкая линия",
+        "LongitudeWGS84": "37.66917139",
+        "LatitudeWGS84": "55.62167819",
+        "AdmArea": "Южный административный округ",
+        "District": "район Царицыно",
+        "Year": 2021,
+        "Month": "Ноябрь",
+        "globalid": 1266370640
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.50697019,
+          55.61863853
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 8,
+        "NameOfStation": "Тёплый стан",
+        "Line": "Калужско-Рижская линия",
+        "LongitudeWGS84": "37.50697019",
+        "LatitudeWGS84": "55.61863853",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Ясенево",
+        "Year": 2021,
+        "Month": "Ноябрь",
+        "globalid": 1266370641
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.86379572,
+          55.74507473
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 9,
+        "NameOfStation": "Новокосино",
+        "Line": "Калининская линия",
+        "LongitudeWGS84": "37.86379572",
+        "LatitudeWGS84": "55.74507473",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Новокосино",
+        "Year": 2021,
+        "Month": "Ноябрь",
+        "globalid": 1266370643
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.73242901,
+          55.70881677
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 10,
+        "NameOfStation": "Текстильщики",
+        "Line": "Таганско-Краснопресненская линия",
+        "LongitudeWGS84": "37.73242901",
+        "LatitudeWGS84": "55.70881677",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Текстильщики",
+        "Year": 2021,
+        "Month": "Ноябрь",
+        "globalid": 1266370644
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.65486112,
+          55.77574627
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 1,
+        "NameOfStation": "Комсомольская",
+        "Line": "Кольцевая линия",
+        "LongitudeWGS84": "37.65486112",
+        "LatitudeWGS84": "55.77574627",
+        "AdmArea": "Центральный административный округ",
+        "District": "Красносельский район",
+        "Year": 2021,
+        "Month": "Октябрь",
+        "globalid": 1263038034
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.81860885,
+          55.71545536
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 2,
+        "NameOfStation": "Выхино",
+        "Line": "Таганско-Краснопресненская линия",
+        "LongitudeWGS84": "37.81860885",
+        "LatitudeWGS84": "55.71545536",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Выхино-Жулебино",
+        "Year": 2021,
+        "Month": "Октябрь",
+        "globalid": 1263038072
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.79874691,
+          55.80974166
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 3,
+        "NameOfStation": "Щёлковская",
+        "Line": "Арбатско-Покровская линия",
+        "LongitudeWGS84": "37.79874691",
+        "LatitudeWGS84": "55.80974166",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Северное Измайлово",
+        "Year": 2021,
+        "Month": "Октябрь",
+        "globalid": 1263038169
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.50697019,
+          55.61863853
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 4,
+        "NameOfStation": "Тёплый стан",
+        "Line": "Калужско-Рижская линия",
+        "LongitudeWGS84": "37.50697019",
+        "LatitudeWGS84": "55.61863853",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Ясенево",
+        "Year": 2021,
+        "Month": "Октябрь",
+        "globalid": 1263038216
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.71878552,
+          55.61087011
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 5,
+        "NameOfStation": "Домодедовская",
+        "Line": "Замоскворецкая линия",
+        "LongitudeWGS84": "37.71878552",
+        "LatitudeWGS84": "55.61087011",
+        "AdmArea": "Южный административный округ",
+        "District": "район Орехово-Борисово Южное",
+        "Year": 2021,
+        "Month": "Октябрь",
+        "globalid": 1263038366
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.81742514,
+          55.72333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 6,
+        "NameOfStation": "Новогиреево",
+        "Line": "Калининская линия",
+        "LongitudeWGS84": "37.81742514",
+        "LatitudeWGS84": "55.723330",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Вешняки",
+        "Year": 2021,
+        "Month": "Октябрь",
+        "globalid": 1263038621
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.66917139,
+          55.62167819
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 7,
+        "NameOfStation": "Царицыно",
+        "Line": "Замоскворецкая линия",
+        "LongitudeWGS84": "37.66917139",
+        "LatitudeWGS84": "55.62167819",
+        "AdmArea": "Южный административный округ",
+        "District": "район Царицыно",
+        "Year": 2021,
+        "Month": "Октябрь",
+        "globalid": 1263038792
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.57755224,
+          55.56967951
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 8,
+        "NameOfStation": "Бульвар Дмитрия Донского",
+        "Line": "Серпуховско-Тимирязевская линия",
+        "LongitudeWGS84": "37.57755224",
+        "LatitudeWGS84": "55.56967951",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Северное Бутово",
+        "Year": 2021,
+        "Month": "Октябрь",
+        "globalid": 1263038830
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.66012112,
+          55.75745656
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 9,
+        "NameOfStation": "Курская",
+        "Line": "Кольцевая линия",
+        "LongitudeWGS84": "37.66012112",
+        "LatitudeWGS84": "55.75745656",
+        "AdmArea": "Центральный административный округ",
+        "District": "Басманный район",
+        "Year": 2021,
+        "Month": "Октябрь",
+        "globalid": 1263039617
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.73242901,
+          55.70881677
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 10,
+        "NameOfStation": "Текстильщики",
+        "Line": "Таганско-Краснопресненская линия",
+        "LongitudeWGS84": "37.73242901",
+        "LatitudeWGS84": "55.70881677",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Текстильщики",
+        "Year": 2021,
+        "Month": "Октябрь",
+        "globalid": 1263039858
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.65486112,
+          55.77574627
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 1,
+        "NameOfStation": "Комсомольская",
+        "Line": "Кольцевая линия",
+        "LongitudeWGS84": "37.65486112",
+        "LatitudeWGS84": "55.77574627",
+        "AdmArea": "Центральный административный округ",
+        "District": "Красносельский район",
+        "Year": 2021,
+        "Month": "Сентябрь",
+        "globalid": 1146349054
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.81860885,
+          55.71545536
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 2,
+        "NameOfStation": "Выхино",
+        "Line": "Таганско-Краснопресненская линия",
+        "LongitudeWGS84": "37.81860885",
+        "LatitudeWGS84": "55.71545536",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Выхино-Жулебино",
+        "Year": 2021,
+        "Month": "Сентябрь",
+        "globalid": 1146349072
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.79874691,
+          55.80974166
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 3,
+        "NameOfStation": "Щёлковская",
+        "Line": "Арбатско-Покровская линия",
+        "LongitudeWGS84": "37.79874691",
+        "LatitudeWGS84": "55.80974166",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Северное Измайлово",
+        "Year": 2021,
+        "Month": "Сентябрь",
+        "globalid": 1146349092
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.71878552,
+          55.61087011
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 4,
+        "NameOfStation": "Домодедовская",
+        "Line": "Замоскворецкая линия",
+        "LongitudeWGS84": "37.71878552",
+        "LatitudeWGS84": "55.61087011",
+        "AdmArea": "Южный административный округ",
+        "District": "район Орехово-Борисово Южное",
+        "Year": 2021,
+        "Month": "Сентябрь",
+        "globalid": 1146363528
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.50697019,
+          55.61863853
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 5,
+        "NameOfStation": "Тёплый стан",
+        "Line": "Калужско-Рижская линия",
+        "LongitudeWGS84": "37.50697019",
+        "LatitudeWGS84": "55.61863853",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Ясенево",
+        "Year": 2021,
+        "Month": "Сентябрь",
+        "globalid": 1146363612
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.81742514,
+          55.72333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 6,
+        "NameOfStation": "Новогиреево",
+        "Line": "Калининская линия",
+        "LongitudeWGS84": "37.81742514",
+        "LatitudeWGS84": "55.723330",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Вешняки",
+        "Year": 2021,
+        "Month": "Сентябрь",
+        "globalid": 1146363699
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.66917139,
+          55.62167819
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 7,
+        "NameOfStation": "Царицыно",
+        "Line": "Замоскворецкая линия",
+        "LongitudeWGS84": "37.66917139",
+        "LatitudeWGS84": "55.62167819",
+        "AdmArea": "Южный административный округ",
+        "District": "район Царицыно",
+        "Year": 2021,
+        "Month": "Сентябрь",
+        "globalid": 1146363719
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.57755224,
+          55.56967951
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 8,
+        "NameOfStation": "Бульвар Дмитрия Донского",
+        "Line": "Серпуховско-Тимирязевская линия",
+        "LongitudeWGS84": "37.57755224",
+        "LatitudeWGS84": "55.56967951",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Северное Бутово",
+        "Year": 2021,
+        "Month": "Сентябрь",
+        "globalid": 1146363738
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.66012112,
+          55.75745656
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 9,
+        "NameOfStation": "Курская",
+        "Line": "Кольцевая линия",
+        "LongitudeWGS84": "37.66012112",
+        "LatitudeWGS84": "55.75745656",
+        "AdmArea": "Центральный административный округ",
+        "District": "Басманный район",
+        "Year": 2021,
+        "Month": "Сентябрь",
+        "globalid": 1146363750
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.86379572,
+          55.74507473
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 10,
+        "NameOfStation": "Новокосино",
+        "Line": "Калининская линия",
+        "LongitudeWGS84": "37.86379572",
+        "LatitudeWGS84": "55.74507473",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Новокосино",
+        "Year": 2021,
+        "Month": "Сентябрь",
+        "globalid": 1146363840
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.65486112,
+          55.77574627
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 1,
+        "NameOfStation": "Комсомольская",
+        "Line": "Кольцевая линия",
+        "LongitudeWGS84": "37.65486112",
+        "LatitudeWGS84": "55.77574627",
+        "AdmArea": "Центральный административный округ",
+        "District": "Красносельский район",
+        "Year": 2021,
+        "Month": "Август",
+        "globalid": 1146052636
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.81860885,
+          55.71545536
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 2,
+        "NameOfStation": "Выхино",
+        "Line": "Таганско-Краснопресненская линия",
+        "LongitudeWGS84": "37.81860885",
+        "LatitudeWGS84": "55.71545536",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Выхино-Жулебино",
+        "Year": 2021,
+        "Month": "Август",
+        "globalid": 1146052600
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.50697019,
+          55.61863853
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 3,
+        "NameOfStation": "Тёплый стан",
+        "Line": "Калужско-Рижская линия",
+        "LongitudeWGS84": "37.50697019",
+        "LatitudeWGS84": "55.61863853",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Ясенево",
+        "Year": 2021,
+        "Month": "Август",
+        "globalid": 1146052601
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.71878552,
+          55.61087011
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 4,
+        "NameOfStation": "Домодедовская",
+        "Line": "Замоскворецкая линия",
+        "LongitudeWGS84": "37.71878552",
+        "LatitudeWGS84": "55.61087011",
+        "AdmArea": "Южный административный округ",
+        "District": "район Орехово-Борисово Южное",
+        "Year": 2021,
+        "Month": "Август",
+        "globalid": 1146052602
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.79874691,
+          55.80974166
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 5,
+        "NameOfStation": "Щёлковская",
+        "Line": "Арбатско-Покровская линия",
+        "LongitudeWGS84": "37.79874691",
+        "LatitudeWGS84": "55.80974166",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Северное Измайлово",
+        "Year": 2021,
+        "Month": "Август",
+        "globalid": 1146052603
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.66917139,
+          55.62167819
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 6,
+        "NameOfStation": "Царицыно",
+        "Line": "Замоскворецкая линия",
+        "LongitudeWGS84": "37.66917139",
+        "LatitudeWGS84": "55.62167819",
+        "AdmArea": "Южный административный округ",
+        "District": "район Царицыно",
+        "Year": 2021,
+        "Month": "Август",
+        "globalid": 1146052604
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.81742514,
+          55.72333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 7,
+        "NameOfStation": "Новогиреево",
+        "Line": "Калининская линия",
+        "LongitudeWGS84": "37.81742514",
+        "LatitudeWGS84": "55.723330",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Вешняки",
+        "Year": 2021,
+        "Month": "Август",
+        "globalid": 1146052605
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.57755224,
+          55.56967951
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 8,
+        "NameOfStation": "Бульвар Дмитрия Донского",
+        "Line": "Серпуховско-Тимирязевская линия",
+        "LongitudeWGS84": "37.57755224",
+        "LatitudeWGS84": "55.56967951",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Северное Бутово",
+        "Year": 2021,
+        "Month": "Август",
+        "globalid": 1146052606
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.73242901,
+          55.70881677
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 9,
+        "NameOfStation": "Текстильщики",
+        "Line": "Таганско-Краснопресненская линия",
+        "LongitudeWGS84": "37.73242901",
+        "LatitudeWGS84": "55.70881677",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Текстильщики",
+        "Year": 2021,
+        "Month": "Август",
+        "globalid": 1146052607
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.64142125,
+          55.82118628
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Id": 10,
+        "NameOfStation": "ВДНХ",
+        "Line": "Калужско-Рижская линия",
+        "LongitudeWGS84": "37.64142125",
+        "LatitudeWGS84": "55.82118628",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Останкинский район",
+        "Year": 2021,
+        "Month": "Август",
+        "globalid": 1146052608
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

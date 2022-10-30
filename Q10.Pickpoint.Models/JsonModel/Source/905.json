@@ -1,0 +1,257 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.7520186339286,
+          55.7854336283225
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectName": "Парк (озелененная городская территория) «Измайловский Парк»",
+        "NameSummer": "детский досугово-познавательный центр «Светлячок»",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Измайлово",
+        "Address": "аллея Большого Круга, дом 7",
+        "Email": "izmpark@mail.ru",
+        "WebSite": "izmailovsky-park.ru",
+        "HelpPhone": "(499) 166-61-19",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "EquipmentRentalComments": "",
+        "HasTechService": "да",
+        "TechServiceComments": "",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.01-31.12",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "PaidComments": "30, 100 и 500 рублей за вид услуги",
+        "DisabilityFriendly": "частично приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 613073516
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6076652598233,
+          55.7697932295006
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectName": "Государственное автономное учреждение культуры города Москвы «Московский городской сад «Эрмитаж»",
+        "NameSummer": "детский развивающий центр",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "улица Каретный Ряд, дом 3, строение 7",
+        "Email": "info@mosgorsad.ru",
+        "WebSite": "mosgorsad.ru",
+        "HelpPhone": "(495) 699-08-49",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "EquipmentRentalComments": "",
+        "HasTechService": "да",
+        "TechServiceComments": "",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "да",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.01-31.12",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "деревянное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "PaidComments": "",
+        "DisabilityFriendly": "частично приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 613073613
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7773874269841,
+          55.7418940858102
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectName": "Парк, озелененная городская территория «Перовский»",
+        "NameSummer": "детский развивающий центр, «Крошка енот»",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Перово",
+        "Address": "улица Лазо, дом 7",
+        "Email": "ppkio@mail.ru",
+        "WebSite": "www.perovskiy-park.ru",
+        "HelpPhone": "(495) 309-53-42",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "EquipmentRentalComments": "",
+        "HasTechService": "да",
+        "TechServiceComments": "",
+        "HasDressingRoom": "нет",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.01-31.12",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "деревянное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "PaidComments": "",
+        "DisabilityFriendly": "частично приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 613303011
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5301717237291,
+          55.7901304475075
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectName": "Комплекс спортивных сооружений «ТЦ «Авиапарк»",
+        "NameSummer": "детский развивающий центр «РОМА»",
+        "AdmArea": "Северный административный округ",
+        "District": "Хорошёвский район",
+        "Address": "улица Авиаконструктора Микояна, дом 10А, строение 1",
+        "Email": "SMM@aviapark.com",
+        "WebSite": "aviapark.com",
+        "HelpPhone": "(495) 644-45-44",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "EquipmentRentalComments": "",
+        "HasTechService": "нет",
+        "TechServiceComments": "",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.01-31.12",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "PaidComments": "",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 863636890
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.3484388884196,
+          55.6522472939187
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectName": "Фитнес-клуб «Магнето Фитнесс»",
+        "NameSummer": "детский развивающий центр",
+        "AdmArea": "Западный административный округ",
+        "District": "район Ново-Переделкино",
+        "Address": "6-я улица Новые Сады, дом 2, корпус 1",
+        "Email": "manager@magneto.fit",
+        "WebSite": "peredelkino.magneto.fit/",
+        "HelpPhone": "(495) 500-01-01",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "EquipmentRentalComments": "",
+        "HasTechService": "нет",
+        "TechServiceComments": "",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "да",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.09-31.08",
+        "Lighting": "освещение светодиодными лампами",
+        "SurfaceTypeSummer": "деревянное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "PaidComments": "",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 904463012
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.45258464067,
+          55.8527834349343
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectName": "Парк, озелененная городская территория «Северное Тушино»",
+        "NameSummer": "Клуб развития и творчества.",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Северное Тушино",
+        "Address": "улица Свободы, дом 52",
+        "Email": "info@mosparks.ru",
+        "WebSite": "mosparks.ru/",
+        "HelpPhone": "(495) 640-73-55",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "EquipmentRentalComments": "",
+        "HasTechService": "да",
+        "TechServiceComments": "",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.01-31.12",
+        "Lighting": "освещение светодиодными лампами",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "PaidComments": "",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1047342205
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

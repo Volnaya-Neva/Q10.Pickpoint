@@ -1,0 +1,5330 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.6454913087962,
+          55.6828125073024
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Гостиница «Иван Чай»",
+        "AdmArea": "Южный административный округ",
+        "District": "район Нагатино-Садовники",
+        "Address": "город Москва, Нагатинская набережная, дом 10, корпус 3",
+        "FullAvailable": "нет",
+        "Availableo": "да",
+        "Availablez": "да",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 896019231
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.585950832312,
+          55.8520881965054
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Гостиница «Владыкино»",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Отрадное",
+        "Address": "город Москва, Алтуфьевское шоссе, дом 6",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "да",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 896019404
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7361223174312,
+          55.7050601330288
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Гостиница «Москвич»",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Текстильщики",
+        "Address": "город Москва, 11-я улица Текстильщиков, дом 1",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "да",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 896019799
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5614120538239,
+          55.80449321421
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Гостиница «Брайтон»",
+        "AdmArea": "Северный административный округ",
+        "District": "Савёловский район",
+        "Address": "город Москва, Петровско-Разумовский проезд, дом 29, строение 4",
+        "FullAvailable": "нет",
+        "Availableo": "да",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 896019831
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5879785994825,
+          55.8760433750075
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Гостиница «Полярис»",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Алтуфьевский район",
+        "Address": "город Москва, Алтуфьевское шоссе, дом 48, корпус 1",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 896020153
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7913035320015,
+          55.7157596114105
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Гостиница «МосУзцентр»",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Кузьминки",
+        "Address": "город Москва, Зеленодольская улица, дом 3, корпус 2",
+        "FullAvailable": "нет",
+        "Availableo": "да",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "да",
+        "PresenceParking": "да",
+        "PresenceWC": "да",
+        "PresenceRoom": "нет",
+        "globalid": 896029633
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7330283006562,
+          55.6737055439093
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Отель «Николь»",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Люблино",
+        "Address": "город Москва, Егорьевская улица, дом 21",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 896029793
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.3834769292087,
+          55.8442415649569
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Гостиница «Митино»",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Митино",
+        "Address": "город Москва, Пятницкое шоссе, дом 18",
+        "FullAvailable": "нет",
+        "Availableo": "да",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 896029837
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5037175045646,
+          55.6762937858089
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Гостиница «Комета»",
+        "AdmArea": "Западный административный округ",
+        "District": "район Проспект Вернадского",
+        "Address": "город Москва, проспект Вернадского, дом 16",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 896029849
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6372818455201,
+          55.7246114181605
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Гостиница «ВАЛС»",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Замоскворечье",
+        "Address": "город Москва, Дубининская улица, дом 35",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 896029876
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5636180150191,
+          55.7252810007522
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Гостиница «Арена»",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Хамовники",
+        "Address": "город Москва, улица 10-летия Октября, дом 11",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 896029898
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4968496512235,
+          55.6571617349441
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Отель «Astrus»",
+        "AdmArea": "Западный административный округ",
+        "District": "район Тропарёво-Никулино",
+        "Address": "город Москва, Ленинский проспект, дом 146",
+        "FullAvailable": "да",
+        "Availableo": "да",
+        "Availablez": "да",
+        "Availables": "да",
+        "Availablek": "да",
+        "PresenceParking": "да",
+        "PresenceWC": "да",
+        "PresenceRoom": "да",
+        "globalid": 896030169
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.8006790686993,
+          55.7974093234107
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Гостиница «Мастер-отель Первомайская»",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Измайлово",
+        "Address": "город Москва, Измайловский бульвар, дом 49",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 896030356
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6793620422521,
+          55.7008573297873
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Гостиница «Южный Порт»",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "Южнопортовый район",
+        "Address": "город Москва, 2-й Южнопортовый проезд, дом 5, корпус 1",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 896030374
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.8418583610677,
+          55.7044526236387
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Отель «Мистер Жулебин»",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Выхино-Жулебино",
+        "Address": "город Москва, Привольная улица, дом 2, строение 1",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "да",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 896030391
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7130717215163,
+          55.7356662737816
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Гостиница «На Смирновской 25»",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "Нижегородский район",
+        "Address": "город Москва, Смирновская улица, дом 25, строение 4",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 896031485
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.3562324926875,
+          55.8510151593421
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Отель «Фортуна» (Митино)",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Митино",
+        "Address": "город Москва, Митинская улица, дом 48, корпус 1",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 896031535
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4869256411444,
+          55.7701489952036
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Отель «Фортуна» (Полежаевская)",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Хорошёво-Мнёвники",
+        "Address": "город Москва, улица Демьяна Бедного, дом 4",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 896032150
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4067246199353,
+          55.8389025724347
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Гостиница «Гостиный дом»",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Южное Тушино",
+        "Address": "город Москва, улица Василия Петушкова, дом 25",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 896032580
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6664512597502,
+          55.7715861738729
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Гостиница «Столичная»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Басманный район",
+        "Address": "город Москва, Новорязанская улица, дом 26, строение 1",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 896033057
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.652663189919,
+          55.7037976707446
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Отель «Best Seasons»",
+        "AdmArea": "Южный административный округ",
+        "District": "Даниловский район",
+        "Address": "город Москва, Автозаводская улица, дом 19, корпус 1",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 896033460
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.660736616239,
+          55.6872805618455
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Отель «Галерея Вояж»",
+        "AdmArea": "Южный административный округ",
+        "District": "Даниловский район",
+        "Address": "город Москва, Автозаводская улица, дом 23, строение 16",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 896033507
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5969087227367,
+          55.7668790883123
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Отель «Дом на Маяковке»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "Address": "город Москва, Большая Садовая улица, дом 14, строение 6",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 896341920
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6425420313494,
+          55.6464151775547
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Отель «ДЕКО»",
+        "AdmArea": "Южный административный округ",
+        "District": "район Москворечье-Сабурово",
+        "Address": "город Москва, Котляковская улица, дом 9, строение 3",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 896341930
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.3877021266769,
+          55.7196197649798
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Отель «Лайт на Барвихинской»",
+        "AdmArea": "Западный административный округ",
+        "District": "Можайский район",
+        "Address": "город Москва, Барвихинская улица, дом 16, корпус 3",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 896342005
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5986903922804,
+          55.6765449645761
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Отель «Лайт на Нагорной»",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Котловка",
+        "Address": "город Москва, Нагорная улица, дом 26, корпус 1",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 896342047
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7574300803,
+          55.7137595282811
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Гостиница «Отель на Окской»",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "Рязанский район",
+        "Address": "город Москва, Окская улица, дом 5, корпус 1",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 896342075
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6345415671727,
+          55.7549372849903
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Отель «Китай-Город»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Басманный район",
+        "Address": "город Москва, Лубянский проезд, дом 25, строение 1",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 896342110
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4903696090435,
+          55.6149748978766
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Отель «Верона»",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Тёплый Стан",
+        "Address": "город Москва, улица Генерала Тюленева, дом 12, строение 1",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 896342125
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5552516535097,
+          55.7616063723062
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Гостиница «Экспотель»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "Address": "город Москва, 2-я Звенигородская улица, дом 12, строение 32",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 896342269
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5822318126602,
+          55.7534144432476
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Гостиница «PEOPLE BUSINESS NOVINSKY»",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Арбат",
+        "Address": "город Москва, Новинский бульвар, дом 11",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 896342355
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5798458063887,
+          55.6431805369
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Парк-отель «БИТЦА»",
+        "AdmArea": "Южный административный округ",
+        "District": "район Чертаново Северное",
+        "Address": "город Москва, Балаклавский проспект, дом 33, строение 2",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 896343038
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5368179372122,
+          55.7920071609786
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Гостиница ЦСКА",
+        "AdmArea": "Северный административный округ",
+        "District": "Хорошёвский район",
+        "Address": "город Москва, Ленинградский проспект, дом 39, строение 77",
+        "FullAvailable": "нет",
+        "Availableo": "да",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "да",
+        "PresenceRoom": "нет",
+        "globalid": 896361203
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5913733844978,
+          55.7689293264848
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Отель «Маяк»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "Address": "город Москва, улица Гашека, дом 12, строение 8",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 896361300
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6331889008868,
+          55.7246134410493
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Гостиница «Арт-Гранд Виктория»",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Замоскворечье",
+        "Address": "город Москва, улица Щипок, дом 16, строение 1",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "да",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "да",
+        "PresenceRoom": "да",
+        "globalid": 896361375
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7944630599788,
+          55.7141734684986
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Гостиница «Бригантина»",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "Рязанский район",
+        "Address": "город Москва, улица Академика Скрябина, дом 8, корпус 3",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 896361410
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6927953772596,
+          55.7918667409391
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Гостиница «СОКОЛЬНИКИ»",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Сокольники",
+        "Address": "город Москва, 1-я Боевская улица, дом 6",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 896361774
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5333910177061,
+          55.6182792114939
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Гостиничный комплекс «Узкое»",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Ясенево",
+        "Address": "город Москва, Литовский бульвар, дом 3А",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 896362793
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5597514488468,
+          55.6685138980555
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Отель «Малетон»",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Черёмушки",
+        "Address": "город Москва, улица Гарибальди, дом 36",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 896365490
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6110030219168,
+          55.7784103543524
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Гостиница «Отель на Никоновке»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "город Москва, Никоновский переулок, дом 3/1",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 896366955
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.65033087837,
+          55.7246336586351
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Отель «Вояджер»",
+        "AdmArea": "Южный административный округ",
+        "District": "Даниловский район",
+        "Address": "город Москва, Дербеневская набережная, дом 7, строение 21",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "да",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 896386775
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6325064867917,
+          55.75717634252
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Отель «Маросейка»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Басманный район",
+        "Address": "город Москва, улица Маросейка, дом 2/15, строение 1",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "да",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 896388946
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6088064356171,
+          55.6198530231632
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Гостиница «На Южной»",
+        "AdmArea": "Южный административный округ",
+        "District": "район Чертаново Центральное",
+        "Address": "город Москва, Варшавское шоссе, дом 132, строение 2",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 896392699
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6024212196735,
+          55.7699815638065
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Отель «Сквер»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "город Москва, Старопименовский переулок, дом 11, строение 1",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 896427939
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6055677434357,
+          55.7537403705909
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Отель «Времена Года»",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Арбат",
+        "Address": "город Москва, Большой Кисловский переулок, дом 1, строение 2",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 896427956
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6313624714436,
+          55.7781966418386
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Бутик-отель «Мира»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Мещанский район",
+        "Address": "город Москва, улица Дурова, дом 36",
+        "FullAvailable": "нет",
+        "Availableo": "да",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "да",
+        "PresenceRoom": "да",
+        "globalid": 896429656
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4513851341763,
+          55.7894062396957
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Гостиница «СеверСити»",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Хорошёво-Мнёвники",
+        "Address": "город Москва, улица Паршина, дом 16",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 896429677
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.3524204584686,
+          55.9480814662689
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Отель «Винтаж»",
+        "AdmArea": "Северный административный округ",
+        "District": "Молжаниновский район",
+        "Address": "город Москва, Ленинградское шоссе, дом 297",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 896429702
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6367887696243,
+          55.7630993588186
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Отель «Brick Design Hotel»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Басманный район",
+        "Address": "город Москва, Мясницкая улица, дом 24/7, строение 3",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "да",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 896429709
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6120754335209,
+          55.7576836981974
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Отель «Д отель на Тверской»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "город Москва, Тверская улица, дом 5/6",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 896429782
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4825632971098,
+          55.8096233950361
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Отель «Д отель на Щукинской»",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Щукино",
+        "Address": "город Москва, Щукинская улица, дом 2",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 896463188
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5110649869007,
+          55.7173076919624
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Апарт-отель «Hills Hotel»",
+        "AdmArea": "Западный административный округ",
+        "District": "район Раменки",
+        "Address": "город Москва, улица Улофа Пальме, дом 1",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 896471715
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6200526790745,
+          55.77299454357
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Гостевой дом «На Цветном»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "город Москва, Цветной бульвар, дом 25, строение 2",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 896482535
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6303600077155,
+          55.7695504521199
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Отель «Ханзер»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Мещанский район",
+        "Address": "город Москва, Большой Головин переулок, дом 25",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 896482548
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4796592193388,
+          55.8129307153923
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Гостиница «На Покровском-Стрешнево»",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Щукино",
+        "Address": "город Москва, Волоколамское шоссе, дом 30, строение 1",
+        "FullAvailable": "нет",
+        "Availableo": "да",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 896486592
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4091551655224,
+          55.8277998079463
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Отель «Таежный»",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Покровское-Стрешнево",
+        "Address": "город Москва, Волоколамское шоссе, дом 89, корпус 1",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 896486724
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6415673177325,
+          55.7111600689259
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Гостиница «Персона»",
+        "AdmArea": "Южный административный округ",
+        "District": "Даниловский район",
+        "Address": "город Москва, 3-й Павелецкий проезд, дом 7, корпус 1",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 896517949
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6354612967643,
+          55.7608463935453
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Гостиница «Флигель»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Басманный район",
+        "Address": "город Москва, Армянский переулок, дом 3-5, строение 1",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 896526601
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6474286195908,
+          55.769981389535
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Гостиница «Красные Ворота»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Красносельский район",
+        "Address": "город Москва, Садовая-Спасская улица, дом 19, корпус 3",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 896526631
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6725531986624,
+          55.7206986125366
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Отель «Нанотель»",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "Южнопортовый район",
+        "Address": "город Москва, Шарикоподшипниковская улица, дом 4, корпус 1А",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 896526774
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7985799219637,
+          55.7987578274166
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Гостиница «София»",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Измайлово",
+        "Address": "город Москва, Верхняя Первомайская улица, дом 36, строение 2",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 896526787
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7977567494747,
+          55.8004835212601
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Гостиница «Мария»",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Измайлово",
+        "Address": "город Москва, Верхняя Первомайская улица, дом 49А",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 896526820
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5710835238532,
+          55.8265410218803
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Гостиница «Молодежная»",
+        "AdmArea": "Северный административный округ",
+        "District": "Тимирязевский район",
+        "Address": "город Москва, Дмитровское шоссе, дом 27, корпус 1",
+        "FullAvailable": "нет",
+        "Availableo": "да",
+        "Availablez": "да",
+        "Availables": "да",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "да",
+        "PresenceRoom": "нет",
+        "globalid": 896526844
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6099648815044,
+          55.6928779756205
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Мини-отель «UROOM»",
+        "AdmArea": "Южный административный округ",
+        "District": "Донской район",
+        "Address": "город Москва, Севастопольский проспект, дом 3, корпус 2",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 896529736
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7686255628617,
+          55.7000144978641
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Мини отель «ФАНТАЗИЯ»",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Кузьминки",
+        "Address": "город Москва, улица Юных Ленинцев, дом 73, корпус 1",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 896529773
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6504439407461,
+          55.7606769660852
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Отель «Элегант»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Басманный район",
+        "Address": "город Москва, улица Покровка, дом 32",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 896529852
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4861442841787,
+          55.7532749454572
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Бизнес – отель «Протон»",
+        "AdmArea": "Западный административный округ",
+        "District": "район Филёвский Парк",
+        "Address": "город Москва, Новозаводская улица, дом 22",
+        "FullAvailable": "нет",
+        "Availableo": "да",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 896532818
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.782956902483,
+          55.6668622404998
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Гостиница «Сокол»",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Люблино",
+        "Address": "город Москва, Краснодарская улица, дом 78",
+        "FullAvailable": "нет",
+        "Availableo": "да",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 896532945
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4885625859096,
+          55.8397660577836
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Гостиница «Охотник»",
+        "AdmArea": "Северный административный округ",
+        "District": "Головинский район",
+        "Address": "город Москва, Головинское шоссе, дом 1",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 896533053
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6331296293568,
+          55.7702729869281
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Гостиница «Сретенский двор»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Красносельский район",
+        "Address": "город Москва, улица Сретенка, дом 26/1",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 896533153
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5546756820811,
+          55.7569379512033
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Гостиница «Business City Hotel»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "Address": "город Москва, Мантулинская улица, дом 10",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 896533323
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6184020551766,
+          55.7725986660414
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Мини-отель «DOORS»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "город Москва, Цветной бульвар, дом 25, строение 5",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 896545014
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6029173917323,
+          55.7572103261197
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "хостел «Тихий час»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "Address": "город Москва, Большая Никитская улица, дом 22/2",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 896545054
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4286244988304,
+          55.8654892717912
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Парк-отель «Велес»",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Северное Тушино",
+        "Address": "город Москва, улица Вилиса Лациса, дом 6, корпус 1",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 896545555
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7671101322283,
+          55.6767833210512
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Гостиница «La ScaLa»",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Люблино",
+        "Address": "город Москва, Краснодарская улица, дом 57, корпус 1",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 896545584
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7718613477464,
+          55.6642512321957
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Гостиница «София» ООО «Родео»",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Марьино",
+        "Address": "город Москва, Белореченская улица, дом 39",
+        "FullAvailable": "нет",
+        "Availableo": "да",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 896545608
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.705550612464,
+          55.7441101779386
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Мини-отель «Lefort»",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Лефортово",
+        "Address": "город Москва, Душинская улица, дом 20",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 896545622
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6678335558618,
+          55.774742677049
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Гостиница «КЛЕМЕНТИН»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Красносельский район",
+        "Address": "город Москва, Ольховская улица, дом 23",
+        "FullAvailable": "нет",
+        "Availableo": "да",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 896545812
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7774013610669,
+          55.669068656819
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Отель «Перерва 74»",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Люблино",
+        "Address": "город Москва, улица Перерва, дом 74",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 896545856
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7774013610669,
+          55.669068656819
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Гостиница «Дуэт в Люблино»",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Люблино",
+        "Address": "город Москва, улица Перерва, дом 74",
+        "FullAvailable": "нет",
+        "Availableo": "да",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 896545873
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6199912232647,
+          55.8234075372142
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Гостиница «Мастер Отель Останкино»",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Останкинский район",
+        "Address": "город Москва, улица Академика Королёва, дом 10",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 896550241
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6644686134584,
+          55.7303109646045
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Гостиница «Облака»",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "Южнопортовый район",
+        "Address": "город Москва, улица Крутицкий Вал, дом 8/22",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "нет",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 896550260
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6761887561954,
+          55.7193901485211
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Гостиница «Fortis»",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "Южнопортовый район",
+        "Address": "город Москва, Шарикоподшипниковская улица, дом 11, строение 7",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 896550290
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6386532249932,
+          55.7560343522154
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Отель «Старосадский»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Басманный район",
+        "Address": "город Москва, Старосадский переулок, дом 8, строение 3",
+        "FullAvailable": "нет",
+        "Availableo": "да",
+        "Availablez": "нет",
+        "Availables": "да",
+        "Availablek": "да",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 896550558
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6076072454301,
+          55.76722827927
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Отель «БОГЕМИЯ»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "город Москва, Большой Путинковский переулок, дом 5",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 896550566
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6151963617355,
+          55.7619097943664
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Гостиница «Бутик-отель «Столешников»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "город Москва, Дмитровский переулок, дом 3, строение 1",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "да",
+        "PresenceRoom": "нет",
+        "globalid": 896550578
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5293371500427,
+          55.8078687536742
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Гостиница «КОМФОРТ КЛАСС»",
+        "AdmArea": "Северный административный округ",
+        "District": "район Аэропорт",
+        "Address": "город Москва, Часовая улица, дом 11",
+        "FullAvailable": "нет",
+        "Availableo": "да",
+        "Availablez": "нет",
+        "Availables": "да",
+        "Availablek": "да",
+        "PresenceParking": "да",
+        "PresenceWC": "да",
+        "PresenceRoom": "да",
+        "globalid": 896555902
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4755634090354,
+          55.6673161461021
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Гостиница РАНХиГС",
+        "AdmArea": "Западный административный округ",
+        "District": "район Тропарёво-Никулино",
+        "Address": "город Москва, проспект Вернадского, дом 82, строение 2",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 896556843
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6588543545312,
+          55.7382403901179
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Мини-отель «Пафос на Таганке»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Таганский район",
+        "Address": "город Москва, Марксистская улица, дом 20, строение 9",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 896562976
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6847363282707,
+          55.7457129582976
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "ОТЕЛЬ «МКМ»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Таганский район",
+        "Address": "город Москва, Международная улица, дом 15",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 896567891
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5849163673361,
+          55.7565307956728
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Гостиница «Arbat Residence»",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Арбат",
+        "Address": "город Москва, Новинский бульвар, дом 22, строение 1",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 896570807
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7723399137637,
+          55.7039978806845
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Отель «Элит»",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Кузьминки",
+        "Address": "город Москва, Волгоградский проспект, дом 98, корпус 1",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 896572301
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6088215052724,
+          55.763520742194
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Отель «Бруно»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "город Москва, Тверская улица, дом 12, строение 6А",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 896572378
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6467949982401,
+          55.769863127609
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Отель «АВИТА Красные Ворота»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Красносельский район",
+        "Address": "город Москва, Садовая-Спасская улица, дом 17/2",
+        "FullAvailable": "нет",
+        "Availableo": "да",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 896573368
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6078631437565,
+          55.6158751558786
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Гостиница «SunFlower Парк»",
+        "AdmArea": "Южный административный округ",
+        "District": "район Чертаново Центральное",
+        "Address": "город Москва, Кировоградская улица, дом 11",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 896577031
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5825449040939,
+          55.7512127489027
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Отель «ПОСТОЯЛОВ»",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Арбат",
+        "Address": "город Москва, Новинский бульвар, дом 5, строение 1",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 896578447
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7729694010768,
+          55.8157260995137
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Хостел «Авита»",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Гольяново",
+        "Address": "город Москва, Монтажная улица, дом 7, строение 8",
+        "FullAvailable": "нет",
+        "Availableo": "да",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 896582524
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5178180498456,
+          55.7926172916404
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "«Арт Отель»",
+        "AdmArea": "Северный административный округ",
+        "District": "Хорошёвский район",
+        "Address": "город Москва, 3-я Песчаная улица, дом 2",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "да",
+        "Availablek": "нет",
+        "PresenceParking": "нет",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 896583666
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5091276043896,
+          55.7462237117186
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Гостиница «ФИЛИ ХАУС ОТЕЛЬ»",
+        "AdmArea": "Западный административный округ",
+        "District": "район Филёвский Парк",
+        "Address": "город Москва, Тучковская улица, дом 11, корпус 2",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 896583680
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6465339645155,
+          55.7607687770741
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Гостиница «Буше»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Басманный район",
+        "Address": "город Москва, улица Макаренко, дом 2/21, строение 1",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 896583729
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7425671158239,
+          55.6079670287104
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Гостиница «Флоренция»",
+        "AdmArea": "Южный административный округ",
+        "District": "район Орехово-Борисово Южное",
+        "Address": "город Москва, Ясеневая улица, дом 41А",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901530760
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6342239817174,
+          55.7682891709187
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Отель «City Life Hotel»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Красносельский район",
+        "Address": "город Москва, Луков переулок, дом 7",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901530899
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6827313452595,
+          55.7764427906927
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Бутик-отель «Мистер и Миссис»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Басманный район",
+        "Address": "город Москва, Переведеновский переулок, дом 2, строение 1",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901531370
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5829878470642,
+          55.8080596096084
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Отель «Тема»",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Бутырский район",
+        "Address": "город Москва, Бутырская улица, дом 86Б",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901531508
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6226240083062,
+          55.7600230075251
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Гостиница «Матрешка»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Мещанский район",
+        "Address": "город Москва, Театральный проезд, дом 3, строение 4",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901531554
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6306899012692,
+          55.7665916639943
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Отель «Наумов»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Мещанский район",
+        "Address": "город Москва, улица Сретенка, дом 1",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901531580
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6461312291271,
+          55.8167598664687
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Гостиничный комплекс «ОТЕЛЬ «КАТЮША»",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Алексеевский район",
+        "Address": "город Москва, улица Кибальчича, дом 9",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901531605
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6026583552354,
+          55.7701145702898
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Отель «Барин»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "город Москва, Старопименовский переулок, дом 11, строение 2",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901531649
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.787045622779,
+          55.7208848810261
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Гостиница «Palacio Hotel»",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "Рязанский район",
+        "Address": "город Москва, улица Паперника, дом 9",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901531671
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6498217463369,
+          55.7439468190429
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Отель «Времена года»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Таганский район",
+        "Address": "город Москва, Верхняя Радищевская улица, дом 14",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901531677
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6307399024728,
+          55.7467269540061
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Гостиница «САДОВНИЧЕСКАЯ»",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Замоскворечье",
+        "Address": "город Москва, Садовническая улица, дом 20, строение 1",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "да",
+        "Availables": "нет",
+        "Availablek": "да",
+        "PresenceParking": "да",
+        "PresenceWC": "да",
+        "PresenceRoom": "да",
+        "globalid": 901531859
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.585358662301,
+          55.7346827362008
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "«Отель Графский»",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Хамовники",
+        "Address": "город Москва, улица Льва Толстого, дом 23, строение 5",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901531982
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7301729341016,
+          55.8176222057964
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Гостиница «ФОРМУЛА ЗА РУЛЕМ»",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Богородское",
+        "Address": "город Москва, 5-й проезд Подбельского, дом 4А",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "нет",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901532044
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.787803797246,
+          55.819202775512
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Гостиница «Тайм Инн на Щелковской»",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Гольяново",
+        "Address": "город Москва, Черницынский проезд, дом 7, строение 6",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "да",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901532106
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6163956504031,
+          55.7156401482537
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Гостиница «Изумруд»",
+        "AdmArea": "Южный административный округ",
+        "District": "Даниловский район",
+        "Address": "город Москва, улица Татищева, дом 3А",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901535315
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6347696766733,
+          55.7581558161819
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Гостиница «Старая Москва»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Басманный район",
+        "Address": "город Москва, улица Маросейка, дом 9/2, строение 8",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "да",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901535423
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6163512990822,
+          55.7610483395512
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Гостиница «Старый город»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "город Москва, улица Большая Дмитровка, дом 8, строение 5",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901535476
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7637567467007,
+          55.631152452638
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Отель «Спасатель в Братеево»",
+        "AdmArea": "Южный административный округ",
+        "District": "район Братеево",
+        "Address": "город Москва, Ключевая улица, дом 24, корпус 1",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901535539
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.637947802397,
+          55.7541617951729
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Eden Hotel (Эден отель)",
+        "AdmArea": "Центральный административный округ",
+        "District": "Басманный район",
+        "Address": "город Москва, улица Солянка, дом 1/2, строение 1",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901535658
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6831193016077,
+          55.7723643610427
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Гостиница «Юджин Отель»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Басманный район",
+        "Address": "город Москва, улица Фридриха Энгельса, дом 20, строение 1",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901535701
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6883079282612,
+          55.7288296880472
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Гостиничный комплекс «Слип Лэнд»",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "Нижегородский район",
+        "Address": "город Москва, улица Талалихина, дом 41, строение 4",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901535728
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5847132122235,
+          55.7786193392986
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "«Гранд Отель Белорусская»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "город Москва, улица Бутырский Вал, дом 5",
+        "FullAvailable": "нет",
+        "Availableo": "да",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "да",
+        "PresenceParking": "нет",
+        "PresenceWC": "да",
+        "PresenceRoom": "да",
+        "globalid": 901535816
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6790849756757,
+          55.7628284052608
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Гостиница «Гринвич»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Басманный район",
+        "Address": "город Москва, улица Радио, дом 14, строение 1",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901535849
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6086001699776,
+          55.7640038939526
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Отель «ФЛОРИНН»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "город Москва, Тверская улица, дом 12, строение 7",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901535873
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.662961865938,
+          55.7847349721644
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Отель «Hilton Garden Inn Moscow Krasnoselskaya»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Красносельский район",
+        "Address": "город Москва, Верхняя Красносельская улица, дом 11А, строение 4",
+        "FullAvailable": "да",
+        "Availableo": "да",
+        "Availablez": "да",
+        "Availables": "да",
+        "Availablek": "да",
+        "PresenceParking": "да",
+        "PresenceWC": "да",
+        "PresenceRoom": "да",
+        "globalid": 901536013
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4993294185278,
+          55.7737402865134
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Гостиница «Moscow Holiday Hotel»",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Хорошёво-Мнёвники",
+        "Address": "город Москва, улица Мнёвники, дом 3, корпус 2",
+        "FullAvailable": "нет",
+        "Availableo": "да",
+        "Availablez": "да",
+        "Availables": "нет",
+        "Availablek": "да",
+        "PresenceParking": "да",
+        "PresenceWC": "да",
+        "PresenceRoom": "да",
+        "globalid": 901536838
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5759043334081,
+          55.7722429585975
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Гостиница «Султан-1»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "Address": "город Москва, Электрический переулок, дом 3/10, строение 1",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "нет",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901537085
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6213658285825,
+          55.7479244706727
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Отель «People Red Square»",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Якиманка",
+        "Address": "город Москва, Софийская набережная, дом 30, строение 1",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901537213
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5111364386986,
+          55.6176449861747
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Гостиница «Принц Парк Отель»",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Ясенево",
+        "Address": "город Москва, Новоясеневский проспект, дом 1Б, корпус 1",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901537233
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4876305980715,
+          55.6623191656643
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Отель «Апельсин на Юго-Западной»",
+        "AdmArea": "Западный административный округ",
+        "District": "район Тропарёво-Никулино",
+        "Address": "город Москва, проспект Вернадского, дом 105, корпус 2",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901537262
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.609726477766,
+          55.7635426803249
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Отель «Лафаетт»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "город Москва, Тверская улица, дом 12, строение 9",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901537288
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7261793888275,
+          55.7083334055245
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Гостиница «Grand hotel Palacio»",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Печатники",
+        "Address": "город Москва, Волгоградский проспект, дом 42, корпус 1",
+        "FullAvailable": "нет",
+        "Availableo": "да",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901537321
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6105917918,
+          55.7411380076322
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Хостел «Фабрика»",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Якиманка",
+        "Address": "город Москва, Берсеневский переулок, дом 5, строение 3",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901537364
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5838248605717,
+          55.7491794065188
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Гостиница «Арбат Инн» (Arbat Inn)",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Арбат",
+        "Address": "город Москва, Смоленская площадь, дом 6, строение 3",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901537436
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6359389615782,
+          55.7611239891179
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "БУТИК-ОТЕЛЬ «МОСС» (MOSS BOUTIQUE HOTEL)",
+        "AdmArea": "Центральный административный округ",
+        "District": "Басманный район",
+        "Address": "город Москва, Кривоколенный переулок, дом 10, строение 4",
+        "FullAvailable": "да",
+        "Availableo": "да",
+        "Availablez": "да",
+        "Availables": "да",
+        "Availablek": "да",
+        "PresenceParking": "да",
+        "PresenceWC": "да",
+        "PresenceRoom": "да",
+        "globalid": 901557711
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.609726477766,
+          55.7635426803249
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "«Цитадель Комфорт Отель»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "город Москва, Тверская улица, дом 12, строение 9",
+        "FullAvailable": "нет",
+        "Availableo": "да",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "да",
+        "PresenceParking": "да",
+        "PresenceWC": "да",
+        "PresenceRoom": "нет",
+        "globalid": 901557823
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.609726477766,
+          55.7635426803249
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "БУТИК ОТЕЛЬ «77 ДВЕРЕЙ» («77 DOORS»)",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "город Москва, Тверская улица, дом 12, строение 9",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901557884
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4326175086049,
+          55.7356740788547
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Гостиница «Ангелина»",
+        "AdmArea": "Западный административный округ",
+        "District": "район Кунцево",
+        "Address": "город Москва, Истринская улица, дом 8, корпус 3",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901557892
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7547304306585,
+          55.6719050343912
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Гостиница «Мини-отель «Отдых-2»",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Люблино",
+        "Address": "город Москва, Совхозная улица, дом 27",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901558127
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7514707377135,
+          55.6768700622965
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Гостиница «Мини-отель «Отдых-4»",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Люблино",
+        "Address": "город Москва, Армавирская улица, дом 3",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901558193
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7463438007957,
+          55.6776471780123
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Гостиница «Мини-отель «Отдых-5»",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Люблино",
+        "Address": "город Москва, Краснодарская улица, дом 15/17",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901558393
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5922497246751,
+          55.7820860250425
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Гостиница «ХотелХот»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "город Москва, Лесная улица, дом 55, строение 5",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901558408
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.549642948604,
+          55.8770746514748
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Мини-отель «КОМФОРТ»",
+        "AdmArea": "Северный административный округ",
+        "District": "Бескудниковский район",
+        "Address": "город Москва, Дмитровское шоссе, дом 96, корпус 4",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901558410
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6336831886317,
+          55.7580049912653
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Средство размещения «GOODMOOD HOSTEL»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Басманный район",
+        "Address": "город Москва, улица Маросейка, дом 9/2, строение 6",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901558419
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6504316248328,
+          55.7290059459171
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Гостиница «Хостел «Заходи» на Павелецкой»",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Замоскворечье",
+        "Address": "город Москва, Кожевническая улица, дом 19, строение 2",
+        "FullAvailable": "нет",
+        "Availableo": "да",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901558513
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5867317115384,
+          55.7476777639425
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Гостиница «Мини-отель Трефен»",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Арбат",
+        "Address": "город Москва, улица Арбат, дом 51, строение 1",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901558823
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6548077258721,
+          55.763274923699
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Гостиница «На Покровке-48»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Басманный район",
+        "Address": "город Москва, улица Покровка, дом 48, строение 1",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901558829
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7117565204899,
+          55.8047496512141
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Гостиница «Научно -исследовательского института дальней радиосвязи»",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Богородское",
+        "Address": "город Москва, Просторная улица, дом 3",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901558837
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6463207373491,
+          55.7146782205522
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Хостел «Дерево»",
+        "AdmArea": "Южный административный округ",
+        "District": "Даниловский район",
+        "Address": "город Москва, Павелецкая набережная, дом 2, строение 5",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901558844
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6769707443481,
+          55.8641599274559
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Хостел «ЭК»",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Бабушкинский район",
+        "Address": "город Москва, улица Коминтерна, дом 7, корпус 2",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901558960
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6155287639659,
+          55.7645681101706
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Отель «Петровка 17»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "город Москва, улица Петровка, дом 17, строение 5",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901558971
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5114659017868,
+          55.5378767855474
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Гостиница «Отель «Вояж-Бутово»",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Южное Бутово",
+        "Address": "город Москва, улица Кадырова, дом 8",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901559119
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.799461965829,
+          55.67656860637
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Гостиница «Отель «Вояж-Люблино»",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Люблино",
+        "Address": "город Москва, Ставропольский проезд, дом 3",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901559121
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.645669377234,
+          55.7502626626691
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Гостевой дом «БАЗИЛИКА» ПРАВОСЛАВНОГО ПРИХОДА ЖИВОНАЧАЛЬНОЙ ТРОИЦЫ В СЕРЕБРЯННИКАХ",
+        "AdmArea": "Центральный административный округ",
+        "District": "Таганский район",
+        "Address": "город Москва, Серебрянический переулок, дом 1А, строение 1",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901559156
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6547230661957,
+          55.7038514371756
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Мини-отель «Welcome»",
+        "AdmArea": "Южный административный округ",
+        "District": "Даниловский район",
+        "Address": "город Москва, Автозаводская улица, дом 17, корпус 3",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901559162
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7545908420484,
+          55.7079803565541
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Гостиница «Элегия»",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Кузьминки",
+        "Address": "город Москва, Волгоградский проспект, дом 99, корпус 4",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901559493
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4227998076219,
+          55.8430666894453
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Гостиница ДОСААФ России",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Южное Тушино",
+        "Address": "город Москва, Походный проезд, дом 23",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901559579
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6381537004447,
+          55.7715380794356
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Мини-гостиница «ДВОРЯНСКОЕ ГНЕЗДО НА СУХАРЕВКЕ»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Красносельский район",
+        "Address": "город Москва, Большая Сухаревская площадь, дом 16/18, строение 2",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901559707
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.635211122733,
+          55.662729930734
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Гостиница «Заречье-АВ»",
+        "AdmArea": "Южный административный округ",
+        "District": "район Нагатино-Садовники",
+        "Address": "город Москва, Каширское шоссе, дом 21",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901559800
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6620758106219,
+          55.7704163838328
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Хостел «КЛЕВЕР»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Красносельский район",
+        "Address": "город Москва, Новая Басманная улица, дом 23А, строение 3",
+        "FullAvailable": "нет",
+        "Availableo": "да",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "да",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901560204
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6263525055823,
+          55.7833135175965
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Отель «ОЛИМПИЙСКИЙ»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Мещанский район",
+        "Address": "город Москва, Олимпийский проспект, дом 16, строение 2",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901560275
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7912915359028,
+          55.8127422027197
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Мини-гостиница «БРУСНИКА ХОЛДИНГ»",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Гольяново",
+        "Address": "город Москва, Амурская улица, дом 62",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901561339
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6900163391412,
+          55.7356471308925
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Хостел «Матушка Россия»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Таганский район",
+        "Address": "город Москва, Большая Калитниковская улица, дом 42",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901570712
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7071141073646,
+          55.759400372485
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Хостел «Трэвел Инн на Авиамоторной»",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Лефортово",
+        "Address": "город Москва, Энергетическая улица, дом 12, корпус 1",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901570724
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.616247003715,
+          55.7660128771089
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Гостиница «ГлориВэлл»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "город Москва, улица Петровка, дом 26, строение 3",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901570730
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6526623607774,
+          55.7594182889837
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Отель «Хаус»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Басманный район",
+        "Address": "город Москва, Лялин переулок, дом 7/2, строение 4",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "да",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901570739
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.8233404618065,
+          55.7812601915558
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Гостиница МГПУ",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Ивановское",
+        "Address": "город Москва, улица Чечулина, дом 3, корпус 2",
+        "FullAvailable": "нет",
+        "Availableo": "да",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901570750
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6889448968815,
+          55.7227994831594
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Отель «Луна»",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "Южнопортовый район",
+        "Address": "город Москва, Волгоградский проспект, дом 32, корпус 8",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "да",
+        "PresenceRoom": "да",
+        "globalid": 901570759
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6110508602506,
+          55.7583108058631
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Средство размещения «MOLOTOFF CAPSULE HOTEL»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "город Москва, Тверская улица, дом 7",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901570875
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6984612524669,
+          55.7891667079268
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Мини-отель «Ладомир-отель на Яузе»",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Сокольники",
+        "Address": "город Москва, Большой Матросский переулок, дом 1",
+        "FullAvailable": "нет",
+        "Availableo": "да",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901570933
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5512219460151,
+          55.8749395260719
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Отель «Комфорт 1»",
+        "AdmArea": "Северный административный округ",
+        "District": "Бескудниковский район",
+        "Address": "город Москва, Бескудниковский проезд, дом 2, корпус 2",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901571121
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6468200023156,
+          55.7455889460796
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Мини-отель «Усадьба на Таганке»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Таганский район",
+        "Address": "город Москва, Гончарная улица, дом 9/3, строение 2",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901571124
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5952945081808,
+          55.7866985318572
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "DREAM PLACE HOSTEL",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "город Москва, Новослободская улица, дом 50/1, строение 1",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901572153
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7722357024218,
+          55.743727234202
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Хостел «Голливуд»",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Перово",
+        "Address": "город Москва, улица Лазо, дом 8",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901572276
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6276449580129,
+          55.7416609056123
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Хостел «3 Пингвина»",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Замоскворечье",
+        "Address": "город Москва, Пятницкая улица, дом 20, строение 2",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901572291
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7788808817958,
+          55.7982329654953
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Хостел «Авита I»",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Измайлово",
+        "Address": "город Москва, 3-я Прядильная улица, дом 15А",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901572293
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7729694010768,
+          55.8157260995137
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Хостел «Авита III»",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Гольяново",
+        "Address": "город Москва, Монтажная улица, дом 7, строение 8",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901572296
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6610516266802,
+          55.7627365563029
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Отель «Бонжур на Казакова»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Басманный район",
+        "Address": "город Москва, улица Казакова, дом 8, строение 2",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901572610
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5586059278946,
+          55.55249461039
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Отель «Бонжур на Изюмской»",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Южное Бутово",
+        "Address": "город Москва, Изюмская улица, дом 22",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901572624
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5130320705269,
+          55.8698733522115
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Отель «Бонжур на Талдомской»",
+        "AdmArea": "Северный административный округ",
+        "District": "район Западное Дегунино",
+        "Address": "город Москва, Талдомская улица, дом 1",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901572626
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7480441692635,
+          55.6752125956554
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Отель «Люблю-Но»",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Люблино",
+        "Address": "город Москва, Краснодонская улица, дом 24, строение 2",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901572634
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.632779550676,
+          55.7586935466841
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Хостел «Крыша»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Басманный район",
+        "Address": "город Москва, Большой Златоустинский переулок, дом 7, строение 1",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901572696
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.705442172029,
+          55.7800410561825
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Отель «45»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Басманный район",
+        "Address": "город Москва, Семёновская набережная, дом 3/1, корпус 6",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901572761
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5985490170039,
+          55.7521174270788
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Хостел «Винегрет»",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Арбат",
+        "Address": "город Москва, улица Арбат, дом 4, строение 1",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901573103
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5787568396302,
+          55.7214385261805
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Хостел «ЭВКЛАЗ»",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Хамовники",
+        "Address": "город Москва, 3-я Фрунзенская улица, дом 10",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901573217
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6569296664634,
+          55.7645159978163
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Хостел «Весна»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Басманный район",
+        "Address": "город Москва, Старая Басманная улица, дом 5, строение 1",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901573346
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5852746161364,
+          55.7958523184208
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Хостел «ВЕЖЛИВЫЙ ЛОСЬ НА САВЁЛОВСКОЙ»",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Бутырский район",
+        "Address": "город Москва, Бутырская улица, дом 6",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901573352
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7336037537693,
+          55.7282083497294
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Хостел «Гостиный Дом «Карачарово»",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "Нижегородский район",
+        "Address": "город Москва, Газгольдерная улица, дом 6",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901577838
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.592467769324,
+          55.607262446075
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Хостел «ЭРЭЛ»",
+        "AdmArea": "Южный административный округ",
+        "District": "район Чертаново Центральное",
+        "Address": "город Москва, Чертановская улица, дом 45А, корпус 1",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901577858
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7172362096789,
+          55.7411470510916
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Хостел «Ромашка»",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Лефортово",
+        "Address": "город Москва, 4-я Кабельная улица, дом 2, строение 1",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901635438
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.497850995144,
+          55.6988229682223
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Гостиница «Ломоносов»",
+        "AdmArea": "Западный административный округ",
+        "District": "район Раменки",
+        "Address": "город Москва, Мичуринский проспект, дом 34",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901635444
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.587298359525,
+          55.7479167792293
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Отель «БУЛГАКОВ»",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Арбат",
+        "Address": "город Москва, улица Арбат, дом 49",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901635450
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5845002301524,
+          55.7675139275204
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Хостел «City Hostel»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "Address": "город Москва, переулок Красина, дом 15, строение 1",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901635451
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5475669174707,
+          55.6654932878712
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Бутик-отель «Де Мари»",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "Обручевский район",
+        "Address": "город Москва, Профсоюзная улица, дом 64, корпус 2",
+        "FullAvailable": "нет",
+        "Availableo": "да",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901635463
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6807890661282,
+          55.7741271382307
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Бутик-отель «Элитон»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Басманный район",
+        "Address": "город Москва, Бакунинская улица, дом 7, строение 7",
+        "FullAvailable": "нет",
+        "Availableo": "да",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901635470
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6112353142126,
+          55.7346141010298
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Отель «Якиманка 38»",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Якиманка",
+        "Address": "город Москва, улица Большая Якиманка, дом 38",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901635484
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5793741203015,
+          55.8078754791261
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Гостиница «Дмитровская»",
+        "AdmArea": "Северный административный округ",
+        "District": "Савёловский район",
+        "Address": "город Москва, Бутырская улица, дом 97, строение 2",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901635515
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5845002301524,
+          55.7675139275204
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Хостел «Московские друзья»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "Address": "город Москва, переулок Красина, дом 15, строение 1",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901635582
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5251723068515,
+          55.6862221466736
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Хостел «Ноосфера»",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "Ломоносовский район",
+        "Address": "город Москва, проспект Вернадского, дом 15",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901635667
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6083918799584,
+          55.765082234792
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Мини-отель «Прованс»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "город Москва, Страстной бульвар, дом 4, строение 3",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901635732
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6300890411677,
+          55.6816091225481
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Мосотель",
+        "AdmArea": "Южный административный округ",
+        "District": "район Нагатино-Садовники",
+        "Address": "город Москва, Нагатинская улица, дом 3А, строение 4",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901636353
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.63738357886,
+          55.7623336092267
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Мини-отель «Hotel-museum Apartment 27 Epoch»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Басманный район",
+        "Address": "город Москва, Кривоколенный переулок, дом 14, строение 1",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901636382
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7194642320753,
+          55.7507189938417
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Хостел «Авиатор»",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Лефортово",
+        "Address": "город Москва, шоссе Энтузиастов, дом 26",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901636403
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5649964909969,
+          55.7039649769614
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Хостел «Мята»",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "Гагаринский район",
+        "Address": "город Москва, улица Косыгина, дом 13",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901636412
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6698781814042,
+          55.7684521838003
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Хостел «Hostel Ru Комсомольская»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Басманный район",
+        "Address": "город Москва, Старая Басманная улица, дом 36, строение 2",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901636576
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6668023749138,
+          55.7560143818764
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Хостел «Айпроспали хостел на Курской»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Басманный район",
+        "Address": "город Москва, 4-й Сыромятнический переулок, дом 3/5, строение 5",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901636786
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6569296664634,
+          55.7645159978163
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Vesna Hostel",
+        "AdmArea": "Центральный административный округ",
+        "District": "Басманный район",
+        "Address": "город Москва, Старая Басманная улица, дом 5, строение 1",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901636898
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6905408236879,
+          55.7746661482542
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Хостел «ПАРИЖ»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Басманный район",
+        "Address": "город Москва, Большая Почтовая улица, дом 18/20, корпус 18",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901636911
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6133464966104,
+          55.8779807666635
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Бутик-отель «АФИША-СИТИ»",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Отрадное",
+        "Address": "город Москва, Юрловский проезд, дом 14, корпус 1",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901637155
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6908860779944,
+          55.721229694308
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Хостел на Волгоградке",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "Южнопортовый район",
+        "Address": "город Москва, Волгоградский проспект, дом 32, корпус 13",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901637211
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5623573051989,
+          55.8073254435435
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Хостелы Рус - Дмитровская",
+        "AdmArea": "Северный административный округ",
+        "District": "Тимирязевский район",
+        "Address": "город Москва, Дмитровский проезд, дом 20, корпус 2",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901637262
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6649577498277,
+          55.7778658569787
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Хостел «Атлантис плюс»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Красносельский район",
+        "Address": "город Москва, Краснопрудная улица, дом 22А",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901637443
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5981973851781,
+          55.7535456048091
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Хостел «Мир Арбата»",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Арбат",
+        "Address": "город Москва, Поварская улица, дом 10, строение 1",
+        "FullAvailable": "нет",
+        "Availableo": "нет",
+        "Availablez": "нет",
+        "Availables": "нет",
+        "Availablek": "нет",
+        "PresenceParking": "да",
+        "PresenceWC": "нет",
+        "PresenceRoom": "нет",
+        "globalid": 901637449
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

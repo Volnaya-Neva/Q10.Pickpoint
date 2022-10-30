@@ -1,0 +1,4261 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.4578149833428,
+          55.7372223134205
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды, «Нарышкинский пруд»",
+        "AdmArea": "Западный административный округ",
+        "District": "район Филёвский Парк",
+        "Address": "Большая Филёвская улица, дом 22, строение 2",
+        "Email": "info@parkfili.com",
+        "WebSite": "parkfili.com",
+        "HelpPhone": "(499) 145-45-05",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "грунтовое покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 406671656
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5311221596109,
+          55.86628894447
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды",
+        "AdmArea": "Северный административный округ",
+        "District": "район Западное Дегунино",
+        "Address": "Дегунинская улица, дом 15",
+        "Email": "gby-zd@pnao.mos.ru",
+        "WebSite": "gbuzdegunino.ru",
+        "HelpPhone": "(499) 488-99-54",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-15.11",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "частично приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407114978
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.8044189374253,
+          55.7337832623334
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды, «Большой Дворцовый пруд»",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Вешняки",
+        "Address": "улица Юности, дом 2, строение 1",
+        "Email": "ooptvao@gmail.com",
+        "WebSite": "www.mospriroda.ru",
+        "HelpPhone": "(495) 367-36-81",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "газонное покрытие (натуральное)",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407122998
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6631392594272,
+          55.8101249570835
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды «Большой Путяевский пруд»",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Сокольники",
+        "Address": "улица Сокольнический Вал, дом 1, строение 1",
+        "Email": "info@park.sokolniki.com",
+        "WebSite": "park.sokolniki.com",
+        "HelpPhone": "(499) 268-54-30",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "да",
+        "HasDressingRoom": "нет",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "да",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.04-30.11",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "газонное покрытие (натуральное)",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "частично приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407126932
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5140490885924,
+          55.8465310793968
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды Парка-усадьбы Михалково",
+        "AdmArea": "Северный административный округ",
+        "District": "Головинский район",
+        "Address": "1-й Лихачёвский переулок, дом 4А",
+        "Email": "golovin.08@list.ru",
+        "WebSite": "nashe-golovino.ru",
+        "HelpPhone": "(495) 456-43-26",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "газонное покрытие (натуральное)",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407128628
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.2369316194162,
+          55.9915624537937
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды Черное озеро",
+        "AdmArea": "Зеленоградский административный округ",
+        "District": "район Савёлки",
+        "Address": "город Зеленоград, корпус 619",
+        "Email": "moseco@bk.ru",
+        "WebSite": "www.mospriroda.ru",
+        "HelpPhone": "(499) 734-53-04",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "да",
+        "HasEatery": "нет",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "да",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.06-31.08",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "отсыпное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "частично приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407129555
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5712954750773,
+          55.9011277252748
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды №1",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Лианозово",
+        "Address": "Угличская улица, дом 13",
+        "Email": "info@liapark.ru",
+        "WebSite": "liapark.ru",
+        "HelpPhone": "(499) 908-35-00",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "да",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.05-30.11",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407134406
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6911295330781,
+          55.802588062213
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды «Большой Олений пруд»",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Сокольники",
+        "Address": "улица Сокольнический Вал, дом 1, строение 1",
+        "Email": "info@park.sokolniki.com",
+        "WebSite": "park.sokolniki.com",
+        "HelpPhone": "(499) 268-54-30",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "да",
+        "HasDressingRoom": "нет",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "да",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.04-30.11",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "газонное покрытие (натуральное)",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "частично приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407134466
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5691088580347,
+          55.9012149414093
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды №2",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Лианозово",
+        "Address": "Угличская улица, дом 13",
+        "Email": "info@liapark.ru",
+        "WebSite": "liapark.ru",
+        "HelpPhone": "(499) 908-35-00",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "да",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.05-31.10",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "газонное покрытие (натуральное)",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407137446
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5284408468094,
+          55.6667994646111
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "Обручевский район",
+        "Address": "Воронцовский парк, дом 3",
+        "Email": "info@usadba-vorontsovo.ru",
+        "WebSite": "www.usadba-vorontsovo.ru",
+        "HelpPhone": "(495) 580-26-78",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "газонное покрытие (натуральное)",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "частично приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407137905
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7963050410858,
+          55.6888359593387
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды без купания Кузьминские пруды",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Выхино-Жулебино",
+        "Address": "улица Заречье, владение 14",
+        "Email": "dir-yuvao@eco.mos.ru",
+        "WebSite": "kuzpark.ru",
+        "HelpPhone": "(495) 258-45-60",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "отсыпное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407139928
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4267942477902,
+          55.7754400842251
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "места массового отдыха лесопарк Хорошевский Серебряный Бор, река Москва.",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Хорошёво-Мнёвники",
+        "Address": "Таманская улица, дом 2А, строение 1",
+        "Email": "dir-serbor@mos.eco.ru",
+        "WebSite": "www.mospriroda.ru",
+        "HelpPhone": "(499) 199-01-10",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "да",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-30.11",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "грунтовое покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407140220
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7480635866622,
+          55.6902832134964
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды, «без купания Нижний Люблинский пруд»",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Текстильщики",
+        "Address": "улица Шкулёва, дом 2, строение 1",
+        "Email": "dir-yuvao@eco.mos.ru",
+        "WebSite": "www.mospriroda.ru",
+        "HelpPhone": "(495) 258-45-60",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "газонное покрытие (натуральное)",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407140394
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.2051583548271,
+          56.0098672251403
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "Зона отдыха без купания Быково болото",
+        "AdmArea": "Зеленоградский административный округ",
+        "District": "район Матушкино",
+        "Address": "город Зеленоград, корпус 162",
+        "Email": "dir-zelao@eco.mos.ru",
+        "WebSite": "www.zeloopt.ru/zelaoeco/ru/",
+        "HelpPhone": "(499) 735-55-56",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.06-31.08",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "газонное покрытие (натуральное)",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407141166
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7524307769981,
+          55.7715893901369
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды, «Круглый пруд»",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Измайлово",
+        "Address": "аллея Большого Круга, дом 7",
+        "Email": "izmpark@mail.ru",
+        "WebSite": "izmailovsky-park.ru",
+        "HelpPhone": "(499) 166-61-19",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "да",
+        "HasTechService": "да",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "газонное покрытие (натуральное)",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "частично приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407141342
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6424292354431,
+          55.8408077987315
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Ростокино",
+        "Address": "1-я улица Леонова, дом 16, строение 1",
+        "Email": "4762259@mail.ru",
+        "WebSite": "park-yauza.info/",
+        "HelpPhone": "(499) 476-22-59",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "газонное покрытие (натуральное)",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407141410
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6985026221185,
+          55.8901220786068
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Лосиноостровский район",
+        "Address": "Стартовая улица, дом 10",
+        "Email": "info@bapark.ru",
+        "WebSite": "bapark.ru",
+        "HelpPhone": "(499) 184-34-22",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-30.11",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "газонное покрытие (натуральное)",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407141660
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5917632549311,
+          55.7644882517981
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды",
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "Address": "Малый Патриарший переулок, дом 5, строение 1",
+        "Email": "",
+        "WebSite": "presnya.mos.ru/",
+        "HelpPhone": "(903) 771-27-51",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "да",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "освещение газоразрядными лампами",
+        "SurfaceTypeSummer": "газонное покрытие (натуральное)",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407141734
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.8158970180209,
+          55.7313350044899
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Вешняки",
+        "Address": "Вешняковская улица, дом 16",
+        "Email": "ppkio@mail.ru",
+        "WebSite": "www.perovskiy-park.ru/",
+        "HelpPhone": "(495) 309-53-42",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "да",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-30.11",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "газонное покрытие (натуральное)",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "приспособлен для всех групп инвалидов",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407141879
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5319095900599,
+          55.8817513053465
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды",
+        "AdmArea": "Северный административный округ",
+        "District": "Дмитровский район",
+        "Address": "Ангарская улица, дом 53, корпус 1",
+        "Email": "Liapark@ya.ru",
+        "WebSite": "liapark.ru/park-angarskie-prudy",
+        "HelpPhone": "(499) 908-35-00",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "да",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "да",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.05-31.10",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "газонное покрытие (натуральное)",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407141987
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7404463892089,
+          55.6889587530483
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у пруда",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Люблино",
+        "Address": "Летняя улица, дом 1, строение 1",
+        "Email": "mgomz@culture.mos.ru",
+        "WebSite": "www.mgomz.ru",
+        "HelpPhone": "(495) 350-15-53",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "газонное покрытие (натуральное)",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407142094
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.572963568218,
+          55.5745521268459
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды, Верхний Качаловский пруд",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Северное Бутово",
+        "Address": "улица Знаменские Садки, дом 7, корпус 1",
+        "Email": "avtodor@uzao.mos.ru",
+        "WebSite": "avtodor.net",
+        "HelpPhone": "(499) 128-17-63",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-01.09",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "грунтовое покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "частично приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407142148
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5764633553047,
+          55.5734242688279
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды, Малый Качаловский пруд",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Северное Бутово",
+        "Address": "улица Знаменские Садки, дом 7, корпус 1",
+        "Email": "avtodor@uzao.mos.ru",
+        "WebSite": "avtodor.net",
+        "HelpPhone": "(499) 128-17-63",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-30.11",
+        "Lighting": "освещение газоразрядными лампами",
+        "SurfaceTypeSummer": "асфальтовое, бетонное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "частично приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407142222
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.1765707703317,
+          55.9907305554361
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды",
+        "AdmArea": "Зеленоградский административный округ",
+        "District": "район Силино",
+        "Address": "Филаретовская улица, дом 1, строение 1",
+        "Email": "gbuzelenograd@zelao.mos.ru",
+        "WebSite": "gbuzelenograd.ru/",
+        "HelpPhone": "(499) 731-77-78",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-30.11",
+        "Lighting": "освещение газоразрядными лампами",
+        "SurfaceTypeSummer": "газонное покрытие (натуральное)",
+        "Seats": 100,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "частично приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407142329
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7174992539853,
+          55.6304773478624
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "Зона отдыха у воды",
+        "AdmArea": "Южный административный округ",
+        "District": "район Орехово-Борисово Северное",
+        "Address": "улица Маршала Захарова, дом 6, корпус 1",
+        "Email": "info@park-kuzminki.ru",
+        "WebSite": "www.park-kuzminki.ru",
+        "HelpPhone": "(499) 175-33-69",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-30.11",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "отсыпное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407142382
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5411213878318,
+          55.9415685921123
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды, «Долгие пруды»",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Северный",
+        "Address": "Дмитровское шоссе, дом 150",
+        "Email": "mospriroda@eco.mos.ru",
+        "WebSite": "mospriroda.ru",
+        "HelpPhone": "(495) 777-77-77",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "газонное покрытие (натуральное)",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407142430
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5580381534459,
+          55.7277891663279
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Хамовники",
+        "Address": "Новодевичий проезд, дом 1, строение 1",
+        "Email": "info@mosgorad.ru",
+        "WebSite": "www.mosgorsad.ru",
+        "HelpPhone": "(495) 699-08-49",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.06-30.09",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "газонное покрытие (натуральное)",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "частично приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407142527
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6753730524726,
+          55.6142156660685
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды, Верхний Царицынский пруд",
+        "AdmArea": "Южный административный округ",
+        "District": "район Бирюлёво Восточное",
+        "Address": "Дольская улица, дом 1",
+        "Email": "gmz@tsaritsyno.net",
+        "WebSite": "www.tsaritsyno-museum.ru",
+        "HelpPhone": "(495) 321-63-66",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "да",
+        "HasDressingRoom": "нет",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "да",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-30.11",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "газонное покрытие (натуральное)",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "частично приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407142573
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6872483862044,
+          55.6311698771437
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды, Нижний Царицынский пруд",
+        "AdmArea": "Южный административный округ",
+        "District": "район Орехово-Борисово Северное",
+        "Address": "Дольская улица, дом 1",
+        "Email": "gmz@tsaritsyno.net",
+        "WebSite": "www.tsaritsyno-museum.ru",
+        "HelpPhone": "(495) 321-63-66",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "да",
+        "HasDressingRoom": "нет",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "да",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-30.11",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "газонное покрытие (натуральное)",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "частично приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407142631
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.204720933612,
+          55.9671238356518
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "Зона отдыха у воды Каскад «Малинские пруды»",
+        "AdmArea": "Зеленоградский административный округ",
+        "District": "район Крюково",
+        "Address": "посёлок Малино, дом 30",
+        "Email": "krukovo@mos.ru",
+        "WebSite": "krukovo.mos.ru",
+        "HelpPhone": "(499) 717-44-33",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-30.11",
+        "Lighting": "освещение газоразрядными лампами",
+        "SurfaceTypeSummer": "газонное покрытие (натуральное)",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "частично приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407142679
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.1512107279759,
+          55.9803453964205
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды, Михайловский пруд",
+        "AdmArea": "Зеленоградский административный округ",
+        "District": "район Крюково",
+        "Address": "город Зеленоград, корпус 1560",
+        "Email": "gbukrukovo@mail.ru",
+        "WebSite": "gbuzelenograd.ru/",
+        "HelpPhone": "(499) 717-75-10",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-30.11",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "асфальтовое, бетонное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "частично приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407142730
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6903010462457,
+          55.733831106487
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды",
+        "AdmArea": "Центральный административный округ",
+        "District": "Таганский район",
+        "Address": "Большой Калитниковский проезд, дом 11, строение 1",
+        "Email": "urtagansky@mos.ru",
+        "WebSite": "tagan.mos.ru",
+        "HelpPhone": "(495) 911-12-81",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-30.11",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "газонное покрытие (натуральное)",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407142773
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.8191218938038,
+          55.7653575108475
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Ивановское",
+        "Address": "Свободный проспект, дом 2А",
+        "Email": "ppkio@mail.ru",
+        "WebSite": "www.perovskiy-park.ru/",
+        "HelpPhone": "(495) 309-53-42",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "да",
+        "HasDressingRoom": "да",
+        "HasEatery": "нет",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-30.11",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "газонное покрытие (натуральное)",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "приспособлен для всех групп инвалидов",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407142915
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.3655760308862,
+          55.8588442737331
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды, «Рождественский пруд»",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Митино",
+        "Address": "Муравская улица, дом 24, корпус 2",
+        "Email": "mitino@mos.ru",
+        "WebSite": "mitino.mos.ru",
+        "HelpPhone": "(495) 751-14-92",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407143103
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.3655419911959,
+          55.8379151904081
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Митино",
+        "Address": "улица Барышиха, дом 8",
+        "Email": "info@bapark.ru",
+        "WebSite": "bapark.ru",
+        "HelpPhone": "(499) 184-34-22",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "газонное покрытие (натуральное)",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407143283
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5394813584747,
+          55.5984406819713
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды, «Новоясеневские пруды»",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Ясенево",
+        "Address": "улица Паустовского, дом 8, корпус 1",
+        "Email": "soc.yasenevo@mail.ru",
+        "WebSite": "yasenevo.mos.ru",
+        "HelpPhone": "(495) 422-02-33",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "асфальтовое, бетонное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "частично приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407143396
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4802213868047,
+          55.6761914085611
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды, «Пруд №1», Между ул. Лобачевского и Коштоянца",
+        "AdmArea": "Западный административный округ",
+        "District": "район Проспект Вернадского",
+        "Address": "улица Лобачевского, дом 27",
+        "Email": "info@parkfili.com",
+        "WebSite": "parkfili.com",
+        "HelpPhone": "(499) 145-45-05",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "да",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "газонное покрытие (натуральное)",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407143494
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4780627977089,
+          55.6778446557618
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды, «Пруд №2», между ул. Лобачевского и Коштоянца",
+        "AdmArea": "Западный административный округ",
+        "District": "район Проспект Вернадского",
+        "Address": "улица Лобачевского, дом 27",
+        "Email": "info@parkfili.com",
+        "WebSite": "parkfili.com",
+        "HelpPhone": "(499) 145-45-05",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "газонное покрытие (натуральное)",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407143549
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4732761091685,
+          55.6795552220877
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды, «Пруд №3», между ул.Лобачевского и Коштоянца",
+        "AdmArea": "Западный административный округ",
+        "District": "район Тропарёво-Никулино",
+        "Address": "улица Лобачевского, дом 27",
+        "Email": "info@parkfili.com",
+        "WebSite": "parkfili.com",
+        "HelpPhone": "(499) 145-45-05",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "газонное покрытие (натуральное)",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407143734
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.474795685483,
+          55.6811326647041
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды, «Пруд №4», между ул.Лобачевского и Коштоянца",
+        "AdmArea": "Западный административный округ",
+        "District": "район Проспект Вернадского",
+        "Address": "улица Лобачевского, дом 27",
+        "Email": "info@parkfili.com",
+        "WebSite": "parkfili.com",
+        "HelpPhone": "(499) 145-45-05",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "газонное покрытие (натуральное)",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407143792
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.3919094253484,
+          55.652717390912
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды, «Пруд Центральный»",
+        "AdmArea": "Западный административный округ",
+        "District": "район Солнцево",
+        "Address": "улица Богданова, дом 14, корпус 1",
+        "Email": "gkh-solncevo@mail.ru",
+        "WebSite": "munsolncevo.ru",
+        "HelpPhone": "(495) 435-22-20",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "газонное покрытие (натуральное)",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407143842
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6120791895203,
+          55.7002223628345
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды",
+        "AdmArea": "Южный административный округ",
+        "District": "Донской район",
+        "Address": "Загородное шоссе, дом 2, сооружение 1",
+        "Email": "sodns@uao.mos.ru",
+        "WebSite": "donskoy.mos.ru",
+        "HelpPhone": "(495) 958-15-90",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-30.11",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "газонное покрытие (натуральное)",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407143906
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5993332715157,
+          55.6058089373746
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды №1",
+        "AdmArea": "Южный административный округ",
+        "District": "район Чертаново Центральное",
+        "Address": "Кировоградская улица, дом 32",
+        "Email": "info@gbuchc.ru",
+        "WebSite": "chertanovocentr.mos.ru/",
+        "HelpPhone": "(495) 316-73-66",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "да",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "30.04-30.11",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "газонное покрытие (натуральное)",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407143967
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5971124024517,
+          55.6057117601217
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды №2",
+        "AdmArea": "Южный административный округ",
+        "District": "район Чертаново Центральное",
+        "Address": "Кировоградская улица, дом 32",
+        "Email": "info@gbuchc.ru",
+        "WebSite": "chertanovocentr.mos.ru/",
+        "HelpPhone": "(495) 316-73-66",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "да",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "30.04-30.11",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "газонное покрытие (натуральное)",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407144044
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5948754401333,
+          55.6056540611576
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды №3",
+        "AdmArea": "Южный административный округ",
+        "District": "район Чертаново Центральное",
+        "Address": "Кировоградская улица, дом 32",
+        "Email": "info@gbuchc.ru",
+        "WebSite": "chertanovocentr.mos.ru/",
+        "HelpPhone": "(495) 316-73-66",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "да",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "30.04-30.11",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "газонное покрытие (натуральное)",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407144124
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6709436347127,
+          55.6620206311675
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "Место массового отдыха на Набережной",
+        "AdmArea": "Южный административный округ",
+        "District": "район Нагатинский Затон",
+        "Address": "проспект Андропова, дом 39",
+        "Email": "mgomz@culture.mos.ru",
+        "WebSite": "www.mgomz.ru",
+        "HelpPhone": "(499) 612-11-55",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "да",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "освещение лампами накаливания",
+        "SurfaceTypeSummer": "асфальтовое, бетонное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "частично приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407144184
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6630227430355,
+          55.7009142746895
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у Кожуховского пруда",
+        "AdmArea": "Южный административный округ",
+        "District": "Даниловский район",
+        "Address": "улица Лобанова, дом 5",
+        "Email": "",
+        "WebSite": "danilovsky.mos.ru",
+        "HelpPhone": "(495) 952-70-75",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407144249
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6261976354896,
+          55.6052215887052
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды у Покровского пруда",
+        "AdmArea": "Южный административный округ",
+        "District": "район Чертаново Южное",
+        "Address": "Дорожная улица, дом 5, корпус 1",
+        "Email": "sosch@uao.mos.ru",
+        "WebSite": "chertanovo-juzhnoe.mos.ru",
+        "HelpPhone": "(495) 389-40-36",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "освещение газоразрядными лампами",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407145080
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4097067954579,
+          55.8421581274805
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Южное Тушино",
+        "Address": "улица Вилиса Лациса, домовладение 26, строение 1",
+        "Email": "mospriroda@eco.mos.ru",
+        "WebSite": "www.mospriroda.ru",
+        "HelpPhone": "(499) 739-27-05",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-30.11",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "газонное покрытие (натуральное)",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407145142
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.774675201614,
+          55.7755240178209
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "Место массового отдыха Красный пруд (Измайловский лесопарк)",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Измайлово",
+        "Address": "Измайловский проспект, владение 54",
+        "Email": "ooptvao@gmail.com",
+        "WebSite": "mosecovao.info",
+        "HelpPhone": "(499) 367-89-18",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.03-30.11",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "газонное покрытие (натуральное)",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407146262
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5761717739687,
+          55.6761821062233
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "Академический район",
+        "Address": "улица Кржижановского, дом 24/35, корпус 5",
+        "Email": "academsport@mail.ru",
+        "WebSite": "akademichesky.mos.ru/",
+        "HelpPhone": "(499) 125-28-75",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "асфальтовое, бетонное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407152029
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5464626357243,
+          55.5853211685744
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды, «Битца», 35-36 км МКАД (внешняя сторона)",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Северное Бутово",
+        "Address": "Новоясеневский тупик, дом 1, строение 2",
+        "Email": "mospriroda@eco.mos.ru",
+        "WebSite": "www.mospriroda.ru",
+        "HelpPhone": "(499) 739-27-05",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "грунтовое покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407152352
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6061435092621,
+          55.7367480558966
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды, «Крымская набережная»",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Якиманка",
+        "Address": "улица Крымский Вал, дом 10",
+        "Email": "official@park-gorkogo.com",
+        "WebSite": "www.park-gorkogo.com",
+        "HelpPhone": "(499) 995-00-20",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "асфальтовое, бетонное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "частично приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 419050204
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5878964596958,
+          55.6479853119101
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Зюзино",
+        "Address": "улица Каховка, дом 9, корпус 2",
+        "Email": "uzao-zuzino@mos.ru",
+        "WebSite": "zuzino.mos.ru",
+        "HelpPhone": "(499) 122-33-35",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "да",
+        "HasFirstAidPost": "да",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "асфальтовое, бетонное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "частично приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 436517300
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5948487598626,
+          55.7254576312325
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды Голицинского пруда",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Якиманка",
+        "Address": "улица Крымский Вал, дом 9, строение 1",
+        "Email": "official@park-gorkogo.com",
+        "WebSite": "www.park-gorkogo.com",
+        "HelpPhone": "(495) 995-00-20",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "да",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "да",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "деревянное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "частично приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 625842873
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6046107698817,
+          55.7299672749001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды, Пионерский пруд, у главного входа с левой стороны",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Якиманка",
+        "Address": "улица Крымский Вал, дом 9, строение 1",
+        "Email": "official@park-gorkogo.com",
+        "WebSite": "www.park-gorkogo.com",
+        "HelpPhone": "(495) 995-00-20",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "да",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "да",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.05-30.09",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "отсыпное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "частично приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 625842988
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5070889973449,
+          55.659554842188
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "Обручевский район",
+        "Address": "улица Обручева, дом 6",
+        "Email": "mospriroda@eco.mos.ru",
+        "WebSite": "mospriroda.ru",
+        "HelpPhone": "(499) 739-27-05",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-30.11",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "асфальтовое, бетонное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "частично приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 625844010
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.757850068495,
+          55.6880467900196
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды №2, «Люблинские пруды»",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Люблино",
+        "Address": "Кузьминский парк, дом 1, строение 2",
+        "Email": "parkkuzminki@culture.mos.ru",
+        "WebSite": "www.park-kuzminki.ru",
+        "HelpPhone": "(495) 175-33-69",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.04-30.11",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "газонное покрытие (натуральное)",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 626006427
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7723318755278,
+          55.6926376981825
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды №1, «Шибаевский Пруд»",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Кузьминки",
+        "Address": "Кузьминский парк, дом 1, строение 2",
+        "Email": "parkkuzminki@culture.mos.ru",
+        "WebSite": "www.park-kuzminki.ru",
+        "HelpPhone": "(495) 175-33-69",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.04-30.11",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "газонное покрытие (натуральное)",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 626006696
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4256389889619,
+          55.7791638980681
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды, озеро Бездонное",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Хорошёво-Мнёвники",
+        "Address": "Таманская улица, дом 2А, строение 1",
+        "Email": "dir-serbor@mos.eco.ru",
+        "WebSite": "www.mospriroda.ru",
+        "HelpPhone": "(499) 199-01-10",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "да",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-30.11",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "грунтовое покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 626007401
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6613119920823,
+          55.8105298845491
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды, каскад Путяевских прудов",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Сокольники",
+        "Address": "улица Сокольнический Вал, дом 1, строение 1",
+        "Email": "info@park.sokolniki.com",
+        "WebSite": "park.sokolniki.com",
+        "HelpPhone": "(499) 268-54-30",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "да",
+        "HasDressingRoom": "нет",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "да",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.04-30.11",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "газонное покрытие (натуральное)",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "частично приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 626011800
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.604984222576,
+          55.6653962342417
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Котловка",
+        "Address": "Нахимовский проспект, дом 8",
+        "Email": "1239400@mail.ru",
+        "WebSite": "avtodor.net",
+        "HelpPhone": "(499) 123-94-00",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "асфальтовое, бетонное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "частично приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 626369658
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.809201997345,
+          55.8303767878451
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Гольяново",
+        "Address": "Курганская улица, дом 5",
+        "Email": "losinyyostrov@gmail.com",
+        "WebSite": "elkisland.ru",
+        "HelpPhone": "(499) 268-60-45",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "грунтовое покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 863616311
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.58217317074,
+          55.9078335580451
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Лианозово",
+        "Address": "Алтуфьевское шоссе, дом 147А",
+        "Email": "liapark@yandex.ru",
+        "WebSite": "liapark.ru",
+        "HelpPhone": "(499) 908-35-00",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "грунтовое покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 863616530
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5866724237883,
+          55.8139885117658
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Бутырский район",
+        "Address": "улица Руставели, дом 7, строение 1",
+        "Email": "parkdubki@culture.mos.ru",
+        "WebSite": "www.park-dubki.ru",
+        "HelpPhone": "(910) 458-53-00",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "да",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "нет",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "да",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "газонное покрытие (натуральное)",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 863616666
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.1955237350428,
+          55.9964957915627
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды, Дунькин пруд",
+        "AdmArea": "Зеленоградский административный округ",
+        "District": "район Силино",
+        "Address": "город Зеленоград, корпус 1207",
+        "Email": "gbu-silino@zelao.mos.ru",
+        "WebSite": "silino.mos.ru",
+        "HelpPhone": "(499) 995-00-54",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.06-31.08",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 863617395
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6642110788335,
+          55.7978373971028
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды, Золотой пруд",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Сокольники",
+        "Address": "улица Сокольнический Вал, дом 1, строение 1",
+        "Email": "info@park.sokolniki.com",
+        "WebSite": "park.sokolniki.com",
+        "HelpPhone": "(499) 268-54-30",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "да",
+        "HasDressingRoom": "нет",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "да",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.04-30.11",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "газонное покрытие (натуральное)",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "частично приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 863619911
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.8212063537431,
+          55.7309504528624
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды, «Большой Дворцовый (Кусковский) пруд»",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Вешняки",
+        "Address": "улица Юности, дом 2",
+        "Email": "Info@post.gbuv.ru",
+        "WebSite": "gbuv.ru/",
+        "HelpPhone": "(499) 373-39-01",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.06-31.08",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "грунтовое покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 863622880
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5166607242179,
+          55.843275636993
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды",
+        "AdmArea": "Северный административный округ",
+        "District": "Головинский район",
+        "Address": "Михалковская улица, дом 38",
+        "Email": "golovin.08@list.ru",
+        "WebSite": "nashe-golovino.ru",
+        "HelpPhone": "(495) 708-05-11",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-30.11",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "асфальтовое, бетонное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 863623587
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5460915543753,
+          55.757095377377
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды, Нижний Красногвардейский пруд",
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "Address": "Красногвардейский бульвар, дом 9",
+        "Email": "info@p-kp.ru",
+        "WebSite": "p-kp.ru/",
+        "HelpPhone": "(499) 256-13-02",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-30.11",
+        "Lighting": "освещение светодиодными лампами",
+        "SurfaceTypeSummer": "деревянное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "частично приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 865479628
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5454965480532,
+          55.7621191993716
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды Средний Красногвардейский пруд",
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "Address": "Красногвардейский бульвар, дом 9",
+        "Email": "info@p-kp.ru",
+        "WebSite": "p-kp.ru/",
+        "HelpPhone": "(499) 256-13-02",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.05-31.10",
+        "Lighting": "освещение светодиодными лампами",
+        "SurfaceTypeSummer": "деревянное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 865479652
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5445524104799,
+          55.7591458820517
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды Верхний Красногвардейский пруд",
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "Address": "Красногвардейский бульвар, дом 9",
+        "Email": "info@p-kp.ru",
+        "WebSite": "p-kp.ru/",
+        "HelpPhone": "(499) 256-13-02",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.05-31.10",
+        "Lighting": "освещение светодиодными лампами",
+        "SurfaceTypeSummer": "деревянное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 865479672
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7167264691769,
+          55.6410103057792
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Марьино",
+        "Address": "Поречная улица, дом 13, корпус 1",
+        "Email": "park850@mail.ru",
+        "WebSite": "parkseason.ru/parki-moskvi/park-850-letiya-moskvy/",
+        "HelpPhone": "(495) 657-45-05",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "газонное покрытие (искусственное)",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "приспособлен для всех групп инвалидов",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 865480584
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5862750629219,
+          55.6061313577373
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды №2",
+        "AdmArea": "Южный административный округ",
+        "District": "район Чертаново Южное",
+        "Address": "Чертановская улица, дом 48, корпус 3",
+        "Email": "chu-zhil@yandex.ru",
+        "WebSite": "chertanovo-juzhnoe.mos.ru",
+        "HelpPhone": "(495) 389-47-09",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-30.11",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "грунтовое покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 865492574
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5879224979771,
+          55.6058599339423
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды №1",
+        "AdmArea": "Южный административный округ",
+        "District": "район Чертаново Южное",
+        "Address": "Чертановская улица, дом 48, корпус 3",
+        "Email": "chu-zhil@yandex.ru",
+        "WebSite": "chertanovo-juzhnoe.mos.ru",
+        "HelpPhone": "(495) 389-47-09",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-30.11",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "грунтовое покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 865492576
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4549649322244,
+          55.8596814226051
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды, «Пляж песчаный без купания»",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Северное Тушино",
+        "Address": "улица Свободы, дом 52",
+        "Email": "info@mosparks.ru",
+        "WebSite": "mosparks.ru/",
+        "HelpPhone": "(495) 640-73-55",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "да",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.06-30.09",
+        "Lighting": "освещение светодиодными лампами",
+        "SurfaceTypeSummer": "отсыпное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 865492926
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4545518720343,
+          55.8594110895408
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды, «Пляж травяной»",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Северное Тушино",
+        "Address": "улица Свободы, дом 52",
+        "Email": "info@mosparks.ru",
+        "WebSite": "mosparks.ru/",
+        "HelpPhone": "(495) 640-73-55",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "да",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.06-30.11",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "газонное покрытие (натуральное)",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 865493074
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6541171626739,
+          55.731244226959
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды",
+        "AdmArea": "Центральный административный округ",
+        "District": "Таганский район",
+        "Address": "Саринский проезд, дом 2",
+        "Email": "ador-kanc@dom.mos.ru",
+        "WebSite": "gbuador.ru/",
+        "HelpPhone": "(495) 940-09-37",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "газонное покрытие (натуральное)",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "частично приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 865495550
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5899323450446,
+          55.7213814500875
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды, Пушкинская набережная",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Якиманка",
+        "Address": "улица Крымский Вал, дом 9, строение 1",
+        "Email": "official@park-gorkogo.com",
+        "WebSite": "www.park-gorkogo.com",
+        "HelpPhone": "(495) 995-00-20",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "да",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "да",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "асфальтовое, бетонное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "частично приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 865496086
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5390623540039,
+          55.7201703201082
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды, Воробьевская набережная",
+        "AdmArea": "Западный административный округ",
+        "District": "район Раменки",
+        "Address": "улица Крымский Вал, дом 9, строение 1",
+        "Email": "official@park-gorkogo.com",
+        "WebSite": "www.park-gorkogo.com",
+        "HelpPhone": "(495) 995-00-20",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "да",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "да",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "асфальтовое, бетонное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "частично приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 865496127
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4114617060093,
+          55.815867634517
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "«зона отдыха у воды без купания Кировская пойма»",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Строгино",
+        "Address": "Живописная улица, дом 50",
+        "Email": "gpbu@oopt-szao.ru",
+        "WebSite": "www.mospriroda.ru",
+        "HelpPhone": "(499) 199-01-10",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "да",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-30.11",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "газонное покрытие (натуральное)",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 930085374
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4466933266839,
+          55.7827215359111
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "«место массового отдыха Хорошевское Спрямление»",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Хорошёво-Мнёвники",
+        "Address": "Живописная улица, дом 50",
+        "Email": "gpbu@oopt-szao.ru",
+        "WebSite": "www.mospriroda.ru",
+        "HelpPhone": "(499) 199-01-10",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "да",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-30.11",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "газонное покрытие (натуральное)",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 930085377
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4181678016863,
+          55.8111462289944
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "место массового отдыха река Москва, правый берег",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Строгино",
+        "Address": "Живописная улица, дом 50",
+        "Email": "gpbu@oopt-szao.ru",
+        "WebSite": "www.mospriroda.ru",
+        "HelpPhone": "(499) 199-01-10",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "да",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-30.11",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "газонное покрытие (натуральное)",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 930087382
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5644818925936,
+          55.7098043450851
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды, Андреевская набережная",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "Гагаринский район",
+        "Address": "улица Крымский Вал, дом 9, строение 1",
+        "Email": "official@park-gorkogo.com",
+        "WebSite": "www.park-gorkogo.com",
+        "HelpPhone": "(495) 995-00-20",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "да",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "да",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "асфальтовое, бетонное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "частично приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 930089643
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6212694908722,
+          55.7828308911615
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды",
+        "AdmArea": "Центральный административный округ",
+        "District": "Мещанский район",
+        "Address": "Большая Екатерининская улица, дом 27",
+        "Email": "srcvv@mos.ru",
+        "WebSite": "srcvvvs.ru",
+        "HelpPhone": "(495) 600-63-91",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "грунтовое покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "приспособлен для всех групп инвалидов",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 930704268
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.2500857080175,
+          55.9931454341248
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды, «Никольский пруд»",
+        "AdmArea": "Зеленоградский административный округ",
+        "District": "район Савёлки",
+        "Address": "Никольский проезд, дом 5",
+        "Email": "",
+        "WebSite": "n-park.ru",
+        "HelpPhone": "(800) 937-12-21",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.06-31.08",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "газонное покрытие (натуральное)",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "частично приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 930704271
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6200023739581,
+          55.8391646855945
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды, «Четвертый пруд каскада прудов реки Каменка»",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Останкинский район",
+        "Address": "проспект Мира, дом 119, строение 6",
+        "Email": "info@vvcentre.ru",
+        "WebSite": "vdnh.ru",
+        "HelpPhone": "(495) 748-35-00",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "да",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "да",
+        "HasFirstAidPost": "да",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.04-30.11",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "отсыпное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 930704272
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6885652975154,
+          55.763894467279
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у пруда",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Лефортово",
+        "Address": "Красноказарменная улица, дом 3",
+        "Email": "mgomz@culture.mos.ru",
+        "WebSite": "avtodor-uvao.ru",
+        "HelpPhone": "(499) 261-70-20",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.05-30.09",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "газонное покрытие (натуральное)",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 930704276
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.8102979386463,
+          55.774129889686
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды без купания Лебедянский пруд",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Ивановское",
+        "Address": "Большой Купавенский проезд, дом 2",
+        "Email": "dir-vao@eco.mos.ru",
+        "WebSite": "www.mosecovao.info/vaoeco/ru/",
+        "HelpPhone": "(499) 367-89-18",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-30.11",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "газонное покрытие (натуральное)",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 930704278
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.451755224823,
+          55.8359872475275
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды, «правый берег»",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Южное Тушино",
+        "Address": "Малая Набережная улица, дом 15, корпус 1",
+        "Email": "",
+        "WebSite": "vk.com/avdzao",
+        "HelpPhone": "(499) 492-29-36",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.06-31.08",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "газонное покрытие (натуральное)",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 930704279
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5342752377156,
+          55.6238547863445
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды, «Пруды на территории санатория Узкое»",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Ясенево",
+        "Address": "Профсоюзная улица, дом 123А, строение 10",
+        "Email": "",
+        "WebSite": "",
+        "HelpPhone": "",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-30.11",
+        "Lighting": "освещение лампами накаливания",
+        "SurfaceTypeSummer": "асфальтовое, бетонное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "частично приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 930704280
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4494803923717,
+          55.8351414477428
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды, «левый берег»",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Покровское-Стрешнево",
+        "Address": "Малая Набережная улица, дом 15, корпус 1",
+        "Email": "",
+        "WebSite": "vk.com/avdzao",
+        "HelpPhone": "(499) 492-29-36",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.06-31.08",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "газонное покрытие (искусственное)",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 930704281
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6105036590921,
+          55.8230739711083
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды, «Останкинский Дворцовый пруд»",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Останкинский район",
+        "Address": "1-я Останкинская улица, дом 7А, строение 3",
+        "Email": "dir-svao@eco.mos.ru",
+        "WebSite": "www.mospriroda.ru/wheretogo/territorii/prirodnoistoricheskiyparkostankino/",
+        "HelpPhone": "(499) 477-11-97",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "да",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.09-31.08",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "асфальтовое, бетонное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "частично приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 930704283
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.62806953853,
+          55.8391490829611
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды, «Шестой пруд каскада прудов реки Каменка»",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Останкинский район",
+        "Address": "проспект Мира, дом 119, строение 6",
+        "Email": "info@vvcentre.ru",
+        "WebSite": "vdnh.ru",
+        "HelpPhone": "(495) 748-35-00",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "да",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "да",
+        "HasFirstAidPost": "да",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "грунтовое покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": "частично приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 930704284
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.608334777771,
+          55.8338315262448
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды, «Первый пруд каскада прудов реки Каменка»",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Останкинский район",
+        "Address": "1-я Останкинская улица, дом 7А, строение 3",
+        "Email": "dir-svao@eco.mos.ru",
+        "WebSite": "www.mospriroda.ru/wheretogo/territorii/prirodnoistoricheskiyparkostankino/",
+        "HelpPhone": "(499) 477-11-97",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "да",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.04-30.11",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "отсыпное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 930704285
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.61715924543,
+          55.8297654295467
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды, «Останкинский Садовый пруд»",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Останкинский район",
+        "Address": "1-я Останкинская улица, дом 7А, строение 3",
+        "Email": "dir-svao@eco.mos.ru",
+        "WebSite": "www.mospriroda.ru/wheretogo/territorii/prirodnoistoricheskiyparkostankino/",
+        "HelpPhone": "(499) 477-11-97",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "да",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.09-31.08",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "газонное покрытие (натуральное)",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 930704286
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.8126429147521,
+          55.764617593254
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды без купания Терлецкая дубрава",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Ивановское",
+        "Address": "Свободный проспект, дом 9, корпус 1",
+        "Email": "ooptvao@gmail.com",
+        "WebSite": "www.mospriroda.ru/",
+        "HelpPhone": "(499) 367-89-18",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.05-31.08",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "газонное покрытие (натуральное)",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 930704287
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6108643711532,
+          55.8344798026278
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды, «Второй пруд каскада прудов реки Каменка»",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Останкинский район",
+        "Address": "проспект Мира, дом 119, строение 6",
+        "Email": "info@vvcentre.ru",
+        "WebSite": "vdnh.ru",
+        "HelpPhone": "(495) 748-35-00",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "да",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "да",
+        "HasFirstAidPost": "да",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.09-31.08",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "грунтовое покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1047341038
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5094799200724,
+          55.5309160634465
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона у воды",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Южное Бутово",
+        "Address": "Южнобутовская улица, дом 86, корпус 2",
+        "Email": "avtodor@uzao.mos.ru",
+        "WebSite": "avtodor.net",
+        "HelpPhone": "(499) 128-17-63",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.05-31.08",
+        "Lighting": "освещение лампами накаливания",
+        "SurfaceTypeSummer": "отсыпное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "частично приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1047341912
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7921369132865,
+          55.6268793062305
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды №2",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Капотня",
+        "Address": "5-й квартал Капотня, дом 25",
+        "Email": "uprava-kapotnya@mos.ru",
+        "WebSite": "uprava-kapotnya.mos.ru/",
+        "HelpPhone": "(495) 777-77-77",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "деревянное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1047349347
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4543801254911,
+          55.7763643335202
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "место массового отдыха река Москва, левый берег.",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Хорошёво-Мнёвники",
+        "Address": "Живописная улица, дом 50",
+        "Email": "gpbu@oopt-szao.ru",
+        "WebSite": "www.mospriroda.ru",
+        "HelpPhone": "(499) 199-01-10",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "да",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-30.11",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "газонное покрытие (натуральное)",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1047355502
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4204280672169,
+          55.8019835911809
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды Строгинская пойма",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Строгино",
+        "Address": "Живописная улица, дом 50",
+        "Email": "gpbu@oopt-szao.ru",
+        "WebSite": "www.mospriroda.ru",
+        "HelpPhone": "(499) 199-01-10",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "да",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-30.11",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "грунтовое покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1047355722
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.2225247279331,
+          55.9860307893719
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды, «Большой городской пруд»",
+        "AdmArea": "Зеленоградский административный округ",
+        "District": "район Савёлки",
+        "Address": "Центральная площадь, дом 1",
+        "Email": "zhil-savelki@mosk.ru",
+        "WebSite": "zhil-savelki.ru",
+        "HelpPhone": "(499) 736-78-86",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "да",
+        "HasEatery": "нет",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "да",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.06-31.08",
+        "Lighting": "освещение газоразрядными лампами",
+        "SurfaceTypeSummer": "отсыпное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "частично приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1047355909
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7096808416219,
+          55.6830464728132
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды",
+        "AdmArea": "Южный административный округ",
+        "District": "район Нагатинский Затон",
+        "Address": "Коломенская набережная, дом 6, корпус 2",
+        "Email": "sportzaton@mail.ru",
+        "WebSite": "nagatinsky-zaton.mos.ru",
+        "HelpPhone": "(499) 614-76-21",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.09-31.08",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1047359164
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.448868185619,
+          55.8004645865283
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "место массового отдыха без купания река Москва, левый берег",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Щукино",
+        "Address": "Живописная улица, дом 50",
+        "Email": "gpbu@oopt-szao.ru",
+        "WebSite": "www.mospriroda.ru",
+        "HelpPhone": "(499) 199-01-10",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "да",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-30.11",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "грунтовое покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1047363103
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6842481653528,
+          55.8756557345005
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Лосиноостровский район",
+        "Address": "Изумрудная улица, дом 13, корпус 1",
+        "Email": "gbu.losinoostrovskiy@mail.ru",
+        "WebSite": "losinka.mos.ru",
+        "HelpPhone": "(499) 185-99-38",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "газонное покрытие (натуральное)",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "частично приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1122711750
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4431637844696,
+          55.8735333402901
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Северное Тушино",
+        "Address": "улица Свободы, дом 80",
+        "Email": "",
+        "WebSite": "",
+        "HelpPhone": "",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "асфальтовое, бетонное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "частично приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1122712284
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6738252645874,
+          55.696619751868
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды",
+        "AdmArea": "Южный административный округ",
+        "District": "район Нагатинский Затон",
+        "Address": "проспект Андропова, дом 1А",
+        "Email": "pr@dreamisland.ru",
+        "WebSite": "dreamisland.ru/landscape/",
+        "HelpPhone": "(495) 739-64-24",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1123997299
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5089466679797,
+          55.6802810895112
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды",
+        "AdmArea": "Западный административный округ",
+        "District": "район Раменки",
+        "Address": "улица Удальцова, дом 22, корпус 2",
+        "Email": "info@parkfili.com",
+        "WebSite": "parkfili.com",
+        "HelpPhone": "(495) 621-88-68",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "грунтовое покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 2366648287
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5892468436554,
+          55.6059917504777
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды №3",
+        "AdmArea": "Южный административный округ",
+        "District": "район Чертаново Южное",
+        "Address": "Чертановская улица, дом 48, корпус 3",
+        "Email": "chu-zhil@yandex.ru",
+        "WebSite": "chertanovo-juzhnoe.mos.ru",
+        "HelpPhone": "(495) 389-47-09",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "газонное покрытие (натуральное)",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 2366663338
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7889887260865,
+          55.6306120346829
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды №1",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Капотня",
+        "Address": "5-й квартал Капотня, дом 25",
+        "Email": "uprava-kapotnya@mos.ru",
+        "WebSite": "uprava-kapotnya.mos.ru/",
+        "HelpPhone": "(495) 777-77-77",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "деревянное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 2366663484
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4288586410843,
+          55.8030344850136
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "зона отдыха у воды",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Строгино",
+        "Address": "Строгинское шоссе, дом 3Б/Н",
+        "Email": "mso@mos.sport",
+        "WebSite": "mos.sport/",
+        "HelpPhone": "(495) 681-01-48",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "да",
+        "HasEatery": "нет",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "деревянное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 2366665430
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,941 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.663881110061,
+          55.6174452427733
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 14,
+        "FullNameen": "Красногвардейская ветеринарная лечебница",
+        "ShortNameen": "Красногвардейская ВЛ г Москвы",
+        "ChiefNameen": "Седельников Михаил Юрьевич",
+        "ChiefPositionen": "Заведующий Красногвардейской ветеринарной лечебницы",
+        "INNen": "7708006274",
+        "KPPen": "772501001",
+        "OGRNen": "",
+        "AdmAreaen": null,
+        "Districten": null,
+        "Addressen": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Царицыно, Каспийская улица, дом 40",
+        "UNOMen": "3807027",
+        "ClarificationOfWorkingHoursen": "",
+        "Commentsen": "Структурное подразделение СББЖ ЮАО ГБУ «Мосветобъединение». Вакцинация, оформление ветеринарных сопроводительных документов, услуги по лечению животных. Работает центр лучевой диагностики и компьютерной томографии. ",
+        "globalid": 4712784
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.605528728112,
+          55.718185519986
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 2,
+        "FullNameen": "Государственное бюджетное учреждение города Москвы «Московское объединение ветеринарии»",
+        "ShortNameen": "ГБУ «Мосветобъединение»",
+        "ChiefNameen": "Махновецкая Елена Геннадьевна",
+        "ChiefPositionen": "Начальник ГБУ Мосветобъединение",
+        "INNen": "7708006274",
+        "KPPen": "772501001",
+        "OGRNen": "",
+        "AdmAreaen": "Yuzhny'j administrativny'j okrug",
+        "Districten": "Donskoj rajon",
+        "Addressen": "город Москва, Донская улица, дом 37, корпус 3",
+        "UNOMen": "3807156",
+        "ClarificationOfWorkingHoursen": "",
+        "Commentsen": "Учреждение, подведомственное Комитету ветеринарии города Москвы.",
+        "globalid": 4712786,
+        "PublicPhoneenisdeleted0": 0,
+        "PublicPhoneenPublicPhoneen0": "(495) 633-80-10",
+        "PublicPhoneenglobalid0": 5,
+        "PublicPhoneenisdeleted1": 0,
+        "PublicPhoneenPublicPhoneen1": "(495) 633-78-25",
+        "PublicPhoneenglobalid1": 6,
+        "WorkingHoursenisdeleted0": 0,
+        "WorkingHoursenDayOfWeeken0": "monday",
+        "WorkingHoursenHoursen0": "08:00-17:00",
+        "WorkingHoursenglobalid0": 15,
+        "WorkingHoursenisdeleted1": 0,
+        "WorkingHoursenDayOfWeeken1": "tuesday",
+        "WorkingHoursenHoursen1": "08:00-17:00",
+        "WorkingHoursenglobalid1": 16,
+        "WorkingHoursenisdeleted2": 0,
+        "WorkingHoursenDayOfWeeken2": "wednesday",
+        "WorkingHoursenHoursen2": "08:00-17:00",
+        "WorkingHoursenglobalid2": 17,
+        "WorkingHoursenisdeleted3": 0,
+        "WorkingHoursenDayOfWeeken3": "thursday",
+        "WorkingHoursenHoursen3": "08:00-17:00",
+        "WorkingHoursenglobalid3": 18,
+        "WorkingHoursenisdeleted4": 0,
+        "WorkingHoursenDayOfWeeken4": "friday",
+        "WorkingHoursenHoursen4": "08:00-15:45",
+        "WorkingHoursenglobalid4": 19,
+        "WorkingHoursenisdeleted5": 0,
+        "WorkingHoursenDayOfWeeken5": "saturday",
+        "WorkingHoursenHoursen5": "выходной",
+        "WorkingHoursenglobalid5": 20,
+        "WorkingHoursenisdeleted6": 0,
+        "WorkingHoursenDayOfWeeken6": "sunday",
+        "WorkingHoursenHoursen6": "выходной",
+        "WorkingHoursenglobalid6": 21
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.560138927174,
+          55.802855028335
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 3,
+        "FullNameen": "Государственное бюджетное учреждение города Москвы «Московская ветеринарная станция по борьбе с болезнями животных»",
+        "ShortNameen": "ГБУ «Мосветстанция»",
+        "ChiefNameen": "Парук Анатолий Петрович",
+        "ChiefPositionen": "Начальник ГБУ Мосветстанция",
+        "INNen": "7713082400",
+        "KPPen": "771401001",
+        "OGRNen": "",
+        "AdmAreaen": "Severny'j administrativny'j okrug",
+        "Districten": "Savyolovskij rajon",
+        "Addressen": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Савеловский, улица Юннатов, дом 16А",
+        "UNOMen": "2112412",
+        "ClarificationOfWorkingHoursen": "",
+        "Commentsen": "Учреждение, подведомственное Комитету ветеринарии города Москвы. Вакцинация, оформление ветеринарных сопроводительных документов, оказывает услуги по лечению, карантинированию животных, дезинфекции, дезинсекции, дератизации.",
+        "globalid": 4712787,
+        "PublicPhoneenisdeleted0": 0,
+        "PublicPhoneenPublicPhoneen0": "(495) 612-12-12",
+        "PublicPhoneenglobalid0": 7,
+        "WorkingHoursenisdeleted0": 0,
+        "WorkingHoursenDayOfWeeken0": "monday",
+        "WorkingHoursenHoursen0": "круглосуточно",
+        "WorkingHoursenglobalid0": 22,
+        "WorkingHoursenisdeleted1": 0,
+        "WorkingHoursenDayOfWeeken1": "tuesday",
+        "WorkingHoursenHoursen1": "круглосуточно",
+        "WorkingHoursenglobalid1": 23,
+        "WorkingHoursenisdeleted2": 0,
+        "WorkingHoursenDayOfWeeken2": "wednesday",
+        "WorkingHoursenHoursen2": "круглосуточно",
+        "WorkingHoursenglobalid2": 24,
+        "WorkingHoursenisdeleted3": 0,
+        "WorkingHoursenDayOfWeeken3": "thursday",
+        "WorkingHoursenHoursen3": "круглосуточно",
+        "WorkingHoursenglobalid3": 25,
+        "WorkingHoursenisdeleted4": 0,
+        "WorkingHoursenDayOfWeeken4": "friday",
+        "WorkingHoursenHoursen4": "круглосуточно",
+        "WorkingHoursenglobalid4": 26,
+        "WorkingHoursenisdeleted5": 0,
+        "WorkingHoursenDayOfWeeken5": "saturday",
+        "WorkingHoursenHoursen5": "круглосуточно",
+        "WorkingHoursenglobalid5": 27,
+        "WorkingHoursenisdeleted6": 0,
+        "WorkingHoursenDayOfWeeken6": "sunday",
+        "WorkingHoursenHoursen6": "круглосуточно",
+        "WorkingHoursenglobalid6": 28
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.560741650136,
+          55.803184096686
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 4,
+        "FullNameen": "Городская ветеринарная лаборатория",
+        "ShortNameen": "Горветлаборатория",
+        "ChiefNameen": "Молодкина Анастасия Юрьевна",
+        "ChiefPositionen": "Директор Городской ветеринарной лаборатории",
+        "INNen": "7708006274",
+        "KPPen": "772501001",
+        "OGRNen": "",
+        "AdmAreaen": "Severny'j administrativny'j okrug",
+        "Districten": "Savyolovskij rajon",
+        "Addressen": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Савеловский, улица Юннатов, дом 16А, строение 4",
+        "UNOMen": "2112439",
+        "ClarificationOfWorkingHoursen": "",
+        "Commentsen": "Структурное подразделение ГБУ \"Мосветобъединение\". Проводит лабораторные исследования биоматериала, проб сырья и пищевой продукции.",
+        "globalid": 4712788,
+        "PublicPhoneenisdeleted0": 0,
+        "PublicPhoneenPublicPhoneen0": "(495) 612-35-51",
+        "PublicPhoneenglobalid0": 9,
+        "PublicPhoneenisdeleted1": 0,
+        "PublicPhoneenPublicPhoneen1": "(495) 612-10-23",
+        "PublicPhoneenglobalid1": 10,
+        "WorkingHoursenisdeleted0": 0,
+        "WorkingHoursenDayOfWeeken0": "monday",
+        "WorkingHoursenHoursen0": "08:00-20:00",
+        "WorkingHoursenglobalid0": 29,
+        "WorkingHoursenisdeleted1": 0,
+        "WorkingHoursenDayOfWeeken1": "tuesday",
+        "WorkingHoursenHoursen1": "08:00-20:00",
+        "WorkingHoursenglobalid1": 30,
+        "WorkingHoursenisdeleted2": 0,
+        "WorkingHoursenDayOfWeeken2": "wednesday",
+        "WorkingHoursenHoursen2": "08:00-20:00",
+        "WorkingHoursenglobalid2": 31,
+        "WorkingHoursenisdeleted3": 0,
+        "WorkingHoursenDayOfWeeken3": "thursday",
+        "WorkingHoursenHoursen3": "08:00-20:00",
+        "WorkingHoursenglobalid3": 32,
+        "WorkingHoursenisdeleted4": 0,
+        "WorkingHoursenDayOfWeeken4": "friday",
+        "WorkingHoursenHoursen4": "08:00-20:00",
+        "WorkingHoursenglobalid4": 33,
+        "WorkingHoursenisdeleted5": 0,
+        "WorkingHoursenDayOfWeeken5": "saturday",
+        "WorkingHoursenHoursen5": "08:00-20:00",
+        "WorkingHoursenglobalid5": 34,
+        "WorkingHoursenisdeleted6": 0,
+        "WorkingHoursenDayOfWeeken6": "sunday",
+        "WorkingHoursenHoursen6": "08:00-20:00",
+        "WorkingHoursenglobalid6": 35
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.661764213148,
+          55.783674860095
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 5,
+        "FullNameen": "Красносельская ветеринарная лечебница",
+        "ShortNameen": "Красносельская ВЛ",
+        "ChiefNameen": "Стаканчикова Ирина Михайловна",
+        "ChiefPositionen": "Заведующий Красносельской ветеринарной лечебницей",
+        "INNen": "7708006274",
+        "KPPen": "772501001",
+        "OGRNen": "",
+        "AdmAreaen": null,
+        "Districten": null,
+        "Addressen": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Красносельский, Верхняя Красносельская улица, дом 14, строение 1",
+        "UNOMen": "4300577",
+        "ClarificationOfWorkingHoursen": "",
+        "Commentsen": "Структурное подразделение СББЖ ЦиСВАО ГБУ «Мосветобъединение». Вакцинация, оформление ветеринарных сопроводительных документов, услуги по лечению животных.",
+        "globalid": 4712789
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.528452327291,
+          55.844916535333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 6,
+        "FullNameen": "Станция по борьбе с болезнями животных Северного и Северо-Западного административных округов города Москвы",
+        "ShortNameen": "СББЖ СиСЗАО г Москвы",
+        "ChiefNameen": "Шарыкина Кристина Игоревна",
+        "ChiefPositionen": "Главный ветеринарный врач СББЖ СиСЗАО",
+        "INNen": "7708006274",
+        "KPPen": "772501001",
+        "OGRNen": "",
+        "AdmAreaen": null,
+        "Districten": null,
+        "Addressen": "город Москва, 2-й Лихачёвский переулок, дом 6",
+        "UNOMen": "2103140",
+        "ClarificationOfWorkingHoursen": "",
+        "Commentsen": "Структурное подразделение ГБУ «Мосветобъединение». Вакцинация, оформление ветеринарных сопроводительных документов, услуги по лечению животных. Работает центр травматологии и лучевой диагностики.",
+        "globalid": 4712790
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6329179714978,
+          55.8185258633842
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 7,
+        "FullNameen": "Станция по борьбе с болезнями животных Центрального и Северо-Восточного административных округов города Москвы",
+        "ShortNameen": "СББЖ ЦиСВАО г Москвы",
+        "ChiefNameen": "Дука Евгений Владимирович",
+        "ChiefPositionen": "Главный ветеринарный врач СББЖ ЦиСВАО",
+        "INNen": "7708006274",
+        "KPPen": "772501001",
+        "OGRNen": "",
+        "AdmAreaen": null,
+        "Districten": null,
+        "Addressen": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Останкинский, улица Кондратюка, дом 7, строение 2",
+        "UNOMen": "2137391",
+        "ClarificationOfWorkingHoursen": "",
+        "Commentsen": "Структурное подразделение ГБУ «Мосветобъединение». Вакцинация, оформление ветеринарных сопроводительных документов, услуги по лечению животных.",
+        "globalid": 4712791
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6329693676045,
+          55.8185290223317
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 8,
+        "FullNameen": "Бабушкинская ветеринарная лечебница",
+        "ShortNameen": "Бабушкинская ВЛ",
+        "ChiefNameen": "Щеголев Алексей Яковлевич",
+        "ChiefPositionen": "Заведующий Бабушкинской ветеринарной лечебницы",
+        "INNen": "7708006274",
+        "KPPen": "772501001",
+        "OGRNen": "",
+        "AdmAreaen": null,
+        "Districten": null,
+        "Addressen": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Ярославский, Хибинский проезд, дом 2",
+        "UNOMen": "2124972",
+        "ClarificationOfWorkingHoursen": "",
+        "Commentsen": "Структурное подразделение СББЖ ЦиСВАО ГБУ «Мосветобъединение». Вакцинация, оформление ветеринарных сопроводительных документов, услуги по лечению животных.",
+        "globalid": 4712792
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.824020057899,
+          55.739231373222
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 9,
+        "FullNameen": "Станция по борьбе с болезнями животных Восточного и Юго-Восточного административного округа города Москвы",
+        "ShortNameen": "СББЖ ВиЮВАО г Москвы",
+        "ChiefNameen": "Сорокина Татьяна Николаевна",
+        "ChiefPositionen": "Главный ветеринарный врач СББЖ ВиЮВАО",
+        "INNen": "7708006274",
+        "KPPen": "772501001",
+        "OGRNen": "",
+        "AdmAreaen": null,
+        "Districten": null,
+        "Addressen": "город Москва, улица Старый Гай, дом 10А",
+        "UNOMen": "2122055",
+        "ClarificationOfWorkingHoursen": "",
+        "Commentsen": "Структурное подразделение ГБУ «Мосветобъединение». Вакцинация, оформление ветеринарных сопроводительных документов, услуги по лечению животных.",
+        "globalid": 4712793
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.698378554278,
+          55.742628415632
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 10,
+        "FullNameen": "Нижегородский ветеринарный участок",
+        "ShortNameen": "Нижегородский ВУ",
+        "ChiefNameen": "Скворцова Ирина Ивановна",
+        "ChiefPositionen": "Ветеринарный врач первой категории",
+        "INNen": "7708006274",
+        "KPPen": "772501001",
+        "OGRNen": "",
+        "AdmAreaen": null,
+        "Districten": null,
+        "Addressen": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Лефортово, Старообрядческая улица, дом 30Б",
+        "UNOMen": "2130930",
+        "ClarificationOfWorkingHoursen": "",
+        "Commentsen": "Структурное подразделение СББЖ ВиЮВАО ГБУ «Мосветобъединение». Вакцинация, оформление ветеринарных сопроводительных документов, услуги по лечению животных.",
+        "globalid": 4712794
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.719847884631,
+          55.763057110329
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 11,
+        "FullNameen": "Калининская ветеринарная лечебница",
+        "ShortNameen": "Калининская ВЛ",
+        "ChiefNameen": "Погребняк Геннадий Анатольевич",
+        "ChiefPositionen": "Начальник Калининской ветеринарной лечебницы",
+        "INNen": "7708006274",
+        "KPPen": "772501001",
+        "OGRNen": "",
+        "AdmAreaen": null,
+        "Districten": null,
+        "Addressen": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Лефортово, Юрьевский переулок, дом 19",
+        "UNOMen": "2120508",
+        "ClarificationOfWorkingHoursen": "",
+        "Commentsen": "Структурное подразделение СББЖ ВиЮВАО ГБУ «Мосветобъединение». Вакцинация, оформление ветеринарных сопроводительных документов, услуги по лечению животных.",
+        "globalid": 4712795
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.634362128988,
+          55.681698756168
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 12,
+        "FullNameen": "Станция по борьбе с болезнями животных Южного административного округа города Москвы",
+        "ShortNameen": "СББЖ ЮАО г. Москвы",
+        "ChiefNameen": "Волкова Ирина Владимировна",
+        "ChiefPositionen": "Главный ветеринарный врач СББЖ ЮАО",
+        "INNen": "7708006274",
+        "KPPen": "772501001",
+        "OGRNen": "",
+        "AdmAreaen": null,
+        "Districten": null,
+        "Addressen": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Нагатино-Садовники, 1-й Нагатинский проезд, дом 5, корпус 1",
+        "UNOMen": "2124403",
+        "ClarificationOfWorkingHoursen": "",
+        "Commentsen": "Структурное подразделение ГБУ «Мосветобъединение».",
+        "globalid": 4712796
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.626014668178,
+          55.661157638357
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": null,
+        "FullNameen": "",
+        "ShortNameen": "",
+        "ChiefNameen": "",
+        "ChiefPositionen": "",
+        "INNen": "",
+        "KPPen": "",
+        "OGRNen": "",
+        "AdmAreaen": null,
+        "Districten": null,
+        "Addressen": "",
+        "UNOMen": "",
+        "ClarificationOfWorkingHoursen": "",
+        "Commentsen": "",
+        "globalid": 4712797
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.605126439676,
+          55.705064777842
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 15,
+        "FullNameen": "Донская ветеринарная лечебница",
+        "ShortNameen": "Донская ВЛ",
+        "ChiefNameen": "Земская Вера Владимировна",
+        "ChiefPositionen": "Заведующий Донской ветеринарной лечебницей",
+        "INNen": "7708006274",
+        "KPPen": "772501001",
+        "OGRNen": "",
+        "AdmAreaen": null,
+        "Districten": null,
+        "Addressen": "город Москва, 2-й Рощинский проезд, дом 7",
+        "UNOMen": "2113225",
+        "ClarificationOfWorkingHoursen": "",
+        "Commentsen": "Структурное подразделение СББЖ ЗиЮЗАО ГБУ «Мосветобъединение». Вакцинация, оформление ветеринарных сопроводительных документов, услуги по лечению животных.",
+        "globalid": 4712798
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.557240577982,
+          55.54225207877
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 16,
+        "FullNameen": "Бутовская ветеринарная лечебница",
+        "ShortNameen": "Бутовская ВЛ",
+        "ChiefNameen": "Пивоваров Николай Германович",
+        "ChiefPositionen": "Заведующий Бутовской ветеринарной лечебницы",
+        "INNen": "7708006274",
+        "KPPen": "772501001",
+        "OGRNen": "",
+        "AdmAreaen": null,
+        "Districten": null,
+        "Addressen": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Южное Бутово, Скобелевская улица, владение 46",
+        "UNOMen": "2900273",
+        "ClarificationOfWorkingHoursen": "",
+        "Commentsen": "Структурное подразделение СББЖ ЗАО и ЮЗАО ГБУ «Мосветобъединение». Вакцинация, оформление ветеринарных сопроводительных документов, услуги по лечению животных.",
+        "globalid": 4712799
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.435345954919,
+          55.723388070924
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 17,
+        "FullNameen": "Кунцевская ветеринарная лечебница",
+        "ShortNameen": "Кунцевская ВЛ",
+        "ChiefNameen": "Алешина Елена Валерьевна",
+        "ChiefPositionen": "Заведующий Кунцевской ветеринарной лечебницей",
+        "INNen": "7708006274",
+        "KPPen": "772501001",
+        "OGRNen": "",
+        "AdmAreaen": null,
+        "Districten": null,
+        "Addressen": "город Москва, улица Багрицкого, дом 8Б",
+        "UNOMen": "2126793",
+        "ClarificationOfWorkingHoursen": "",
+        "Commentsen": "Структурное подразделение СББЖ ЗиЮЗАО ГБУ «Мосветобъединение». Вакцинация, оформление ветеринарных сопроводительных документов, услуги по лечению животных.",
+        "globalid": 4712800
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.437267069607,
+          55.841970890452
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 19,
+        "FullNameen": "Тушинская ветеринарная лечебница",
+        "ShortNameen": "Тушинская ВЛ",
+        "ChiefNameen": "Сидорова Татьяна Викторовна",
+        "ChiefPositionen": "Заведующий Тушинской ветеринарной лечебницей",
+        "INNen": "7708006274",
+        "KPPen": "772501001",
+        "OGRNen": "",
+        "AdmAreaen": null,
+        "Districten": null,
+        "Addressen": "город Москва, Цветочный проезд, дом 2",
+        "UNOMen": "2113794",
+        "ClarificationOfWorkingHoursen": "",
+        "Commentsen": "Структурное подразделение СББЖ СиСЗАО ГБУ «Мосветобъединение». Вакцинация, оформление ветеринарных сопроводительных документов, услуги по лечению животных. Прием ведут профильные ветеринарные врачи по специализации офтальмология, дерматология, кардиология.",
+        "globalid": 4712802
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.2474088811,
+          55.983229966037
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 20,
+        "FullNameen": "Станция по борьбе с болезнями животных Зеленоградского административного округа города Москвы",
+        "ShortNameen": "СББЖ ЗелАО г. Москвы",
+        "ChiefNameen": "Делешев Александр Владимирович",
+        "ChiefPositionen": "Главный ветеринарный врач СББЖ ЗелАО",
+        "INNen": "7708006274",
+        "KPPen": "772501001",
+        "OGRNen": "",
+        "AdmAreaen": null,
+        "Districten": null,
+        "Addressen": "город Москва, город Зеленоград, Сосновая аллея, дом 3",
+        "UNOMen": "3700342",
+        "ClarificationOfWorkingHoursen": "",
+        "Commentsen": "Структурное подразделение ГБУ «Мосветобъединение». Вакцинация, оформление ветеринарных сопроводительных документов, услуги по лечению животных.",
+        "globalid": 4712803
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          36.941376020153,
+          55.465181396309
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 21,
+        "FullNameen": "Станция по борьбе с болезнями животных Троицкого и Новомосковского административных округов города Москвы",
+        "ShortNameen": "СББЖ ТиНАО г. Москвы",
+        "ChiefNameen": "Чернобаев Олег Александрович",
+        "ChiefPositionen": "Главный ветеринарный врач СББЖ ТиНАО",
+        "INNen": "7708006274",
+        "KPPen": "772501001",
+        "OGRNen": "",
+        "AdmAreaen": null,
+        "Districten": null,
+        "Addressen": "город Москва, поселение Новофедоровское, деревня Яковлевское, дом 4",
+        "UNOMen": "4402141",
+        "ClarificationOfWorkingHoursen": "",
+        "Commentsen": "Структурное подразделение ГБУ «Мосветобъединение». Вакцинация, оформление ветеринарных сопроводительных документов, услуги по лечению животных.",
+        "globalid": 4712804
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.778643177554,
+          55.801427612859
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 22,
+        "FullNameen": "Первомайский ветеринарный участок",
+        "ShortNameen": "Первомайский ВУ",
+        "ChiefNameen": "Рычагова Анна Николаевна",
+        "ChiefPositionen": "Заведующий Первомайским ветеринарным участком",
+        "INNen": "7708006274",
+        "KPPen": "772501001",
+        "OGRNen": "",
+        "AdmAreaen": null,
+        "Districten": null,
+        "Addressen": "город Москва, Сиреневый бульвар, дом 8А",
+        "UNOMen": "2116169",
+        "ClarificationOfWorkingHoursen": "",
+        "Commentsen": "Структурное подразделение СББЖ ВиЮВАО ГБУ \"Мосветобъединение\". Вакцинация, оформление ветеринарных сопроводительных документов.",
+        "globalid": 62837249
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.447237385778,
+          55.679306812821
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 23,
+        "FullNameen": "Станция по борьбе с болезнями животных Западного и Юго-Западного административных округов города Москвы",
+        "ShortNameen": "СББЖ ЗиЮЗАО г. Москвы",
+        "ChiefNameen": "Аникандрова Валерия Андреевна",
+        "ChiefPositionen": "Главный ветеринарный врач СББЖ ЗиЮЗАО",
+        "INNen": "7708006274",
+        "KPPen": "772501001",
+        "OGRNen": "",
+        "AdmAreaen": null,
+        "Districten": null,
+        "Addressen": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Очаково-Матвеевское, улица Наташи Ковшовой, дом 23",
+        "UNOMen": "310132",
+        "ClarificationOfWorkingHoursen": "",
+        "Commentsen": "Структурное подразделение ГБУ \"Мосветобъединение\".",
+        "globalid": 62837862
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.359480089145,
+          55.787943069853
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": null,
+        "FullNameen": "",
+        "ShortNameen": "",
+        "ChiefNameen": "",
+        "ChiefPositionen": "",
+        "INNen": "",
+        "KPPen": "",
+        "OGRNen": "",
+        "AdmAreaen": null,
+        "Districten": null,
+        "Addressen": "",
+        "UNOMen": "",
+        "ClarificationOfWorkingHoursen": "",
+        "Commentsen": "",
+        "globalid": 62838084
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.564200466431,
+          55.501591296764
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 25,
+        "FullNameen": "Ветеринарный участок Щербинка",
+        "ShortNameen": "ВУ Щербинка СББЖ ТиНАО г Москвы",
+        "ChiefNameen": "Скрябнева Наталья Геннадьевна",
+        "ChiefPositionen": "Заведующий ВУ Щербинка СББЖ ТиНАО",
+        "INNen": "7708006274",
+        "KPPen": "772501001",
+        "OGRNen": "",
+        "AdmAreaen": null,
+        "Districten": null,
+        "Addressen": "Российская Федерация, город Москва, город Щербинка, Театральная улица, дом 1",
+        "UNOMen": "442414",
+        "ClarificationOfWorkingHoursen": "",
+        "Commentsen": "Структурное подразделение СББЖ ТиНАО ГБУ \"Мосветобъединение\". Вакцинация, оформление ветеринарных сопроводительных документов, услуги по лечению животных.",
+        "globalid": 62838348
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.426174865455,
+          55.620410129782
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 26,
+        "FullNameen": "Ветеринарный участок Саларьево",
+        "ShortNameen": "ВУ Саларьево СББЖ ТиНАО г Москвы",
+        "ChiefNameen": "Леонова Анна Олеговна",
+        "ChiefPositionen": "Заведующий ВУ Саларьево СББЖ ТиНАО",
+        "INNen": "7708006274",
+        "KPPen": "772501001",
+        "OGRNen": "",
+        "AdmAreaen": null,
+        "Districten": null,
+        "Addressen": "Российская Федерация, город Москва, внутригородская территория поселение Московский, деревня Саларьево, Картмазовская улица, земельный участок 46",
+        "UNOMen": "5099671",
+        "ClarificationOfWorkingHoursen": "",
+        "Commentsen": "Структурное подразделение СББЖ ТиНАО ГБУ \"Мосветобъединение\". Вакцинация, оформление ветеринарных сопроводительных документов, услуги по лечению животных.",
+        "globalid": 281685605
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.2866450437846,
+          55.4364283095494
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 27,
+        "FullNameen": "Ветеринарный участок Красная Пахра",
+        "ShortNameen": "ВУ Красная Пахра СББЖ ТиНАО г Москвы",
+        "ChiefNameen": "Девяткина Светлана Владимировна",
+        "ChiefPositionen": "Заведующий ВУ Красная Пахра СББЖ ТиНАО",
+        "INNen": "7708006274",
+        "KPPen": "772501001",
+        "OGRNen": "",
+        "AdmAreaen": null,
+        "Districten": null,
+        "Addressen": "город Москва, поселение Краснопахорское, деревня Красная Пахра, дом 36",
+        "UNOMen": "5172444",
+        "ClarificationOfWorkingHoursen": "",
+        "Commentsen": "Структурное подразделение СББЖ ТиНАО ГБУ \"Мосветобъединение\". Вакцинация, оформление ветеринарных сопроводительных документов, услуги по лечению животных.",
+        "globalid": 281685787
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.147308591893,
+          55.568465649216
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 28,
+        "FullNameen": "Ветеринарный участок Птичное",
+        "ShortNameen": "ВУ Птичное СББЖ ТиНАО г Москвы",
+        "ChiefNameen": "Молодцова Наталья Владимировна",
+        "ChiefPositionen": "Заведующий ВУ Птичное СББЖ ТиНАО",
+        "INNen": "7708006274",
+        "KPPen": "772501001",
+        "OGRNen": "",
+        "AdmAreaen": null,
+        "Districten": null,
+        "Addressen": "Российская Федерация, город Москва, внутригородская территория поселение Марушкинское, деревня Анкудиново, земельный участок 43",
+        "UNOMen": "5100125",
+        "ClarificationOfWorkingHoursen": "",
+        "Commentsen": "Структурное подразделение СББЖ ТиНАО ГБУ \"Мосветобъединение\". Вакцинация, оформление ветеринарных сопроводительных документов, услуги по лечению животных.",
+        "globalid": 281685790
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.359381953524,
+          55.32279888068
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 29,
+        "FullNameen": "Ветеринарный участок Кленово",
+        "ShortNameen": "ВУ Кленово СББЖ ТиНАО г Москвы",
+        "ChiefNameen": "Скрябнева Наталья Геннадьевна",
+        "ChiefPositionen": "Заведующий ВУ Кленово СББЖ ТиНАО",
+        "INNen": "7708006274",
+        "KPPen": "772501001",
+        "OGRNen": "",
+        "AdmAreaen": null,
+        "Districten": null,
+        "Addressen": "Российская Федерация, город Москва, внутригородская территория поселение Кленовское, село Кленово, Центральная улица, земельный участок 11",
+        "UNOMen": "5098325",
+        "ClarificationOfWorkingHoursen": "",
+        "Commentsen": "Структурное подразделение СББЖ ТиНАО ГБУ \"Мосветобъединение\". Вакцинация, оформление ветеринарных сопроводительных документов, услуги по лечению животных.",
+        "globalid": 281685792
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.60219040598,
+          55.859227317098
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 30,
+        "FullNameen": "Ветеринарный участок Отрадное",
+        "ShortNameen": "ВУ Отрадное",
+        "ChiefNameen": "Ивайкина Светлана Андреевна",
+        "ChiefPositionen": "Заведующий ветеринарным участком Отрадное",
+        "INNen": "7708006274",
+        "KPPen": "772501001",
+        "OGRNen": "",
+        "AdmAreaen": null,
+        "Districten": null,
+        "Addressen": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Отрадное, Отрадная улица, дом 2",
+        "UNOMen": "61044",
+        "ClarificationOfWorkingHoursen": "",
+        "Commentsen": "Структурное подразделение СББЖ ЦиСВАО ГБУ «Мосветобъединение». Вакцинация, оформление ветеринарных сопроводительных документов, услуги по лечению животных.",
+        "globalid": 282390644
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.825358886004,
+          55.655559050323
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 31,
+        "FullNameen": "Ветеринарный участок Садовод",
+        "ShortNameen": "ВУ Садовод",
+        "ChiefNameen": "Клевцова Юлия Олеговна",
+        "ChiefPositionen": "Ветеринарный врач первой категории",
+        "INNen": "7708006274",
+        "KPPen": "772501001",
+        "OGRNen": "",
+        "AdmAreaen": null,
+        "Districten": null,
+        "Addressen": "город Москва, 14-й километр Московской Кольцевой Автодороги, дом 4",
+        "UNOMen": "2711398",
+        "ClarificationOfWorkingHoursen": "",
+        "Commentsen": "Структурное подразделение СББЖ ВиЮВАО ГБУ «Мосветобъединение». Вакцинация, оформление ветеринарных сопроводительных документов, консультации ветеринарных специалистов.",
+        "globalid": 329111687
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.3470052257437,
+          55.6362043494615
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 32,
+        "FullNameen": "Солнцевский ветеринарный участок",
+        "ShortNameen": "Солнцевский ВУ",
+        "ChiefNameen": "Чижикова Анна Сергеевна",
+        "ChiefPositionen": "Заведующий Солнцевским ветеринарным участком",
+        "INNen": "7708006274",
+        "KPPen": "772501001",
+        "OGRNen": "",
+        "AdmAreaen": null,
+        "Districten": null,
+        "Addressen": "город Москва, Боровское шоссе, дом 48",
+        "UNOMen": "2626",
+        "ClarificationOfWorkingHoursen": "",
+        "Commentsen": "Структурное подразделение СББЖ ЗиЮЗАО ГБУ \"Мосветобъединение\". Вакцинация, оформление ветеринарных сопроводительных документов, услуги по лечению животных.",
+        "globalid": 636719725
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.55045907267,
+          55.913269175872
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 33,
+        "FullNameen": "Ветеринарный участок Северный",
+        "ShortNameen": "ВУ Северный",
+        "ChiefNameen": "Доманский Николай Константинович",
+        "ChiefPositionen": "Ветеринарный врач первой категории",
+        "INNen": "7708006274",
+        "KPPen": "772501001",
+        "OGRNen": "",
+        "AdmAreaen": null,
+        "Districten": null,
+        "Addressen": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Северный, Челобитьевское шоссе, дом 12, корпус 3",
+        "UNOMen": "230216",
+        "ClarificationOfWorkingHoursen": "",
+        "Commentsen": "Структурное подразделение СББЖ СиСЗАО ГБУ «Мосветобъединение». Вакцинация, оформление ветеринарных сопроводительных документов, услуги по лечению животных.",
+        "globalid": 864663922
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

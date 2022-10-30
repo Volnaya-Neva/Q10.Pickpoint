@@ -1,0 +1,114 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.5739284507052,
+          55.7804256247972
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullNameen": "Государственное бюджетное учреждение города Москвы «Московский городской трест геолого-геодезических и картографических работ»",
+        "ShortNameen": "ГБУ «Мосгоргеотрест»",
+        "AdmAreaen": "Severny'j administrativny'j okrug",
+        "Districten": "rajon Begovoj",
+        "Addressen": "город Москва, Ленинградский проспект, дом 11",
+        "Indexen": 125040,
+        "ChiefPositionen": "Управляющий",
+        "ChiefNameen": "Серов Александр Юрьевич",
+        "WebSiteen": "www.mggt.ru/",
+        "globalid": 930071378,
+        "PublicPhoneenglobalid0": 13,
+        "PublicPhoneenisdeleted0": 0,
+        "PublicPhoneenPublicPhoneen0": "(499) 257-09-11",
+        "Emailenglobalid0": 13,
+        "Emailenisdeleted0": 0,
+        "EmailenEmailen0": "info.mggt@mos.ru"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5924561934091,
+          55.7694909173616
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullNameen": "Государственное бюджетное учреждение города Москвы «Главное архитектурно-планировочное управление Москомархитектуры»",
+        "ShortNameen": "ГБУ «ГлавАПУ»",
+        "AdmAreaen": "Czentral`ny'j administrativny'j okrug",
+        "Districten": "Presnenskij rajon",
+        "Addressen": "город Москва, улица Гашека, дом 12, строение 2",
+        "Indexen": 125047,
+        "ChiefPositionen": "Директор",
+        "ChiefNameen": "Чумачков Дмитрий Васильевич",
+        "WebSiteen": "www.glavapu-mos.ru",
+        "globalid": 930071421,
+        "PublicPhoneenglobalid0": 14,
+        "PublicPhoneenisdeleted0": 0,
+        "PublicPhoneenPublicPhoneen0": "(499) 250-16-82",
+        "Emailenglobalid0": 14,
+        "Emailenisdeleted0": 0,
+        "EmailenEmailen0": "post@glavapu.mos.ru"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5934264751399,
+          55.769815473679
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullNameen": "Государственное автономное учреждение «Научно-исследовательский и проектный институт Генерального плана города Москвы»",
+        "ShortNameen": "ГАУ «НИ и ПИ Генплана Москвы»",
+        "AdmAreaen": "Czentral`ny'j administrativny'j okrug",
+        "Districten": "Tverskoj rajon",
+        "Addressen": "город Москва, Триумфальная площадь, дом 1",
+        "Indexen": 125047,
+        "ChiefPositionen": "Директор",
+        "ChiefNameen": "Гук Татьяна Николаевна",
+        "WebSiteen": "www.genplanmos.ru/",
+        "globalid": 930071556,
+        "PublicPhoneenglobalid0": 19,
+        "PublicPhoneenisdeleted0": 0,
+        "PublicPhoneenPublicPhoneen0": "(499) 250-95-96",
+        "Emailenglobalid0": 19,
+        "Emailenisdeleted0": 0,
+        "EmailenEmailen0": "info@genplanmos.ru"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5848824492983,
+          55.7989001710918
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullNameen": "Государственное автономное учреждение города Москвы «Научно-исследовательский и проектный институт Градостроительного планирования города Москвы»",
+        "ShortNameen": "ГАУ «НИ и ПИ Градплан города Москвы»",
+        "AdmAreaen": "Severo-Vostochny'j administrativny'j okrug",
+        "Districten": "Buty'rskij rajon",
+        "Addressen": "город Москва, Бутырская улица, дом 42",
+        "Indexen": 127015,
+        "ChiefPositionen": "Директор",
+        "ChiefNameen": "Саттарова Дина Илинична",
+        "WebSiteen": "www.gradplan.mos.ru",
+        "globalid": 930071581,
+        "PublicPhoneenglobalid0": 20,
+        "PublicPhoneenisdeleted0": 0,
+        "PublicPhoneenPublicPhoneen0": "(495) 276-23-50"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

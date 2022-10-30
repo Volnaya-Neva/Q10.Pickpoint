@@ -1,0 +1,105 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.1748509137993,
+          55.9801213119587
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 39,
+        "AdmAreaen": null,
+        "Districten": null,
+        "Addressen": "город Москва, город Зеленоград, Крюковская площадь, дом 1",
+        "RegionOfFairen": "Новгородская область",
+        "PeriodOfPlacementen": "21.10.2022-27.10.2022",
+        "Goodsen": "сельскохозяйственная продукция, продовольственная продукция, промышленные товары.",
+        "globalid": 2386866998
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.766164,
+          55.676494
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 112,
+        "AdmAreaen": null,
+        "Districten": null,
+        "Addressen": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Люблино, Краснодарская улица, дом 57, корпус 1",
+        "RegionOfFairen": "Рязанская область",
+        "PeriodOfPlacementen": "21.10.2022-27.10.2022",
+        "Goodsen": "сельскохозяйственные, продовольственные и промышленные товары",
+        "globalid": 2386866999
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.510358,
+          55.618278
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 115,
+        "AdmAreaen": null,
+        "Districten": null,
+        "Addressen": "город Москва, Новоясеневский проспект, дом 1, строение 4",
+        "RegionOfFairen": "Тамбовская область",
+        "PeriodOfPlacementen": "21.10.2022-27.10.2022",
+        "Goodsen": "сельскохозяйственные, продовольственные и промышленные товары",
+        "globalid": 2386867005
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.8195554201582,
+          55.7518085512996
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 28,
+        "AdmAreaen": null,
+        "Districten": null,
+        "Addressen": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Новогиреево, Зелёный проспект, дом 81",
+        "RegionOfFairen": "Удмуртская Республика",
+        "PeriodOfPlacementen": "21.10.2022-27.10.2022",
+        "Goodsen": "сельскохозяйственные, продовольственные и промышленные товары",
+        "globalid": 2386867006
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.8195554201582,
+          55.7518085512996
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 28,
+        "AdmAreaen": null,
+        "Districten": null,
+        "Addressen": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Новогиреево, Зелёный проспект, дом 81",
+        "RegionOfFairen": "Республика Марий Эл",
+        "PeriodOfPlacementen": "21.10.2022-27.10.2022",
+        "Goodsen": "сельскохозяйственные, продовольственные и промышленные товары",
+        "globalid": 2386867007
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

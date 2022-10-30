@@ -1,0 +1,385 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.36767622079,
+          55.8989743370871
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "Поле для гольфа №1",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Куркино",
+        "Address": "Юровская улица, дом 1",
+        "Email": "event@sport.center",
+        "WebSite": "megasport.msk.ru/venues/golf-center-moscow/",
+        "HelpPhone": "(499) 401-91-54",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "да",
+        "HasEatery": "нет",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.04-30.10",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "газонное покрытие (натуральное)",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": "приспособлен для лиц с нарушением ОДА",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407117189
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.3704388960753,
+          55.8963919620605
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "Поле для гольфа №2, «Тренировочное поле для гольфа»",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Куркино",
+        "Address": "Юровская улица, дом 1",
+        "Email": "event@sport.center",
+        "WebSite": "megasport.msk.ru/venues/golf-center-moscow/",
+        "HelpPhone": "(499) 401-91-54",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "да",
+        "HasEatery": "нет",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "газонное покрытие (натуральное)",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 863622327
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4352442255852,
+          55.7511549979053
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "Поле для гольфа",
+        "AdmArea": "Западный административный округ",
+        "District": "район Крылатское",
+        "Address": "Крылатская улица, дом 2, строение 2",
+        "Email": "info@sport.center",
+        "WebSite": "canalmoscow.ru",
+        "HelpPhone": "(499) 149-39-39",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "да",
+        "HasDressingRoom": "да",
+        "HasEatery": "нет",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.05-30.09",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "газонное покрытие (натуральное)",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1047338301
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5674312438685,
+          55.8377591356853
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "поле для гольфа",
+        "AdmArea": "Северный административный округ",
+        "District": "Тимирязевский район",
+        "Address": "Лиственничная аллея, дом 12Б",
+        "Email": "info@timacad.ru",
+        "WebSite": "timacad.ru",
+        "HelpPhone": "(495) 976-20-53",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "газонное покрытие (натуральное)",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1047343067
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5187039976928,
+          55.7224474630613
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "поле для гольфа №2, «тренировочное»",
+        "AdmArea": "Западный административный округ",
+        "District": "район Раменки",
+        "Address": "улица Довженко, дом 1, строение 1",
+        "Email": "reception@mcgc.ru",
+        "WebSite": "mcgc.ru",
+        "HelpPhone": "(495) 278-02-02",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "да",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-30.10",
+        "Lighting": "освещение газоразрядными лампами",
+        "SurfaceTypeSummer": "газонное покрытие (натуральное)",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 2366658655
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5202422445622,
+          55.7251609821934
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "поле для гольфа №1",
+        "AdmArea": "Западный административный округ",
+        "District": "район Раменки",
+        "Address": "улица Довженко, дом 1, строение 1",
+        "Email": "reception@mcgc.ru",
+        "WebSite": "mcgc.ru",
+        "HelpPhone": "(495) 278-02-02",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "да",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-30.10",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "газонное покрытие (натуральное)",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 2366658657
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4527157173722,
+          55.755560356485
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "поле для гольфа №1",
+        "AdmArea": "Западный административный округ",
+        "District": "район Крылатское",
+        "Address": "Островная улица, дом 2",
+        "Email": "krylatskoe.golf@yandex.ru",
+        "WebSite": "",
+        "HelpPhone": "(495) 234-74-51",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "да",
+        "HasFirstAidPost": "да",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-30.10",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "газонное покрытие (натуральное)",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 2366658910
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4566062763458,
+          55.7646401169107
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "поле для гольфа №4",
+        "AdmArea": "Западный административный округ",
+        "District": "район Крылатское",
+        "Address": "Островная улица, дом 2",
+        "Email": "krylatskoe.golf@yandex.ru",
+        "WebSite": "",
+        "HelpPhone": "(495) 234-74-51",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "да",
+        "HasFirstAidPost": "да",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "газонное покрытие (натуральное)",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 2366658912
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4565955475098,
+          55.7593439865872
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "поле для гольфа №3, «поле для драйвинг-рейнджа»",
+        "AdmArea": "Западный административный округ",
+        "District": "район Крылатское",
+        "Address": "Островная улица, дом 2",
+        "Email": "krylatskoe.golf@yandex.ru",
+        "WebSite": "",
+        "HelpPhone": "(495) 234-74-51",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "да",
+        "HasFirstAidPost": "да",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "газонное покрытие (натуральное)",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 2366658914
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.813324699285,
+          55.6384457705963
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "поле для гольфа",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Капотня",
+        "Address": "Проектируемый проезд N 5217, дом 2",
+        "Email": "club-tiger@mail.ru",
+        "WebSite": "golfclub-tiger.ru",
+        "HelpPhone": "(495) 225-78-45",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "да",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "да",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 2366658920
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

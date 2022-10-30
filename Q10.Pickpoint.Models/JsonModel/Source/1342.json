@@ -1,0 +1,2555 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.856521534254,
+          55.731366606897
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Новокосино",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Перово",
+        "Address": "улица Николая Старостина, дом 13                                                                                     ",
+        "ExtraInfo": "",
+        "globalid": 1676217
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.793879213128,
+          55.761803874904
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Перово",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Восточный",
+        "Address": "Новогиреевская улица, владение 5                                                                                     ",
+        "ExtraInfo": "",
+        "globalid": 1676218
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.793879213128,
+          55.761803874904
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Преображенское",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Преображенское",
+        "Address": "Буженинова улица, дом 22",
+        "ExtraInfo": "ОПОП, квартира 25",
+        "globalid": 1676219,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "PublicPhoneglobalid0": 85
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.788264438613,
+          55.806941680584
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Северное Измайлово",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Северное Измайлово",
+        "Address": "улица 5-я Парковая, дом 60а",
+        "ExtraInfo": "ОМВД района",
+        "globalid": 1676220
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.744764776223,
+          55.763889451607
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Соколиная Гора",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Соколиная Гора",
+        "Address": "улица Уткина, дом 40а                                                                                                ",
+        "ExtraInfo": "",
+        "globalid": 1676221
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.67353450357,
+          55.789794151086
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Сокольники",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Сокольники",
+        "Address": "Маленковская улица, дом 7",
+        "ExtraInfo": "ОПОП, квартира 38",
+        "globalid": 1676222
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.75816228987,
+          55.675999049413
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины Юго-Восточного административного округа",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Люблино",
+        "Address": "Новороссийская улица, дом 22/31",
+        "ExtraInfo": "",
+        "globalid": 1676223,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "PublicPhoneglobalid0": 171
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.819367197395,
+          55.700171934575
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Выхино-Жулебино",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Выхино-Жулебино",
+        "Address": "Самаркандский бульвар, квартал 137-а, корпус 5                                                                          ",
+        "ExtraInfo": "",
+        "globalid": 1676224
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.797183231654,
+          55.639903114314
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Капотня",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Капотня",
+        "Address": "2-й квартал Капотня, дом 7                                                                                  ",
+        "ExtraInfo": "Управа, комната 20",
+        "globalid": 1676225
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.761444327206,
+          55.695765023168
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Кузьминки",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Кузьминки",
+        "Address": "улица Маршала Чуйкова, дом 11, корпус 3",
+        "ExtraInfo": "",
+        "globalid": 1676226,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "PublicPhoneglobalid0": 88
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.761676625933,
+          55.695779682431
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Лефортово",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Лефортово",
+        "Address": "Авиамоторная улица, дом 29",
+        "ExtraInfo": "ОПОП",
+        "globalid": 1676227,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "PublicPhoneglobalid0": 89
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.764309459911,
+          55.673800044273
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Люблино",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Люблино",
+        "Address": "улица Белореченская, дом 6",
+        "ExtraInfo": "",
+        "globalid": 1676228
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.765313918751,
+          55.679108061532
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Марьино",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Марьино",
+        "Address": "Люблинская улица, дом 159",
+        "ExtraInfo": "",
+        "globalid": 1676229,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "PublicPhoneglobalid0": 91
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.719318633854,
+          55.729511173139
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Нижегородский",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Печатники",
+        "Address": "Нижегородская улица, дом 90, корпус 2",
+        "ExtraInfo": "ОПОП",
+        "globalid": 1676231,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "PublicPhoneglobalid0": 92
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.706019868003,
+          55.659449194931
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Печатники",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Некрасовка",
+        "Address": "Батюнинская улица, дом 14",
+        "ExtraInfo": "ОПОП",
+        "globalid": 1676232
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.788134518437,
+          55.711743999637
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Рязанский",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "Рязанский район",
+        "Address": "улица 4-я Новокузьминская, дом 12",
+        "ExtraInfo": "ОПОП",
+        "globalid": 1676233
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.749651740064,
+          55.714075747292
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Текстильщики",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Текстильщики",
+        "Address": "Люблинская улица, дом 5, корпус 5",
+        "ExtraInfo": "ОПОП",
+        "globalid": 1676234,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "PublicPhoneglobalid0": 95
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.683506049649,
+          55.707689313661
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Южнопортовый",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "Южнопортовый район",
+        "Address": "улица Петра Романова, дом 14",
+        "ExtraInfo": "ОПОП",
+        "globalid": 1676235,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "PublicPhoneglobalid0": 96
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.653182158164,
+          55.703936653788
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины Южного административного округа",
+        "AdmArea": "Южный административный округ",
+        "District": "Даниловский район",
+        "Address": "улица Автозаводская, дом 19, корпус 1 ",
+        "ExtraInfo": "",
+        "globalid": 1676236,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "PublicPhoneglobalid0": 173
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.664445588335,
+          55.594052160037
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Бирюлево Западное",
+        "AdmArea": "Южный административный округ",
+        "District": "район Бирюлёво Западное",
+        "Address": "Булатниковский проезд, дом 10, корпус 1                                                                              ",
+        "ExtraInfo": "квартира 4",
+        "globalid": 1676237
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.65875093528,
+          55.894002664528
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Северное Медведково",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Северное Медведково",
+        "Address": "Студёный проезд, дом 3",
+        "ExtraInfo": "ОПОП",
+        "globalid": 1676238
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5514153452,
+          55.932569571922
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Северный",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Северный",
+        "Address": "улица 9-я Северная линия, дом 23, корпус 2                                                                               ",
+        "ExtraInfo": "",
+        "globalid": 1676239
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.551848300664,
+          55.913867773508
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Южное Медведково",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Южное Медведково",
+        "Address": "Ясный проезд, дом 7",
+        "ExtraInfo": "квартира 182",
+        "globalid": 1676240
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.62604686091,
+          55.873496557035
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Ярославский",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Ярославский район",
+        "Address": "Ярославское шоссе, дом 49",
+        "ExtraInfo": "ОВД, комната 99",
+        "globalid": 1676241,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "PublicPhoneglobalid0": 99
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.688803678474,
+          55.860330957241
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины Зеленоградского административного округа",
+        "AdmArea": "Зеленоградский административный округ",
+        "District": "район Савёлки",
+        "Address": "город Зеленоград, 3-й микрорайон, корпус 302А",
+        "ExtraInfo": "квартира 75",
+        "globalid": 1676242,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "PublicPhoneglobalid0": 100
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.209022135626,
+          56.004392158832
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Матушкино и Савелки",
+        "AdmArea": "Зеленоградский административный округ",
+        "District": "район Савёлки",
+        "Address": "г. Зеленоград, д 132А",
+        "ExtraInfo": "",
+        "globalid": 1676243
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.19703849125,
+          55.994703151693
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Силино и Старое Крюково",
+        "AdmArea": "Зеленоградский административный округ",
+        "District": "район Силино",
+        "Address": "город Зеленоград, 12-й микрорайон, корпус 1208",
+        "ExtraInfo": "ОПОП, квартира 49",
+        "globalid": 1676244,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "PublicPhoneglobalid0": 101
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.148922181932,
+          55.979754708842
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Крюково",
+        "AdmArea": "Зеленоградский административный округ",
+        "District": "район Крюково",
+        "Address": "город Зеленоград, 15-й микрорайон, корпус 1557",
+        "ExtraInfo": "подъезд 5",
+        "globalid": 1676245,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "PublicPhoneglobalid0": 102
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.653612483546,
+          55.590077889531
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Братеево",
+        "AdmArea": "Южный административный округ",
+        "District": "район Братеево",
+        "Address": "Братеевская улица, дом 16, корпус 1",
+        "ExtraInfo": "ОПОП",
+        "globalid": 1676246,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "PublicPhoneglobalid0": 103
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.653153112793,
+          55.703920600933
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Даниловский",
+        "AdmArea": "Южный административный округ",
+        "District": "Даниловский район",
+        "Address": "улица Автозаводская, дом 19, корпус 1                                                                                     ",
+        "ExtraInfo": "",
+        "globalid": 1676247
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.588901348602,
+          55.707735715186
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Донской",
+        "AdmArea": "Южный административный округ",
+        "District": "Донской район",
+        "Address": "улица Вавилова, дом 6                                                                 ",
+        "ExtraInfo": "",
+        "globalid": 1676248
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.749060155437,
+          55.627179113133
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Зябликово",
+        "AdmArea": "Южный административный округ",
+        "District": "район Зябликово",
+        "Address": "улица Мусы Джалиля, дом 9, корпус 5",
+        "ExtraInfo": "",
+        "globalid": 1676249,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "PublicPhoneglobalid0": 104
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.749060155437,
+          55.627179113133
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Москворечье-Сабурово",
+        "AdmArea": "Южный административный округ",
+        "District": "район Москворечье-Сабурово",
+        "Address": "Пролетарский проспект, дом 7                                                                                         ",
+        "ExtraInfo": "",
+        "globalid": 1676250
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.65728782565,
+          55.64539814122
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Нагатино-Садовники",
+        "AdmArea": "Южный административный округ",
+        "District": "район Нагатино-Садовники",
+        "Address": "улица Академика Миллионщикова, дом 14, корпус 2",
+        "ExtraInfo": "ОПОП, комната 5",
+        "globalid": 1676251
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.647667139249,
+          55.670039829635
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Нагатинский Затон",
+        "AdmArea": "Южный административный округ",
+        "District": "район Нагатинский Затон",
+        "Address": "Кленовый бульвар, дом 7                                                                                              ",
+        "ExtraInfo": "квартира 1",
+        "globalid": 1676252
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.609875928356,
+          55.66898790837
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Нагорный",
+        "AdmArea": "Южный административный округ",
+        "District": "Нагорный район",
+        "Address": "улица Криворожская, дом 25                                                                                 ",
+        "ExtraInfo": "",
+        "globalid": 1676253
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.621105355742,
+          55.660405588245
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Орехово-Борисово Северное",
+        "AdmArea": "Южный административный округ",
+        "District": "район Орехово-Борисово Северное",
+        "Address": "Каширское шоссе, дом 84, корпус 1                                                                                    ",
+        "ExtraInfo": "",
+        "globalid": 1676254
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.733749168038,
+          55.609167720014
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Орехово-Борисово Южное",
+        "AdmArea": "Южный административный округ",
+        "District": "район Орехово-Борисово Южное",
+        "Address": "улица Елецкая, дом 9                                                                                         ",
+        "ExtraInfo": "",
+        "globalid": 1676255
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.760135638077,
+          55.610590908633
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Царицыно",
+        "AdmArea": "Южный административный округ",
+        "District": "район Царицыно",
+        "Address": "Весёлая улица, дом 3                                                                                                 ",
+        "ExtraInfo": "квартира 53а",
+        "globalid": 1676256
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.667339833011,
+          55.620545032654
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Чертаново Северное",
+        "AdmArea": "Южный административный округ",
+        "District": "район Чертаново Северное",
+        "Address": "Чертановская улица, дом 1, корпус 2",
+        "ExtraInfo": "квартира 1",
+        "globalid": 1676257,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "PublicPhoneglobalid0": 106
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.601759502538,
+          55.62218528867
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Чертаново Центральное",
+        "AdmArea": "Южный административный округ",
+        "District": "район Чертаново Центральное",
+        "Address": "улица Днепропетровская, дом 3, корпус 5                                                                              ",
+        "ExtraInfo": "",
+        "globalid": 1676258
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.580795613619,
+          55.607650045136
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Чертаново Южное",
+        "AdmArea": "Южный административный округ",
+        "District": "район Чертаново Южное",
+        "Address": "Варшавское шоссе, дом 152, корпус 4                                                                                  ",
+        "ExtraInfo": "",
+        "globalid": 1676259
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.599747940568,
+          55.684880676964
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины Юго-Западного административного округа",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Котловка",
+        "Address": "Севастопольский проспект, дом 14",
+        "ExtraInfo": "",
+        "globalid": 1676260
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.593643564481,
+          55.687845640125
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Академический",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "Академический район",
+        "Address": "Большая Черёмушкинская улица, дом 6, корпус 1",
+        "ExtraInfo": "квартира 64",
+        "globalid": 1676261,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "PublicPhoneglobalid0": 107
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.593643699347,
+          55.687838874023
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Гагаринский",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "Гагаринский район",
+        "Address": "улица Вавилова, дом 60, корпус 2",
+        "ExtraInfo": "ОПОП",
+        "globalid": 1676262,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "PublicPhoneglobalid0": 108
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.604582534701,
+          55.646076187983
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Зюзино",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Зюзино",
+        "Address": "Симферопольский бульвар, дом 24, корпус 2                                                                               ",
+        "ExtraInfo": "",
+        "globalid": 1676263
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.585113616513,
+          55.664302602579
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Коньково",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Коньково",
+        "Address": "улица Введенского, дом 27, корпус 2",
+        "ExtraInfo": "ОПОП",
+        "globalid": 1676264,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "PublicPhoneglobalid0": 109
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.598158885694,
+          55.671144354516
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Котловка",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Котловка",
+        "Address": "Нагорный бульвар, дом 20",
+        "ExtraInfo": "ОПОП, комната 42",
+        "globalid": 1676265
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.598348408641,
+          55.671235610056
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Ломоносовский",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "Ломоносовский район",
+        "Address": "улица Академика Пилюгина, дом 16",
+        "ExtraInfo": "",
+        "globalid": 1676266
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.535177792704,
+          55.668518919827
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Обручевский",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "Обручевский район",
+        "Address": "улица Обручева, дом 28, корпус 7",
+        "ExtraInfo": "ОПОП",
+        "globalid": 1676267,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "PublicPhoneglobalid0": 112
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.517196685606,
+          55.655993647042
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Северное Бутово",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Северное Бутово",
+        "Address": "бульвар Дмитрия Донского, дом 16",
+        "ExtraInfo": "ОПОП",
+        "globalid": 1676268,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "PublicPhoneglobalid0": 113
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.484638552328,
+          55.645572622212
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Теплый Стан",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Тёплый Стан",
+        "Address": "Ленинский проспект, дом 123 корпус 2                                                                                      ",
+        "ExtraInfo": "",
+        "globalid": 1676269
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.479694868288,
+          55.646802753026
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Черемушки",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Черёмушки",
+        "Address": "улица Намёткина, дом 9, корпус 3",
+        "ExtraInfo": "ОПОП",
+        "globalid": 1676270,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "PublicPhoneglobalid0": 114
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.553598657743,
+          55.664155433429
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Южное Бутово",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Южное Бутово",
+        "Address": "Улица Скобелевская, дом 1/6",
+        "ExtraInfo": "ОПОП",
+        "globalid": 1676271,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "PublicPhoneglobalid0": 115
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.514018294278,
+          55.60980023725
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Ясенево",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Ясенево",
+        "Address": "Голубинская улица, дом 6                                                                                             ",
+        "ExtraInfo": "ОВД",
+        "globalid": 1676272
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.442430789181,
+          55.727953178479
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины Западного административного округа",
+        "AdmArea": "Западный административный округ",
+        "District": "район Кунцево",
+        "Address": "улица Ивана Франко, дом 12в",
+        "ExtraInfo": "",
+        "globalid": 1676273,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "PublicPhoneglobalid0": 116
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.528960416649,
+          55.742973004912
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Дорогомилово",
+        "AdmArea": "Западный административный округ",
+        "District": "район Дорогомилово",
+        "Address": "улица Кульнева, дом 14                                                                                               ",
+        "ExtraInfo": "",
+        "globalid": 1676275
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.548849036398,
+          55.742100437546
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Крылатское",
+        "AdmArea": "Западный административный округ",
+        "District": "район Крылатское",
+        "Address": "Осенний бульвар, дом 21                                                                                              ",
+        "ExtraInfo": "",
+        "globalid": 1676276
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.433526313607,
+          55.729141972763
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Кунцево",
+        "AdmArea": "Западный административный округ",
+        "District": "район Кунцево",
+        "Address": "улица Ивана Франко, дом 22. корп. 4",
+        "ExtraInfo": "",
+        "globalid": 1676277
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.41030628425,
+          55.733551985084
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Можайский",
+        "AdmArea": "Западный административный округ",
+        "District": "Можайский район",
+        "Address": "Сафоновская улица, дом 17/43                                                                                         ",
+        "ExtraInfo": "квартира 42",
+        "globalid": 1676278
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.357600465783,
+          55.636941262416
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Ново-Переделкино",
+        "AdmArea": "Западный административный округ",
+        "District": "район Ново-Переделкино",
+        "Address": "улица Шолохова, дом 6",
+        "ExtraInfo": "ОПОП",
+        "globalid": 1676279,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "PublicPhoneglobalid0": 118
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.357600465783,
+          55.636941262416
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Очаково-Матвеевское",
+        "AdmArea": "Западный административный округ",
+        "District": "район Очаково-Матвеевское",
+        "Address": "Озёрная улица, дом 10",
+        "ExtraInfo": "",
+        "globalid": 1676280,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "PublicPhoneglobalid0": 119
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.458521671167,
+          55.681233734195
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Проспект Вернадского",
+        "AdmArea": "Западный административный округ",
+        "District": "район Проспект Вернадского",
+        "Address": "проспект Вернадского, дом 22",
+        "ExtraInfo": "ОПОП",
+        "globalid": 1676281,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "PublicPhoneglobalid0": 120
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.532695093064,
+          55.725975312997
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Раменки",
+        "AdmArea": "Западный административный округ",
+        "District": "район Раменки",
+        "Address": "Мосфильмовская улица, дом 2В",
+        "ExtraInfo": "",
+        "globalid": 1676282,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "PublicPhoneglobalid0": 121
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.532467849958,
+          55.725726627214
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Солнцево",
+        "AdmArea": "Западный административный округ",
+        "District": "район Солнцево",
+        "Address": "улица 50 лет Октября, дом 19",
+        "ExtraInfo": "квартира 39",
+        "globalid": 1676283,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "PublicPhoneglobalid0": 122
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.413504425502,
+          55.654287167085
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Тропарево-Никулино",
+        "AdmArea": "Западный административный округ",
+        "District": "район Тропарёво-Никулино",
+        "Address": "улица Академика Анохина, дом 6, корпус 3",
+        "ExtraInfo": "ОПОП",
+        "globalid": 1676284,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "PublicPhoneglobalid0": 123
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.469527048058,
+          55.668974225815
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Филевский парк",
+        "AdmArea": "Западный административный округ",
+        "District": "район Филёвский Парк",
+        "Address": "Филёвский бульвар, дом 40",
+        "ExtraInfo": "ОПОП",
+        "globalid": 1676285,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "PublicPhoneglobalid0": 124
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.462938986345,
+          55.724103759801
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Фили-Давыдково",
+        "AdmArea": "Западный административный округ",
+        "District": "район Фили-Давыдково",
+        "Address": "Кременчугская улица, дом 3/2                                                                                         ",
+        "ExtraInfo": "",
+        "globalid": 1676286
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.459977420615,
+          55.72272912999
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины Северо-Западного административного округа",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Покровское-Стрешнево",
+        "Address": "улица Мещерякова, дом 8/16",
+        "ExtraInfo": "",
+        "globalid": 1676287,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "PublicPhoneglobalid0": 125
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.390983611926,
+          55.897747359072
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Куркино",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Куркино",
+        "Address": "Соколово-Мещерская улица, дом 16/114",
+        "ExtraInfo": "ОПОП",
+        "globalid": 1676288,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "PublicPhoneglobalid0": 126
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.356578490789,
+          55.846489716506
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Митино",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Митино",
+        "Address": "Митинская улица, дом 31",
+        "ExtraInfo": "ОПОП",
+        "globalid": 1676289
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.448050250426,
+          55.833031512086
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Покровское-Стрешнево",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Покровское-Стрешнево",
+        "Address": "ул Мещерякова д 8/16",
+        "ExtraInfo": "",
+        "globalid": 1676290
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.447997872527,
+          55.832996517447
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Северное Тушино",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Северное Тушино",
+        "Address": "улица Мещерякова, дом 8/16",
+        "ExtraInfo": "ОПОП",
+        "globalid": 1676291,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "PublicPhoneglobalid0": 128
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.431159540976,
+          55.864840318211
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Строгино",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Строгино",
+        "Address": "улица Маршала Катукова, дом 15, корпус 2",
+        "ExtraInfo": "ОПОП",
+        "globalid": 1676292,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "PublicPhoneglobalid0": 129
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.46700979389,
+          55.783348102157
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Хорошево-Мневники",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Хорошёво-Мнёвники",
+        "Address": "бульвар Генерала Карбышева, дом 19,корп.5",
+        "ExtraInfo": "ОПОП",
+        "globalid": 1676293,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "PublicPhoneglobalid0": 130
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.473133756686,
+          55.80253871206
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Щукино",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Щукино",
+        "Address": "улица Маршала Василевского, дом 1, корпус 2                                                                                   ",
+        "ExtraInfo": "",
+        "globalid": 1676294
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.403162381456,
+          55.844651714251
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Южное Тушино",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Южное Тушино",
+        "Address": "Светлогорский проезд, владение 7",
+        "ExtraInfo": "ОПОП",
+        "globalid": 1676295,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "PublicPhoneglobalid0": 131
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.670010025279,
+          55.856208148217
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины Северо-Восточного административного округа",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Бабушкинский район",
+        "Address": "улица летчика Бабушкина, дом 1, корпус 1",
+        "ExtraInfo": "",
+        "globalid": 1676296
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.669531085503,
+          55.856510659158
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Алексеевский",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Алексеевский район",
+        "Address": "улица Бориса Галушкина, дом 18",
+        "ExtraInfo": "ОПОП",
+        "globalid": 1676297,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "PublicPhoneglobalid0": 132
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.656513309828,
+          55.82260196748
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Алтуфьевский",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Алтуфьевский район",
+        "Address": "Костромская улица, дом 12А",
+        "ExtraInfo": "ОПОП, квартира 100",
+        "globalid": 1676298,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "PublicPhoneglobalid0": 133
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.594109446205,
+          55.884736360395
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Бабушкинский",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Бабушкинский район",
+        "Address": "Ленская улица, дом 28",
+        "ExtraInfo": "ОПОП",
+        "globalid": 1676299
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.588334965879,
+          55.82153195035
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Бутырский",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Бутырский район",
+        "Address": "улица Милашенкова, дом 1",
+        "ExtraInfo": "",
+        "globalid": 1676300,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "PublicPhoneglobalid0": 135
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.587919950154,
+          55.821388628232
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Лианозово",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Лианозово",
+        "Address": "Илимская улица, дом 10",
+        "ExtraInfo": "квартира 143",
+        "globalid": 1676301,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "PublicPhoneglobalid0": 136
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.581999666019,
+          55.890465529626
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Лосиноостровский",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Лосиноостровский район",
+        "Address": "Изумрудная улица, дом 50",
+        "ExtraInfo": "",
+        "globalid": 1676302
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.694391241774,
+          55.878730446918
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Марфино",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Марфино",
+        "Address": "улица Академика Комарова, дом 9а",
+        "ExtraInfo": "ОПОП",
+        "globalid": 1676303,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "PublicPhoneglobalid0": 138
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.590675073436,
+          55.828554757994
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Марьина Роща",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Марьина Роща",
+        "Address": "Минаевский переулок, дом 3",
+        "ExtraInfo": "ОПОП",
+        "globalid": 1676304
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.602093949169,
+          55.789857876421
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Останкинский",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Останкинский район",
+        "Address": "проезд Ольминского, дом 3",
+        "ExtraInfo": "ОПОП",
+        "globalid": 1676305,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "PublicPhoneglobalid0": 140
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.611375804376,
+          55.858592848256
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Отрадное",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Отрадное",
+        "Address": "проезд Якушкина, дом 4                                                                                           ",
+        "ExtraInfo": "Управа, каб. 209",
+        "globalid": 1676306
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.602908733083,
+          55.869326043938
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Ростокино",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Ростокино",
+        "Address": "улица Докукина, дом 5, корпус 1",
+        "ExtraInfo": "ОПОП",
+        "globalid": 1676307,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "PublicPhoneglobalid0": 141
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.641511003385,
+          55.848282412881
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Свиблово",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Свиблово",
+        "Address": "Снежная улица, дом 4",
+        "ExtraInfo": "ОПОП",
+        "globalid": 1676308,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "PublicPhoneglobalid0": 142
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.603824120428,
+          55.769834770425
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Хамовники",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Хамовники",
+        "Address": "улица Доватора, дом 3",
+        "ExtraInfo": "ОПОП",
+        "globalid": 1676309,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "PublicPhoneglobalid0": 143
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.652734916308,
+          55.703889075759
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Бирюлево Восточное",
+        "AdmArea": "Южный административный округ",
+        "District": "район Бирюлёво Восточное",
+        "Address": "Бирюлёвская улица, дом 21, корпус 1",
+        "ExtraInfo": "квартира 1",
+        "globalid": 1676310,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "PublicPhoneglobalid0": 144
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.588423589472,
+          55.902939513791
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Бибирево",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Бибирево",
+        "Address": "Алтуфьевское шоссе, дом 96",
+        "ExtraInfo": "",
+        "globalid": 1676311,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "PublicPhoneglobalid0": 145
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.627092371144,
+          55.768473035422
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины Центрального административного округа",
+        "AdmArea": "Центральный административный округ",
+        "District": "Мещанский район",
+        "Address": "Большой Сергиевский переулок, дом 9, строение 1",
+        "ExtraInfo": "",
+        "globalid": 1676312,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "PublicPhoneglobalid0": 146
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.587500266367,
+          55.748872451818
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Арбат",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Арбат",
+        "Address": "улица Арбат, дом 40, строение 2",
+        "ExtraInfo": "кабинет 31",
+        "globalid": 1676313,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "PublicPhoneglobalid0": 147
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.664002841568,
+          55.771689984428
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Басманный",
+        "AdmArea": "Центральный административный округ",
+        "District": "Басманный район",
+        "Address": "1-й Басманный переулок, дом 12",
+        "ExtraInfo": "ОПОП",
+        "globalid": 1676314,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "PublicPhoneglobalid0": 148
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.634534201818,
+          55.729139623146
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Замоскворечье",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Замоскворечье",
+        "Address": "Большая Пионерская улица, дом 5, строение 1",
+        "ExtraInfo": "ОПОП",
+        "globalid": 1676315,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "PublicPhoneglobalid0": 149
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.670605459812,
+          55.777076341497
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Красносельский",
+        "AdmArea": "Центральный административный округ",
+        "District": "Красносельский район",
+        "Address": "Нижняя Красносельская улица, дом 21",
+        "ExtraInfo": "ОПОП",
+        "globalid": 1676316,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "PublicPhoneglobalid0": 150
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.626950962053,
+          55.768464846593
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Мещанский",
+        "AdmArea": "Центральный административный округ",
+        "District": "Мещанский район",
+        "Address": "Большой Сергиевский переулок д 9 стр1",
+        "ExtraInfo": "",
+        "globalid": 1676317
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.586084865713,
+          55.767415425095
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Пресненский",
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "Address": "Зоологическая улица, дом 50, строение 2                                                                              ",
+        "ExtraInfo": "",
+        "globalid": 1676318
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.664886132133,
+          55.73690162474
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Таганский",
+        "AdmArea": "Центральный административный округ",
+        "District": "Таганский район",
+        "Address": "Марксистская улица, дом 5                                                                                            ",
+        "ExtraInfo": "",
+        "globalid": 1676319
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.664886132133,
+          55.73690162474
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Тверской",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "Старопименовский переулок, дом 16",
+        "ExtraInfo": "ОПОП",
+        "globalid": 1676320,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "PublicPhoneglobalid0": 151
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.570645934986,
+          55.724547863302
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Якиманка",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Якиманка",
+        "Address": "улица Крымский Вал, дом 8",
+        "ExtraInfo": "ОПОП",
+        "globalid": 1676321,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "PublicPhoneglobalid0": 152
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.608873646948,
+          55.731287543042
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины Северного административного округа",
+        "AdmArea": "Северный административный округ",
+        "District": "район Ховрино",
+        "Address": "улица Дыбенко, дом 18, корпус 1",
+        "ExtraInfo": "",
+        "globalid": 1676322,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "PublicPhoneglobalid0": 153
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.487010028556,
+          55.871813932747
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Аэропорт",
+        "AdmArea": "Северный административный округ",
+        "District": "район Аэропорт",
+        "Address": "улица Дыбенко, дом 18, корпус 1                                                                                      ",
+        "ExtraInfo": "",
+        "globalid": 1676323
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.487010028556,
+          55.871813932747
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Беговой",
+        "AdmArea": "Северный административный округ",
+        "District": "район Беговой",
+        "Address": "улица Дыбенко, дом 18, корпус 1",
+        "ExtraInfo": "",
+        "globalid": 1676324,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "PublicPhoneglobalid0": 154
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.555959205678,
+          55.872507647119
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Бескудниковский",
+        "AdmArea": "Северный административный округ",
+        "District": "Бескудниковский район",
+        "Address": "Бескудниковский бульвар, дом 32, корпус 6",
+        "ExtraInfo": "УПМ №5",
+        "globalid": 1676325
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.514436250932,
+          55.819487618891
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Войковский",
+        "AdmArea": "Северный административный округ",
+        "District": "Войковский район",
+        "Address": "3-й Новоподмосковный переулок, дом 6",
+        "ExtraInfo": "ОПОП",
+        "globalid": 1676326
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.514450103801,
+          55.819506617864
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Восточное Дегунино",
+        "AdmArea": "Северный административный округ",
+        "District": "район Восточное Дегунино",
+        "Address": "Керамический проезд, дом 45, корпус 1",
+        "ExtraInfo": "",
+        "globalid": 1676327,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "PublicPhoneglobalid0": 157
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.487010028556,
+          55.871813932747
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Головинский",
+        "AdmArea": "Северный административный округ",
+        "District": "Головинский район",
+        "Address": "улица Дыбенко, дом 18, корпус 1",
+        "ExtraInfo": "",
+        "globalid": 1676328,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "PublicPhoneglobalid0": 158
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.487394778688,
+          55.872100063265
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Дмитровский",
+        "AdmArea": "Северный административный округ",
+        "District": "Дмитровский район",
+        "Address": "улица Дыбенко, дом 18, корпус 1",
+        "ExtraInfo": "",
+        "globalid": 1676329,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "PublicPhoneglobalid0": 159
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.487378454079,
+          55.872055462878
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Западное Дегунино",
+        "AdmArea": "Северный административный округ",
+        "District": "район Западное Дегунино",
+        "Address": "улица Дыбенко, дом 18, корпус 1                                                                             ",
+        "ExtraInfo": "",
+        "globalid": 1676330
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.487316592954,
+          55.872106150145
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Коптево",
+        "AdmArea": "Северный административный округ",
+        "District": "район Коптево",
+        "Address": "улица Дыбенко, дом 18, корпус 1",
+        "ExtraInfo": "",
+        "globalid": 1676331,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "PublicPhoneglobalid0": 160
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.479892076945,
+          55.851349628307
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Левобережный",
+        "AdmArea": "Северный административный округ",
+        "District": "район Левобережный",
+        "Address": "Флотская улица, дом 1",
+        "ExtraInfo": "Управа",
+        "globalid": 1676332,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "PublicPhoneglobalid0": 161
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.487010028556,
+          55.871813932747
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Молжаниновский",
+        "AdmArea": "Северный административный округ",
+        "District": "Молжаниновский район",
+        "Address": "улица Дыбенко, дом 18, корпус 1                                                                                      ",
+        "ExtraInfo": "",
+        "globalid": 1676333
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.487010028556,
+          55.871813932747
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Савеловский",
+        "AdmArea": "Северный административный округ",
+        "District": "Савёловский район",
+        "Address": "улица Дыбенко, дом 18, корпус 1",
+        "ExtraInfo": "",
+        "globalid": 1676334,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "PublicPhoneglobalid0": 162
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.492083517943,
+          55.807453918467
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Сокол",
+        "AdmArea": "Северный административный округ",
+        "District": "район Сокол",
+        "Address": "улица Панфилова, дом15/22",
+        "ExtraInfo": "",
+        "globalid": 1676335
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.508188975081,
+          55.79314678839
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Тимирязевский",
+        "AdmArea": "Северный административный округ",
+        "District": "Тимирязевский район",
+        "Address": "улица Костякова, дом 17, корпус 1                                                                                    ",
+        "ExtraInfo": "подъезд 4",
+        "globalid": 1676336
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.487273807176,
+          55.87191631377
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Ховрино",
+        "AdmArea": "Северный административный округ",
+        "District": "район Ховрино",
+        "Address": "улица Дыбенко, дом 18, корпус 1",
+        "ExtraInfo": "",
+        "globalid": 1676337
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.487010028556,
+          55.871813932747
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Хорошевский",
+        "AdmArea": "Северный административный округ",
+        "District": "Хорошёвский район",
+        "Address": "улица Дыбенко, дом 18, корпус 1                                                                                      ",
+        "ExtraInfo": "",
+        "globalid": 1676338
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.707971319053,
+          55.796435196836
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины Восточного административного округа",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Преображенское",
+        "Address": "улица Атарбекова, дом 4а",
+        "ExtraInfo": "",
+        "globalid": 1676339
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.707951831904,
+          55.796583750698
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Богородское",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Богородское",
+        "Address": "Краснобогатырская улица, дом 31, корпус 1                                                                            ",
+        "ExtraInfo": "помещение 4",
+        "globalid": 1676340
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.706261242909,
+          55.80963065738
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Вешняки",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Вешняки",
+        "Address": "Кетчерская улица, дом 12                                                                                             ",
+        "ExtraInfo": "",
+        "globalid": 1676341
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.816076397833,
+          55.791911987264
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Восточное Измайлово",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Восточное Измайлово",
+        "Address": "Нижняя Первомайская улица, дом 67",
+        "ExtraInfo": "ОМВД",
+        "globalid": 1676342
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.804713074851,
+          55.812272656135
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Гольяново",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Гольяново",
+        "Address": "Щёлковское шоссе, дом 77, корпус 1",
+        "ExtraInfo": "квартира 1",
+        "globalid": 1676344
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.837557381217,
+          55.761352460886
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Ивановское",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Измайлово",
+        "Address": "улица Сталеваров, дом 12, корпус 1                                                                                   ",
+        "ExtraInfo": "",
+        "globalid": 1676345
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.797169343856,
+          55.798307392439
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Измайлово",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Косино-Ухтомский",
+        "Address": "Измайловский бульвар, дом 41а                                                                                    ",
+        "ExtraInfo": "ОМВД",
+        "globalid": 1676346
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.89454072851,
+          55.71443094699
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Косино-Ухтомский",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Метрогородок",
+        "Address": "Святоозерская улица, дом 15                                                                                          ",
+        "ExtraInfo": "",
+        "globalid": 1676347
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.759249102578,
+          55.824046122372
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Метрогородок",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Метрогородок",
+        "Address": "Открытое шоссе, дом 24, корпус 13",
+        "ExtraInfo": "",
+        "globalid": 1676348
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.805290911069,
+          55.748595147491
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Новогиреево",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Новогиреево",
+        "Address": "улица Мартеновская, дом 31а",
+        "ExtraInfo": "ОМВД",
+        "globalid": 1676349
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.934037020009,
+          55.705670104306
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Штаб народной дружины района Некрасовка",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Некрасовка",
+        "Address": "ул. Недорубова д. 19",
+        "ExtraInfo": "Отдел МВД России по району Некрасовка",
+        "globalid": 870298042,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "PublicPhoneglobalid0": 177
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

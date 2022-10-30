@@ -1,0 +1,616 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            37.629848450925,
+            55.638761094338
+          ],
+          [
+            37.629657402039,
+            55.638871499866
+          ]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "FullName": "Государственное бюджетное учреждение здравоохранения города Москвы «Бюро судебно-медицинской экспертизы Департамента здравоохранения города Москвы»",
+        "ShortName": "ГБУЗ «БСМЭ ДЗМ»",
+        "ChiefName": "Шигеев Сергей Владимирович",
+        "ChiefPosition": "директор",
+        "ChiefGender": "мужской",
+        "ClarificationWorkingHours": "",
+        "globalid": 1015603101,
+        "OrgInfoisdeleted0": 0,
+        "OrgInfoFullName0": "",
+        "OrgInfoChiefPhone0": [
+          {
+            "isdeleted": 0,
+            "globalid": 336508,
+            "ChiefPhone": ""
+          }
+        ],
+        "OrgInfoINN0": "",
+        "OrgInfoKPP0": "",
+        "OrgInfoOGRN0": "",
+        "OrgInfoLegalAddress0": "",
+        "OrgInfoChiefName0": "",
+        "OrgInfoChiefPosition0": null,
+        "OrgInfoChiefGender0": null,
+        "OrgInfoglobalid0": 336963,
+        "ObjectAddressisdeleted0": 0,
+        "ObjectAddressAdmArea0": null,
+        "ObjectAddressDistrict0": null,
+        "ObjectAddressPostalCode0": "",
+        "ObjectAddressAddress0": "",
+        "ObjectAddressAvailability0": [
+          {
+            "isdeleted": 0,
+            "globalid": 159073,
+            "availablek": null,
+            "availableo": null,
+            "availablez": null,
+            "availables": null,
+            "availableelement": []
+          }
+        ],
+        "ObjectAddressExtrainfo0": "",
+        "ObjectAddressglobalid0": 379648,
+        "ObjectAddressisdeleted1": 0,
+        "ObjectAddressAdmArea1": null,
+        "ObjectAddressDistrict1": null,
+        "ObjectAddressPostalCode1": "",
+        "ObjectAddressAddress1": "",
+        "ObjectAddressAvailability1": [
+          {
+            "isdeleted": 0,
+            "globalid": 159070,
+            "availablek": null,
+            "availableo": null,
+            "availablez": null,
+            "availables": null,
+            "availableelement": [
+              {
+                "isdeleted": 0,
+                "globalid": 6281692,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6281693,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6281696,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6281700,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6281701,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6281708,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6281709,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6281712,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6281713,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6281718,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6281719,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6281722,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6281728,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6281729,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6281730,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6281735,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6281742,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6281750,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6281751,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6281752,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6281753,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6281756,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6281761,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6281764,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6281765,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6281766,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6281767,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6281769,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6281778,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6281783,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6281785,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6281786,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6281787,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6281788,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6281791,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6281793,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6281800,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6281801,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6281802,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6281805,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6281807,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6281809,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6281812,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6281813,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              }
+            ]
+          }
+        ],
+        "ObjectAddressExtrainfo1": "",
+        "ObjectAddressglobalid1": 379650,
+        "ChiefPhoneisdeleted0": 0,
+        "ChiefPhoneChiefPhone0": "",
+        "ChiefPhoneglobalid0": 353260,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "PublicPhoneglobalid0": 385779,
+        "Faxisdeleted0": 0,
+        "FaxFax0": "",
+        "Faxglobalid0": 346306,
+        "Emailisdeleted0": 0,
+        "EmailEmail0": "",
+        "Emailglobalid0": 348836,
+        "WorkingHoursisdeleted0": 0,
+        "WorkingHoursDayWeek0": null,
+        "WorkingHoursWorkHours0": "",
+        "WorkingHoursglobalid0": 2501051,
+        "WorkingHoursisdeleted1": 0,
+        "WorkingHoursDayWeek1": null,
+        "WorkingHoursWorkHours1": "",
+        "WorkingHoursglobalid1": 2501031,
+        "WorkingHoursisdeleted2": 0,
+        "WorkingHoursDayWeek2": null,
+        "WorkingHoursWorkHours2": "",
+        "WorkingHoursglobalid2": 2501041,
+        "WorkingHoursisdeleted3": 0,
+        "WorkingHoursDayWeek3": null,
+        "WorkingHoursWorkHours3": "",
+        "WorkingHoursglobalid3": 2501042,
+        "WorkingHoursisdeleted4": 0,
+        "WorkingHoursDayWeek4": null,
+        "WorkingHoursWorkHours4": "",
+        "WorkingHoursglobalid4": 2501048,
+        "WorkingHoursisdeleted5": 0,
+        "WorkingHoursDayWeek5": null,
+        "WorkingHoursWorkHours5": "",
+        "WorkingHoursglobalid5": 2501050,
+        "WorkingHoursisdeleted6": 0,
+        "WorkingHoursDayWeek6": null,
+        "WorkingHoursWorkHours6": "",
+        "WorkingHoursglobalid6": 2501037
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            37.812790586948,
+            55.795514067264
+          ]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "FullName": "Государственное бюджетное учреждение здравоохранения города Москвы «Бюро судебно-медицинской экспертизы Департамента здравоохранения города Москвы». Отделение экспертизы телесных повреждений № 2",
+        "ShortName": "ГБУЗ «БСМЭ ДЗМ». Отделение экспертизы телесных повреждений № 2",
+        "ChiefName": "Макурина Светлана Владимировна",
+        "ChiefPosition": "заведующий отделением",
+        "ChiefGender": "женский",
+        "ClarificationWorkingHours": "Часы работы – прием медицинских документов – пн-пт с 9.00 до 12.00, прием потерпевших пн-пт с 9.00 до 13.00, выдача медицинских документов пн-пт с 9.00 до 15.00, сб, вс - выходной",
+        "globalid": 1015603100,
+        "OrgInfoisdeleted0": 0,
+        "OrgInfoFullName0": "",
+        "OrgInfoChiefPhone0": [
+          {
+            "isdeleted": 0,
+            "globalid": 336505,
+            "ChiefPhone": ""
+          }
+        ],
+        "OrgInfoINN0": "",
+        "OrgInfoKPP0": "",
+        "OrgInfoOGRN0": "",
+        "OrgInfoLegalAddress0": "",
+        "OrgInfoChiefName0": "",
+        "OrgInfoChiefPosition0": null,
+        "OrgInfoChiefGender0": null,
+        "OrgInfoglobalid0": 336961,
+        "ObjectAddressisdeleted0": 0,
+        "ObjectAddressAdmArea0": null,
+        "ObjectAddressDistrict0": null,
+        "ObjectAddressPostalCode0": "",
+        "ObjectAddressAddress0": "",
+        "ObjectAddressAvailability0": [
+          {
+            "isdeleted": 0,
+            "globalid": 159072,
+            "availablek": null,
+            "availableo": null,
+            "availablez": null,
+            "availables": null,
+            "availableelement": []
+          }
+        ],
+        "ObjectAddressExtrainfo0": "",
+        "ObjectAddressglobalid0": 379643,
+        "ChiefPhoneisdeleted0": 0,
+        "ChiefPhoneChiefPhone0": "",
+        "ChiefPhoneglobalid0": 353259,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "PublicPhoneglobalid0": 385780,
+        "Faxisdeleted0": 0,
+        "FaxFax0": "",
+        "Faxglobalid0": 346308,
+        "Emailisdeleted0": 0,
+        "EmailEmail0": "",
+        "Emailglobalid0": 348835,
+        "WorkingHoursisdeleted0": 0,
+        "WorkingHoursDayWeek0": null,
+        "WorkingHoursWorkHours0": "",
+        "WorkingHoursglobalid0": 2501032,
+        "WorkingHoursisdeleted1": 0,
+        "WorkingHoursDayWeek1": null,
+        "WorkingHoursWorkHours1": "",
+        "WorkingHoursglobalid1": 2501045,
+        "WorkingHoursisdeleted2": 0,
+        "WorkingHoursDayWeek2": null,
+        "WorkingHoursWorkHours2": "",
+        "WorkingHoursglobalid2": 2501040,
+        "WorkingHoursisdeleted3": 0,
+        "WorkingHoursDayWeek3": null,
+        "WorkingHoursWorkHours3": "",
+        "WorkingHoursglobalid3": 2501046,
+        "WorkingHoursisdeleted4": 0,
+        "WorkingHoursDayWeek4": null,
+        "WorkingHoursWorkHours4": "",
+        "WorkingHoursglobalid4": 2501038,
+        "WorkingHoursisdeleted5": 0,
+        "WorkingHoursDayWeek5": null,
+        "WorkingHoursWorkHours5": "",
+        "WorkingHoursglobalid5": 2501043,
+        "WorkingHoursisdeleted6": 0,
+        "WorkingHoursDayWeek6": null,
+        "WorkingHoursWorkHours6": "",
+        "WorkingHoursglobalid6": 2501047
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

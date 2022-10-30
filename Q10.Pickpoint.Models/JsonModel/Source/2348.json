@@ -1,0 +1,978 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            37.59496724847,
+            55.829744099653
+          ]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "FullName": "Государственное бюджетное учреждение здравоохранения города Москвы «Московский городской центр профилактики и борьбы со СПИДом(Государственное бюджетное учреждение здравоохранения города Москвы Городская поликлиника № 12) Департамента здравоохранения города Москвы»",
+        "ShortName": "ГБУЗ «МГЦПиБ со СПИДом (ГБУЗ ГП № 12)» ДЗМ",
+        "ChiefName": "Краснова Светлана Васильевна",
+        "ChiefPosition": "главный врач",
+        "ChiefGender": "женский",
+        "ClarificationWorkingHours": "",
+        "globalid": 656106931,
+        "OrgInfoisdeleted0": 0,
+        "OrgInfoFullName0": "",
+        "OrgInfoINN0": "",
+        "OrgInfoKPP0": "",
+        "OrgInfoOGRN0": "",
+        "OrgInfoLegalAddress0": "",
+        "OrgInfoChiefName0": "",
+        "OrgInfoChiefPosition0": null,
+        "OrgInfoChiefGender0": null,
+        "OrgInfoChiefPhone0": [
+          {
+            "isdeleted": 0,
+            "globalid": 335463,
+            "ChiefPhone": ""
+          }
+        ],
+        "OrgInfoglobalid0": 335241,
+        "ObjectAddressisdeleted0": 0,
+        "ObjectAddressAdmArea0": null,
+        "ObjectAddressDistrict0": null,
+        "ObjectAddressPostalCode0": "",
+        "ObjectAddressAddress0": "",
+        "ObjectAddressAvailability0": [
+          {
+            "isdeleted": 0,
+            "globalid": 157757,
+            "availablek": null,
+            "availableo": null,
+            "availablez": null,
+            "availables": null,
+            "availableelement": []
+          }
+        ],
+        "ObjectAddressExtrainfo0": "",
+        "ObjectAddressglobalid0": 376007,
+        "ChiefPhoneisdeleted0": 0,
+        "ChiefPhoneChiefPhone0": "",
+        "ChiefPhoneglobalid0": 352228,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "PublicPhoneglobalid0": 383416,
+        "Faxisdeleted0": 0,
+        "FaxFax0": "",
+        "Faxglobalid0": 344711,
+        "Emailisdeleted0": 0,
+        "EmailEmail0": "",
+        "Emailglobalid0": 347873,
+        "WorkingHoursisdeleted0": 0,
+        "WorkingHoursDayWeek0": null,
+        "WorkingHoursWorkHours0": "",
+        "WorkingHoursglobalid0": 2488321,
+        "WorkingHoursisdeleted1": 0,
+        "WorkingHoursDayWeek1": null,
+        "WorkingHoursWorkHours1": "",
+        "WorkingHoursglobalid1": 2488050,
+        "WorkingHoursisdeleted2": 0,
+        "WorkingHoursDayWeek2": null,
+        "WorkingHoursWorkHours2": "",
+        "WorkingHoursglobalid2": 2491725,
+        "WorkingHoursisdeleted3": 0,
+        "WorkingHoursDayWeek3": null,
+        "WorkingHoursWorkHours3": "",
+        "WorkingHoursglobalid3": 2487422,
+        "WorkingHoursisdeleted4": 0,
+        "WorkingHoursDayWeek4": null,
+        "WorkingHoursWorkHours4": "",
+        "WorkingHoursglobalid4": 2486172,
+        "WorkingHoursisdeleted5": 0,
+        "WorkingHoursDayWeek5": null,
+        "WorkingHoursWorkHours5": "",
+        "WorkingHoursglobalid5": 2488322,
+        "WorkingHoursisdeleted6": 0,
+        "WorkingHoursDayWeek6": null,
+        "WorkingHoursWorkHours6": "",
+        "WorkingHoursglobalid6": 2491726
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            37.828800053942,
+            55.776544361487
+          ]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "FullName": "Государственное бюджетное учреждение здравоохранения города Москвы «Московский городской центр профилактики и борьбы со СПИДом (Государственное бюджетное учреждение здравоохранения города Москвы Городская поликлиника №175) Департамента здравоохранения города Москвы»",
+        "ShortName": "ГБУЗ «МГЦПиБ со СПИДом (ГБУЗ ГП №175)» ДЗМ",
+        "ChiefName": "Краснова Светлана Васильевна",
+        "ChiefPosition": "главный врач",
+        "ChiefGender": "женский",
+        "ClarificationWorkingHours": "",
+        "globalid": 656106801,
+        "OrgInfoisdeleted0": 0,
+        "OrgInfoFullName0": "",
+        "OrgInfoINN0": "",
+        "OrgInfoKPP0": "",
+        "OrgInfoOGRN0": "",
+        "OrgInfoLegalAddress0": "",
+        "OrgInfoChiefName0": "",
+        "OrgInfoChiefPosition0": null,
+        "OrgInfoChiefGender0": null,
+        "OrgInfoChiefPhone0": [
+          {
+            "isdeleted": 0,
+            "globalid": 334326,
+            "ChiefPhone": ""
+          }
+        ],
+        "OrgInfoglobalid0": 334318,
+        "ObjectAddressisdeleted0": 0,
+        "ObjectAddressAdmArea0": null,
+        "ObjectAddressDistrict0": null,
+        "ObjectAddressPostalCode0": "",
+        "ObjectAddressAddress0": "",
+        "ObjectAddressAvailability0": [
+          {
+            "isdeleted": 0,
+            "globalid": 157832,
+            "availablek": null,
+            "availableo": null,
+            "availablez": null,
+            "availables": null,
+            "availableelement": []
+          }
+        ],
+        "ObjectAddressExtrainfo0": "",
+        "ObjectAddressglobalid0": 375242,
+        "ChiefPhoneisdeleted0": 0,
+        "ChiefPhoneChiefPhone0": "",
+        "ChiefPhoneglobalid0": 351224,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "PublicPhoneglobalid0": 384324,
+        "Faxisdeleted0": 0,
+        "FaxFax0": "",
+        "Faxglobalid0": 344178,
+        "Emailisdeleted0": 0,
+        "EmailEmail0": "",
+        "Emailglobalid0": 346366,
+        "WorkingHoursisdeleted0": 0,
+        "WorkingHoursDayWeek0": null,
+        "WorkingHoursWorkHours0": "",
+        "WorkingHoursglobalid0": 2483680,
+        "WorkingHoursisdeleted1": 0,
+        "WorkingHoursDayWeek1": null,
+        "WorkingHoursWorkHours1": "",
+        "WorkingHoursglobalid1": 2494638,
+        "WorkingHoursisdeleted2": 0,
+        "WorkingHoursDayWeek2": null,
+        "WorkingHoursWorkHours2": "",
+        "WorkingHoursglobalid2": 2485646,
+        "WorkingHoursisdeleted3": 0,
+        "WorkingHoursDayWeek3": null,
+        "WorkingHoursWorkHours3": "",
+        "WorkingHoursglobalid3": 2494368,
+        "WorkingHoursisdeleted4": 0,
+        "WorkingHoursDayWeek4": null,
+        "WorkingHoursWorkHours4": "",
+        "WorkingHoursglobalid4": 2492836,
+        "WorkingHoursisdeleted5": 0,
+        "WorkingHoursDayWeek5": null,
+        "WorkingHoursWorkHours5": "",
+        "WorkingHoursglobalid5": 2490180,
+        "WorkingHoursisdeleted6": 0,
+        "WorkingHoursDayWeek6": null,
+        "WorkingHoursWorkHours6": "",
+        "WorkingHoursglobalid6": 2489665
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            37.422215977314,
+            55.84276039655
+          ]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "FullName": "Государственное бюджетное учреждение здравоохранения города Москвы «Московский городской центр профилактики и борьбы со СПИДом (Государственное бюджетное учреждение здравоохранения города Москвы Городская поликлиника № 219, филиал № 3) Департамента здравоохранения города Москвы»",
+        "ShortName": "ГБУЗ «МГЦПиБ со СПИДом (ГБУЗ ГП № 219, филиал № 3)» ДЗМ",
+        "ChiefName": "Краснова Светлана Васильевна",
+        "ChiefPosition": "главный врач",
+        "ChiefGender": "женский",
+        "ClarificationWorkingHours": "",
+        "globalid": 656107631,
+        "OrgInfoisdeleted0": 0,
+        "OrgInfoFullName0": "",
+        "OrgInfoINN0": "",
+        "OrgInfoKPP0": "",
+        "OrgInfoOGRN0": "",
+        "OrgInfoLegalAddress0": "",
+        "OrgInfoChiefName0": "",
+        "OrgInfoChiefPosition0": null,
+        "OrgInfoChiefGender0": null,
+        "OrgInfoChiefPhone0": [
+          {
+            "isdeleted": 0,
+            "globalid": 335364,
+            "ChiefPhone": ""
+          }
+        ],
+        "OrgInfoglobalid0": 335890,
+        "ObjectAddressisdeleted0": 0,
+        "ObjectAddressAdmArea0": null,
+        "ObjectAddressDistrict0": null,
+        "ObjectAddressPostalCode0": "",
+        "ObjectAddressAddress0": "",
+        "ObjectAddressAvailability0": [
+          {
+            "isdeleted": 0,
+            "globalid": 157974,
+            "availablek": null,
+            "availableo": null,
+            "availablez": null,
+            "availables": null,
+            "availableelement": []
+          }
+        ],
+        "ObjectAddressExtrainfo0": "",
+        "ObjectAddressglobalid0": 375462,
+        "ChiefPhoneisdeleted0": 0,
+        "ChiefPhoneChiefPhone0": "",
+        "ChiefPhoneglobalid0": 351630,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "PublicPhoneglobalid0": 383908,
+        "Faxisdeleted0": 0,
+        "FaxFax0": "",
+        "Faxglobalid0": 345330,
+        "Emailisdeleted0": 0,
+        "EmailEmail0": "",
+        "Emailglobalid0": 346754,
+        "WorkingHoursisdeleted0": 0,
+        "WorkingHoursDayWeek0": null,
+        "WorkingHoursWorkHours0": "",
+        "WorkingHoursglobalid0": 2483233,
+        "WorkingHoursisdeleted1": 0,
+        "WorkingHoursDayWeek1": null,
+        "WorkingHoursWorkHours1": "",
+        "WorkingHoursglobalid1": 2490494,
+        "WorkingHoursisdeleted2": 0,
+        "WorkingHoursDayWeek2": null,
+        "WorkingHoursWorkHours2": "",
+        "WorkingHoursglobalid2": 2492231,
+        "WorkingHoursisdeleted3": 0,
+        "WorkingHoursDayWeek3": null,
+        "WorkingHoursWorkHours3": "",
+        "WorkingHoursglobalid3": 2496085,
+        "WorkingHoursisdeleted4": 0,
+        "WorkingHoursDayWeek4": null,
+        "WorkingHoursWorkHours4": "",
+        "WorkingHoursglobalid4": 2496198,
+        "WorkingHoursisdeleted5": 0,
+        "WorkingHoursDayWeek5": null,
+        "WorkingHoursWorkHours5": "",
+        "WorkingHoursglobalid5": 2485789,
+        "WorkingHoursisdeleted6": 0,
+        "WorkingHoursDayWeek6": null,
+        "WorkingHoursWorkHours6": "",
+        "WorkingHoursglobalid6": 2485790
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            37.649092124559,
+            55.584690971766
+          ]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "FullName": "Государственное бюджетное учреждение здравоохранения города Москвы «Московский городской центр профилактики и борьбы со СПИДом (Государственное бюджетное учреждение здравоохранения города Москвы Городская поликлиника № 52) Департамента здравоохранения города Москвы»",
+        "ShortName": "ГБУЗ «МГЦПиБ со СПИДом (ГБУЗ ГП №52)» ДЗМ",
+        "ChiefName": "Краснова Светлана Васильевна",
+        "ChiefPosition": "главный врач",
+        "ChiefGender": "женский",
+        "ClarificationWorkingHours": "",
+        "globalid": 656106552,
+        "OrgInfoisdeleted0": 0,
+        "OrgInfoFullName0": "",
+        "OrgInfoINN0": "",
+        "OrgInfoKPP0": "",
+        "OrgInfoOGRN0": "",
+        "OrgInfoLegalAddress0": "",
+        "OrgInfoChiefName0": "",
+        "OrgInfoChiefPosition0": null,
+        "OrgInfoChiefGender0": null,
+        "OrgInfoChiefPhone0": [
+          {
+            "isdeleted": 0,
+            "globalid": 335254,
+            "ChiefPhone": ""
+          }
+        ],
+        "OrgInfoglobalid0": 335562,
+        "ObjectAddressisdeleted0": 0,
+        "ObjectAddressAdmArea0": null,
+        "ObjectAddressDistrict0": null,
+        "ObjectAddressPostalCode0": "",
+        "ObjectAddressAddress0": "",
+        "ObjectAddressAvailability0": [
+          {
+            "isdeleted": 0,
+            "globalid": 157448,
+            "availablek": null,
+            "availableo": null,
+            "availablez": null,
+            "availables": null,
+            "availableelement": []
+          }
+        ],
+        "ObjectAddressExtrainfo0": "",
+        "ObjectAddressglobalid0": 375804,
+        "ChiefPhoneisdeleted0": 0,
+        "ChiefPhoneChiefPhone0": "",
+        "ChiefPhoneglobalid0": 352316,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "PublicPhoneglobalid0": 384264,
+        "Faxisdeleted0": 0,
+        "FaxFax0": "",
+        "Faxglobalid0": 344344,
+        "Emailisdeleted0": 0,
+        "EmailEmail0": "",
+        "Emailglobalid0": 346525,
+        "WorkingHoursisdeleted0": 0,
+        "WorkingHoursDayWeek0": null,
+        "WorkingHoursWorkHours0": "",
+        "WorkingHoursglobalid0": 2487831,
+        "WorkingHoursisdeleted1": 0,
+        "WorkingHoursDayWeek1": null,
+        "WorkingHoursWorkHours1": "",
+        "WorkingHoursglobalid1": 2483630,
+        "WorkingHoursisdeleted2": 0,
+        "WorkingHoursDayWeek2": null,
+        "WorkingHoursWorkHours2": "",
+        "WorkingHoursglobalid2": 2484270,
+        "WorkingHoursisdeleted3": 0,
+        "WorkingHoursDayWeek3": null,
+        "WorkingHoursWorkHours3": "",
+        "WorkingHoursglobalid3": 2488870,
+        "WorkingHoursisdeleted4": 0,
+        "WorkingHoursDayWeek4": null,
+        "WorkingHoursWorkHours4": "",
+        "WorkingHoursglobalid4": 2491453,
+        "WorkingHoursisdeleted5": 0,
+        "WorkingHoursDayWeek5": null,
+        "WorkingHoursWorkHours5": "",
+        "WorkingHoursglobalid5": 2489166,
+        "WorkingHoursisdeleted6": 0,
+        "WorkingHoursDayWeek6": null,
+        "WorkingHoursWorkHours6": "",
+        "WorkingHoursglobalid6": 2485313
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            37.30399660835,
+            55.473662025198
+          ]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "FullName": "Государственное бюджетное учреждение здравоохранения города Москвы «Московский городской центр профилактики и борьбы со СПИДом (Государственное бюджетное учреждение здравоохранения города Москвы Центральная городская больница города Троицка, поликлиническое отделение) Департамента здравоохранения города Москвы»",
+        "ShortName": "ГБУЗ «МГЦПиБ со СПИДом (ГБУЗ ЦГБ г. Троицка, поликлиническое отделение)» ДЗМ",
+        "ChiefName": "Краснова Светлана Васильевна",
+        "ChiefPosition": "главный врач",
+        "ChiefGender": "женский",
+        "ClarificationWorkingHours": "",
+        "globalid": 656106170,
+        "OrgInfoisdeleted0": 0,
+        "OrgInfoFullName0": "",
+        "OrgInfoINN0": "",
+        "OrgInfoKPP0": "",
+        "OrgInfoOGRN0": "",
+        "OrgInfoLegalAddress0": "",
+        "OrgInfoChiefName0": "",
+        "OrgInfoChiefPosition0": null,
+        "OrgInfoChiefGender0": null,
+        "OrgInfoChiefPhone0": [
+          {
+            "isdeleted": 0,
+            "globalid": 334105,
+            "ChiefPhone": ""
+          }
+        ],
+        "OrgInfoglobalid0": 335242,
+        "ObjectAddressisdeleted0": 0,
+        "ObjectAddressAdmArea0": null,
+        "ObjectAddressDistrict0": null,
+        "ObjectAddressPostalCode0": "",
+        "ObjectAddressAddress0": "",
+        "ObjectAddressAvailability0": [
+          {
+            "isdeleted": 0,
+            "globalid": 157472,
+            "availablek": null,
+            "availableo": null,
+            "availablez": null,
+            "availables": null,
+            "availableelement": []
+          }
+        ],
+        "ObjectAddressExtrainfo0": "",
+        "ObjectAddressglobalid0": 376827,
+        "ChiefPhoneisdeleted0": 0,
+        "ChiefPhoneChiefPhone0": "",
+        "ChiefPhoneglobalid0": 351570,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "PublicPhoneglobalid0": 384505,
+        "Faxisdeleted0": 0,
+        "FaxFax0": "",
+        "Faxglobalid0": 345346,
+        "Emailisdeleted0": 0,
+        "EmailEmail0": "",
+        "Emailglobalid0": 346384,
+        "WorkingHoursisdeleted0": 0,
+        "WorkingHoursDayWeek0": null,
+        "WorkingHoursWorkHours0": "",
+        "WorkingHoursglobalid0": 2483234,
+        "WorkingHoursisdeleted1": 0,
+        "WorkingHoursDayWeek1": null,
+        "WorkingHoursWorkHours1": "",
+        "WorkingHoursglobalid1": 2494639,
+        "WorkingHoursisdeleted2": 0,
+        "WorkingHoursDayWeek2": null,
+        "WorkingHoursWorkHours2": "",
+        "WorkingHoursglobalid2": 2490243,
+        "WorkingHoursisdeleted3": 0,
+        "WorkingHoursDayWeek3": null,
+        "WorkingHoursWorkHours3": "",
+        "WorkingHoursglobalid3": 2494640,
+        "WorkingHoursisdeleted4": 0,
+        "WorkingHoursDayWeek4": null,
+        "WorkingHoursWorkHours4": "",
+        "WorkingHoursglobalid4": 2489167,
+        "WorkingHoursisdeleted5": 0,
+        "WorkingHoursDayWeek5": null,
+        "WorkingHoursWorkHours5": "",
+        "WorkingHoursglobalid5": 2490244,
+        "WorkingHoursisdeleted6": 0,
+        "WorkingHoursDayWeek6": null,
+        "WorkingHoursWorkHours6": "",
+        "WorkingHoursglobalid6": 2495974
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            37.742538805689,
+            55.77038288005
+          ]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "FullName": "Государственное бюджетное учреждение здравоохранения города Москвы «Московский городской центр профилактики и борьбы со СПИДом на Соколиной горе Департамента здравоохранения города Москвы»",
+        "ShortName": "ГБУЗ «МГЦПиБ со СПИДом (на Соколиной горе)» ДЗМ",
+        "ChiefName": "Краснова Светлана Васильевна",
+        "ChiefPosition": "главный врач",
+        "ChiefGender": "женский",
+        "ClarificationWorkingHours": "",
+        "globalid": 656107876,
+        "OrgInfoisdeleted0": 0,
+        "OrgInfoFullName0": "",
+        "OrgInfoINN0": "",
+        "OrgInfoKPP0": "",
+        "OrgInfoOGRN0": "",
+        "OrgInfoLegalAddress0": "",
+        "OrgInfoChiefName0": "",
+        "OrgInfoChiefPosition0": null,
+        "OrgInfoChiefGender0": null,
+        "OrgInfoChiefPhone0": [
+          {
+            "isdeleted": 0,
+            "globalid": 334173,
+            "ChiefPhone": ""
+          }
+        ],
+        "OrgInfoglobalid0": 334522,
+        "ObjectAddressisdeleted0": 0,
+        "ObjectAddressAdmArea0": null,
+        "ObjectAddressDistrict0": null,
+        "ObjectAddressPostalCode0": "",
+        "ObjectAddressAddress0": "",
+        "ObjectAddressAvailability0": [
+          {
+            "isdeleted": 0,
+            "globalid": 156917,
+            "availablek": null,
+            "availableo": null,
+            "availablez": null,
+            "availables": null,
+            "availableelement": [
+              {
+                "isdeleted": 0,
+                "globalid": 6232810,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6232932,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6234617,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6234692,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6235133,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6236123,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6239674,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6240028,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6241213,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6241816,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6242000,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6242599,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6244850,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6246120,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6246885,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6247551,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6247819,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6248041,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6248539,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6249341,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6250705,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6251304,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6252030,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6252703,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6252981,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6254364,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6254365,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6254496,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6254895,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6255950,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6256048,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6256920,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6258318,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6259257,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6259656,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6260449,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6260600,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6260720,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6260838,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6261205,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6261670,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6264326,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6265083,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 6265887,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              }
+            ]
+          }
+        ],
+        "ObjectAddressExtrainfo0": "",
+        "ObjectAddressglobalid0": 377637,
+        "ChiefPhoneisdeleted0": 0,
+        "ChiefPhoneChiefPhone0": "",
+        "ChiefPhoneglobalid0": 352396,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "PublicPhoneglobalid0": 383773,
+        "Faxisdeleted0": 0,
+        "FaxFax0": "",
+        "Faxglobalid0": 345392,
+        "Emailisdeleted0": 0,
+        "EmailEmail0": "",
+        "Emailglobalid0": 347278,
+        "WorkingHoursisdeleted0": 0,
+        "WorkingHoursDayWeek0": null,
+        "WorkingHoursWorkHours0": "",
+        "WorkingHoursglobalid0": 2496084,
+        "WorkingHoursisdeleted1": 0,
+        "WorkingHoursDayWeek1": null,
+        "WorkingHoursWorkHours1": "",
+        "WorkingHoursglobalid1": 2493807,
+        "WorkingHoursisdeleted2": 0,
+        "WorkingHoursDayWeek2": null,
+        "WorkingHoursWorkHours2": "",
+        "WorkingHoursglobalid2": 2495953,
+        "WorkingHoursisdeleted3": 0,
+        "WorkingHoursDayWeek3": null,
+        "WorkingHoursWorkHours3": "",
+        "WorkingHoursglobalid3": 2492303,
+        "WorkingHoursisdeleted4": 0,
+        "WorkingHoursDayWeek4": null,
+        "WorkingHoursWorkHours4": "",
+        "WorkingHoursglobalid4": 2490416,
+        "WorkingHoursisdeleted5": 0,
+        "WorkingHoursDayWeek5": null,
+        "WorkingHoursWorkHours5": "",
+        "WorkingHoursglobalid5": 2483679,
+        "WorkingHoursisdeleted6": 0,
+        "WorkingHoursDayWeek6": null,
+        "WorkingHoursWorkHours6": "",
+        "WorkingHoursglobalid6": 2492230
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

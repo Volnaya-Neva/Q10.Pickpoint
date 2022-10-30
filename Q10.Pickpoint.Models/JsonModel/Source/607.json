@@ -1,0 +1,3584 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.893709,
+          55.453808
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Домодедовское кладбище",
+        "OnTerritoryOfMoscow": "нет",
+        "AdmArea": null,
+        "District": null,
+        "Address": "Московская область, г. Домодедово, вблизи д. Истомиха, территория \"Домодедовское кладбище\"",
+        "LongitudeWGS84": "37.893709",
+        "LatitudeWGS84": "55.453808",
+        "ObjectArea": 176.5,
+        "ObjectStatus": "закрытое",
+        "globalid": 1712637,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 473
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.38099,
+          55.27651
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Жохово кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Троицкий административный округ",
+        "District": "поселение Кленовское",
+        "Address": "деревня Жохово",
+        "LongitudeWGS84": "37.38099",
+        "LatitudeWGS84": "55.27651",
+        "GraveType": "гробом в землю",
+        "ObjectArea": 0.5,
+        "ObjectStatus": "закрытое",
+        "globalid": 1712638,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 474
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.596171,
+          55.495827
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Захарьинское кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Южное Бутово",
+        "Address": "улица Николая Сироткина",
+        "LongitudeWGS84": "37.596171",
+        "LatitudeWGS84": "55.495827",
+        "ObjectArea": 12.1,
+        "ObjectStatus": "открытое",
+        "globalid": 1712639,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 475
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.21588,
+          55.952753
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Зеленоградское (Северное) кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Зеленоградский административный округ",
+        "District": "район Савёлки",
+        "Address": "Зеленоград, Проезд N 710, дом 19 стр. 1, 3, 4",
+        "LongitudeWGS84": "37.215880",
+        "LatitudeWGS84": "55.952753",
+        "ObjectArea": 14.7,
+        "ObjectStatus": "закрытое",
+        "globalid": 1712640,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 476
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          36.909239,
+          55.408224
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Зосимова пустынь кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Троицкий административный округ",
+        "District": "поселение Новофедоровское",
+        "Address": "поселок Зосимова пустынь",
+        "LongitudeWGS84": "36.909239",
+        "LatitudeWGS84": "55.408224",
+        "GraveType": "гробом в землю",
+        "ObjectArea": 1,
+        "ObjectStatus": "закрытое",
+        "globalid": 1712641,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 478
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.838953,
+          55.768869
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Ивановское кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Ивановское",
+        "Address": "улица Сталеваров, владение 6, стр. 1,2,3,4,5,6",
+        "LongitudeWGS84": "37.838953",
+        "LatitudeWGS84": "55.768869",
+        "GraveType": "гробом в землю",
+        "ObjectArea": 1.9,
+        "ObjectStatus": "закрытое",
+        "globalid": 1712642,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 479
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.263326,
+          55.62614
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Изваринское кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Новомосковский административный округ",
+        "District": "поселение Внуковское",
+        "Address": "деревня Изварино",
+        "LongitudeWGS84": "37.263326",
+        "LatitudeWGS84": "55.626140",
+        "GraveType": "гробом в землю",
+        "ObjectArea": 1.38,
+        "ObjectStatus": "закрытое",
+        "globalid": 1712644,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 352
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.441303,
+          55.401341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Ознобишино кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Троицкий административный округ",
+        "District": "поселение Щаповское",
+        "Address": "вблизи с. Ознобишино",
+        "LongitudeWGS84": "37.441303",
+        "LatitudeWGS84": "55.401341",
+        "GraveType": "гробом в землю",
+        "ObjectArea": 1.7,
+        "ObjectStatus": "закрытое",
+        "globalid": 1712645,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 502
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.180299,
+          55.400007
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Исаково кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Троицкий административный округ",
+        "District": "поселение Михайлово-Ярцевское",
+        "Address": "д. Исаково",
+        "LongitudeWGS84": "37.180299",
+        "LatitudeWGS84": "55.400007",
+        "GraveType": "гробом в землю",
+        "ObjectArea": 4.8,
+        "ObjectStatus": "закрытое",
+        "globalid": 1712646,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 354
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.688346,
+          55.733101
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Калитниковское кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Центральный административный округ",
+        "District": "Таганский район",
+        "Address": "Большой Калитниковский проезд, вл. 11",
+        "LongitudeWGS84": "37.688346",
+        "LatitudeWGS84": "55.733101",
+        "ObjectArea": 16.7,
+        "ObjectStatus": "закрытое",
+        "globalid": 1712647,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 481
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.791112,
+          55.639315
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Капотненское кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Капотня",
+        "Address": "1-й квартал Капотня, 1-й Капотнинский проезд",
+        "LongitudeWGS84": "37.791112",
+        "LatitudeWGS84": "55.639315",
+        "GraveType": "гробом в землю",
+        "ObjectArea": 2.5,
+        "ObjectStatus": "закрытое",
+        "globalid": 1712648,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 482
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.58017,
+          55.571173
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Качаловское кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Северное Бутово",
+        "Address": "Старокачаловская улица, владение 8",
+        "LongitudeWGS84": "37.580170",
+        "LatitudeWGS84": "55.571173",
+        "ObjectArea": 1,
+        "ObjectStatus": "закрытое",
+        "globalid": 1712649,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 357
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.2614,
+          55.52169
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Клоково кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Троицкий административный округ",
+        "District": "поселение Первомайское",
+        "Address": "деревня Клоково",
+        "LongitudeWGS84": "37.26140",
+        "LatitudeWGS84": "55.52169",
+        "GraveType": "гробом в землю",
+        "ObjectArea": 0.2,
+        "ObjectStatus": "закрытое",
+        "globalid": 1712650,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 483
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.63621,
+          55.620471
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Котляковское кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Южный административный округ",
+        "District": "район Царицыно",
+        "Address": "улица Деловая, вл. 21",
+        "LongitudeWGS84": "37.636210",
+        "LatitudeWGS84": "55.620471",
+        "ObjectArea": 38.7,
+        "ObjectStatus": "закрытое",
+        "globalid": 1712651,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 484
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.292286,
+          55.423774
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Красное кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Троицкий административный округ",
+        "District": "поселение Краснопахорское",
+        "Address": "село Красное",
+        "LongitudeWGS84": "37.292286",
+        "LatitudeWGS84": "55.423774",
+        "GraveType": "гробом в землю",
+        "ObjectArea": 1.4,
+        "ObjectStatus": "закрытое",
+        "globalid": 1712652,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 485
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.435135,
+          55.493202
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Кувекинское кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Новомосковский административный округ",
+        "District": "поселение Десеновское",
+        "Address": "деревня Кувекино",
+        "LongitudeWGS84": "37.435135",
+        "LatitudeWGS84": "55.493202",
+        "GraveType": "гробом в землю",
+        "ObjectArea": 1.2,
+        "ObjectStatus": "закрытое",
+        "globalid": 1712653,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 486
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          36.945886,
+          55.459938
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Кузнецово кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Троицкий административный округ",
+        "District": "поселение Новофедоровское",
+        "Address": "деревня Кузнецово",
+        "LongitudeWGS84": "36.945886",
+        "LatitudeWGS84": "55.459938",
+        "GraveType": "гробом в землю",
+        "ObjectArea": 1.1,
+        "ObjectStatus": "закрытое",
+        "globalid": 1712654,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 487
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.799055,
+          55.705256
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Кузьминское кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Выхино-Жулебино",
+        "Address": "улица Академика Скрябина, вл. 19",
+        "LongitudeWGS84": "37.799055",
+        "LatitudeWGS84": "55.705256",
+        "ObjectArea": 42.9,
+        "ObjectStatus": "закрытое",
+        "globalid": 1712655,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 176
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.806136,
+          55.702787
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Кузьминское (мусульманское) кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Выхино-Жулебино",
+        "Address": "улица Академика Скрябина, вл. 19",
+        "LongitudeWGS84": "37.806136",
+        "LatitudeWGS84": "55.702787",
+        "ObjectArea": 2.4,
+        "ObjectStatus": "закрытое",
+        "globalid": 1712656,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 177
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.350034,
+          55.774616
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Рублевское кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Западный административный округ",
+        "District": "район Кунцево",
+        "Address": "поселок Рублево",
+        "LongitudeWGS84": "37.350034",
+        "LatitudeWGS84": "55.774616",
+        "GraveType": "гробом в землю",
+        "ObjectArea": 3.4,
+        "ObjectStatus": "закрытое",
+        "globalid": 1712657,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 521
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.645017,
+          55.844036
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Леоновское кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Ростокино",
+        "Address": "1-я улица Леонова, вл. 8",
+        "LongitudeWGS84": "37.645017",
+        "LatitudeWGS84": "55.844036",
+        "ObjectArea": 2.6,
+        "ObjectStatus": "закрытое",
+        "globalid": 1712658,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 489
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.406477,
+          55.562548
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Летовское кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Новомосковский административный округ",
+        "District": "поселение Сосенское",
+        "Address": "д. Летово",
+        "LongitudeWGS84": "37.406477",
+        "LatitudeWGS84": "55.562548",
+        "GraveType": "гробом в землю",
+        "ObjectArea": 0.51,
+        "ObjectStatus": "закрытое",
+        "globalid": 1712659,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 366
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.561797,
+          55.911693
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Лианозовское кладбище",
+        "OnTerritoryOfMoscow": "нет",
+        "AdmArea": null,
+        "District": null,
+        "Address": "Московская область, Мытищинский район, юго-западная часть городского поселения Мытищи, 83-й км МКАД",
+        "LongitudeWGS84": "37.561797",
+        "LatitudeWGS84": "55.911693",
+        "ObjectArea": 79.2,
+        "ObjectStatus": "закрытое",
+        "globalid": 1712660,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 490
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.271186,
+          55.330646
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Лукошкино кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Троицкий административный округ",
+        "District": "поселение Кленовское",
+        "Address": "деревня Лукошкино",
+        "LongitudeWGS84": "37.271186",
+        "LatitudeWGS84": "55.330646",
+        "GraveType": "гробом в землю",
+        "ObjectArea": 1.4,
+        "ObjectStatus": "закрытое",
+        "globalid": 1712661,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 491
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.1408,
+          56.012556
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Алабушевское кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Зеленоградский административный округ",
+        "District": "район Савёлки",
+        "Address": "г. Зеленоград, промзона «Алабушево»",
+        "LongitudeWGS84": "37.140800",
+        "LatitudeWGS84": "56.012556",
+        "GraveType": "гробом в землю",
+        "ObjectArea": 34,
+        "ObjectStatus": "открытое",
+        "globalid": 1712662,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 309
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.643389,
+          55.818256
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Алексеевское кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Алексеевский район",
+        "Address": "Проспект Мира, владение 132",
+        "LongitudeWGS84": "37.643389",
+        "LatitudeWGS84": "55.818256",
+        "ObjectArea": 2.3,
+        "ObjectStatus": "закрытое",
+        "globalid": 1712663,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 445
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.594309,
+          55.907706
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Алтуфьевское кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Бибирево",
+        "Address": "85-й км МКАД",
+        "LongitudeWGS84": "37.594309",
+        "LatitudeWGS84": "55.907706",
+        "ObjectArea": 1.4,
+        "ObjectStatus": "закрытое",
+        "globalid": 1712664,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 447
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.146053,
+          55.56827
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Анкудиново кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Новомосковский административный округ",
+        "District": "поселение Марушкинское",
+        "Address": "деревня Анкудиново",
+        "LongitudeWGS84": "37.146053",
+        "LatitudeWGS84": "55.568270",
+        "GraveType": "гробом в землю",
+        "ObjectArea": 10.9,
+        "ObjectStatus": "закрытое",
+        "globalid": 1712665,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 448
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.704604,
+          55.863275
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Бабушкинское кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Ярославский район",
+        "Address": "Ярославское шоссе, владение 52",
+        "LongitudeWGS84": "37.704604",
+        "LatitudeWGS84": "55.863275",
+        "ObjectArea": 11.1,
+        "ObjectStatus": "закрытое",
+        "globalid": 1712666,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 449
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.015686,
+          55.411069
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Белоусово кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Троицкий административный округ",
+        "District": "поселение Новофедоровское",
+        "Address": "деревня Белоусово",
+        "LongitudeWGS84": "37.015686",
+        "LatitudeWGS84": "55.411069",
+        "GraveType": "гробом в землю",
+        "ObjectArea": 0.5,
+        "ObjectStatus": "закрытое",
+        "globalid": 1712667,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 450
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.053418,
+          55.213226
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Богородское (д. Богородское) кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Троицкий административный округ",
+        "District": "поселение Роговское",
+        "Address": "деревня Богородское",
+        "LongitudeWGS84": "37.053418",
+        "LatitudeWGS84": "55.213226",
+        "GraveType": "гробом в землю",
+        "ObjectArea": 0.13,
+        "ObjectStatus": "закрытое",
+        "globalid": 1712668,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 315
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.708192,
+          55.803805
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Богородское кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Преображенское",
+        "Address": "Краснобогатырская улица, вл. 81",
+        "LongitudeWGS84": "37.708192",
+        "LatitudeWGS84": "55.803805",
+        "GraveType": "гробом в землю",
+        "ObjectArea": 2.46,
+        "ObjectStatus": "закрытое",
+        "globalid": 1712669,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 451
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.17643,
+          55.25522
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Богоявление кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Троицкий административный округ",
+        "District": "поселение Вороновское",
+        "Address": "село Богоявление",
+        "LongitudeWGS84": "37.17643",
+        "LatitudeWGS84": "55.25522",
+        "GraveType": "гробом в землю",
+        "ObjectArea": 0.4,
+        "ObjectStatus": "закрытое",
+        "globalid": 1712670,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 452
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.709299,
+          55.766382
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Введенское кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Лефортово",
+        "Address": "Наличная ул., вл. 1",
+        "LongitudeWGS84": "37.709299",
+        "LatitudeWGS84": "55.766382",
+        "ObjectArea": 17,
+        "ObjectStatus": "закрытое",
+        "globalid": 1712671,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 329
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.145168,
+          55.571571
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Большое Свинорье кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Новомосковский административный округ",
+        "District": "поселение Марушкинское",
+        "Address": "деревня Большое Свинорье",
+        "LongitudeWGS84": "37.145168",
+        "LatitudeWGS84": "55.571571",
+        "GraveType": "гробом в землю",
+        "ObjectArea": 7.5,
+        "ObjectStatus": "закрытое",
+        "globalid": 1712672,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 454
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.734079,
+          55.634297
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Борисовское кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Южный административный округ",
+        "District": "район Братеево",
+        "Address": "Борисовские Пруды улица, вл. 4",
+        "LongitudeWGS84": "37.734079",
+        "LatitudeWGS84": "55.634297",
+        "ObjectArea": 1.1,
+        "ObjectStatus": "закрытое",
+        "globalid": 1712673,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 455
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.495282,
+          55.888083
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Бусиновское кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Северный административный округ",
+        "District": "район Западное Дегунино",
+        "Address": "улица Краснополянская, вл. 18",
+        "LongitudeWGS84": "37.495282",
+        "LatitudeWGS84": "55.888083",
+        "ObjectArea": 1.1,
+        "ObjectStatus": "закрытое",
+        "globalid": 1712674,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 456
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.562586,
+          55.528625
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Бутовское кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Южное Бутово",
+        "Address": "Южное Бутово, 36-й км Курской ж/д",
+        "LongitudeWGS84": "37.562586",
+        "LatitudeWGS84": "55.528625",
+        "ObjectArea": 24.7,
+        "ObjectStatus": "закрытое",
+        "globalid": 1712675,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 457
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.241735,
+          55.444574
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Былово кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Троицкий административный округ",
+        "District": "поселение Краснопахорское",
+        "Address": "село Былово",
+        "LongitudeWGS84": "37.241735",
+        "LatitudeWGS84": "55.444574",
+        "GraveType": "гробом в землю",
+        "ObjectArea": 0.2,
+        "ObjectStatus": "закрытое",
+        "globalid": 1712676,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 458
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.554625,
+          55.767955
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Ваганьковское кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "Address": "ул. Сергея Макеева, вл. 15",
+        "LongitudeWGS84": "37.554625",
+        "LatitudeWGS84": "55.767955",
+        "ObjectArea": 48.1,
+        "ObjectStatus": "закрытое",
+        "globalid": 1712677,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 459
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.501284,
+          55.838304
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Головинское кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Северный административный округ",
+        "District": "Головинский район",
+        "Address": "Головинское шоссе, вл. 13",
+        "LongitudeWGS84": "37.501284",
+        "LatitudeWGS84": "55.838304",
+        "ObjectArea": 15.4,
+        "ObjectStatus": "закрытое",
+        "globalid": 1712678,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 336
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.25062,
+          55.431382
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Варварино кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Троицкий административный округ",
+        "District": "поселение Краснопахорское",
+        "Address": "деревня Варварино",
+        "LongitudeWGS84": "37.250620",
+        "LatitudeWGS84": "55.431382",
+        "GraveType": "гробом в землю",
+        "ObjectArea": 0.6,
+        "ObjectStatus": "закрытое",
+        "globalid": 1712680,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 461
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          36.99186,
+          55.24202
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Васюнино кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Троицкий административный округ",
+        "District": "поселение Роговское",
+        "Address": "деревня Васюнино",
+        "LongitudeWGS84": "36.99186",
+        "LatitudeWGS84": "55.24202",
+        "GraveType": "гробом в землю",
+        "ObjectArea": 0.4,
+        "ObjectStatus": "закрытое",
+        "globalid": 1712681,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 327
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.324094,
+          55.499753
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Ватутинское кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Новомосковский административный округ",
+        "District": "поселение Десеновское",
+        "Address": "поселок Ватутинки",
+        "LongitudeWGS84": "37.324094",
+        "LatitudeWGS84": "55.499753",
+        "GraveType": "гробом в землю",
+        "ObjectArea": 3.4,
+        "ObjectStatus": "закрытое",
+        "globalid": 1712682,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 462
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.494443,
+          55.906987
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Долгопрудненское (Южное) кладбище",
+        "OnTerritoryOfMoscow": "нет",
+        "AdmArea": null,
+        "District": null,
+        "Address": "Московская область, г. Долгопрудный, Лихачевский проспект",
+        "LongitudeWGS84": "37.494443",
+        "LatitudeWGS84": "55.906987",
+        "ObjectArea": 27.9,
+        "ObjectStatus": "закрытое",
+        "globalid": 1712683,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 343
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.79793,
+          55.723436
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Вешняковское кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Вешняки",
+        "Address": "Юности улица, дом 17",
+        "LongitudeWGS84": "37.797930",
+        "LatitudeWGS84": "55.723436",
+        "GraveType": "гробом в землю",
+        "ObjectArea": 7.5,
+        "ObjectStatus": "закрытое",
+        "globalid": 1712684,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 463
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.591009,
+          55.845844
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Владыкинское кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Марфино",
+        "Address": "Станционная улица, дом 8А",
+        "LongitudeWGS84": "37.591009",
+        "LatitudeWGS84": "55.845844",
+        "ObjectArea": 1.4,
+        "ObjectStatus": "закрытое",
+        "globalid": 1712685,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 464
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.152352,
+          55.314498
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Вороново кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Троицкий административный округ",
+        "District": "поселение Вороновское",
+        "Address": "вблизи с. Вороново",
+        "LongitudeWGS84": "37.152352",
+        "LatitudeWGS84": "55.314498",
+        "GraveType": "гробом в землю",
+        "ObjectArea": 1.4,
+        "ObjectStatus": "закрытое",
+        "globalid": 1712686,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 465
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.24814,
+          55.34398
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Ворсино кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Троицкий административный округ",
+        "District": "поселение Вороновское",
+        "Address": "деревня Ворсино",
+        "LongitudeWGS84": "37.24814",
+        "LatitudeWGS84": "55.34398",
+        "GraveType": "гробом в землю",
+        "ObjectArea": 0.3,
+        "ObjectStatus": "закрытое",
+        "globalid": 1712687,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 466
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.442812,
+          55.66169
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Востряковское (Центральное) кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Западный административный округ",
+        "District": "район Тропарёво-Никулино",
+        "Address": "Озерная улица, вл. 47, корпус 3, 4, 5, 6, 7, 8",
+        "LongitudeWGS84": "37.442812",
+        "LatitudeWGS84": "55.661690",
+        "ObjectArea": 62,
+        "ObjectStatus": "закрытое",
+        "globalid": 1712688,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 468
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.442726,
+          55.66209
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Востряковское (Северное) кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Западный административный округ",
+        "District": "район Тропарёво-Никулино",
+        "Address": "Озерная улица, вл. 47, корпус 3, 4, 5, 6, 7, 8",
+        "LongitudeWGS84": "37.442726",
+        "LatitudeWGS84": "55.662090",
+        "ObjectArea": 25.9,
+        "ObjectStatus": "закрытое",
+        "globalid": 1712689,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 467
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.769308,
+          55.800888
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Измайловское кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Измайлово",
+        "Address": "Измайловский проезд, владение 30",
+        "LongitudeWGS84": "37.769308",
+        "LatitudeWGS84": "55.800888",
+        "GraveType": "гробом в землю",
+        "ObjectArea": 2.2,
+        "ObjectStatus": "закрытое",
+        "globalid": 1712690,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 480
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.812444,
+          55.830448
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Гольяновское кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Гольяново",
+        "Address": "Курганская улица, вл. 11",
+        "LongitudeWGS84": "37.812444",
+        "LatitudeWGS84": "55.830448",
+        "ObjectArea": 1.97,
+        "ObjectStatus": "закрытое",
+        "globalid": 1712691,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 337
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.242527,
+          55.515113
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Губцево кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Троицкий административный округ",
+        "District": "поселение Первомайское",
+        "Address": "деревня Губцево",
+        "LongitudeWGS84": "37.242527",
+        "LatitudeWGS84": "55.515113",
+        "GraveType": "гробом в землю",
+        "ObjectArea": 4,
+        "ObjectStatus": "закрытое",
+        "globalid": 1712692,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 469
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.610432,
+          55.704192
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Даниловское (Центральное) кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Южный административный округ",
+        "District": "Донской район",
+        "Address": "4-й Рощинский проезд, вл. 30",
+        "LongitudeWGS84": "37.610432",
+        "LatitudeWGS84": "55.704192",
+        "ObjectArea": 20.3,
+        "ObjectStatus": "закрытое",
+        "globalid": 1712693,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 470
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.604054,
+          55.704628
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Даниловское (мусульманское) кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Южный административный округ",
+        "District": "Донской район",
+        "Address": "2-й Рощинский проезд, вл. 10",
+        "LongitudeWGS84": "37.604054",
+        "LatitudeWGS84": "55.704628",
+        "ObjectArea": 4.2,
+        "ObjectStatus": "закрытое",
+        "globalid": 1712694,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 471
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.513948,
+          55.460753
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Девятское кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Новомосковский административный округ",
+        "District": "поселение Рязановское",
+        "Address": "дер. Девятское",
+        "LongitudeWGS84": "37.513948",
+        "LatitudeWGS84": "55.460753",
+        "GraveType": "гробом в землю",
+        "ObjectArea": 5.96,
+        "ObjectStatus": "закрытое",
+        "globalid": 1712695,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 341
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.512071,
+          55.920393
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Долгопрудненское (Центральное) кладбище",
+        "OnTerritoryOfMoscow": "нет",
+        "AdmArea": null,
+        "District": null,
+        "Address": "Московская область, г. Долгопрудный, Лихачевский проезд",
+        "LongitudeWGS84": "37.512071",
+        "LatitudeWGS84": "55.920393",
+        "ObjectArea": 60.4,
+        "ObjectStatus": "закрытое",
+        "globalid": 1712696,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 472
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.420299,
+          55.708501
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Кунцевское кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Западный административный округ",
+        "District": "Можайский район",
+        "Address": "Рябиновая улица, вл. 20",
+        "LongitudeWGS84": "37.420299",
+        "LatitudeWGS84": "55.708501",
+        "ObjectArea": 18.1,
+        "ObjectStatus": "закрытое",
+        "globalid": 1712697,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 488
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.780774,
+          55.681443
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Люблинское кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Люблино",
+        "Address": "Ставропольская улица, вл. 74А",
+        "LongitudeWGS84": "37.780774",
+        "LatitudeWGS84": "55.681443",
+        "ObjectArea": 19,
+        "ObjectStatus": "закрытое",
+        "globalid": 1712698,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 370
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.313905,
+          55.286419
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Маврино кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Троицкий административный округ",
+        "District": "поселение Кленовское",
+        "Address": "деревня Маврино",
+        "LongitudeWGS84": "37.313905",
+        "LatitudeWGS84": "55.286419",
+        "GraveType": "гробом в землю",
+        "ObjectArea": 5,
+        "ObjectStatus": "закрытое",
+        "globalid": 1712699,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 492
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.637506,
+          55.865318
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Медведковское кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Южное Медведково",
+        "Address": "Заповедная улица, владение 7А",
+        "LongitudeWGS84": "37.637506",
+        "LatitudeWGS84": "55.865318",
+        "ObjectArea": 1.2,
+        "ObjectStatus": "закрытое",
+        "globalid": 1712700,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 493
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.239828,
+          55.998084
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Никольское кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Зеленоградский административный округ",
+        "District": "район Матушкино",
+        "Address": "Зеленоград, Московский проспект",
+        "LongitudeWGS84": "37.239828",
+        "LatitudeWGS84": "55.998084",
+        "GraveType": "гробом в землю",
+        "ObjectArea": 0.4,
+        "ObjectStatus": "закрытое",
+        "globalid": 1712701,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 500
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.618377,
+          55.506016
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Щербинское кладбище",
+        "OnTerritoryOfMoscow": "нет",
+        "AdmArea": null,
+        "District": null,
+        "Address": "Московская область, Подольский район, сельское поселение Стрелковское, 29 км автодороги М-2 \"Крым\", Щербинский проезд",
+        "LongitudeWGS84": "37.618377",
+        "LatitudeWGS84": "55.506016",
+        "ObjectArea": 90,
+        "ObjectStatus": "закрытое",
+        "globalid": 1712702,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 439
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.891167,
+          55.741716
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Николо-Архангельское (Центральное), Николо-Архангельское (Восточное) кладбище",
+        "OnTerritoryOfMoscow": "нет",
+        "AdmArea": null,
+        "District": null,
+        "Address": "Московская область, Балашихинский район, с. Никольско-Архангельское ",
+        "LongitudeWGS84": "37.891167",
+        "LatitudeWGS84": "55.741716",
+        "ObjectArea": 140.6,
+        "ObjectStatus": "закрытое",
+        "globalid": 1712703,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 496
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.43054,
+          55.60526
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Николо-Хованское-1 кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Новомосковский административный округ",
+        "District": "поселение Сосенское",
+        "Address": "поселение Сосенское, в районе Николо-Хованского кладбища",
+        "LongitudeWGS84": "37.43054",
+        "LatitudeWGS84": "55.60526",
+        "GraveType": "гробом в землю",
+        "ObjectArea": 5.3,
+        "ObjectStatus": "закрытое",
+        "globalid": 1712705,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 498
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.24048,
+          55.26129
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Новогромово кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Троицкий административный округ",
+        "District": "поселение Вороновское",
+        "Address": "дер. Новогромово",
+        "LongitudeWGS84": "37.24048",
+        "LatitudeWGS84": "55.26129",
+        "GraveType": "гробом в землю",
+        "ObjectArea": 0.3,
+        "ObjectStatus": "закрытое",
+        "globalid": 1712706,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 501
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.347456,
+          55.871545
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Митинское кладбище",
+        "OnTerritoryOfMoscow": "нет",
+        "AdmArea": null,
+        "District": null,
+        "Address": "Московская область, Красногорский муниципальный район, сельское поселение Отрадненское, Пятницкое шоссе, 6-й км",
+        "LongitudeWGS84": "37.347456",
+        "LatitudeWGS84": "55.871545",
+        "ObjectArea": 106.8,
+        "ObjectStatus": "закрытое",
+        "globalid": 1712707,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 494
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.599792,
+          55.714219
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Донское кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Южный административный округ",
+        "District": "Донской район",
+        "Address": "Донская площадь, владение 1",
+        "LongitudeWGS84": "37.599792",
+        "LatitudeWGS84": "55.714219",
+        "ObjectArea": 7,
+        "ObjectStatus": "закрытое",
+        "globalid": 4089829,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 229
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.259296,
+          55.984601
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Зеленоградское (Центральное) кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Зеленоградский административный округ",
+        "District": "район Савёлки",
+        "Address": "Зеленоград, Проезд N 4921, дом 3, строение 1, 2",
+        "LongitudeWGS84": "37.259296",
+        "LatitudeWGS84": "55.984601",
+        "ObjectArea": 23.7,
+        "ObjectStatus": "закрытое",
+        "globalid": 4856088,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 477
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.353087,
+          55.322532
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Кленово кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Троицкий административный округ",
+        "District": "поселение Кленовское",
+        "Address": "деревня Кленово",
+        "LongitudeWGS84": "37.353087",
+        "LatitudeWGS84": "55.322532",
+        "GraveType": "гробом в землю",
+        "ObjectArea": 2.67,
+        "ObjectStatus": "закрытое",
+        "globalid": 4856089,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 358
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.599673,
+          55.793194
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Миусское кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Марьина Роща",
+        "Address": "улица Сущевский вал, вл. 19",
+        "LongitudeWGS84": "37.599673",
+        "LatitudeWGS84": "55.793194",
+        "ObjectArea": 5,
+        "ObjectStatus": "закрытое",
+        "globalid": 4856090,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 375
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.555675,
+          55.723942
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Новодевичье кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Хамовники",
+        "Address": "Лужнецкий проезд, вл. 2",
+        "LongitudeWGS84": "37.555675",
+        "LatitudeWGS84": "55.723942",
+        "ObjectArea": 6,
+        "ObjectStatus": "закрытое",
+        "globalid": 4856091,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 384
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.696141,
+          55.607734
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Ореховское кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Южный административный округ",
+        "District": "район Орехово-Борисово Северное",
+        "Address": "Шипиловский проезд, вл. 20",
+        "LongitudeWGS84": "37.696141",
+        "LatitudeWGS84": "55.607734",
+        "ObjectArea": 2.3,
+        "ObjectStatus": "закрытое",
+        "globalid": 4856093,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 503
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.378404,
+          55.631754
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Орловское кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Западный административный округ",
+        "District": "район Ново-Переделкино",
+        "Address": "Староорловская улица",
+        "LongitudeWGS84": "37.378404",
+        "LatitudeWGS84": "55.631754",
+        "ObjectArea": 0.7,
+        "ObjectStatus": "закрытое",
+        "globalid": 4856094,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 504
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.613603,
+          55.816843
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Останкинское кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Останкинский район",
+        "Address": "Прудовой проезд, вл. 11",
+        "LongitudeWGS84": "37.613603",
+        "LatitudeWGS84": "55.816843",
+        "ObjectArea": 2.3,
+        "ObjectStatus": "закрытое",
+        "globalid": 4856095,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 505
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.497909,
+          55.493052
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Остафьево кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Новомосковский административный округ",
+        "District": "поселение Рязановское",
+        "Address": "вблизи с. Остафьево",
+        "LongitudeWGS84": "37.497909",
+        "LatitudeWGS84": "55.493052",
+        "GraveType": "гробом в землю",
+        "ObjectArea": 7.25,
+        "ObjectStatus": "закрытое",
+        "globalid": 4856096,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 389
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.375477,
+          55.586565
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Передельцевское кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Новомосковский административный округ",
+        "District": "поселение Московский",
+        "Address": "г. Московский",
+        "LongitudeWGS84": "37.375477",
+        "LatitudeWGS84": "55.586565",
+        "GraveType": "гробом в землю",
+        "ObjectArea": 3,
+        "ObjectStatus": "закрытое",
+        "globalid": 4856097,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 391
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.39571,
+          56.006301
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Перепечинское кладбище",
+        "OnTerritoryOfMoscow": "нет",
+        "AdmArea": null,
+        "District": null,
+        "Address": "Московская область, Солнечногорский район, с.п. Луневское, д. Перепечино",
+        "LongitudeWGS84": "37.395710",
+        "LatitudeWGS84": "56.006301",
+        "ObjectArea": 141,
+        "ObjectStatus": "закрытое",
+        "globalid": 4856098,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 507
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.700115,
+          55.892861
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Перловское кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Лосиноостровский район",
+        "Address": "92 километр Московской Кольцевой Автодороги",
+        "LongitudeWGS84": "37.700115",
+        "LatitudeWGS84": "55.892861",
+        "GraveType": "гробом в землю",
+        "ObjectArea": 21.5,
+        "ObjectStatus": "закрытое",
+        "globalid": 4856099,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 508
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.838437,
+          55.742823
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Перовское кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Вешняки",
+        "Address": "Кетчерская улица, вл. 20",
+        "LongitudeWGS84": "37.838437",
+        "LatitudeWGS84": "55.742823",
+        "ObjectArea": 5.9,
+        "ObjectStatus": "закрытое",
+        "globalid": 4856100,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 509
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.386726,
+          55.408183
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Песье кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Троицкий административный округ",
+        "District": "поселение Щаповское",
+        "Address": "деревня Песье",
+        "LongitudeWGS84": "37.386726",
+        "LatitudeWGS84": "55.408183",
+        "GraveType": "гробом в землю",
+        "ObjectArea": 0.48,
+        "ObjectStatus": "закрытое",
+        "globalid": 4856101,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 396
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.634504,
+          55.596495
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Покровское кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Южный административный округ",
+        "District": "район Бирюлёво Западное",
+        "Address": "улица Подольских Курсантов, вл. 24",
+        "LongitudeWGS84": "37.634504",
+        "LatitudeWGS84": "55.596495",
+        "ObjectArea": 14.5,
+        "ObjectStatus": "закрытое",
+        "globalid": 4856102,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 510
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.23325,
+          55.51691
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Поповка кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Троицкий административный округ",
+        "District": "поселение Первомайское",
+        "Address": "деревня Поповка",
+        "LongitudeWGS84": "37.23325",
+        "LatitudeWGS84": "55.51691",
+        "GraveType": "гробом в землю",
+        "ObjectArea": 0.5,
+        "ObjectStatus": "закрытое",
+        "globalid": 4856103,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 511
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.719868,
+          55.791854
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Преображенское кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Преображенское",
+        "Address": "улица Преображенский вал, вл. 17А",
+        "LongitudeWGS84": "37.719868",
+        "LatitudeWGS84": "55.791854",
+        "ObjectArea": 16.5,
+        "ObjectStatus": "закрытое",
+        "globalid": 4856104,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 512
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.442131,
+          55.579759
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Прокшинское кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Новомосковский административный округ",
+        "District": "поселение Сосенское",
+        "Address": "деревня Прокшино",
+        "LongitudeWGS84": "37.442131",
+        "LatitudeWGS84": "55.579759",
+        "GraveType": "гробом в землю",
+        "ObjectArea": 3.1,
+        "ObjectStatus": "закрытое",
+        "globalid": 4856105,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 400
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.26896,
+          55.48545
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Пучково кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Троицкий административный округ",
+        "District": "поселение Первомайское",
+        "Address": "деревня Пучково",
+        "LongitudeWGS84": "37.268960",
+        "LatitudeWGS84": "55.485450",
+        "GraveType": "гробом в землю",
+        "ObjectArea": 1.8,
+        "ObjectStatus": "закрытое",
+        "globalid": 4856106,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 513
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.298117,
+          55.626045
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Пыхтинское кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Новомосковский административный округ",
+        "District": "поселение Внуковское",
+        "Address": "деревня Пыхтино",
+        "LongitudeWGS84": "37.298117",
+        "LatitudeWGS84": "55.626045",
+        "GraveType": "гробом в землю",
+        "ObjectArea": 25,
+        "ObjectStatus": "закрытое",
+        "globalid": 4856107,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 402
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.639084,
+          55.799861
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Пятницкое кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Алексеевский район",
+        "Address": "Дроболитейный переулок, дом 3, строение 1",
+        "LongitudeWGS84": "37.639084",
+        "LatitudeWGS84": "55.799861",
+        "ObjectArea": 14.3,
+        "ObjectStatus": "закрытое",
+        "globalid": 4856108,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 514
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.336686,
+          55.429367
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Раево кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Троицкий административный округ",
+        "District": "поселение Краснопахорское",
+        "Address": "деревня Раево, строение 1",
+        "LongitudeWGS84": "37.336686",
+        "LatitudeWGS84": "55.429367",
+        "GraveType": "гробом в землю",
+        "ObjectArea": 0.7,
+        "ObjectStatus": "закрытое",
+        "globalid": 4856109,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 515
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.658344,
+          55.872227
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Раевское кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Бабушкинский район",
+        "Address": "Олонецкий проезд, дом 4, корпус 2",
+        "LongitudeWGS84": "37.658344",
+        "LatitudeWGS84": "55.872227",
+        "ObjectArea": 2.9,
+        "ObjectStatus": "закрытое",
+        "globalid": 4856110,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 516
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.392869,
+          55.537818
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Ракитки кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Новомосковский административный округ",
+        "District": "поселение Десеновское",
+        "Address": "в районе д. Десна",
+        "LongitudeWGS84": "37.392869",
+        "LatitudeWGS84": "55.537818",
+        "GraveType": "гробом в землю",
+        "ObjectArea": 33.3,
+        "ObjectStatus": "закрытое",
+        "globalid": 4856111,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 517
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.70158,
+          55.740811
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Рогожское кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "Нижегородский район",
+        "Address": "улица Войтовича, вл. 31А",
+        "LongitudeWGS84": "37.701580",
+        "LatitudeWGS84": "55.740811",
+        "ObjectArea": 9.6,
+        "ObjectStatus": "закрытое",
+        "globalid": 4856112,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 518
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.063805,
+          55.195361
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Рождественно кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Троицкий административный округ",
+        "District": "поселение Роговское",
+        "Address": "деревня Рождественно",
+        "LongitudeWGS84": "37.063805",
+        "LatitudeWGS84": "55.195361",
+        "GraveType": "гробом в землю",
+        "ObjectArea": 4.9,
+        "ObjectStatus": "закрытое",
+        "globalid": 4856113,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 519
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.43377,
+          55.60625
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Николо-Хованское кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Новомосковский административный округ",
+        "District": "поселение Сосенское",
+        "Address": "поселение Сосенское, в районе Николо-Хованского кладбища, уч. № 27",
+        "LongitudeWGS84": "37.43377",
+        "LatitudeWGS84": "55.60625",
+        "GraveType": "гробом в землю",
+        "ObjectArea": 5.7,
+        "ObjectStatus": "закрытое",
+        "globalid": 4856114,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 497
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          36.962813,
+          55.426793
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Руднево кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Троицкий административный округ",
+        "District": "поселение Новофедоровское",
+        "Address": "деревня Руднево",
+        "LongitudeWGS84": "36.962813",
+        "LatitudeWGS84": "55.426793",
+        "GraveType": "гробом в землю",
+        "ObjectArea": 2.5,
+        "ObjectStatus": "закрытое",
+        "globalid": 4856116,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 522
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.436687,
+          55.620479
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Саларьевское кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Новомосковский административный округ",
+        "District": "поселение Московский",
+        "Address": "деревня Саларьево, дом 9",
+        "LongitudeWGS84": "37.436687",
+        "LatitudeWGS84": "55.620479",
+        "GraveType": "гробом в землю",
+        "ObjectArea": 1.6,
+        "ObjectStatus": "закрытое",
+        "globalid": 4856117,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 523
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.400979,
+          55.323705
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Сальково кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Троицкий административный округ",
+        "District": "поселение Кленовское",
+        "Address": "деревня Сальково",
+        "LongitudeWGS84": "37.400979",
+        "LatitudeWGS84": "55.323705",
+        "GraveType": "гробом в землю",
+        "ObjectArea": 0.6,
+        "ObjectStatus": "закрытое",
+        "globalid": 4856118,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 524
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.355027,
+          55.376404
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Сатино-Русское кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Троицкий административный округ",
+        "District": "поселение Щаповское",
+        "Address": "деревня Сатино-Русское",
+        "LongitudeWGS84": "37.355027",
+        "LatitudeWGS84": "55.376404",
+        "GraveType": "гробом в землю",
+        "ObjectArea": 1.5,
+        "ObjectStatus": "закрытое",
+        "globalid": 4856119,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 414
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.072323,
+          55.321238
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Свитино кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Троицкий административный округ",
+        "District": "поселение Вороновское",
+        "Address": "село Свитино",
+        "LongitudeWGS84": "37.072323",
+        "LatitudeWGS84": "55.321238",
+        "GraveType": "гробом в землю",
+        "ObjectArea": 1.8,
+        "ObjectStatus": "закрытое",
+        "globalid": 4856120,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 525
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.28209,
+          55.564055
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Середневское кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Новомосковский административный округ",
+        "District": "поселение Филимонковское",
+        "Address": "деревня Середнево",
+        "LongitudeWGS84": "37.282090",
+        "LatitudeWGS84": "55.564055",
+        "GraveType": "гробом в землю",
+        "ObjectArea": 0.5,
+        "ObjectStatus": "закрытое",
+        "globalid": 4856121,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 526
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.453613,
+          55.559772
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Сосенское кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Новомосковский административный округ",
+        "District": "поселение Сосенское",
+        "Address": "деревня Сосенки",
+        "LongitudeWGS84": "37.453613",
+        "LatitudeWGS84": "55.559772",
+        "GraveType": "гробом в землю",
+        "ObjectArea": 4.5,
+        "ObjectStatus": "закрытое",
+        "globalid": 4856122,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 417
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.088007,
+          55.231031
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Спас-Купля кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Троицкий административный округ",
+        "District": "поселение Роговское",
+        "Address": "деревня Спас-Купля",
+        "LongitudeWGS84": "37.088007",
+        "LatitudeWGS84": "55.231031",
+        "GraveType": "гробом в землю",
+        "ObjectArea": 0.6,
+        "ObjectStatus": "закрытое",
+        "globalid": 4856123,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 527
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.365827,
+          55.524365
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Станиславское кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Новомосковский административный округ",
+        "District": "поселение Десеновское",
+        "Address": "деревня Станиславль",
+        "LongitudeWGS84": "37.365827",
+        "LatitudeWGS84": "55.524365",
+        "GraveType": "гробом в землю",
+        "ObjectArea": 1.1,
+        "ObjectStatus": "закрытое",
+        "globalid": 4856124,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 528
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.55791,
+          55.926092
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Старо-Марковское кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Северный",
+        "Address": "Дмитровское шоссе, владение 124А",
+        "LongitudeWGS84": "37.557910",
+        "LatitudeWGS84": "55.926092",
+        "ObjectArea": 9.7,
+        "ObjectStatus": "закрытое",
+        "globalid": 4856125,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 529
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.624028,
+          55.613829
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Старо-Покровское кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Южный административный округ",
+        "District": "район Чертаново Центральное",
+        "Address": "1-й Дорожный проезд, вл. 10",
+        "LongitudeWGS84": "37.624028",
+        "LatitudeWGS84": "55.613829",
+        "ObjectArea": 0.9,
+        "ObjectStatus": "закрытое",
+        "globalid": 4856126,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 530
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.280679,
+          55.355849
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Товарищево-1 кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Троицкий административный округ",
+        "District": "поселение Кленовское",
+        "Address": "дер. Товарищево",
+        "LongitudeWGS84": "37.280679",
+        "LatitudeWGS84": "55.355849",
+        "GraveType": "гробом в землю",
+        "ObjectArea": 0.5,
+        "ObjectStatus": "закрытое",
+        "globalid": 4856127,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 531
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.408646,
+          55.700187
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Троекуровское кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Западный административный округ",
+        "District": "район Очаково-Матвеевское",
+        "Address": "Рябиновая улица, вл. 24",
+        "LongitudeWGS84": "37.408646",
+        "LatitudeWGS84": "55.700187",
+        "ObjectArea": 29.4,
+        "ObjectStatus": "закрытое",
+        "globalid": 4856128,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 532
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.398858,
+          55.791424
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Троице-Лыковское кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Строгино",
+        "Address": "улица Твардовского, вл. 12, корпус 3",
+        "LongitudeWGS84": "37.398858",
+        "LatitudeWGS84": "55.791424",
+        "GraveType": "гробом в землю",
+        "ObjectArea": 1.3,
+        "ObjectStatus": "закрытое",
+        "globalid": 4856129,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 533
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.34873,
+          55.559444
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Филимонковское кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Новомосковский административный округ",
+        "District": "поселение Филимонковское",
+        "Address": "поселок Филимонки",
+        "LongitudeWGS84": "37.348730",
+        "LatitudeWGS84": "55.559444",
+        "GraveType": "гробом в землю",
+        "ObjectArea": 0.5,
+        "ObjectStatus": "закрытое",
+        "globalid": 4856130,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 535
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.249312,
+          55.522719
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Хатминки кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Троицкий административный округ",
+        "District": "поселение Первомайское",
+        "Address": "деревня Хатминки",
+        "LongitudeWGS84": "37.249312",
+        "LatitudeWGS84": "55.522719",
+        "GraveType": "гробом в землю",
+        "ObjectArea": 0.4,
+        "ObjectStatus": "закрытое",
+        "globalid": 4856131,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 536
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.385921,
+          55.917787
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Химкинское кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Северный административный округ",
+        "District": "Молжаниновский район",
+        "Address": "Новосходненское шоссе, вл. 1",
+        "LongitudeWGS84": "37.385921",
+        "LatitudeWGS84": "55.917787",
+        "ObjectArea": 66.9,
+        "ObjectStatus": "закрытое",
+        "globalid": 4856132,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 537
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.446203,
+          55.607057
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Хованское (Центральное) кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Новомосковский административный округ",
+        "District": "поселение \"Мосрентген\"",
+        "Address": "поселение \"Мосрентген\", 21-й км Киевского ш.",
+        "LongitudeWGS84": "37.446203",
+        "LatitudeWGS84": "55.607057",
+        "ObjectArea": 87,
+        "ObjectStatus": "открытое",
+        "globalid": 4856133,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 433
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.450377,
+          55.615492
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Хованское (Северное) кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Новомосковский административный округ",
+        "District": "поселение \"Мосрентген\"",
+        "Address": "поселение \"Мосрентген\", 21-й км Киевского ш.",
+        "LongitudeWGS84": "37.450377",
+        "LatitudeWGS84": "55.615492",
+        "ObjectArea": 63.4,
+        "ObjectStatus": "закрытое",
+        "globalid": 4856134,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 432
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.426537,
+          55.604223
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Хованское (Западное) кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Новомосковский административный округ",
+        "District": "поселение \"Мосрентген\"",
+        "Address": "поселение Сосенское, Хованское Западное кладбище",
+        "LongitudeWGS84": "37.426537",
+        "LatitudeWGS84": "55.604223",
+        "ObjectArea": 55.1,
+        "ObjectStatus": "закрытое",
+        "globalid": 4856135,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 538
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.524348,
+          55.537038
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Черневское кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Северное Бутово",
+        "Address": "Южное Бутово, по улице Южнобутовской",
+        "LongitudeWGS84": "37.524348",
+        "LatitudeWGS84": "55.537038",
+        "ObjectArea": 2.5,
+        "ObjectStatus": "закрытое",
+        "globalid": 4856136,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 541
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.24323,
+          55.39137
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Чириково кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Троицкий административный округ",
+        "District": "поселение Краснопахорское",
+        "Address": "деревня Чириково",
+        "LongitudeWGS84": "37.24323",
+        "LatitudeWGS84": "55.39137",
+        "GraveType": "гробом в землю",
+        "ObjectArea": 0.2,
+        "ObjectStatus": "закрытое",
+        "globalid": 4856137,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 542
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.414097,
+          55.412987
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Щапово кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Троицкий административный округ",
+        "District": "поселение Щаповское",
+        "Address": "поселок Щапово",
+        "LongitudeWGS84": "37.414097",
+        "LatitudeWGS84": "55.412987",
+        "GraveType": "гробом в землю",
+        "ObjectArea": 2.5,
+        "ObjectStatus": "закрытое",
+        "globalid": 4856138,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 543
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.20989,
+          55.322116
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Юдановка кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Троицкий административный округ",
+        "District": "поселение Вороновское",
+        "Address": "деревня Юдановка",
+        "LongitudeWGS84": "37.209890",
+        "LatitudeWGS84": "55.322116",
+        "GraveType": "гробом в землю",
+        "ObjectArea": 0.7,
+        "ObjectStatus": "закрытое",
+        "globalid": 4856139,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 544
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.551936,
+          55.601196
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Ясеневское кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Ясенево",
+        "Address": "Новоясеневский проспект, вл. 42",
+        "LongitudeWGS84": "37.551936",
+        "LatitudeWGS84": "55.601196",
+        "ObjectArea": 1.9,
+        "ObjectStatus": "закрытое",
+        "globalid": 4856140,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 546
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.395552,
+          55.479402
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Яковлевское кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Новомосковский административный округ",
+        "District": "поселение Десеновское",
+        "Address": "деревня Яковлево",
+        "LongitudeWGS84": "37.395552",
+        "LatitudeWGS84": "55.479402",
+        "GraveType": "гробом в землю",
+        "ObjectArea": 0.08,
+        "ObjectStatus": "закрытое",
+        "globalid": 4856142,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 441
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.344926,
+          55.871608
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Митинский крематорий",
+        "OnTerritoryOfMoscow": "нет",
+        "AdmArea": null,
+        "District": null,
+        "Address": "Московская область, Красногорский район, Пятницкое шоссе, 6-й км",
+        "LongitudeWGS84": "37.344926",
+        "LatitudeWGS84": "55.871608",
+        "GraveType": null,
+        "ObjectArea": null,
+        "ObjectStatus": null,
+        "globalid": 4856144,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 373
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.454363,
+          55.608337
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Хованский крематорий",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Новомосковский административный округ",
+        "District": "поселение \"Мосрентген\"",
+        "Address": "кладбище Хованское, стр.1",
+        "LongitudeWGS84": "37.454363",
+        "LatitudeWGS84": "55.608337",
+        "GraveType": null,
+        "ObjectArea": null,
+        "ObjectStatus": null,
+        "globalid": 4856145,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 430
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.893774,
+          55.74174
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Николо-Архангельский крематорий",
+        "OnTerritoryOfMoscow": "нет",
+        "AdmArea": null,
+        "District": null,
+        "Address": "Московская область, Балашихинский район, г. Балашиха, мкр-н Салтыковка, ул. Окольная владение 4",
+        "LongitudeWGS84": "37.893774",
+        "LatitudeWGS84": "55.741740",
+        "GraveType": null,
+        "ObjectArea": null,
+        "ObjectStatus": null,
+        "globalid": 4856146,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 376
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.734113,
+          55.800158
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Черкизовское кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Преображенское",
+        "Address": "Большая Черкизовская ул., вл. 15",
+        "LongitudeWGS84": "37.734113",
+        "LatitudeWGS84": "55.800158",
+        "GraveType": "гробом в землю",
+        "ObjectArea": 0.4,
+        "ObjectStatus": "закрытое",
+        "globalid": 4856147,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 540
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.368426,
+          55.860836
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Рождественское кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Митино",
+        "Address": "1-я Муравская улица. вл. 39",
+        "LongitudeWGS84": "37.368426",
+        "LatitudeWGS84": "55.860836",
+        "GraveType": "гробом в землю",
+        "ObjectArea": 1.1,
+        "ObjectStatus": "закрытое",
+        "globalid": 13505668,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 520
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.222548,
+          55.373955
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Никольское (п.Вороновское) кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Троицкий административный округ",
+        "District": "поселение Вороновское",
+        "Address": "село Никольское",
+        "LongitudeWGS84": "37.222548",
+        "LatitudeWGS84": "55.373955",
+        "GraveType": "гробом в землю",
+        "ObjectArea": 0.6,
+        "ObjectStatus": "закрытое",
+        "globalid": 13508202,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 499
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.474081,
+          55.544784
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Ивановское (п.Сосенское) кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Новомосковский административный округ",
+        "District": "поселение Сосенское",
+        "Address": "дер. Ямонтово",
+        "LongitudeWGS84": "37.474081",
+        "LatitudeWGS84": "55.544784",
+        "GraveType": "гробом в землю",
+        "ObjectArea": 7.2,
+        "ObjectStatus": "закрытое",
+        "globalid": 13508905,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 350
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.554247,
+          55.766795
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Ваганьковское (Армянский участок) кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "Address": "ул. Сергея Макеева, вл. 10",
+        "LongitudeWGS84": "37.554247",
+        "LatitudeWGS84": "55.766795",
+        "ObjectArea": 2.1,
+        "ObjectStatus": "закрытое",
+        "globalid": 13521171,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 297
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.408808,
+          55.699575
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Троекуровское трупохранилище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Западный административный округ",
+        "District": "район Очаково-Матвеевское",
+        "Address": "Рябиновая ул., д. 24 стр.1",
+        "LongitudeWGS84": "37.408808",
+        "LatitudeWGS84": "55.699575",
+        "GraveType": null,
+        "ObjectArea": null,
+        "ObjectStatus": null,
+        "globalid": 13521194,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 424
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.343042,
+          55.94745
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Черкизовское (северное) кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Северный административный округ",
+        "District": "Молжаниновский район",
+        "Address": "Проектируемый проезд № 5363, Черкизовское кладбище, дом 1 ",
+        "LongitudeWGS84": "37.343042",
+        "LatitudeWGS84": "55.947450",
+        "GraveType": "гробом в землю",
+        "ObjectArea": 3.3,
+        "ObjectStatus": "закрытое",
+        "globalid": 13521380,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 644
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.232369,
+          55.562428
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Большое Покровское кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Новомосковский административный округ",
+        "District": "поселение Марушкинское",
+        "Address": "деревня Большое Покровское",
+        "LongitudeWGS84": "37.232369",
+        "LatitudeWGS84": "55.562428",
+        "GraveType": "гробом в землю",
+        "ObjectArea": 1.1,
+        "ObjectStatus": "закрытое",
+        "globalid": 13523189,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 453
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.345936,
+          55.656501
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Переделкинское кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Новомосковский административный округ",
+        "District": "поселение Внуковское",
+        "Address": "пос. ДСК \"Мичуринец\"",
+        "LongitudeWGS84": "37.345936",
+        "LatitudeWGS84": "55.656501",
+        "GraveType": "гробом в землю",
+        "ObjectArea": 4.5,
+        "ObjectStatus": "закрытое",
+        "globalid": 13523367,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 506
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          36.749647,
+          55.671385
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Ястребковское кладбище",
+        "OnTerritoryOfMoscow": "нет",
+        "AdmArea": null,
+        "District": null,
+        "Address": "Московская обл., Одинцовский р-н",
+        "LongitudeWGS84": "36.749647",
+        "LatitudeWGS84": "55.671385",
+        "GraveType": null,
+        "ObjectArea": 29.81,
+        "ObjectStatus": "открытое",
+        "globalid": 13780516,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 443
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.307978,
+          55.447268
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Троицкое городское кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Троицкий административный округ",
+        "District": "поселение Краснопахорское",
+        "Address": "п. Краснопахорское, вблизи д. Подосинки",
+        "LongitudeWGS84": "37.307978",
+        "LatitudeWGS84": "55.447268",
+        "GraveType": "гробом в землю",
+        "ObjectArea": 7.3,
+        "ObjectStatus": "закрытое",
+        "globalid": 13780517,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 308
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.534505,
+          55.493618
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Барыши кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Троицкий административный округ",
+        "District": "поселение Щербинка",
+        "Address": "г. Щербинка, ул. Весенняя",
+        "LongitudeWGS84": "37.534505",
+        "LatitudeWGS84": "55.493618",
+        "ObjectArea": 0.67,
+        "ObjectStatus": "закрытое",
+        "globalid": 170685837,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 649
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.2386,
+          55.44002
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Былово-1 кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Троицкий административный округ",
+        "District": "поселение Краснопахорское",
+        "Address": "д. Былово",
+        "LongitudeWGS84": "37.23860",
+        "LatitudeWGS84": "55.44002",
+        "ObjectArea": 0.16,
+        "ObjectStatus": "закрытое",
+        "globalid": 170685838,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 650
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.546819,
+          55.940732
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Виноградово кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Северный",
+        "Address": "Дмитровское шоссе, владение 162",
+        "LongitudeWGS84": "37.546819",
+        "LatitudeWGS84": "55.940732",
+        "ObjectArea": 1.3,
+        "ObjectStatus": "закрытое",
+        "globalid": 170685840,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 652
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.266789,
+          55.401023
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Романцево кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Троицкий административный округ",
+        "District": "поселение Краснопахорское",
+        "Address": "д. Романцево",
+        "LongitudeWGS84": "37.266789",
+        "LatitudeWGS84": "55.401023",
+        "ObjectArea": 0.39,
+        "ObjectStatus": "закрытое",
+        "globalid": 170685841,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 653
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.453375,
+          55.659152
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Востряковское (Южное) иудейское кладбище",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Западный административный округ",
+        "District": "район Тропарёво-Никулино",
+        "Address": "Боровское шоссе, проектируемый проезд № 634",
+        "LongitudeWGS84": "37.453375",
+        "LatitudeWGS84": "55.659152",
+        "GraveType": "гробом в землю",
+        "ObjectArea": 5.8,
+        "ObjectStatus": "открытое",
+        "globalid": 281850588,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 655
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

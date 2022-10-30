@@ -1,0 +1,81 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.4375609483678,
+          55.7554585905021
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "Гребной канал",
+        "AdmArea": "Западный административный округ",
+        "District": "район Крылатское",
+        "Address": "Крылатская улица, дом 2, строение 19",
+        "Email": "info@sport.center",
+        "WebSite": "canalmoscow.ru/",
+        "HelpPhone": "(499) 149-39-39",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "да",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-30.11",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 2700,
+        "Paid": "платно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 930213647
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4250564521091,
+          55.8290679107287
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "гребная база и канал, Волоколамское шоссе, д. 112, вл. 3",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Покровское-Стрешнево",
+        "Address": "Волоколамское шоссе, дом 112, корпус 3",
+        "Email": "mso@mos.sport",
+        "WebSite": "mos.sport",
+        "HelpPhone": "(495) 681-01-48",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "да",
+        "HasEatery": "нет",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "да",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-30.10",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1124001163
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,1547 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.6449918,
+          55.8294285
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameOfStation": "Улица Сергея Эйзенштейна",
+        "Line": "Московская монорельсовая транспортная система",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Останкинский район",
+        "ClarificationOfWorkingHours": "",
+        "BPAAmount": 2,
+        "globalid": 1266638777,
+        "WorkingHoursisdeleted0": 0,
+        "WorkingHoursglobalid0": 22,
+        "WorkingHoursDayOfWeek0": null,
+        "WorkingHoursHours0": "",
+        "WorkingHoursisdeleted1": 0,
+        "WorkingHoursglobalid1": 23,
+        "WorkingHoursDayOfWeek1": null,
+        "WorkingHoursHours1": "",
+        "WorkingHoursisdeleted2": 0,
+        "WorkingHoursglobalid2": 24,
+        "WorkingHoursDayOfWeek2": null,
+        "WorkingHoursHours2": "",
+        "WorkingHoursisdeleted3": 0,
+        "WorkingHoursglobalid3": 25,
+        "WorkingHoursDayOfWeek3": null,
+        "WorkingHoursHours3": "",
+        "WorkingHoursisdeleted4": 0,
+        "WorkingHoursglobalid4": 26,
+        "WorkingHoursDayOfWeek4": null,
+        "WorkingHoursHours4": "",
+        "WorkingHoursisdeleted5": 0,
+        "WorkingHoursglobalid5": 27,
+        "WorkingHoursDayOfWeek5": null,
+        "WorkingHoursHours5": "",
+        "WorkingHoursisdeleted6": 0,
+        "WorkingHoursglobalid6": 28,
+        "WorkingHoursDayOfWeek6": null,
+        "WorkingHoursHours6": "",
+        "TrainScheduleisdeleted0": 0,
+        "TrainScheduleglobalid0": 10,
+        "TrainScheduleNameOfStation0": null,
+        "TrainScheduleDepartureTime0": [
+          {
+            "isdeleted": 0,
+            "globalid": 19,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 20,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 21,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 22,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 136,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 137,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 138,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 139,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 140,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 141,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 142,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 143,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 144,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 145,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 146,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 147,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 148,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 149,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 150,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 151,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 152,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 153,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 154,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 155,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 156,
+            "DepartureTime": ""
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6386606,
+          55.8242068
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameOfStation": "Выставочный центр",
+        "Line": "Московская монорельсовая транспортная система",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Останкинский район",
+        "ClarificationOfWorkingHours": "",
+        "BPAAmount": 2,
+        "globalid": 1266638779,
+        "WorkingHoursisdeleted0": 0,
+        "WorkingHoursglobalid0": 36,
+        "WorkingHoursDayOfWeek0": null,
+        "WorkingHoursHours0": "",
+        "WorkingHoursisdeleted1": 0,
+        "WorkingHoursglobalid1": 37,
+        "WorkingHoursDayOfWeek1": null,
+        "WorkingHoursHours1": "",
+        "WorkingHoursisdeleted2": 0,
+        "WorkingHoursglobalid2": 38,
+        "WorkingHoursDayOfWeek2": null,
+        "WorkingHoursHours2": "",
+        "WorkingHoursisdeleted3": 0,
+        "WorkingHoursglobalid3": 39,
+        "WorkingHoursDayOfWeek3": null,
+        "WorkingHoursHours3": "",
+        "WorkingHoursisdeleted4": 0,
+        "WorkingHoursglobalid4": 40,
+        "WorkingHoursDayOfWeek4": null,
+        "WorkingHoursHours4": "",
+        "WorkingHoursisdeleted5": 0,
+        "WorkingHoursglobalid5": 41,
+        "WorkingHoursDayOfWeek5": null,
+        "WorkingHoursHours5": "",
+        "WorkingHoursisdeleted6": 0,
+        "WorkingHoursglobalid6": 42,
+        "WorkingHoursDayOfWeek6": null,
+        "WorkingHoursHours6": "",
+        "TrainScheduleisdeleted0": 0,
+        "TrainScheduleglobalid0": 12,
+        "TrainScheduleNameOfStation0": null,
+        "TrainScheduleDepartureTime0": [
+          {
+            "isdeleted": 0,
+            "globalid": 27,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 28,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 29,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 30,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 95,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 96,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 97,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 98,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 99,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 100,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 101,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 102,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 103,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 104,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 105,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 106,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 107,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 108,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 109,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 110,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 111,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 112,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 113,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 114,
+            "DepartureTime": ""
+          }
+        ],
+        "TrainScheduleisdeleted1": 0,
+        "TrainScheduleglobalid1": 23,
+        "TrainScheduleNameOfStation1": null,
+        "TrainScheduleDepartureTime1": [
+          {
+            "isdeleted": 0,
+            "globalid": 255,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 256,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 257,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 258,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 259,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 260,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 261,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 262,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 263,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 264,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 265,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 266,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 267,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 268,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 269,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 270,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 271,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 272,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 273,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 274,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 275,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 276,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 277,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 278,
+            "DepartureTime": ""
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6265474,
+          55.8218212
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameOfStation": "Улица Академика Королёва",
+        "Line": "Московская монорельсовая транспортная система",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Останкинский район",
+        "ClarificationOfWorkingHours": "",
+        "BPAAmount": 2,
+        "globalid": 1266638782,
+        "WorkingHoursisdeleted0": 0,
+        "WorkingHoursglobalid0": 57,
+        "WorkingHoursDayOfWeek0": null,
+        "WorkingHoursHours0": "",
+        "WorkingHoursisdeleted1": 0,
+        "WorkingHoursglobalid1": 58,
+        "WorkingHoursDayOfWeek1": null,
+        "WorkingHoursHours1": "",
+        "WorkingHoursisdeleted2": 0,
+        "WorkingHoursglobalid2": 59,
+        "WorkingHoursDayOfWeek2": null,
+        "WorkingHoursHours2": "",
+        "WorkingHoursisdeleted3": 0,
+        "WorkingHoursglobalid3": 60,
+        "WorkingHoursDayOfWeek3": null,
+        "WorkingHoursHours3": "",
+        "WorkingHoursisdeleted4": 0,
+        "WorkingHoursglobalid4": 61,
+        "WorkingHoursDayOfWeek4": null,
+        "WorkingHoursHours4": "",
+        "WorkingHoursisdeleted5": 0,
+        "WorkingHoursglobalid5": 62,
+        "WorkingHoursDayOfWeek5": null,
+        "WorkingHoursHours5": "",
+        "WorkingHoursisdeleted6": 0,
+        "WorkingHoursglobalid6": 63,
+        "WorkingHoursDayOfWeek6": null,
+        "WorkingHoursHours6": "",
+        "TrainScheduleisdeleted0": 0,
+        "TrainScheduleglobalid0": 14,
+        "TrainScheduleNameOfStation0": null,
+        "TrainScheduleDepartureTime0": [
+          {
+            "isdeleted": 0,
+            "globalid": 35,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 36,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 327,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 328,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 329,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 330,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 331,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 332,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 333,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 334,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 335,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 336,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 337,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 338,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 339,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 340,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 341,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 342,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 343,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 344,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 345,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 346,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 347,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 348,
+            "DepartureTime": ""
+          }
+        ],
+        "TrainScheduleisdeleted1": 0,
+        "TrainScheduleglobalid1": 24,
+        "TrainScheduleNameOfStation1": null,
+        "TrainScheduleDepartureTime1": [
+          {
+            "isdeleted": 0,
+            "globalid": 279,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 280,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 281,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 282,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 283,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 284,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 285,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 286,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 287,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 288,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 289,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 290,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 291,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 292,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 293,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 294,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 295,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 296,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 297,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 298,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 299,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 300,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 301,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 302,
+            "DepartureTime": ""
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.609212,
+          55.8217898
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameOfStation": "Телецентр",
+        "Line": "Московская монорельсовая транспортная система",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Останкинский район",
+        "ClarificationOfWorkingHours": "",
+        "BPAAmount": 2,
+        "globalid": 1266656275,
+        "WorkingHoursisdeleted0": 0,
+        "WorkingHoursglobalid0": 71,
+        "WorkingHoursDayOfWeek0": null,
+        "WorkingHoursHours0": "",
+        "WorkingHoursisdeleted1": 0,
+        "WorkingHoursglobalid1": 72,
+        "WorkingHoursDayOfWeek1": null,
+        "WorkingHoursHours1": "",
+        "WorkingHoursisdeleted2": 0,
+        "WorkingHoursglobalid2": 73,
+        "WorkingHoursDayOfWeek2": null,
+        "WorkingHoursHours2": "",
+        "WorkingHoursisdeleted3": 0,
+        "WorkingHoursglobalid3": 74,
+        "WorkingHoursDayOfWeek3": null,
+        "WorkingHoursHours3": "",
+        "WorkingHoursisdeleted4": 0,
+        "WorkingHoursglobalid4": 75,
+        "WorkingHoursDayOfWeek4": null,
+        "WorkingHoursHours4": "",
+        "WorkingHoursisdeleted5": 0,
+        "WorkingHoursglobalid5": 76,
+        "WorkingHoursDayOfWeek5": null,
+        "WorkingHoursHours5": "",
+        "WorkingHoursisdeleted6": 0,
+        "WorkingHoursglobalid6": 77,
+        "WorkingHoursDayOfWeek6": null,
+        "WorkingHoursHours6": "",
+        "TrainScheduleisdeleted0": 0,
+        "TrainScheduleglobalid0": 16,
+        "TrainScheduleNameOfStation0": null,
+        "TrainScheduleDepartureTime0": [
+          {
+            "isdeleted": 0,
+            "globalid": 41,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 42,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 43,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 44,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 349,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 350,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 351,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 352,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 353,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 354,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 355,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 356,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 357,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 358,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 359,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 360,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 361,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 362,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 363,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 364,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 365,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 366,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 367,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 368,
+            "DepartureTime": ""
+          }
+        ],
+        "TrainScheduleisdeleted1": 0,
+        "TrainScheduleglobalid1": 25,
+        "TrainScheduleNameOfStation1": null,
+        "TrainScheduleDepartureTime1": [
+          {
+            "isdeleted": 0,
+            "globalid": 303,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 304,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 305,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 306,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 307,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 308,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 309,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 310,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 311,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 312,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 313,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 314,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 315,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 316,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 317,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 318,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 319,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 320,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 321,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 322,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 323,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 324,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 325,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 326,
+            "DepartureTime": ""
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.591282,
+          55.821901
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameOfStation": "Улица Милашенкова",
+        "Line": "Московская монорельсовая транспортная система",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Бутырский район",
+        "ClarificationOfWorkingHours": "",
+        "BPAAmount": 2,
+        "globalid": 1266662264,
+        "WorkingHoursisdeleted0": 0,
+        "WorkingHoursglobalid0": 85,
+        "WorkingHoursDayOfWeek0": null,
+        "WorkingHoursHours0": "",
+        "WorkingHoursisdeleted1": 0,
+        "WorkingHoursglobalid1": 86,
+        "WorkingHoursDayOfWeek1": null,
+        "WorkingHoursHours1": "",
+        "WorkingHoursisdeleted2": 0,
+        "WorkingHoursglobalid2": 87,
+        "WorkingHoursDayOfWeek2": null,
+        "WorkingHoursHours2": "",
+        "WorkingHoursisdeleted3": 0,
+        "WorkingHoursglobalid3": 88,
+        "WorkingHoursDayOfWeek3": null,
+        "WorkingHoursHours3": "",
+        "WorkingHoursisdeleted4": 0,
+        "WorkingHoursglobalid4": 89,
+        "WorkingHoursDayOfWeek4": null,
+        "WorkingHoursHours4": "",
+        "WorkingHoursisdeleted5": 0,
+        "WorkingHoursglobalid5": 90,
+        "WorkingHoursDayOfWeek5": null,
+        "WorkingHoursHours5": "",
+        "WorkingHoursisdeleted6": 0,
+        "WorkingHoursglobalid6": 91,
+        "WorkingHoursDayOfWeek6": null,
+        "WorkingHoursHours6": "",
+        "TrainScheduleisdeleted0": 0,
+        "TrainScheduleglobalid0": 18,
+        "TrainScheduleNameOfStation0": null,
+        "TrainScheduleDepartureTime0": [
+          {
+            "isdeleted": 0,
+            "globalid": 49,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 51,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 52,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 74,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 75,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 76,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 77,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 78,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 79,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 80,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 81,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 82,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 83,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 84,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 85,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 86,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 87,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 88,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 89,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 90,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 91,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 92,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 93,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 94,
+            "DepartureTime": ""
+          }
+        ],
+        "TrainScheduleisdeleted1": 0,
+        "TrainScheduleglobalid1": 21,
+        "TrainScheduleNameOfStation1": null,
+        "TrainScheduleDepartureTime1": [
+          {
+            "isdeleted": 0,
+            "globalid": 207,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 208,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 209,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 210,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 211,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 212,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 213,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 214,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 215,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 216,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 217,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 218,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 219,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 220,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 221,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 222,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 223,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 224,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 225,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 226,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 227,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 228,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 229,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 230,
+            "DepartureTime": ""
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5780576,
+          55.8188162
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameOfStation": "Тимирязевская",
+        "Line": "Московская монорельсовая транспортная система",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Бутырский район",
+        "ClarificationOfWorkingHours": "",
+        "BPAAmount": 2,
+        "globalid": 1266778490,
+        "WorkingHoursisdeleted0": 0,
+        "WorkingHoursglobalid0": 99,
+        "WorkingHoursDayOfWeek0": null,
+        "WorkingHoursHours0": "",
+        "WorkingHoursisdeleted1": 0,
+        "WorkingHoursglobalid1": 100,
+        "WorkingHoursDayOfWeek1": null,
+        "WorkingHoursHours1": "",
+        "WorkingHoursisdeleted2": 0,
+        "WorkingHoursglobalid2": 101,
+        "WorkingHoursDayOfWeek2": null,
+        "WorkingHoursHours2": "",
+        "WorkingHoursisdeleted3": 0,
+        "WorkingHoursglobalid3": 102,
+        "WorkingHoursDayOfWeek3": null,
+        "WorkingHoursHours3": "",
+        "WorkingHoursisdeleted4": 0,
+        "WorkingHoursglobalid4": 103,
+        "WorkingHoursDayOfWeek4": null,
+        "WorkingHoursHours4": "",
+        "WorkingHoursisdeleted5": 0,
+        "WorkingHoursglobalid5": 104,
+        "WorkingHoursDayOfWeek5": null,
+        "WorkingHoursHours5": "",
+        "WorkingHoursisdeleted6": 0,
+        "WorkingHoursglobalid6": 105,
+        "WorkingHoursDayOfWeek6": null,
+        "WorkingHoursHours6": "",
+        "TrainScheduleisdeleted0": 0,
+        "TrainScheduleglobalid0": 20,
+        "TrainScheduleNameOfStation0": null,
+        "TrainScheduleDepartureTime0": [
+          {
+            "isdeleted": 0,
+            "globalid": 182,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 183,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 184,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 185,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 186,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 187,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 188,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 189,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 190,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 191,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 192,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 193,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 194,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 195,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 196,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 197,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 198,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 199,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 200,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 201,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 202,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 203,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 204,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 205,
+            "DepartureTime": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 206,
+            "DepartureTime": ""
+          }
+        ]
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

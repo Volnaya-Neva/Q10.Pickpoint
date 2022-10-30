@@ -1,0 +1,1039 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.603383401101,
+          55.731897543696
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Центральный административный округ",
+        "District": "район Якиманка",
+        "Address": "ЦПКО «Имени М. Горького»",
+        "EventName": "Московская Весна A Cappella",
+        "Period": "01.05.2019-12.05.2019",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-22:00",
+        "WebSite": "mos.ru",
+        "AmountOfPlaces": 1,
+        "globalid": 4400717
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.768607191866,
+          55.694979076391
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Кузьминки",
+        "Address": "ГАУК г. Москвы ПКИО «Кузьминки»",
+        "EventName": "Московская Весна A Cappella",
+        "Period": "01.05.2019-12.05.2019",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-22:00",
+        "WebSite": "mos.ru",
+        "AmountOfPlaces": 4,
+        "globalid": 4400718
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.630240820964,
+          55.751249710789
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "ГАУК г. Москвы «Парк «Зарядье»",
+        "EventName": "Московская Весна A Cappella",
+        "Period": "01.05.2019-12.05.2019",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-22:00",
+        "WebSite": "mos.ru",
+        "AmountOfPlaces": 1,
+        "globalid": 4400719
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.604527022007,
+          55.735441427871
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Центральный административный округ",
+        "District": "район Якиманка",
+        "Address": "Парк «Музеон»",
+        "EventName": "Московская Весна A Cappella",
+        "Period": "01.05.2019-12.05.2019",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-22:00",
+        "WebSite": "mos.ru",
+        "AmountOfPlaces": 1,
+        "globalid": 4400721
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.676374585457,
+          55.794658366066
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Восточный административный округ",
+        "District": "район Сокольники",
+        "Address": "ГАУК г. Москвы ПКиО «Сокольники»",
+        "EventName": "Московская Весна A Cappella",
+        "Period": "01.05.2019-12.05.2019",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-22:00",
+        "WebSite": "mos.ru",
+        "AmountOfPlaces": 1,
+        "globalid": 167278514
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.637961415276,
+          55.825857520947
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Останкинский район",
+        "Address": "АО «ВДНХ»",
+        "EventName": "Московская Весна A Cappella",
+        "Period": "01.05.2019-12.05.2019",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-22:00",
+        "WebSite": "mos.ru",
+        "AmountOfPlaces": 2,
+        "globalid": 167575810
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.596001714515,
+          55.750878095187
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Центральный административный округ",
+        "District": "район Арбат",
+        "Address": "улица Арбат, дом 19",
+        "EventName": "Московская Весна A Cappella",
+        "Period": "01.05.2019-12.05.2019",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-22:00",
+        "WebSite": "mos.ru",
+        "AmountOfPlaces": 24,
+        "globalid": 345260651
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.637929053844,
+          55.765163235436
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Центральный административный округ",
+        "District": "Басманный район",
+        "Address": "Площадь Мясницкие ворота (у выхода из метро «Чистые пруды»)",
+        "EventName": "Московская Весна A Cappella",
+        "Period": "01.05.2019-12.05.2019",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-22:00",
+        "WebSite": "mos.ru",
+        "AmountOfPlaces": 1,
+        "globalid": 345260659
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.568425015189,
+          55.900351302073
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Лианозово",
+        "Address": "ГАУК г. Москвы ПКИО «Лианозовский»",
+        "EventName": "Московская Весна A Cappella",
+        "Period": "01.05.2019-12.05.2019",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-22:00",
+        "WebSite": "mos.ru",
+        "AmountOfPlaces": 4,
+        "globalid": 345260662
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.683563640358,
+          55.867598961808
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Лосиноостровский район",
+        "Address": "ГАУК г. Москвы ПКИО «Бабушкинский»",
+        "EventName": "Московская Весна A Cappella",
+        "Period": "01.05.2019-12.05.2019",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-22:00",
+        "WebSite": "mos.ru",
+        "AmountOfPlaces": 4,
+        "globalid": 345260663
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.490412675287,
+          55.74734469526
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Западный административный округ",
+        "District": "район Филёвский Парк",
+        "Address": "ГАУК г. Москвы ПКИО «Фили»",
+        "EventName": "Московская Весна A Cappella",
+        "Period": "01.05.2019-12.05.2019",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-22:00",
+        "WebSite": "mos.ru",
+        "AmountOfPlaces": 4,
+        "globalid": 345260664
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.754080369112,
+          55.77365817355
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Восточный административный округ",
+        "District": "район Измайлово",
+        "Address": "ГАУК г. Москвы ПКИО «Измайловский»",
+        "EventName": "Московская Весна A Cappella",
+        "Period": "01.05.2019-12.05.2019",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-22:00",
+        "WebSite": "mos.ru",
+        "AmountOfPlaces": 4,
+        "globalid": 345260665
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.550769246462,
+          55.755131482127
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "Address": "ГАУК г. Москвы ПКИО «Красная Пресня»",
+        "EventName": "Московская Весна A Cappella",
+        "Period": "01.05.2019-12.05.2019",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-22:00",
+        "WebSite": "mos.ru",
+        "AmountOfPlaces": 8,
+        "globalid": 345260666
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.600099201845,
+          55.752283862963
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Центральный административный округ",
+        "District": "район Арбат",
+        "Address": "ул. Арбат, вл. 2/1 (вход на ул. Старый Арбат)",
+        "EventName": "Московская Весна A Cappella",
+        "Period": "01.05.2019-12.05.2019",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-22:00",
+        "WebSite": "mos.ru",
+        "AmountOfPlaces": 1,
+        "globalid": 345260667
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.603646382251,
+          55.764236013054
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "Новопушкинский сквер ",
+        "EventName": "Московская Весна A Cappella",
+        "Period": "01.05.2019-12.05.2019",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-22:00",
+        "WebSite": "mos.ru",
+        "AmountOfPlaces": 12,
+        "globalid": 345260668
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.61255103787,
+          55.759452691438
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "Камергерский переулок (у кафе Академия)",
+        "EventName": "Московская Весна A Cappella",
+        "Period": "01.05.2019-12.05.2019",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-22:00",
+        "WebSite": "mos.ru",
+        "AmountOfPlaces": 12,
+        "globalid": 345260670
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.619353883089,
+          55.761544632564
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "улица Кузнецкий мост, владение 7 (ЦУМ)",
+        "EventName": "Московская Весна A Cappella",
+        "Period": "01.05.2019-12.05.2019",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-22:00",
+        "WebSite": "mos.ru",
+        "AmountOfPlaces": 16,
+        "globalid": 345260671
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.296821297681,
+          55.46870915137
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Троицкий административный округ",
+        "District": "поселение Троицк",
+        "Address": "Троицк, Сиреневый бульвар. вл.1",
+        "EventName": "Московская Весна A Cappella",
+        "Period": "01.05.2019-12.05.2019",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-22:00",
+        "WebSite": "mos.ru",
+        "AmountOfPlaces": 12,
+        "globalid": 345260672
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.655025912028,
+          55.876987596092
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Северное Медведково",
+        "Address": "Сквер по Олонецкому проезду",
+        "EventName": "Московская Весна A Cappella",
+        "Period": "01.05.2019-12.05.2019",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-22:00",
+        "WebSite": "mos.ru",
+        "AmountOfPlaces": 4,
+        "globalid": 345260675
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.594369208436,
+          55.769169212578
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "Триумфальная площадь",
+        "EventName": "Московская Весна A Cappella",
+        "Period": "01.05.2019-12.05.2019",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-22:00",
+        "WebSite": "mos.ru",
+        "AmountOfPlaces": 1,
+        "globalid": 345260677
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.606272589678,
+          55.765558515717
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "Пушкинская площадь",
+        "EventName": "Московская Весна A Cappella",
+        "Period": "01.05.2019-12.05.2019",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-22:00",
+        "WebSite": "mos.ru",
+        "AmountOfPlaces": 12,
+        "globalid": 345260678
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.593544209022,
+          55.75232621619
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Центральный административный округ",
+        "District": "район Арбат",
+        "Address": "улица Новый Арбат, владение 13",
+        "EventName": "Московская Весна A Cappella",
+        "Period": "01.05.2019-12.05.2019",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-22:00",
+        "WebSite": "mos.ru",
+        "AmountOfPlaces": 16,
+        "globalid": 345260679
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.592051094171,
+          55.752257053394
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Центральный административный округ",
+        "District": "район Арбат",
+        "Address": "улица Новый Арбат, владение 15",
+        "EventName": "Московская Весна A Cappella",
+        "Period": "01.05.2019-12.05.2019",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-22:00",
+        "WebSite": "mos.ru",
+        "AmountOfPlaces": 6,
+        "globalid": 345260680
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.588618981554,
+          55.752225009832
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Центральный административный округ",
+        "District": "район Арбат",
+        "Address": "улица Новый Арбат,  владение 19",
+        "EventName": "Московская Весна A Cappella",
+        "Period": "01.05.2019-12.05.2019",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-22:00",
+        "WebSite": "mos.ru",
+        "AmountOfPlaces": 4,
+        "globalid": 345260681
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.585576559006,
+          55.752241826507
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Центральный административный округ",
+        "District": "район Арбат",
+        "Address": "улица Новый Арбат, владение 21",
+        "EventName": "Московская Весна A Cappella",
+        "Period": "01.05.2019-12.05.2019",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-22:00",
+        "WebSite": "mos.ru",
+        "AmountOfPlaces": 8,
+        "globalid": 345260682
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.865134774686,
+          55.743396572487
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Восточный административный округ",
+        "District": "район Новокосино",
+        "Address": "ул. Городецкая, вл. 1",
+        "EventName": "Московская Весна A Cappella",
+        "Period": "06.05.2019-12.05.2019",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-22:00",
+        "WebSite": "mos.ru",
+        "AmountOfPlaces": 8,
+        "globalid": 345260683
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.585235234116,
+          55.747488191068
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Центральный административный округ",
+        "District": "район Арбат",
+        "Address": "Ул. Арбат, вл. 55, ресторан «Белый» (балкон)",
+        "EventName": "Московская Весна A Cappella",
+        "Period": "01.05.2019-12.05.2019",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-22:00",
+        "WebSite": "mos.ru",
+        "AmountOfPlaces": 10,
+        "globalid": 345260686
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.878411623201,
+          55.714066242917
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Восточный административный округ",
+        "District": "район Косино-Ухтомский",
+        "Address": "ул. Святоозерская, вл.1",
+        "EventName": "Московская Весна A Cappella",
+        "Period": "06.05.2019-12.05.2019",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-22:00",
+        "WebSite": "mos.ru",
+        "AmountOfPlaces": 10,
+        "globalid": 345260687
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.59848458717,
+          55.859616095223
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Отрадное",
+        "Address": "ул. Хачатуряна, вл.13",
+        "EventName": "Московская Весна A Cappella",
+        "Period": "01.05.2019-12.05.2019",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-22:00",
+        "WebSite": "mos.ru",
+        "AmountOfPlaces": 10,
+        "globalid": 345260688
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.513759880096,
+          55.798656683277
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Северный административный округ",
+        "District": "район Сокол",
+        "Address": "Новопесчаная, вл. 12",
+        "EventName": "Московская Весна A Cappella",
+        "Period": "01.05.2019-12.05.2019",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-22:00",
+        "WebSite": "mos.ru",
+        "AmountOfPlaces": 10,
+        "globalid": 345260689
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.625370111205,
+          55.759281047707
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "ул. Никольская, д.12 (пересечение ул. Никольская и Лубянской площади)",
+        "EventName": "Московская Весна A Cappella",
+        "Period": "01.05.2019-12.05.2019",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-22:00",
+        "WebSite": "mos.ru",
+        "AmountOfPlaces": 1,
+        "globalid": 345260690
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.623900317079,
+          55.766773812771
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Центральный административный округ",
+        "District": "Мещанский район",
+        "Address": "Рождественский бульвар (центральный рынок)",
+        "EventName": "Московская Весна A Cappella",
+        "Period": "01.05.2019-12.05.2019",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-22:00",
+        "WebSite": "mos.ru",
+        "AmountOfPlaces": 1,
+        "globalid": 345260691
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.609970325726,
+          55.761804680313
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "Тверская площадь",
+        "EventName": "Московская Весна A Cappella",
+        "Period": "01.05.2019-12.05.2019",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-22:00",
+        "WebSite": "mos.ru",
+        "AmountOfPlaces": 22,
+        "globalid": 345260692
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.592834539983,
+          55.780282360553
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "ФУДМОЛЛ «ДЕПО»",
+        "EventName": "Московская Весна A Cappella",
+        "Period": "01.05.2019-12.05.2019",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-22:00",
+        "WebSite": "mos.ru",
+        "AmountOfPlaces": 1,
+        "globalid": 345260693
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.623438269695,
+          55.760661533162
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Центральный административный округ",
+        "District": "Мещанский район",
+        "Address": "ул. Рождественка, д.3/6 стр.1 Отель «Савой» (балкон)",
+        "EventName": "Московская Весна A Cappella",
+        "Period": "01.05.2019-12.05.2019",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-22:00",
+        "WebSite": "mos.ru",
+        "AmountOfPlaces": 10,
+        "globalid": 345260694
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.581145247997,
+          55.760451329552
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "Address": "ул. Баррикадная, вл.19",
+        "EventName": "Московская Весна A Cappella",
+        "Period": "01.05.2019-12.05.2019",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-22:00",
+        "WebSite": "mos.ru",
+        "AmountOfPlaces": 1,
+        "globalid": 345260695
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.602749438615,
+          55.752580057351
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Центральный административный округ",
+        "District": "район Арбат",
+        "Address": "ул. Воздвиженка, вл. 11 (выход из метро «Арбатская»)",
+        "EventName": "Московская Весна A Cappella",
+        "Period": "01.05.2019-12.05.2019",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-22:00",
+        "WebSite": "mos.ru",
+        "AmountOfPlaces": 10,
+        "globalid": 345260696
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.211259038814,
+          56.001416967188
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Зеленоградский административный округ",
+        "District": "район Матушкино",
+        "Address": "Зеленоград, Площадь Юности",
+        "EventName": "Московская Весна A Cappella",
+        "Period": "06.05.2019-12.05.2019",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-22:00",
+        "WebSite": "mos.ru",
+        "AmountOfPlaces": 10,
+        "globalid": 345260697
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.613300126856,
+          55.762427765485
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "ул. Б. Дмитровка, д.13, Бутик «Неспрессо» (балкон)",
+        "EventName": "Московская Весна A Cappella",
+        "Period": "01.05.2019-12.05.2019",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-22:00",
+        "WebSite": "mos.ru",
+        "AmountOfPlaces": 1,
+        "globalid": 345260698
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.766126810357,
+          55.706229521764
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Кузьминки",
+        "Address": "Площадь Славы ",
+        "EventName": "Московская Весна A Cappella",
+        "Period": "06.05.2019-12.05.2019",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-22:00",
+        "WebSite": "mos.ru",
+        "AmountOfPlaces": 10,
+        "globalid": 345260699
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7433156026,
+          55.613636975762
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Южный административный округ",
+        "District": "район Зябликово",
+        "Address": "Ореховый бульвар, вл.24",
+        "EventName": "Московская Весна A Cappella",
+        "Period": "06.05.2019-12.05.2019",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-22:00",
+        "WebSite": "mos.ru",
+        "AmountOfPlaces": 11,
+        "globalid": 345262783
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.575221245143,
+          55.567128398981
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Северное Бутово",
+        "Address": "Бульвар Дмитрия Донского, вл.11",
+        "EventName": "Московская Весна A Cappella",
+        "Period": "06.05.2019-12.05.2019",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-22:00",
+        "WebSite": "mos.ru",
+        "AmountOfPlaces": 10,
+        "globalid": 345260701
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.623497936612,
+          55.761532717289
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Центральный административный округ",
+        "District": "Мещанский район",
+        "Address": "ул. Рождественка",
+        "EventName": "Московская Весна A Cappella",
+        "Period": "01.05.2019-12.05.2019",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-22:00",
+        "WebSite": "mos.ru",
+        "AmountOfPlaces": 12,
+        "globalid": 345262795
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.555316840502,
+          55.669330754666
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Черёмушки",
+        "Address": "Профсоюзная ул., вл.41",
+        "EventName": "Московская Весна A Cappella",
+        "Period": "06.05.2019-12.05.2019",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-22:00",
+        "WebSite": "mos.ru",
+        "AmountOfPlaces": 10,
+        "globalid": 345260703
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.359462733767,
+          55.84682349157
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Митино",
+        "Address": "ул. Митинская, вл.31",
+        "EventName": "Московская Весна A Cappella",
+        "Period": "06.05.2019-12.05.2019",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-22:00",
+        "WebSite": "mos.ru",
+        "AmountOfPlaces": 10,
+        "globalid": 345260704
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.625302507123,
+          55.74073191717
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Центральный административный округ",
+        "District": "район Замоскворечье",
+        "Address": "Климентовский переулок",
+        "EventName": "Московская Весна A Cappella",
+        "Period": "01.05.2019-12.05.2019",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-22:00",
+        "WebSite": "mos.ru",
+        "AmountOfPlaces": 10,
+        "globalid": 345262615
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.56576053797,
+          55.752844996933
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Западный административный округ",
+        "District": "район Дорогомилово",
+        "Address": "Флотилия «Radisson Royal»",
+        "EventName": "Московская Весна A Cappella",
+        "Period": "01.05.2019-12.05.2019",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-22:00",
+        "WebSite": "mos.ru",
+        "AmountOfPlaces": 2,
+        "globalid": 167575813
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

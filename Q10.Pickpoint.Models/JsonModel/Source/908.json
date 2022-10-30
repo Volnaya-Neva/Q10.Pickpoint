@@ -1,0 +1,3615 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.7113574889596,
+          55.8788460554573
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "роллердром, скейтпарк открытый",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Ярославский район",
+        "Address": "Палехская улица, дом 147, корпус 1",
+        "Email": "yarspr@mos.ru",
+        "WebSite": "yaroslavsky.mos.ru",
+        "HelpPhone": "(495) 656-16-11",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "асфальтовое, бетонное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407115036
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5487777734726,
+          55.5923623160709
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "роллердром, скейтпарк открытый",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Ясенево",
+        "Address": "улица Инессы Арманд, дом 3",
+        "Email": "yasenevo@uzao.mos.ru",
+        "WebSite": "yasenevo.mos.ru",
+        "HelpPhone": "(495) 422-02-33",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-30.11",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "асфальтовое, бетонное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407120120
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.548382950799,
+          55.7548888754904
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "роллердром, скейтпарк открытый",
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "Address": "Мантулинская улица, дом 5, строение 2",
+        "Email": "info@p-kp.ru",
+        "WebSite": "p-kp.ru",
+        "HelpPhone": "(499) 256-13-02",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-30.11",
+        "Lighting": "освещение лампами накаливания",
+        "SurfaceTypeSummer": "асфальтовое, бетонное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407121653
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7660334881993,
+          55.6939419662619
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "роллердром, скейтпарк открытый, рядом с администрацией",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Кузьминки",
+        "Address": "Кузьминский парк, дом 1, строение 2",
+        "Email": "parkkuzminki@culture.mos.ru",
+        "WebSite": "www.park-kuzminki.ru",
+        "HelpPhone": "(495) 175-33-69",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.04-30.11",
+        "Lighting": "освещение светодиодными лампами",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407125242
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6504095886669,
+          55.5804475745324
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "роллердром, скейтпарк",
+        "AdmArea": "Южный административный округ",
+        "District": "район Бирюлёво Западное",
+        "Address": "Булатниковская улица, дом 2А",
+        "Email": "dez-bz@mail.ru",
+        "WebSite": "gbu-bz.ru",
+        "HelpPhone": "(495) 384-05-00",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-30.11",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "асфальтовое, бетонное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "частично приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407128909
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5734586999885,
+          55.8993571268538
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "роллердром, скейтпарк открытый",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Лианозово",
+        "Address": "Угличская улица, дом 13",
+        "Email": "info@liapark.ru",
+        "WebSite": "liapark.ru",
+        "HelpPhone": "(499) 908-35-00",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "да",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.05-30.11",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "асфальтовое, бетонное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407135904
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6579077361171,
+          55.6662707095208
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "роллердром, скейтпарк открытый №7 Около здания администрации",
+        "AdmArea": "Южный административный округ",
+        "District": "район Нагатино-Садовники",
+        "Address": "проспект Андропова, дом 58А",
+        "Email": "parkkuzminki@culture.mos.ru",
+        "WebSite": "www.park-kuzminki.ru",
+        "HelpPhone": "(499) 175-33-69",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-30.11",
+        "Lighting": "освещение светодиодными лампами",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407136427
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5668636302346,
+          55.8157767917702
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "роллердром, скейтпарк открытый",
+        "AdmArea": "Северный административный округ",
+        "District": "Тимирязевский район",
+        "Address": "улица Костякова, дом 17, корпус 1",
+        "Email": "tim@timmun.ru",
+        "WebSite": "timmun.ru",
+        "HelpPhone": "(499) 760-77-03",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "грунтовое покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407136690
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.1737881427262,
+          55.9906769065132
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "роллердром, скейтпарк",
+        "AdmArea": "Зеленоградский административный округ",
+        "District": "район Силино",
+        "Address": "Филаретовская улица, дом 1, строение 1",
+        "Email": "gbuzelenograd@zelao.mos.ru",
+        "WebSite": "gbuzelenograd.ru/",
+        "HelpPhone": "(499) 731-77-78",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "освещение газоразрядными лампами",
+        "SurfaceTypeSummer": "асфальтовое, бетонное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "приспособлен для всех групп инвалидов",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407138520
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.8055322326049,
+          55.8224596451705
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "роллердром, скейтпарк открытый",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Гольяново",
+        "Address": "Алтайская улица, дом 4",
+        "Email": "info@post.gbugol.ru",
+        "WebSite": "golyanovo.mos.ru/",
+        "HelpPhone": "(495) 469-82-81",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "частично приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407139064
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          36.9403296625267,
+          55.4673837910318
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "роллердром, скейтпарк",
+        "AdmArea": "Троицкий административный округ",
+        "District": "поселение Новофедоровское",
+        "Address": "деревня Яковлевское, дом 17",
+        "Email": "gbutinao@mail.ru",
+        "WebSite": "tinao.mos.ru/housing-and-communal-services-and-improvement/state-budget-institution-the-moscow-city-directorate-of-the-maintenance-of-the-territories-of-the-gr.php",
+        "HelpPhone": "(495) 536-36-10",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "да",
+        "HasEatery": "нет",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-30.11",
+        "Lighting": "освещение газоразрядными лампами",
+        "SurfaceTypeSummer": "деревянное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "частично приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407139289
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.1627053472214,
+          55.5973237833284
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "роллердром, скейтпарк открытый",
+        "AdmArea": "Новомосковский административный округ",
+        "District": "поселение Кокошкино",
+        "Address": "дачный посёлок Кокошкино, Дачная улица, дом 7",
+        "Email": "kokoshkino@mos.ru",
+        "WebSite": "www.kokoshkino.org/",
+        "HelpPhone": "(495) 150-80-82",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "асфальтовое, бетонное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407146505
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6678846799008,
+          55.7929541673648
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "роллердром, скейтпарк открытый",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Сокольники",
+        "Address": "Митьковский проезд, дом 4",
+        "Email": "info@park.sokolniki.com",
+        "WebSite": "park.sokolniki.com",
+        "HelpPhone": "(499) 393-92-22",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "да",
+        "HasDressingRoom": "нет",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "да",
+        "HasFirstAidPost": "да",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.04-30.11",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 50,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407149118
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4623655688976,
+          55.7178576693872
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "роллердром, скейтпарк открытый",
+        "AdmArea": "Западный административный округ",
+        "District": "район Фили-Давыдково",
+        "Address": "Кременчугская улица, дом 17",
+        "Email": "gbuzao@mail.ru",
+        "WebSite": "avdzao.mos.ru/",
+        "HelpPhone": "(499) 792-65-06",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-30.11",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407150722
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.2994615008871,
+          55.4755623486228
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "роллердром, скейтпарк открытый",
+        "AdmArea": "Троицкий административный округ",
+        "District": "поселение Троицк",
+        "Address": "город Троицк, Октябрьский проспект, дом 14",
+        "Email": "troitsk@mos.ru",
+        "WebSite": "admtroitsk.ru",
+        "HelpPhone": "(495) 851-00-75",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 419017453
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5138425894843,
+          55.7317291297485
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "роллердром, скейтпарк открытый",
+        "AdmArea": "Западный административный округ",
+        "District": "район Дорогомилово",
+        "Address": "площадь Победы, дом 3, строение 2",
+        "Email": "info@poklonnaya-gora.ru",
+        "WebSite": "wikiway.com/russia/moskva/poklonnaya-gora/",
+        "HelpPhone": "(499) 148-83-00",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "освещение газоразрядными лампами",
+        "SurfaceTypeSummer": "асфальтовое, бетонное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 436517353
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5027254858257,
+          55.8209126161825
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "Роллердром",
+        "AdmArea": "Северный административный округ",
+        "District": "Войковский район",
+        "Address": "Ленинградское шоссе, дом 10",
+        "Email": "LebedAS@mos.ru",
+        "WebSite": "www.mosparks.ru",
+        "HelpPhone": "(499) 150-00-57",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-30.11",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 476635362
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5970638328122,
+          55.6706493368973
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "роллердром, скейтпарк открытый",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Котловка",
+        "Address": "Нагорная улица, дом 33, корпус 4",
+        "Email": "sportkotlovka@mail.ru",
+        "WebSite": "kotlovka.mos.ru",
+        "HelpPhone": "(499) 123-62-15",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-30.11",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 476635364
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6132376836668,
+          55.8922540806421
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "роллердром, скейтпарк открытый",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Бибирево",
+        "Address": "улица Лескова, дом 17",
+        "Email": "bibirevo@mos.ru",
+        "WebSite": "bibirevo.mos.ru",
+        "HelpPhone": "(495) 533-00-22",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-30.11",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 478884874
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4085558594558,
+          55.4188916588358
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "роллердром, скейтпарк открытый",
+        "AdmArea": "Троицкий административный округ",
+        "District": "поселение Щаповское",
+        "Address": "посёлок Щапово, дом 54",
+        "Email": "",
+        "WebSite": "schapovo.ru/",
+        "HelpPhone": "(495) 865-60-66",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "освещение лампами накаливания",
+        "SurfaceTypeSummer": "асфальтовое, бетонное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 625844005
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.2051059975548,
+          56.011008142495
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "роллердром, скейтпарк открытый",
+        "AdmArea": "Зеленоградский административный округ",
+        "District": "район Матушкино",
+        "Address": "город Зеленоград, корпус 158А",
+        "Email": "gbuzelenograd@zelao.mos.ru",
+        "WebSite": "gbuzelenograd.ru/",
+        "HelpPhone": "(499) 736-78-86",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-30.11",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "асфальтовое, бетонное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "частично приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 626231984
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7716638531468,
+          55.7391718598071
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "скейтпарк Ферма",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Перово",
+        "Address": "улица Лазо, дом 7",
+        "Email": "ppkio@mail.ru",
+        "WebSite": "www.perovskiy-park.ru",
+        "HelpPhone": "(495) 309-53-42",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "да",
+        "HasDressingRoom": "нет",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "асфальтовое, бетонное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 626985243
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.168240069513,
+          55.9739734087001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "роллердром, скейтпарк открытый",
+        "AdmArea": "Зеленоградский административный округ",
+        "District": "район Крюково",
+        "Address": "город Зеленоград, корпус 2028, строение 1",
+        "Email": "gbukrukovo@mail.ru",
+        "WebSite": "gbuzelenograd.ru/",
+        "HelpPhone": "(499) 717-75-10",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-30.11",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "частично приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 626991085
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6843449749685,
+          55.7006660959623
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "роллердром, скейтпарк открытый",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "Южнопортовый район",
+        "Address": "2-й Южнопортовый проезд, дом 15",
+        "Email": "uzhsekretar@uvao.mos.ru",
+        "WebSite": "uzhnoport.mos.ru",
+        "HelpPhone": "(495) 958-98-64",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-30.11",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "частично приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 627019557
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5202285712447,
+          55.5476136712114
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "роллердром, скейтпарк",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Южное Бутово",
+        "Address": "Бартеневская улица, дом 49",
+        "Email": "uzao-ugbutovo@mos.ru",
+        "WebSite": "ubutovo.mos.ru",
+        "HelpPhone": "(495) 712-70-11",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-30.11",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "асфальтовое, бетонное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 628150683
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7175382010372,
+          55.7338542380419
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "роллердром, скейтпарк открытый",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "Нижегородский район",
+        "Address": "улица Верхняя Хохловка, дом 15",
+        "Email": "nizhegorodka@mos.ru",
+        "WebSite": "nizhegorodsky.mos.ru",
+        "HelpPhone": "(495) 671-62-63",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 637982497
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.8221426185829,
+          55.7044587628656
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "роллердром, скейтпарк",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Выхино-Жулебино",
+        "Address": "Ферганская улица, дом 23",
+        "Email": "vihino-ob@yandex.ru",
+        "WebSite": "vyhino-zhulebino.mos.ru",
+        "HelpPhone": "(499) 796-58-73",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "заливное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "частично приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 863616386
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7227713675203,
+          55.8758459092898
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "роллердром, скейтпарк",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Ярославский район",
+        "Address": "улица Проходчиков, дом 10, корпус 1",
+        "Email": "yarspr@mos.ru",
+        "WebSite": "yaroslavsky.mos.ru",
+        "HelpPhone": "(495) 656-16-11",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "асфальтовое, бетонное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 863620552
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6729896628806,
+          55.8818690655521
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "роллердром, скейтпарк открытый",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Бабушкинский район",
+        "Address": "Осташковская улица, дом 21, строение 1",
+        "Email": "1840365@mail.ru",
+        "WebSite": "babushkinsky.mos.ru",
+        "HelpPhone": "",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-30.11",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "асфальтовое, бетонное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 930087832
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7743461208712,
+          55.7290801045916
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "роллердром, скейтпарк открытый",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "Рязанский район",
+        "Address": "Зарайская улица, дом 47, корпус 2",
+        "Email": "gyisryazanskii@mail.ru",
+        "WebSite": "ryazansky.mos.ru",
+        "HelpPhone": "(495) 371-16-57",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-30.11",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "асфальтовое, бетонное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 930088878
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5215669340689,
+          55.8324414444342
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "роллердром, скейтпарк открытый",
+        "AdmArea": "Северный административный округ",
+        "District": "район Коптево",
+        "Address": "Коптевский бульвар, дом 15",
+        "Email": "gbuKoptevo@mail.ru",
+        "WebSite": "gbu-koptevo.ru",
+        "HelpPhone": "(495) 450-41-93",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 930090251
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5566325628211,
+          55.8681922921015
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "роллердром, скейтпарк открытый",
+        "AdmArea": "Северный административный округ",
+        "District": "Бескудниковский район",
+        "Address": "Бескудниковский бульвар, дом 23",
+        "Email": "beskudnikovo@mos.ru",
+        "WebSite": "beskudnikovo.mos.ru",
+        "HelpPhone": "(499) 480-04-03",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "асфальтовое, бетонное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 930205769
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.478894671146,
+          55.6500589464872
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "роллердром, скейтпарк",
+        "AdmArea": "Западный административный округ",
+        "District": "район Тропарёво-Никулино",
+        "Address": "проспект Вернадского, дом 86Д",
+        "Email": "tender@zao.mos.ru",
+        "WebSite": "zao.mos.ru/",
+        "HelpPhone": "(495) 957-99-77",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "освещение газоразрядными лампами",
+        "SurfaceTypeSummer": "асфальтовое, бетонное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 930205833
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5571215989016,
+          55.6990365726657
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "роллердром, скейтпарк открытый",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "Гагаринский район",
+        "Address": "улица Фотиевой, дом 7",
+        "Email": "mogagarin@mail.ru",
+        "WebSite": "gagarinskoe.com",
+        "HelpPhone": "(499) 727-00-18",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "освещение газоразрядными лампами",
+        "SurfaceTypeSummer": "асфальтовое, бетонное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 930205896
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.8488979514023,
+          55.7275590782125
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "роллердром, скейтпарк открытый",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Косино-Ухтомский",
+        "Address": "Большая Косинская улица, дом 139, строение 10",
+        "Email": "socio-ku@mail.ru",
+        "WebSite": "kosino-uhtomski.mos.ru/housing-and-communal-services-and-improvement/information-1.php",
+        "HelpPhone": "(903) 293-37-77",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-30.11",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 930543787
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4679351164542,
+          55.8766250827512
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "Роллердром",
+        "AdmArea": "Северный административный округ",
+        "District": "район Левобережный",
+        "Address": "Левобережная улица, дом 11А",
+        "Email": "info@mosparks.ru",
+        "WebSite": "mosparks.ru/",
+        "HelpPhone": "(495) 640-73-55",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "да",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.05-30.09",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "асфальтовое, бетонное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 933948296
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6087952417332,
+          55.8266533720994
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "роллердром, скейтпарк открытый",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Останкинский район",
+        "Address": "1-я Останкинская улица, дом 7А, строение 3",
+        "Email": "dir-svao@eco.mos.ru",
+        "WebSite": "www.mospriroda.ru/wheretogo/territorii/prirodnoistoricheskiyparkostankino/",
+        "HelpPhone": "(499) 477-11-97",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "да",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.09-31.08",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": "частично приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1047335644
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6764388882578,
+          55.653862590082
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "роллердром, скейтпарк открытый №1, «Скейт-парк»",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Печатники",
+        "Address": "Проектируемый проезд N 4386, дом 1А",
+        "Email": "mso@mos.sport",
+        "WebSite": "mos.sport/",
+        "HelpPhone": "(495) 681-01-48",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "да",
+        "HasEatery": "нет",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "асфальтовое, бетонное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1047337459
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6756900657576,
+          55.6529265034934
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "роллердром, скейтпарк открытый №2, «Памтрек»",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Печатники",
+        "Address": "Проектируемый проезд N 4386, дом 1А",
+        "Email": "mso@mos.sport",
+        "WebSite": "mos.sport/",
+        "HelpPhone": "(495) 681-01-48",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "да",
+        "HasEatery": "нет",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "деревянное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1047337463
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6263160235678,
+          55.8294348319494
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "роллердром, скейтпарк открытый, «МТС», за павильоном №15",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Останкинский район",
+        "Address": "проспект Мира, дом 119, строение 6",
+        "Email": "info@vvcentre.ru",
+        "WebSite": "vdnh.ru",
+        "HelpPhone": "(495) 748-35-00",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "да",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "да",
+        "HasFirstAidPost": "да",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.09-31.10",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "асфальтовое, бетонное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1047339621
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.729252366063,
+          55.7738984346732
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "роллердром, скейтпарк",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Соколиная Гора",
+        "Address": "проспект Будённого, дом 17А, строение 3",
+        "Email": "",
+        "WebSite": "ks-fitness.ru",
+        "HelpPhone": "(499) 785-81-24",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "да",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.04-30.11",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1047339855
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5994565883747,
+          55.679032034483
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "роллердром, скейтпарк открытый",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Котловка",
+        "Address": "улица Ремизова, дом 3, корпус 2",
+        "Email": "sportkotlovka@mail.ru",
+        "WebSite": "kotlovka.mos.ru",
+        "HelpPhone": "(499) 123-62-15",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "освещение светодиодными лампами",
+        "SurfaceTypeSummer": "асфальтовое, бетонное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1047342678
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.2248767278671,
+          55.988201417651
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "роллердром, скейтпарк открытый",
+        "AdmArea": "Зеленоградский административный округ",
+        "District": "район Савёлки",
+        "Address": "Озёрная аллея, дом 2А, строение 1",
+        "Email": "gbuzelenograd@zelao.mos.ru",
+        "WebSite": "gbuzelenograd.ru",
+        "HelpPhone": "(499) 736-78-86",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "да",
+        "HasEatery": "нет",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "асфальтовое, бетонное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1047346234
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4491901080888,
+          55.8036626843131
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "роллердром, скейтпарк открытый",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Щукино",
+        "Address": "Живописная улица, дом 54А",
+        "Email": "shukino-uprava@mos.ru",
+        "WebSite": "schukino.mos.ru",
+        "HelpPhone": "(499) 194-36-51",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1047346547
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4483726692068,
+          55.8072286100447
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "роллердром, скейтпарк открытый",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Щукино",
+        "Address": "Авиационная улица, дом 79, корпус 1",
+        "Email": "shukino-uprava@mos.ru",
+        "WebSite": "schukino.mos.ru",
+        "HelpPhone": "(499) 194-36-51",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1047346753
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.1507318306885,
+          55.9684223128068
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "роллердром, скейтпарк открытый",
+        "AdmArea": "Зеленоградский административный округ",
+        "District": "район Крюково",
+        "Address": "Георгиевский проспект, дом 5, строение 1",
+        "Email": "krukovo@mos.ru",
+        "WebSite": "krukovo.mos.ru/",
+        "HelpPhone": "(499) 733-25-02",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "освещение светодиодными лампами",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1047347067
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5691528937603,
+          55.6649546880878
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "роллердром, скейтпарк открытый",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Черёмушки",
+        "Address": "улица Цюрупы, дом 13",
+        "Email": "cherem@uzao.mos.ru",
+        "WebSite": "cheremush.mos.ru",
+        "HelpPhone": "(499) 120-00-01",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "да",
+        "HasEatery": "нет",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "асфальтовое, бетонное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1047347389
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.58680279608,
+          55.6504671253591
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "роллердром, скейтпарк открытый",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Зюзино",
+        "Address": "улица Каховка, дом 9, корпус 2",
+        "Email": "uzao-zuzino@mos.ru",
+        "WebSite": "zuzino.mos.ru",
+        "HelpPhone": "(499) 122-33-35",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "да",
+        "HasFirstAidPost": "да",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "асфальтовое, бетонное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1047347449
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5358305833807,
+          55.7868887469706
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "роллердром, скейтпарк открытый",
+        "AdmArea": "Северный административный округ",
+        "District": "Хорошёвский район",
+        "Address": "Ходынский бульвар, дом 9",
+        "Email": "park-khodynka@mail.ru",
+        "WebSite": "parkhodynka.ru/",
+        "HelpPhone": "(903) 597-53-19",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "да",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1047347470
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7320465069541,
+          55.6844623663323
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "роллердром, скейтпарк открытый",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Печатники",
+        "Address": "улица Полбина, дом 30",
+        "Email": "gbupechat@yandex.ru",
+        "WebSite": "pechatniki.mos.ru/",
+        "HelpPhone": "(495) 657-39-45",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1047347953
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.55891794841,
+          55.6555162044427
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "роллердром, скейтпарк открытый",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Черёмушки",
+        "Address": "Херсонская улица, дом 41",
+        "Email": "cherem@uzao.mos.ru",
+        "WebSite": "cheremush.mos.ru/",
+        "HelpPhone": "(499) 120-00-01",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "асфальтовое, бетонное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1047348217
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.8427186799843,
+          55.6858069542548
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "роллердром, скейтпарк открытый",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Выхино-Жулебино",
+        "Address": "Жулебинский бульвар, дом 40, корпус 1",
+        "Email": "vihino-ob@yandex.ru",
+        "WebSite": "vihyno.org",
+        "HelpPhone": "(499) 796-58-73",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1047348469
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7928561479007,
+          55.6413042253743
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "роллердром, скейтпарк открытый",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Капотня",
+        "Address": "1-й квартал Капотня, дом 4Б",
+        "Email": "uprkapot@uvao.mos.ru",
+        "WebSite": "uprava-kapotnya.mos.ru",
+        "HelpPhone": "(495) 657-43-38",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "да",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "деревянное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1047349319
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6232233443156,
+          55.8784986667873
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "роллердром, скейтпарк открытый",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Южное Медведково",
+        "Address": "Ясный проезд, дом 32",
+        "Email": "gbusme@mail.ru",
+        "WebSite": "medvedkovo-juzhnoe.mos.ru/",
+        "HelpPhone": "(499) 907-21-08",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1047349323
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.2193428564835,
+          55.5277403784597
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "роллердром, скейтпарк открытый",
+        "AdmArea": "Троицкий административный округ",
+        "District": "поселение Первомайское",
+        "Address": "посёлок Птичное, Лесная улица, дом 85",
+        "Email": "info@pervomayskoe.msk.ru",
+        "WebSite": "www.pervomayskoe.msk.ru",
+        "HelpPhone": "(495) 845-71-98",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "асфальтовое, бетонное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1047350049
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6023749618621,
+          55.6746872348277
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "роллердром, скейтпарк открытый",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Котловка",
+        "Address": "улица Ремизова, дом 14, корпус 1",
+        "Email": "sportkotlovka@mail.ru",
+        "WebSite": "kotlovka.mos.ru",
+        "HelpPhone": "(499) 123-62-15",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "освещение светодиодными лампами",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1047350254
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6005864295692,
+          55.5967091128609
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "роллердром, скейтпарк открытый",
+        "AdmArea": "Южный административный округ",
+        "District": "район Чертаново Южное",
+        "Address": "улица Академика Янгеля, дом 2",
+        "Email": "chu-zhil@yandex.ru",
+        "WebSite": "chertanovo-juzhnoe.mos.ru/",
+        "HelpPhone": "(495) 381-85-50",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1047355714
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.1881502453689,
+          55.9702189493036
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "роллердром, скейтпарк открытый",
+        "AdmArea": "Зеленоградский административный округ",
+        "District": "район Крюково",
+        "Address": "город Зеленоград, корпус 2301",
+        "Email": "krukovo@mos.ru",
+        "WebSite": "krukovo.mos.ru/",
+        "HelpPhone": "(499) 733-25-02",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "освещение газоразрядными лампами",
+        "SurfaceTypeSummer": "асфальтовое, бетонное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1047356574
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6172088535959,
+          55.6387591596502
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "роллердром, скейтпарк открытый",
+        "AdmArea": "Южный административный округ",
+        "District": "район Чертаново Северное",
+        "Address": "Варшавское шоссе, дом 114, корпус 2",
+        "Email": "sonch@mos.ru",
+        "WebSite": "gbu-chs.ru/",
+        "HelpPhone": "(495) 315-50-36",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1047357811
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7223485196434,
+          55.6077494682753
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "роллердром, скейтпарк открытый",
+        "AdmArea": "Южный административный округ",
+        "District": "район Орехово-Борисово Южное",
+        "Address": "улица Генерала Белова, дом 41",
+        "Email": "sosbr@mos.ru",
+        "WebSite": "orehovo-borisovo-juzhnoe.mos.ru",
+        "HelpPhone": "(495) 343-24-83",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1047358267
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7712255673853,
+          55.6309473530928
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "роллердром, скейтпарк открытый №1",
+        "AdmArea": "Южный административный округ",
+        "District": "район Братеево",
+        "Address": "Братеевская улица, владение 4, корпус 1",
+        "Email": "gbu.uao@yandex.ru",
+        "WebSite": "dorogi-uao.mos.ru/",
+        "HelpPhone": "(495) 276-12-17",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1047359132
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.783004745388,
+          55.6296467006126
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "роллердром, скейтпарк открытый № 2",
+        "AdmArea": "Южный административный округ",
+        "District": "район Братеево",
+        "Address": "Братеевская улица, владение 4, корпус 1",
+        "Email": "gbu.uao@yandex.ru",
+        "WebSite": "dorogi-uao.mos.ru/",
+        "HelpPhone": "(495) 276-12-17",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1047359168
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6545432447969,
+          55.8734413824554
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "роллердром, скейтпарк открытый",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Южное Медведково",
+        "Address": "Олонецкий проезд, дом 20",
+        "Email": "info@bapark.ru",
+        "WebSite": "bapark.ru",
+        "HelpPhone": "(499) 184-34-22",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1047359398
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7353378055254,
+          55.8049052233045
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "роллердром, скейтпарк открытый",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Преображенское",
+        "Address": "Большая Черкизовская улица, дом 125, строение 11",
+        "Email": "preo@vao.mos.ru",
+        "WebSite": "preobr.mos.ru",
+        "HelpPhone": "(499) 161-31-32",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1047359669
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4887496103591,
+          55.6864187026853
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "роллердром, скейтпарк открытый",
+        "AdmArea": "Западный административный округ",
+        "District": "район Проспект Вернадского",
+        "Address": "улица Удальцова, дом 22, корпус 2",
+        "Email": "info@parkfili.com",
+        "WebSite": "parkfili.com",
+        "HelpPhone": "(495) 621-88-68",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "освещение светодиодными лампами",
+        "SurfaceTypeSummer": "асфальтовое, бетонное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1047359784
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6025885980644,
+          55.5902089569893
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "роллердром, скейтпарк открытый",
+        "AdmArea": "Южный административный округ",
+        "District": "район Чертаново Южное",
+        "Address": "Варшавское шоссе, дом 141, корпус 5",
+        "Email": "sosch@uao.mos.ru",
+        "WebSite": "chertanovo-juzhnoe.mos.ru/",
+        "HelpPhone": "(495) 381-85-50",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1047361951
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7051095354984,
+          55.632754304103
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "скейт-парк площадка №3",
+        "AdmArea": "Южный административный округ",
+        "District": "район Москворечье-Сабурово",
+        "Address": "улица Борисовские Пруды, дом 1, строение 15А",
+        "Email": "info@park-kuzminki.ru",
+        "WebSite": "park-kuzminki.ru",
+        "HelpPhone": "(499) 175-33-69",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "асфальтовое, бетонное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1121790724
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.2602210000962,
+          55.4406539389829
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "роллердром, скейтпарк открытый",
+        "AdmArea": "Троицкий административный округ",
+        "District": "поселение Краснопахорское",
+        "Address": "поселение Краснопахорское, село Былово, дом 1",
+        "Email": "krasnopahorsckoe@yandex.ru",
+        "WebSite": "krasnaya-pahra.ru/",
+        "HelpPhone": "(495) 850-81-43",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "да",
+        "HasDressingRoom": "нет",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "асфальтовое, бетонное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1123863799
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7000092147384,
+          55.6335936167898
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "роллердром, скейтпарк открытый №3",
+        "AdmArea": "Южный административный округ",
+        "District": "район Москворечье-Сабурово",
+        "Address": "улица Маршала Захарова, дом 17, корпус 1",
+        "Email": "info@park-kuzminki.ru",
+        "WebSite": "www.park-kuzminki.ru",
+        "HelpPhone": "(499) 613-79-94",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "асфальтовое, бетонное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1123996226
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6961158094298,
+          55.6329348329369
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "роллердром, скейтпарк открытый №2",
+        "AdmArea": "Южный административный округ",
+        "District": "район Москворечье-Сабурово",
+        "Address": "улица Маршала Захарова, дом 17, корпус 1",
+        "Email": "info@park-kuzminki.ru",
+        "WebSite": "www.park-kuzminki.ru",
+        "HelpPhone": "(499) 613-79-94",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "асфальтовое, бетонное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1123996236
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5522209916924,
+          55.8626993699088
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "роллердром, скейтпарк открытый",
+        "AdmArea": "Северный административный округ",
+        "District": "Бескудниковский район",
+        "Address": "Дмитровское шоссе, дом 82",
+        "Email": "beskudnikovo@mos.ru",
+        "WebSite": "beskudnikovo.mos.ru",
+        "HelpPhone": "(499) 480-04-03",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "да",
+        "HasEatery": "нет",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "да",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1123996586
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6242056557441,
+          55.7690654926299
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "роллердром, скейтпарк открытый",
+        "AdmArea": "Центральный административный округ",
+        "District": "Мещанский район",
+        "Address": "Трубная улица, дом 15",
+        "Email": "meschanka@mos.ru",
+        "WebSite": "meschanka.mos.ru/",
+        "HelpPhone": "(495) 608-99-11",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1124000882
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6360412511163,
+          55.8721537465537
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "роллердром, скейтпарк открытый",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Южное Медведково",
+        "Address": "Ясный проезд, дом 2, корпус 2",
+        "Email": "smespr@svao.mos.ru",
+        "WebSite": "medvedkovo-juzhnoe.mos.ru/",
+        "HelpPhone": "(499) 473-15-65",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1124001950
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6137640707082,
+          55.8964503151
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "роллердром, скейтпарк открытый",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Бибирево",
+        "Address": "Белозерская улица, дом 10",
+        "Email": "gbubibirevo@bk.ru",
+        "WebSite": "bibirevo.mos.ru",
+        "HelpPhone": "(495) 533-00-22",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "да",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1124002356
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6505711580688,
+          55.8833342907079
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "роллердром, скейтпарк открытый",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Северное Медведково",
+        "Address": "проезд Шокальского, дом 37, корпус 2",
+        "Email": "nmespr@mos.ru",
+        "WebSite": "smedvedkovo.mos.ru/",
+        "HelpPhone": "(499) 476-77-86",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1124003370
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7023678961868,
+          55.6091354582189
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "роллердром, скейтпарк открытый",
+        "AdmArea": "Южный административный округ",
+        "District": "район Орехово-Борисово Северное",
+        "Address": "Шипиловский проезд, дом 49/1",
+        "Email": "sonbr@mos.ru",
+        "WebSite": "sevorehovo-borisovo.mos.ru/",
+        "HelpPhone": "(495) 391-52-68",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1124004184
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6120212187037,
+          55.6450894493144
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "роллердром, скейтпарк открытый",
+        "AdmArea": "Южный административный округ",
+        "District": "Нагорный район",
+        "Address": "Черноморский бульвар, дом 5, корпус 1",
+        "Email": "songr@mos.ru",
+        "WebSite": "uao.mos.ru/",
+        "HelpPhone": "(495) 752-33-39",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1124004198
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6184909350184,
+          55.6980152882468
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "роллердром, скейтпарк открытый",
+        "AdmArea": "Южный административный округ",
+        "District": "Донской район",
+        "Address": "Варшавское шоссе, дом 10, корпус 1",
+        "Email": "sodns@mos.ru",
+        "WebSite": "donskoy.mos.ru",
+        "HelpPhone": "(495) 958-15-90",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1124005388
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.413646,
+          55.770517
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "роллердром, скейтпарк открытый",
+        "AdmArea": "Западный административный округ",
+        "District": "район Крылатское",
+        "Address": "Крылатская улица, дом 25",
+        "Email": "1593@edu.mos.ru",
+        "WebSite": "sch1593.mskobr.ru",
+        "HelpPhone": "(495) 413-33-32",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "да",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 2366627355
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.3733840153654,
+          55.8382413418415
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "роллердром, скейтпарк открытый",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Митино",
+        "Address": "улица Барышиха, дом 8",
+        "Email": "info@bapark.ru",
+        "WebSite": "bapark.ru",
+        "HelpPhone": "(499) 184-34-22",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "асфальтовое, бетонное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 2366647012
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.0728410445623,
+          55.2107090735638
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "роллердром, скейтпарк открытый",
+        "AdmArea": "Троицкий административный округ",
+        "District": "поселение Роговское",
+        "Address": "посёлок Рогово, Школьная улица, дом 20",
+        "Email": "rogovskoe@yandex.ru",
+        "WebSite": "rogovskoe.org",
+        "HelpPhone": "(495) 850-99-11",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "да",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "асфальтовое, бетонное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 2366649341
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4566751865081,
+          55.5936353021768
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "роллердром, скейтпарк открытый",
+        "AdmArea": "Новомосковский административный округ",
+        "District": "поселение Сосенское",
+        "Address": "Николо-Хованская улица, дом 32",
+        "Email": "sosenskoe@mos.ru",
+        "WebSite": "sosenskoe-omsu.ru/",
+        "HelpPhone": "(495) 817-89-59",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 2366649666
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4845722331352,
+          55.54120307348
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "роллердром, скейтпарк открытый",
+        "AdmArea": "Новомосковский административный округ",
+        "District": "поселение Сосенское",
+        "Address": "улица Александры Монаховой, дом 95, корпус 3",
+        "Email": "sosenskoe@yandex.ru",
+        "WebSite": "sosenskoe-omsu.ru/",
+        "HelpPhone": "(495) 817-89-59",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 2366649748
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4813445862999,
+          55.5406210744587
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "роллердром, скейтпарк открытый",
+        "AdmArea": "Новомосковский административный округ",
+        "District": "поселение Сосенское",
+        "Address": "улица Александры Монаховой, дом 95, корпус 1",
+        "Email": "sosenskoe@yandex.ru",
+        "WebSite": "sosenskoe-omsu.ru/",
+        "HelpPhone": "(495) 817-89-59",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 2366649753
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.3055817387619,
+          55.6222588975536
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "роллердром, скейтпарк открытый",
+        "AdmArea": "Новомосковский административный округ",
+        "District": "поселение Внуковское",
+        "Address": "улица Авиаконструктора Петлякова, дом 13, корпус 1",
+        "Email": "vnukovskoe@mos.ru",
+        "WebSite": "vnukovskoe.ru/",
+        "HelpPhone": "(495) 736-61-24",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 2366649983
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5614181853382,
+          55.7902868115259
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "роллердром, скейтпарк открытый",
+        "AdmArea": "Северный административный округ",
+        "District": "район Аэропорт",
+        "Address": "Ленинградский проспект, дом 36",
+        "Email": "",
+        "WebSite": "arena-park.ru/park",
+        "HelpPhone": "(495) 122-42-22",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.09-31.08",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 2366662635
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5083851269531,
+          55.762451215399
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "роллердром, скейтпарк открытый",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Хорошёво-Мнёвники",
+        "Address": "Шелепихинская набережная, дом 34, строение 1",
+        "Email": "czao-hormn@mos.ru",
+        "WebSite": "horoshevo-mnevniki.mos.ru",
+        "HelpPhone": "(495) 192-25-56",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 2366666465
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4835657989502,
+          55.7880863221279
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "роллердром, скейтпарк открытый №2",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Хорошёво-Мнёвники",
+        "Address": "улица Берзарина, дом 15А, строение 1",
+        "Email": "czao-hormn@mos.ru",
+        "WebSite": "horoshevo-mnevniki.mos.ru",
+        "HelpPhone": "(495) 192-25-56",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "асфальтовое, бетонное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 2366666476
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4829220687866,
+          55.7881890903526
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "роллердром, скейтпарк открытый №1",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Хорошёво-Мнёвники",
+        "Address": "улица Берзарина, дом 15А, строение 1",
+        "Email": "czao-hormn@mos.ru",
+        "WebSite": "horoshevo-mnevniki.mos.ru",
+        "HelpPhone": "(495) 192-25-56",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "асфальтовое, бетонное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 2366666478
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.9009815399853,
+          55.7214949358781
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "роллердром, скейтпарк открытый",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Косино-Ухтомский",
+        "Address": "Лухмановская улица, дом 22",
+        "Email": "vao-kosuht@mos.ru",
+        "WebSite": "kosino-uhtomski.mos.ru",
+        "HelpPhone": "(499) 721-12-59",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "освещение газоразрядными лампами",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 2366682606
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4157354319148,
+          55.7703754613159
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "роллердром, скейтпарк открытый",
+        "AdmArea": "Западный административный округ",
+        "District": "район Крылатское",
+        "Address": "Крылатская улица, дом 29, корпус 2",
+        "Email": "uprava-krylatskoe@mos.ru",
+        "WebSite": "krylatskoe.mos.ru",
+        "HelpPhone": "(495) 412-03-25",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "освещение лампами накаливания",
+        "SurfaceTypeSummer": "асфальтовое, бетонное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 2366683079
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.553180170639,
+          55.7440396062189
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "роллердром, скейтпарк открытый",
+        "AdmArea": "Западный административный округ",
+        "District": "район Дорогомилово",
+        "Address": "Студенческая улица, дом 12",
+        "Email": "Uprava.dorogomilovo@mos.ru",
+        "WebSite": "dorogomilovo.mos.ru/",
+        "HelpPhone": "(499) 249-01-11",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 2366683168
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6495671425361,
+          55.6836440663211
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "роллердром, скейтпарк открытый",
+        "AdmArea": "Южный административный округ",
+        "District": "район Нагатино-Садовники",
+        "Address": "Нагатинская набережная, дом 14, корпус 1",
+        "Email": "sotnikovma1@mos.ru",
+        "WebSite": "nagatino-sadovniki.mos.ru/",
+        "HelpPhone": "(499) 612-05-62",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "освещение светодиодными лампами",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 2366686554
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.475857,
+          55.627923
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "роллердром, скейтпарк открытый",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Тёплый Стан",
+        "Address": "улица Академика Варги, дом 5, корпус 2",
+        "Email": "tstan-sport07@yandex.ru",
+        "WebSite": "teplystan.mos.ru",
+        "HelpPhone": "(495) 338-38-00",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 2366688788
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4833377313267,
+          55.6311935801665
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "роллердром, скейтпарк открытый",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Тёплый Стан",
+        "Address": "улица Тёплый Стан, дом 14/2",
+        "Email": "tstan-sport07@yandex.ru",
+        "WebSite": "teplystan.mos.ru",
+        "HelpPhone": "(495) 338-38-00",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "деревянное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 2366688817
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,511 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.619414635103,
+          55.756874890787
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Площадь Революции",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "EventName": "Пасхальный дар",
+        "Period": "23.04.2022-28.04.2022",
+        "WorkingHours": "10:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru",
+        "AmountOfPlaces": 1,
+        "globalid": 345260651
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6102191914367,
+          55.7618302914503
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Тверская площадь",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "EventName": "Пасхальный дар",
+        "Period": "23.04.2022-28.04.2022",
+        "WorkingHours": "10:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru",
+        "AmountOfPlaces": 1,
+        "globalid": 345260652
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5230482728471,
+          55.8319070119013
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Коптевский бульвар, вл. 18 (парк «Бригантина»)",
+        "AdmArea": "Северный административный округ",
+        "District": "район Коптево",
+        "EventName": "Пасхальный дар",
+        "Period": "23.04.2022-28.04.2022",
+        "WorkingHours": "10:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru",
+        "AmountOfPlaces": 7,
+        "globalid": 345260655
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.8650257458236,
+          55.7435789378887
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "ул. Городецкая, вл.1",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Новокосино",
+        "EventName": "Пасхальный дар",
+        "Period": "23.04.2022-28.04.2022",
+        "WorkingHours": "10:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru",
+        "AmountOfPlaces": 1,
+        "globalid": 345260657
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.8783153678215,
+          55.7140539814877
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Святоозерская ул., вл.1",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Косино-Ухтомский",
+        "EventName": "Пасхальный дар",
+        "Period": "23.04.2022-28.04.2022",
+        "WorkingHours": "10:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru",
+        "AmountOfPlaces": 1,
+        "globalid": 345260659
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.8274171273643,
+          55.7275509469333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "ул. Вешняковская, вл.16",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Вешняки",
+        "EventName": "Пасхальный дар",
+        "Period": "23.04.2022-28.04.2022",
+        "WorkingHours": "10:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru",
+        "AmountOfPlaces": 1,
+        "globalid": 345260660
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7998814100561,
+          55.8215147569989
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Сквер у Гольяновского пруда",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Гольяново",
+        "EventName": "Пасхальный дар",
+        "Period": "23.04.2022-28.04.2022",
+        "WorkingHours": "10:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru",
+        "AmountOfPlaces": 1,
+        "globalid": 345260661
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7662486707588,
+          55.7065469333212
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Площадь Славы (Волгоградский пр-т. вл. 119)",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Кузьминки",
+        "EventName": "Пасхальный дар",
+        "Period": "23.04.2022-28.04.2022",
+        "WorkingHours": "10:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru",
+        "AmountOfPlaces": 1,
+        "globalid": 345260662
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7449166687402,
+          55.6577368581703
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "ул. Перерва, вл.52",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Марьино",
+        "EventName": "Пасхальный дар",
+        "Period": "23.04.2022-28.04.2022",
+        "WorkingHours": "10:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru",
+        "AmountOfPlaces": 4,
+        "globalid": 345260663
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.928963471027,
+          55.7045862043438
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Сквер у ст. м.Некрасовка",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Некрасовка",
+        "EventName": "Пасхальный дар",
+        "Period": "23.04.2022-28.04.2022",
+        "WorkingHours": "10:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru",
+        "AmountOfPlaces": 1,
+        "globalid": 345260664
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7432881096036,
+          55.613654029437
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Ореховый бульвар, вл. 24, стр. 1",
+        "AdmArea": "Южный административный округ",
+        "District": "район Зябликово",
+        "EventName": "Пасхальный дар",
+        "Period": "23.04.2022-28.04.2022",
+        "WorkingHours": "10:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru",
+        "AmountOfPlaces": 4,
+        "globalid": 345260665
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7651276016082,
+          55.6325138103097
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "ул. Ключевая, вл. 22 (ст. м. Алма-Атинская)",
+        "AdmArea": "Южный административный округ",
+        "District": "район Братеево",
+        "EventName": "Пасхальный дар",
+        "Period": "23.04.2022-28.04.2022",
+        "WorkingHours": "10:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru",
+        "AmountOfPlaces": 1,
+        "globalid": 345260666
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.554794324162,
+          55.6694241388849
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "ул. Профсоюзная, вл. 41",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Черёмушки",
+        "EventName": "Пасхальный дар",
+        "Period": "23.04.2022-28.04.2022",
+        "WorkingHours": "10:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru",
+        "AmountOfPlaces": 1,
+        "globalid": 345260667
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5751839802695,
+          55.566784860905
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Бульвар Дмитрия Донского, вл.11",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Северное Бутово",
+        "EventName": "Пасхальный дар",
+        "Period": "23.04.2022-28.04.2022",
+        "WorkingHours": "10:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru",
+        "AmountOfPlaces": 12,
+        "globalid": 345260668
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5011099641869,
+          55.6189061675226
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "ул. Теплый стан, вл.1Б",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Тёплый Стан",
+        "EventName": "Пасхальный дар",
+        "Period": "23.04.2022-28.04.2022",
+        "WorkingHours": "10:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru",
+        "AmountOfPlaces": 1,
+        "globalid": 345260669
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5299172249334,
+          55.5418198606769
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "ул. Адмирала Руднева, вл.8",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Южное Бутово",
+        "EventName": "Пасхальный дар",
+        "Period": "23.04.2022-28.04.2022",
+        "WorkingHours": "10:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru",
+        "AmountOfPlaces": 12,
+        "globalid": 345260670
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4791668687428,
+          55.7040448109482
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "ул. Матвеевская, вл.2",
+        "AdmArea": "Западный административный округ",
+        "District": "район Очаково-Матвеевское",
+        "EventName": "Пасхальный дар",
+        "Period": "23.04.2022-28.04.2022",
+        "WorkingHours": "10:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru",
+        "AmountOfPlaces": 1,
+        "globalid": 345260671
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.3585575296755,
+          55.8471472323263
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "ул. Митинская, вл. 31",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Митино",
+        "EventName": "Пасхальный дар",
+        "Period": "23.04.2022-28.04.2022",
+        "WorkingHours": "10:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru",
+        "AmountOfPlaces": 1,
+        "globalid": 345260672
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.3869458254299,
+          55.8993612793618
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Пересечение ул. Соколово - Мещерская и ул. Юровская",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Куркино",
+        "EventName": "Пасхальный дар",
+        "Period": "23.04.2022-28.04.2022",
+        "WorkingHours": "10:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru",
+        "AmountOfPlaces": 12,
+        "globalid": 345260673
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.1553745519092,
+          55.97598207612
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "г. Зеленоград, 16 мкрн., бульварная зона",
+        "AdmArea": "Зеленоградский административный округ",
+        "District": "район Крюково",
+        "EventName": "Пасхальный дар",
+        "Period": "23.04.2022-28.04.2022",
+        "WorkingHours": "10:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru",
+        "AmountOfPlaces": 12,
+        "globalid": 345260674
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6019997564903,
+          55.7617476520449
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Тверской бульвар (у памятника Есенину) ",
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "EventName": "Пасхальный дар",
+        "Period": "23.04.2022-28.04.2022",
+        "WorkingHours": "10:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru",
+        "AmountOfPlaces": 10,
+        "globalid": 345260653
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6028437835601,
+          55.7623246706893
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Тверской бульвар",
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "EventName": "Пасхальный дар",
+        "Period": "23.04.2022-28.04.2022",
+        "WorkingHours": "10:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru",
+        "AmountOfPlaces": 1,
+        "globalid": 345260654
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6016759489551,
+          55.8611617918379
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Сквер по ул. Хачатуряна",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Отрадное",
+        "EventName": "Пасхальный дар",
+        "Period": "23.04.2022-28.04.2022",
+        "WorkingHours": "10:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru",
+        "AmountOfPlaces": 10,
+        "globalid": 345260656
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

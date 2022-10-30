@@ -1,0 +1,1595 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.178176,
+          55.990381
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Крещенская купель на озере Школьное",
+        "DepartmentalAffiliation": "Префектура Зеленоградского административного округа города Москвы",
+        "AdmArea": "Зеленоградский административный округ",
+        "District": "район Силино",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Силино, город Зеленоград, корпус 1001",
+        "LocationClarification": "город Зеленоград, улица Филаретовская, пляжная часть зоны отдыха озера Школьное\n",
+        "Email": "silinozelao@mos.ru",
+        "WebSite": "www.silino.mos.ru/jkh/gbu-zhilischnik-district-silino",
+        "HelpPhone": "(499) 731-77-78",
+        "ObjectHasDressingRoom": "да",
+        "ObjectHasEatery": "нет",
+        "ObjectHasToilet": "да",
+        "ObjectHasWifi": "нет",
+        "ObjectHasFirstAidPost": "да",
+        "WorkingHours": "с 23:00 18.01.2022 до 04:00 19.01.2022",
+        "IceHolesCount": 0,
+        "FontsCount": 1,
+        "globalid": 281591045
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.2363185,
+          55.9922287
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Место купания - Черное озеро",
+        "DepartmentalAffiliation": "Префектура Зеленоградского административного округа города Москвы",
+        "AdmArea": "Зеленоградский административный округ",
+        "District": "район Савёлки",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Савелки, город Зеленоград, корпус 618",
+        "LocationClarification": "6-й микрорайон, аллея \"Лесные пруды\", зона отдыха «Черное озеро»",
+        "Email": "zelao-savelki@mos.ru",
+        "WebSite": "www.savelki.mos.ru",
+        "HelpPhone": "(499) 734-53-04",
+        "ObjectHasDressingRoom": "да",
+        "ObjectHasEatery": "нет",
+        "ObjectHasToilet": "да",
+        "ObjectHasWifi": "нет",
+        "ObjectHasFirstAidPost": "да",
+        "WorkingHours": "с 23:00 18.01.2022 до 04:00 19.01.2022",
+        "IceHolesCount": 0,
+        "FontsCount": 1,
+        "globalid": 281591062
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5397,
+          55.834
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Место для крещенского купания",
+        "DepartmentalAffiliation": "Префектура Северного административного округа города Москвы",
+        "AdmArea": "Северный административный округ",
+        "District": "район Коптево",
+        "Location": "город Москва, Большая Академическая улица, дом 38",
+        "LocationClarification": "Большой Садовый пруд",
+        "Email": "sao-timir@mos.ru",
+        "WebSite": "timiryazevskiy.mos.ru",
+        "HelpPhone": "(499) 760-86-76",
+        "ObjectHasDressingRoom": "да",
+        "ObjectHasEatery": "нет",
+        "ObjectHasToilet": "да",
+        "ObjectHasWifi": "нет",
+        "ObjectHasFirstAidPost": "да",
+        "WorkingHours": "с 18:00 18.01.2022 до 18:00 19.01.2022",
+        "IceHolesCount": 4,
+        "FontsCount": 0,
+        "globalid": 282104308
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.475495,
+          55.839217
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Место для Крещенских купаний",
+        "DepartmentalAffiliation": "Префектура Северного административного округа города Москвы",
+        "AdmArea": "Северный административный округ",
+        "District": "Войковский район",
+        "Location": "город Москва, Ленинградское шоссе, дом 43, строение 1",
+        "LocationClarification": "Химкинское водохранилище, у ПСС «Центральная» ГКУ «МГПСС»",
+        "Email": "voik@mos.ru",
+        "WebSite": "voykovsky.mos.ru",
+        "HelpPhone": "(499) 156-20-02",
+        "ObjectHasDressingRoom": "да",
+        "ObjectHasEatery": "нет",
+        "ObjectHasToilet": "да",
+        "ObjectHasWifi": "нет",
+        "ObjectHasFirstAidPost": "да",
+        "WorkingHours": "с 18:00 18.01.2022 до 18:00 19.01.2022",
+        "IceHolesCount": 2,
+        "FontsCount": 0,
+        "globalid": 282104344
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.463086,
+          55.877062
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Место для крещенских купаний",
+        "DepartmentalAffiliation": "Префектура Северного административного округа города Москвы",
+        "AdmArea": "Северный административный округ",
+        "District": "район Левобережный",
+        "Location": "город Москва, Прибрежный проезд, дом 7",
+        "LocationClarification": "Химкинское водохранилище, на противоположном берегу от ПСС «Левобережная» ГКУ «МГПСС» ",
+        "Email": "sao-levober@mos.ru",
+        "WebSite": "levoberezhny.mos.ru",
+        "HelpPhone": "(495) 456-07-81",
+        "ObjectHasDressingRoom": "да",
+        "ObjectHasEatery": "нет",
+        "ObjectHasToilet": "да",
+        "ObjectHasWifi": "нет",
+        "ObjectHasFirstAidPost": "да",
+        "WorkingHours": "с 18:00 18.01.2022 до 18:00 19.01.2022",
+        "IceHolesCount": 2,
+        "FontsCount": 0,
+        "globalid": 282104455
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.342132,
+          55.654859
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Святой источник и часовня купель в честь иконы Божьей Матери Казанской",
+        "DepartmentalAffiliation": "Префектура Троицкого и Новомосковского административных округов города Москвы",
+        "AdmArea": "Новомосковский административный округ",
+        "District": "поселение Внуковское",
+        "Location": "город Москва, поселение Внуковское, ДСК \"Мичуринец\", Первомайская улица, дом 8/3УЧ",
+        "LocationClarification": "ул. Арсения Тарковского, д.1, на левом берегу реки Сетунь ",
+        "Email": "adm-spvnukovskoe@yandex.ru",
+        "WebSite": "vnukovskoe.ru",
+        "HelpPhone": "(495) 736-61-24",
+        "ObjectHasDressingRoom": "да",
+        "ObjectHasEatery": "да",
+        "ObjectHasToilet": "да",
+        "ObjectHasWifi": "нет",
+        "ObjectHasFirstAidPost": "нет",
+        "WorkingHours": "с 21:00 18.01.2022 до 03:00 19.01.2022",
+        "IceHolesCount": 0,
+        "FontsCount": 1,
+        "globalid": 282221365
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.205526,
+          55.324762
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "купель на территории Храма Покрова Пресвятой Богородицы.",
+        "DepartmentalAffiliation": "Префектура Троицкого и Новомосковского административных округов города Москвы",
+        "AdmArea": "Троицкий административный округ",
+        "District": "поселение Вороновское",
+        "Location": "город Москва, поселение Вороновское, село Покровское, дом 11",
+        "LocationClarification": "территория Храма Покрова Пресвятой Богородицы",
+        "Email": "voronovoadm@mail.ru",
+        "WebSite": "voronovskoe.ru",
+        "HelpPhone": "(495) 850-66-81",
+        "ObjectHasDressingRoom": "да",
+        "ObjectHasEatery": "да",
+        "ObjectHasToilet": "да",
+        "ObjectHasWifi": "нет",
+        "ObjectHasFirstAidPost": "да",
+        "WorkingHours": "с 23:00 18.01.2022 до 03:00 19.01.2022",
+        "IceHolesCount": 0,
+        "FontsCount": 1,
+        "globalid": 282221877
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4311,
+          55.50158
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Святой источник, часовня купель в честь Ксении Петербургской",
+        "DepartmentalAffiliation": "Префектура Троицкого и Новомосковского административных округов города Москвы",
+        "AdmArea": "Новомосковский административный округ",
+        "District": "поселение Десеновское",
+        "Location": "Российская Федерация, город Москва, внутригородская территория поселение Десеновское, деревня Евсеево, Евсеевская улица, дом 78",
+        "LocationClarification": "вблизи СТ \"Заречье\", рядом с рекой Десна",
+        "Email": "desenovskoe@mos.ru",
+        "WebSite": "desenovskoe.ru",
+        "HelpPhone": "(495) 841-58-15",
+        "ObjectHasDressingRoom": "да",
+        "ObjectHasEatery": "да",
+        "ObjectHasToilet": "да",
+        "ObjectHasWifi": "нет",
+        "ObjectHasFirstAidPost": "да",
+        "WorkingHours": "с 21:00 18.01.2022 до 03:00 19.01.2022",
+        "IceHolesCount": 0,
+        "FontsCount": 1,
+        "globalid": 282232159
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.280019,
+          55.355614
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Оборудованная купель возле Храма в дер. Товарищево",
+        "DepartmentalAffiliation": "Префектура Троицкого и Новомосковского административных округов города Москвы",
+        "AdmArea": "Троицкий административный округ",
+        "District": "поселение Кленовское",
+        "Location": "город Москва, поселение Кленовское, деревня Товарищево, дом 9",
+        "LocationClarification": "деревня Товарищево, дом 9а",
+        "Email": "evtihi@mail.ru",
+        "WebSite": "tovarischevo.ucoz.ru",
+        "HelpPhone": "(495) 865-63-74",
+        "ObjectHasDressingRoom": "да",
+        "ObjectHasEatery": "да",
+        "ObjectHasToilet": "да",
+        "ObjectHasWifi": "нет",
+        "ObjectHasFirstAidPost": "да",
+        "WorkingHours": "с 21:00 18.01.2022 до 03:00 19.01.2022",
+        "IceHolesCount": 0,
+        "FontsCount": 1,
+        "globalid": 282234291
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.329665,
+          55.252623
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Пруд, оборудованное место для Крещенского купания возле Часовни Иконы Божией Матери Иверской",
+        "DepartmentalAffiliation": "Префектура Троицкого и Новомосковского административных округов города Москвы",
+        "AdmArea": "Троицкий административный округ",
+        "District": "поселение Кленовское",
+        "Location": "город Москва, поселение Кленовское, деревня Чернецкое, дом 1",
+        "LocationClarification": "поселение Кленовское, дер. Чернецкое",
+        "Email": "klenovskoe.tinao@mail.ru",
+        "WebSite": "klenovskoe.org",
+        "HelpPhone": "(495) 865-63-74",
+        "ObjectHasDressingRoom": "да",
+        "ObjectHasEatery": "да",
+        "ObjectHasToilet": "да",
+        "ObjectHasWifi": "нет",
+        "ObjectHasFirstAidPost": "да",
+        "WorkingHours": "с 21:00 18.01.2022 до 03:00 19.01.2022",
+        "IceHolesCount": 1,
+        "FontsCount": 0,
+        "globalid": 282236204
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.201751,
+          55.594168
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Оборудованное место для крещенского купания в парке Ручеек.",
+        "DepartmentalAffiliation": "Префектура Троицкого и Новомосковского административных округов города Москвы",
+        "AdmArea": "Новомосковский административный округ",
+        "District": "поселение Марушкинское",
+        "Location": "город Москва, поселение Марушкинское, деревня Марушкино, Агрохимическая улица, дом 1",
+        "LocationClarification": "Парк Ручеек",
+        "Email": "admmarush@list.ru",
+        "WebSite": "марушкино-мо.рф",
+        "HelpPhone": "(495) 845-85-31",
+        "ObjectHasDressingRoom": "да",
+        "ObjectHasEatery": "нет",
+        "ObjectHasToilet": "да",
+        "ObjectHasWifi": "нет",
+        "ObjectHasFirstAidPost": "да",
+        "WorkingHours": "с 20:00 18.01.2022 до 03:00 19.01.2022",
+        "IceHolesCount": 1,
+        "FontsCount": 0,
+        "globalid": 282238514
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.151736,
+          55.574908
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Оборудованное место для крещенского купания у церкви Спаса Нерукотворного Образа",
+        "DepartmentalAffiliation": "Префектура Троицкого и Новомосковского административных округов города Москвы",
+        "AdmArea": "Новомосковский административный округ",
+        "District": "поселение Марушкинское",
+        "Location": "город Москва, поселение Марушкинское, деревня Большое Свинорье, дом 66Б",
+        "LocationClarification": "Церковь Спаса Нерукотворного Образа",
+        "Email": "admmarush@list.ru",
+        "WebSite": "Марушкино-мо.рф",
+        "HelpPhone": "(495) 845-85-31",
+        "ObjectHasDressingRoom": "да",
+        "ObjectHasEatery": "нет",
+        "ObjectHasToilet": "да",
+        "ObjectHasWifi": "нет",
+        "ObjectHasFirstAidPost": "да",
+        "WorkingHours": "с 20:00 18.01.2022 до 03:00 19.01.2022",
+        "IceHolesCount": 0,
+        "FontsCount": 1,
+        "globalid": 282238762
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.239361,
+          55.443148
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Пруд возле Храма Архангела Михаила и чуда его в Хонех в Былове гор. Москвы",
+        "DepartmentalAffiliation": "Префектура Троицкого и Новомосковского административных округов города Москвы",
+        "AdmArea": "Троицкий административный округ",
+        "District": "поселение Краснопахорское",
+        "Location": "город Москва, поселение Краснопахорское, село Былово, дом 82",
+        "LocationClarification": "пруд вблизи Храма Архангела Михаила и чуда его в Хонех в Былове гор. Москвы",
+        "Email": "otdelsr@mail.ru",
+        "WebSite": "krasnaya-pahra.ru",
+        "HelpPhone": "(495) 850-81-00",
+        "ObjectHasDressingRoom": "да",
+        "ObjectHasEatery": "да",
+        "ObjectHasToilet": "да",
+        "ObjectHasWifi": "нет",
+        "ObjectHasFirstAidPost": "да",
+        "WorkingHours": "с 23:00 18.01.2022 до 03:00 19.01.2022",
+        "IceHolesCount": 1,
+        "FontsCount": 0,
+        "globalid": 282238995
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.185303,
+          55.408424
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Храм Новомученников Подольских в Шишкином Лесу.",
+        "DepartmentalAffiliation": "Префектура Троицкого и Новомосковского административных округов города Москвы",
+        "AdmArea": "Троицкий административный округ",
+        "District": "поселение Михайлово-Ярцевское",
+        "Location": "город Москва, поселение Михайлово-Ярцевское, посёлок Шишкин Лес, Заречная улица, дом 43",
+        "LocationClarification": "Храм Новомученников Подольских в Шишкином Лесу",
+        "Email": "shishkinadmprnmo@mail.ru",
+        "WebSite": "www.admsp.ru",
+        "HelpPhone": "(495) 850-59-62",
+        "ObjectHasDressingRoom": "да",
+        "ObjectHasEatery": "да",
+        "ObjectHasToilet": "да",
+        "ObjectHasWifi": "нет",
+        "ObjectHasFirstAidPost": "да",
+        "WorkingHours": "с 19:00 18.01.2022 до 21:00 18.01.2022",
+        "IceHolesCount": 0,
+        "FontsCount": 1,
+        "globalid": 282239225
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.478169,
+          55.616575
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Оборудованное место для Крещенского купания у Храма Святой Животворящей Троицы",
+        "DepartmentalAffiliation": "Префектура Троицкого и Новомосковского административных округов города Москвы",
+        "AdmArea": "Новомосковский административный округ",
+        "District": "поселение \"Мосрентген\"",
+        "Location": "город Москва, поселение \"Мосрентген\", посёлок Завода Мосрентген, дом 1",
+        "LocationClarification": "Средний пруд каскада прудов в поселении \"Мосрентген\"",
+        "Email": "mosrentgen@mos.ru",
+        "WebSite": "www.adm-mosrentgen.ru",
+        "HelpPhone": "(495) 540-59-93",
+        "ObjectHasDressingRoom": "да",
+        "ObjectHasEatery": "да",
+        "ObjectHasToilet": "да",
+        "ObjectHasWifi": "нет",
+        "ObjectHasFirstAidPost": "нет",
+        "WorkingHours": "с 23:00 18.01.2022 до 03:00 19.01.2022",
+        "IceHolesCount": 1,
+        "FontsCount": 0,
+        "globalid": 282240045
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.266344,
+          55.485343
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Купель в честь иконы Божьей Матери Казанской",
+        "DepartmentalAffiliation": "Префектура Троицкого и Новомосковского административных округов города Москвы",
+        "AdmArea": "Троицкий административный округ",
+        "District": "поселение Первомайское",
+        "Location": "город Москва, поселение Первомайское, деревня Пучково, Богородская улица, дом 1",
+        "LocationClarification": "деревня Пучково, река Рыжовка",
+        "Email": "HramPuchk@yandex.ru",
+        "WebSite": "hram-puchkovo.me-ga.ru",
+        "HelpPhone": "(495) 840-64-74",
+        "ObjectHasDressingRoom": "да",
+        "ObjectHasEatery": "да",
+        "ObjectHasToilet": "да",
+        "ObjectHasWifi": "нет",
+        "ObjectHasFirstAidPost": "да",
+        "WorkingHours": "с 23:00 18.01.2022 до 05:00 19.01.2022",
+        "IceHolesCount": 0,
+        "FontsCount": 2,
+        "globalid": 282240196
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.010069,
+          55.239217
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Купель вблизи Храма Святой Троицы",
+        "DepartmentalAffiliation": "Префектура Троицкого и Новомосковского административных округов города Москвы",
+        "AdmArea": "Троицкий административный округ",
+        "District": "поселение Роговское",
+        "Location": "город Москва, поселение Роговское, деревня Васюнино, дом 53А, строение 1Б/Н",
+        "LocationClarification": "дер. Васюнино, вблизи Храма Святой Троицы ",
+        "Email": "rogovskoe@mos.ru",
+        "WebSite": "www.rogovskoe.org",
+        "HelpPhone": "(495) 850-98-33",
+        "ObjectHasDressingRoom": "да",
+        "ObjectHasEatery": "да",
+        "ObjectHasToilet": "да",
+        "ObjectHasWifi": "нет",
+        "ObjectHasFirstAidPost": "да",
+        "WorkingHours": "с 21:00 18.01.2022 до 03:00 19.01.2022",
+        "IceHolesCount": 0,
+        "FontsCount": 1,
+        "globalid": 282240403
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.305399,
+          55.494261
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Оборудованное место для крещенского купания в зоне отдыха Заречье в городском округе Троицк, р. Десна",
+        "DepartmentalAffiliation": "Префектура Троицкого и Новомосковского административных округов города Москвы",
+        "AdmArea": "Троицкий административный округ",
+        "District": "поселение Троицк",
+        "Location": "город Москва, город Троицк, Прибрежная улица, дом 7",
+        "LocationClarification": "ул. Прибрежная, д.7, у ресторана \"Заречье\"",
+        "Email": "troitsk@mos.ru",
+        "WebSite": "admtroitsk.ru",
+        "HelpPhone": "(495) 851-00-75",
+        "ObjectHasDressingRoom": "да",
+        "ObjectHasEatery": "да",
+        "ObjectHasToilet": "да",
+        "ObjectHasWifi": "нет",
+        "ObjectHasFirstAidPost": "да",
+        "WorkingHours": "с 21:00 18.01.2022 до 04:00 19.01.2022",
+        "IceHolesCount": 2,
+        "FontsCount": 0,
+        "globalid": 282240574
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.329289,
+          55.545041
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Стационарная купель в дер. Кнутово",
+        "DepartmentalAffiliation": "Префектура Троицкого и Новомосковского административных округов города Москвы",
+        "AdmArea": "Новомосковский административный округ",
+        "District": "поселение Филимонковское",
+        "Location": "город Москва, поселение Филимонковское, деревня Кнутово, дом 17А",
+        "LocationClarification": "Деревня Кнутово, вблизи Кнутовского пруда",
+        "Email": "filimonky@mail.ru",
+        "WebSite": "www.filimonky.ru",
+        "HelpPhone": "(495) 436-41-38",
+        "ObjectHasDressingRoom": "да",
+        "ObjectHasEatery": "нет",
+        "ObjectHasToilet": "да",
+        "ObjectHasWifi": "нет",
+        "ObjectHasFirstAidPost": "да",
+        "WorkingHours": "с 21:00 18.01.2022 до 03:00 19.01.2022",
+        "IceHolesCount": 0,
+        "FontsCount": 1,
+        "globalid": 282240619
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.441611,
+          55.400894
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Купель в селе Ознобишино, вблизи Храма Святой Троицы.",
+        "DepartmentalAffiliation": "Префектура Троицкого и Новомосковского административных округов города Москвы",
+        "AdmArea": "Троицкий административный округ",
+        "District": "поселение Щаповское",
+        "Location": "Российская Федерация, город Москва, внутригородская территория поселение Щаповское, село Ознобишино, Северная улица, дом 6",
+        "LocationClarification": "с. Ознобишино, вблизи Храма Святой Троицы",
+        "Email": "schapovo@schapovo.ru",
+        "WebSite": "www.schapovo.ru",
+        "HelpPhone": "(495) 865-60-66",
+        "ObjectHasDressingRoom": "нет",
+        "ObjectHasEatery": "нет",
+        "ObjectHasToilet": "нет",
+        "ObjectHasWifi": "нет",
+        "ObjectHasFirstAidPost": "нет",
+        "WorkingHours": "с 20:00 18.01.2022 до 03:00 19.01.2022",
+        "IceHolesCount": 0,
+        "FontsCount": 1,
+        "globalid": 282240674
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.343095,
+          55.616224
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Оборудованное место для Крещенского купания, поселок Ульяновского лесопарка, пруд напротив Храма-часовни иконы Божией Матери Неувядаемый цвет",
+        "DepartmentalAffiliation": "Префектура Троицкого и Новомосковского административных округов города Москвы",
+        "AdmArea": "Новомосковский административный округ",
+        "District": "поселение Московский",
+        "Location": "город Москва, поселение Московский, Киевское шоссе, 28-й километр, владение 2, строение 1",
+        "LocationClarification": "поселок Ульяновского лесопарка, пруд напротив Храма-часовни иконы Божьей Матери \"Неувядаемый цвет\"",
+        "Email": "moskovsky@mos.ru",
+        "WebSite": "adm-moskovsky.ru",
+        "HelpPhone": "(495) 840-81-47",
+        "ObjectHasDressingRoom": "нет",
+        "ObjectHasEatery": "нет",
+        "ObjectHasToilet": "да",
+        "ObjectHasWifi": "нет",
+        "ObjectHasFirstAidPost": "да",
+        "WorkingHours": "с 21:00 18.01.2022 до 03:00 19.01.2022",
+        "IceHolesCount": 1,
+        "FontsCount": 0,
+        "globalid": 282241346
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.612616,
+          55.822773
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Крещенские купания",
+        "DepartmentalAffiliation": "Префектура Северо-Восточного административного округа города Москвы",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Останкинский район",
+        "Location": "город Москва, улица Академика Королёва, дом 10Б, строение 1",
+        "LocationClarification": "Дворцовый пруд",
+        "Email": "ostspr@mos.ru",
+        "WebSite": "ostankino.mos.ru",
+        "HelpPhone": "(495) 615-67-68",
+        "ObjectHasDressingRoom": "да",
+        "ObjectHasEatery": "да",
+        "ObjectHasToilet": "да",
+        "ObjectHasWifi": "нет",
+        "ObjectHasFirstAidPost": "да",
+        "WorkingHours": "с 20:00 18.01.2022 до 09:00 20.01.2022",
+        "IceHolesCount": 0,
+        "FontsCount": 1,
+        "globalid": 282649475
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.604114,
+          55.664924
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Храм прп. Ефросинии, великой княгини Московской в Котловке",
+        "DepartmentalAffiliation": "Префектура Юго-Западного административного округа города Москвы",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Котловка",
+        "Location": "город Москва, Нахимовский проспект, владение 10, строение 1",
+        "LocationClarification": "Нахимовский проспект, д.8",
+        "Email": "uzao-kotlovka@mos.ru",
+        "WebSite": "kotlovka.mos.ru",
+        "HelpPhone": "(495) 777-77-77",
+        "ObjectHasDressingRoom": "да",
+        "ObjectHasEatery": "да",
+        "ObjectHasToilet": "да",
+        "ObjectHasWifi": "нет",
+        "ObjectHasFirstAidPost": "да",
+        "WorkingHours": "с 21:00 18.01.2022 до 02:00 19.01.2022",
+        "IceHolesCount": 1,
+        "FontsCount": 0,
+        "globalid": 282650603
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.529912,
+          55.667106
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Храм Живоначальной Троицы в Воронцовском парке",
+        "DepartmentalAffiliation": "Префектура Юго-Западного административного округа города Москвы",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "Обручевский район",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Обручевский, Воронцовский парк, дом 5",
+        "LocationClarification": "Воронцовский парк, дом 5",
+        "Email": "UZAO-obruchev@mos.ru",
+        "WebSite": "obruchev.mos.ru/",
+        "HelpPhone": "(495) 777-77-77",
+        "ObjectHasDressingRoom": "да",
+        "ObjectHasEatery": "да",
+        "ObjectHasToilet": "да",
+        "ObjectHasWifi": "нет",
+        "ObjectHasFirstAidPost": "да",
+        "WorkingHours": "с 20:00 18.01.2022 до 18:00 19.01.2022",
+        "IceHolesCount": 1,
+        "FontsCount": 0,
+        "globalid": 282650605
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.489622,
+          55.634439
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Храм Анастасии Узорешительницы",
+        "DepartmentalAffiliation": "Префектура Юго-Западного административного округа города Москвы",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Тёплый Стан",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Теплый Стан, улица Академика Виноградова, дом 12",
+        "LocationClarification": "Зона отдыха \"Тропарево\"",
+        "Email": "UZAO-Teplystan@mos.ru",
+        "WebSite": "teplystan.mos.ru",
+        "HelpPhone": "(495) 777-77-77",
+        "ObjectHasDressingRoom": "да",
+        "ObjectHasEatery": "да",
+        "ObjectHasToilet": "да",
+        "ObjectHasWifi": "нет",
+        "ObjectHasFirstAidPost": "да",
+        "WorkingHours": "с 23:00 18.01.2022 до 06:00 19.01.2022",
+        "IceHolesCount": 1,
+        "FontsCount": 0,
+        "globalid": 282650606
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.524649,
+          55.537829
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Храм Рождества Христова в Черневе",
+        "DepartmentalAffiliation": "Префектура Юго-Западного административного округа города Москвы",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Южное Бутово",
+        "Location": "город Москва, Черневская улица, дом Б/Н, строение 2",
+        "LocationClarification": "Черневская улица, корп. 1",
+        "Email": "uzao-ugbutovo@mos.ru",
+        "WebSite": "ubutovo.mos.ru",
+        "HelpPhone": "(495) 777-77-77",
+        "ObjectHasDressingRoom": "да",
+        "ObjectHasEatery": "да",
+        "ObjectHasToilet": "да",
+        "ObjectHasWifi": "нет",
+        "ObjectHasFirstAidPost": "да",
+        "WorkingHours": "с 18:00 18.01.2022 до 18:00 19.01.2022",
+        "IceHolesCount": 1,
+        "FontsCount": 0,
+        "globalid": 282650607
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.534101,
+          55.623294
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Храм Казанской иконы Божией Матери в Узком",
+        "DepartmentalAffiliation": "Префектура Юго-Западного административного округа города Москвы",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Ясенево",
+        "Location": "город Москва, улица Айвазовского, владение 2А, строение 1",
+        "LocationClarification": "улица Профсоюзная, 123Б",
+        "Email": "UZAO-yasenevo@mos.ru",
+        "WebSite": "yasenevo.mos.ru",
+        "HelpPhone": "(495) 777-77-77",
+        "ObjectHasDressingRoom": "да",
+        "ObjectHasEatery": "да",
+        "ObjectHasToilet": "да",
+        "ObjectHasWifi": "нет",
+        "ObjectHasFirstAidPost": "да",
+        "WorkingHours": "с 18:00 18.01.2022 до 12:00 19.01.2022",
+        "IceHolesCount": 1,
+        "FontsCount": 0,
+        "globalid": 282650611
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.611256,
+          55.700108
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Пруд Бекет. Крещенская купель",
+        "DepartmentalAffiliation": "Префектура Южного административного округа города Москвы",
+        "AdmArea": "Южный административный округ",
+        "District": "Донской район",
+        "Location": "город Москва, Загородное шоссе, владение 2Б",
+        "LocationClarification": "Пруд \"Бекет\"",
+        "Email": "sodns@uao.mos.ru",
+        "WebSite": "Don.mos.ru",
+        "HelpPhone": "(495) 958-15-90",
+        "ObjectHasDressingRoom": "да",
+        "ObjectHasEatery": "нет",
+        "ObjectHasToilet": "да",
+        "ObjectHasWifi": "нет",
+        "ObjectHasFirstAidPost": "да",
+        "WorkingHours": "с 18:00 18.01.2022 до 12:00 19.01.2022",
+        "IceHolesCount": 1,
+        "FontsCount": 0,
+        "globalid": 282655867
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.707846,
+          55.631641
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Борисовские пруды. Крещенская Купель",
+        "DepartmentalAffiliation": "Префектура Южного административного округа города Москвы",
+        "AdmArea": "Южный административный округ",
+        "District": "район Москворечье-Сабурово",
+        "Location": "город Москва, улица Борисовские Пруды, владение 2/1",
+        "LocationClarification": "Борисовские Пруды",
+        "Email": "somsb@mos.ru",
+        "WebSite": "moskvoreche-saburovo.mos.ru/",
+        "HelpPhone": "(499) 323-62-26",
+        "ObjectHasDressingRoom": "да",
+        "ObjectHasEatery": "нет",
+        "ObjectHasToilet": "да",
+        "ObjectHasWifi": "нет",
+        "ObjectHasFirstAidPost": "да",
+        "WorkingHours": "с 18:00 18.01.2022 до 12:00 19.01.2022",
+        "IceHolesCount": 1,
+        "FontsCount": 0,
+        "globalid": 282657874
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.8137,
+          55.7673
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Оборудованное место для крещенского купания «Ольховый пруд».",
+        "DepartmentalAffiliation": "Префектура Восточного административного округа города Москвы",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Ивановское",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Ивановское, Свободный проспект, дом 2",
+        "LocationClarification": "Терлецкий лесопарк (ПИП \"Измайлово), Ольховый пруд\n",
+        "Email": "ooptvao@gmail.com",
+        "WebSite": "www.mosecovao.info",
+        "HelpPhone": "(499) 367-36-81",
+        "ObjectHasDressingRoom": "да",
+        "ObjectHasEatery": "да",
+        "ObjectHasToilet": "да",
+        "ObjectHasWifi": "нет",
+        "ObjectHasFirstAidPost": "да",
+        "WorkingHours": "с 21:00 18.01.2022 до 05:00 19.01.2022",
+        "IceHolesCount": 1,
+        "FontsCount": 0,
+        "globalid": 282669813
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.85265,
+          55.720277
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Оборудованное место для крещенского купания «Белое озеро».",
+        "DepartmentalAffiliation": "Префектура Восточного административного округа города Москвы",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Косино-Ухтомский",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Косино-Ухтомский, Заозёрная улица, дом 2",
+        "LocationClarification": "Белое озеро\n",
+        "Email": "ooptvao@gmail.com",
+        "WebSite": "www.mosecovao.info",
+        "HelpPhone": "(499) 367-36-81",
+        "ObjectHasDressingRoom": "да",
+        "ObjectHasEatery": "да",
+        "ObjectHasToilet": "да",
+        "ObjectHasWifi": "нет",
+        "ObjectHasFirstAidPost": "да",
+        "WorkingHours": "с 21:00 18.01.2022 до 05:00 19.01.2022",
+        "IceHolesCount": 1,
+        "FontsCount": 0,
+        "globalid": 282669956
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.8721,
+          55.7152
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Оборудованное место для крещенского купания «Святое озеро».",
+        "DepartmentalAffiliation": "Префектура Восточного административного округа города Москвы",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Косино-Ухтомский",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Косино-Ухтомский, Оранжерейная улица, дом 18",
+        "LocationClarification": "Святое озеро",
+        "Email": "ooptvao@gmail.com",
+        "WebSite": "www.mosecovao.info",
+        "HelpPhone": "(499) 367-36-81",
+        "ObjectHasDressingRoom": "да",
+        "ObjectHasEatery": "да",
+        "ObjectHasToilet": "да",
+        "ObjectHasWifi": "нет",
+        "ObjectHasFirstAidPost": "да",
+        "WorkingHours": "с 21:00 18.01.2022 до 05:00 19.01.2022",
+        "IceHolesCount": 1,
+        "FontsCount": 0,
+        "globalid": 282669978
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.685432,
+          55.801038
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Оборудованное место для крещенского купания «Олений пруд №5».",
+        "DepartmentalAffiliation": "Префектура Восточного административного округа города Москвы",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Сокольники",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Сокольники, улица Короленко, дом 2А, строение 4",
+        "LocationClarification": "ПКиО \"Сокольники\", \"Нижний майский пруд\"",
+        "Email": "media@park.sokolniki.com",
+        "WebSite": "www.park.sokolniki.com",
+        "HelpPhone": "(499) 393-92-22",
+        "ObjectHasDressingRoom": "да",
+        "ObjectHasEatery": "да",
+        "ObjectHasToilet": "да",
+        "ObjectHasWifi": "нет",
+        "ObjectHasFirstAidPost": "да",
+        "WorkingHours": "с 21:00 18.01.2022 до 05:00 19.01.2022",
+        "IceHolesCount": 1,
+        "FontsCount": 0,
+        "globalid": 282670592
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.367756,
+          55.838285
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Ландшафтный парк",
+        "DepartmentalAffiliation": "Префектура Северо-Западного административного округа города Москвы",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Митино",
+        "Location": "город Москва, улица Барышиха, домовладение 10, корпус 2",
+        "LocationClarification": "Ландшафтный парк",
+        "Email": "mitino@mos.ru",
+        "WebSite": "mitino.mos.ru",
+        "HelpPhone": "(495) 751-14-92",
+        "ObjectHasDressingRoom": "да",
+        "ObjectHasEatery": "да",
+        "ObjectHasToilet": "да",
+        "ObjectHasWifi": "нет",
+        "ObjectHasFirstAidPost": "да",
+        "WorkingHours": "с 18:00 18.01.2022 до 18:00 19.01.2022",
+        "IceHolesCount": 1,
+        "FontsCount": 1,
+        "globalid": 282672426
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.365264,
+          55.858626
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Пруд села Рождествено",
+        "DepartmentalAffiliation": "Префектура Северо-Западного административного округа города Москвы",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Митино",
+        "Location": "город Москва, Муравская улица, дом 24, корпус 1",
+        "LocationClarification": "Муравская улица, дом 24, корпус 1",
+        "Email": "mitino@mos.ru",
+        "WebSite": "mitino.mos.ru",
+        "HelpPhone": "(495) 751-14-92",
+        "ObjectHasDressingRoom": "да",
+        "ObjectHasEatery": "да",
+        "ObjectHasToilet": "да",
+        "ObjectHasWifi": "нет",
+        "ObjectHasFirstAidPost": "да",
+        "WorkingHours": "с 18:00 18.01.2022 до 18:00 19.01.2022",
+        "IceHolesCount": 1,
+        "FontsCount": 1,
+        "globalid": 282672427
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.453109,
+          55.861347
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Парк Северное Тушино",
+        "DepartmentalAffiliation": "Префектура Северо-Западного административного округа города Москвы",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Северное Тушино",
+        "Location": "город Москва, улица Свободы, дом 56",
+        "LocationClarification": "улица Свободы, дом 55",
+        "Email": "severnoe-tushino@mos.ru",
+        "WebSite": "severnoe-tushino.mos.ru",
+        "HelpPhone": "(495) 948-46-08",
+        "ObjectHasDressingRoom": "да",
+        "ObjectHasEatery": "да",
+        "ObjectHasToilet": "да",
+        "ObjectHasWifi": "нет",
+        "ObjectHasFirstAidPost": "да",
+        "WorkingHours": "с 18:00 18.01.2022 до 18:00 19.01.2022",
+        "IceHolesCount": 1,
+        "FontsCount": 1,
+        "globalid": 282672452
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.414965,
+          55.797159
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Строгинская пойма",
+        "DepartmentalAffiliation": "Префектура Северо-Западного административного округа города Москвы",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Строгино",
+        "Location": "город Москва, улица Твардовского, дом 16, корпус 3",
+        "LocationClarification": "улица Твардовского, дом 16, корпус 3",
+        "Email": "strogino@ru.mos.ru",
+        "WebSite": "strogino.mos.ru/",
+        "HelpPhone": "(495) 750-67-78",
+        "ObjectHasDressingRoom": "да",
+        "ObjectHasEatery": "да",
+        "ObjectHasToilet": "да",
+        "ObjectHasWifi": "нет",
+        "ObjectHasFirstAidPost": "да",
+        "WorkingHours": "с 12:00 18.01.2022 до 18:00 19.01.2022",
+        "IceHolesCount": 1,
+        "FontsCount": 1,
+        "globalid": 282672453
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.401153,
+          55.821766
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Кировская пойма",
+        "DepartmentalAffiliation": "Префектура Северо-Западного административного округа города Москвы",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Строгино",
+        "Location": "город Москва, улица Исаковского, дом 6, корпус 1, строение 2",
+        "LocationClarification": "улица Исаковского, дом 6, корпус 1, строение 2",
+        "Email": "strogino@ru.mos.ru",
+        "WebSite": "strogino.mos.ru/",
+        "HelpPhone": "(495) 750-67-78",
+        "ObjectHasDressingRoom": "да",
+        "ObjectHasEatery": "да",
+        "ObjectHasToilet": "да",
+        "ObjectHasWifi": "нет",
+        "ObjectHasFirstAidPost": "да",
+        "WorkingHours": "с 18:00 18.01.2022 до 18:00 19.01.2022",
+        "IceHolesCount": 1,
+        "FontsCount": 1,
+        "globalid": 282672456
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.421742,
+          55.782353
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Серебряный бор",
+        "DepartmentalAffiliation": "Префектура Северо-Западного административного округа города Москвы",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Хорошёво-Мнёвники",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Хорошево-Мневники, Таманская улица, дом 91, строение 22",
+        "LocationClarification": "Малое Бездонное озеро",
+        "Email": "szao-hormn@mos.ru",
+        "WebSite": "horoshevo-mnevniki.mos.ru",
+        "HelpPhone": "(495) 944-96-01",
+        "ObjectHasDressingRoom": "да",
+        "ObjectHasEatery": "да",
+        "ObjectHasToilet": "да",
+        "ObjectHasWifi": "нет",
+        "ObjectHasFirstAidPost": "да",
+        "WorkingHours": "с 18:00 18.01.2022 до 18:00 19.01.2022",
+        "IceHolesCount": 1,
+        "FontsCount": 1,
+        "globalid": 282672464
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.460772,
+          55.772017
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Карамышевская набережная",
+        "DepartmentalAffiliation": "Префектура Северо-Западного административного округа города Москвы",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Хорошёво-Мнёвники",
+        "Location": "город Москва, Карамышевская набережная, дом 13, строение Б/Н/16",
+        "LocationClarification": "ПСС Карамышево",
+        "Email": "szao-hormn@mos.ru",
+        "WebSite": "horoshevo-mnevniki.mos.ru",
+        "HelpPhone": "(495) 944-96-01",
+        "ObjectHasDressingRoom": "да",
+        "ObjectHasEatery": "да",
+        "ObjectHasToilet": "да",
+        "ObjectHasWifi": "нет",
+        "ObjectHasFirstAidPost": "да",
+        "WorkingHours": "с 18:00 18.01.2022 до 18:00 19.01.2022",
+        "IceHolesCount": 1,
+        "FontsCount": 1,
+        "globalid": 282672471
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.173351,
+          55.255241
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Оборудованное место для крещенского купания в с. Богоявление",
+        "DepartmentalAffiliation": "Префектура Троицкого и Новомосковского административных округов города Москвы",
+        "AdmArea": "Троицкий административный округ",
+        "District": "поселение Вороновское",
+        "Location": "Российская Федерация, город Москва, внутригородская территория поселение Вороновское, село Богоявление, дом 1",
+        "LocationClarification": "Территория вблизи Храма Богоявления Господня",
+        "Email": "voronovoadm@mail.ru",
+        "WebSite": "voronovskoe.ru",
+        "HelpPhone": "(916) 288-86-77",
+        "ObjectHasDressingRoom": "да",
+        "ObjectHasEatery": "да",
+        "ObjectHasToilet": "да",
+        "ObjectHasWifi": "нет",
+        "ObjectHasFirstAidPost": "да",
+        "WorkingHours": "с 23:00 18.01.2022 до 01:00 19.01.2022",
+        "IceHolesCount": 1,
+        "FontsCount": 0,
+        "globalid": 282675245
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.405813,
+          55.673373
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Пруд Мещерский",
+        "DepartmentalAffiliation": "Префектура Западного административного округа города Москвы",
+        "AdmArea": "Западный административный округ",
+        "District": "район Солнцево",
+        "Location": "город Москва, Воскресенская улица, дом 3, строение А",
+        "LocationClarification": "ул. Воскресенская д.3а",
+        "Email": "solntsevo@mos.ru",
+        "WebSite": "solntsevo.mos.ru",
+        "HelpPhone": "(495) 435-22-20",
+        "ObjectHasDressingRoom": "да",
+        "ObjectHasEatery": "да",
+        "ObjectHasToilet": "да",
+        "ObjectHasWifi": "нет",
+        "ObjectHasFirstAidPost": "да",
+        "WorkingHours": "с 18:00 18.01.2022 до 18:00 19.01.2022",
+        "IceHolesCount": 1,
+        "FontsCount": 0,
+        "globalid": 282728332
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.350915,
+          55.792187
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Река Москва",
+        "DepartmentalAffiliation": "Префектура Западного административного округа города Москвы",
+        "AdmArea": "Западный административный округ",
+        "District": "район Кунцево",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Кунцево, улица Василия Ботылёва, дом 41",
+        "LocationClarification": "п. Рублево,ул. В. Ботылева д.41",
+        "Email": "knc.org@zao.mos.ru",
+        "WebSite": "kuntsevo.mos.ru",
+        "HelpPhone": "(495) 141-25-36",
+        "ObjectHasDressingRoom": "да",
+        "ObjectHasEatery": "да",
+        "ObjectHasToilet": "да",
+        "ObjectHasWifi": "нет",
+        "ObjectHasFirstAidPost": "да",
+        "WorkingHours": "с 18:00 18.01.2022 до 18:00 19.01.2022",
+        "IceHolesCount": 1,
+        "FontsCount": 0,
+        "globalid": 282728334
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.456138,
+          55.74027
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Река Москва, Солдатенковский парк",
+        "DepartmentalAffiliation": "Префектура Западного административного округа города Москвы",
+        "AdmArea": "Западный административный округ",
+        "District": "район Фили-Давыдково",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Фили-Давыдково, Большая Филёвская улица, дом 40, строение 1",
+        "LocationClarification": "ул. Б. Филевская, 40 а",
+        "Email": "uprava.fil-park@zao.mos.ru",
+        "WebSite": "filevsky-park.mos.ru",
+        "HelpPhone": "(499) 145-66-60",
+        "ObjectHasDressingRoom": "да",
+        "ObjectHasEatery": "да",
+        "ObjectHasToilet": "да",
+        "ObjectHasWifi": "нет",
+        "ObjectHasFirstAidPost": "да",
+        "WorkingHours": "с 18:00 18.01.2022 до 18:00 19.01.2022",
+        "IceHolesCount": 1,
+        "FontsCount": 0,
+        "globalid": 282728338
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.479427,
+          55.766086
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Река Москва, Филевский бульвар",
+        "DepartmentalAffiliation": "Префектура Западного административного округа города Москвы",
+        "AdmArea": "Западный административный округ",
+        "District": "район Филёвский Парк",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Филевский Парк, Филёвский бульвар, дом 21",
+        "LocationClarification": "Филёвский бульвар, дом 21",
+        "Email": "uprava.fil-park@zao.mos.ru",
+        "WebSite": "filevsky-park.mos.ru",
+        "HelpPhone": "(499) 145-66-60",
+        "ObjectHasDressingRoom": "да",
+        "ObjectHasEatery": "да",
+        "ObjectHasToilet": "да",
+        "ObjectHasWifi": "нет",
+        "ObjectHasFirstAidPost": "да",
+        "WorkingHours": "с 18:00 18.01.2022 до 18:00 19.01.2022",
+        "IceHolesCount": 1,
+        "FontsCount": 0,
+        "globalid": 282728339
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.448501,
+          55.80583
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Алые паруса",
+        "DepartmentalAffiliation": "Префектура Северо-Западного административного округа города Москвы",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Щукино",
+        "Location": "город Москва, Авиационная улица, владение 79, корпус 1, сооружение 3",
+        "LocationClarification": "Яхт-порт \"лые паруса\"",
+        "Email": "shukino-uprava@mos.ru",
+        "WebSite": "schukino.mos.ru",
+        "HelpPhone": "(499) 194-12-16",
+        "ObjectHasDressingRoom": "да",
+        "ObjectHasEatery": "да",
+        "ObjectHasToilet": "да",
+        "ObjectHasWifi": "нет",
+        "ObjectHasFirstAidPost": "да",
+        "WorkingHours": "с 18:00 18.01.2022 до 18:00 19.01.2022",
+        "IceHolesCount": 1,
+        "FontsCount": 1,
+        "globalid": 832186122
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.481306,
+          55.820101
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Парк Покровское-Стрешнево",
+        "DepartmentalAffiliation": "Префектура Северо-Западного административного округа города Москвы",
+        "AdmArea": "Северный административный округ",
+        "District": "Войковский район",
+        "Location": "город Москва, 5-й Войковский проезд, владение 2/1",
+        "LocationClarification": "4й пруд на р.Чернушка",
+        "Email": "szao-pstreshnevo@mos.ru",
+        "WebSite": "pokrov-streshnevo.mos.ru",
+        "HelpPhone": "(495) 491-30-50",
+        "ObjectHasDressingRoom": "да",
+        "ObjectHasEatery": "нет",
+        "ObjectHasToilet": "да",
+        "ObjectHasWifi": "нет",
+        "ObjectHasFirstAidPost": "да",
+        "WorkingHours": "с 18:00 18.01.2022 до 18:00 19.01.2022",
+        "IceHolesCount": 1,
+        "FontsCount": 1,
+        "globalid": 905398623
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.511448,
+          55.844372
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Купель для крещенских купаний",
+        "DepartmentalAffiliation": "Префектура Северного административного округа города Москвы",
+        "AdmArea": "Северный административный округ",
+        "District": "Головинский район",
+        "Location": "город Москва, 1-й Лихачёвский переулок, дом 6",
+        "LocationClarification": "Головинские пруды",
+        "Email": "sao-golov@mos.ru",
+        "WebSite": "golovinskiy.mos.ru",
+        "HelpPhone": "(495) 708-05-11",
+        "ObjectHasDressingRoom": "да",
+        "ObjectHasEatery": "нет",
+        "ObjectHasToilet": "да",
+        "ObjectHasWifi": "нет",
+        "ObjectHasFirstAidPost": "да",
+        "WorkingHours": "с 18:00 18.01.2022 до 18:00 19.01.2022",
+        "IceHolesCount": 3,
+        "FontsCount": 0,
+        "globalid": 1022661900
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.474352,
+          55.570081
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Купель Храма Преображения Господня в поселке Коммунарка",
+        "DepartmentalAffiliation": "Префектура Троицкого и Новомосковского административных округов города Москвы",
+        "AdmArea": "Новомосковский административный округ",
+        "District": "поселение Сосенское",
+        "Location": "город Москва, поселение Сосенское, посёлок Коммунарка, Лазурная улица, владение 1",
+        "LocationClarification": "Поселок Коммунарка, ул. Лазурная, Храм Преображения Господня ",
+        "Email": "adm@sosenskoe-omsu.ru",
+        "WebSite": "sosenskoe.ru",
+        "HelpPhone": "(495) 817-89-59",
+        "ObjectHasDressingRoom": "да",
+        "ObjectHasEatery": "да",
+        "ObjectHasToilet": "да",
+        "ObjectHasWifi": "нет",
+        "ObjectHasFirstAidPost": "да",
+        "WorkingHours": "с 21:00 18.01.2022 до 03:00 19.01.2022",
+        "IceHolesCount": 0,
+        "FontsCount": 1,
+        "globalid": 1022889749
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.751416,
+          55.794275
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Оборудование места для крещенского купания Купель «Русское подворье».",
+        "DepartmentalAffiliation": "Префектура Восточного административного округа города Москвы",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Измайлово",
+        "Location": "город Москва, Измайловское шоссе, владение 73Ж, строение 10",
+        "LocationClarification": "Измайловское шоссе, владение 73Ж, АНО \"Вернисаж в Измайлово\"",
+        "Email": "chudo2@i-kremlin.com",
+        "WebSite": "www.kremlin-izmailovo.com",
+        "HelpPhone": "(499) 215-54-37",
+        "ObjectHasDressingRoom": "да",
+        "ObjectHasEatery": "да",
+        "ObjectHasToilet": "да",
+        "ObjectHasWifi": "нет",
+        "ObjectHasFirstAidPost": "да",
+        "WorkingHours": "с 21:00 18.01.2022 до 05:00 19.01.2022",
+        "IceHolesCount": 0,
+        "FontsCount": 1,
+        "globalid": 1080966090
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.675716,
+          55.613977
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Верхний Царицынский пруд. Крещенская купель.",
+        "DepartmentalAffiliation": "Префектура Южного административного округа города Москвы",
+        "AdmArea": "Южный административный округ",
+        "District": "район Орехово-Борисово Северное",
+        "Location": "город Москва, Дольская улица, дом 1",
+        "LocationClarification": "Государственный музей-заповедник \"Царицыно\", Верхний Царицынский пруд.",
+        "Email": "sovbr@uao.mos.ru",
+        "WebSite": "bv.mos.ru",
+        "HelpPhone": "(495) 329-63-00",
+        "ObjectHasDressingRoom": "да",
+        "ObjectHasEatery": "нет",
+        "ObjectHasToilet": "да",
+        "ObjectHasWifi": "нет",
+        "ObjectHasFirstAidPost": "да",
+        "WorkingHours": "с 18:00 18.01.2022 до 12:00 19.01.2022",
+        "IceHolesCount": 1,
+        "FontsCount": 0,
+        "globalid": 1081799085
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.222339,
+          55.373163
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Оборудованное место для крещенского купания в с. Никольское",
+        "DepartmentalAffiliation": "Префектура Троицкого и Новомосковского административных округов города Москвы",
+        "AdmArea": "Троицкий административный округ",
+        "District": "поселение Вороновское",
+        "Location": "Российская Федерация, город Москва, внутригородская территория поселение Вороновское, село Никольское, Центральная улица, земельный участок 29",
+        "LocationClarification": "с. Никольское, д.29",
+        "Email": "voronovoadm@mail.ru",
+        "WebSite": "voronovskoe.ru",
+        "HelpPhone": "(926) 875-10-14",
+        "ObjectHasDressingRoom": "да",
+        "ObjectHasEatery": "да",
+        "ObjectHasToilet": "да",
+        "ObjectHasWifi": "нет",
+        "ObjectHasFirstAidPost": "нет",
+        "WorkingHours": "с 23:00 18.01.2022 до 02:00 19.01.2022",
+        "IceHolesCount": 1,
+        "FontsCount": 0,
+        "globalid": 1266880393
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.453141,
+          55.528704
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Оборудованное место для крещенского купания Храма Воскресения Христова",
+        "DepartmentalAffiliation": "Префектура Троицкого и Новомосковского административных округов города Москвы",
+        "AdmArea": "Новомосковский административный округ",
+        "District": "поселение Воскресенское",
+        "Location": "Российская Федерация, город Москва, внутригородская территория поселение Воскресенское, Калужское шоссе, 32-й км, дом 1, строение 1",
+        "LocationClarification": "п. Воскресенское, пос. Воскресенское, Клуб-отель \"Воскресенское\"",
+        "Email": "voskrsp@mail.ru",
+        "WebSite": "www.admspvoskresenskoe.ru",
+        "HelpPhone": "(495) 659-48-22",
+        "ObjectHasDressingRoom": "да",
+        "ObjectHasEatery": "да",
+        "ObjectHasToilet": "да",
+        "ObjectHasWifi": "нет",
+        "ObjectHasFirstAidPost": "да",
+        "WorkingHours": "с 23:00 18.01.2022 до 03:00 19.01.2022",
+        "IceHolesCount": 1,
+        "FontsCount": 0,
+        "globalid": 1266880959
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

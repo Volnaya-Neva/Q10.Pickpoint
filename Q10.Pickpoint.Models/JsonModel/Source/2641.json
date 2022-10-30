@@ -1,0 +1,698 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.616257953313,
+          55.756008024871
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московское лето. Цветочный Джем",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "Манежная площадь, владение 1А",
+        "Period": "24.08.2016-04.09.2016",
+        "AmountOfPlaces": 15,
+        "WorkingHours": "12:00-20:00",
+        "WorkingHoursWeekend": "11:00-21:00",
+        "globalid": 19679404
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.618308486307,
+          55.756592717059
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московское лето. Цветочный Джем",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "улица Охотный Ряд, владение 2",
+        "Period": "24.08.2016-04.09.2016",
+        "AmountOfPlaces": 18,
+        "WorkingHours": "12:00-20:00",
+        "WorkingHoursWeekend": "11:00-21:00",
+        "globalid": 19679405
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.619488110272,
+          55.757039510844
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московское лето. Цветочный Джем",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "площадь Революции",
+        "Period": "24.08.2016-04.09.2016",
+        "AmountOfPlaces": 15,
+        "WorkingHours": "12:00-20:00",
+        "WorkingHoursWeekend": "11:00-21:00",
+        "globalid": 19679406
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.646586863152,
+          55.758208647871
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московское лето. Цветочный Джем",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "Никольская улица",
+        "Period": "24.08.2016-04.09.2016",
+        "AmountOfPlaces": 14,
+        "WorkingHours": "12:00-20:00",
+        "WorkingHoursWeekend": "11:00-21:00",
+        "globalid": 19679407
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.633852273144,
+          55.766434547962
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московское лето. Цветочный Джем",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "Театральная площадь, владение 1",
+        "Period": "24.08.2016-04.09.2016",
+        "AmountOfPlaces": 14,
+        "WorkingHours": "12:00-20:00",
+        "WorkingHoursWeekend": "11:00-21:00",
+        "globalid": 19679408
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.647346704626,
+          55.757071037138
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московское лето. Цветочный Джем",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "Камергерский переулок",
+        "Period": "24.08.2016-04.09.2016",
+        "AmountOfPlaces": 12,
+        "WorkingHours": "12:00-20:00",
+        "WorkingHoursWeekend": "11:00-21:00",
+        "globalid": 19679409
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.647388512925,
+          55.753612597287
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московское лето. Цветочный Джем",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "улица Кузнецкий Мост, владение 7",
+        "Period": "24.08.2016-04.09.2016",
+        "AmountOfPlaces": 12,
+        "WorkingHours": "12:00-20:00",
+        "WorkingHoursWeekend": "11:00-21:00",
+        "globalid": 19679410
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.604908805649,
+          55.764325543732
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московское лето. Цветочный Джем",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "Пушкинская площадь",
+        "Period": "24.08.2016-04.09.2016",
+        "AmountOfPlaces": 15,
+        "WorkingHours": "12:00-20:00",
+        "WorkingHoursWeekend": "11:00-21:00",
+        "globalid": 19679412
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.606002520733,
+          55.765539513858
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московское лето. Цветочный Джем",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "Новопушкинский сквер",
+        "Period": "24.08.2016-04.09.2016",
+        "AmountOfPlaces": 15,
+        "WorkingHours": "12:00-20:00",
+        "WorkingHoursWeekend": "11:00-21:00",
+        "globalid": 19679413
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.601889876575,
+          55.761460007427
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московское лето. Цветочный Джем",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "Тверской бульвар",
+        "Period": "24.08.2016-04.09.2016",
+        "AmountOfPlaces": 14,
+        "WorkingHours": "12:00-20:00",
+        "WorkingHoursWeekend": "11:00-21:00",
+        "globalid": 19679414
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.646801045915,
+          55.752572334708
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московское лето. Цветочный Джем",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Арбат",
+        "Address": "улица Арбат, владение 19",
+        "Period": "24.08.2016-04.09.2016",
+        "AmountOfPlaces": 15,
+        "WorkingHours": "12:00-20:00",
+        "WorkingHoursWeekend": "11:00-21:00",
+        "globalid": 19679415
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.622234938104,
+          55.749405761374
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московское лето. Цветочный Джем",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Замоскворечье",
+        "Address": "Климентовский переулок, владение 8 (улица Большая Ордынка, владение 23, строение 3)",
+        "Period": "24.08.2016-04.09.2016",
+        "AmountOfPlaces": 12,
+        "WorkingHours": "12:00-20:00",
+        "WorkingHoursWeekend": "11:00-21:00",
+        "globalid": 19679416
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.609258845008,
+          55.745828095233
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московское лето. Цветочный Джем",
+        "AdmArea": "Северный административный округ",
+        "District": "Дмитровский район",
+        "Address": "Ангарские пруды",
+        "Period": "24.08.2016-04.09.2016",
+        "AmountOfPlaces": 10,
+        "WorkingHours": "12:00-19:00",
+        "WorkingHoursWeekend": "11:00-19:00",
+        "globalid": 19679417
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.629935385454,
+          55.749676947506
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московское лето. Цветочный Джем",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Южное Тушино",
+        "Address": "Сходненская улица, владение 56",
+        "Period": "24.08.2016-04.09.2016",
+        "AmountOfPlaces": 10,
+        "WorkingHours": "12:00-19:00",
+        "WorkingHoursWeekend": "11:00-19:00",
+        "globalid": 19679418
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.617627762074,
+          55.755375735474
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московское лето. Цветочный Джем",
+        "AdmArea": "Западный административный округ",
+        "District": "район Дорогомилово",
+        "Address": "площадь Европы",
+        "Period": "24.08.2016-04.09.2016",
+        "AmountOfPlaces": 10,
+        "WorkingHours": "12:00-19:00",
+        "WorkingHoursWeekend": "11:00-19:00",
+        "globalid": 19679419
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.86493409989,
+          55.743624154424
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московское лето. Цветочный Джем",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "Обручевский район",
+        "Address": "Воронцовский парк",
+        "Period": "24.08.2016-04.09.2016",
+        "AmountOfPlaces": 10,
+        "WorkingHours": "12:00-19:00",
+        "WorkingHoursWeekend": "11:00-19:00",
+        "globalid": 19679420
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.575227033928,
+          55.566997737806
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московское лето. Цветочный Джем",
+        "AdmArea": "Южный административный округ",
+        "District": "район Орехово-Борисово Северное",
+        "Address": "Ореховый бульвар, владение 14, строение 3",
+        "Period": "24.08.2016-04.09.2016",
+        "AmountOfPlaces": 10,
+        "WorkingHours": "12:00-19:00",
+        "WorkingHoursWeekend": "11:00-19:00",
+        "globalid": 19679421
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.766163547169,
+          55.706228146141
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московское лето. Цветочный Джем",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Кузьминки",
+        "Address": "улица Маршала Чуйкова, владение 3",
+        "Period": "24.08.2016-04.09.2016",
+        "AmountOfPlaces": 10,
+        "WorkingHours": "12:00-19:00",
+        "WorkingHoursWeekend": "11:00-19:00",
+        "globalid": 19679422
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.675921368394,
+          55.670452508641
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московское лето. Цветочный Джем",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Сокольники",
+        "Address": "Сокольническая площадь, владение 4А",
+        "Period": "24.08.2016-04.09.2016",
+        "AmountOfPlaces": 10,
+        "WorkingHours": "12:00-19:00",
+        "WorkingHoursWeekend": "11:00-19:00",
+        "globalid": 19679423
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.609320034875,
+          55.774650140703
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московское лето. Цветочный Джем",
+        "AdmArea": "Зеленоградский административный округ",
+        "District": "район Матушкино",
+        "Address": "площадь Юности, владение 2",
+        "Period": "24.08.2016-04.09.2016",
+        "AmountOfPlaces": 10,
+        "WorkingHours": "12:00-19:00",
+        "WorkingHoursWeekend": "11:00-19:00",
+        "globalid": 19679424
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.555343132002,
+          55.669359454715
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московское лето. Цветочный Джем",
+        "AdmArea": "Новомосковский административный округ",
+        "District": "поселение Щербинка",
+        "Address": "Железнодорожная улица, владение 44 (у ТЦ «Акварель»)",
+        "Period": "24.08.2016-04.09.2016",
+        "AmountOfPlaces": 10,
+        "WorkingHours": "12:00-19:00",
+        "WorkingHoursWeekend": "11:00-19:00",
+        "globalid": 19679425
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.359372587507,
+          55.846808353831
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московское лето. Цветочный Джем",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "Сквер около памятника Карлу Марксу",
+        "Period": "24.08.2016-04.09.2016",
+        "AmountOfPlaces": 8,
+        "WorkingHours": "12:00-20:00",
+        "WorkingHoursWeekend": "11:00-21:00",
+        "globalid": 171576004
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.628475935597,
+          55.766464836587
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московское лето. Цветочный Джем",
+        "AdmArea": "Центральный административный округ",
+        "District": "Мещанский район",
+        "Address": "улица Рождественка",
+        "Period": "24.08.2016-04.09.2016",
+        "AmountOfPlaces": 8,
+        "WorkingHours": "12:00-20:00",
+        "WorkingHoursWeekend": "11:00-21:00",
+        "globalid": 171576005
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.598617676325,
+          55.757943596404
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московское лето. Цветочный Джем",
+        "AdmArea": "Центральный административный округ",
+        "District": "Мещанский район",
+        "Address": "улица Кузнецкий Мост, владение 6/3",
+        "Period": "24.08.2016-04.09.2016",
+        "AmountOfPlaces": 8,
+        "WorkingHours": "12:00-20:00",
+        "WorkingHoursWeekend": "11:00-21:00",
+        "globalid": 171576006
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.74352058538,
+          55.613656903312
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московское лето. Цветочный Джем",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "Столешников переулок, владение 6-8, владение 10-14",
+        "Period": "24.08.2016-04.09.2016",
+        "AmountOfPlaces": 8,
+        "WorkingHours": "12:00-20:00",
+        "WorkingHoursWeekend": "11:00-21:00",
+        "globalid": 171576007
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.57097822316,
+          55.759329715449
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московское лето. Цветочный Джем",
+        "AdmArea": "Центральный административный округ",
+        "District": "Мещанский район",
+        "Address": "Тверской бульвар (у памятника Есенину)",
+        "Period": "24.08.2016-04.09.2016",
+        "AmountOfPlaces": 1,
+        "WorkingHours": "12:00-20:00",
+        "WorkingHoursWeekend": "11:00-21:00",
+        "globalid": 171576008
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.604043710241,
+          55.763524979551
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московское лето. Цветочный Джем",
+        "AdmArea": "Центральный административный округ",
+        "District": "Мещанский район",
+        "Address": "Тверской бульвар (у памятника Тимирязеву)",
+        "Period": "24.08.2016-04.09.2016",
+        "AmountOfPlaces": 6,
+        "WorkingHours": "12:00-20:00",
+        "WorkingHoursWeekend": "11:00-21:00",
+        "globalid": 171576009
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.619483528679,
+          55.757098382389
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московское лето. Цветочный Джем",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Замоскворечье",
+        "Address": "Болотная площадь",
+        "Period": "24.08.2016-04.09.2016",
+        "AmountOfPlaces": 12,
+        "WorkingHours": "12:00-20:00",
+        "WorkingHoursWeekend": "11:00-21:00",
+        "globalid": 171576011
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.618029150395,
+          55.756781166761
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московское лето. Цветочный Джем",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "Лаврушинский переулок",
+        "Period": "24.08.2016-04.09.2016",
+        "AmountOfPlaces": 2,
+        "WorkingHours": "12:00-20:00",
+        "WorkingHoursWeekend": "11:00-21:00",
+        "globalid": 171576012
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.297125930178,
+          55.468700082937
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московское лето. Цветочный Джем",
+        "AdmArea": "Троицкий административный округ",
+        "District": "поселение Троицк",
+        "Address": "Сиреневый бульвар, владение 1",
+        "Period": "24.08.2016-04.09.2016",
+        "AmountOfPlaces": 10,
+        "WorkingHours": "12:00-19:00",
+        "WorkingHoursWeekend": "11:00-19:00",
+        "globalid": 171576013
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.612308201183,
+          55.759430782957
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московское лето. Цветочный Джем",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Арбат",
+        "Address": "улица Новый Арбат, владение 5-11",
+        "Period": "24.08.2016-04.09.2016",
+        "AmountOfPlaces": 10,
+        "WorkingHours": "12:00-20:00",
+        "WorkingHoursWeekend": "11:00-21:00",
+        "globalid": 171635736
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.598457288906,
+          55.757919684585
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московское лето. Цветочный Джем",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Останкинский район",
+        "Address": "улица Хачатуряна, владение 13",
+        "Period": "24.08.2016-04.09.2016",
+        "AmountOfPlaces": 10,
+        "WorkingHours": "12:00-19:00",
+        "WorkingHoursWeekend": "11:00-19:00",
+        "globalid": 171664769
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.601857144451,
+          55.761348366867
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московское лето. Цветочный Джем",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Арбат",
+        "Address": "улица Новый Арбат, владение 17-21",
+        "Period": "24.08.2016-04.09.2016",
+        "AmountOfPlaces": 25,
+        "WorkingHours": "12:00-20:00",
+        "WorkingHoursWeekend": "11:00-21:00",
+        "globalid": 272437690
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

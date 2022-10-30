@@ -1,0 +1,511 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.610281705747,
+          55.761884692237
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московское варенье. Возвращение легенды",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "Тверская площадь",
+        "Period": "29.07.2022-07.08.2022",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-22:00",
+        "WorkingHoursWeekend": "11:00-22:00",
+        "WebSite": "mos.ru",
+        "globalid": 1006080948
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.523106336703,
+          55.831876243447
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московское варенье. Возвращение легенды",
+        "AdmArea": "Северный административный округ",
+        "District": "район Коптево",
+        "Address": "Коптевский бульвар, вл.18 (парк «Бригантина»)",
+        "Period": "29.07.2022-07.08.2022",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "11:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 1006080951
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.878659963499,
+          55.714095423841
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московское варенье. Возвращение легенды",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Косино-Ухтомский",
+        "Address": "ул. Святоозерская, вл.1",
+        "Period": "29.07.2022-07.08.2022",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "11:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 1006080954
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.766339778682,
+          55.706573696974
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московское варенье. Возвращение легенды",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Кузьминки",
+        "Address": "площадь Славы (Волгоградский пр-т, вл.119)",
+        "Period": "29.07.2022-07.08.2022",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "11:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 1006080957
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.743455171476,
+          55.613647563152
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московское варенье. Возвращение легенды",
+        "AdmArea": "Южный административный округ",
+        "District": "район Зябликово",
+        "Address": "Ореховый б-р, вл.24, стр.1",
+        "Period": "29.07.2022-07.08.2022",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "11:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 1006080960
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.501899003873,
+          55.618886513549
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московское варенье. Возвращение легенды",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Тёплый Стан",
+        "Address": "ул. Теплый стан, вл.1Б",
+        "Period": "29.07.2022-07.08.2022",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "11:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 1006080963
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.479021549443,
+          55.703950095236
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московское варенье. Возвращение легенды",
+        "AdmArea": "Западный административный округ",
+        "District": "район Очаково-Матвеевское",
+        "Address": "ул. Матвеевская, вл.2",
+        "Period": "29.07.2022-07.08.2022",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "11:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 1006080966
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.386610507747,
+          55.89931754518
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московское варенье. Возвращение легенды",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Куркино",
+        "Address": "пересечение ул. Соколово-Мещерская и ул. Юровская",
+        "Period": "29.07.2022-07.08.2022",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "11:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 1006080968
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.601723670959,
+          55.761048138534
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московское варенье. Возвращение легенды",
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "Address": "Тверской бульвар",
+        "Period": "05.08.2022-07.08.2022",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-22:00",
+        "WorkingHoursWeekend": "11:00-22:00",
+        "WebSite": "mos.ru",
+        "globalid": 1006080949
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.60161280632,
+          55.861141426412
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московское варенье. Возвращение легенды",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Отрадное",
+        "Address": "Сквер по ул. Хачатуряна",
+        "Period": "29.07.2022-07.08.2022",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "11:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 1006080952
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.827365398625,
+          55.726951991617
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московское варенье. Возвращение легенды",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Вешняки",
+        "Address": "ул. Вешняковская, вл.16",
+        "Period": "29.07.2022-07.08.2022",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "11:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 1006080955
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.744692563901,
+          55.657746779787
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московское варенье. Возвращение легенды",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Марьино",
+        "Address": "ул. Перерва, вл.52",
+        "Period": "29.07.2022-07.08.2022",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "11:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 1006080958
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.764812707792,
+          55.632927647467
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московское варенье. Возвращение легенды",
+        "AdmArea": "Южный административный округ",
+        "District": "район Братеево",
+        "Address": "ст. м. «Алма-Атинская» (ул. Ключевая, вл.22, к. 1)",
+        "Period": "29.07.2022-07.08.2022",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "11:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 1006080961
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.575269937624,
+          55.567019582583
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московское варенье. Возвращение легенды",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Северное Бутово",
+        "Address": "бульвар Дмитрия Донского, вл.11",
+        "Period": "29.07.2022-07.08.2022",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "11:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 1006080964
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.358375787626,
+          55.847254455051
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московское варенье. Возвращение легенды",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Митино",
+        "Address": "ул. Митинская, вл.31",
+        "Period": "29.07.2022-07.08.2022",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "11:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 1006080967
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.61930823337,
+          55.757083444972
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московское варенье. Возвращение легенды",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "Площадь Революции",
+        "Period": "29.07.2022-07.08.2022",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-22:00",
+        "WorkingHoursWeekend": "11:00-22:00",
+        "WebSite": "mos.ru",
+        "globalid": 1006080947
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.625089287758,
+          55.740783017265
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московское варенье. Возвращение легенды",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Замоскворечье",
+        "Address": "Климентовский пер. (у ст. м. Третьяковская)",
+        "Period": "29.07.2022-07.08.2022",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-22:00",
+        "WorkingHoursWeekend": "11:00-22:00",
+        "WebSite": "mos.ru",
+        "globalid": 1006080950
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.864758968135,
+          55.743712398236
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московское варенье. Возвращение легенды",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Новокосино",
+        "Address": "ул. Городецкая, вл.1",
+        "Period": "29.07.2022-07.08.2022",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "11:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 1006080953
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.800990343203,
+          55.82155911172
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московское варенье. Возвращение легенды",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Гольяново",
+        "Address": "сквер у Гольяновского пруда",
+        "Period": "29.07.2022-07.08.2022",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "11:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 1006080956
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.93009042718,
+          55.704623140413
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московское варенье. Возвращение легенды",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Некрасовка",
+        "Address": "сквер у ст. метро Некрасовка",
+        "Period": "29.07.2022-07.08.2022",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "11:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 1006080959
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.55543947198,
+          55.669448069225
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московское варенье. Возвращение легенды",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Черёмушки",
+        "Address": "ул. Профсоюзная, вл.41",
+        "Period": "29.07.2022-07.08.2022",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "11:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 1006080962
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.529933452824,
+          55.541788355707
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московское варенье. Возвращение легенды",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Южное Бутово",
+        "Address": "ул. Адмирала Руднева, вл.8",
+        "Period": "29.07.2022-07.08.2022",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "11:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 1006080965
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.155472040286,
+          55.975976934227
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московское варенье. Возвращение легенды",
+        "AdmArea": "Зеленоградский административный округ",
+        "District": "район Крюково",
+        "Address": "г. Зеленоград, 16 мкрн, бульварная зона ",
+        "Period": "29.07.2022-07.08.2022",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "11:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 1006080969
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

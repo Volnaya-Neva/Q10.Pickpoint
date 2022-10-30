@@ -1,0 +1,131 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.6728234565514,
+          55.7946018839192
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectName": "Государственное автономное учреждение культуры города Москвы «Парк культуры и отдыха «Сокольники»",
+        "NameSummer": "место катания на лошадях",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Сокольники",
+        "Address": "улица Сокольнический Вал, дом 1, строение 1",
+        "Email": "info@park.sokolniki.com",
+        "WebSite": "park.sokolniki.com",
+        "HelpPhone": "(499) 268-54-30",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "EquipmentRentalComments": "",
+        "HasTechService": "да",
+        "TechServiceComments": "Парк культуры и отдыха Сокольники бесплатно",
+        "HasDressingRoom": "нет",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "да",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.09-31.08",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "асфальтовое, бетонное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "PaidComments": "",
+        "DisabilityFriendly": "частично приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 479515727
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7494732175732,
+          55.7745350202914
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectName": "Парк (озелененная городская территория) «Измайловский Парк»",
+        "NameSummer": "место катания на лошадях №2, в Центральной части парка",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Измайлово",
+        "Address": "аллея Большого Круга, дом 7",
+        "Email": "izmpark@mail.ru",
+        "WebSite": "izmailovsky-park.ru",
+        "HelpPhone": "(499) 166-61-19",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "EquipmentRentalComments": "",
+        "HasTechService": "да",
+        "TechServiceComments": "",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.01-31.12",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "асфальтовое, бетонное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "PaidComments": "Конная упряжка детский билет (с 3 до 13 лет) - 200 руб., взрослый - 250 руб., катание на санях (большой круг) - 2000 руб. Катание верхом - 300 руб. Катание на верблюде - 500 руб.",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 860007597
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7517128621007,
+          55.784476379317
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectName": "Парк (озелененная городская территория) «Измайловский Парк»",
+        "NameSummer": "место катания на лошадях №1, в Северной части парка",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Измайлово",
+        "Address": "аллея Большого Круга, дом 7",
+        "Email": "izmpark@mail.ru",
+        "WebSite": "izmailovsky-park.ru",
+        "HelpPhone": "(499) 166-61-19",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "EquipmentRentalComments": "",
+        "HasTechService": "да",
+        "TechServiceComments": "",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.01-31.12",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "асфальтовое, бетонное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "PaidComments": "Конная упряжка детский билет (с 3 до 13 лет) - 200 руб., взрослый - 250 руб., катание на санях (большой круг) - 2000 руб. Катание верхом - 300 руб. Катание на верблюде - 500 руб.",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 904455911
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

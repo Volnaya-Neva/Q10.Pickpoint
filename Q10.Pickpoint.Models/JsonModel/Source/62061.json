@@ -1,0 +1,1408 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.590227,
+          55.751192
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FairName": "Большой Николопесковский переулок, вл. 8",
+        "FairStatus": "Действующий",
+        "FairTotalArea": 217.58,
+        "SeatsNumber": 6,
+        "FairType": "Межрегиональная ярмарка",
+        "Goods": "Сельскохозяйственные и продовольственные товары",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Арбат",
+        "FunctionalZoning": "ae5f139b-960f-4576-ab02-7c9d3b26ec3d",
+        "AdditionalInformation": "",
+        "globalid": 1031068026
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.720996,
+          55.781874
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FairName": "Семеновская площадь, вл. 4",
+        "FairStatus": "Действующий",
+        "FairTotalArea": 3478,
+        "SeatsNumber": 68,
+        "FairType": "Межрегиональная ярмарка",
+        "Goods": "Сельскохозяйственные и продовольственные товары",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Соколиная Гора",
+        "FunctionalZoning": "dc608b6c-052d-4bcd-a644-fd7129518e8a",
+        "AdditionalInformation": "",
+        "globalid": 1031068027
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.480319,
+          55.704539
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FairName": "Матвеевская ул., вл. 2",
+        "FairStatus": "Действующий",
+        "FairTotalArea": 905.89,
+        "SeatsNumber": 30,
+        "FairType": "Межрегиональная ярмарка",
+        "Goods": "Сельскохозяйственные и продовольственные товары",
+        "AdmArea": "Западный административный округ",
+        "District": "район Очаково-Матвеевское",
+        "FunctionalZoning": "604605c9-3a26-449b-ace9-d92789535b74",
+        "AdditionalInformation": "",
+        "globalid": 1031068028
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.578038,
+          55.570755
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FairName": "Старокачаловская ул., вл. 5а",
+        "FairStatus": "Действующий",
+        "FairTotalArea": 792.2,
+        "SeatsNumber": 30,
+        "FairType": "Межрегиональная ярмарка",
+        "Goods": "Сельскохозяйственные и продовольственные товары",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Северное Бутово",
+        "FunctionalZoning": "e20d90da-0703-4ede-8767-ab2ca5276c5a",
+        "AdditionalInformation": "",
+        "globalid": 1031068029
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.519691,
+          55.785277
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FairName": "Проезд Березовой Рощи, вл. 2 (напротив)",
+        "FairStatus": "Действующий",
+        "FairTotalArea": 831.51,
+        "SeatsNumber": 30,
+        "FairType": "Межрегиональная ярмарка",
+        "Goods": "Сельскохозяйственные и продовольственные товары",
+        "AdmArea": "Северный административный округ",
+        "District": "Хорошёвский район",
+        "FunctionalZoning": "c428de26-9975-4320-9605-51aed8759669",
+        "AdditionalInformation": "",
+        "globalid": 1031068030
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.766117,
+          55.6998077411386
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FairName": "Юных Ленинцев ул., вл. 52",
+        "FairStatus": "Действующий",
+        "FairTotalArea": 1123.8,
+        "SeatsNumber": 44,
+        "FairType": "Межрегиональная ярмарка",
+        "Goods": "Сельскохозяйственные и продовольственные товары",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Кузьминки",
+        "FunctionalZoning": "067f56bd-9c21-49b5-80f9-989d90881566",
+        "AdditionalInformation": "",
+        "globalid": 1031214718
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.878057,
+          55.714044
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FairName": "Святоозерская ул., вл.1",
+        "FairStatus": "Действующий",
+        "FairTotalArea": 597,
+        "SeatsNumber": 30,
+        "FairType": "Межрегиональная ярмарка",
+        "Goods": "Сельскохозяйственные и продовольственные товары",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Косино-Ухтомский",
+        "FunctionalZoning": "542b17fc-a6ef-4cd8-a44f-081e6c9c66a6",
+        "AdditionalInformation": "",
+        "globalid": 1031068007
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.866727,
+          55.7438337538821
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FairName": "Городецкая ул, вл.1",
+        "FairStatus": "Действующий",
+        "FairTotalArea": 692.4,
+        "SeatsNumber": 20,
+        "FairType": "Межрегиональная ярмарка",
+        "Goods": "Сельскохозяйственные и продовольственные товары",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Новокосино",
+        "FunctionalZoning": "a6868695-b4c3-462b-8677-b83c262ca85f",
+        "AdditionalInformation": "",
+        "globalid": 1031068008
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.496003,
+          55.694114
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FairName": "Раменки ул, вл. 3",
+        "FairStatus": "Действующий",
+        "FairTotalArea": 708.3,
+        "SeatsNumber": 30,
+        "FairType": "Межрегиональная ярмарка",
+        "Goods": "Сельскохозяйственные и продовольственные товары",
+        "AdmArea": "Западный административный округ",
+        "District": "район Раменки",
+        "FunctionalZoning": "9f0fe445-43ee-42f3-9b2e-e3155b27908b",
+        "AdditionalInformation": "",
+        "globalid": 1031068009
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.796373,
+          55.716029
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FairName": "Академика Скрябина ул., вл. 4",
+        "FairStatus": "Действующий",
+        "FairTotalArea": 405.9,
+        "SeatsNumber": 14,
+        "FairType": "Межрегиональная ярмарка",
+        "Goods": "Сельскохозяйственные и продовольственные товары",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "Рязанский район",
+        "FunctionalZoning": "d057a1a5-26bd-410c-9f72-94d42d2e93db",
+        "AdditionalInformation": "",
+        "globalid": 1031068010
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.710144,
+          55.870415
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FairName": "Ярославское шоссе, вл. 111",
+        "FairStatus": "Действующий",
+        "FairTotalArea": 742.1,
+        "SeatsNumber": 30,
+        "FairType": "Межрегиональная ярмарка",
+        "Goods": "Сельскохозяйственные и продовольственные товары",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Ярославский район",
+        "FunctionalZoning": "f7158777-2f6c-4585-a9d9-b888961cb1ec",
+        "AdditionalInformation": "",
+        "globalid": 1031068011
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.76616,
+          55.707258
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FairName": "Волгоградский пр-т, вл. 119",
+        "FairStatus": "Действующий",
+        "FairTotalArea": 328.1,
+        "SeatsNumber": 14,
+        "FairType": "Межрегиональная ярмарка",
+        "Goods": "Сельскохозяйственные и продовольственные товары",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Кузьминки",
+        "FunctionalZoning": "7ee80559-9f30-4491-b0d9-b36040665741",
+        "AdditionalInformation": "",
+        "globalid": 1031068012
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.580974,
+          55.827907
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FairName": "Милашенкова ул, вл. 14",
+        "FairStatus": "Действующий",
+        "FairTotalArea": 746.7,
+        "SeatsNumber": 30,
+        "FairType": "Межрегиональная ярмарка",
+        "Goods": "Сельскохозяйственные и продовольственные товары",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Бутырский район",
+        "FunctionalZoning": "56d935c1-4cea-4668-be9c-1bda96daa86c",
+        "AdditionalInformation": "",
+        "globalid": 1031068013
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.585421,
+          55.86585
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FairName": "Алтуфьевское шоссе, вл. 30Г",
+        "FairStatus": "Действующий",
+        "FairTotalArea": 479.4,
+        "SeatsNumber": 14,
+        "FairType": "Межрегиональная ярмарка",
+        "Goods": "Сельскохозяйственные и продовольственные товары",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Отрадное",
+        "FunctionalZoning": "5684a046-92c2-47d8-9b41-3fd33a266b0f",
+        "AdditionalInformation": "",
+        "globalid": 1031068014
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.743981,
+          55.65746
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FairName": "Перерва ул, вл. 52",
+        "FairStatus": "Действующий",
+        "FairTotalArea": 815.21,
+        "SeatsNumber": 20,
+        "FairType": "Межрегиональная ярмарка",
+        "Goods": "Сельскохозяйственные и продовольственные товары",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Марьино",
+        "FunctionalZoning": "101f61ce-2896-462d-bebe-29a293394329",
+        "AdditionalInformation": "",
+        "globalid": 1031068015
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.61424,
+          55.855522
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FairName": "Отрадная ул., вл. 16",
+        "FairStatus": "Действующий",
+        "FairTotalArea": 894.9,
+        "SeatsNumber": 24,
+        "FairType": "Межрегиональная ярмарка",
+        "Goods": "Сельскохозяйственные и продовольственные товары",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Отрадное",
+        "FunctionalZoning": "edd9b01d-676f-4b36-a599-920f3ebaebe6",
+        "AdditionalInformation": "",
+        "globalid": 1031068016
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.766639,
+          55.747252
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FairName": "Зеленый пр-т, вл. 2",
+        "FairStatus": "Действующий",
+        "FairTotalArea": 878.7,
+        "SeatsNumber": 24,
+        "FairType": "Межрегиональная ярмарка",
+        "Goods": "Сельскохозяйственные и продовольственные товары",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Перово",
+        "FunctionalZoning": "18e7a2b1-d05d-4157-9c3b-3b590b3f5572",
+        "AdditionalInformation": "",
+        "globalid": 1031068017
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7058,
+          55.6146
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FairName": "Домодедовская ул, вл. 12",
+        "FairStatus": "Действующий",
+        "FairTotalArea": 466.4,
+        "SeatsNumber": 14,
+        "FairType": "Межрегиональная ярмарка",
+        "Goods": "Сельскохозяйственные и продовольственные товары",
+        "AdmArea": "Южный административный округ",
+        "District": "район Орехово-Борисово Северное",
+        "FunctionalZoning": "84a090c4-f984-42ab-a3a7-ee02f32cb9f9",
+        "AdditionalInformation": "",
+        "globalid": 1031068018
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.451545,
+          55.721745
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FairName": "Ватутина ул., вл. 18, к. 2",
+        "FairStatus": "Действующий",
+        "FairTotalArea": 846.7,
+        "SeatsNumber": 30,
+        "FairType": "Межрегиональная ярмарка",
+        "Goods": "Сельскохозяйственные и продовольственные товары",
+        "AdmArea": "Западный административный округ",
+        "District": "район Фили-Давыдково",
+        "FunctionalZoning": "36243fd5-8c5a-4bdb-ad4e-840e255df277",
+        "AdditionalInformation": "",
+        "globalid": 1031068019
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.150691,
+          55.97676
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FairName": "Бульварная зона 16 мкрн (у корп. 1606)",
+        "FairStatus": "Действующий",
+        "FairTotalArea": 472.15,
+        "SeatsNumber": 14,
+        "FairType": "Межрегиональная ярмарка",
+        "Goods": "Сельскохозяйственные и продовольственные товары",
+        "AdmArea": "Зеленоградский административный округ",
+        "District": "район Крюково",
+        "FunctionalZoning": "01531135-3baa-41ee-bd33-108117d7dc42",
+        "AdditionalInformation": "",
+        "globalid": 1031068020
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.639041,
+          55.874692
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FairName": "Полярная ул, вл. 10",
+        "FairStatus": "Действующий",
+        "FairTotalArea": 453.8,
+        "SeatsNumber": 14,
+        "FairType": "Межрегиональная ярмарка",
+        "Goods": "Сельскохозяйственные и продовольственные товары",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Южное Медведково",
+        "FunctionalZoning": "72de76f5-64d2-43f0-ad1a-68ea6da2b504",
+        "AdditionalInformation": "",
+        "globalid": 1031068021
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.828377,
+          55.778734
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FairName": "Челябинская ул., вл. 15",
+        "FairStatus": "Действующий",
+        "FairTotalArea": 761.1,
+        "SeatsNumber": 30,
+        "FairType": "Межрегиональная ярмарка",
+        "Goods": "Сельскохозяйственные и продовольственные товары",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Ивановское",
+        "FunctionalZoning": "4ccdcfaf-3f05-46a2-b61e-2354c033df8b",
+        "AdditionalInformation": "",
+        "globalid": 1031068022
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.800203,
+          55.821453
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FairName": "Сквер у Гольяновского пруда",
+        "FairStatus": "Действующий",
+        "FairTotalArea": 814.09,
+        "SeatsNumber": 30,
+        "FairType": "Межрегиональная ярмарка",
+        "Goods": "Сельскохозяйственные и продовольственные товары",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Гольяново",
+        "FunctionalZoning": "9dc6d748-c450-4998-bab3-cee992b3ddef",
+        "AdditionalInformation": "",
+        "globalid": 1031068023
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.682647,
+          55.774162
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FairName": "Бакунинская ул., вл. 24",
+        "FairStatus": "Действующий",
+        "FairTotalArea": 408.8,
+        "SeatsNumber": 14,
+        "FairType": "Межрегиональная ярмарка",
+        "Goods": "Сельскохозяйственные и продовольственные товары",
+        "AdmArea": "Центральный административный округ",
+        "District": "Басманный район",
+        "FunctionalZoning": "b0a9b53d-530f-4e4e-99a8-c8d38676b86a",
+        "AdditionalInformation": "",
+        "globalid": 1031265518
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.662158,
+          55.582725
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FairName": "Михневская ул., вл. 9, к. 1",
+        "FairStatus": "Действующий",
+        "FairTotalArea": 376.7,
+        "SeatsNumber": 14,
+        "FairType": "Межрегиональная ярмарка",
+        "Goods": "Сельскохозяйственные и продовольственные товары",
+        "AdmArea": "Южный административный округ",
+        "District": "район Бирюлёво Восточное",
+        "FunctionalZoning": "fff27cd9-0ed4-4d9f-adab-7e20be98c41a",
+        "AdditionalInformation": "",
+        "globalid": 1031214717
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.554881,
+          55.669134
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FairName": "Профсоюзная ул, вл. 41",
+        "FairStatus": "Действующий",
+        "FairTotalArea": 1888.6,
+        "SeatsNumber": 51,
+        "FairType": "Межрегиональная ярмарка",
+        "Goods": "Сельскохозяйственные и продовольственные товары",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Черёмушки",
+        "FunctionalZoning": "d9fefd44-040e-4b98-84f4-80651202c21e",
+        "AdditionalInformation": "",
+        "globalid": 1031214704
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.658205,
+          55.63304
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FairName": "Пролетарский пр-т, вл. 24",
+        "FairStatus": "Действующий",
+        "FairTotalArea": 415.8,
+        "SeatsNumber": 14,
+        "FairType": "Межрегиональная ярмарка",
+        "Goods": "Сельскохозяйственные и продовольственные товары",
+        "AdmArea": "Южный административный округ",
+        "District": "район Царицыно",
+        "FunctionalZoning": "ba67b204-4067-4784-8349-0c6a16cc9a5a",
+        "AdditionalInformation": "",
+        "globalid": 1031214705
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.46807,
+          55.775799
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FairName": "Саляма Адиля ул., вл. 4",
+        "FairStatus": "Действующий",
+        "FairTotalArea": 414,
+        "SeatsNumber": 14,
+        "FairType": "Межрегиональная ярмарка",
+        "Goods": "Сельскохозяйственные и продовольственные товары",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Хорошёво-Мнёвники",
+        "FunctionalZoning": "c2550ff6-0bce-42e3-ae35-e021eb370942",
+        "AdditionalInformation": "",
+        "globalid": 1048013436
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.39056,
+          55.715636
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FairName": "Барвихинская ул., вл. 6",
+        "FairStatus": "Действующий",
+        "FairTotalArea": 458.2,
+        "SeatsNumber": 14,
+        "FairType": "Межрегиональная ярмарка",
+        "Goods": "Сельскохозяйственные и продовольственные товары",
+        "AdmArea": "Западный административный округ",
+        "District": "Можайский район",
+        "FunctionalZoning": "99b49006-7ef1-4808-b508-a4fbf7190472",
+        "AdditionalInformation": "",
+        "globalid": 1048040394
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.658888,
+          55.581928
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FairName": "Булатниковский проезд, вл. 14",
+        "FairStatus": "Действующий",
+        "FairTotalArea": 829.5,
+        "SeatsNumber": 30,
+        "FairType": "Межрегиональная ярмарка",
+        "Goods": "Сельскохозяйственные и продовольственные товары",
+        "AdmArea": "Южный административный округ",
+        "District": "район Бирюлёво Западное",
+        "FunctionalZoning": "d37dcb90-0ac2-487f-babd-927f3d92bf9b",
+        "AdditionalInformation": "",
+        "globalid": 1048013443
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.541805,
+          55.889635
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FairName": "Пересечечение Дмитровского шоссе и ул. Лобненская",
+        "FairStatus": "Действующий",
+        "FairTotalArea": 533.99,
+        "SeatsNumber": 14,
+        "FairType": "Межрегиональная ярмарка",
+        "Goods": "Сельскохозяйственные и продовольственные товары",
+        "AdmArea": "Северный административный округ",
+        "District": "Дмитровский район",
+        "FunctionalZoning": "2f05a9b4-77c6-4a44-965e-95e8ce2d9136",
+        "AdditionalInformation": "",
+        "globalid": 1048013447
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.763894,
+          55.633387
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FairName": "Ст.м. Алма-Атинская",
+        "FairStatus": "Действующий",
+        "FairTotalArea": 916.05,
+        "SeatsNumber": 30,
+        "FairType": "Межрегиональная ярмарка",
+        "Goods": "Сельскохозяйственные и продовольственные товары",
+        "AdmArea": "Южный административный округ",
+        "District": "район Братеево",
+        "FunctionalZoning": "5c01c048-722c-41fd-9f0e-a4930712b56a",
+        "AdditionalInformation": "Ключевая",
+        "globalid": 1060350452
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.386985,
+          55.899119
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FairName": "Пересечение ул. Соколово-Мещерская и ул. Юровская",
+        "FairStatus": "Действующий",
+        "FairTotalArea": 1106.53,
+        "SeatsNumber": 30,
+        "FairType": "Межрегиональная ярмарка",
+        "Goods": "Сельскохозяйственные и продовольственные товары",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Куркино",
+        "FunctionalZoning": "1d5e5fcd-77ab-4c53-a64a-8e5d169b6048",
+        "AdditionalInformation": "",
+        "globalid": 1060351061
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.743565,
+          55.612987
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FairName": "Ореховый бульвар, вл. 24",
+        "FairStatus": "Действующий",
+        "FairTotalArea": 428.3,
+        "SeatsNumber": 14,
+        "FairType": "Межрегиональная ярмарка",
+        "Goods": "Сельскохозяйственные и продовольственные товары",
+        "AdmArea": "Южный административный округ",
+        "District": "район Зябликово",
+        "FunctionalZoning": "b6ab3f16-f85f-4949-8024-51ec8a674a68",
+        "AdditionalInformation": "",
+        "globalid": 1060350454
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.583227,
+          55.792618
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FairName": "Нижняя Масловка ул., вл. 2",
+        "FairStatus": "Действующий",
+        "FairTotalArea": 420.5,
+        "SeatsNumber": 14,
+        "FairType": "Межрегиональная ярмарка",
+        "Goods": "Сельскохозяйственные и продовольственные товары",
+        "AdmArea": "Северный административный округ",
+        "District": "Савёловский район",
+        "FunctionalZoning": "4236b54d-3803-489e-b9db-48deb80b8156",
+        "AdditionalInformation": "",
+        "globalid": 1073210883
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.536805,
+          55.873298
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FairName": "Бескудниковский бульвар, вл. 59",
+        "FairStatus": "Действующий",
+        "FairTotalArea": 362.8,
+        "SeatsNumber": 14,
+        "FairType": "Межрегиональная ярмарка",
+        "Goods": "Сельскохозяйственные и продовольственные товары",
+        "AdmArea": "Северный административный округ",
+        "District": "Бескудниковский район",
+        "FunctionalZoning": "40af081e-b1e2-4c22-b7b1-4b075c0b1216",
+        "AdditionalInformation": "",
+        "globalid": 1073210885
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.601735,
+          55.883235
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FairName": "Костромская ул., вл. 20",
+        "FairStatus": "Действующий",
+        "FairTotalArea": 462.18,
+        "SeatsNumber": 14,
+        "FairType": "Межрегиональная ярмарка",
+        "Goods": "Сельскохозяйственные и продовольственные товары",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Алтуфьевский район",
+        "FunctionalZoning": "bdb0ba6e-59b0-4f36-b2ae-1cd9a44e7122",
+        "AdditionalInformation": "",
+        "globalid": 1073210886
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.451095,
+          55.850756
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FairName": "Свободы ул., вл. 57",
+        "FairStatus": "Действующий",
+        "FairTotalArea": 769.15,
+        "SeatsNumber": 30,
+        "FairType": "Межрегиональная ярмарка",
+        "Goods": "Сельскохозяйственные и продовольственные товары",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Южное Тушино",
+        "FunctionalZoning": "a8cb9c7d-2a67-4a7e-a660-359f37e04d64",
+        "AdditionalInformation": "",
+        "globalid": 1073210887
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.56836,
+          55.860459
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FairName": "Дубнинская ул., вл.8А",
+        "FairStatus": "Действующий",
+        "FairTotalArea": 434,
+        "SeatsNumber": 14,
+        "FairType": "Межрегиональная ярмарка",
+        "Goods": "Сельскохозяйственные и продовольственные товары",
+        "AdmArea": "Северный административный округ",
+        "District": "район Восточное Дегунино",
+        "FunctionalZoning": "74c921d3-9d50-4fc1-974f-827139aea78d",
+        "AdditionalInformation": "",
+        "globalid": 1080974410
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.355025,
+          55.643097
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FairName": "Чоботовская ул., вл. 1",
+        "FairStatus": "Действующий",
+        "FairTotalArea": 363.49,
+        "SeatsNumber": 14,
+        "FairType": "Межрегиональная ярмарка",
+        "Goods": "Сельскохозяйственные и продовольственные товары",
+        "AdmArea": "Западный административный округ",
+        "District": "район Ново-Переделкино",
+        "FunctionalZoning": "ff0131eb-57ee-4e8f-a1d8-6b98fdf8dd5d",
+        "AdditionalInformation": "",
+        "globalid": 1080974411
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.525652,
+          55.831218
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FairName": "Коптевский бульвар, вл.18 (парк Бригантина)",
+        "FairStatus": "Действующий",
+        "FairTotalArea": 462.84,
+        "SeatsNumber": 12,
+        "FairType": "Межрегиональная ярмарка",
+        "Goods": "Сельскохозяйственные и продовольственные товары",
+        "AdmArea": "Северный административный округ",
+        "District": "район Коптево",
+        "FunctionalZoning": "8bc43c98-1814-4813-85bf-679bbb862438",
+        "AdditionalInformation": "",
+        "globalid": 1080974412
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.604463,
+          55.595667
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FairName": "Россошанский проезд, вл.8, к.2",
+        "FairStatus": "Действующий",
+        "FairTotalArea": 687.65,
+        "SeatsNumber": 30,
+        "FairType": "Межрегиональная ярмарка",
+        "Goods": "Сельскохозяйственные и продовольственные товары",
+        "AdmArea": "Южный административный округ",
+        "District": "район Чертаново Южное",
+        "FunctionalZoning": "3a3f8c19-b711-4b42-bff1-b8376e7b8346",
+        "AdditionalInformation": "",
+        "globalid": 1080974415
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.217622,
+          55.996854
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FairName": "Яблоневая аллея, между корп. 317А и 313Б",
+        "FairStatus": "Действующий",
+        "FairTotalArea": 722.16,
+        "SeatsNumber": 30,
+        "FairType": "Межрегиональная ярмарка",
+        "Goods": "Сельскохозяйственные и продовольственные товары",
+        "AdmArea": "Зеленоградский административный округ",
+        "District": "район Савёлки",
+        "FunctionalZoning": "c805c959-e761-471b-9dfc-c13af43b95f9",
+        "AdditionalInformation": "",
+        "globalid": 1081849895
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.681837,
+          55.581134
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FairName": "Липецкая ул., (дублер)",
+        "FairStatus": "Действующий",
+        "FairTotalArea": 795.5,
+        "SeatsNumber": 30,
+        "FairType": "Межрегиональная ярмарка",
+        "Goods": "Сельскохозяйственные и продовольственные товары",
+        "AdmArea": "Южный административный округ",
+        "District": "район Бирюлёво Восточное",
+        "FunctionalZoning": "fe6eca4c-ca09-4740-8ab1-f930cd892ca3",
+        "AdditionalInformation": "",
+        "globalid": 1104196369
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.819271,
+          55.743866
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FairName": "Кетчерская ул., вл.4Б (напротив)",
+        "FairStatus": "Действующий",
+        "FairTotalArea": 533.7,
+        "SeatsNumber": 14,
+        "FairType": "Межрегиональная ярмарка",
+        "Goods": "Сельскохозяйственные и продовольственные товары",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Вешняки",
+        "FunctionalZoning": "9f80daed-013d-422c-a15d-9d3a837dbe2e",
+        "AdditionalInformation": "",
+        "globalid": 1104196373
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.61371,
+          55.792761
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FairName": "Октябрьская ул., вл. 42",
+        "FairStatus": "Действующий",
+        "FairTotalArea": 462.3,
+        "SeatsNumber": 14,
+        "FairType": "Межрегиональная ярмарка",
+        "Goods": "Сельскохозяйственные и продовольственные товары",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Марьина Роща",
+        "FunctionalZoning": "ea4fc69d-086c-463a-876f-708c3cb3e92e",
+        "AdditionalInformation": "",
+        "globalid": 1124870722
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.532477,
+          55.541152
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FairName": "Южнобутовская ул.",
+        "FairStatus": "Действующий",
+        "FairTotalArea": 475.5,
+        "SeatsNumber": 14,
+        "FairType": "Межрегиональная ярмарка",
+        "Goods": "Сельскохозяйственные и продовольственные товары",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Южное Бутово",
+        "FunctionalZoning": "954eea64-20bc-4f17-8598-c97f62e1ff0f",
+        "AdditionalInformation": "",
+        "globalid": 1125827624
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.354434,
+          55.854318
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FairName": "Митинская ул., вл.56",
+        "FairStatus": "Действующий",
+        "FairTotalArea": 434,
+        "SeatsNumber": 14,
+        "FairType": "Межрегиональная ярмарка",
+        "Goods": "Сельскохозяйственные и продовольственные товары",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Митино",
+        "FunctionalZoning": "43b37cca-ca56-4643-81f9-00e6ebef4314",
+        "AdditionalInformation": "",
+        "globalid": 1125827625
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.859231,
+          55.69221
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FairName": "Саранская ул., вл.7",
+        "FairStatus": "Действующий",
+        "FairTotalArea": 422.68,
+        "SeatsNumber": 14,
+        "FairType": "Межрегиональная ярмарка",
+        "Goods": "Сельскохозяйственные и продовольственные товары",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Выхино-Жулебино",
+        "FunctionalZoning": "7ace7035-bea7-4f6b-819f-f669e4cf7ad0",
+        "AdditionalInformation": "",
+        "globalid": 1125827626
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.592142,
+          55.889839
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FairName": "Пришвина ул., вл. 3",
+        "FairStatus": "Действующий",
+        "FairTotalArea": 460.57,
+        "SeatsNumber": 14,
+        "FairType": "Межрегиональная ярмарка",
+        "Goods": "Сельскохозяйственные и продовольственные товары",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Бибирево",
+        "FunctionalZoning": "30cfd397-91ee-4453-828f-7f09bd0061c5",
+        "AdditionalInformation": "",
+        "globalid": 1139161926
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.393886,
+          55.649935
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FairName": "Ул. Богданова, вл. 50",
+        "FairStatus": "Действующий",
+        "FairTotalArea": 483.97,
+        "SeatsNumber": 14,
+        "FairType": "Межрегиональная ярмарка",
+        "Goods": "Сельскохозяйственные и продовольственные товары",
+        "AdmArea": "Западный административный округ",
+        "District": "район Солнцево",
+        "FunctionalZoning": "3fff2b2d-80c7-4823-9eb4-58aee8dcff69",
+        "AdditionalInformation": "",
+        "globalid": 1139164645
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.663538,
+          55.644652
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FairName": "Ул. Москворечье, вл.14",
+        "FairStatus": "Действующий",
+        "FairTotalArea": 429.6,
+        "SeatsNumber": 14,
+        "FairType": "Межрегиональная ярмарка",
+        "Goods": "Сельскохозяйственные и продовольственные товары",
+        "AdmArea": "Южный административный округ",
+        "District": "район Москворечье-Сабурово",
+        "FunctionalZoning": "2fce2264-0368-48af-8f8b-c2a4b178a68b",
+        "AdditionalInformation": "",
+        "globalid": 1139164650
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.601637,
+          55.860922
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FairName": "Сквер по ул. Хачатуряна",
+        "FairStatus": "Действующий",
+        "FairTotalArea": 432.2,
+        "SeatsNumber": 14,
+        "FairType": "Межрегиональная ярмарка",
+        "Goods": "Сельскохозяйственные и продовольственные товары",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Отрадное",
+        "FunctionalZoning": "57216ede-aaa8-4740-af39-0215a82fc8a9",
+        "AdditionalInformation": "",
+        "globalid": 1139496498
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.744585,
+          55.802032
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FairName": "Большая Черкизовская ул., вл. 125",
+        "FairStatus": "Действующий",
+        "FairTotalArea": 501.21,
+        "SeatsNumber": 14,
+        "FairType": "Межрегиональная ярмарка",
+        "Goods": "Сельскохозяйственные и продовольственные товары",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Преображенское",
+        "FunctionalZoning": "098c3d92-e49b-4367-8992-f7586b5936c2",
+        "AdditionalInformation": "",
+        "globalid": 1266566930
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.612371,
+          55.673285
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FairName": "Электролитный проезд,вл. 16А",
+        "FairStatus": "Действующий",
+        "FairTotalArea": 394.17,
+        "SeatsNumber": 14,
+        "FairType": "Межрегиональная ярмарка",
+        "Goods": "Сельскохозяйственные и продовольственные товары",
+        "AdmArea": "Южный административный округ",
+        "District": "Нагорный район",
+        "FunctionalZoning": "c9d601cd-ead7-4810-9341-601fed57b347",
+        "AdditionalInformation": "",
+        "globalid": 1266743451
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.929351,
+          55.704665
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FairName": "Ст.метро Некрасовка",
+        "FairStatus": "Действующий",
+        "FairTotalArea": 555.18,
+        "SeatsNumber": 30,
+        "FairType": "Межрегиональная ярмарка",
+        "Goods": "Сельскохозяйственные и продовольственные товары",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Некрасовка",
+        "FunctionalZoning": "084238a7-25dd-4b54-bd37-d3a504497dcb",
+        "AdditionalInformation": "",
+        "globalid": 1274067158
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6645,
+          55.791511
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FairName": "Сокольнический Вал, вл. 40 (напротив)",
+        "FairStatus": "Действующий",
+        "FairTotalArea": 394.17,
+        "SeatsNumber": 14,
+        "FairType": "Межрегиональная ярмарка",
+        "Goods": "Сельскохозяйственные и продовольственные товары",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Сокольники",
+        "FunctionalZoning": "06f11a1f-a64b-4cdd-ba12-46b153b78546",
+        "AdditionalInformation": "",
+        "globalid": 2365352766
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.562231,
+          55.507828
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FairName": "Вблизи ул. Железнодорожная, вл. 2Ас1",
+        "FairStatus": "Действующий",
+        "FairTotalArea": 528,
+        "SeatsNumber": 14,
+        "FairType": "Межрегиональная ярмарка",
+        "Goods": "Сельскохозяйственные и продовольственные товары",
+        "AdmArea": "Новомосковский административный округ",
+        "District": "поселение Щербинка",
+        "FunctionalZoning": "3461e548-754e-4352-b6ed-557a9067390e",
+        "AdditionalInformation": "",
+        "globalid": 2369722817
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.613549,
+          55.634015
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FairName": "Сумской проезд, вл.2Б",
+        "FairStatus": "Действующий",
+        "FairTotalArea": 746.73,
+        "SeatsNumber": 30,
+        "FairType": "Межрегиональная ярмарка",
+        "Goods": "Сельскохозяйственные и продовольственные товары",
+        "AdmArea": "Южный административный округ",
+        "District": "район Чертаново Северное",
+        "FunctionalZoning": "978a5767-e74b-48bb-acdd-eca8704975c2",
+        "AdditionalInformation": "",
+        "globalid": 2379769846
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.405435,
+          55.755003
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FairName": "Рублевское шоссе, вл. 50",
+        "FairStatus": "Действующий",
+        "FairTotalArea": 458.6,
+        "SeatsNumber": 14,
+        "FairType": "Межрегиональная ярмарка",
+        "Goods": "Сельскохозяйственные и продовольственные товары",
+        "AdmArea": "Западный административный округ",
+        "District": "район Крылатское",
+        "FunctionalZoning": "49a921f4-147b-4e36-9c51-50c64edfaecf",
+        "AdditionalInformation": "",
+        "globalid": 2386763576
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.571633,
+          55.817405
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FairName": "Академика Лисицына, вл. 13",
+        "FairStatus": "Действующий",
+        "FairTotalArea": 420.17,
+        "SeatsNumber": 14,
+        "FairType": "Межрегиональная ярмарка",
+        "Goods": "Сельскохозяйственные и продовольственные товары",
+        "AdmArea": "Северный административный округ",
+        "District": "Тимирязевский район",
+        "FunctionalZoning": "ec429eff-d957-441c-a25c-3ea4a6112241",
+        "AdditionalInformation": "",
+        "globalid": 2386763580
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

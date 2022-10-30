@@ -1,0 +1,2679 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            37.646538596987,
+            55.733242136351
+          ],
+          [
+            37.6452418435468,
+            55.7334241882341
+          ]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "CommonName": "Московский международный Дом музыки",
+        "FullName": "Государственное бюджетное учреждение культуры города Москвы «Московский международный Дом музыки»",
+        "ShortName": "ГБУК г. Москвы «ММДМ»",
+        "ChiefName": "Тимощук Сергей Евгениевич",
+        "ChiefPosition": "генеральный директор",
+        "ClarificationOfWorkingHours": "Указан режим работы касс. С условиями выбора, оплаты и получения билета, а также репертуаром можно ознакомиться на сайте Дома музыки.",
+        "WebSite": "mmdm.ru",
+        "globalid": 477012354
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            37.646538596987,
+            55.733242136351
+          ]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "CommonName": "Симфонический оркестр «Русская филармония»",
+        "FullName": "Государственное бюджетное учреждение культуры города Москвы «Симфонический оркестр Москвы «Русская филармония»",
+        "ShortName": "ГБУК г. Москвы «Симфонический оркестр Москвы «Русская филармония»",
+        "ChiefName": "Шиладжян Гаянэ Азариковна",
+        "ChiefPosition": "директор",
+        "ClarificationOfWorkingHours": "",
+        "WebSite": "orchestra.ru",
+        "globalid": 477012451,
+        "OrgInfoisdeleted0": 0,
+        "OrgInfoChiefPhone0": [
+          {
+            "isdeleted": 0,
+            "globalid": 150311,
+            "ChiefPhone": ""
+          }
+        ],
+        "OrgInfoFullName0": "",
+        "OrgInfoINN0": "",
+        "OrgInfoKPP0": "",
+        "OrgInfoOGRN0": "",
+        "OrgInfoLegalAddress0": "",
+        "OrgInfoChiefName0": "",
+        "OrgInfoChiefPosition0": null,
+        "OrgInfoglobalid0": 136862,
+        "ObjectAddressisdeleted0": 0,
+        "ObjectAddressAdmArea0": null,
+        "ObjectAddressDistrict0": null,
+        "ObjectAddressPostalCode0": "",
+        "ObjectAddressAddress0": "",
+        "ObjectAddressAvailability0": [
+          {
+            "isdeleted": 0,
+            "globalid": 131124,
+            "availablek": null,
+            "availableo": null,
+            "availablez": null,
+            "availables": null,
+            "availableelement": [
+              {
+                "isdeleted": 0,
+                "globalid": 5182442,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5182793,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5182794,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5183067,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5183897,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5184004,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5184005,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5184006,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5184247,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5184514,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5184974,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5185271,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5185336,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5185796,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5185797,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5185965,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5185966,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5185980,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5186094,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5186157,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5186202,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5186286,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5186610,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5186846,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5188203,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5188790,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5189117,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5189118,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5189639,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5189968,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5189969,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5189977,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5190287,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5190288,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5190301,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5190492,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5190702,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5190839,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5191054,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5191060,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5191099,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5191689,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5191690,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5191982,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              }
+            ]
+          }
+        ],
+        "ObjectAddressglobalid0": 252948,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "PublicPhoneglobalid0": 197504,
+        "PublicPhoneisdeleted1": 0,
+        "PublicPhonePublicPhone1": "",
+        "PublicPhoneglobalid1": 197729,
+        "Faxisdeleted0": 0,
+        "FaxFax0": "",
+        "Faxglobalid0": 134886,
+        "Emailisdeleted0": 0,
+        "EmailEmail0": "",
+        "Emailglobalid0": 145199,
+        "Emailisdeleted1": 0,
+        "EmailEmail1": "",
+        "Emailglobalid1": 145203,
+        "WorkingHoursisdeleted0": 0,
+        "WorkingHoursDayWeek0": null,
+        "WorkingHoursWorkHours0": "",
+        "WorkingHoursglobalid0": 984807,
+        "WorkingHoursisdeleted1": 0,
+        "WorkingHoursDayWeek1": null,
+        "WorkingHoursWorkHours1": "",
+        "WorkingHoursglobalid1": 985744,
+        "WorkingHoursisdeleted2": 0,
+        "WorkingHoursDayWeek2": null,
+        "WorkingHoursWorkHours2": "",
+        "WorkingHoursglobalid2": 987349,
+        "WorkingHoursisdeleted3": 0,
+        "WorkingHoursDayWeek3": null,
+        "WorkingHoursWorkHours3": "",
+        "WorkingHoursglobalid3": 986233,
+        "WorkingHoursisdeleted4": 0,
+        "WorkingHoursDayWeek4": null,
+        "WorkingHoursWorkHours4": "",
+        "WorkingHoursglobalid4": 988237,
+        "WorkingHoursisdeleted5": 0,
+        "WorkingHoursDayWeek5": null,
+        "WorkingHoursWorkHours5": "",
+        "WorkingHoursglobalid5": 984969,
+        "WorkingHoursisdeleted6": 0,
+        "WorkingHoursDayWeek6": null,
+        "WorkingHoursWorkHours6": "",
+        "WorkingHoursglobalid6": 986390
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            37.5975952200586,
+            55.7401804080339
+          ]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "CommonName": "Центр оперного пения имени Галины Вишневской",
+        "FullName": "Государственное бюджетное учреждение культуры города Москвы «Центр оперного пения имени Галины Вишневской»",
+        "ShortName": "ГБУК города Москвы «Центр оперного пения имени Галины Вишневской»",
+        "ChiefName": "Ростропович Ольга Мстиславовна",
+        "ChiefPosition": "художественный руководитель",
+        "ClarificationOfWorkingHours": "Указан режим работы касс. Перерыв с 15.00 до 16.00. С условиями выбора, оплаты и получения билета, а также репертуаром театра можно ознакомиться на сайте Центра",
+        "WebSite": "opera-centre.ru",
+        "globalid": 477012496
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            37.646538596987,
+            55.733242136351
+          ]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "CommonName": "Камерный оркестр «Виртуозы Москвы»",
+        "FullName": "Государственное бюджетное учреждение культуры города Москвы «Государственный камерный оркестр «Виртуозы Москвы»",
+        "ShortName": "ГБУК г. Москвы «Государственный камерный оркестр «Виртуозы Москвы»",
+        "ChiefName": "Ковалевский Григорий Ильич",
+        "ChiefPosition": "директор",
+        "ClarificationOfWorkingHours": "",
+        "WebSite": "mvco.ru",
+        "globalid": 477012520,
+        "OrgInfoisdeleted0": 0,
+        "OrgInfoChiefPhone0": [
+          {
+            "isdeleted": 0,
+            "globalid": 150755,
+            "ChiefPhone": ""
+          }
+        ],
+        "OrgInfoFullName0": "",
+        "OrgInfoINN0": "",
+        "OrgInfoKPP0": "",
+        "OrgInfoOGRN0": "",
+        "OrgInfoLegalAddress0": "",
+        "OrgInfoChiefName0": "",
+        "OrgInfoChiefPosition0": null,
+        "OrgInfoglobalid0": 137461,
+        "ObjectAddressisdeleted0": 0,
+        "ObjectAddressAdmArea0": null,
+        "ObjectAddressDistrict0": null,
+        "ObjectAddressPostalCode0": "",
+        "ObjectAddressAddress0": "",
+        "ObjectAddressAvailability0": [
+          {
+            "isdeleted": 0,
+            "globalid": 131329,
+            "availablek": null,
+            "availableo": null,
+            "availablez": null,
+            "availables": null,
+            "availableelement": [
+              {
+                "isdeleted": 0,
+                "globalid": 5252862,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5252868,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5252871,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5252884,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5252939,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5252940,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5252942,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5252943,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5252958,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5252963,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5252966,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5252976,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5252977,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5253042,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5253056,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5253075,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5253078,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5253089,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5253114,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5253138,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5253139,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5253142,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5253175,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5253203,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5253228,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5253229,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5253236,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5253241,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5253246,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5253259,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5253265,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5253355,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5253364,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5253375,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5253384,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5253427,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5253440,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5253449,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5253451,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5253459,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5253625,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5253720,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5253734,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5253747,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5253779,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5253796,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5253807,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5253808,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5253819,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5253832,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              }
+            ]
+          }
+        ],
+        "ObjectAddressglobalid0": 252949,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "PublicPhoneglobalid0": 196932,
+        "PublicPhoneisdeleted1": 0,
+        "PublicPhonePublicPhone1": "",
+        "PublicPhoneglobalid1": 197080,
+        "Faxisdeleted0": 0,
+        "FaxFax0": "",
+        "Faxglobalid0": 134993,
+        "Faxisdeleted1": 0,
+        "FaxFax1": "",
+        "Faxglobalid1": 135347,
+        "Emailisdeleted0": 0,
+        "EmailEmail0": "",
+        "Emailglobalid0": 144966,
+        "WorkingHoursisdeleted0": 0,
+        "WorkingHoursDayWeek0": null,
+        "WorkingHoursWorkHours0": "",
+        "WorkingHoursglobalid0": 987468,
+        "WorkingHoursisdeleted1": 0,
+        "WorkingHoursDayWeek1": null,
+        "WorkingHoursWorkHours1": "",
+        "WorkingHoursglobalid1": 986296,
+        "WorkingHoursisdeleted2": 0,
+        "WorkingHoursDayWeek2": null,
+        "WorkingHoursWorkHours2": "",
+        "WorkingHoursglobalid2": 983846,
+        "WorkingHoursisdeleted3": 0,
+        "WorkingHoursDayWeek3": null,
+        "WorkingHoursWorkHours3": "",
+        "WorkingHoursglobalid3": 986855,
+        "WorkingHoursisdeleted4": 0,
+        "WorkingHoursDayWeek4": null,
+        "WorkingHoursWorkHours4": "",
+        "WorkingHoursglobalid4": 983887,
+        "WorkingHoursisdeleted5": 0,
+        "WorkingHoursDayWeek5": null,
+        "WorkingHoursWorkHours5": "",
+        "WorkingHoursglobalid5": 988438,
+        "WorkingHoursisdeleted6": 0,
+        "WorkingHoursDayWeek6": null,
+        "WorkingHoursWorkHours6": "",
+        "WorkingHoursglobalid6": 986101
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            37.6610753789656,
+            55.7439520882314
+          ]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "CommonName": "Джазовый оркестр И. Бутмана",
+        "FullName": "Государственное бюджетное учреждение культуры города Москвы «Московский джазовый оркестр под управлением И. Бутмана»",
+        "ShortName": "ГБУК г. Москвы «Московский джазовый оркестр под управлением И. Бутмана»",
+        "ChiefName": "Гарипов Марат Тимерович",
+        "ChiefPosition": "директор",
+        "ClarificationOfWorkingHours": "",
+        "WebSite": "mosgorjazz.ru",
+        "globalid": 477012764,
+        "OrgInfoisdeleted0": 0,
+        "OrgInfoChiefPhone0": [
+          {
+            "isdeleted": 0,
+            "globalid": 150654,
+            "ChiefPhone": ""
+          }
+        ],
+        "OrgInfoFullName0": "",
+        "OrgInfoINN0": "",
+        "OrgInfoKPP0": "",
+        "OrgInfoOGRN0": "",
+        "OrgInfoLegalAddress0": "",
+        "OrgInfoChiefName0": "",
+        "OrgInfoChiefPosition0": null,
+        "OrgInfoglobalid0": 137118,
+        "ObjectAddressisdeleted0": 0,
+        "ObjectAddressAdmArea0": null,
+        "ObjectAddressDistrict0": null,
+        "ObjectAddressPostalCode0": "",
+        "ObjectAddressAddress0": "",
+        "ObjectAddressAvailability0": [
+          {
+            "isdeleted": 0,
+            "globalid": 131257,
+            "availablek": null,
+            "availableo": null,
+            "availablez": null,
+            "availables": null,
+            "availableelement": [
+              {
+                "isdeleted": 0,
+                "globalid": 5182295,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5182297,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5182447,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5183116,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5183272,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5183509,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5183510,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5183991,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5183992,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5184013,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5184049,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5184318,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5184319,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5184739,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5184980,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5184991,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5185087,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5185802,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5186118,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5186179,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5186221,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5186332,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5186887,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5186888,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5187222,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5187338,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5188071,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5188072,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5188222,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5188461,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5188715,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5188716,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5188845,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5188896,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5188897,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5189466,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5189467,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5189728,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5189892,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5189950,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5190103,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5190348,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5190510,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5190935,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5191147,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5191148,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5191523,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5191524,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5191565,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              }
+            ]
+          }
+        ],
+        "ObjectAddressglobalid0": 253387,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "PublicPhoneglobalid0": 196737,
+        "Faxisdeleted0": 0,
+        "FaxFax0": "",
+        "Faxglobalid0": 135176,
+        "Emailisdeleted0": 0,
+        "EmailEmail0": "",
+        "Emailglobalid0": 144790,
+        "Emailisdeleted1": 0,
+        "EmailEmail1": "",
+        "Emailglobalid1": 144887,
+        "WorkingHoursisdeleted0": 0,
+        "WorkingHoursDayWeek0": null,
+        "WorkingHoursWorkHours0": "",
+        "WorkingHoursglobalid0": 982879,
+        "WorkingHoursisdeleted1": 0,
+        "WorkingHoursDayWeek1": null,
+        "WorkingHoursWorkHours1": "",
+        "WorkingHoursglobalid1": 985745,
+        "WorkingHoursisdeleted2": 0,
+        "WorkingHoursDayWeek2": null,
+        "WorkingHoursWorkHours2": "",
+        "WorkingHoursglobalid2": 987205,
+        "WorkingHoursisdeleted3": 0,
+        "WorkingHoursDayWeek3": null,
+        "WorkingHoursWorkHours3": "",
+        "WorkingHoursglobalid3": 987912,
+        "WorkingHoursisdeleted4": 0,
+        "WorkingHoursDayWeek4": null,
+        "WorkingHoursWorkHours4": "",
+        "WorkingHoursglobalid4": 988570,
+        "WorkingHoursisdeleted5": 0,
+        "WorkingHoursDayWeek5": null,
+        "WorkingHoursWorkHours5": "",
+        "WorkingHoursglobalid5": 983297,
+        "WorkingHoursisdeleted6": 0,
+        "WorkingHoursDayWeek6": null,
+        "WorkingHoursWorkHours6": "",
+        "WorkingHoursglobalid6": 987354
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            37.584916432828,
+            55.747670301559
+          ],
+          [
+            37.584933458008,
+            55.747621651954
+          ]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "CommonName": "Театрально-концертный центр Павла Слободкина",
+        "FullName": "Государственное бюджетное учреждение культуры города Москвы «Московский театрально-концертный центр Павла Слободкина»",
+        "ShortName": "ГБУК г. Москвы «Московский театрально-концертный центр Павла Слободкина»",
+        "ChiefName": "Мельников Иван Александрович",
+        "ChiefPosition": "директор",
+        "ClarificationOfWorkingHours": "Кассы закрыты. С условиями выбора, оплаты и получения билета, а также репертуаром можно ознакомиться на сайте Центра",
+        "WebSite": "center-slobodkina.ru",
+        "globalid": 477012981
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            37.6310249324888,
+            55.7666205751673
+          ]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "CommonName": "Детская концертная студия «Непоседы»",
+        "FullName": "Государственное бюджетное учреждение культуры города Москвы «Детская концертная студия «Непоседы»",
+        "ShortName": "ГБУК г. Москвы «ДКС «Непоседы»",
+        "ChiefName": "Барышникова Татьяна Валентиновна",
+        "ChiefPosition": "директор",
+        "ClarificationOfWorkingHours": "Кассы закрыты. С мероприятиями концертной студии можно ознакомиться на сайте",
+        "WebSite": "neposedi.ru",
+        "globalid": 477013020
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            37.6636125365523,
+            55.7692694324289
+          ]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "CommonName": "Академический камерный хор",
+        "FullName": "Государственное бюджетное учреждение культуры города Москвы «Московский государственный академический камерный хор»",
+        "ShortName": "ГБУК г. Москвы «МГАКХ»",
+        "ChiefName": "Гольберг Тимофей Юрьевич",
+        "ChiefPosition": "художественный руководитель",
+        "ClarificationOfWorkingHours": "",
+        "WebSite": "choir.ru",
+        "globalid": 660364119
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            37.6779698981001,
+            55.7665976458862
+          ]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "CommonName": "Камерный оркестр «Музыка вива»",
+        "FullName": "Государственное бюджетное учреждение культуры города Москвы «Московский камерный оркестр «Музыка вива»",
+        "ShortName": "ГБУК г. Москвы «МКО «Музыка вива»",
+        "ChiefName": "Рудин Александр Израильевич",
+        "ChiefPosition": "художественный руководитель",
+        "ClarificationOfWorkingHours": "Кассы не работают. С условиями выбора, оплаты и получения билета, а также репертуаром оркестра можно ознакомиться на сайте",
+        "WebSite": "musicaviva.ru",
+        "globalid": 734253089,
+        "OrgInfoisdeleted0": 0,
+        "OrgInfoChiefPhone0": [
+          {
+            "isdeleted": 0,
+            "globalid": 151269,
+            "ChiefPhone": ""
+          }
+        ],
+        "OrgInfoFullName0": "",
+        "OrgInfoINN0": "",
+        "OrgInfoKPP0": "",
+        "OrgInfoOGRN0": "",
+        "OrgInfoLegalAddress0": "",
+        "OrgInfoChiefName0": "",
+        "OrgInfoChiefPosition0": null,
+        "OrgInfoglobalid0": 137841,
+        "ObjectAddressisdeleted0": 0,
+        "ObjectAddressAdmArea0": null,
+        "ObjectAddressDistrict0": null,
+        "ObjectAddressPostalCode0": "",
+        "ObjectAddressAddress0": "",
+        "ObjectAddressAvailability0": [
+          {
+            "isdeleted": 0,
+            "globalid": 132335,
+            "availablek": null,
+            "availableo": null,
+            "availablez": null,
+            "availables": null,
+            "availableelement": [
+              {
+                "isdeleted": 0,
+                "globalid": 5180703,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5180704,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5180720,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5180812,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5180820,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5180854,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5180868,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5180910,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5180984,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5181041,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5181043,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5181082,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5181083,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5181102,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5181141,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5181144,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5181198,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5181288,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5181299,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5181380,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5181497,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5181498,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5181572,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5181587,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5181634,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5181635,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5181678,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5181691,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5181694,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5181755,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5181823,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5181832,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5181849,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5181874,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5181893,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5181894,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5181895,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5181907,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5181989,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5181993,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5181994,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5181996,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5182021,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5182068,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5182069,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5182079,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5182082,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5182104,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5182179,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5182191,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              }
+            ]
+          }
+        ],
+        "ObjectAddressglobalid0": 254737,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "PublicPhoneglobalid0": 197992,
+        "PublicPhoneisdeleted1": 0,
+        "PublicPhonePublicPhone1": "",
+        "PublicPhoneglobalid1": 197995,
+        "Faxisdeleted0": 0,
+        "FaxFax0": "",
+        "Faxglobalid0": 135801,
+        "Emailisdeleted0": 0,
+        "EmailEmail0": "",
+        "Emailglobalid0": 145736,
+        "WorkingHoursisdeleted0": 0,
+        "WorkingHoursDayWeek0": null,
+        "WorkingHoursWorkHours0": "",
+        "WorkingHoursglobalid0": 989661,
+        "WorkingHoursisdeleted1": 0,
+        "WorkingHoursDayWeek1": null,
+        "WorkingHoursWorkHours1": "",
+        "WorkingHoursglobalid1": 989675,
+        "WorkingHoursisdeleted2": 0,
+        "WorkingHoursDayWeek2": null,
+        "WorkingHoursWorkHours2": "",
+        "WorkingHoursglobalid2": 989667,
+        "WorkingHoursisdeleted3": 0,
+        "WorkingHoursDayWeek3": null,
+        "WorkingHoursWorkHours3": "",
+        "WorkingHoursglobalid3": 989672,
+        "WorkingHoursisdeleted4": 0,
+        "WorkingHoursDayWeek4": null,
+        "WorkingHoursWorkHours4": "",
+        "WorkingHoursglobalid4": 989664,
+        "WorkingHoursisdeleted5": 0,
+        "WorkingHoursDayWeek5": null,
+        "WorkingHoursWorkHours5": "",
+        "WorkingHoursglobalid5": 989676,
+        "WorkingHoursisdeleted6": 0,
+        "WorkingHoursDayWeek6": null,
+        "WorkingHoursWorkHours6": "",
+        "WorkingHoursglobalid6": 989668
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            37.6355858912706,
+            55.7405598399513
+          ]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "CommonName": "Московский государственный симфонический оркестр для детей и юношества",
+        "FullName": "Государственное бюджетное учреждение культуры города Москвы «Московский государственный симфонический оркестр для детей и юношества»",
+        "ShortName": "ГБУК г. Москвы «МГСО», «Московский государственный симфонический оркестр»",
+        "ChiefName": "Рудин Иван Александрович",
+        "ChiefPosition": "художественный руководитель",
+        "ClarificationOfWorkingHours": "Указан режим работы администрации. Репетиции проходят на арендуемых репетиционных площадках. Репетиции оркестра могут проходить в концертных залах не по графику работы офиса.",
+        "WebSite": "mgso.moscow",
+        "globalid": 880854815
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            37.7095385547727,
+            55.7828531442977
+          ]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "CommonName": "Мужской камерный хор",
+        "FullName": "Государственное бюджетное учреждение культуры города Москвы «Вокальный ансамбль под руководством В.Рыбина «Мужской камерный хор»",
+        "ShortName": "ГБУК г. Москвы «Мужской камерный хор»",
+        "ChiefName": "Рыбин Валерий Михайлович",
+        "ChiefPosition": "художественный руководитель",
+        "ClarificationOfWorkingHours": "С условиями выбора, оплаты и получения билета можно ознакомиться на сайте театра. Концерты проводятся на сторонних площадках согласно графику концертов (собственная площадка отсутствует)",
+        "WebSite": "moschorus.ru",
+        "globalid": 880886313
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            37.63193670154,
+            55.779154760442
+          ]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "CommonName": "Хор солистов",
+        "FullName": "Государственное бюджетное учреждение культуры города Москвы «Хор солистов»",
+        "ShortName": "ГБУК г. Москвы «Хор солистов»",
+        "ChiefName": "Турецкий Михаил Борисович",
+        "ChiefPosition": "художественный руководитель",
+        "ClarificationOfWorkingHours": "Кассы не работают. Информацию о хоре можно узнать на сайте",
+        "WebSite": "arthor.ru",
+        "globalid": 880886316,
+        "OrgInfoisdeleted0": 0,
+        "OrgInfoChiefPhone0": [
+          {
+            "isdeleted": 0,
+            "globalid": 151525,
+            "ChiefPhone": ""
+          }
+        ],
+        "OrgInfoFullName0": "",
+        "OrgInfoINN0": "",
+        "OrgInfoKPP0": "",
+        "OrgInfoOGRN0": "",
+        "OrgInfoLegalAddress0": "",
+        "OrgInfoChiefName0": "",
+        "OrgInfoChiefPosition0": null,
+        "OrgInfoglobalid0": 138083,
+        "ObjectAddressisdeleted0": 0,
+        "ObjectAddressAdmArea0": null,
+        "ObjectAddressDistrict0": null,
+        "ObjectAddressPostalCode0": "",
+        "ObjectAddressAddress0": "",
+        "ObjectAddressAvailability0": [
+          {
+            "isdeleted": 0,
+            "globalid": 132776,
+            "availablek": null,
+            "availableo": null,
+            "availablez": null,
+            "availables": null,
+            "availableelement": [
+              {
+                "isdeleted": 0,
+                "globalid": 5183150,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5183538,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5183771,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5183772,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5185036,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5185195,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5187648,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5187722,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5189562,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5189875,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5190191,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5191359,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5191421,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5191549,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5191767,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 5191768,
+                "Groupmgn": null,
+                "Areamgn": null,
+                "Elementmgn": null,
+                "availabledegree": null,
+                "availableindex": null
+              }
+            ]
+          }
+        ],
+        "ObjectAddressglobalid0": 256014,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "PublicPhoneglobalid0": 198386,
+        "Faxisdeleted0": 0,
+        "FaxFax0": "",
+        "Faxglobalid0": 135968,
+        "Emailisdeleted0": 0,
+        "EmailEmail0": "",
+        "Emailglobalid0": 146007,
+        "WorkingHoursisdeleted0": 0,
+        "WorkingHoursDayWeek0": null,
+        "WorkingHoursWorkHours0": "",
+        "WorkingHoursglobalid0": 991486,
+        "WorkingHoursisdeleted1": 0,
+        "WorkingHoursDayWeek1": null,
+        "WorkingHoursWorkHours1": "",
+        "WorkingHoursglobalid1": 991474,
+        "WorkingHoursisdeleted2": 0,
+        "WorkingHoursDayWeek2": null,
+        "WorkingHoursWorkHours2": "",
+        "WorkingHoursglobalid2": 991504,
+        "WorkingHoursisdeleted3": 0,
+        "WorkingHoursDayWeek3": null,
+        "WorkingHoursWorkHours3": "",
+        "WorkingHoursglobalid3": 991540,
+        "WorkingHoursisdeleted4": 0,
+        "WorkingHoursDayWeek4": null,
+        "WorkingHoursWorkHours4": "",
+        "WorkingHoursglobalid4": 991499,
+        "WorkingHoursisdeleted5": 0,
+        "WorkingHoursDayWeek5": null,
+        "WorkingHoursWorkHours5": "",
+        "WorkingHoursglobalid5": 991477,
+        "WorkingHoursisdeleted6": 0,
+        "WorkingHoursDayWeek6": null,
+        "WorkingHoursWorkHours6": "",
+        "WorkingHoursglobalid6": 991484
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            37.629076858224,
+            55.751654800689
+          ]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "CommonName": "Концертный зал «Зарядье»",
+        "FullName": "Государственное бюджетное учреждениекультуры города Москвы «Московский концертный зал «Зарядье»",
+        "ShortName": "ГБУК г. Москвы «МКЗ «Зарядье»",
+        "ChiefName": "Рудин Иван Александрович",
+        "ChiefPosition": "генеральный директор",
+        "ClarificationOfWorkingHours": "Указан режим работы касс зала. Подробная информация о приобретении билетов и репертуаре можно узнать на сайте концертного зала",
+        "WebSite": "zaryadyehall.com",
+        "globalid": 880899166
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            37.5200847862288,
+            55.8191803745043
+          ]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "CommonName": "Государственная капелла Москвы имени Вадима Судакова",
+        "FullName": "Государственное бюджетное учреждение культуры города Москвы «Государственная капелла Москвы имени Вадима Судакова»",
+        "ShortName": "ГБУК г. Москвы «Капелла Москвы»",
+        "ChiefName": "Судаков Анатолий Вадимович",
+        "ChiefPosition": "художественный руководитель",
+        "ClarificationOfWorkingHours": "Указано время работы администрации. Концерты проходят на съемных площадках",
+        "WebSite": "kapellasudakova.ru",
+        "globalid": 880899168
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            37.617112678948,
+            55.853217137234
+          ]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "CommonName": "«Русская душа» п.р. Л. Николаевой",
+        "FullName": "Государственное бюджетное учреждение культуры города Москвы «Московский культурный центр народного творчества «Русская душа» под руководством Людмилы Николаевой»",
+        "ShortName": "ГБУК г. Москвы «Московский культурный центр народного творчества «Русская душа» под руководством Людмилы Николаевой»",
+        "ChiefName": "Николаева Людмила Ивановна",
+        "ChiefPosition": "художественный руководитель",
+        "ClarificationOfWorkingHours": "Касса не работает. С информацией о репертуаре можно ознакомиться на сайте театра",
+        "WebSite": "ludmilanikolaeva.ru",
+        "globalid": 880899170
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            37.513637971133,
+            55.6654515956396
+          ]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "CommonName": "Киноконцертный зал «Эльдар»",
+        "FullName": "Государственное бюджетное учреждение культуры города Москвы «Киноконцертный зал «Эльдар»",
+        "ShortName": "ГБУК г. Москвы «Киноконцертный зал «Эльдар»",
+        "ChiefName": "Утенков Алексей Валерьевич",
+        "ChiefPosition": "директор",
+        "ClarificationOfWorkingHours": "",
+        "WebSite": "kinoklub-eldar.ru",
+        "globalid": 1266917666
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            37.570792444518,
+            55.784581739175
+          ],
+          [
+            37.6141159135089,
+            55.7662640642039
+          ],
+          [
+            37.497086,
+            55.750289
+          ],
+          [
+            37.622927055922,
+            55.760289220288
+          ],
+          [
+            37.6488717435859,
+            55.776074221716
+          ]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "CommonName": "Москонцерт",
+        "FullName": "Государственное бюджетное учреждение культуры города Москвы «Москонцерт»",
+        "ShortName": "ГБУК г. Москвы «Москонцерт»",
+        "ChiefName": "Бачурин Илья Викторович",
+        "ChiefPosition": "генеральный директор",
+        "ClarificationOfWorkingHours": "Указан режим работы касс. С мероприятиями можно ознакомиться на сайте Москонцерта",
+        "WebSite": "mosconcert.com",
+        "globalid": 2345487689
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            37.7483491074961,
+            55.6966921444489
+          ]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "CommonName": "Ансамбль духовной музыки «Благовест»",
+        "FullName": "Государственное бюджетное учреждение культуры города Москвы «Московский хоровой ансамбль духовной музыки «Благовест»",
+        "ShortName": "ГБУК г. Москвы «Московский хоровой ансамбль духовной музыки «Благовест»",
+        "ChiefName": "Федотов Гарри Александрович",
+        "ChiefPosition": "директор",
+        "ClarificationOfWorkingHours": "Кассы не работают. С условиями выбора, оплаты и получения билета, а также репертуаром ансамбля можно ознакомиться на сайте",
+        "WebSite": "blagovest-ensemble.ru",
+        "globalid": 2369529907
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

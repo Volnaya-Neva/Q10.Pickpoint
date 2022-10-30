@@ -1,0 +1,787 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.485455,
+          55.850643785006
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationaryObjectName": "Чайхона №1",
+        "ObjectType": "сезонное кафе",
+        "ParkName": {
+          "globalid": 4331813,
+          "value": "Парк «ДружбЫ»"
+        },
+        "AdmArea": "Северный административный округ",
+        "District": "район Левобережный",
+        "Address": "город Москва, Флотская улица, дом 3",
+        "FacilityArea": 151,
+        "globalid": 480597240
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.674436,
+          55.7956757689519
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationaryObjectName": "Кафе «Шашлычная»",
+        "ObjectType": "сезонное кафе",
+        "ParkName": {
+          "globalid": 4331866,
+          "value": "Парк культуры и отдыха «Сокольники»"
+        },
+        "AdmArea": "Восточный административный округ",
+        "District": "район Сокольники",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Сокольники, 2-й Лучевой просек, дом 2",
+        "FacilityArea": 168,
+        "globalid": 480594762
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.678113,
+          55.7954897688977
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationaryObjectName": "Кафе «Крафтед»",
+        "ObjectType": "сезонное кафе",
+        "ParkName": {
+          "globalid": 4331866,
+          "value": "Парк культуры и отдыха «Сокольники»"
+        },
+        "AdmArea": "Восточный административный округ",
+        "District": "район Сокольники",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Сокольники, проезд Сокольнического Круга, дом 5",
+        "FacilityArea": 373.51,
+        "globalid": 480560343
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.679264,
+          55.8003467703131
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationaryObjectName": "Кафе «Дубки»",
+        "ObjectType": "сезонное кафе",
+        "ParkName": {
+          "globalid": 4331866,
+          "value": "Парк культуры и отдыха «Сокольники»"
+        },
+        "AdmArea": "Восточный административный округ",
+        "District": "район Сокольники",
+        "Address": "город Москва, 6-й Лучевой просек, дом 6",
+        "FacilityArea": 140,
+        "globalid": 480539568
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.672535,
+          55.7985297697836
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationaryObjectName": "Кафе «Кафетерий»",
+        "ObjectType": "сезонное кафе",
+        "ParkName": {
+          "globalid": 4331866,
+          "value": "Парк культуры и отдыха «Сокольники»"
+        },
+        "AdmArea": "Восточный административный округ",
+        "District": "район Сокольники",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Сокольники, 3-й Лучевой просек, дом 4А",
+        "FacilityArea": 79,
+        "globalid": 480549133
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.670058,
+          55.7937747683981
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationaryObjectName": "Кафе «Фиалка»",
+        "ObjectType": "сезонное кафе",
+        "ParkName": {
+          "globalid": 4331866,
+          "value": "Парк культуры и отдыха «Сокольники»"
+        },
+        "AdmArea": "Восточный административный округ",
+        "District": "район Сокольники",
+        "Address": "город Москва, Песочная аллея, дом 5",
+        "FacilityArea": 214.57,
+        "globalid": 480912492
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6644909999998,
+          55.7936357683576
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationaryObjectName": "Кафе «THE Бассейн»",
+        "ObjectType": "сезонное кафе",
+        "ParkName": {
+          "globalid": 4331866,
+          "value": "Парк культуры и отдыха «Сокольники»"
+        },
+        "AdmArea": "Восточный административный округ",
+        "District": "район Сокольники",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Сокольники, Митьковский проезд, дом 1",
+        "FacilityArea": 174,
+        "globalid": 480891592
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.656918,
+          55.6557207284275
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationaryObjectName": "Кафе «Трапезная»",
+        "ObjectType": "сезонное кафе",
+        "ParkName": {
+          "globalid": 4331857,
+          "value": "Усадьба «Коломенское»"
+        },
+        "AdmArea": "Южный административный округ",
+        "District": "район Нагатинский Затон",
+        "Address": "город Москва, проспект Андропова, дом 39, строение 69",
+        "FacilityArea": 260,
+        "globalid": 480584268
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.601601,
+          55.7278257492427
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationaryObjectName": "Кафе ГАРАЖ",
+        "ObjectType": "сезонное кафе",
+        "ParkName": {
+          "globalid": 4331807,
+          "value": "Парк Горького"
+        },
+        "AdmArea": "Центральный административный округ",
+        "District": "район Якиманка",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Якиманка, улица Крымский Вал, дом 9, строение 32",
+        "FacilityArea": 76.16,
+        "globalid": 645561528
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.595864,
+          55.726669748908
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationaryObjectName": "Кафе «Тетя Мотя»",
+        "ObjectType": "сезонное кафе",
+        "ParkName": {
+          "globalid": 4331807,
+          "value": "Парк Горького"
+        },
+        "AdmArea": "Центральный административный округ",
+        "District": "район Якиманка",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Якиманка, улица Крымский Вал, дом 9, строение 52",
+        "FacilityArea": 296.94,
+        "globalid": 645561530
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.595864,
+          55.726669748908
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationaryObjectName": "Кафе «Тетя Мотя»",
+        "ObjectType": "сезонное кафе",
+        "ParkName": {
+          "globalid": 4331807,
+          "value": "Парк Горького"
+        },
+        "AdmArea": "Центральный административный округ",
+        "District": "район Якиманка",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Якиманка, улица Крымский Вал, дом 9, строение 52",
+        "FacilityArea": 184,
+        "globalid": 645561529
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6822260879421,
+          55.6184695687299
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationaryObjectName": "Кафе «Кофишенская»",
+        "ObjectType": "сезонное кафе",
+        "ParkName": {
+          "globalid": 4331869,
+          "value": "Усадьба «Царицыно»"
+        },
+        "AdmArea": "Южный административный округ",
+        "District": "район Орехово-Борисово Северное",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Орехово-Борисово Северное, Дольская улица, дом 10, строение 3",
+        "FacilityArea": 225,
+        "globalid": 1035338242
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.672583,
+          55.6187557178084
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationaryObjectName": "Кафе «Андерсон»",
+        "ObjectType": "сезонное кафе",
+        "ParkName": {
+          "globalid": 4331869,
+          "value": "Усадьба «Царицыно»"
+        },
+        "AdmArea": "Южный административный округ",
+        "District": "район Бирюлёво Восточное",
+        "Address": "город Москва, улица Тюрина, владение 1",
+        "FacilityArea": 141,
+        "globalid": 1035338243
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.672743,
+          55.618548717749
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationaryObjectName": "Кафе «Меркато»",
+        "ObjectType": "сезонное кафе",
+        "ParkName": {
+          "globalid": 4331869,
+          "value": "Усадьба «Царицыно»"
+        },
+        "AdmArea": "Южный административный округ",
+        "District": "район Бирюлёво Восточное",
+        "Address": "город Москва, улица Тюрина, владение 1",
+        "FacilityArea": 450,
+        "globalid": 1035011431
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.595848,
+          55.7241907481902
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationaryObjectName": "Ресторан «8 Oz»",
+        "ObjectType": "сезонное кафе",
+        "ParkName": {
+          "globalid": 4331807,
+          "value": "Парк Горького"
+        },
+        "AdmArea": "Центральный административный округ",
+        "District": "район Якиманка",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Якиманка, улица Крымский Вал, дом 9, строение 21",
+        "FacilityArea": 132.7,
+        "globalid": 1035011418
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.595443,
+          55.7240437481476
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationaryObjectName": "Ресторан «Лебединое озеро»",
+        "ObjectType": "сезонное кафе",
+        "ParkName": {
+          "globalid": 4331807,
+          "value": "Парк Горького"
+        },
+        "AdmArea": "Центральный административный округ",
+        "District": "район Якиманка",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Якиманка, улица Крымский Вал, дом 9, строение 22",
+        "FacilityArea": 97.4,
+        "globalid": 1035011416
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.595813,
+          55.7235207479962
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationaryObjectName": "Времена года",
+        "ObjectType": "сезонное кафе",
+        "ParkName": {
+          "globalid": 4331807,
+          "value": "Парк Горького"
+        },
+        "AdmArea": "Центральный административный округ",
+        "District": "район Якиманка",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Якиманка, улица Крымский Вал, дом 9, строение 20",
+        "FacilityArea": 1119.58,
+        "globalid": 1035011419
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.577369,
+          55.7640187597414
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationaryObjectName": "Кафе «ZOO CANTEEN»",
+        "ObjectType": "сезонное кафе",
+        "ParkName": {
+          "globalid": 4331871,
+          "value": "Московский Зоопарк"
+        },
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Пресненский, Большая Грузинская улица, дом 3, строение 1",
+        "FacilityArea": 116,
+        "globalid": 1035011433
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.669327,
+          55.7954867688969
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationaryObjectName": "Кафе «ДжиДжиГриль»",
+        "ObjectType": "сезонное кафе",
+        "ParkName": {
+          "globalid": 4331866,
+          "value": "Парк культуры и отдыха «Сокольники»"
+        },
+        "AdmArea": "Восточный административный округ",
+        "District": "район Сокольники",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Сокольники, 1-й Лучевой просек, дом 1",
+        "FacilityArea": 196.6,
+        "globalid": 1035011424
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.66542,
+          55.7943157685557
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationaryObjectName": "Кафе «ЧАЕ»",
+        "ObjectType": "сезонное кафе",
+        "ParkName": {
+          "globalid": 4331866,
+          "value": "Парк культуры и отдыха «Сокольники»"
+        },
+        "AdmArea": "Восточный административный округ",
+        "District": "район Сокольники",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Сокольники, Песочная аллея, дом 7А",
+        "FacilityArea": 209.24,
+        "globalid": 1035011429
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.626329,
+          55.7507287558824
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationaryObjectName": "Восход",
+        "ObjectType": "сезонное кафе",
+        "ParkName": {
+          "globalid": 660617055,
+          "value": "660617055"
+        },
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "город Москва, улица Варварка, дом 6, сооружение 1",
+        "FacilityArea": 200,
+        "globalid": 1035011435
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.626329,
+          55.7507287558824
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationaryObjectName": "Кафе «Гастрономический центр Зарядье»",
+        "ObjectType": "сезонное кафе",
+        "ParkName": {
+          "globalid": 660617055,
+          "value": "660617055"
+        },
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "город Москва, улица Варварка, дом 6, сооружение 1",
+        "FacilityArea": 516,
+        "globalid": 1035011436
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.754328,
+          55.7746067628191
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationaryObjectName": "Лесной уют",
+        "ObjectType": "сезонное кафе",
+        "ParkName": {
+          "globalid": 4331846,
+          "value": "Измайловский парк"
+        },
+        "AdmArea": "Восточный административный округ",
+        "District": "район Измайлово",
+        "Address": "город Москва, Народный проспект, дом 17, строение 24",
+        "FacilityArea": 243.3,
+        "globalid": 1035011421
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.672743,
+          55.618548717749
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationaryObjectName": "Кафе «PIZZAMENTО»",
+        "ObjectType": "сезонное кафе",
+        "ParkName": {
+          "globalid": 4331869,
+          "value": "Усадьба «Царицыно»"
+        },
+        "AdmArea": "Южный административный округ",
+        "District": "район Бирюлёво Восточное",
+        "Address": "город Москва, улица Тюрина, владение 1",
+        "FacilityArea": 100,
+        "globalid": 1035011432
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.604874,
+          55.7314367502887
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationaryObjectName": "Ресторан «Сыроварня»",
+        "ObjectType": "сезонное кафе",
+        "ParkName": {
+          "globalid": 4331807,
+          "value": "Парк Горького"
+        },
+        "AdmArea": "Центральный административный округ",
+        "District": "район Якиманка",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Якиманка, улица Крымский Вал, дом 9, строение 1",
+        "FacilityArea": 654,
+        "globalid": 1056302452
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.747989,
+          55.7762857633074
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationaryObjectName": "PIZZAMENTО",
+        "ObjectType": "сезонное кафе",
+        "ParkName": {
+          "globalid": 4331846,
+          "value": "Измайловский парк"
+        },
+        "AdmArea": "Восточный административный округ",
+        "District": "район Измайлово",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Измайлово, Московский проспект, дом 2, строение 2",
+        "FacilityArea": 99.6,
+        "globalid": 1056302453
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.574982,
+          55.7613167589564
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationaryObjectName": "Food on Wood",
+        "ObjectType": "сезонное кафе",
+        "ParkName": {
+          "globalid": 4331871,
+          "value": "Московский Зоопарк"
+        },
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Пресненский, улица Красная Пресня, дом 6/2, строение 1",
+        "FacilityArea": 71.4,
+        "globalid": 1056301815
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.554899,
+          55.7560917574391
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationaryObjectName": "Mates",
+        "ObjectType": "сезонное кафе",
+        "ParkName": {
+          "globalid": 4331849,
+          "value": "Парк Красная Пресня"
+        },
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Пресненский, Мантулинская улица, дом 5, строение 11",
+        "FacilityArea": 34.2,
+        "globalid": 2362353160
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.553762,
+          55.7559727574045
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationaryObjectName": "Ресторан Парк",
+        "ObjectType": "сезонное кафе",
+        "ParkName": {
+          "globalid": 4331849,
+          "value": "Парк Красная Пресня"
+        },
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Пресненский, Мантулинская улица, дом 5, строение 8",
+        "FacilityArea": 214.2,
+        "globalid": 2362353161
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.608618,
+          55.7705977616534
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationaryObjectName": "Веранда 32.05",
+        "ObjectType": "сезонное кафе",
+        "ParkName": {
+          "globalid": 4331847,
+          "value": "Сад Эрмитаж"
+        },
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "город Москва, улица Каретный Ряд, дом 3, строение 3",
+        "FacilityArea": 176,
+        "globalid": 2365471931
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.610584,
+          55.7708657617313
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationaryObjectName": "Кофейня 1554",
+        "ObjectType": "сезонное кафе",
+        "ParkName": {
+          "globalid": 4331847,
+          "value": "Сад Эрмитаж"
+        },
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Тверской, улица Каретный Ряд, дом 3, строение 16",
+        "FacilityArea": 8.61,
+        "globalid": 2365471930
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.669548,
+          55.7978877695965
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationaryObjectName": "Кафе «ФорРест»",
+        "ObjectType": "сезонное кафе",
+        "ParkName": {
+          "globalid": 4331866,
+          "value": "Парк культуры и отдыха «Сокольники»"
+        },
+        "AdmArea": "Восточный административный округ",
+        "District": "район Сокольники",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Сокольники, Митьковский проезд, дом 10",
+        "FacilityArea": 132.5,
+        "globalid": 2366578814
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.602763,
+          55.7319847504474
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationaryObjectName": "Ресторан «ЧеХарчо»",
+        "ObjectType": "сезонное кафе",
+        "ParkName": {
+          "globalid": 4331807,
+          "value": "Парк Горького"
+        },
+        "AdmArea": "Центральный административный округ",
+        "District": "район Якиманка",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Якиманка, улица Крымский Вал, дом 9, строение 2",
+        "FacilityArea": 761,
+        "globalid": 2373157377
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.672743,
+          55.618548717749
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationaryObjectName": "Кафе «Андерсон»",
+        "ObjectType": "сезонное кафе",
+        "ParkName": {
+          "globalid": 4331869,
+          "value": "Усадьба «Царицыно»"
+        },
+        "AdmArea": "Южный административный округ",
+        "District": "район Бирюлёво Восточное",
+        "Address": "город Москва, внутригородская территория муниципальный округ Бирюлево Восточное, улица Тюрина, дом 1",
+        "FacilityArea": 30,
+        "globalid": 2386404136
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

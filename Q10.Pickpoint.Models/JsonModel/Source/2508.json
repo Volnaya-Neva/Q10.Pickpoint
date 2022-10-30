@@ -1,0 +1,593 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.5953335700499,
+          55.750427507671
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Nameen": "Гипермаркет «Алтын»",
+        "IsNetObjecten": "да",
+        "OperatingCompanyen": "Алтын",
+        "TypeServiceen": "",
+        "AdmAreaen": "Czentral`ny'j administrativny'j okrug",
+        "Districten": "rajon Arbat",
+        "Addressen": "город Москва, улица Арбат, дом 23, строение 1",
+        "ClarificationOfWorkingHoursen": "",
+        "globalid": 637626858
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5162191766939,
+          55.781175806963
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Nameen": "Магазин «Хозтоваров»",
+        "IsNetObjecten": "нет",
+        "OperatingCompanyen": "",
+        "TypeServiceen": "",
+        "AdmAreaen": "Severny'j administrativny'j okrug",
+        "Districten": "Xoroshyovskij rajon",
+        "Addressen": "город Москва, улица Куусинена, дом 6, корпус 3",
+        "ClarificationOfWorkingHoursen": "",
+        "globalid": 637640933
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6299089697169,
+          55.7384214373993
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Nameen": "Правильные игрушки",
+        "IsNetObjecten": "да",
+        "OperatingCompanyen": "Правильные игрушки",
+        "TypeServiceen": "",
+        "AdmAreaen": "Czentral`ny'j administrativny'j okrug",
+        "Districten": "rajon Zamoskvorech`e",
+        "Addressen": "город Москва, Новокузнецкая улица, дом 6",
+        "ClarificationOfWorkingHoursen": "",
+        "globalid": 637647041
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4263648692541,
+          55.8508028450762
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Nameen": "Торговая фирма«Криста»",
+        "IsNetObjecten": "нет",
+        "OperatingCompanyen": "",
+        "TypeServiceen": "",
+        "AdmAreaen": "Severo-Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Severnoe Tushino",
+        "Addressen": "город Москва, бульвар Яна Райниса, дом 10",
+        "ClarificationOfWorkingHoursen": "",
+        "globalid": 637662379
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5162391857977,
+          55.7777832689467
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Nameen": "Магазин «Хозтоваров»",
+        "IsNetObjecten": "нет",
+        "OperatingCompanyen": "",
+        "TypeServiceen": "",
+        "AdmAreaen": "Severny'j administrativny'j okrug",
+        "Districten": "Xoroshyovskij rajon",
+        "Addressen": "город Москва, Хорошёвское шоссе, дом 88",
+        "ClarificationOfWorkingHoursen": "",
+        "globalid": 637704363
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.572917,
+          55.492686
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Nameen": "Castorama",
+        "IsNetObjecten": "да",
+        "OperatingCompanyen": "Castorama",
+        "TypeServiceen": "",
+        "AdmAreaen": "Novomoskovskij administrativny'j okrug",
+        "Districten": "poselenie Shherbinka",
+        "Addressen": "город Москва, город Щербинка, Восточная улица, дом 8",
+        "ClarificationOfWorkingHoursen": "",
+        "globalid": 637781280
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.43278,
+          55.657636
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Nameen": "Гипермаркет ОБИ",
+        "IsNetObjecten": "да",
+        "OperatingCompanyen": "ОБИ",
+        "TypeServiceen": "",
+        "AdmAreaen": "Novomoskovskij administrativny'j okrug",
+        "Districten": "poselenie Moskovskij",
+        "Addressen": "город Москва, поселение Московский, МКАД, 47-й километр, владение 15, строение 1",
+        "ClarificationOfWorkingHoursen": "",
+        "globalid": 638035643
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4255612992249,
+          55.7197373011084
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Nameen": "ПЭМ",
+        "IsNetObjecten": "нет",
+        "OperatingCompanyen": "",
+        "TypeServiceen": "",
+        "AdmAreaen": "Zapadny'j administrativny'j okrug",
+        "Districten": "Mozhajskij rajon",
+        "Addressen": "город Москва, Можайское шоссе, дом 25",
+        "ClarificationOfWorkingHoursen": "",
+        "globalid": 638315580
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4059479556317,
+          55.7632762817991
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Nameen": "FIX PRICE",
+        "IsNetObjecten": "да",
+        "OperatingCompanyen": "Fix Price",
+        "TypeServiceen": "",
+        "AdmAreaen": "Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Kry'latskoe",
+        "Addressen": "город Москва, Осенний бульвар, дом 21",
+        "ClarificationOfWorkingHoursen": "",
+        "globalid": 638317635
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.720816,
+          55.782744
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Nameen": "Гипермаркет Лофт",
+        "IsNetObjecten": "нет",
+        "OperatingCompanyen": "",
+        "TypeServiceen": "",
+        "AdmAreaen": "Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Sokolinaya Gora",
+        "Addressen": "город Москва, Семёновская площадь, дом 1",
+        "ClarificationOfWorkingHoursen": "",
+        "globalid": 638381507
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.884471,
+          55.7149187455069
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Nameen": "Леруа мерлен",
+        "IsNetObjecten": "да",
+        "OperatingCompanyen": "Леруа мерлен",
+        "TypeServiceen": "",
+        "AdmAreaen": "Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Kosino-Uxtomskij",
+        "Addressen": "город Москва, Святоозерская улица, дом 1",
+        "ClarificationOfWorkingHoursen": "",
+        "globalid": 638382422
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.884471,
+          55.7149187455069
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Nameen": "ОКЕЙ",
+        "IsNetObjecten": "да",
+        "OperatingCompanyen": "Окей",
+        "TypeServiceen": "",
+        "AdmAreaen": "Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Kosino-Uxtomskij",
+        "Addressen": "город Москва, Святоозерская улица, дом 1",
+        "ClarificationOfWorkingHoursen": "",
+        "globalid": 638382423
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.883123,
+          55.714876
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Nameen": "ЭЛЬДОРАДО",
+        "IsNetObjecten": "да",
+        "OperatingCompanyen": "ЭЛЬДОРАДО",
+        "TypeServiceen": "",
+        "AdmAreaen": "Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Kosino-Uxtomskij",
+        "Addressen": "город Москва, Святоозерская улица, дом 1",
+        "ClarificationOfWorkingHoursen": "",
+        "globalid": 638382445
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.884471,
+          55.7149187455069
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Nameen": "Декатлон",
+        "IsNetObjecten": "да",
+        "OperatingCompanyen": "Декатлон",
+        "TypeServiceen": "",
+        "AdmAreaen": "Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Kosino-Uxtomskij",
+        "Addressen": "город Москва, Святоозерская улица, дом 1",
+        "ClarificationOfWorkingHoursen": "",
+        "globalid": 638382447
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.834066,
+          55.70286
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Nameen": "Аскона ТД",
+        "IsNetObjecten": "нет",
+        "OperatingCompanyen": "",
+        "TypeServiceen": "",
+        "AdmAreaen": "Yugo-Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Vy'xino-Zhulebino",
+        "Addressen": "город Москва, 8-й километр Московской Кольцевой Автодороги, дом 3, корпус 2",
+        "ClarificationOfWorkingHoursen": "",
+        "globalid": 638386488
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.734569,
+          55.729691
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Nameen": "Леруа мерлен",
+        "IsNetObjecten": "да",
+        "OperatingCompanyen": "Леруа мерлен",
+        "TypeServiceen": "",
+        "AdmAreaen": "Yugo-Vostochny'j administrativny'j okrug",
+        "Districten": "Nizhegorodskij rajon",
+        "Addressen": "город Москва, Рязанский проспект, дом 2, корпус 3",
+        "ClarificationOfWorkingHoursen": "",
+        "globalid": 638390050
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5695590807095,
+          55.6563496211233
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Nameen": "Галактион",
+        "IsNetObjecten": "нет",
+        "OperatingCompanyen": "",
+        "TypeServiceen": "",
+        "AdmAreaen": "Yugo-Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Cheryomushki",
+        "Addressen": "город Москва, улица Каховка, дом 29А",
+        "ClarificationOfWorkingHoursen": "",
+        "globalid": 638390650
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.556236,
+          55.5653289999999
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Nameen": "МЕДИА МАРКТ",
+        "IsNetObjecten": "да",
+        "OperatingCompanyen": "Медиа Маркт",
+        "TypeServiceen": "",
+        "AdmAreaen": "Yugo-Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Severnoe Butovo",
+        "Addressen": "город Москва, улица Поляны, дом 8",
+        "ClarificationOfWorkingHoursen": "",
+        "globalid": 638440126
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5553894042969,
+          55.8999561440681
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Nameen": "Натуральный камень",
+        "IsNetObjecten": "нет",
+        "OperatingCompanyen": "",
+        "TypeServiceen": "",
+        "AdmAreaen": "Severo-Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Lianozovo",
+        "Addressen": "город Москва, Дмитровское шоссе, дом 108Б, строение 1",
+        "ClarificationOfWorkingHoursen": "",
+        "globalid": 638451154
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5553894042969,
+          55.8999561440681
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Nameen": "Краски",
+        "IsNetObjecten": "нет",
+        "OperatingCompanyen": "",
+        "TypeServiceen": "",
+        "AdmAreaen": "Severo-Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Lianozovo",
+        "Addressen": "город Москва, Дмитровское шоссе, дом 108Б, строение 1",
+        "ClarificationOfWorkingHoursen": "",
+        "globalid": 638451157
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.623988375405,
+          55.6334580456645
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Nameen": "Магазин «ОБИ»",
+        "IsNetObjecten": "да",
+        "OperatingCompanyen": "ОБИ",
+        "TypeServiceen": "",
+        "AdmAreaen": "Yuzhny'j administrativny'j okrug",
+        "Districten": "rajon Chertanovo Severnoe",
+        "Addressen": "город Москва, Варшавское шоссе, дом 97",
+        "ClarificationOfWorkingHoursen": "",
+        "globalid": 638456632
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.66505,
+          55.695906
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Nameen": "Уютерра",
+        "IsNetObjecten": "да",
+        "OperatingCompanyen": "Уютерра",
+        "TypeServiceen": "",
+        "AdmAreaen": "Yuzhny'j administrativny'j okrug",
+        "Districten": "Danilovskij rajon",
+        "Addressen": "город Москва, проспект Андропова, дом 8",
+        "ClarificationOfWorkingHoursen": "",
+        "globalid": 638469180
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.66505,
+          55.695906
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Nameen": "Техносила",
+        "IsNetObjecten": "да",
+        "OperatingCompanyen": "Техносила",
+        "TypeServiceen": "",
+        "AdmAreaen": "Yuzhny'j administrativny'j okrug",
+        "Districten": "Danilovskij rajon",
+        "Addressen": "город Москва, проспект Андропова, дом 8",
+        "ClarificationOfWorkingHoursen": "",
+        "globalid": 638469183
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7591295858793,
+          55.638912682118
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Nameen": "Магазин «DNS»",
+        "IsNetObjecten": "нет",
+        "OperatingCompanyen": "",
+        "TypeServiceen": "",
+        "AdmAreaen": "Yuzhny'j administrativny'j okrug",
+        "Districten": "rajon Brateevo",
+        "Addressen": "город Москва, улица Борисовские Пруды, дом 26, корпус 2",
+        "ClarificationOfWorkingHoursen": "",
+        "globalid": 638471993
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6653655437824,
+          55.7857721523577
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Nameen": "Леруа Мерлен",
+        "IsNetObjecten": "да",
+        "OperatingCompanyen": "Леруа мерлен",
+        "TypeServiceen": "",
+        "AdmAreaen": "Czentral`ny'j administrativny'j okrug",
+        "Districten": "Krasnosel`skij rajon",
+        "Addressen": "город Москва, Верхняя Красносельская улица, дом 3А",
+        "ClarificationOfWorkingHoursen": "",
+        "globalid": 638478021
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.494033,
+          55.6038387135331
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Nameen": "Ikea (Икеа)",
+        "IsNetObjecten": "да",
+        "OperatingCompanyen": "Ikea",
+        "TypeServiceen": "",
+        "AdmAreaen": "Novomoskovskij administrativny'j okrug",
+        "Districten": "poselenie Sosenskoe",
+        "Addressen": "город Москва, поселение Сосенское, Калужское шоссе, 22-й километр, дом 10",
+        "ClarificationOfWorkingHoursen": "",
+        "globalid": 638479258
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.300217,
+          55.799856
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Nameen": "Леруа мерлен",
+        "IsNetObjecten": "да",
+        "OperatingCompanyen": "Леруа мерлен",
+        "TypeServiceen": "",
+        "AdmAreaen": "Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Kunczevo",
+        "Addressen": "город Москва, Новорижское шоссе, 22-й километр, владение 1, строение 5",
+        "ClarificationOfWorkingHoursen": "",
+        "globalid": 638482151
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.423726,
+          55.630139
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Nameen": "Good's House",
+        "IsNetObjecten": "нет",
+        "OperatingCompanyen": "",
+        "TypeServiceen": "",
+        "AdmAreaen": "Novomoskovskij administrativny'j okrug",
+        "Districten": "poselenie Moskovskij",
+        "Addressen": "город Москва, поселение Московский, Киевское шоссе, 23-й километр, домовладение 8, строение 1",
+        "ClarificationOfWorkingHoursen": "",
+        "globalid": 638483013
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

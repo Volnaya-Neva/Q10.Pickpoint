@@ -1,0 +1,49 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.618213891874,
+          55.756717189766
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "10 лет Новой Москве",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "Переход от Манежной площади к площади Революции",
+        "Period": "01.07.2022-10.07.2022",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "11:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 1006080924
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.616425752749,
+          55.756032967531
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "10 лет Новой Москве",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "Манежная площадь",
+        "Period": "01.07.2022-10.07.2022",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "11:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 1006080923
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

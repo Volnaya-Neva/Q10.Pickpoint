@@ -1,0 +1,93 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.4375609483678,
+          55.7554585905021
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "RegisterIDen": 1013832,
+        "ObjectNameen": "Гребной канал Москва",
+        "NameSummeren": "Гребной канал",
+        "AdmAreaen": null,
+        "Districten": null,
+        "Addressen": "Крылатская улица, дом 2, строение 19",
+        "Emailen": "info@sport.center",
+        "WebSiteen": "canalmoscow.ru/",
+        "HelpPhoneen": "(499) 149-39-39",
+        "HelpPhoneExtensionen": "",
+        "ClarificationOfWorkingHoursSummeren": "",
+        "HasEquipmentRentalen": "нет",
+        "EquipmentRentalCommentsen": "",
+        "HasTechServiceen": "нет",
+        "TechServiceCommentsen": "",
+        "HasDressingRoomen": "да",
+        "HasEateryen": "да",
+        "HasToileten": "да",
+        "HasWifien": "нет",
+        "HasCashMachineen": "нет",
+        "HasFirstAidPosten": "да",
+        "HasMusicen": "нет",
+        "UsagePeriodSummeren": "01.04-30.11",
+        "Lightingen": null,
+        "SurfaceTypeSummeren": null,
+        "Seatsen": 2700,
+        "Paiden": null,
+        "PaidCommentsen": "",
+        "DisabilityFriendlyen": null,
+        "ServicesSummeren": null,
+        "DatasetSummeren": null,
+        "globalid": 930213647
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4250564521091,
+          55.8290679107287
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "RegisterIDen": 1057092,
+        "ObjectNameen": "База гребного слалома «Сходня»",
+        "NameSummeren": "гребная база и канал, Волоколамское шоссе, д. 112, вл. 3",
+        "AdmAreaen": null,
+        "Districten": null,
+        "Addressen": "Волоколамское шоссе, дом 112, корпус 3",
+        "Emailen": "mso@mos.sport",
+        "WebSiteen": "mos.sport",
+        "HelpPhoneen": "(495) 681-01-48",
+        "HelpPhoneExtensionen": "",
+        "ClarificationOfWorkingHoursSummeren": "",
+        "HasEquipmentRentalen": "нет",
+        "EquipmentRentalCommentsen": "",
+        "HasTechServiceen": "нет",
+        "TechServiceCommentsen": "",
+        "HasDressingRoomen": "да",
+        "HasEateryen": "нет",
+        "HasToileten": "да",
+        "HasWifien": "да",
+        "HasCashMachineen": "нет",
+        "HasFirstAidPosten": "да",
+        "HasMusicen": "нет",
+        "UsagePeriodSummeren": "01.04-30.10",
+        "Lightingen": null,
+        "SurfaceTypeSummeren": null,
+        "Seatsen": 0,
+        "Paiden": null,
+        "PaidCommentsen": "",
+        "DisabilityFriendlyen": null,
+        "ServicesSummeren": null,
+        "DatasetSummeren": null,
+        "globalid": 1124001163
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

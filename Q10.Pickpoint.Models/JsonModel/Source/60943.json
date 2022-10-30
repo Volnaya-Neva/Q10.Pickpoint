@@ -1,0 +1,723 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.5601168963841,
+          55.8028939304074
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Государственное бюджетное учреждение города Москвы «Московская ветеринарная станция по борьбе с болезнями животных»",
+        "ShortName": "ГБУ «Мосветстанция»",
+        "INN": "7713082400",
+        "KPP": "771401001",
+        "SignOfCapitalStructure": null,
+        "AdmArea": "Северный административный округ",
+        "District": "Савёловский район",
+        "Address": "город Москва, улица Юннатов, дом 16А",
+        "ClarificationOfWorkingHours": "",
+        "globalid": 886050960,
+        "PublicPhoneglobalid0": 6,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "WorkingHoursglobalid0": 36,
+        "WorkingHoursisdeleted0": 0,
+        "WorkingHoursDayOfWeek0": null,
+        "WorkingHoursHours0": "",
+        "WorkingHoursglobalid1": 37,
+        "WorkingHoursisdeleted1": 0,
+        "WorkingHoursDayOfWeek1": null,
+        "WorkingHoursHours1": "",
+        "WorkingHoursglobalid2": 38,
+        "WorkingHoursisdeleted2": 0,
+        "WorkingHoursDayOfWeek2": null,
+        "WorkingHoursHours2": "",
+        "WorkingHoursglobalid3": 39,
+        "WorkingHoursisdeleted3": 0,
+        "WorkingHoursDayOfWeek3": null,
+        "WorkingHoursHours3": "",
+        "WorkingHoursglobalid4": 40,
+        "WorkingHoursisdeleted4": 0,
+        "WorkingHoursDayOfWeek4": null,
+        "WorkingHoursHours4": "",
+        "WorkingHoursglobalid5": 41,
+        "WorkingHoursisdeleted5": 0,
+        "WorkingHoursDayOfWeek5": null,
+        "WorkingHoursHours5": "",
+        "WorkingHoursglobalid6": 42,
+        "WorkingHoursisdeleted6": 0,
+        "WorkingHoursDayOfWeek6": null,
+        "WorkingHoursHours6": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.661770080448,
+          55.783718363084
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Красносельская ветеринарная лечебница",
+        "ShortName": "Красносельская ВЛ",
+        "INN": "7708006274",
+        "KPP": "772501001",
+        "SignOfCapitalStructure": "да",
+        "AdmArea": "Центральный административный округ",
+        "District": "Красносельский район",
+        "Address": "Верхняя Красносельская улица, дом 14, строение 1",
+        "ClarificationOfWorkingHours": "",
+        "globalid": 886765344
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.528432081974,
+          55.844961255696
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Станция по борьбе с болезнями животных Северного и Северо-Западного административных округов города Москвы",
+        "ShortName": "СББЖ СиСЗАО г Москвы",
+        "INN": "7708006274",
+        "KPP": "772501001",
+        "SignOfCapitalStructure": "да",
+        "AdmArea": "Северный административный округ",
+        "District": "Головинский район",
+        "Address": "2-й Лихачевский переулок, дом 6",
+        "ClarificationOfWorkingHours": "",
+        "globalid": 886765510
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.63300680077,
+          55.818583838969
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Станция по борьбе с болезнями животных Центрального и Северо-Восточного административных округов города Москвы",
+        "ShortName": "СББЖ ЦиСВАО г Москвы",
+        "INN": "7708006274",
+        "KPP": "772501001",
+        "SignOfCapitalStructure": "да",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Останкинский район",
+        "Address": "улица Кондратюка, дом 7, строение 2",
+        "ClarificationOfWorkingHours": "",
+        "globalid": 886765591
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.602013648515,
+          55.859373559733
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Ветеринарный участок «Отрадное»",
+        "ShortName": "ВУ «Отрадное»",
+        "INN": "7708006274",
+        "KPP": "772501001",
+        "SignOfCapitalStructure": "да",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Отрадное",
+        "Address": "улица Отрадная, дом 2",
+        "ClarificationOfWorkingHours": "",
+        "globalid": 886765691
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.55033911705,
+          55.913283071484
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Ветеринарный участок «Северный»",
+        "ShortName": "ВУ «Северный»",
+        "INN": "7708006274",
+        "KPP": "772501001",
+        "SignOfCapitalStructure": "да",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Северный",
+        "Address": "шоссе Челобитьевское, д. 12, корп. 3",
+        "ClarificationOfWorkingHours": "",
+        "globalid": 886766087
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.674777345146,
+          55.85284757111
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Бабушкинская ветеринарная лечебница",
+        "ShortName": "Бабушкинская ВЛ",
+        "INN": "7708006274",
+        "KPP": "772501001",
+        "SignOfCapitalStructure": "да",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Ярославский район",
+        "Address": "Хибинский проезд, дом 2",
+        "ClarificationOfWorkingHours": "",
+        "globalid": 886766257
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.824005374676,
+          55.739321944366
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Станция по борьбе с болезнями животных Восточного и Юго-Восточного административных округов города Москвы",
+        "ShortName": "СББЖ ВиЮВАО г. Москвы",
+        "INN": "7708006274",
+        "KPP": "772501001",
+        "SignOfCapitalStructure": "да",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Вешняки",
+        "Address": "улица Старый Гай, дом 10А",
+        "ClarificationOfWorkingHours": "",
+        "globalid": 886766330
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.778613799638,
+          55.801403213426
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Первомайский ветеринарный участок",
+        "ShortName": "Первомайский ВУ",
+        "INN": "7708006274",
+        "KPP": "772501001",
+        "SignOfCapitalStructure": "да",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Измайлово",
+        "Address": "Сиреневый бульвар, дом 8 А",
+        "ClarificationOfWorkingHours": "",
+        "globalid": 886766390
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.698375092768,
+          55.742656976404
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Нижегородский ветеринарный участок",
+        "ShortName": "Нижегородский ВУ",
+        "INN": "7708006274",
+        "KPP": "772501001",
+        "SignOfCapitalStructure": "да",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "Нижегородский район",
+        "Address": "Старообрядческая улица, дом 30Б",
+        "ClarificationOfWorkingHours": "",
+        "globalid": 886766448
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.719623703152,
+          55.763178910668
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Калининская ветеринарная лечебница",
+        "ShortName": "Калининская ВЛ",
+        "INN": "7708006274",
+        "KPP": "772501001",
+        "SignOfCapitalStructure": "да",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Лефортово",
+        "Address": "Юрьевский переулок, дом 19",
+        "ClarificationOfWorkingHours": "",
+        "globalid": 886766707
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.663886252464,
+          55.617474829832
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Красногвардейская ветеринарная лечебница",
+        "ShortName": "Красногвардейская ВЛ",
+        "INN": "7708006274",
+        "KPP": "772501001",
+        "SignOfCapitalStructure": "да",
+        "AdmArea": "Южный административный округ",
+        "District": "район Царицыно",
+        "Address": "улица Каспийская, владение 40",
+        "ClarificationOfWorkingHours": "",
+        "globalid": 886766792
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.62602947481,
+          55.661295005656
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Советская ветеринарная лечебница",
+        "ShortName": "Советская ВЛ",
+        "INN": "7708006274",
+        "KPP": "772501001",
+        "SignOfCapitalStructure": "да",
+        "AdmArea": "Южный административный округ",
+        "District": "район Нагатино-Садовники",
+        "Address": "Старокаширское шоссе, дом 2",
+        "ClarificationOfWorkingHours": "",
+        "globalid": 886767020
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.60495243685,
+          55.705084447199
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Донская ветеринарная лечебница",
+        "ShortName": "Донская ВЛ",
+        "INN": "7708006274",
+        "KPP": "772501001",
+        "SignOfCapitalStructure": "да",
+        "AdmArea": "Южный административный округ",
+        "District": "Донской район",
+        "Address": "2-й Рощинский проезд, дом 7",
+        "ClarificationOfWorkingHours": "",
+        "globalid": 886767080
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.55727220301,
+          55.542263752421
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Бутовская ветеринарная лечебница",
+        "ShortName": "Бутовская ВЛ",
+        "INN": "7708006274",
+        "KPP": "772501001",
+        "SignOfCapitalStructure": "да",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Южное Бутово",
+        "Address": "Скобелевская улица, дом 46",
+        "ClarificationOfWorkingHours": "",
+        "globalid": 886767131
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.43536916422,
+          55.723370674748
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Кунцевская ветеринарная лечебница",
+        "ShortName": "Кунцевская ВЛ",
+        "INN": "7708006274",
+        "KPP": "772501001",
+        "SignOfCapitalStructure": "да",
+        "AdmArea": "Западный административный округ",
+        "District": "Можайский район",
+        "Address": "улица Багрицкого, дом 8Б",
+        "ClarificationOfWorkingHours": "",
+        "globalid": 886767277
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.359299588078,
+          55.787960301607
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Рублевский ветеринарный участок",
+        "ShortName": "Рублевский ВУ",
+        "INN": "7708006274",
+        "KPP": "772501001",
+        "SignOfCapitalStructure": "да",
+        "AdmArea": "Западный административный округ",
+        "District": "район Кунцево",
+        "Address": "Старолучанская улица, дом 48",
+        "ClarificationOfWorkingHours": "",
+        "globalid": 886767459
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.346984640021,
+          55.636258250886
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Солнцевский ветеринарный участок",
+        "ShortName": "Солнцевский ВУ",
+        "INN": "7708006274",
+        "KPP": "772501001",
+        "SignOfCapitalStructure": "да",
+        "AdmArea": "Западный административный округ",
+        "District": "район Ново-Переделкино",
+        "Address": "Боровское шоссе, дом 48",
+        "ClarificationOfWorkingHours": "",
+        "globalid": 886767534
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.437264778116,
+          55.842009752794
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Тушинская ветеринарная лечебница",
+        "ShortName": "Тушинская ВЛ",
+        "INN": "7708006274",
+        "KPP": "772501001",
+        "SignOfCapitalStructure": "да",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Южное Тушино",
+        "Address": "Цветочный проезд, дом 2",
+        "ClarificationOfWorkingHours": "",
+        "globalid": 886767600
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.247397611607,
+          55.983218216757
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Станция по борьбе с болезнями животных Зеленоградского административного округа города Москвы",
+        "ShortName": "СББЖ ЗелАО г Москвы",
+        "INN": "7708006274",
+        "KPP": "772501001",
+        "SignOfCapitalStructure": "да",
+        "AdmArea": "Зеленоградский административный округ",
+        "District": "район Савёлки",
+        "Address": "Сосновая аллея, дом 3",
+        "ClarificationOfWorkingHours": "",
+        "globalid": 886767649,
+        "PublicPhoneglobalid0": 71,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "WorkingHoursglobalid0": 366,
+        "WorkingHoursisdeleted0": 0,
+        "WorkingHoursDayOfWeek0": null,
+        "WorkingHoursHours0": "",
+        "WorkingHoursglobalid1": 367,
+        "WorkingHoursisdeleted1": 0,
+        "WorkingHoursDayOfWeek1": null,
+        "WorkingHoursHours1": "",
+        "WorkingHoursglobalid2": 368,
+        "WorkingHoursisdeleted2": 0,
+        "WorkingHoursDayOfWeek2": null,
+        "WorkingHoursHours2": "",
+        "WorkingHoursglobalid3": 369,
+        "WorkingHoursisdeleted3": 0,
+        "WorkingHoursDayOfWeek3": null,
+        "WorkingHoursHours3": "",
+        "WorkingHoursglobalid4": 370,
+        "WorkingHoursisdeleted4": 0,
+        "WorkingHoursDayOfWeek4": null,
+        "WorkingHoursHours4": "",
+        "WorkingHoursglobalid5": 371,
+        "WorkingHoursisdeleted5": 0,
+        "WorkingHoursDayOfWeek5": null,
+        "WorkingHoursHours5": "",
+        "WorkingHoursglobalid6": 372,
+        "WorkingHoursisdeleted6": 0,
+        "WorkingHoursDayOfWeek6": null,
+        "WorkingHoursHours6": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          36.941460530614,
+          55.465201267482
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Станция по борьбе с болезнями животных Троицкого и Новомосковского административных округов города Москвы",
+        "ShortName": "СББЖ ТиНАО г Москвы",
+        "INN": "7708006274",
+        "KPP": "772501001",
+        "SignOfCapitalStructure": "да",
+        "AdmArea": "Троицкий административный округ",
+        "District": "поселение Новофедоровское",
+        "Address": "деревня Яковлевское, дом 4",
+        "ClarificationOfWorkingHours": "",
+        "globalid": 886767697,
+        "PublicPhoneglobalid0": 72,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "WorkingHoursglobalid0": 373,
+        "WorkingHoursisdeleted0": 0,
+        "WorkingHoursDayOfWeek0": null,
+        "WorkingHoursHours0": "",
+        "WorkingHoursglobalid1": 374,
+        "WorkingHoursisdeleted1": 0,
+        "WorkingHoursDayOfWeek1": null,
+        "WorkingHoursHours1": "",
+        "WorkingHoursglobalid2": 375,
+        "WorkingHoursisdeleted2": 0,
+        "WorkingHoursDayOfWeek2": null,
+        "WorkingHoursHours2": "",
+        "WorkingHoursglobalid3": 376,
+        "WorkingHoursisdeleted3": 0,
+        "WorkingHoursDayOfWeek3": null,
+        "WorkingHoursHours3": "",
+        "WorkingHoursglobalid4": 377,
+        "WorkingHoursisdeleted4": 0,
+        "WorkingHoursDayOfWeek4": null,
+        "WorkingHoursHours4": "",
+        "WorkingHoursglobalid5": 378,
+        "WorkingHoursisdeleted5": 0,
+        "WorkingHoursDayOfWeek5": null,
+        "WorkingHoursHours5": "",
+        "WorkingHoursglobalid6": 379,
+        "WorkingHoursisdeleted6": 0,
+        "WorkingHoursDayOfWeek6": null,
+        "WorkingHoursHours6": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.564192575585,
+          55.501570462276
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Ветеринарный участок «Щербинка»",
+        "ShortName": "ВУ «Щербинка»",
+        "INN": "7708006274",
+        "KPP": "772501001",
+        "SignOfCapitalStructure": "да",
+        "AdmArea": "Новомосковский административный округ",
+        "District": "поселение Щербинка",
+        "Address": "Театральная улица, дом 1",
+        "ClarificationOfWorkingHours": "",
+        "globalid": 886767885
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.426147481282,
+          55.620432311867
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Ветеринарный участок «Саларьево»",
+        "ShortName": "ВУ «Саларьево»",
+        "INN": "7708006274",
+        "KPP": "772501001",
+        "SignOfCapitalStructure": "нет",
+        "AdmArea": "Новомосковский административный округ",
+        "District": "поселение Московский",
+        "Address": "деревня Саларьево, Картмазовская улица, влд. 46Б",
+        "ClarificationOfWorkingHours": "",
+        "globalid": 886767962
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.286661665609,
+          55.436452370954
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Ветеринарный участок «Красная Пахра»",
+        "ShortName": "ВУ «Красная Пахра»",
+        "INN": "7708006274",
+        "KPP": "772501001",
+        "SignOfCapitalStructure": "нет",
+        "AdmArea": "Троицкий административный округ",
+        "District": "поселение Краснопахорское",
+        "Address": "деревня Красная Пахра, влд. 37а",
+        "ClarificationOfWorkingHours": "",
+        "globalid": 886768045
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.147293531286,
+          55.56847121228
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Ветеринарный участок «Птичное»",
+        "ShortName": "ВУ «Птичное»",
+        "INN": "7708006274",
+        "KPP": "772501001",
+        "SignOfCapitalStructure": "нет",
+        "AdmArea": "Новомосковский административный округ",
+        "District": "поселение Марушкинское",
+        "Address": "деревня Анкудиново, влд. 43",
+        "ClarificationOfWorkingHours": "",
+        "globalid": 886768100
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.359422396846,
+          55.322863771572
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Ветеринарный участок «Кленово»",
+        "ShortName": "ВУ «Кленово»",
+        "INN": "7708006274",
+        "KPP": "772501001",
+        "SignOfCapitalStructure": "нет",
+        "AdmArea": "Троицкий административный округ",
+        "District": "поселение Кленовское",
+        "Address": "деревня Кленово, ул. Центральная, влд. 11",
+        "ClarificationOfWorkingHours": "",
+        "globalid": 886768160
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.663864299885,
+          55.617532429482
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Неотложная ветеринарная помощь",
+        "ShortName": "Неотложная ветеринарная помощь",
+        "INN": "7708006274",
+        "KPP": "772501001",
+        "SignOfCapitalStructure": "да",
+        "AdmArea": "Южный административный округ",
+        "District": "район Царицыно",
+        "Address": "улица Каспийская, владение 40",
+        "ClarificationOfWorkingHours": "",
+        "globalid": 886768194,
+        "PublicPhoneglobalid0": 80,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "WorkingHoursglobalid0": 422,
+        "WorkingHoursisdeleted0": 0,
+        "WorkingHoursDayOfWeek0": null,
+        "WorkingHoursHours0": "",
+        "WorkingHoursglobalid1": 423,
+        "WorkingHoursisdeleted1": 0,
+        "WorkingHoursDayOfWeek1": null,
+        "WorkingHoursHours1": "",
+        "WorkingHoursglobalid2": 424,
+        "WorkingHoursisdeleted2": 0,
+        "WorkingHoursDayOfWeek2": null,
+        "WorkingHoursHours2": "",
+        "WorkingHoursglobalid3": 425,
+        "WorkingHoursisdeleted3": 0,
+        "WorkingHoursDayOfWeek3": null,
+        "WorkingHoursHours3": "",
+        "WorkingHoursglobalid4": 426,
+        "WorkingHoursisdeleted4": 0,
+        "WorkingHoursDayOfWeek4": null,
+        "WorkingHoursHours4": "",
+        "WorkingHoursglobalid5": 427,
+        "WorkingHoursisdeleted5": 0,
+        "WorkingHoursDayOfWeek5": null,
+        "WorkingHoursHours5": "",
+        "WorkingHoursglobalid6": 428,
+        "WorkingHoursisdeleted6": 0,
+        "WorkingHoursDayOfWeek6": null,
+        "WorkingHoursHours6": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

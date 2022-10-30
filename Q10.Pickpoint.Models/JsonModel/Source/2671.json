@@ -1,0 +1,731 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.616624345798,
+          55.756296077068
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московское кино",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "Манежная площадь, владение 1А ",
+        "Period": "09.09.2016-18.09.2016",
+        "AmountOfPlaces": 24,
+        "WorkingHours": "11:00-20:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru/kino2016",
+        "globalid": 272718907
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.610019720761,
+          55.770350005634
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московское кино",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "Площадь Революции (переход к Манежной площади)",
+        "Period": "09.09.2016-18.09.2016",
+        "AmountOfPlaces": 25,
+        "WorkingHours": "11:00-20:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru/kino2016",
+        "globalid": 272718911
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.62922661391,
+          55.751420931618
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московское кино",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "Площадь Революции (у памятника К.Марксу)",
+        "Period": "09.09.2016-18.09.2016",
+        "AmountOfPlaces": 24,
+        "WorkingHours": "11:00-20:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru/kino2016",
+        "globalid": 272718915
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.619390840273,
+          55.757148692559
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московское кино",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "Площадь Революции",
+        "Period": "09.09.2016-18.09.2016",
+        "AmountOfPlaces": 20,
+        "WorkingHours": "11:00-20:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru/kino2016",
+        "globalid": 272718914
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.600876779861,
+          55.730476213052
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московское кино",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "улица Никольская",
+        "Period": "09.09.2016-18.09.2016",
+        "AmountOfPlaces": 20,
+        "WorkingHours": "11:00-20:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru/kino2016",
+        "globalid": 272718918
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.486943066689,
+          55.749292921904
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московское кино",
+        "AdmArea": "Центральный административный округ",
+        "District": "Мещанский район",
+        "Address": "улица Рождественка",
+        "Period": "09.09.2016-18.09.2016",
+        "AmountOfPlaces": 15,
+        "WorkingHours": "11:00-20:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru/kino2016",
+        "globalid": 272718919
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.677233324465,
+          55.794685100026
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московское кино",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "улица Кузнецкий мост, владение 7 (площадь перед ЦУМ)",
+        "Period": "09.09.2016-18.09.2016",
+        "AmountOfPlaces": 14,
+        "WorkingHours": "11:00-20:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru/kino2016",
+        "globalid": 272718921
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.569983744167,
+          55.899411483698
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московское кино",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "улица Кузнецкий мост, владение 6\\3 (у ресторана «Большой»)",
+        "Period": "09.09.2016-18.09.2016",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-20:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru/kino2016",
+        "globalid": 272718922
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.587997388677,
+          55.813695955368
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московское кино",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "Камергерский переулок",
+        "Period": "09.09.2016-18.09.2016",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-20:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru/kino2016",
+        "globalid": 272718924
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.529782133754,
+          55.877679161202
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московское кино",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "Тверская площадь",
+        "Period": "09.09.2016-18.09.2016",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-20:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru/kino2016",
+        "globalid": 272718925
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.766646564526,
+          55.694629583974
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московское кино",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "Столешников переулок",
+        "Period": "09.09.2016-18.09.2016",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-20:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru/kino2016",
+        "globalid": 272718930
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.774952380115,
+          55.741622966153
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московское кино",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "Новопушкинский сквер",
+        "Period": "09.09.2016-18.09.2016",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-20:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru/kino2016",
+        "globalid": 272718932
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.533295548327,
+          55.666620502381
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московское кино",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "Пушкинская площадь",
+        "Period": "09.09.2016-18.09.2016",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-20:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru/kino2016",
+        "globalid": 272718944
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.766028175375,
+          55.80483574325
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московское кино",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "Тверской бульвар, владение 28",
+        "Period": "09.09.2016-18.09.2016",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-20:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru/kino2016",
+        "globalid": 272718963
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.796012721545,
+          55.778723348095
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московское кино",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "Тверской бульвар, владение 19 (у памятника Есенину)",
+        "Period": "09.09.2016-18.09.2016",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-20:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru/kino2016",
+        "globalid": 272718965
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.450346071118,
+          55.862391986117
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московское кино",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "Тверской бульвар, владение 2 (у памятника Тимирязеву)",
+        "Period": "09.09.2016-18.09.2016",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-20:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru/kino2016",
+        "globalid": 272718966
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.502948096516,
+          55.731027194207
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московское кино",
+        "AdmArea": "Центральный административный округ",
+        "District": "Таганский район",
+        "Address": "Таганская площадь, владение 2",
+        "Period": "09.09.2016-18.09.2016",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-20:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru/kino2016",
+        "globalid": 272718968
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.659855701458,
+          55.766469752958
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московское кино",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "Лаврушинский переулок",
+        "Period": "09.09.2016-18.09.2016",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-20:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru/kino2016",
+        "globalid": 272718972
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.527465062468,
+          55.786251951078
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московское кино",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "Болотная площадь",
+        "Period": "09.09.2016-18.09.2016",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-20:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru/kino2016",
+        "globalid": 272719649
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.662726939654,
+          55.741269390347
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московское кино",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Замоскворечье",
+        "Address": "Климентовский переулок, владение 8 (улица Большая Ордынка, владение 21)",
+        "Period": "09.09.2016-18.09.2016",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-20:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru/kino2016",
+        "globalid": 272719653
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.682217372351,
+          55.867048908641
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московское кино",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Арбат",
+        "Address": "улица Арбат, дом 19",
+        "Period": "09.09.2016-18.09.2016",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-20:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru/kino2016",
+        "globalid": 272719655
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.551055075351,
+          55.75408783689
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московское кино",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Арбат",
+        "Address": "улица Новый Арбат, от владения 5 до владения 11",
+        "Period": "09.09.2016-18.09.2016",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-20:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru/kino2016",
+        "globalid": 272719657
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.544239559827,
+          55.759559730842
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московское кино",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Арбат",
+        "Address": "улица Новый Арбат, от владения 17 до владения 21",
+        "Period": "09.09.2016-18.09.2016",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-20:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru/kino2016",
+        "globalid": 272719667
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.531279083447,
+          55.8014170361
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московское кино",
+        "AdmArea": "Северный административный округ",
+        "District": "Дмитровский район",
+        "Address": "Ангарские пруды",
+        "Period": "09.09.2016-18.09.2016",
+        "AmountOfPlaces": null,
+        "WorkingHours": "12:00-19:00",
+        "WorkingHoursWeekend": "11:00-19:00",
+        "WebSite": "mos.ru/kino2016",
+        "globalid": 272719674
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.600970397016,
+          55.862575833473
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московское кино",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Останкинский район",
+        "Address": "улица Хачатуряна, владение 13",
+        "Period": "09.09.2016-18.09.2016",
+        "AmountOfPlaces": null,
+        "WorkingHours": "12:00-19:00",
+        "WorkingHoursWeekend": "11:00-19:00",
+        "WebSite": "mos.ru/kino2016",
+        "globalid": 272719678
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.864983270995,
+          55.743533529174
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московское кино",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Сокольники",
+        "Address": "Сокольническая площадь",
+        "Period": "09.09.2016-18.09.2016",
+        "AmountOfPlaces": null,
+        "WorkingHours": "12:00-19:00",
+        "WorkingHoursWeekend": "11:00-19:00",
+        "WebSite": "mos.ru/kino2016",
+        "globalid": 272719680
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.764731747271,
+          55.705036000265
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московское кино",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Кузьминки",
+        "Address": "улица Маршала Чуйкова, владение 3",
+        "Period": "09.09.2016-18.09.2016",
+        "AmountOfPlaces": null,
+        "WorkingHours": "12:00-19:00",
+        "WorkingHoursWeekend": "11:00-19:00",
+        "WebSite": "mos.ru/kino2016",
+        "globalid": 272719682
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.718396829245,
+          55.610280035209
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московское кино",
+        "AdmArea": "Южный административный округ",
+        "District": "район Орехово-Борисово Южное",
+        "Address": "Ореховый бульвар, владение 14",
+        "Period": "09.09.2016-18.09.2016",
+        "AmountOfPlaces": null,
+        "WorkingHours": "12:00-19:00",
+        "WorkingHoursWeekend": "11:00-19:00",
+        "WebSite": "mos.ru/kino2016",
+        "globalid": 272719683
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.555307503914,
+          55.669340601587
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московское кино",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "Обручевский район",
+        "Address": "Воронцовский парк",
+        "Period": "09.09.2016-18.09.2016",
+        "AmountOfPlaces": null,
+        "WorkingHours": "12:00-19:00",
+        "WorkingHoursWeekend": "11:00-19:00",
+        "WebSite": "mos.ru/kino2016",
+        "globalid": 272719684
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.569092759311,
+          55.742489752219
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московское кино",
+        "AdmArea": "Западный административный округ",
+        "District": "район Дорогомилово",
+        "Address": "Площадь Европы",
+        "Period": "09.09.2016-18.09.2016",
+        "AmountOfPlaces": null,
+        "WorkingHours": "12:00-19:00",
+        "WorkingHoursWeekend": "11:00-19:00",
+        "WebSite": "mos.ru/kino2016",
+        "globalid": 272719686
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.442386689248,
+          55.850391017766
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московское кино",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Южное Тушино",
+        "Address": "улица Сходненская, владение 56 (ТЦ «Калейдоскоп»)",
+        "Period": "09.09.2016-18.09.2016",
+        "AmountOfPlaces": null,
+        "WorkingHours": "12:00-19:00",
+        "WorkingHoursWeekend": "11:00-19:00",
+        "WebSite": "mos.ru/kino2016",
+        "globalid": 272719689
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.208465339441,
+          56.003966864891
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московское кино",
+        "AdmArea": "Зеленоградский административный округ",
+        "District": "район Матушкино",
+        "Address": "Площадь Юности, владение 2",
+        "Period": "09.09.2016-18.09.2016",
+        "AmountOfPlaces": null,
+        "WorkingHours": "12:00-19:00",
+        "WorkingHoursWeekend": "11:00-19:00",
+        "WebSite": "mos.ru/kino2016",
+        "globalid": 272719692
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.297184770819,
+          55.468489554848
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Московское кино",
+        "AdmArea": "Троицкий административный округ",
+        "District": "поселение Троицк",
+        "Address": "Город Троицк, Сиреневый бульвар, владение 1",
+        "Period": "09.09.2016-18.09.2016",
+        "AmountOfPlaces": null,
+        "WorkingHours": "12:00-19:00",
+        "WorkingHoursWeekend": "11:00-19:00",
+        "WebSite": "mos.ru/kino2016",
+        "globalid": 272719695
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

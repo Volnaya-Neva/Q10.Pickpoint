@@ -1,0 +1,1880 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.7392635,
+          55.613419
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 25323,
+        "ParkingNameen": "Перехватывающая парковка метрополитена «Красногвардейская»",
+        "MetroStationen": null,
+        "MetroLineen": null,
+        "AdmAreaen": null,
+        "Districten": null,
+        "LocationDescriptionen": "",
+        "Scheduleen": "круглосуточно",
+        "OrgPhoneen": "",
+        "CarCapacityen": 528,
+        "LongitudeWGS84en": "37.7392635",
+        "LatitudeWGS84en": "55.613419",
+        "globalid": 1044474873
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6687295,
+          55.619927
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 26744,
+        "ParkingNameen": "Перехватывающая парковка метрополитена «Царицыно»",
+        "MetroStationen": null,
+        "MetroLineen": null,
+        "AdmAreaen": null,
+        "Districten": null,
+        "LocationDescriptionen": "",
+        "Scheduleen": "круглосуточно",
+        "OrgPhoneen": "",
+        "CarCapacityen": 261,
+        "LongitudeWGS84en": "37.6687295",
+        "LatitudeWGS84en": "55.619927000000004",
+        "globalid": 1044474885
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.471449,
+          55.5604535
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 26933,
+        "ParkingNameen": "Перехватывающая парковка метрополитена «Коммунарка»",
+        "MetroStationen": null,
+        "MetroLineen": null,
+        "AdmAreaen": null,
+        "Districten": null,
+        "LocationDescriptionen": "",
+        "Scheduleen": "круглосуточно",
+        "OrgPhoneen": "",
+        "CarCapacityen": 508,
+        "LongitudeWGS84en": "37.471449",
+        "LatitudeWGS84en": "55.5604535",
+        "globalid": 1044474887
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.434994,
+          55.5838455
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 26932,
+        "ParkingNameen": "Перехватывающая парковка метрополитена «Прокшино»",
+        "MetroStationen": null,
+        "MetroLineen": null,
+        "AdmAreaen": null,
+        "Districten": null,
+        "LocationDescriptionen": "",
+        "Scheduleen": "круглосуточно",
+        "OrgPhoneen": "",
+        "CarCapacityen": 1291,
+        "LongitudeWGS84en": "37.434994",
+        "LatitudeWGS84en": "55.5838455",
+        "globalid": 1044474888
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7209805,
+          55.6112155
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 25288,
+        "ParkingNameen": "Перехватывающая парковка метрополитена «Домодедовская» 2",
+        "MetroStationen": null,
+        "MetroLineen": null,
+        "AdmAreaen": null,
+        "Districten": null,
+        "LocationDescriptionen": "",
+        "Scheduleen": "круглосуточно",
+        "OrgPhoneen": "",
+        "CarCapacityen": 132,
+        "LongitudeWGS84en": "37.720980499999996",
+        "LatitudeWGS84en": "55.6112155",
+        "globalid": 1044474903
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7189455,
+          55.6118565
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 25287,
+        "ParkingNameen": "Перехватывающая парковка метрополитена «Домодедовская» 1",
+        "MetroStationen": null,
+        "MetroLineen": null,
+        "AdmAreaen": null,
+        "Districten": null,
+        "LocationDescriptionen": "",
+        "Scheduleen": "круглосуточно",
+        "OrgPhoneen": "",
+        "CarCapacityen": 188,
+        "LongitudeWGS84en": "37.718945500000004",
+        "LatitudeWGS84en": "55.6118565",
+        "globalid": 1044474916
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5357025,
+          55.7749505
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 26742,
+        "ParkingNameen": "Перехватывающая парковка метрополитена «Беговая»",
+        "MetroStationen": null,
+        "MetroLineen": null,
+        "AdmAreaen": null,
+        "Districten": null,
+        "LocationDescriptionen": "",
+        "Scheduleen": "круглосуточно",
+        "OrgPhoneen": "",
+        "CarCapacityen": 86,
+        "LongitudeWGS84en": "37.5357025",
+        "LatitudeWGS84en": "55.7749505",
+        "globalid": 1044511639
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.603404,
+          55.883443
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 25285,
+        "ParkingNameen": "Перехватывающая парковка метрополитена «Бибирево» 1",
+        "MetroStationen": null,
+        "MetroLineen": null,
+        "AdmAreaen": null,
+        "Districten": null,
+        "LocationDescriptionen": "",
+        "Scheduleen": "круглосуточно",
+        "OrgPhoneen": "",
+        "CarCapacityen": 78,
+        "LongitudeWGS84en": "37.603404",
+        "LatitudeWGS84en": "55.883443",
+        "globalid": 1044511640
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.574379,
+          55.566002
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 25261,
+        "ParkingNameen": "Перехватывающая парковка метрополитена «Бульвар Дмитрия Донского» 1",
+        "MetroStationen": null,
+        "MetroLineen": null,
+        "AdmAreaen": null,
+        "Districten": null,
+        "LocationDescriptionen": "",
+        "Scheduleen": "круглосуточно",
+        "OrgPhoneen": "",
+        "CarCapacityen": 66,
+        "LongitudeWGS84en": "37.574379",
+        "LatitudeWGS84en": "55.566002",
+        "globalid": 1044511650
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.577392,
+          55.569939
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 25274,
+        "ParkingNameen": "Перехватывающая парковка метрополитена «Бульвар Дмитрия Донского» 2",
+        "MetroStationen": null,
+        "MetroLineen": null,
+        "AdmAreaen": null,
+        "Districten": null,
+        "LocationDescriptionen": "",
+        "Scheduleen": "круглосуточно",
+        "OrgPhoneen": "",
+        "CarCapacityen": 133,
+        "LongitudeWGS84en": "37.577392",
+        "LatitudeWGS84en": "55.569939000000005",
+        "globalid": 1044511652
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5336255,
+          55.606179
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 25286,
+        "ParkingNameen": "Перехватывающая парковка метрополитена «Ясенево» 1",
+        "MetroStationen": null,
+        "MetroLineen": null,
+        "AdmAreaen": null,
+        "Districten": null,
+        "LocationDescriptionen": "",
+        "Scheduleen": "круглосуточно",
+        "OrgPhoneen": "",
+        "CarCapacityen": 72,
+        "LongitudeWGS84en": "37.5336255",
+        "LatitudeWGS84en": "55.606179",
+        "globalid": 1044511655
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.661257,
+          55.886625
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 25284,
+        "ParkingNameen": "Перехватывающая парковка метрополитена «Медведково»",
+        "MetroStationen": null,
+        "MetroLineen": null,
+        "AdmAreaen": null,
+        "Districten": null,
+        "LocationDescriptionen": "Парковка в режиме без взимания денежных средств.",
+        "Scheduleen": "круглосуточно",
+        "OrgPhoneen": "",
+        "CarCapacityen": 60,
+        "LongitudeWGS84en": "37.661257",
+        "LatitudeWGS84en": "55.886624999999995",
+        "globalid": 1044511663
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.533128,
+          55.6054635
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 25290,
+        "ParkingNameen": "Перехватывающая парковка метрополитена «Ясенево» 2",
+        "MetroStationen": null,
+        "MetroLineen": null,
+        "AdmAreaen": null,
+        "Districten": null,
+        "LocationDescriptionen": "",
+        "Scheduleen": "круглосуточно",
+        "OrgPhoneen": "",
+        "CarCapacityen": 80,
+        "LongitudeWGS84en": "37.533128",
+        "LatitudeWGS84en": "55.6054635",
+        "globalid": 1044511664
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5425775,
+          55.5456495
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 25280,
+        "ParkingNameen": "Перехватывающая парковка метрополитена «Бульвар адмирала Ушакова» 1",
+        "MetroStationen": null,
+        "MetroLineen": null,
+        "AdmAreaen": null,
+        "Districten": null,
+        "LocationDescriptionen": "",
+        "Scheduleen": "круглосуточно",
+        "OrgPhoneen": "",
+        "CarCapacityen": 68,
+        "LongitudeWGS84en": "37.5425775",
+        "LatitudeWGS84en": "55.545649499999996",
+        "globalid": 1045149888
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.544114,
+          55.5460675
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 25282,
+        "ParkingNameen": "Перехватывающая парковка метрополитена «Бульвар адмирала Ушакова» 2",
+        "MetroStationen": null,
+        "MetroLineen": null,
+        "AdmAreaen": null,
+        "Districten": null,
+        "LocationDescriptionen": "",
+        "Scheduleen": "круглосуточно",
+        "OrgPhoneen": "",
+        "CarCapacityen": 222,
+        "LongitudeWGS84en": "37.544114",
+        "LatitudeWGS84en": "55.5460675",
+        "globalid": 1045149912
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.663799,
+          55.869415
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 26680,
+        "ParkingNameen": "Перехватывающая парковка метрополитена «Бабушкинская» 6",
+        "MetroStationen": null,
+        "MetroLineen": null,
+        "AdmAreaen": null,
+        "Districten": null,
+        "LocationDescriptionen": "",
+        "Scheduleen": "круглосуточно",
+        "OrgPhoneen": "",
+        "CarCapacityen": 39,
+        "LongitudeWGS84en": "37.663799",
+        "LatitudeWGS84en": "55.869415000000004",
+        "globalid": 1089194061
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.571636,
+          55.866545
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 27069,
+        "ParkingNameen": "Перехватывающая парковка метрополитена «Верхние Лихоборы» 3",
+        "MetroStationen": null,
+        "MetroLineen": null,
+        "AdmAreaen": null,
+        "Districten": null,
+        "LocationDescriptionen": "",
+        "Scheduleen": "круглосуточно",
+        "OrgPhoneen": "",
+        "CarCapacityen": 101,
+        "LongitudeWGS84en": "37.571636",
+        "LatitudeWGS84en": "55.866545",
+        "globalid": 1089194062
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4029755,
+          55.6015275
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 26931,
+        "ParkingNameen": "Перехватывающая парковка метрополитена «Прокшино» 1",
+        "MetroStationen": null,
+        "MetroLineen": null,
+        "AdmAreaen": null,
+        "Districten": null,
+        "LocationDescriptionen": "",
+        "Scheduleen": "круглосуточно",
+        "OrgPhoneen": "",
+        "CarCapacityen": 1836,
+        "LongitudeWGS84en": "37.4029755",
+        "LatitudeWGS84en": "55.6015275",
+        "globalid": 1089486875
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.506261,
+          55.620859
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 25252,
+        "ParkingNameen": "Перехватывающая парковка метрополитена «Тёплый стан» 1",
+        "MetroStationen": null,
+        "MetroLineen": null,
+        "AdmAreaen": null,
+        "Districten": null,
+        "LocationDescriptionen": "",
+        "Scheduleen": "круглосуточно",
+        "OrgPhoneen": "",
+        "CarCapacityen": 26,
+        "LongitudeWGS84en": "37.506261",
+        "LatitudeWGS84en": "55.620858999999996",
+        "globalid": 1089486876
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.463475,
+          55.726124
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 27127,
+        "ParkingNameen": "Перехватывающая парковка метрополитена «Славянский бульвар»",
+        "MetroStationen": null,
+        "MetroLineen": null,
+        "AdmAreaen": null,
+        "Districten": null,
+        "LocationDescriptionen": "",
+        "Scheduleen": "круглосуточно",
+        "OrgPhoneen": "",
+        "CarCapacityen": 60,
+        "LongitudeWGS84en": "37.463475",
+        "LatitudeWGS84en": "55.726124",
+        "globalid": 1129984972
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.503202,
+          55.616953
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 27164,
+        "ParkingNameen": "Перехватывающая парковка метрополитена «Профсоюзная»",
+        "MetroStationen": null,
+        "MetroLineen": null,
+        "AdmAreaen": null,
+        "Districten": null,
+        "LocationDescriptionen": "",
+        "Scheduleen": "круглосуточно",
+        "OrgPhoneen": "",
+        "CarCapacityen": 212,
+        "LongitudeWGS84en": "37.503202",
+        "LatitudeWGS84en": "55.616952999999995",
+        "globalid": 1129984973
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.848088,
+          55.680048
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 27170,
+        "ParkingNameen": "Перехватывающая парковка метрополитена «Котельники» 1",
+        "MetroStationen": null,
+        "MetroLineen": null,
+        "AdmAreaen": null,
+        "Districten": null,
+        "LocationDescriptionen": "",
+        "Scheduleen": "круглосуточно",
+        "OrgPhoneen": "",
+        "CarCapacityen": 63,
+        "LongitudeWGS84en": "37.848088000000004",
+        "LatitudeWGS84en": "55.680048",
+        "globalid": 1129984977
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.851509,
+          55.6784565
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 27171,
+        "ParkingNameen": "Перехватывающая парковка метрополитена «Котельники» 2",
+        "MetroStationen": null,
+        "MetroLineen": null,
+        "AdmAreaen": null,
+        "Districten": null,
+        "LocationDescriptionen": "",
+        "Scheduleen": "круглосуточно",
+        "OrgPhoneen": "",
+        "CarCapacityen": 235,
+        "LongitudeWGS84en": "37.851509",
+        "LatitudeWGS84en": "55.6784565",
+        "globalid": 1129984978
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.855345,
+          55.676661
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 27172,
+        "ParkingNameen": "Перехватывающая парковка метрополитена «Котельники» 3",
+        "MetroStationen": null,
+        "MetroLineen": null,
+        "AdmAreaen": null,
+        "Districten": null,
+        "LocationDescriptionen": "",
+        "Scheduleen": "круглосуточно",
+        "OrgPhoneen": "",
+        "CarCapacityen": 171,
+        "LongitudeWGS84en": "37.855345",
+        "LatitudeWGS84en": "55.676660999999996",
+        "globalid": 1129984979
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.434758,
+          55.8634275
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 27173,
+        "ParkingNameen": "Перехватывающая парковка метрополитена «Планерная»",
+        "MetroStationen": null,
+        "MetroLineen": null,
+        "AdmAreaen": null,
+        "Districten": null,
+        "LocationDescriptionen": "",
+        "Scheduleen": "круглосуточно",
+        "OrgPhoneen": "",
+        "CarCapacityen": 316,
+        "LongitudeWGS84en": "37.434758",
+        "LatitudeWGS84en": "55.8634275",
+        "globalid": 1129984980
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.446996,
+          55.67214
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 28485,
+        "ParkingNameen": "Перехватывающая парковка метрополитена «Озерная»",
+        "MetroStationen": "",
+        "MetroLineen": "",
+        "AdmAreaen": "Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Ochakovo-Matveevskoe",
+        "LocationDescriptionen": "",
+        "Scheduleen": "круглосуточно",
+        "OrgPhoneen": "",
+        "CarCapacityen": 95,
+        "LongitudeWGS84en": "37.446996",
+        "LatitudeWGS84en": "55.67214",
+        "globalid": 1129984982
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.33584,
+          55.6337405
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 28486,
+        "ParkingNameen": "Перехватывающая парковка метрополитена «Рассказовка» 2",
+        "MetroStationen": null,
+        "MetroLineen": null,
+        "AdmAreaen": null,
+        "Districten": null,
+        "LocationDescriptionen": "",
+        "Scheduleen": "круглосуточно",
+        "OrgPhoneen": "",
+        "CarCapacityen": 47,
+        "LongitudeWGS84en": "37.335840000000005",
+        "LatitudeWGS84en": "55.6337405",
+        "globalid": 1129984984
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.329872,
+          55.6321855
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 28487,
+        "ParkingNameen": "Перехватывающая парковка метрополитена «Рассказовка»",
+        "MetroStationen": null,
+        "MetroLineen": null,
+        "AdmAreaen": null,
+        "Districten": null,
+        "LocationDescriptionen": "",
+        "Scheduleen": "круглосуточно",
+        "OrgPhoneen": "",
+        "CarCapacityen": 188,
+        "LongitudeWGS84en": "37.329872",
+        "LatitudeWGS84en": "55.6321855",
+        "globalid": 1129984985
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7439755,
+          55.7895275
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 28491,
+        "ParkingNameen": "Перехватывающая парковка метрополитена «Измайлово»",
+        "MetroStationen": null,
+        "MetroLineen": null,
+        "AdmAreaen": null,
+        "Districten": null,
+        "LocationDescriptionen": "",
+        "Scheduleen": "круглосуточно",
+        "OrgPhoneen": "",
+        "CarCapacityen": 107,
+        "LongitudeWGS84en": "37.743975500000005",
+        "LatitudeWGS84en": "55.789527500000005",
+        "globalid": 1129984988
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7443805,
+          55.7876855
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 28492,
+        "ParkingNameen": "Перехватывающая парковка метрополитена «Измайлово» 1",
+        "MetroStationen": null,
+        "MetroLineen": null,
+        "AdmAreaen": null,
+        "Districten": null,
+        "LocationDescriptionen": "",
+        "Scheduleen": "круглосуточно",
+        "OrgPhoneen": "",
+        "CarCapacityen": 251,
+        "LongitudeWGS84en": "37.744380500000005",
+        "LatitudeWGS84en": "55.787685499999995",
+        "globalid": 1129984989
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7445975,
+          55.7864065
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 28493,
+        "ParkingNameen": "Перехватывающая парковка метрополитена «Измайлово» 2",
+        "MetroStationen": null,
+        "MetroLineen": null,
+        "AdmAreaen": null,
+        "Districten": null,
+        "LocationDescriptionen": "",
+        "Scheduleen": "круглосуточно",
+        "OrgPhoneen": "",
+        "CarCapacityen": 250,
+        "LongitudeWGS84en": "37.7445975",
+        "LatitudeWGS84en": "55.7864065",
+        "globalid": 1129984990
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.3491275,
+          55.860666
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 28546,
+        "ParkingNameen": "Перехватывающая парковка метрополитена «Пятницкое шоссе» 2",
+        "MetroStationen": null,
+        "MetroLineen": null,
+        "AdmAreaen": null,
+        "Districten": null,
+        "LocationDescriptionen": "",
+        "Scheduleen": "круглосуточно",
+        "OrgPhoneen": "",
+        "CarCapacityen": 173,
+        "LongitudeWGS84en": "37.3491275",
+        "LatitudeWGS84en": "55.860665999999995",
+        "globalid": 1129984994
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5935,
+          55.578458
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 25253,
+        "ParkingNameen": "Перехватывающая парковка метрополитена «Аннино»",
+        "MetroStationen": null,
+        "MetroLineen": null,
+        "AdmAreaen": null,
+        "Districten": null,
+        "LocationDescriptionen": "",
+        "Scheduleen": "круглосуточно",
+        "OrgPhoneen": "",
+        "CarCapacityen": 1039,
+        "LongitudeWGS84en": "37.5935",
+        "LatitudeWGS84en": "55.578458",
+        "globalid": 2363518373
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.745181,
+          55.612357
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 25270,
+        "ParkingNameen": "Перехватывающая парковка метрополитена «Зябликово» 1",
+        "MetroStationen": null,
+        "MetroLineen": null,
+        "AdmAreaen": null,
+        "Districten": null,
+        "LocationDescriptionen": "",
+        "Scheduleen": "круглосуточно",
+        "OrgPhoneen": "",
+        "CarCapacityen": 25,
+        "LongitudeWGS84en": "37.745181",
+        "LatitudeWGS84en": "55.612357",
+        "globalid": 2363518374
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.400394,
+          55.8036485
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 25255,
+        "ParkingNameen": "Перехватывающая парковка метрополитена «Строгино»",
+        "MetroStationen": null,
+        "MetroLineen": null,
+        "AdmAreaen": null,
+        "Districten": null,
+        "LocationDescriptionen": "",
+        "Scheduleen": "круглосуточно",
+        "OrgPhoneen": "",
+        "CarCapacityen": 124,
+        "LongitudeWGS84en": "37.400394000000006",
+        "LatitudeWGS84en": "55.8036485",
+        "globalid": 2363518377
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.745037,
+          55.609068
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 25257,
+        "ParkingNameen": "Перехватывающая парковка метрополитена «Зябликово» 2",
+        "MetroStationen": null,
+        "MetroLineen": null,
+        "AdmAreaen": null,
+        "Districten": null,
+        "LocationDescriptionen": "",
+        "Scheduleen": "круглосуточно",
+        "OrgPhoneen": "",
+        "CarCapacityen": 269,
+        "LongitudeWGS84en": "37.745037",
+        "LatitudeWGS84en": "55.609068",
+        "globalid": 2363518379
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.3785615,
+          55.8387035
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 25275,
+        "ParkingNameen": "Перехватывающая парковка метрополитена «Волоколамская»",
+        "MetroStationen": null,
+        "MetroLineen": null,
+        "AdmAreaen": null,
+        "Districten": null,
+        "LocationDescriptionen": "",
+        "Scheduleen": "круглосуточно",
+        "OrgPhoneen": "",
+        "CarCapacityen": 325,
+        "LongitudeWGS84en": "37.3785615",
+        "LatitudeWGS84en": "55.838703499999994",
+        "globalid": 2363518380
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7433295,
+          55.6229585
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 25276,
+        "ParkingNameen": "Перехватывающая парковка метрополитена «Шипиловская» 1",
+        "MetroStationen": null,
+        "MetroLineen": null,
+        "AdmAreaen": null,
+        "Districten": null,
+        "LocationDescriptionen": "",
+        "Scheduleen": "круглосуточно",
+        "OrgPhoneen": "",
+        "CarCapacityen": 60,
+        "LongitudeWGS84en": "37.7433295",
+        "LatitudeWGS84en": "55.622958499999996",
+        "globalid": 2363518382
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.743793,
+          55.6201065
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 25278,
+        "ParkingNameen": "Перехватывающая парковка метрополитена «Шипиловская» 3",
+        "MetroStationen": null,
+        "MetroLineen": null,
+        "AdmAreaen": null,
+        "Districten": null,
+        "LocationDescriptionen": "",
+        "Scheduleen": "круглосуточно",
+        "OrgPhoneen": "",
+        "CarCapacityen": 87,
+        "LongitudeWGS84en": "37.743793",
+        "LatitudeWGS84en": "55.6201065",
+        "globalid": 2363518383
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.82088,
+          55.717082
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 25281,
+        "ParkingNameen": "Перехватывающая парковка метрополитена «Выхино»",
+        "MetroStationen": null,
+        "MetroLineen": null,
+        "AdmAreaen": null,
+        "Districten": null,
+        "LocationDescriptionen": "",
+        "Scheduleen": "круглосуточно",
+        "OrgPhoneen": "",
+        "CarCapacityen": 312,
+        "LongitudeWGS84en": "37.82088",
+        "LatitudeWGS84en": "55.717082000000005",
+        "globalid": 2363518384
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.745412,
+          55.611393
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 25273,
+        "ParkingNameen": "Перехватывающая парковка метрополитена «Зябликово» 4",
+        "MetroStationen": null,
+        "MetroLineen": null,
+        "AdmAreaen": null,
+        "Districten": null,
+        "LocationDescriptionen": "",
+        "Scheduleen": "круглосуточно",
+        "OrgPhoneen": "",
+        "CarCapacityen": 82,
+        "LongitudeWGS84en": "37.745412",
+        "LatitudeWGS84en": "55.611393",
+        "globalid": 2363518391
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.743067,
+          55.6236535
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 25277,
+        "ParkingNameen": "Перехватывающая парковка метрополитена «Шипиловская» 2",
+        "MetroStationen": null,
+        "MetroLineen": null,
+        "AdmAreaen": null,
+        "Districten": null,
+        "LocationDescriptionen": "",
+        "Scheduleen": "круглосуточно",
+        "OrgPhoneen": "",
+        "CarCapacityen": 64,
+        "LongitudeWGS84en": "37.743066999999996",
+        "LatitudeWGS84en": "55.6236535",
+        "globalid": 2363518394
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.8556915,
+          55.744129
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 26688,
+        "ParkingNameen": "Перехватывающая парковка метрополитена «Новокосино» 1",
+        "MetroStationen": null,
+        "MetroLineen": null,
+        "AdmAreaen": null,
+        "Districten": null,
+        "LocationDescriptionen": "",
+        "Scheduleen": "круглосуточно",
+        "OrgPhoneen": "",
+        "CarCapacityen": 390,
+        "LongitudeWGS84en": "37.8556915",
+        "LatitudeWGS84en": "55.744129",
+        "globalid": 2363518395
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7774165,
+          55.787895
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 25335,
+        "ParkingNameen": "Перехватывающая парковка метрополитена «Измайловская»",
+        "MetroStationen": null,
+        "MetroLineen": null,
+        "AdmAreaen": null,
+        "Districten": null,
+        "LocationDescriptionen": "",
+        "Scheduleen": "круглосуточно",
+        "OrgPhoneen": "",
+        "CarCapacityen": 82,
+        "LongitudeWGS84en": "37.7774165",
+        "LatitudeWGS84en": "55.787895",
+        "globalid": 2363518402
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.74351,
+          55.6212225
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 25279,
+        "ParkingNameen": "Перехватывающая парковка метрополитена «Шипиловская» 4",
+        "MetroStationen": null,
+        "MetroLineen": null,
+        "AdmAreaen": null,
+        "Districten": null,
+        "LocationDescriptionen": "",
+        "Scheduleen": "круглосуточно",
+        "OrgPhoneen": "",
+        "CarCapacityen": 111,
+        "LongitudeWGS84en": "37.74351",
+        "LatitudeWGS84en": "55.6212225",
+        "globalid": 2363518408
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.745338,
+          55.611993
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 29924,
+        "ParkingNameen": "Перехватывающая парковка метрополитена «Зябликово» 3",
+        "MetroStationen": null,
+        "MetroLineen": null,
+        "AdmAreaen": null,
+        "Districten": null,
+        "LocationDescriptionen": "",
+        "Scheduleen": "круглосуточно",
+        "OrgPhoneen": "",
+        "CarCapacityen": 83,
+        "LongitudeWGS84en": "37.745338000000004",
+        "LatitudeWGS84en": "55.611993",
+        "globalid": 2363518419
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.552949,
+          55.6707255
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 25334,
+        "ParkingNameen": "Перехватывающая парковка метрополитена «Новые Черёмушки»",
+        "MetroStationen": null,
+        "MetroLineen": null,
+        "AdmAreaen": null,
+        "Districten": null,
+        "LocationDescriptionen": "",
+        "Scheduleen": "круглосуточно",
+        "OrgPhoneen": "",
+        "CarCapacityen": 271,
+        "LongitudeWGS84en": "37.552949",
+        "LatitudeWGS84en": "55.6707255",
+        "globalid": 2363549205
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.741348,
+          55.800971
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 25307,
+        "ParkingNameen": "Перехватывающая парковка метрополитена «Черкизовская»",
+        "MetroStationen": null,
+        "MetroLineen": null,
+        "AdmAreaen": null,
+        "Districten": null,
+        "LocationDescriptionen": "",
+        "Scheduleen": "круглосуточно",
+        "OrgPhoneen": "",
+        "CarCapacityen": 191,
+        "LongitudeWGS84en": "37.741348",
+        "LatitudeWGS84en": "55.800971",
+        "globalid": 2363549206
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4404395,
+          55.8511075
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 26675,
+        "ParkingNameen": "Перехватывающая парковка метрополитена «Сходненская»",
+        "MetroStationen": null,
+        "MetroLineen": null,
+        "AdmAreaen": null,
+        "Districten": null,
+        "LocationDescriptionen": "",
+        "Scheduleen": "круглосуточно",
+        "OrgPhoneen": "",
+        "CarCapacityen": 56,
+        "LongitudeWGS84en": "37.4404395",
+        "LatitudeWGS84en": "55.8511075",
+        "globalid": 2363549210
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.743712,
+          55.612491
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 26740,
+        "ParkingNameen": "Перехватывающая парковка метрополитена «Зябликово»",
+        "MetroStationen": null,
+        "MetroLineen": null,
+        "AdmAreaen": null,
+        "Districten": null,
+        "LocationDescriptionen": "",
+        "Scheduleen": "круглосуточно",
+        "OrgPhoneen": "",
+        "CarCapacityen": 137,
+        "LongitudeWGS84en": "37.743712",
+        "LatitudeWGS84en": "55.612491000000006",
+        "globalid": 2363549213
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4126585,
+          55.658912
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 28488,
+        "ParkingNameen": "Перехватывающая парковка метрополитена «Говорово»",
+        "MetroStationen": null,
+        "MetroLineen": null,
+        "AdmAreaen": null,
+        "Districten": null,
+        "LocationDescriptionen": "",
+        "Scheduleen": "круглосуточно",
+        "OrgPhoneen": "",
+        "CarCapacityen": 93,
+        "LongitudeWGS84en": "37.4126585",
+        "LatitudeWGS84en": "55.658912",
+        "globalid": 2363549217
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.85989,
+          55.7447875
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 28494,
+        "ParkingNameen": "Перехватывающая парковка метрополитена «Новокосино»",
+        "MetroStationen": null,
+        "MetroLineen": null,
+        "AdmAreaen": null,
+        "Districten": null,
+        "LocationDescriptionen": "",
+        "Scheduleen": "круглосуточно",
+        "OrgPhoneen": "",
+        "CarCapacityen": 138,
+        "LongitudeWGS84en": "37.85989",
+        "LatitudeWGS84en": "55.7447875",
+        "globalid": 2363549219
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6073915,
+          55.622537
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 26741,
+        "ParkingNameen": "Перехватывающая парковка метрополитена «Южная»",
+        "MetroStationen": null,
+        "MetroLineen": null,
+        "AdmAreaen": null,
+        "Districten": null,
+        "LocationDescriptionen": "",
+        "Scheduleen": "круглосуточно",
+        "OrgPhoneen": "",
+        "CarCapacityen": 81,
+        "LongitudeWGS84en": "37.6073915",
+        "LatitudeWGS84en": "55.622537",
+        "globalid": 2363549220
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.553288,
+          55.899353
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 28496,
+        "ParkingNameen": "Перехватывающая парковка метрополитена «Алтуфьево»",
+        "MetroStationen": null,
+        "MetroLineen": null,
+        "AdmAreaen": null,
+        "Districten": null,
+        "LocationDescriptionen": "",
+        "Scheduleen": "круглосуточно",
+        "OrgPhoneen": "",
+        "CarCapacityen": 248,
+        "LongitudeWGS84en": "37.553287999999995",
+        "LatitudeWGS84en": "55.899353000000005",
+        "globalid": 2363549221
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7159785,
+          55.6587965
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 28498,
+        "ParkingNameen": "Перехватывающая парковка метрополитена «Марьино»",
+        "MetroStationen": null,
+        "MetroLineen": null,
+        "AdmAreaen": null,
+        "Districten": null,
+        "LocationDescriptionen": "",
+        "Scheduleen": "круглосуточно",
+        "OrgPhoneen": "",
+        "CarCapacityen": 102,
+        "LongitudeWGS84en": "37.715978500000006",
+        "LatitudeWGS84en": "55.6587965",
+        "globalid": 2363549222
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6684605,
+          55.621419
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 25320,
+        "ParkingNameen": "Перехватывающая парковка метрополитена «Царицыно» 1",
+        "MetroStationen": null,
+        "MetroLineen": null,
+        "AdmAreaen": null,
+        "Districten": null,
+        "LocationDescriptionen": "",
+        "Scheduleen": "круглосуточно",
+        "OrgPhoneen": "",
+        "CarCapacityen": 82,
+        "LongitudeWGS84en": "37.668460499999995",
+        "LatitudeWGS84en": "55.621419",
+        "globalid": 2363643931
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7446505,
+          55.806095
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 25322,
+        "ParkingNameen": "Перехватывающая парковка метрополитена «Черкизовская» 1",
+        "MetroStationen": null,
+        "MetroLineen": null,
+        "AdmAreaen": null,
+        "Districten": null,
+        "LocationDescriptionen": "",
+        "Scheduleen": "круглосуточно",
+        "OrgPhoneen": "",
+        "CarCapacityen": 60,
+        "LongitudeWGS84en": "37.744650500000006",
+        "LatitudeWGS84en": "55.806095",
+        "globalid": 2363643932
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.752359,
+          55.657236
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 27166,
+        "ParkingNameen": "Перехватывающая парковка метрополитена «Братиславская»",
+        "MetroStationen": null,
+        "MetroLineen": null,
+        "AdmAreaen": null,
+        "Districten": null,
+        "LocationDescriptionen": "",
+        "Scheduleen": "круглосуточно",
+        "OrgPhoneen": "",
+        "CarCapacityen": 166,
+        "LongitudeWGS84en": "37.752359",
+        "LatitudeWGS84en": "55.657236",
+        "globalid": 2363643938
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6029405,
+          55.609072
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 27167,
+        "ParkingNameen": "Перехватывающая парковка метрополитена «Пражская»",
+        "MetroStationen": null,
+        "MetroLineen": null,
+        "AdmAreaen": null,
+        "Districten": null,
+        "LocationDescriptionen": "",
+        "Scheduleen": "круглосуточно",
+        "OrgPhoneen": "",
+        "CarCapacityen": 92,
+        "LongitudeWGS84en": "37.6029405",
+        "LatitudeWGS84en": "55.609072",
+        "globalid": 2363643939
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7335055,
+          55.8148285
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 25330,
+        "ParkingNameen": "Перехватывающая парковка метрополитена «58702205»",
+        "MetroStationen": null,
+        "MetroLineen": null,
+        "AdmAreaen": null,
+        "Districten": null,
+        "LocationDescriptionen": "",
+        "Scheduleen": "круглосуточно",
+        "OrgPhoneen": "",
+        "CarCapacityen": 32,
+        "LongitudeWGS84en": "37.7335055",
+        "LatitudeWGS84en": "55.8148285",
+        "globalid": 2366427810
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.734572,
+          55.8143525
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 25332,
+        "ParkingNameen": "Перехватывающая парковка метрополитена «58702205» 2",
+        "MetroStationen": null,
+        "MetroLineen": null,
+        "AdmAreaen": null,
+        "Districten": null,
+        "LocationDescriptionen": "",
+        "Scheduleen": "круглосуточно",
+        "OrgPhoneen": "",
+        "CarCapacityen": 71,
+        "LongitudeWGS84en": "37.734572",
+        "LatitudeWGS84en": "55.8143525",
+        "globalid": 2366427812
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.728753,
+          55.8161805
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 26730,
+        "ParkingNameen": "Перехватывающая парковка метрополитена «58702205» 1",
+        "MetroStationen": null,
+        "MetroLineen": null,
+        "AdmAreaen": null,
+        "Districten": null,
+        "LocationDescriptionen": "",
+        "Scheduleen": "круглосуточно",
+        "OrgPhoneen": "",
+        "CarCapacityen": 160,
+        "LongitudeWGS84en": "37.728753",
+        "LatitudeWGS84en": "55.8161805",
+        "globalid": 2366427813
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.504612,
+          55.6182235
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 28505,
+        "ParkingNameen": "Перехватывающая парковка метрополитена «58702166» 2",
+        "MetroStationen": null,
+        "MetroLineen": null,
+        "AdmAreaen": null,
+        "Districten": null,
+        "LocationDescriptionen": "",
+        "Scheduleen": "круглосуточно",
+        "OrgPhoneen": "",
+        "CarCapacityen": 25,
+        "LongitudeWGS84en": "37.504612",
+        "LatitudeWGS84en": "55.6182235",
+        "globalid": 2366427814
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7477465,
+          55.7695575
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 28490,
+        "ParkingNameen": "Перехватывающая парковка метрополитена «277904741»",
+        "MetroStationen": null,
+        "MetroLineen": null,
+        "AdmAreaen": null,
+        "Districten": null,
+        "LocationDescriptionen": "",
+        "Scheduleen": "круглосуточно",
+        "OrgPhoneen": "",
+        "CarCapacityen": 39,
+        "LongitudeWGS84en": "37.7477465",
+        "LatitudeWGS84en": "55.769557500000005",
+        "globalid": 2366427815
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5092715,
+          55.62201
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 28634,
+        "ParkingNameen": "Перехватывающая парковка метрополитена «58702166» 3",
+        "MetroStationen": null,
+        "MetroLineen": null,
+        "AdmAreaen": null,
+        "Districten": null,
+        "LocationDescriptionen": "",
+        "Scheduleen": "круглосуточно",
+        "OrgPhoneen": "",
+        "CarCapacityen": 126,
+        "LongitudeWGS84en": "37.5092715",
+        "LatitudeWGS84en": "55.62201",
+        "globalid": 2366427816
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.8606675,
+          55.7441575
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 28495,
+        "ParkingNameen": "Перехватывающая парковка метрополитена «Новокосино» 2",
+        "MetroStationen": null,
+        "MetroLineen": null,
+        "AdmAreaen": null,
+        "Districten": null,
+        "LocationDescriptionen": "",
+        "Scheduleen": "круглосуточно",
+        "OrgPhoneen": "",
+        "CarCapacityen": 150,
+        "LongitudeWGS84en": "37.860667500000005",
+        "LatitudeWGS84en": "55.7441575",
+        "globalid": 2372268070
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.556468,
+          55.89697
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 28497,
+        "ParkingNameen": "Перехватывающая парковка метрополитена «Алтуфьево» 2",
+        "MetroStationen": "",
+        "MetroLineen": "",
+        "AdmAreaen": "Severo-Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Lianozovo",
+        "LocationDescriptionen": "",
+        "Scheduleen": "круглосуточно",
+        "OrgPhoneen": "",
+        "CarCapacityen": 199,
+        "LongitudeWGS84en": "37.556467999999995",
+        "LatitudeWGS84en": "55.896969999999996",
+        "globalid": 2372268072
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.661712,
+          55.890558
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 29794,
+        "ParkingNameen": "Перехватывающая парковка метрополитена «Медведково» 1",
+        "MetroStationen": null,
+        "MetroLineen": null,
+        "AdmAreaen": null,
+        "Districten": null,
+        "LocationDescriptionen": "",
+        "Scheduleen": "круглосуточно",
+        "OrgPhoneen": "",
+        "CarCapacityen": 182,
+        "LongitudeWGS84en": "37.661711999999994",
+        "LatitudeWGS84en": "55.890558",
+        "globalid": 2372268074
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.613623,
+          55.62164
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 29945,
+        "ParkingNameen": "Перехватывающая парковка метрополитена «Южная» 1",
+        "MetroStationen": null,
+        "MetroLineen": null,
+        "AdmAreaen": null,
+        "Districten": null,
+        "LocationDescriptionen": "",
+        "Scheduleen": "круглосуточно",
+        "OrgPhoneen": "",
+        "CarCapacityen": 100,
+        "LongitudeWGS84en": "37.613623000000004",
+        "LatitudeWGS84en": "55.62164",
+        "globalid": 2372268075
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7447105,
+          55.650245
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 31809,
+        "ParkingNameen": "Перехватывающая парковка метрополитена «Марьино» 1",
+        "MetroStationen": null,
+        "MetroLineen": null,
+        "AdmAreaen": null,
+        "Districten": null,
+        "LocationDescriptionen": "",
+        "Scheduleen": "круглосуточно",
+        "OrgPhoneen": "",
+        "CarCapacityen": 38,
+        "LongitudeWGS84en": "37.7447105",
+        "LatitudeWGS84en": "55.650245",
+        "globalid": 2372268077
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.469368,
+          55.863318
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 31811,
+        "ParkingNameen": "Перехватывающая парковка метрополитена «Беломорская»",
+        "MetroStationen": null,
+        "MetroLineen": null,
+        "AdmAreaen": null,
+        "Districten": null,
+        "LocationDescriptionen": "",
+        "Scheduleen": "круглосуточно",
+        "OrgPhoneen": "",
+        "CarCapacityen": 88,
+        "LongitudeWGS84en": "37.469368",
+        "LatitudeWGS84en": "55.863318",
+        "globalid": 2372268078
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.790043,
+          55.788297
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 31814,
+        "ParkingNameen": "Перехватывающая парковка метрополитена «Измайловская» 1",
+        "MetroStationen": null,
+        "MetroLineen": null,
+        "AdmAreaen": null,
+        "Districten": null,
+        "LocationDescriptionen": "",
+        "Scheduleen": "круглосуточно",
+        "OrgPhoneen": "",
+        "CarCapacityen": 176,
+        "LongitudeWGS84en": "37.790043",
+        "LatitudeWGS84en": "55.788297",
+        "globalid": 2372268079
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.868208,
+          55.7454825
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 31815,
+        "ParkingNameen": "Перехватывающая парковка метрополитена «Новокосино» 3",
+        "MetroStationen": null,
+        "MetroLineen": null,
+        "AdmAreaen": null,
+        "Districten": null,
+        "LocationDescriptionen": "",
+        "Scheduleen": "круглосуточно",
+        "OrgPhoneen": "",
+        "CarCapacityen": 267,
+        "LongitudeWGS84en": "37.868207999999996",
+        "LatitudeWGS84en": "55.7454825",
+        "globalid": 2372268081
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.471859,
+          55.691793
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 27168,
+        "ParkingNameen": "Перехватывающая парковка метрополитена «Мичуринский проспект» 1",
+        "MetroStationen": null,
+        "MetroLineen": null,
+        "AdmAreaen": null,
+        "Districten": null,
+        "LocationDescriptionen": "",
+        "Scheduleen": "круглосуточно",
+        "OrgPhoneen": "",
+        "CarCapacityen": 89,
+        "LongitudeWGS84en": "37.471859",
+        "LatitudeWGS84en": "55.691793",
+        "globalid": 2372529384
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.474145,
+          55.69173
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 27169,
+        "ParkingNameen": "Перехватывающая парковка метрополитена «Мичуринский проспект» 2",
+        "MetroStationen": null,
+        "MetroLineen": null,
+        "AdmAreaen": null,
+        "Districten": null,
+        "LocationDescriptionen": "",
+        "Scheduleen": "круглосуточно",
+        "OrgPhoneen": "",
+        "CarCapacityen": 53,
+        "LongitudeWGS84en": "37.474145",
+        "LatitudeWGS84en": "55.69173",
+        "globalid": 2372529822
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

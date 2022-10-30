@@ -1,0 +1,1230 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.603020999921,
+          55.700891000114
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 21,
+        "Nameen": "Стационарный снегосплавный пункт «Загородный»",
+        "Owneren": "АО «Мосводоканал»",
+        "INNen": "",
+        "KPPen": "",
+        "OGRNen": "",
+        "AdmAreaen": "Yuzhny'j administrativny'j okrug",
+        "Districten": "Donskoj rajon",
+        "Addressen": "Канатчиковский проезд, владение 15К",
+        "DailyOutputen": 3500,
+        "LongitudeWGS84en": "37.603021",
+        "LatitudeWGS84en": "55.700891",
+        "globalid": 1699213
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.627232999822,
+          55.638762000084
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 22,
+        "Nameen": "Стационарный снегосплавный пункт «Тарный»",
+        "Owneren": "АО «Мосводоканал»",
+        "INNen": "",
+        "KPPen": "",
+        "OGRNen": "",
+        "AdmAreaen": "Yuzhny'j administrativny'j okrug",
+        "Districten": "rajon Czariczy'no",
+        "Addressen": "Тарный проезд, владение 1, строение 1",
+        "DailyOutputen": 7000,
+        "LongitudeWGS84en": "37.627233",
+        "LatitudeWGS84en": "55.638762",
+        "globalid": 1699214
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.509843000039,
+          55.650354999936
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 23,
+        "Nameen": "Стационарный снегосплавный пункт «Миклухо-1»",
+        "Owneren": "АО «Мосводоканал»",
+        "INNen": "",
+        "KPPen": "",
+        "OGRNen": "",
+        "AdmAreaen": "Yugo-Zapadny'j administrativny'j okrug",
+        "Districten": "Obruchevskij rajon",
+        "Addressen": "улица Миклухо-Маклая, владение 21Б",
+        "DailyOutputen": 7000,
+        "LongitudeWGS84en": "37.509843",
+        "LatitudeWGS84en": "55.650355",
+        "globalid": 1699215
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.509843000039,
+          55.650354999936
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 24,
+        "Nameen": "Стационарный снегосплавный пункт «Миклухо-2»",
+        "Owneren": "АО «Мосводоканал»",
+        "INNen": "",
+        "KPPen": "",
+        "OGRNen": "",
+        "AdmAreaen": "Yugo-Zapadny'j administrativny'j okrug",
+        "Districten": "Obruchevskij rajon",
+        "Addressen": "улица Миклухо-Маклая, владение 21Б",
+        "DailyOutputen": 7000,
+        "LongitudeWGS84en": "37.509843",
+        "LatitudeWGS84en": "55.650355",
+        "globalid": 1699216
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.572210000198,
+          55.692654999838
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 25,
+        "Nameen": "Стационарный снегоплавильный пункт «Черемушки»",
+        "Owneren": "АО «Мосводоканал»",
+        "INNen": "",
+        "KPPen": "",
+        "OGRNen": "",
+        "AdmAreaen": "Yugo-Zapadny'j administrativny'j okrug",
+        "Districten": "Akademicheskij rajon",
+        "Addressen": "Черёмушкинский проезд, владение 5А",
+        "DailyOutputen": 3500,
+        "LongitudeWGS84en": "37.572210",
+        "LatitudeWGS84en": "55.692655",
+        "globalid": 1699217
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.505143999925,
+          55.665638999977
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 26,
+        "Nameen": "Стационарный снегосплавный пункт «Лобачевский-1»",
+        "Owneren": "АО «Мосводоканал»",
+        "INNen": "",
+        "KPPen": "",
+        "OGRNen": "",
+        "AdmAreaen": "Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Prospekt Vernadskogo",
+        "Addressen": "улица Лобачевского, владение 5",
+        "DailyOutputen": 2100,
+        "LongitudeWGS84en": "37.505144",
+        "LatitudeWGS84en": "55.665639",
+        "globalid": 1699218
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.50683399957,
+          55.664281000092
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 27,
+        "Nameen": "Стационарный снегосплавный пункт «Лобачевский-2»",
+        "Owneren": "АО «Мосводоканал»",
+        "INNen": "",
+        "KPPen": "",
+        "OGRNen": "",
+        "AdmAreaen": "Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Prospekt Vernadskogo",
+        "Addressen": "улица Лобачевского, владение 3",
+        "DailyOutputen": 3500,
+        "LongitudeWGS84en": "37.506834",
+        "LatitudeWGS84en": "55.664281",
+        "globalid": 1699219
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.370916999841,
+          55.652575000235
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 28,
+        "Nameen": "Стационарный снегосплавный пункт «Боровский»",
+        "Owneren": "АО «Мосводоканал»",
+        "INNen": "",
+        "KPPen": "",
+        "OGRNen": "",
+        "AdmAreaen": "Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Solnczevo",
+        "Addressen": "Боровское шоссе, владение 14А",
+        "DailyOutputen": 3500,
+        "LongitudeWGS84en": "37.370917",
+        "LatitudeWGS84en": "55.652575",
+        "globalid": 1699220
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4175249996,
+          55.827368000176
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 29,
+        "Nameen": "Стационарный снегосплавный пункт «Волоколамский»",
+        "Owneren": "АО «Мосводоканал»",
+        "INNen": "",
+        "KPPen": "",
+        "OGRNen": "",
+        "AdmAreaen": "Severny'j administrativny'j okrug",
+        "Districten": "rajon Sokol",
+        "Addressen": "Волоколамское шоссе, владение 81, корпус 4",
+        "DailyOutputen": 3500,
+        "LongitudeWGS84en": "37.417525",
+        "LatitudeWGS84en": "55.827368",
+        "globalid": 1699221
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.397430000206,
+          55.830081999864
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 30,
+        "Nameen": "Стационарный снегоплавильный пункт «Волоколамский-2»",
+        "Owneren": "АО «Мосводоканал»",
+        "INNen": "",
+        "KPPen": "",
+        "OGRNen": "",
+        "AdmAreaen": "Severo-Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Pokrovskoe-Streshnevo",
+        "Addressen": "Волоколамское шоссе, дом 105, сооружение 1",
+        "DailyOutputen": 7000,
+        "LongitudeWGS84en": "37.397430",
+        "LatitudeWGS84en": "55.830082",
+        "globalid": 1699222
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.507775000102,
+          55.76231999989
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 31,
+        "Nameen": "Стационарный снегоплавильный пункт «Шеногино»",
+        "Owneren": "АО «Мосводоканал»",
+        "INNen": "",
+        "KPPen": "",
+        "OGRNen": "",
+        "AdmAreaen": "Severo-Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Xoroshyovo-Mnyovniki",
+        "Addressen": "Карамышевская набережная, владение 7",
+        "DailyOutputen": 3500,
+        "LongitudeWGS84en": "37.507775",
+        "LatitudeWGS84en": "55.762320",
+        "globalid": 1699223
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.64916900027,
+          55.730368999998
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 32,
+        "Nameen": "Стационарный снегосплавный пункт «Шлюзовая»",
+        "Owneren": "АО «Мосводоканал»",
+        "INNen": "",
+        "KPPen": "",
+        "OGRNen": "",
+        "AdmAreaen": "Czentral`ny'j administrativny'j okrug",
+        "Districten": "rajon Zamoskvorech`e",
+        "Addressen": "Шлюзовая набережная, дом 12, строение 1",
+        "DailyOutputen": 2100,
+        "LongitudeWGS84en": "37.649169",
+        "LatitudeWGS84en": "55.730369",
+        "globalid": 1699224
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.528605999988,
+          55.745657000187
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 33,
+        "Nameen": "Стационарный снегосплавный пункт «Краснопресненский»",
+        "Owneren": "АО «Мосводоканал»",
+        "INNen": "",
+        "KPPen": "",
+        "OGRNen": "",
+        "AdmAreaen": "Czentral`ny'j administrativny'j okrug",
+        "Districten": "Presnenskij rajon",
+        "Addressen": "Тестовская улица, дом 18",
+        "DailyOutputen": 7000,
+        "LongitudeWGS84en": "37.528606",
+        "LatitudeWGS84en": "55.745657",
+        "globalid": 1699225
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.52457200022,
+          55.748321999748
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 34,
+        "Nameen": "Стационарный снегосплавный пункт «Шелепихинский»",
+        "Owneren": "АО «Мосводоканал»",
+        "INNen": "",
+        "KPPen": "",
+        "OGRNen": "",
+        "AdmAreaen": "Czentral`ny'j administrativny'j okrug",
+        "Districten": "Presnenskij rajon",
+        "Addressen": "Шелепихинская набережная, дом 2, сооружение 1",
+        "DailyOutputen": 3500,
+        "LongitudeWGS84en": "37.524572",
+        "LatitudeWGS84en": "55.748322",
+        "globalid": 1699226
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.499434999681,
+          55.877806000245
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 1,
+        "Nameen": "Стационарный снегосплавный пункт «Бусиново»",
+        "Owneren": "АО «Мосводоканал»",
+        "INNen": "",
+        "KPPen": "",
+        "OGRNen": "",
+        "AdmAreaen": "Severny'j administrativny'j okrug",
+        "Districten": "rajon Zapadnoe Degunino",
+        "Addressen": "улица Бусиновская Горка, владение 1Г",
+        "DailyOutputen": 2100,
+        "LongitudeWGS84en": "37.499435",
+        "LatitudeWGS84en": "55.877806",
+        "globalid": 1699227
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.543314000252,
+          55.852669000109
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 2,
+        "Nameen": "Стационарный снегосплавный пункт «Лихоборский»",
+        "Owneren": "АО «Мосводоканал»",
+        "INNen": "",
+        "KPPen": "",
+        "OGRNen": "",
+        "AdmAreaen": "Severny'j administrativny'j okrug",
+        "Districten": "Golovinskij rajon",
+        "Addressen": "Лихоборская набережная, владение 15",
+        "DailyOutputen": 3500,
+        "LongitudeWGS84en": "37.543314",
+        "LatitudeWGS84en": "55.852669",
+        "globalid": 1699228
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.507205000189,
+          55.885813000104
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 3,
+        "Nameen": "Стационарный снегосплавный пункт «Ижорский»",
+        "Owneren": "АО «Мосводоканал»",
+        "INNen": "",
+        "KPPen": "",
+        "OGRNen": "",
+        "AdmAreaen": "Severny'j administrativny'j okrug",
+        "Districten": "rajon Zapadnoe Degunino",
+        "Addressen": "Ижорская улица, дом 8Г, строение 1",
+        "DailyOutputen": 7000,
+        "LongitudeWGS84en": "37.507205",
+        "LatitudeWGS84en": "55.885813",
+        "globalid": 1699229
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.602574000032,
+          55.852265000025
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 4,
+        "Nameen": "Стационарный снегосплавный пункт «Сигнальный»",
+        "Owneren": "АО «Мосводоканал»",
+        "INNen": "",
+        "KPPen": "",
+        "OGRNen": "",
+        "AdmAreaen": "Severo-Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Otradnoe",
+        "Addressen": "Сигнальный проезд, владение 41А",
+        "DailyOutputen": 3500,
+        "LongitudeWGS84en": "37.602574",
+        "LatitudeWGS84en": "55.852265",
+        "globalid": 1699230
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.628400000309,
+          55.856244000031
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 5,
+        "Nameen": "Стационарный снегоплавильный пункт «Сельскохозяйственный»",
+        "Owneren": "АО «Мосводоканал»",
+        "INNen": "",
+        "KPPen": "",
+        "OGRNen": "",
+        "AdmAreaen": "Severo-Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Sviblovo",
+        "Addressen": "Сельскохозяйственная улица, владение 58",
+        "DailyOutputen": 7000,
+        "LongitudeWGS84en": "37.628400",
+        "LatitudeWGS84en": "55.856244",
+        "globalid": 1699231
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.700512999953,
+          55.8074940001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 6,
+        "Nameen": "Стационарный снегосплавный пункт «Черкизово-1»",
+        "Owneren": "АО «Мосводоканал»",
+        "INNen": "",
+        "KPPen": "",
+        "OGRNen": "",
+        "AdmAreaen": "Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Sokol`niki",
+        "Addressen": "Большая Оленья улица, владение 10А, сооружение 1",
+        "DailyOutputen": 3500,
+        "LongitudeWGS84en": "37.700513",
+        "LatitudeWGS84en": "55.807494",
+        "globalid": 1699232
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.699590999688,
+          55.80776199977
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 7,
+        "Nameen": "Стационарный снегосплавный пункт «Черкизово-2»",
+        "Owneren": "АО «Мосводоканал»",
+        "INNen": "",
+        "KPPen": "",
+        "OGRNen": "",
+        "AdmAreaen": "Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Sokol`niki",
+        "Addressen": "Большая Оленья улица, владение 10А, сооружение 1",
+        "DailyOutputen": 3500,
+        "LongitudeWGS84en": "37.699591",
+        "LatitudeWGS84en": "55.807762",
+        "globalid": 1699233
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.770792999837,
+          55.733928999747
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 8,
+        "Nameen": "Стационарный снегосплавный пункт «Перово»",
+        "Owneren": "АО «Мосводоканал»",
+        "INNen": "",
+        "KPPen": "",
+        "OGRNen": "",
+        "AdmAreaen": "Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Veshnyaki",
+        "Addressen": "аллея Первой Маёвки, владение 2А",
+        "DailyOutputen": 3500,
+        "LongitudeWGS84en": "37.770793",
+        "LatitudeWGS84en": "55.733929",
+        "globalid": 1699234
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.826561999998,
+          55.71392200001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 9,
+        "Nameen": "Стационарный снегосплавный пункт «Косинский»",
+        "Owneren": "АО «Мосводоканал»",
+        "INNen": "",
+        "KPPen": "",
+        "OGRNen": "",
+        "AdmAreaen": "Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Veshnyaki",
+        "Addressen": "Косинская улица, владение 17",
+        "DailyOutputen": 3500,
+        "LongitudeWGS84en": "37.826562",
+        "LatitudeWGS84en": "55.713922",
+        "globalid": 1699235
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.833662999961,
+          55.711476000034
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 10,
+        "Nameen": "Стационарный снегосплавный пункт «Выхино»",
+        "Owneren": "АО «Мосводоканал»",
+        "INNen": "",
+        "KPPen": "",
+        "OGRNen": "",
+        "AdmAreaen": "Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Veshnyaki",
+        "Addressen": "Косинская улица, дом 13Б",
+        "DailyOutputen": 3500,
+        "LongitudeWGS84en": "37.833663",
+        "LatitudeWGS84en": "55.711476",
+        "globalid": 1699236
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.820024000275,
+          55.706711999953
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 11,
+        "Nameen": "Стационарный снегосплавный пункт «Ухтомский-1»",
+        "Owneren": "АО «Мосводоканал»",
+        "INNen": "",
+        "KPPen": "",
+        "OGRNen": "",
+        "AdmAreaen": "Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Kosino-Uxtomskij",
+        "Addressen": "Большая Косинская улица, владение 1К",
+        "DailyOutputen": 3500,
+        "LongitudeWGS84en": "37.820024",
+        "LatitudeWGS84en": "55.706712",
+        "globalid": 1699237
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.820024000275,
+          55.706711999953
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 12,
+        "Nameen": "Стационарный снегосплавный пункт «Ухтомский-2»",
+        "Owneren": "АО «Мосводоканал»",
+        "INNen": "",
+        "KPPen": "",
+        "OGRNen": "",
+        "AdmAreaen": "Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Kosino-Uxtomskij",
+        "Addressen": "Большая Косинская улица, владение 1К",
+        "DailyOutputen": 3500,
+        "LongitudeWGS84en": "37.820024",
+        "LatitudeWGS84en": "55.706712",
+        "globalid": 1699238
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.820024000275,
+          55.706711999953
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 13,
+        "Nameen": "Стационарный снегосплавный пункт «Ухтомский-3»",
+        "Owneren": "АО «Мосводоканал»",
+        "INNen": "",
+        "KPPen": "",
+        "OGRNen": "",
+        "AdmAreaen": "Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Kosino-Uxtomskij",
+        "Addressen": "Большая Косинская улица, владение 1К, строение 9",
+        "DailyOutputen": 7000,
+        "LongitudeWGS84en": "37.820024",
+        "LatitudeWGS84en": "55.706712",
+        "globalid": 1699239
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.790396000034,
+          55.674079999901
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 14,
+        "Nameen": "Стационарный снегоплавильный пункт «Чагино-Капотня»",
+        "Owneren": "АО «Мосводоканал»",
+        "INNen": "",
+        "KPPen": "",
+        "OGRNen": "",
+        "AdmAreaen": "Yugo-Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Mar`ino",
+        "Addressen": "улица Перерва, владение 88, строение 1",
+        "DailyOutputen": 3500,
+        "LongitudeWGS84en": "37.790396",
+        "LatitudeWGS84en": "55.674080",
+        "globalid": 1699240
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.691703000078,
+          55.654042000034
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 15,
+        "Nameen": "Стационарный снегосплавный пункт «Курьяновский»",
+        "Owneren": "АО «Мосводоканал»",
+        "INNen": "",
+        "KPPen": "",
+        "OGRNen": "",
+        "AdmAreaen": "Yugo-Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Pechatniki",
+        "Addressen": "1-й Курьяновский проезд, дом 15, строение 216",
+        "DailyOutputen": 7000,
+        "LongitudeWGS84en": "37.691703",
+        "LatitudeWGS84en": "55.654042",
+        "globalid": 1699241
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.733051999855,
+          55.697056000026
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 16,
+        "Nameen": "Стационарный снегосплавный пункт «Люблино»",
+        "Owneren": "АО «Мосводоканал»",
+        "INNen": "",
+        "KPPen": "",
+        "OGRNen": "",
+        "AdmAreaen": "Yugo-Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Tekstil`shhiki",
+        "Addressen": "Люблинская улица, владение 18Б",
+        "DailyOutputen": 1400,
+        "LongitudeWGS84en": "37.733052",
+        "LatitudeWGS84en": "55.697056",
+        "globalid": 1699242
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.728685000002,
+          55.713472000056
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 17,
+        "Nameen": "Стационарный снегосплавный пункт «Саратовский»",
+        "Owneren": "АО «Мосводоканал»",
+        "INNen": "",
+        "KPPen": "",
+        "OGRNen": "",
+        "AdmAreaen": "Yugo-Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Tekstil`shhiki",
+        "Addressen": "Люблинская улица, владение 2И",
+        "DailyOutputen": 2100,
+        "LongitudeWGS84en": "37.728685",
+        "LatitudeWGS84en": "55.713472",
+        "globalid": 1699243
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.692950000033,
+          55.636426000011
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 18,
+        "Nameen": "Стационарный снегоплавильный пункт «Каширский-1»",
+        "Owneren": "АО «Мосводоканал»",
+        "INNen": "",
+        "KPPen": "",
+        "OGRNen": "",
+        "AdmAreaen": "Yuzhny'j administrativny'j okrug",
+        "Districten": "rajon Moskvorech`e-Saburovo",
+        "Addressen": "Каширское шоссе, владение 80Г",
+        "DailyOutputen": 3500,
+        "LongitudeWGS84en": "37.692950",
+        "LatitudeWGS84en": "55.636426",
+        "globalid": 1699244
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.694258999912,
+          55.636086999994
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 19,
+        "Nameen": "Стационарный снегосплавный пункт «Каширский-2»",
+        "Owneren": "АО «Мосводоканал»",
+        "INNen": "",
+        "KPPen": "",
+        "OGRNen": "",
+        "AdmAreaen": "Yuzhny'j administrativny'j okrug",
+        "Districten": "rajon Moskvorech`e-Saburovo",
+        "Addressen": "Каширское шоссе, владение 80Г",
+        "DailyOutputen": 3500,
+        "LongitudeWGS84en": "37.694259",
+        "LatitudeWGS84en": "55.636087",
+        "globalid": 1699245
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.607301999561,
+          55.576986000178
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 20,
+        "Nameen": "Стационарный снегосплавный пункт «Дорожный»",
+        "Owneren": "АО «Мосводоканал»",
+        "INNen": "",
+        "KPPen": "",
+        "OGRNen": "",
+        "AdmAreaen": "Yuzhny'j administrativny'j okrug",
+        "Districten": "rajon Chertanovo Yuzhnoe",
+        "Addressen": "Дорожная улица, дом 62А",
+        "DailyOutputen": 3500,
+        "LongitudeWGS84en": "37.607302",
+        "LatitudeWGS84en": "55.576986",
+        "globalid": 1699246
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.207273000303,
+          55.951350999918
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 35,
+        "Nameen": "Стационарный снегосплавный пункт «Зеленоградский»",
+        "Owneren": "АО «Мосводоканал»",
+        "INNen": "",
+        "KPPen": "",
+        "OGRNen": "",
+        "AdmAreaen": "Zelenogradskij administrativny'j okrug",
+        "Districten": "rajon Kryukovo",
+        "Addressen": "Середниковская улица, дом 12",
+        "DailyOutputen": 3500,
+        "LongitudeWGS84en": "37.207273",
+        "LatitudeWGS84en": "55.951351",
+        "globalid": 1699247
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.647855000368,
+          55.706572999773
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 36,
+        "Nameen": "Стационарный снегосплавный пункт у ТЭЦ-9",
+        "Owneren": "ГУП «Мосводосток»",
+        "INNen": "",
+        "KPPen": "",
+        "OGRNen": "",
+        "AdmAreaen": "Yuzhny'j administrativny'j okrug",
+        "Districten": "Danilovskij rajon",
+        "Addressen": "Ленинская Слобода ул., д. 21",
+        "DailyOutputen": 3000,
+        "LongitudeWGS84en": "37.647855",
+        "LatitudeWGS84en": "55.706573",
+        "globalid": 13894866
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.688795,
+          55.889399
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 37,
+        "Nameen": "Стационарный снегосплавный пункт «Ичка»",
+        "Owneren": "ГУП «Мосводосток»",
+        "INNen": "",
+        "KPPen": "",
+        "OGRNen": "",
+        "AdmAreaen": "Severo-Vostochny'j administrativny'j okrug",
+        "Districten": "Losinoostrovskij rajon",
+        "Addressen": "город Москва, Стартовая улица, владение 1, строение 5",
+        "DailyOutputen": 1500,
+        "LongitudeWGS84en": "37.688795",
+        "LatitudeWGS84en": "55.889399",
+        "globalid": 13894908
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.629582999791,
+          55.883166000163
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 38,
+        "Nameen": "Стационарный снегосплавный пункт «Вилюйская»",
+        "Owneren": "ГУП «Мосводосток»",
+        "INNen": "",
+        "KPPen": "",
+        "OGRNen": "",
+        "AdmAreaen": "Severo-Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Yuzhnoe Medvedkovo",
+        "Addressen": "Вилюйская ул., вл. 5",
+        "DailyOutputen": 1257,
+        "LongitudeWGS84en": "37.629583",
+        "LatitudeWGS84en": "55.883166",
+        "globalid": 13894909
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.72196599963,
+          55.787623999892
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 39,
+        "Nameen": "Стационарный снегосплавный пункт «Хапиловка»",
+        "Owneren": "ГУП «Мосводосток»",
+        "INNen": "",
+        "KPPen": "",
+        "OGRNen": "",
+        "AdmAreaen": "Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Preobrazhenskoe",
+        "Addressen": "Преображенский вал ул., вл. 31а",
+        "DailyOutputen": 1500,
+        "LongitudeWGS84en": "37.721966",
+        "LatitudeWGS84en": "55.787624",
+        "globalid": 13894913
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.674921000029,
+          55.750301999749
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 40,
+        "Nameen": "Стационарный снегосплавный пункт «Золотой Рожок»",
+        "Owneren": "ГУП «Мосводосток»",
+        "INNen": "",
+        "KPPen": "",
+        "OGRNen": "",
+        "AdmAreaen": "Yugo-Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Lefortovo",
+        "Addressen": "Волочаевская ул., д.42 соор.1",
+        "DailyOutputen": 1000,
+        "LongitudeWGS84en": "37.674921",
+        "LatitudeWGS84en": "55.750302",
+        "globalid": 13894914
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.621066,
+          55.576121
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 41,
+        "Nameen": "Стационарный снегосплавный пункт у ТЭЦ-26",
+        "Owneren": "ГУП «Мосводосток»",
+        "INNen": "",
+        "KPPen": "",
+        "OGRNen": "",
+        "AdmAreaen": "Yuzhny'j administrativny'j okrug",
+        "Districten": "rajon Biryulyovo Zapadnoe",
+        "Addressen": "город Москва, Востряковский проезд, владение 10, корпус 1",
+        "DailyOutputen": 12900,
+        "LongitudeWGS84en": "37.621066",
+        "LatitudeWGS84en": "55.576121",
+        "globalid": 13894924
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.661186000083,
+          55.699121999915
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 42,
+        "Nameen": "Стационарный снегосплавный пункт «Кожуховский пруд»",
+        "Owneren": "ГУП «Мосводосток»",
+        "INNen": "",
+        "KPPen": "",
+        "OGRNen": "",
+        "AdmAreaen": "Yuzhny'j administrativny'j okrug",
+        "Districten": "Danilovskij rajon",
+        "Addressen": "Лобанова ул., д.12",
+        "DailyOutputen": 1000,
+        "LongitudeWGS84en": "37.661186",
+        "LatitudeWGS84en": "55.699122",
+        "globalid": 13894925
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.781355,
+          55.624863
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 43,
+        "Nameen": "Стационарный снегосплавный пункт «Городня-2»",
+        "Owneren": "ГУП «Мосводосток»",
+        "INNen": "",
+        "KPPen": "",
+        "OGRNen": "",
+        "AdmAreaen": "Yuzhny'j administrativny'j okrug",
+        "Districten": "rajon Brateevo",
+        "Addressen": "город Москва, Проектируемый проезд № 5402, владение 19",
+        "DailyOutputen": 3000,
+        "LongitudeWGS84en": "37.781355",
+        "LatitudeWGS84en": "55.624863",
+        "globalid": 13894931
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.594261,
+          55.569774
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 44,
+        "Nameen": "Стационарный снегосплавный пункт «Северное Бутово»",
+        "Owneren": "ГУП «Мосводосток»",
+        "INNen": "",
+        "KPPen": "",
+        "OGRNen": "",
+        "AdmAreaen": "Yugo-Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Severnoe Butovo",
+        "Addressen": "город Москва, Старобитцевская улица, владение 4, строение 5",
+        "DailyOutputen": 1500,
+        "LongitudeWGS84en": "37.594261",
+        "LatitudeWGS84en": "55.569774",
+        "globalid": 13894934
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.452084999583,
+          55.701831000154
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 45,
+        "Nameen": "Стационарный снегосплавный пункт у ТЭЦ-25",
+        "Owneren": "ГУП «Мосводосток»",
+        "INNen": "",
+        "KPPen": "",
+        "OGRNen": "",
+        "AdmAreaen": "Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Ochakovo-Matveevskoe",
+        "Addressen": "Генерала Дорохова ул., 11",
+        "DailyOutputen": 1650,
+        "LongitudeWGS84en": "37.452085",
+        "LatitudeWGS84en": "55.701831",
+        "globalid": 13894935
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.386174999926,
+          55.850429000062
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 46,
+        "Nameen": "Стационарный снегосплавный пункт «Митино»",
+        "Owneren": "ГУП «Мосводосток»",
+        "INNen": "",
+        "KPPen": "",
+        "OGRNen": "",
+        "AdmAreaen": "Severo-Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Mitino",
+        "Addressen": "1-й Митинский пер., вл.21",
+        "DailyOutputen": 1500,
+        "LongitudeWGS84en": "37.386175",
+        "LatitudeWGS84en": "55.850429",
+        "globalid": 13894938
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.486230000363,
+          55.813515999864
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 47,
+        "Nameen": "Стационарный снегосплавный пункт «Красногорская»",
+        "Owneren": "ГУП «Мосводосток»",
+        "INNen": "",
+        "KPPen": "",
+        "OGRNen": "",
+        "AdmAreaen": "Severo-Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Shhukino",
+        "Addressen": "1-ый Красногорский пр-д, вл.4",
+        "DailyOutputen": 1400,
+        "LongitudeWGS84en": "37.48623",
+        "LatitudeWGS84en": "55.813516",
+        "globalid": 13894939
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.506208,
+          55.886953
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 48,
+        "Nameen": "Стационарный снегосплавный пункт у ТЭЦ-21",
+        "Owneren": "ГУП «Мосводосток»",
+        "INNen": "",
+        "KPPen": "",
+        "OGRNen": "",
+        "AdmAreaen": "Severny'j administrativny'j okrug",
+        "Districten": "Dmitrovskij rajon",
+        "Addressen": "город Москва, Ижорская улица, дом 9Б, сооружение 4",
+        "DailyOutputen": 3500,
+        "LongitudeWGS84en": "37.506208",
+        "LatitudeWGS84en": "55.886953",
+        "globalid": 13895013
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.447063,
+          55.712807
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 49,
+        "Nameen": "Стационарный снегосплавный пункт «Верейский»",
+        "Owneren": "ГУП «Мосводосток»",
+        "INNen": "",
+        "KPPen": "",
+        "OGRNen": "",
+        "AdmAreaen": "Zapadny'j administrativny'j okrug",
+        "Districten": "Mozhajskij rajon",
+        "Addressen": "Верейская ул., д. 10, кор. 4",
+        "DailyOutputen": 7000,
+        "LongitudeWGS84en": "37.447063",
+        "LatitudeWGS84en": "55.712807",
+        "globalid": 880890188
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

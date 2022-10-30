@@ -1,0 +1,1853 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.655524,
+          55.777986
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 2,
+        "Nameen": "Ленинградский вокзал, турникетная линейка 2, вход-выход",
+        "Stationen": null,
+        "RailwayLineen": null,
+        "WorkingHoursen": "круглосуточно",
+        "LatitudeWGS84en": "55.777986",
+        "LongitudeWGS84en": "37.655524",
+        "ObjectStatusen": null,
+        "globalid": 1272821225
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.553618,
+          55.846897
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 31,
+        "Nameen": "Лихоборы, вход-выход в вестибюль",
+        "Stationen": null,
+        "RailwayLineen": null,
+        "WorkingHoursen": "04:20-01:30",
+        "LatitudeWGS84en": "55.846897",
+        "LongitudeWGS84en": "37.553618",
+        "ObjectStatusen": null,
+        "globalid": 1609179357
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.55512,
+          55.805225
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 310,
+        "Nameen": "Гражданская, вход-выход",
+        "Stationen": null,
+        "RailwayLineen": null,
+        "WorkingHoursen": "05:00-01:00",
+        "LatitudeWGS84en": "55.805225",
+        "LongitudeWGS84en": "37.555120",
+        "ObjectStatusen": null,
+        "globalid": 1609205172
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.579305,
+          55.808258
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 337,
+        "Nameen": "Дмитровская, вход-выход",
+        "Stationen": null,
+        "RailwayLineen": null,
+        "WorkingHoursen": "05:00-01:00",
+        "LatitudeWGS84en": "55.808258",
+        "LongitudeWGS84en": "37.579305",
+        "ObjectStatusen": null,
+        "globalid": 1609205179
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.515198,
+          55.744231
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 200,
+        "Nameen": "Фили, вход-выход",
+        "Stationen": null,
+        "RailwayLineen": null,
+        "WorkingHoursen": "05:00-01:00",
+        "LatitudeWGS84en": "55.744231",
+        "LongitudeWGS84en": "37.515198",
+        "ObjectStatusen": null,
+        "globalid": 1609205182
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.461462,
+          55.810905
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 338,
+        "Nameen": "Щукинская, вход-выход 1",
+        "Stationen": null,
+        "RailwayLineen": null,
+        "WorkingHoursen": "05:00-01:00",
+        "LatitudeWGS84en": "55.810905",
+        "LongitudeWGS84en": "37.461462",
+        "ObjectStatusen": null,
+        "globalid": 1609205184
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.487415,
+          55.81564
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 313,
+        "Nameen": "Стрешнево, вход-выход",
+        "Stationen": null,
+        "RailwayLineen": null,
+        "WorkingHoursen": "05:00-01:00",
+        "LatitudeWGS84en": "55.815640",
+        "LongitudeWGS84en": "37.487415",
+        "ObjectStatusen": null,
+        "globalid": 1609205185
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.531604,
+          55.752812
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 201,
+        "Nameen": "Тестовская, вход-выход",
+        "Stationen": null,
+        "RailwayLineen": null,
+        "WorkingHoursen": "05:00-01:00",
+        "LatitudeWGS84en": "55.752812",
+        "LongitudeWGS84en": "37.531604",
+        "ObjectStatusen": null,
+        "globalid": 1609205186
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.63317,
+          55.793931
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 339,
+        "Nameen": "Рижский вокзал, вход-выход",
+        "Stationen": null,
+        "RailwayLineen": null,
+        "WorkingHoursen": "05:00-01:01",
+        "LatitudeWGS84en": "55.793931",
+        "LongitudeWGS84en": "37.633170",
+        "ObjectStatusen": null,
+        "globalid": 1609205187
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.627831,
+          55.629748
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 179,
+        "Nameen": "Чертаново, вход-выход на платформу",
+        "Stationen": null,
+        "RailwayLineen": null,
+        "WorkingHoursen": "05:00-01:00",
+        "LatitudeWGS84en": "55.629748",
+        "LongitudeWGS84en": "37.627831",
+        "ObjectStatusen": null,
+        "globalid": 1609205200
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.38355,
+          55.833346
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 319,
+        "Nameen": "Волоколамская, вход-выход",
+        "Stationen": null,
+        "RailwayLineen": null,
+        "WorkingHoursen": "05:00-01:00",
+        "LatitudeWGS84en": "55.833346",
+        "LongitudeWGS84en": "37.383550",
+        "ObjectStatusen": null,
+        "globalid": 1609205210
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.549662,
+          55.773365
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 207,
+        "Nameen": "Беговая, вход-выход",
+        "Stationen": null,
+        "RailwayLineen": null,
+        "WorkingHoursen": "05:00-01:00",
+        "LatitudeWGS84en": "55.773365",
+        "LongitudeWGS84en": "37.549662",
+        "ObjectStatusen": null,
+        "globalid": 1609205213
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.360096,
+          55.822026
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 320,
+        "Nameen": "Пенягино, вход-выход",
+        "Stationen": null,
+        "RailwayLineen": null,
+        "WorkingHoursen": "05:00-01:00",
+        "LatitudeWGS84en": "55.822026",
+        "LongitudeWGS84en": "37.360096",
+        "ObjectStatusen": null,
+        "globalid": 1609205215
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.582197,
+          55.777095
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 208,
+        "Nameen": "Белорусская, вход-выход",
+        "Stationen": null,
+        "RailwayLineen": null,
+        "WorkingHoursen": "05:00-01:00",
+        "LatitudeWGS84en": "55.777095",
+        "LongitudeWGS84en": "37.582197",
+        "ObjectStatusen": null,
+        "globalid": 1609205217
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.525743,
+          55.81562
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 322,
+        "Nameen": "Красный Балтиец, вход-выход",
+        "Stationen": null,
+        "RailwayLineen": null,
+        "WorkingHoursen": "05:00-01:00",
+        "LatitudeWGS84en": "55.815620",
+        "LongitudeWGS84en": "37.525743",
+        "ObjectStatusen": null,
+        "globalid": 1609205222
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.587374,
+          55.794323
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 211,
+        "Nameen": "Савёловская, вход-выход",
+        "Stationen": null,
+        "RailwayLineen": null,
+        "WorkingHoursen": "05:00-01:00",
+        "LatitudeWGS84en": "55.794323",
+        "LongitudeWGS84en": "37.587374",
+        "ObjectStatusen": null,
+        "globalid": 1609205234
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.396494,
+          55.723231
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 187,
+        "Nameen": "Сетунь, вход-выход",
+        "Stationen": null,
+        "RailwayLineen": null,
+        "WorkingHoursen": "05:00-01:00",
+        "LatitudeWGS84en": "55.723231",
+        "LongitudeWGS84en": "37.396494",
+        "ObjectStatusen": null,
+        "globalid": 1609205235
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.461462,
+          55.810905
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 326,
+        "Nameen": "Щукинская, вход-выход 2",
+        "Stationen": null,
+        "RailwayLineen": null,
+        "WorkingHoursen": "05:00-01:00",
+        "LatitudeWGS84en": "55.810905",
+        "LongitudeWGS84en": "37.461462",
+        "ObjectStatusen": null,
+        "globalid": 1609205240
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.397191,
+          55.833555
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 327,
+        "Nameen": "Трикотажная, вход-выход",
+        "Stationen": null,
+        "RailwayLineen": null,
+        "WorkingHoursen": "05:00-01:00",
+        "LatitudeWGS84en": "55.833555",
+        "LongitudeWGS84en": "37.397191",
+        "ObjectStatusen": null,
+        "globalid": 1609205243
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.577275,
+          55.817772
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 214,
+        "Nameen": "Тимирязевская, вход-выход",
+        "Stationen": null,
+        "RailwayLineen": null,
+        "WorkingHoursen": "05:00-01:00",
+        "LatitudeWGS84en": "55.817772",
+        "LongitudeWGS84en": "37.577275",
+        "ObjectStatusen": null,
+        "globalid": 1609205244
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.574367,
+          55.847409
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 216,
+        "Nameen": "Окружная, вход-выход",
+        "Stationen": null,
+        "RailwayLineen": null,
+        "WorkingHoursen": "05:00-01:00",
+        "LatitudeWGS84en": "55.847409",
+        "LongitudeWGS84en": "37.574367",
+        "ObjectStatusen": null,
+        "globalid": 1609205253
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.446597,
+          55.726825
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 192,
+        "Nameen": "Кунцевская, вход-выход",
+        "Stationen": null,
+        "RailwayLineen": null,
+        "WorkingHoursen": "05:00-01:00",
+        "LatitudeWGS84en": "55.726825",
+        "LongitudeWGS84en": "37.446597",
+        "ObjectStatusen": null,
+        "globalid": 1609205254
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.572725,
+          55.867065
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 218,
+        "Nameen": "Дегунино, вход-выход",
+        "Stationen": null,
+        "RailwayLineen": null,
+        "WorkingHoursen": "05:00-01:00",
+        "LatitudeWGS84en": "55.867065",
+        "LongitudeWGS84en": "37.572725",
+        "ObjectStatusen": null,
+        "globalid": 1609205265
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.472291,
+          55.73075
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 195,
+        "Nameen": "Славянский бульвар, вход-выход",
+        "Stationen": null,
+        "RailwayLineen": null,
+        "WorkingHoursen": "05:00-01:00",
+        "LatitudeWGS84en": "55.730750",
+        "LongitudeWGS84en": "37.472291",
+        "ObjectStatusen": null,
+        "globalid": 1609205269
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.438203,
+          55.828159
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 333,
+        "Nameen": "Тушинская, вход-выход",
+        "Stationen": null,
+        "RailwayLineen": null,
+        "WorkingHoursen": "05:00-01:00",
+        "LatitudeWGS84en": "55.828159",
+        "LongitudeWGS84en": "37.438203",
+        "ObjectStatusen": null,
+        "globalid": 1609205272
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.567482,
+          55.881671
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 225,
+        "Nameen": "Бескудниково, вход-выход",
+        "Stationen": null,
+        "RailwayLineen": null,
+        "WorkingHoursen": "05:00-01:00",
+        "LatitudeWGS84en": "55.881671",
+        "LongitudeWGS84en": "37.567482",
+        "ObjectStatusen": null,
+        "globalid": 1609205319
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.553882,
+          55.897203
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 227,
+        "Nameen": "Лианозово, вход-выход",
+        "Stationen": null,
+        "RailwayLineen": null,
+        "WorkingHoursen": "05:00-01:00",
+        "LatitudeWGS84en": "55.897203",
+        "LongitudeWGS84en": "37.553882",
+        "ObjectStatusen": null,
+        "globalid": 1609205324
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.527819,
+          55.925155
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 231,
+        "Nameen": "Новодачная, вход-выход",
+        "Stationen": null,
+        "RailwayLineen": null,
+        "WorkingHoursen": "05:00-01:00",
+        "LatitudeWGS84en": "55.925155",
+        "LongitudeWGS84en": "37.527819",
+        "ObjectStatusen": null,
+        "globalid": 1609205335
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.520195,
+          55.940404
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 233,
+        "Nameen": "Долгопрудная, вход-выход",
+        "Stationen": null,
+        "RailwayLineen": null,
+        "WorkingHoursen": "05:00-01:00",
+        "LatitudeWGS84en": "55.940404",
+        "LongitudeWGS84en": "37.520195",
+        "ObjectStatusen": null,
+        "globalid": 1609205341
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.555761,
+          55.485849
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 237,
+        "Nameen": "Остафьево, вход-выход",
+        "Stationen": null,
+        "RailwayLineen": null,
+        "WorkingHoursen": "05:00-01:00",
+        "LatitudeWGS84en": "55.485849",
+        "LongitudeWGS84en": "37.555761",
+        "ObjectStatusen": null,
+        "globalid": 1609205352
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.561603,
+          55.508618
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 239,
+        "Nameen": "Щербинка, вход-выход",
+        "Stationen": null,
+        "RailwayLineen": null,
+        "WorkingHoursen": "05:00-01:00",
+        "LatitudeWGS84en": "55.508618",
+        "LongitudeWGS84en": "37.561603",
+        "ObjectStatusen": null,
+        "globalid": 1609205357
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.570691,
+          55.542269
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 246,
+        "Nameen": "Бутово, вход-выход",
+        "Stationen": null,
+        "RailwayLineen": null,
+        "WorkingHoursen": "05:00-01:00",
+        "LatitudeWGS84en": "55.542269",
+        "LongitudeWGS84en": "37.570691",
+        "ObjectStatusen": null,
+        "globalid": 1609205375
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.632215,
+          55.603288
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 249,
+        "Nameen": "Покровское, вход-выход",
+        "Stationen": null,
+        "RailwayLineen": null,
+        "WorkingHoursen": "05:00-01:00",
+        "LatitudeWGS84en": "55.603288",
+        "LongitudeWGS84en": "37.632215",
+        "ObjectStatusen": null,
+        "globalid": 1609205417
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.734733,
+          55.684952
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 272,
+        "Nameen": "Люблино, вход-выход",
+        "Stationen": null,
+        "RailwayLineen": null,
+        "WorkingHoursen": "05:00-01:00",
+        "LatitudeWGS84en": "55.684952",
+        "LongitudeWGS84en": "37.734733",
+        "ObjectStatusen": null,
+        "globalid": 1609205436
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.715289,
+          55.724113
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 297,
+        "Nameen": "Новохохловская, вход-выход",
+        "Stationen": null,
+        "RailwayLineen": null,
+        "WorkingHoursen": "05:00-01:00",
+        "LatitudeWGS84en": "55.724113",
+        "LongitudeWGS84en": "37.715289",
+        "ObjectStatusen": null,
+        "globalid": 1609205439
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.668901,
+          55.617292
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 257,
+        "Nameen": "Царицыно, вход-выход",
+        "Stationen": null,
+        "RailwayLineen": null,
+        "WorkingHoursen": "05:00-01:00",
+        "LatitudeWGS84en": "55.617292",
+        "LongitudeWGS84en": "37.668901",
+        "ObjectStatusen": null,
+        "globalid": 1609205442
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.729568,
+          55.708583
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 274,
+        "Nameen": "Текстильщики, вход-выход",
+        "Stationen": null,
+        "RailwayLineen": null,
+        "WorkingHoursen": "05:00-01:00",
+        "LatitudeWGS84en": "55.708583",
+        "LongitudeWGS84en": "37.729568",
+        "ObjectStatusen": null,
+        "globalid": 1609205448
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.689302,
+          55.639823
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 259,
+        "Nameen": "Москворечье, вход-выход",
+        "Stationen": null,
+        "RailwayLineen": null,
+        "WorkingHoursen": "05:00-01:00",
+        "LatitudeWGS84en": "55.639823",
+        "LongitudeWGS84en": "37.689302",
+        "ObjectStatusen": null,
+        "globalid": 1609205450
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.702632,
+          55.649326
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 260,
+        "Nameen": "Курьяново, вход-выход",
+        "Stationen": null,
+        "RailwayLineen": null,
+        "WorkingHoursen": "05:00-01:00",
+        "LatitudeWGS84en": "55.649326",
+        "LongitudeWGS84en": "37.702632",
+        "ObjectStatusen": null,
+        "globalid": 1609205456
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.687394,
+          55.744957
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 278,
+        "Nameen": "Москва-Товарная, вход-выход",
+        "Stationen": null,
+        "RailwayLineen": null,
+        "WorkingHoursen": "05:00-01:00",
+        "LatitudeWGS84en": "55.744957",
+        "LongitudeWGS84en": "37.687394",
+        "ObjectStatusen": null,
+        "globalid": 1609205469
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.716177,
+          55.662117
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 263,
+        "Nameen": "Перерва, вход-выход",
+        "Stationen": null,
+        "RailwayLineen": null,
+        "WorkingHoursen": "05:00-01:00",
+        "LatitudeWGS84en": "55.662117",
+        "LongitudeWGS84en": "37.716177",
+        "ObjectStatusen": null,
+        "globalid": 1609205473
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.616359,
+          55.58903
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 284,
+        "Nameen": "Красный Строитель, вход-выход",
+        "Stationen": null,
+        "RailwayLineen": null,
+        "WorkingHoursen": "05:00-01:00",
+        "LatitudeWGS84en": "55.589030",
+        "LongitudeWGS84en": "37.616359",
+        "ObjectStatusen": null,
+        "globalid": 1609205494
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.73238,
+          55.673758
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 269,
+        "Nameen": "Депо, вход-выход",
+        "Stationen": null,
+        "RailwayLineen": null,
+        "WorkingHoursen": "05:00-01:00",
+        "LatitudeWGS84en": "55.673758",
+        "LongitudeWGS84en": "37.732380",
+        "ObjectStatusen": null,
+        "globalid": 1609205496
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.651476,
+          55.77575
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 291,
+        "Nameen": "Каланчёвская, вход-выход",
+        "Stationen": null,
+        "RailwayLineen": null,
+        "WorkingHoursen": "05:00-01:00",
+        "LatitudeWGS84en": "55.775750",
+        "LongitudeWGS84en": "37.651476",
+        "ObjectStatusen": null,
+        "globalid": 1609205514
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.656197,
+          55.774884
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 37,
+        "Nameen": "Казанский вокзал, вход-выход в вестибюль",
+        "Stationen": null,
+        "RailwayLineen": null,
+        "WorkingHoursen": "круглосуточно",
+        "LatitudeWGS84en": "55.774884",
+        "LongitudeWGS84en": "37.656197",
+        "ObjectStatusen": null,
+        "globalid": 1609205612
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.70503,
+          55.781092
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 44,
+        "Nameen": "Электрозаводская, вход-выход в вестибюль",
+        "Stationen": null,
+        "RailwayLineen": null,
+        "WorkingHoursen": "05:00-01:00",
+        "LatitudeWGS84en": "55.781092",
+        "LongitudeWGS84en": "37.705030",
+        "ObjectStatusen": null,
+        "globalid": 1609205625
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.775047,
+          55.730228
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 67,
+        "Nameen": "Плющево, вход-выход в вестибюль",
+        "Stationen": null,
+        "RailwayLineen": null,
+        "WorkingHoursen": "05:00-01:00",
+        "LatitudeWGS84en": "55.730228",
+        "LongitudeWGS84en": "37.775047",
+        "ObjectStatusen": null,
+        "globalid": 1609205659
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.450214,
+          55.683602
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 91,
+        "Nameen": "Очаково, вход-выход в транзитный тоннель",
+        "Stationen": null,
+        "RailwayLineen": null,
+        "WorkingHoursen": "05:00-01:00",
+        "LatitudeWGS84en": "55.683602",
+        "LongitudeWGS84en": "37.450214",
+        "ObjectStatusen": null,
+        "globalid": 1609205660
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.421677,
+          55.665704
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 92,
+        "Nameen": "Очаково, вход-выход в вестибюль",
+        "Stationen": null,
+        "RailwayLineen": null,
+        "WorkingHoursen": "05:00-01:00",
+        "LatitudeWGS84en": "55.665704",
+        "LongitudeWGS84en": "37.421677",
+        "ObjectStatusen": null,
+        "globalid": 1609205665
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.777109,
+          55.730732
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 69,
+        "Nameen": "Плющево, вход-выход в тоннель",
+        "Stationen": null,
+        "RailwayLineen": null,
+        "WorkingHoursen": "05:00-01:00",
+        "LatitudeWGS84en": "55.730732",
+        "LongitudeWGS84en": "37.777109",
+        "ObjectStatusen": null,
+        "globalid": 1609205667
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.384311,
+          55.656456
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 95,
+        "Nameen": "Солнечная, вход-выход в вестибюль",
+        "Stationen": null,
+        "RailwayLineen": null,
+        "WorkingHoursen": "05:00-01:00",
+        "LatitudeWGS84en": "55.656456",
+        "LongitudeWGS84en": "37.384311",
+        "ObjectStatusen": null,
+        "globalid": 1609205680
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.797159,
+          55.723587
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 72,
+        "Nameen": "Вешняки, вход-выход в тоннель",
+        "Stationen": null,
+        "RailwayLineen": null,
+        "WorkingHoursen": "05:00-01:00",
+        "LatitudeWGS84en": "55.723587",
+        "LongitudeWGS84en": "37.797159",
+        "ObjectStatusen": null,
+        "globalid": 1609205684
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.819012,
+          55.715759
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 74,
+        "Nameen": "Выхино, вход-выход в тоннель",
+        "Stationen": null,
+        "RailwayLineen": null,
+        "WorkingHoursen": "круглосуточно",
+        "LatitudeWGS84en": "55.715759",
+        "LongitudeWGS84en": "37.819012",
+        "ObjectStatusen": null,
+        "globalid": 1609205691
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.31588,
+          55.645766
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 101,
+        "Nameen": "Мичуринец, вход-выход в вестибюль",
+        "Stationen": null,
+        "RailwayLineen": null,
+        "WorkingHoursen": "05:00-01:00",
+        "LatitudeWGS84en": "55.645766",
+        "LongitudeWGS84en": "37.315880",
+        "ObjectStatusen": null,
+        "globalid": 1609205709
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.847741,
+          55.705567
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 78,
+        "Nameen": "Косино, вход-выход в вестибюль, мост",
+        "Stationen": null,
+        "RailwayLineen": null,
+        "WorkingHoursen": "круглосуточно",
+        "LatitudeWGS84en": "55.705567",
+        "LongitudeWGS84en": "37.847741",
+        "ObjectStatusen": null,
+        "globalid": 1609205711
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.848187,
+          55.705984
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 79,
+        "Nameen": "Косино, вход-выход на мост",
+        "Stationen": null,
+        "RailwayLineen": null,
+        "WorkingHoursen": "круглосуточно",
+        "LatitudeWGS84en": "55.705984",
+        "LongitudeWGS84en": "37.848187",
+        "ObjectStatusen": null,
+        "globalid": 1609205715
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.271611,
+          55.64926
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 103,
+        "Nameen": "Внуково, вход-выход в вестибюль",
+        "Stationen": null,
+        "RailwayLineen": null,
+        "WorkingHoursen": "05:00-01:00",
+        "LatitudeWGS84en": "55.649260",
+        "LongitudeWGS84en": "37.271611",
+        "ObjectStatusen": null,
+        "globalid": 1609205718
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.186351,
+          55.607415
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 104,
+        "Nameen": "Толстопальцево, вход-выход на мост",
+        "Stationen": null,
+        "RailwayLineen": null,
+        "WorkingHoursen": "05:00-01:00",
+        "LatitudeWGS84en": "55.607415",
+        "LongitudeWGS84en": "37.186351",
+        "ObjectStatusen": null,
+        "globalid": 1609205722
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.865032,
+          55.6986
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 82,
+        "Nameen": "Ухтомская, вход-выход на мост",
+        "Stationen": null,
+        "RailwayLineen": null,
+        "WorkingHoursen": "круглосуточно",
+        "LatitudeWGS84en": "55.698600",
+        "LongitudeWGS84en": "37.865032",
+        "ObjectStatusen": null,
+        "globalid": 1609205728
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.168948,
+          55.598417
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 106,
+        "Nameen": "Кокошкино, вход-выход на платформу",
+        "Stationen": null,
+        "RailwayLineen": null,
+        "WorkingHoursen": "05:00-01:00",
+        "LatitudeWGS84en": "55.598417",
+        "LongitudeWGS84en": "37.168948",
+        "ObjectStatusen": null,
+        "globalid": 1609205731
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.141467,
+          55.585327
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 109,
+        "Nameen": "Санино, вход-выход на платформу",
+        "Stationen": null,
+        "RailwayLineen": null,
+        "WorkingHoursen": "05:00-01:00",
+        "LatitudeWGS84en": "55.585327",
+        "LongitudeWGS84en": "37.141467",
+        "ObjectStatusen": null,
+        "globalid": 1609205747
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.511199,
+          55.728616
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 86,
+        "Nameen": "Поклонная, вход-выход на мост",
+        "Stationen": null,
+        "RailwayLineen": null,
+        "WorkingHoursen": "05:00-01:00",
+        "LatitudeWGS84en": "55.728616",
+        "LongitudeWGS84en": "37.511199",
+        "ObjectStatusen": null,
+        "globalid": 1609205748
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.134084,
+          55.58297
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 110,
+        "Nameen": "Санино, вход-выход в тоннель",
+        "Stationen": null,
+        "RailwayLineen": null,
+        "WorkingHoursen": "05:00-01:00",
+        "LatitudeWGS84en": "55.582970",
+        "LongitudeWGS84en": "37.134084",
+        "ObjectStatusen": null,
+        "globalid": 1609205751
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.482592,
+          55.705109
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 88,
+        "Nameen": "Матвеевская, вход-выход в вестибюль",
+        "Stationen": null,
+        "RailwayLineen": null,
+        "WorkingHoursen": "05:00-01:00",
+        "LatitudeWGS84en": "55.705109",
+        "LongitudeWGS84en": "37.482592",
+        "ObjectStatusen": null,
+        "globalid": 1609205753
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.111689,
+          55.578237
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 112,
+        "Nameen": "Крекшино, вход-выход в тоннель",
+        "Stationen": null,
+        "RailwayLineen": null,
+        "WorkingHoursen": "05:00-01:00",
+        "LatitudeWGS84en": "55.578237",
+        "LongitudeWGS84en": "37.111689",
+        "ObjectStatusen": null,
+        "globalid": 1609205760
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.794903,
+          55.739373
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 130,
+        "Nameen": "Кусково, вход-выход на мост",
+        "Stationen": null,
+        "RailwayLineen": null,
+        "WorkingHoursen": "05:00-01:00",
+        "LatitudeWGS84en": "55.739373",
+        "LongitudeWGS84en": "37.794903",
+        "ObjectStatusen": null,
+        "globalid": 1609205768
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.464894,
+          55.696072
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 114,
+        "Nameen": "Аминьевская, вход-выход в вестибюль",
+        "Stationen": null,
+        "RailwayLineen": null,
+        "WorkingHoursen": "05:00-01:00",
+        "LatitudeWGS84en": "55.696072",
+        "LongitudeWGS84en": "37.464894",
+        "ObjectStatusen": null,
+        "globalid": 1609205770
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.820017,
+          55.744298
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 133,
+        "Nameen": "Новогиреево, вход-выход в вестибюль",
+        "Stationen": null,
+        "RailwayLineen": null,
+        "WorkingHoursen": "05:00-01:00",
+        "LatitudeWGS84en": "55.744298",
+        "LongitudeWGS84en": "37.820017",
+        "ObjectStatusen": null,
+        "globalid": 1609205776
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.818216,
+          55.74472
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 134,
+        "Nameen": "Новогиреево, вход-выход в тоннель",
+        "Stationen": null,
+        "RailwayLineen": null,
+        "WorkingHoursen": "05:00-01:00",
+        "LatitudeWGS84en": "55.744720",
+        "LongitudeWGS84en": "37.818216",
+        "ObjectStatusen": null,
+        "globalid": 1609205777
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.650346,
+          55.802899
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 141,
+        "Nameen": "Москва-3, вход-выход на мост",
+        "Stationen": null,
+        "RailwayLineen": null,
+        "WorkingHoursen": "05:00-01:00",
+        "LatitudeWGS84en": "55.802899",
+        "LongitudeWGS84en": "37.650346",
+        "ObjectStatusen": null,
+        "globalid": 1609205792
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.662675,
+          55.814407
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 143,
+        "Nameen": "Маленковская, вход-выход в вестибюль",
+        "Stationen": null,
+        "RailwayLineen": null,
+        "WorkingHoursen": "05:00-01:00",
+        "LatitudeWGS84en": "55.814407",
+        "LongitudeWGS84en": "37.662675",
+        "ObjectStatusen": null,
+        "globalid": 1609205796
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.662471,
+          55.814325
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 144,
+        "Nameen": "Маленковская, вход-выход в тоннель",
+        "Stationen": null,
+        "RailwayLineen": null,
+        "WorkingHoursen": "05:00-01:00",
+        "LatitudeWGS84en": "55.814325",
+        "LongitudeWGS84en": "37.662471",
+        "ObjectStatusen": null,
+        "globalid": 1609205797
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.67158,
+          55.829935
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 147,
+        "Nameen": "Яуза, вход-выход на мост",
+        "Stationen": null,
+        "RailwayLineen": null,
+        "WorkingHoursen": "05:00-01:00",
+        "LatitudeWGS84en": "55.829935",
+        "LongitudeWGS84en": "37.671580",
+        "ObjectStatusen": null,
+        "globalid": 1609205810
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.669022,
+          55.842205
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 150,
+        "Nameen": "Ростокино, вход-выход в вестибюль",
+        "Stationen": null,
+        "RailwayLineen": null,
+        "WorkingHoursen": "05:00-01:00",
+        "LatitudeWGS84en": "55.842205",
+        "LongitudeWGS84en": "37.669022",
+        "ObjectStatusen": null,
+        "globalid": 1609205814
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.681909,
+          55.862244
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 152,
+        "Nameen": "Лосиноостровская, вход-выход в вестибюль",
+        "Stationen": null,
+        "RailwayLineen": null,
+        "WorkingHoursen": "05:00-01:00",
+        "LatitudeWGS84en": "55.862244",
+        "LongitudeWGS84en": "37.681909",
+        "ObjectStatusen": null,
+        "globalid": 1609205822
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.683043,
+          55.863
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 153,
+        "Nameen": "Лосиноостровская, в вестибюль",
+        "Stationen": null,
+        "RailwayLineen": null,
+        "WorkingHoursen": "05:00-01:00",
+        "LatitudeWGS84en": "55.863000",
+        "LongitudeWGS84en": "37.683043",
+        "ObjectStatusen": null,
+        "globalid": 1609205825
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.684359,
+          55.863839
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 154,
+        "Nameen": "Лосиноостровская, вход-выход на мост",
+        "Stationen": null,
+        "RailwayLineen": null,
+        "WorkingHoursen": "05:00-01:00",
+        "LatitudeWGS84en": "55.863839",
+        "LongitudeWGS84en": "37.684359",
+        "ObjectStatusen": null,
+        "globalid": 1609205827
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.711095,
+          55.880637
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 157,
+        "Nameen": "Лось, вход-выход в вестибюль",
+        "Stationen": null,
+        "RailwayLineen": null,
+        "WorkingHoursen": "05:00-01:00",
+        "LatitudeWGS84en": "55.880637",
+        "LongitudeWGS84en": "37.711095",
+        "ObjectStatusen": null,
+        "globalid": 1609205837
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.71152,
+          55.880742
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 159,
+        "Nameen": "Лось, вход-выход на мост",
+        "Stationen": null,
+        "RailwayLineen": null,
+        "WorkingHoursen": "05:00-01:00",
+        "LatitudeWGS84en": "55.880742",
+        "LongitudeWGS84en": "37.711520",
+        "ObjectStatusen": null,
+        "globalid": 1609205841
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.622111,
+          55.703344
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 167,
+        "Nameen": "Тульская, вход-выход на мост",
+        "Stationen": null,
+        "RailwayLineen": null,
+        "WorkingHoursen": "05:00-01:00",
+        "LatitudeWGS84en": "55.703344",
+        "LongitudeWGS84en": "37.622111",
+        "ObjectStatusen": null,
+        "globalid": 1609205884
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.624487,
+          55.705256
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 168,
+        "Nameen": "Тульская, вход-выход на платформу",
+        "Stationen": null,
+        "RailwayLineen": null,
+        "WorkingHoursen": "05:00-01:00",
+        "LatitudeWGS84en": "55.705256",
+        "LongitudeWGS84en": "37.624487",
+        "ObjectStatusen": null,
+        "globalid": 1609205885
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.621306,
+          55.682206
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 171,
+        "Nameen": "Нагатинская, вход-выход в тоннель",
+        "Stationen": null,
+        "RailwayLineen": null,
+        "WorkingHoursen": "05:00-01:00",
+        "LatitudeWGS84en": "55.682206",
+        "LongitudeWGS84en": "37.621306",
+        "ObjectStatusen": null,
+        "globalid": 1609205894
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6213,
+          55.682443
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 172,
+        "Nameen": "Нагатинская, вход-выход в вестибюль",
+        "Stationen": null,
+        "RailwayLineen": null,
+        "WorkingHoursen": "05:00-01:00",
+        "LatitudeWGS84en": "55.682443",
+        "LongitudeWGS84en": "37.621300",
+        "ObjectStatusen": null,
+        "globalid": 1609205895
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.623089,
+          55.653746
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 173,
+        "Nameen": "Варшавская, вход-выход в вестибюль",
+        "Stationen": null,
+        "RailwayLineen": null,
+        "WorkingHoursen": "05:00-01:00",
+        "LatitudeWGS84en": "55.653746",
+        "LongitudeWGS84en": "37.623089",
+        "ObjectStatusen": null,
+        "globalid": 1609205898
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.499524,
+          55.72334
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 340,
+        "Nameen": "Минская, вход-выход",
+        "Stationen": null,
+        "RailwayLineen": null,
+        "WorkingHoursen": "05:00-01:01",
+        "LatitudeWGS84en": "55.723340",
+        "LongitudeWGS84en": "37.499524",
+        "ObjectStatusen": null,
+        "globalid": 2363199231
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.729802,
+          55.693479
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 341,
+        "Nameen": "Печатники, вход-выход",
+        "Stationen": null,
+        "RailwayLineen": null,
+        "WorkingHoursen": "05:00-01:01",
+        "LatitudeWGS84en": "55.693479",
+        "LongitudeWGS84en": "37.729802",
+        "ObjectStatusen": null,
+        "globalid": 2370994450
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.730014,
+          55.694107
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 342,
+        "Nameen": "Печатники, вход-выход вестибюль",
+        "Stationen": null,
+        "RailwayLineen": null,
+        "WorkingHoursen": "05:00-01:01",
+        "LatitudeWGS84en": "55.694107",
+        "LongitudeWGS84en": "37.730014",
+        "ObjectStatusen": null,
+        "globalid": 2371012991
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.730014,
+          55.694107
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 343,
+        "Nameen": "Печатники, вход-выход 2",
+        "Stationen": null,
+        "RailwayLineen": null,
+        "WorkingHoursen": "05:00-01:01",
+        "LatitudeWGS84en": "55.694107",
+        "LongitudeWGS84en": "37.730014",
+        "ObjectStatusen": null,
+        "globalid": 2372369751
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

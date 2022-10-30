@@ -1,0 +1,1055 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.6737089950311,
+          55.7954446159202
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Эстрада «Центральная»",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Сокольники",
+        "Address": "город Москва, 1-й Лучевой просек, дом 1, строение 2А",
+        "ClarificationOfLocation": "1-й Лучевой просек",
+        "WorkingHours": "Четверг-воскресенье с 17:00-23:00",
+        "ClarificationOfWorkingHours": "Выходные и праздничные дни, летний сезон",
+        "BalanceHolderName": "ГАУК г. Москвы «ПКиО «Сокольники»",
+        "BalanceholderPhone": "(499) 268-54-30",
+        "BalanceholderFax": "",
+        "BalanceHolderEmail": "info@park.sokolniki.com",
+        "BalanceholderWebSite": "park.sokolniki.com",
+        "globalid": 61274174
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6792585910017,
+          55.7983502198065
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Симфоническая эстрада",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Сокольники",
+        "Address": "город Москва, Майский просек, дом 1Б",
+        "ClarificationOfLocation": "Майский просек,1Б",
+        "WorkingHours": "Выходные и праздничные дни с 14:00-19:00",
+        "ClarificationOfWorkingHours": "С мая по сентябрь",
+        "BalanceHolderName": "ГАУК г. Москвы «ПКиО «Сокольники»",
+        "BalanceholderPhone": "(499) 268-54-30",
+        "BalanceholderFax": "",
+        "BalanceHolderEmail": "info@park.sokolniki.com",
+        "BalanceholderWebSite": "park.sokolniki.com",
+        "globalid": 61274175
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6675303012569,
+          55.7384558054026
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Сцена Таганского парка",
+        "AdmArea": "Центральный административный округ",
+        "District": "Таганский район",
+        "Address": "город Москва, Таганская улица, дом 40-42",
+        "ClarificationOfLocation": "Сцена на главной площади",
+        "WorkingHours": "07:00-23:00",
+        "ClarificationOfWorkingHours": "Расписание мероприятий уточняется в летний период",
+        "BalanceHolderName": "ГАУК г. Москвы ПКиО «Таганский»",
+        "BalanceholderPhone": "(495) 912-27-17",
+        "BalanceholderFax": "(495) 912-27-17",
+        "BalanceHolderEmail": "parktaganskiy@culture.mos.ru",
+        "BalanceholderWebSite": "parktaganskiy.ru",
+        "globalid": 61274176
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4854081842692,
+          55.7487691696863
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Главная сцена парка Фили",
+        "AdmArea": "Западный административный округ",
+        "District": "район Филёвский Парк",
+        "Address": "город Москва, улица Барклая, дом 22",
+        "ClarificationOfLocation": "От центрального входа вверх по Главной аллее",
+        "WorkingHours": "Согласно таймингу проводимых мероприятий",
+        "ClarificationOfWorkingHours": "Круглогодично",
+        "BalanceHolderName": "ГАУК г. Москвы ПКиО «Фили»",
+        "BalanceholderPhone": "(499) 145-45-05",
+        "BalanceholderFax": "(499) 145-45-05",
+        "BalanceHolderEmail": "info@parkfili.com",
+        "BalanceholderWebSite": "parkfili.com",
+        "globalid": 61274177
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5036304749304,
+          55.6816400179221
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Главная сцена парка 50-летия Октября",
+        "AdmArea": "Западный административный округ",
+        "District": "район Проспект Вернадского",
+        "Address": "город Москва, улица Удальцова, дом 22",
+        "ClarificationOfLocation": "Площадь Семьи в центральной части парка",
+        "WorkingHours": "Круглосуточно",
+        "ClarificationOfWorkingHours": "Круглогодично",
+        "BalanceHolderName": "ГАУК г. Москвы ПКиО «Фили»",
+        "BalanceholderPhone": "(499) 145-45-05",
+        "BalanceholderFax": "(499) 145-45-05",
+        "BalanceHolderEmail": "info@parkfili.com",
+        "BalanceholderWebSite": "parkfili.com",
+        "globalid": 61274178
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.604837578097,
+          55.7354503530268
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Деревянная терраса",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Якиманка",
+        "Address": "город Москва, улица Крымский Вал, дом 9",
+        "ClarificationOfLocation": "Крымская набережная",
+        "WorkingHours": "07:00-23:00",
+        "ClarificationOfWorkingHours": "Круглогодично",
+        "BalanceHolderName": "ЦПКиО имени М. Горького",
+        "BalanceholderPhone": "(495) 995-00-20",
+        "BalanceholderFax": "(495) 237-35-24",
+        "BalanceHolderEmail": "official@park-gorkogo.com",
+        "BalanceholderWebSite": "park-gorkogo.com",
+        "globalid": 61274251
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7700138032451,
+          55.6949062300697
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Главная сцена парка в Кузьминках",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Кузьминки",
+        "Address": "город Москва, Кузьминский парк, дом 1, строение 2",
+        "ClarificationOfLocation": "Около детской площадки, в центральной части парка",
+        "WorkingHours": "Круглосуточно",
+        "ClarificationOfWorkingHours": "",
+        "BalanceHolderName": "ГАУК г. Москвы «ГМЗ «Кузьминки-Люблино»",
+        "BalanceholderPhone": "(499) 175-33-69",
+        "BalanceholderFax": "(499) 175-33-69",
+        "BalanceHolderEmail": "info@park-kuzminki.ru",
+        "BalanceholderWebSite": "park-kuzminki.ru",
+        "globalid": 61274252
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5706682666986,
+          55.9004881238271
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Лианозовский парк",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Лианозово",
+        "Address": "город Москва, Угличская улица, дом 13",
+        "ClarificationOfLocation": "",
+        "WorkingHours": "07:00-23:00",
+        "ClarificationOfWorkingHours": "",
+        "BalanceHolderName": "ГАУК г. Москвы ПКиО «Лианозовский»",
+        "BalanceholderPhone": "(499) 908-35-00",
+        "BalanceholderFax": "(499) 908-35-00",
+        "BalanceHolderEmail": "liapark@ya.ru",
+        "BalanceholderWebSite": "liapark.ru",
+        "globalid": 61274181
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5884836077549,
+          55.8135466287142
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Парк Гончаровский",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Бутырский район",
+        "Address": "город Москва, улица Руставели, владение 7",
+        "ClarificationOfLocation": "",
+        "WorkingHours": "11:00-22:00",
+        "ClarificationOfWorkingHours": "",
+        "BalanceHolderName": "ГАУК г. Москвы ПКиО «Лианозовский»",
+        "BalanceholderPhone": "(499) 908-35-00",
+        "BalanceholderFax": "(499) 908-35-00",
+        "BalanceHolderEmail": "liapark@ya.ru",
+        "BalanceholderWebSite": "liapark.ru",
+        "globalid": 61274182
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5291790713745,
+          55.8795593551953
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Парк «Ангарские пруды»",
+        "AdmArea": "Северный административный округ",
+        "District": "Дмитровский район",
+        "Address": "город Москва, улица Софьи Ковалевской, дом 1",
+        "ClarificationOfLocation": "",
+        "WorkingHours": "11:00-22:00",
+        "ClarificationOfWorkingHours": "",
+        "BalanceHolderName": "ГАУК г. Москвы ПКиО «Лианозовский»",
+        "BalanceholderPhone": "(499) 908-35-00",
+        "BalanceholderFax": "(499) 908-35-00",
+        "BalanceHolderEmail": "liapark@ya.ru",
+        "BalanceholderWebSite": "liapark.ru",
+        "globalid": 61274183
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6191476812836,
+          55.8953100706065
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Этнографическая деревня Бибирево",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Бибирево",
+        "Address": "город Москва, Белозерская улица, дом 11А, строение 2",
+        "ClarificationOfLocation": "",
+        "WorkingHours": "11:00-22:00",
+        "ClarificationOfWorkingHours": "",
+        "BalanceHolderName": "ГАУК г. Москвы ПКиО «Лианозовский»",
+        "BalanceholderPhone": "(499) 908-35-00",
+        "BalanceholderFax": "(499) 908-35-00",
+        "BalanceHolderEmail": "liapark@ya.ru",
+        "BalanceholderWebSite": "liapark.ru",
+        "globalid": 61274184
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.551529605374,
+          55.7545452604579
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Парк Красная Пресня (основная территория)",
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "Address": "город Москва, Мантулинская улица, дом 5, строение 2",
+        "ClarificationOfLocation": "Главная сцена в парке",
+        "WorkingHours": "09:00-23:00",
+        "ClarificationOfWorkingHours": "Работа площадки по графику проводимых мероприятий. В сотальное время к свободному посещению доступна прилегающая площадка с деревянным настилом.",
+        "BalanceHolderName": "ГАУК г. Москвы ПКиО «Красная Пресня»",
+        "BalanceholderPhone": "(499) 256-13-02",
+        "BalanceholderFax": "(499) 256-13-02",
+        "BalanceHolderEmail": "info@p-kp.ru",
+        "BalanceholderWebSite": "p-kp.ru",
+        "globalid": 61274223
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7526701897581,
+          55.7748333154532
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Эстрада «Солнечная» Измайловского парка",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Измайлово",
+        "Address": "город Москва, аллея Большого Круга, дом 7",
+        "ClarificationOfLocation": "Майская аллея",
+        "WorkingHours": "",
+        "ClarificationOfWorkingHours": "В рамках проведения мероприятий",
+        "BalanceHolderName": "ГАУК г. Москвы «Измайловский ПКиО»",
+        "BalanceholderPhone": "(499) 166-61-19",
+        "BalanceholderFax": "(495) 657-97-32",
+        "BalanceHolderEmail": "parkizmailovskiy@culture.mos.ru",
+        "BalanceholderWebSite": "izmailovsky-park.ru",
+        "globalid": 61274224
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7537333846393,
+          55.7729874443015
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Центральная площадь Измайловского парка",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Измайлово",
+        "Address": "город Москва, аллея Большого Круга, дом 7",
+        "ClarificationOfLocation": "Народный проспект",
+        "WorkingHours": "",
+        "ClarificationOfWorkingHours": "В рамках проведения мероприятий",
+        "BalanceHolderName": "ГАУК г. Москвы «Измайловский ПКиО»",
+        "BalanceholderPhone": "(499) 166-61-19",
+        "BalanceholderFax": "(495) 657-97-32",
+        "BalanceHolderEmail": "parkizmailovskiy@culture.mos.ru",
+        "BalanceholderWebSite": "izmailovsky-park.ru",
+        "globalid": 61274225
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7507534889338,
+          55.7691046236217
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Музыкальная площадка у Дирекции Измайловского парка",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Измайлово",
+        "Address": "город Москва, аллея Большого Круга, дом 7",
+        "ClarificationOfLocation": "",
+        "WorkingHours": "17:00-18:00",
+        "ClarificationOfWorkingHours": "Каждое воскресенье, июнь - август",
+        "BalanceHolderName": "ГАУК г. Москвы «Измайловский ПКиО»",
+        "BalanceholderPhone": "(499) 166-61-19",
+        "BalanceholderFax": "(495) 657-97-32",
+        "BalanceHolderEmail": "parkizmailovskiy@culture.mos.ru",
+        "BalanceholderWebSite": "izmailovsky-park.ru",
+        "globalid": 61274226
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4513354923374,
+          55.8610812948394
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Центральная площадь музейно-паркового комплекса «Северное Тушино»",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Северное Тушино",
+        "Address": "город Москва, улица Свободы, дом 52",
+        "ClarificationOfLocation": "Центральная площадь.",
+        "WorkingHours": "В соответствии с графиком работы парка",
+        "ClarificationOfWorkingHours": "В соответствии с графиком работы парка",
+        "BalanceHolderName": "ГАУК г. Москвы «МПК «Северное Тушино»",
+        "BalanceholderPhone": "(495) 640-73-55",
+        "BalanceholderFax": "(495) 640-73-54",
+        "BalanceHolderEmail": "info@mosparks.ru",
+        "BalanceholderWebSite": "mosparks.ru",
+        "globalid": 61274189
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4514775650643,
+          55.8611277217244
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Центральная сцена",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Северное Тушино",
+        "Address": "город Москва, улица Свободы, дом 52",
+        "ClarificationOfLocation": "Сцена на центральной площади",
+        "WorkingHours": "В соответствии с графиком работы парка",
+        "ClarificationOfWorkingHours": "В соответствии с графиком работы парка",
+        "BalanceHolderName": "ГАУК г. Москвы «МПК «Северное Тушино»",
+        "BalanceholderPhone": "(495) 640-73-55",
+        "BalanceholderFax": "(495) 640-73-54",
+        "BalanceHolderEmail": "info@mosparks.ru",
+        "BalanceholderWebSite": "mosparks.ru",
+        "globalid": 61274191
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7750478874621,
+          55.7425431974021
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Главная сцена Перовского парка",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Перово",
+        "Address": "город Москва, улица Лазо, владение 7",
+        "ClarificationOfLocation": "В центре парка",
+        "WorkingHours": "Круглосуточно",
+        "ClarificationOfWorkingHours": "Круглогодично",
+        "BalanceHolderName": "ГАУК г. Москвы ПКиО «Перовский»",
+        "BalanceholderPhone": "(495) 309-53-42",
+        "BalanceholderFax": "(495) 309-53-42",
+        "BalanceHolderEmail": "ppkio@mail.ru",
+        "BalanceholderWebSite": "perovskiy-park.ru",
+        "globalid": 61274192
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5330648068072,
+          55.6671395780776
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Открытая сцена усадьбы Воронцово",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "Обручевский район",
+        "Address": "город Москва, улица Воронцовские Пруды, дом 3",
+        "ClarificationOfLocation": "В центре парка",
+        "WorkingHours": "Ежедневно",
+        "ClarificationOfWorkingHours": "Круглый год",
+        "BalanceHolderName": "ГАУК г. Москвы «Усадьба Воронцово»",
+        "BalanceholderPhone": "(495) 580-26-78",
+        "BalanceholderFax": "(495) 580-26-78",
+        "BalanceHolderEmail": "info@usadba-vorontsovo.ru",
+        "BalanceholderWebSite": "usadba-vorontsovo.ru",
+        "globalid": 61274227
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6593793858109,
+          55.7687945431085
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Эстрада в Саду им. Н.Э. Баумана",
+        "AdmArea": "Центральный административный округ",
+        "District": "Басманный район",
+        "Address": "город Москва, Старая Басманная улица, дом 15",
+        "ClarificationOfLocation": "Сцена-ракушка у входа со стороны Новой Басманной улицы",
+        "WorkingHours": "06:00-24:00",
+        "ClarificationOfWorkingHours": "Расписание мероприятий уточняется в летний период",
+        "BalanceHolderName": "ГАУК г. Москвы «Сад КиО им. Н. Э. Баумана»",
+        "BalanceholderPhone": "(499) 261-58-83",
+        "BalanceholderFax": "(499) 261-58-83",
+        "BalanceHolderEmail": "sadbaumana@culture.mos.ru",
+        "BalanceholderWebSite": "sadbaumana.ru",
+        "globalid": 61274194
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.659727652985,
+          55.7662137291217
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Открытая сцена в Саду им. Н.Э. Баумана",
+        "AdmArea": "Центральный административный округ",
+        "District": "Басманный район",
+        "Address": "город Москва, Старая Басманная улица, дом 15",
+        "ClarificationOfLocation": "Напротив входа со стороны Старой Басманной улицы",
+        "WorkingHours": "06:00-24:00",
+        "ClarificationOfWorkingHours": "Расписание мероприятий уточняется в летний период",
+        "BalanceHolderName": "ГАУК г. Москвы «Сад КиО им. Н. Э. Баумана»",
+        "BalanceholderPhone": "(499) 261-58-83",
+        "BalanceholderFax": "(499) 261-58-83",
+        "BalanceHolderEmail": "sadbaumana@culture.mos.ru",
+        "BalanceholderWebSite": "sadbaumana.ru",
+        "globalid": 61274195
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.682082344388,
+          55.8665838192408
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Парк Бабушкинский (основная территория)",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Лосиноостровский район",
+        "Address": "город Москва, улица Менжинского, дом 6, строение 3",
+        "ClarificationOfLocation": "",
+        "WorkingHours": "",
+        "ClarificationOfWorkingHours": "Круглогодично",
+        "BalanceHolderName": "ГАУК г. Москвы «ПКиО «Бабушкинский»",
+        "BalanceholderPhone": "(499) 184-34-22",
+        "BalanceholderFax": "",
+        "BalanceHolderEmail": "babkapark@mail.ru",
+        "BalanceholderWebSite": "bapark.ru",
+        "globalid": 61274253
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6564646106659,
+          55.8774287379295
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Сквер по Олонецкому проезду",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Северное Медведково",
+        "Address": "город Москва, Сухонская улица, дом 11",
+        "ClarificationOfLocation": "",
+        "WorkingHours": "",
+        "ClarificationOfWorkingHours": "Круглогодично",
+        "BalanceHolderName": "ГАУК г. Москвы «ПКиО «Бабушкинский»",
+        "BalanceholderPhone": "(499) 184-34-22",
+        "BalanceholderFax": "",
+        "BalanceHolderEmail": "babkapark@mail.ru",
+        "BalanceholderWebSite": "bapark.ru",
+        "globalid": 61274254
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6098180097544,
+          55.7372914600757
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Сцена Летнего кинотеатра",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Якиманка",
+        "Address": "город Москва, улица Крымский Вал, дом 9",
+        "ClarificationOfLocation": "Музеон. Возле летнего кинотеатра",
+        "WorkingHours": "07:00-23:00",
+        "ClarificationOfWorkingHours": "Расписание мероприятий уточняется в летний период",
+        "BalanceHolderName": "ЦПКиО имени М. Горького",
+        "BalanceholderPhone": "(495) 995-00-20",
+        "BalanceholderFax": "(495) 237-35-24",
+        "BalanceHolderEmail": "official@park-gorkogo.com",
+        "BalanceholderWebSite": "park-gorkogo.com",
+        "globalid": 339887675
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6008768720444,
+          55.7338346598635
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Деревянная сцена - Треугольник у Крымского моста",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Якиманка",
+        "Address": "город Москва, улица Крымский Вал, дом 9",
+        "ClarificationOfLocation": "Музеон. Возле Крымского моста",
+        "WorkingHours": "07:00-23:00",
+        "ClarificationOfWorkingHours": "Расписание мероприятий уточняется в летний период",
+        "BalanceHolderName": "ЦПКиО имени М. Горького",
+        "BalanceholderPhone": "(495) 995-00-20",
+        "BalanceholderFax": "(495) 237-35-24",
+        "BalanceHolderEmail": "official@park-gorkogo.com",
+        "BalanceholderWebSite": "park-gorkogo.com",
+        "globalid": 339887676
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6097731965899,
+          55.7352706564579
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Купол ALPBAU",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Якиманка",
+        "Address": "город Москва, улица Крымский Вал, дом 9",
+        "ClarificationOfLocation": "Музеон. Недалеко от памятников Ф.Э. Дзержинскому и М. Горькому",
+        "WorkingHours": "07:00-23:00",
+        "ClarificationOfWorkingHours": "Расписание мероприятий уточняется в летний период",
+        "BalanceHolderName": "ЦПКиО имени М. Горького",
+        "BalanceholderPhone": "(495) 995-00-20",
+        "BalanceholderFax": "(495) 237-35-24",
+        "BalanceHolderEmail": "official@park-gorkogo.com",
+        "BalanceholderWebSite": "park-gorkogo.com",
+        "globalid": 339887677
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5971753444339,
+          55.7277156608735
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Большое массовое поле",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Якиманка",
+        "Address": "город Москва, улица Крымский Вал, дом 9",
+        "ClarificationOfLocation": "Партер. Большое массовое поле (сцена устанавливается при необходимости)",
+        "WorkingHours": "07:00-23:00",
+        "ClarificationOfWorkingHours": "Расписание мероприятий уточняется в летний период",
+        "BalanceHolderName": "ЦПКиО имени М. Горького",
+        "BalanceholderPhone": "(495) 995-00-20",
+        "BalanceholderFax": "(495) 237-35-24",
+        "BalanceHolderEmail": "official@park-gorkogo.com",
+        "BalanceholderWebSite": "park-gorkogo.com",
+        "globalid": 339887678
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5985462305769,
+          55.7315251617216
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Пушкинская набережная",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Якиманка",
+        "Address": "город Москва, улица Крымский Вал, дом 9",
+        "ClarificationOfLocation": "Партер. Пушкинская набережная (сцена устанавливается при необходимости)",
+        "WorkingHours": "07:00-23:00",
+        "ClarificationOfWorkingHours": "Расписание мероприятий уточняется в летний период",
+        "BalanceHolderName": "ЦПКиО имени М. Горького",
+        "BalanceholderPhone": "(495) 995-00-20",
+        "BalanceholderFax": "(495) 237-35-24",
+        "BalanceHolderEmail": "official@park-gorkogo.com",
+        "BalanceholderWebSite": "park-gorkogo.com",
+        "globalid": 339887679
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6037169020043,
+          55.7317330044757
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Главный вход",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Якиманка",
+        "Address": "город Москва, улица Крымский Вал, дом 9",
+        "ClarificationOfLocation": "Главный вход (сцена устанавливается при необходимости)",
+        "WorkingHours": "07:00-23:00",
+        "ClarificationOfWorkingHours": "Расписание мероприятий уточняется в летний период",
+        "BalanceHolderName": "ЦПКиО имени М. Горького",
+        "BalanceholderPhone": "(495) 995-00-20",
+        "BalanceholderFax": "(495) 237-35-24",
+        "BalanceHolderEmail": "official@park-gorkogo.com",
+        "BalanceholderWebSite": "park-gorkogo.com",
+        "globalid": 339887680
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6018161886283,
+          55.7299941852923
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Фонтанная площадь",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Якиманка",
+        "Address": "город Москва, улица Крымский Вал, дом 9",
+        "ClarificationOfLocation": "Партер. Фонтанная площадь (сцена устанавливается при необходимости)",
+        "WorkingHours": "07:00-23:00",
+        "ClarificationOfWorkingHours": "Расписание мероприятий уточняется в летний период",
+        "BalanceHolderName": "ЦПКиО имени М. Горького",
+        "BalanceholderPhone": "(495) 995-00-20",
+        "BalanceholderFax": "(495) 237-35-24",
+        "BalanceHolderEmail": "official@park-gorkogo.com",
+        "BalanceholderWebSite": "park-gorkogo.com",
+        "globalid": 339887681
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.47356861264,
+          55.6786670060728
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Музыкальная площадка (сцена) в парке «Олимпийская деревня»",
+        "AdmArea": "Западный административный округ",
+        "District": "район Тропарёво-Никулино",
+        "Address": "город Москва, улица Лобачевского, дом 27",
+        "ClarificationOfLocation": "Сцена на воде",
+        "WorkingHours": "Во время проведения мероприятий",
+        "ClarificationOfWorkingHours": "В летний период",
+        "BalanceHolderName": "ГАУК г. Москвы ПКиО «Фили»",
+        "BalanceholderPhone": "(499) 145-45-05",
+        "BalanceholderFax": "(499) 145-45-05",
+        "BalanceHolderEmail": "parkfili@culture.mos.ru",
+        "BalanceholderWebSite": "parkfili.com",
+        "globalid": 639712067
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6301307052031,
+          55.7512922463305
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Сцена Большого амфитеатра",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "город Москва, улица Варварка, владение 6/5",
+        "ClarificationOfLocation": "метро Китай-город, Площадь революции, Охотный ряд, Театральная",
+        "WorkingHours": "Круглосуточно",
+        "ClarificationOfWorkingHours": "",
+        "BalanceHolderName": "ГАУК г.Москвы «Парк «Зарядье»",
+        "BalanceholderPhone": "(495) 531-05-00",
+        "BalanceholderFax": "",
+        "BalanceHolderEmail": "parkzaryadye@culture.mos.ru",
+        "BalanceholderWebSite": "zaryadyepark.ru",
+        "globalid": 840225919
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7518707705713,
+          55.7848698808648
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Северная площадь Измайловского парка",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Измайлово",
+        "Address": "город Москва, аллея Большого Круга, дом 7",
+        "ClarificationOfLocation": "Майская аллея",
+        "WorkingHours": "",
+        "ClarificationOfWorkingHours": "В период проведения мероприятий",
+        "BalanceHolderName": "ГАУК г. Москвы «Измайловский ПКиО»",
+        "BalanceholderPhone": "(499) 166-61-19",
+        "BalanceholderFax": "(495) 657-97-32",
+        "BalanceHolderEmail": "parkizmailovskiy@culture.mos.ru",
+        "BalanceholderWebSite": "izmailovsky-park.ru",
+        "globalid": 909038947
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5470491645121,
+          55.7564630746764
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Плавучая сцена",
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "Address": "город Москва, Мантулинская улица, дом 24",
+        "ClarificationOfLocation": "70 метров от здания, акватория Красногвардейских прудов",
+        "WorkingHours": "Ежедневно с 10:00-22:00",
+        "ClarificationOfWorkingHours": "Работа площадки по графику проводимых мероприятий. В остальное время свободное использование и посещение.",
+        "BalanceHolderName": "ГАУК г. Москвы ПКиО «Красная Пресня»",
+        "BalanceholderPhone": "(499) 256-13-02",
+        "BalanceholderFax": "(499) 256-13-02",
+        "BalanceHolderEmail": "info@p-kp.ru",
+        "BalanceholderWebSite": "p-kp.ru",
+        "globalid": 918678779
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6944406529474,
+          55.888601508322
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Парк у Джамгаровского пруда",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Лосиноостровский район",
+        "Address": "город Москва, Стартовая улица, дом 10",
+        "ClarificationOfLocation": "",
+        "WorkingHours": "",
+        "ClarificationOfWorkingHours": "Круглогодично",
+        "BalanceHolderName": "ГАУК г. Москвы «ПКиО «Бабушкинский»",
+        "BalanceholderPhone": "(499) 184-34-22",
+        "BalanceholderFax": "",
+        "BalanceHolderEmail": "babkapark@mail.ru",
+        "BalanceholderWebSite": "bapark.ru",
+        "globalid": 909150590
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6270732024697,
+          55.7514754438305
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Холл павильона «Медиацентр»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "город Москва, улица Варварка, домовладение 6, строение 1",
+        "ClarificationOfLocation": "метро Китай-город, Площадь революции, Охотный ряд, Театральная",
+        "WorkingHours": "По графику работы павильона",
+        "ClarificationOfWorkingHours": "В летний период: пн. - 14.00 до 21.00, вт.-вс. - 10.00 до 21.00, в зимний период: пн. - 14.00 до 20.00, вт.-вс. - 10.00 до 20.00",
+        "BalanceHolderName": "ГАУК г.Москвы «Парк «Зарядье»",
+        "BalanceholderPhone": "(495) 531-05-00",
+        "BalanceholderFax": "",
+        "BalanceHolderEmail": "parkzaryadye@culture.mos.ru",
+        "BalanceholderWebSite": "zaryadyepark.ru",
+        "globalid": 918678781
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6309419943238,
+          55.7506629952121
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Малый амфитеатр",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "город Москва, улица Варварка, владение 6/5",
+        "ClarificationOfLocation": "метро Китай-город, Площадь революции, Охотный ряд, Театральная",
+        "WorkingHours": "Круглосуточно",
+        "ClarificationOfWorkingHours": "",
+        "BalanceHolderName": "ГАУК г.Москвы «Парк «Зарядье»",
+        "BalanceholderPhone": "(495) 531-05-00",
+        "BalanceholderFax": "",
+        "BalanceHolderEmail": "parkzaryadye@culture.mos.ru",
+        "BalanceholderWebSite": "zaryadyepark.ru",
+        "globalid": 918678782
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.3785049108229,
+          55.8358219126033
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Круглая сцена в Ландшафтном парке «Митино»",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Митино",
+        "Address": "город Москва, Новотушинский проезд, дом 5, строение 3Б/Н",
+        "ClarificationOfLocation": "Недалеко от станции метро Волоколамская",
+        "WorkingHours": "",
+        "ClarificationOfWorkingHours": "Круглогодично",
+        "BalanceHolderName": "ГАУК г. Москвы «ПКиО «Бабушкинский»",
+        "BalanceholderPhone": "(499) 184-34-22",
+        "BalanceholderFax": "",
+        "BalanceHolderEmail": "babkapark@mail.ru",
+        "BalanceholderWebSite": "bapark.ru",
+        "globalid": 1028733357
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.676745194451,
+          55.7935145756221
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Эстрада «Ротонда»",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Сокольники",
+        "Address": "город Москва, улица Сокольнический Вал, дом 1А, строение 5",
+        "ClarificationOfLocation": "Главная аллея",
+        "WorkingHours": "Вт, Ср, Пт 16:00 - 19:00; Чт 14:00-17:00; Сб, Вс, праздничные дни 13:00 - 15:00",
+        "ClarificationOfWorkingHours": "Круглогодично",
+        "BalanceHolderName": "ГАУК г. Москвы «ПКиО «Сокольники»",
+        "BalanceholderPhone": "(499) 268-54-30",
+        "BalanceholderFax": "",
+        "BalanceHolderEmail": "info@park.sokolniki.com",
+        "BalanceholderWebSite": "park.sokolniki.com",
+        "globalid": 1029327169
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6794059770997,
+          55.7959150063423
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Эстрада «Веранда танцев»",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Сокольники",
+        "Address": "город Москва, Майский просек, владение 4, сооружение 1",
+        "ClarificationOfLocation": "Майский просек",
+        "WorkingHours": "Пн, Ср - Вс с 10:00 до 20:00",
+        "ClarificationOfWorkingHours": "Май-декабрь",
+        "BalanceHolderName": "ГАУК г. Москвы «ПКиО «Сокольники»",
+        "BalanceholderPhone": "(499) 268-54-30",
+        "BalanceholderFax": "",
+        "BalanceHolderEmail": "info@park.sokolniki.com",
+        "BalanceholderWebSite": "park.sokolniki.com",
+        "globalid": 1029327171
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6290692582767,
+          55.7517140662901
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Холл Научно-познавательного центра «Заповедное посольство»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "город Москва, улица Варварка, домовладение 6, строение 1",
+        "ClarificationOfLocation": "метро Китай-город, Площадь революции, Охотный ряд, Театральная",
+        "WorkingHours": "По графику работы павильона",
+        "ClarificationOfWorkingHours": "В летний период: пн. - 14.00 до 21.00, вт.-вс. - 10.00 до 21.00, в зимний период: пн. - 14.00 до 20.00, вт.-вс. - 10.00 до 20.00",
+        "BalanceHolderName": "ГАУК г.Москвы «Парк «Зарядье»",
+        "BalanceholderPhone": "(495) 531-05-00",
+        "BalanceholderFax": "",
+        "BalanceHolderEmail": "parkzaryadye@culture.mos.ru",
+        "BalanceholderWebSite": "www.zaryadyepark.ru",
+        "globalid": 1129448295
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6278214176633,
+          55.7520310058062
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "«Северный тоннель»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "город Москва, улица Варварка, домовладение 6, строение 1",
+        "ClarificationOfLocation": "метро Китай-город, Площадь революции, Охотный ряд, Театральная",
+        "WorkingHours": "По графику работы павильона",
+        "ClarificationOfWorkingHours": "В летний период: пн. - 14.00 до 21.00, вт.-вс. - 10.00 до 21.00, в зимний период: пн. - 14.00 до 20.00, вт.-вс. - 10.00 до 20.00",
+        "BalanceHolderName": "ГАУК г.Москвы «Парк «Зарядье»",
+        "BalanceholderPhone": "(495) 531-05-00",
+        "BalanceholderFax": "",
+        "BalanceHolderEmail": "parkzaryadye@culture.mos.ru",
+        "BalanceholderWebSite": "www.zaryadyepark.ru",
+        "globalid": 1129448296
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

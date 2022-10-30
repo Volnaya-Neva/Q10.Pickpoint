@@ -1,0 +1,1757 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.50544140007942,
+          55.757387801546045
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 20661040,
+        "Name": "Специализированный цех «ФИЛИ БЕЙКЕР»",
+        "IsNetObject": "нет",
+        "OperatingCompany": null,
+        "AdmArea": "Западный административный округ",
+        "District": "район Филёвский Парк",
+        "Address": "Береговой проезд, дом 4/6, строение 1",
+        "SeatsCount": 10,
+        "SocialPrivileges": "нет",
+        "LongitudeWGS84": "37.5054414000794200",
+        "LatitudeWGS84": "55.7573878015460450",
+        "PublicPhonePublicPhone0": "(499) 142-12-59"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.50076573682869,
+          55.75127883423513
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 20661046,
+        "Name": "Специализированный цех «Магнолия»",
+        "IsNetObject": "нет",
+        "OperatingCompany": null,
+        "AdmArea": "Западный административный округ",
+        "District": "район Филёвский Парк",
+        "Address": "Новозаводская улица, дом 25, корпус 6",
+        "SeatsCount": 1,
+        "SocialPrivileges": "нет",
+        "LongitudeWGS84": "37.5007657368286900",
+        "LatitudeWGS84": "55.7512788342351300",
+        "PublicPhonePublicPhone0": "(495) 228-69-11"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.351047396796105,
+          55.82729944428708
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 20687663,
+        "Name": "ЦЕХ «Империя пицц»",
+        "IsNetObject": "нет",
+        "OperatingCompany": null,
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Митино",
+        "Address": "Уваровский переулок, дом 10",
+        "SeatsCount": 1,
+        "SocialPrivileges": "нет",
+        "LongitudeWGS84": "37.3510473967961050",
+        "LatitudeWGS84": "55.8272994442870780",
+        "PublicPhonePublicPhone0": "(499) 682-73-44"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.3580592058223,
+          55.84614475888343
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 20675455,
+        "Name": "КУЛИНАРИЯ «СУШИ»",
+        "IsNetObject": "нет",
+        "OperatingCompany": null,
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Митино",
+        "Address": "Дубравная улица, дом 34/29",
+        "SeatsCount": 0,
+        "SocialPrivileges": "нет",
+        "LongitudeWGS84": "37.3580592058223000",
+        "LatitudeWGS84": "55.8461447588834330",
+        "PublicPhonePublicPhone0": "(495) 258-94-19"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.8326171649966,
+          55.76973468986701
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 20663419,
+        "Name": "Пекарня",
+        "IsNetObject": "нет",
+        "OperatingCompany": null,
+        "AdmArea": "Восточный административный округ",
+        "District": "район Ивановское",
+        "Address": "Саянская улица, дом 9Б",
+        "SeatsCount": 1,
+        "SocialPrivileges": "нет",
+        "LongitudeWGS84": "37.8326171649965990",
+        "LatitudeWGS84": "55.7697346898670080",
+        "PublicPhonePublicPhone0": "(903) 969-50-98"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.361902003947165,
+          55.84673685147889
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 20652345,
+        "Name": "ЦЕХ-ПЕКАРНЯ",
+        "IsNetObject": "нет",
+        "OperatingCompany": null,
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Митино",
+        "Address": "Митинская улица, дом 36, корпус 1",
+        "SeatsCount": 0,
+        "SocialPrivileges": "нет",
+        "LongitudeWGS84": "37.3619020039471650",
+        "LatitudeWGS84": "55.8467368514788870",
+        "PublicPhonePublicPhone0": "(495) 751-25-05"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.459800302744,
+          55.73516420956531
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 20686499,
+        "Name": "Америкэн сити пицца",
+        "IsNetObject": "нет",
+        "OperatingCompany": null,
+        "AdmArea": "Западный административный округ",
+        "District": "район Фили-Давыдково",
+        "Address": "Малая Филёвская улица, дом 30",
+        "SeatsCount": 14,
+        "SocialPrivileges": "нет",
+        "LongitudeWGS84": "37.4598003027440000",
+        "LatitudeWGS84": "55.7351642095653120",
+        "PublicPhonePublicPhone0": "(903) 924-56-78"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.496599200248674,
+          55.745867477141466
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 20661047,
+        "Name": "Специализированный цех «Магнолия»",
+        "IsNetObject": "нет",
+        "OperatingCompany": null,
+        "AdmArea": "Западный административный округ",
+        "District": "район Филёвский Парк",
+        "Address": "улица Барклая, дом 16, корпус 1",
+        "SeatsCount": 1,
+        "SocialPrivileges": "нет",
+        "LongitudeWGS84": "37.4965992002486740",
+        "LatitudeWGS84": "55.7458674771414660",
+        "PublicPhonePublicPhone0": "(499) 145-46-25"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.35026179074129,
+          55.85720415534239
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 20680018,
+        "Name": "ПИЦЦЕРИЯ",
+        "IsNetObject": "нет",
+        "OperatingCompany": null,
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Митино",
+        "Address": "Пятницкое шоссе, дом 43",
+        "SeatsCount": 25,
+        "SocialPrivileges": "нет",
+        "LongitudeWGS84": "37.3502617907412930",
+        "LatitudeWGS84": "55.8572041553423870",
+        "PublicPhonePublicPhone0": "(495) 794-50-02"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.638230822302134,
+          55.874435089016856
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 20701822,
+        "Name": "Быков С.Н.",
+        "IsNetObject": "нет",
+        "OperatingCompany": null,
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Южное Медведково",
+        "Address": "Полярная улица, дом 10, строение 1",
+        "SeatsCount": 0,
+        "SocialPrivileges": "нет",
+        "LongitudeWGS84": "37.6382308223021340",
+        "LatitudeWGS84": "55.8744350890168560",
+        "PublicPhonePublicPhone0": "(499) 473-12-55"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.619625395855905,
+          55.62258265557698
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 20705700,
+        "Name": "РусЪпай",
+        "IsNetObject": "нет",
+        "OperatingCompany": null,
+        "AdmArea": "Южный административный округ",
+        "District": "район Чертаново Северное",
+        "Address": "Варшавское шоссе, дом 125, корпус 3",
+        "SeatsCount": 1,
+        "SocialPrivileges": "нет",
+        "LongitudeWGS84": "37.6196253958559050",
+        "LatitudeWGS84": "55.6225826555769770",
+        "PublicPhonePublicPhone0": "(495) 989-51-57"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7504303680488,
+          55.6187347276014
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 20696051,
+        "Name": "Империя Пиццы",
+        "IsNetObject": "нет",
+        "OperatingCompany": null,
+        "AdmArea": "Южный административный округ",
+        "District": "район Зябликово",
+        "Address": "Кустанайская улица, дом 8, корпус 2",
+        "SeatsCount": 1,
+        "SocialPrivileges": "нет",
+        "LongitudeWGS84": "37.7504303680488000",
+        "LatitudeWGS84": "55.6187347276014000",
+        "PublicPhonePublicPhone0": "(499) 704-40-40"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.60878317002872,
+          55.63369257225926
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 20704445,
+        "Name": "Red Pizza",
+        "IsNetObject": "нет",
+        "OperatingCompany": null,
+        "AdmArea": "Южный административный округ",
+        "District": "район Чертаново Северное",
+        "Address": "Сумской проезд, дом 5, корпус 1",
+        "SeatsCount": 0,
+        "SocialPrivileges": "нет",
+        "LongitudeWGS84": "37.6087831700287230",
+        "LatitudeWGS84": "55.6336925722592570",
+        "PublicPhonePublicPhone0": "(495) 744-31-44"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.600407978258,
+          55.62857040751617
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 20705989,
+        "Name": "ПИЦЦА В ЧЕРТАНОВО",
+        "IsNetObject": "нет",
+        "OperatingCompany": null,
+        "AdmArea": "Южный административный округ",
+        "District": "район Чертаново Северное",
+        "Address": "Чертановская улица, дом 9, строение 3",
+        "SeatsCount": 0,
+        "SocialPrivileges": "нет",
+        "LongitudeWGS84": "37.6004079782579980",
+        "LatitudeWGS84": "55.6285704075161720",
+        "PublicPhonePublicPhone0": "(495) 743-01-92"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.638144650498894,
+          55.83667763383945
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 20703114,
+        "Name": "КОНДИТЕРСКАЯ «ШОДО»",
+        "IsNetObject": "нет",
+        "OperatingCompany": null,
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Ростокино",
+        "Address": "Сельскохозяйственная улица, дом 15, строение 3",
+        "SeatsCount": 0,
+        "SocialPrivileges": "нет",
+        "LongitudeWGS84": "37.6381446504988940",
+        "LatitudeWGS84": "55.8366776338394500",
+        "PublicPhonePublicPhone0": "(499) 189-86-63"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.45984490867423,
+          55.80994900872768
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 20729118,
+        "Name": "ПЕКАРНЯ ХЛЕБОБУЛОЧНЫХ ИЗДЕЛИЙ",
+        "IsNetObject": "нет",
+        "OperatingCompany": null,
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Щукино",
+        "Address": "Авиационная улица, дом 66",
+        "SeatsCount": 2,
+        "SocialPrivileges": "нет",
+        "LongitudeWGS84": "37.4598449086742280",
+        "LatitudeWGS84": "55.8099490087276780",
+        "PublicPhonePublicPhone0": "(495) 925-44-07"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.2821027181798,
+          55.6446951045932
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 20731057,
+        "Name": "Ресторан при МА Внуково",
+        "IsNetObject": "нет",
+        "OperatingCompany": null,
+        "AdmArea": "Западный административный округ",
+        "District": "район Внуково",
+        "Address": "3-я Рейсовая улица, дом 2, строение 2",
+        "SeatsCount": 88,
+        "SocialPrivileges": "нет",
+        "LongitudeWGS84": "37.2821027181798000",
+        "LatitudeWGS84": "55.6446951045932000",
+        "PublicPhonePublicPhone0": "(495) 436-88-73"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.3495554430751,
+          55.8476918963442
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 20731114,
+        "Name": "КАФЕ-ПИЦЕРИЯ",
+        "IsNetObject": "нет",
+        "OperatingCompany": null,
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Митино",
+        "Address": "3-й Митинский переулок, дом 3",
+        "SeatsCount": 35,
+        "SocialPrivileges": "нет",
+        "LongitudeWGS84": "37.3495554430751000",
+        "LatitudeWGS84": "55.8476918963442000",
+        "PublicPhonePublicPhone0": "(495) 787-25-88"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.35547891581662,
+          55.8550226102941
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 20731387,
+        "Name": "ЦЕХ-ПИЦЦА «Доминос Пицца»",
+        "IsNetObject": "нет",
+        "OperatingCompany": null,
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Митино",
+        "Address": "Пятницкое шоссе, дом 39",
+        "SeatsCount": 8,
+        "SocialPrivileges": "нет",
+        "LongitudeWGS84": "37.3554789158166190",
+        "LatitudeWGS84": "55.8550226102941000",
+        "PublicPhonePublicPhone0": "(926) 248-22-32"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.3585712189556,
+          55.8462367536088
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 20731473,
+        "Name": "ПЕКАРНЯ «Tasty Land Bakery»",
+        "IsNetObject": "нет",
+        "OperatingCompany": null,
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Митино",
+        "Address": "Дубравная улица, дом 34/29",
+        "SeatsCount": 1,
+        "SocialPrivileges": "нет",
+        "LongitudeWGS84": "37.3585712189556000",
+        "LatitudeWGS84": "55.8462367536088000",
+        "PublicPhonePublicPhone0": "(903) 589-50-00"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.569075766888076,
+          55.85832013270443
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 20732287,
+        "Name": "Джастфою",
+        "IsNetObject": "нет",
+        "OperatingCompany": null,
+        "AdmArea": "Северный административный округ",
+        "District": "район Восточное Дегунино",
+        "Address": "Дубнинская улица, дом 4, корпус 1",
+        "SeatsCount": 1,
+        "SocialPrivileges": "нет",
+        "LongitudeWGS84": "37.5690757668880760",
+        "LatitudeWGS84": "55.8583201327044280",
+        "PublicPhonePublicPhone0": "(910) 471-42-79"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4025845571958,
+          55.7971590900591
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 20732879,
+        "Name": "ПЕКАРНЯ",
+        "IsNetObject": "нет",
+        "OperatingCompany": null,
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Строгино",
+        "Address": "Таллинская улица, дом 18",
+        "SeatsCount": 1,
+        "SocialPrivileges": "нет",
+        "LongitudeWGS84": "37.4025845571958000",
+        "LatitudeWGS84": "55.7971590900591000",
+        "PublicPhonePublicPhone0": "(495) 745-74-40"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.52859281751826,
+          55.865219735982976
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 20738614,
+        "Name": "ЗАО «Эрлайн ЛТД»",
+        "IsNetObject": "нет",
+        "OperatingCompany": null,
+        "AdmArea": "Северный административный округ",
+        "District": "район Западное Дегунино",
+        "Address": "улица Ивана Сусанина, дом 2, корпус 1",
+        "SeatsCount": 10,
+        "SocialPrivileges": "нет",
+        "LongitudeWGS84": "37.5285928175182590",
+        "LatitudeWGS84": "55.8652197359829760",
+        "PublicPhonePublicPhone0": "(499) 906-95-17"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5568439648555,
+          55.9434071896608
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 20738448,
+        "Name": "ЛИКО-98",
+        "IsNetObject": "нет",
+        "OperatingCompany": null,
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Северный",
+        "Address": "1-я Северная линия, дом 7",
+        "SeatsCount": 1,
+        "SocialPrivileges": "нет",
+        "LongitudeWGS84": "37.5568439648555000",
+        "LatitudeWGS84": "55.9434071896608000",
+        "PublicPhonePublicPhone0": "(495) 724-68-13"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.48299698939827,
+          55.7997721685114
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 20732882,
+        "Name": "ПЕКАРНЯ ПРИ УНИВЕРСАМЕ «ПЕРЕКРЕСТОК»",
+        "IsNetObject": "нет",
+        "OperatingCompany": null,
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Щукино",
+        "Address": "улица Маршала Бирюзова, дом 32",
+        "SeatsCount": 2,
+        "SocialPrivileges": "нет",
+        "LongitudeWGS84": "37.4829969893982740",
+        "LatitudeWGS84": "55.7997721685114030",
+        "PublicPhonePublicPhone0": "(495) 955-18-12"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.35080032305622,
+          55.85320156075622
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 20734701,
+        "Name": "ЦЕХ МЯСНОЙ",
+        "IsNetObject": "нет",
+        "OperatingCompany": null,
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Митино",
+        "Address": "Митинская улица, дом 53",
+        "SeatsCount": 1,
+        "SocialPrivileges": "нет",
+        "LongitudeWGS84": "37.3508003230562200",
+        "LatitudeWGS84": "55.8532015607562190",
+        "PublicPhonePublicPhone0": "(495) 780-97-85"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.41440113868811,
+          55.80550101812451
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 20732881,
+        "Name": "ПЕКАРНЯ",
+        "IsNetObject": "нет",
+        "OperatingCompany": null,
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Строгино",
+        "Address": "улица Маршала Катукова, дом 25",
+        "SeatsCount": 0,
+        "SocialPrivileges": "нет",
+        "LongitudeWGS84": "37.4144011386881130",
+        "LatitudeWGS84": "55.8055010181245090",
+        "PublicPhonePublicPhone0": "(495) 742-17-85"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.19918668270111,
+          56.00858816536336
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 20734700,
+        "Name": "Специлазированные цеха «ДИАЛОГ»",
+        "IsNetObject": "нет",
+        "OperatingCompany": null,
+        "AdmArea": "Зеленоградский административный округ",
+        "District": "район Матушкино",
+        "Address": "1-й Западный проезд, дом 1, строение 3",
+        "SeatsCount": 1,
+        "SocialPrivileges": "нет",
+        "LongitudeWGS84": "37.1991866827011100",
+        "LatitudeWGS84": "56.0085881653633600",
+        "PublicPhonePublicPhone0": "(499) 735-26-63"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4814316259431,
+          55.8610026229209
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 20737518,
+        "Name": "ШКОЛЬНО-БАЗОВАЯ СТОЛОВАЯ «ПЕРЕМЕНА»",
+        "IsNetObject": "нет",
+        "OperatingCompany": null,
+        "AdmArea": "Северный административный округ",
+        "District": "район Левобережный",
+        "Address": "Смольная улица, дом 35, строение 1",
+        "SeatsCount": 270,
+        "SocialPrivileges": "да",
+        "LongitudeWGS84": "37.4814316259431000",
+        "LatitudeWGS84": "55.8610026229209000",
+        "PublicPhonePublicPhone0": "(499) 152-73-11"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.34741668411642,
+          55.85399142289112
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 20734702,
+        "Name": "ЦЕХ МЯСНОЙ",
+        "IsNetObject": "нет",
+        "OperatingCompany": null,
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Митино",
+        "Address": "Ангелов переулок, дом 6",
+        "SeatsCount": 1,
+        "SocialPrivileges": "нет",
+        "LongitudeWGS84": "37.3474166841164180",
+        "LatitudeWGS84": "55.8539914228911200",
+        "PublicPhonePublicPhone0": "(495) 753-38-04"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.3580592058223,
+          55.84614475888343
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 20734707,
+        "Name": "ЦЕХ МЯСНОЙ",
+        "IsNetObject": "нет",
+        "OperatingCompany": null,
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Митино",
+        "Address": "Дубравная улица, дом 34/29",
+        "SeatsCount": 1,
+        "SocialPrivileges": "нет",
+        "LongitudeWGS84": "37.3580592058223000",
+        "LatitudeWGS84": "55.8461447588834330",
+        "PublicPhonePublicPhone0": "(495) 641-33-92"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.347727433236244,
+          55.851535498861885
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 20734708,
+        "Name": "ЦЕХ МЯСНОЙ",
+        "IsNetObject": "нет",
+        "OperatingCompany": null,
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Митино",
+        "Address": "Ангелов переулок, дом 7",
+        "SeatsCount": 1,
+        "SocialPrivileges": "нет",
+        "LongitudeWGS84": "37.3477274332362440",
+        "LatitudeWGS84": "55.8515354988618850",
+        "PublicPhonePublicPhone0": "(495) 753-50-89"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.3580592058223,
+          55.84614475888343
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 20734709,
+        "Name": "ЦЕХ-ПЕКАРНЯ",
+        "IsNetObject": "нет",
+        "OperatingCompany": null,
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Митино",
+        "Address": "Дубравная улица, дом 34/29",
+        "SeatsCount": 1,
+        "SocialPrivileges": "нет",
+        "LongitudeWGS84": "37.3580592058223000",
+        "LatitudeWGS84": "55.8461447588834330",
+        "PublicPhonePublicPhone0": "(800) 200-95-55"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.347727433236244,
+          55.851535498861885
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 20734715,
+        "Name": "ЦЕХ-ПЕКАРНЯ",
+        "IsNetObject": "нет",
+        "OperatingCompany": null,
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Митино",
+        "Address": "Ангелов переулок, дом 7",
+        "SeatsCount": 1,
+        "SocialPrivileges": "нет",
+        "LongitudeWGS84": "37.3477274332362440",
+        "LatitudeWGS84": "55.8515354988618850",
+        "PublicPhonePublicPhone0": "(495) 753-50-89"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.47460018558453,
+          55.78738277466338
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 20738530,
+        "Name": "ЦЕХ МЯСНОЙ",
+        "IsNetObject": "нет",
+        "OperatingCompany": null,
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Хорошёво-Мнёвники",
+        "Address": "улица Берзарина, дом 21, корпус 1, строение 1",
+        "SeatsCount": 15,
+        "SocialPrivileges": "нет",
+        "LongitudeWGS84": "37.4746001855845280",
+        "LatitudeWGS84": "55.7873827746633780",
+        "PublicPhonePublicPhone0": "(495) 946-93-98"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.3239349999999,
+          55.630062
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 20734724,
+        "Name": "ООО «ЕВРАЗИЯ ГРАНД СЕРВИС»",
+        "IsNetObject": "нет",
+        "OperatingCompany": null,
+        "AdmArea": "Западный административный округ",
+        "District": "район Внуково",
+        "Address": "Советская улица, дом 1, строение 30",
+        "SeatsCount": 1,
+        "SocialPrivileges": "нет",
+        "LongitudeWGS84": "37.3239349999999000",
+        "LatitudeWGS84": "55.6300620000000000",
+        "PublicPhonePublicPhone0": "(495) 436-35-67"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.347280999,
+          55.650600999
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 20734721,
+        "Name": "ЗАО «РЕСТОРАН ПРИ МА ВНУКОВО»",
+        "IsNetObject": "нет",
+        "OperatingCompany": null,
+        "AdmArea": "Западный административный округ",
+        "District": "район Внуково",
+        "Address": "Центральная улица, дом 4Г",
+        "SeatsCount": 88,
+        "SocialPrivileges": "нет",
+        "LongitudeWGS84": "37.3472809990000000",
+        "LatitudeWGS84": "55.6506009990000000",
+        "PublicPhonePublicPhone0": "(495) 436-68-78"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.448483496350676,
+          55.7839155617874
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 20738531,
+        "Name": "ЦЕХ МЯСНОЙ",
+        "IsNetObject": "нет",
+        "OperatingCompany": null,
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Хорошёво-Мнёвники",
+        "Address": "набережная Новикова-Прибоя, дом 10, корпус 1",
+        "SeatsCount": 3,
+        "SocialPrivileges": "нет",
+        "LongitudeWGS84": "37.4484834963506760",
+        "LatitudeWGS84": "55.7839155617874030",
+        "PublicPhonePublicPhone0": "(499) 199-85-80"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.671945,
+          55.857895
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 20738532,
+        "Name": "КОНДИТЕРСКИЙ ЦЕХ",
+        "IsNetObject": "нет",
+        "OperatingCompany": null,
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Бабушкинский район",
+        "Address": "улица Лётчика Бабушкина, дом 3",
+        "SeatsCount": 0,
+        "SocialPrivileges": "нет",
+        "LongitudeWGS84": "37.6719450000000010",
+        "LatitudeWGS84": "55.8578949999999990",
+        "PublicPhonePublicPhone0": "(495) 471-47-71"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.656955818363606,
+          55.80898766635767
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 20738533,
+        "Name": "Кондитерский цех «РЕНЕССАНС»",
+        "IsNetObject": "нет",
+        "OperatingCompany": null,
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Алексеевский район",
+        "Address": "1-й Рижский переулок, дом 2, корпус 3",
+        "SeatsCount": 0,
+        "SocialPrivileges": "нет",
+        "LongitudeWGS84": "37.6569558183636060",
+        "LatitudeWGS84": "55.8089876663576730",
+        "PublicPhonePublicPhone0": "(495) 686-89-16"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5899126033423,
+          55.867562663171
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 20738537,
+        "Name": "ЦЕХ КОНДИТЕРСКИЙ МУЗА",
+        "IsNetObject": "нет",
+        "OperatingCompany": null,
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Отрадное",
+        "Address": "улица Декабристов, дом 4, корпус 1",
+        "SeatsCount": 1,
+        "SocialPrivileges": "нет",
+        "LongitudeWGS84": "37.5899126033423000",
+        "LatitudeWGS84": "55.8675626631710000",
+        "PublicPhonePublicPhone0": "(499) 907-64-59"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.82064475644917,
+          55.795069089472086
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 20738536,
+        "Name": "ЦЕХ ПО ИЗГОТОВЛЕНИЮ ПИЦЦЫ",
+        "IsNetObject": "нет",
+        "OperatingCompany": null,
+        "AdmArea": "Восточный административный округ",
+        "District": "район Восточное Измайлово",
+        "Address": "15-я Парковая улица, дом 16А",
+        "SeatsCount": 0,
+        "SocialPrivileges": "нет",
+        "LongitudeWGS84": "37.8206447564491700",
+        "LatitudeWGS84": "55.7950690894720860",
+        "PublicPhonePublicPhone0": "(495) 925-33-33"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4368258719081,
+          55.864100331647364
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 20738540,
+        "Name": "КОНДИТЕРСКИЙ ЦЕХ",
+        "IsNetObject": "нет",
+        "OperatingCompany": null,
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Северное Тушино",
+        "Address": "Планерная улица, дом 14, корпус 1",
+        "SeatsCount": 1,
+        "SocialPrivileges": "нет",
+        "LongitudeWGS84": "37.4368258719080980",
+        "LatitudeWGS84": "55.8641003316473640",
+        "PublicPhonePublicPhone0": "(495) 495-52-76"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.65683265595348,
+          55.824562397877294
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 20738534,
+        "Name": "КОМБИНАТ ШКОЛЬНОГО ПИТАНИЯ",
+        "IsNetObject": "нет",
+        "OperatingCompany": null,
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Алексеевский район",
+        "Address": "улица Касаткина, дом 8",
+        "SeatsCount": 0,
+        "SocialPrivileges": "нет",
+        "LongitudeWGS84": "37.6568326559534800",
+        "LatitudeWGS84": "55.8245623978772940",
+        "PublicPhonePublicPhone0": "(495) 682-21-83"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.79098109429311,
+          55.70136711981585
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 20738538,
+        "Name": "ЦЕХ",
+        "IsNetObject": "нет",
+        "OperatingCompany": null,
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Кузьминки",
+        "Address": "Волгоградский проспект, дом 152, строение 1",
+        "SeatsCount": 1,
+        "SocialPrivileges": "нет",
+        "LongitudeWGS84": "37.7909810942931090",
+        "LatitudeWGS84": "55.7013671198158490",
+        "PublicPhonePublicPhone0": "(495) 979-71-97"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.815445926990826,
+          55.79303766797582
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 20738535,
+        "Name": "Цех по изготовлению мясных ПФ",
+        "IsNetObject": "нет",
+        "OperatingCompany": null,
+        "AdmArea": "Восточный административный округ",
+        "District": "район Восточное Измайлово",
+        "Address": "Первомайская улица, дом 110",
+        "SeatsCount": 0,
+        "SocialPrivileges": "нет",
+        "LongitudeWGS84": "37.8154459269908260",
+        "LatitudeWGS84": "55.7930376679758170",
+        "PublicPhonePublicPhone0": "(495) 465-41-57"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.75811000596743,
+          55.6952546702576
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 20738539,
+        "Name": "МИР ПИРОГОВ",
+        "IsNetObject": "нет",
+        "OperatingCompany": null,
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Кузьминки",
+        "Address": "улица Маршала Чуйкова, дом 30",
+        "SeatsCount": 10,
+        "SocialPrivileges": "нет",
+        "LongitudeWGS84": "37.7581100059674310",
+        "LatitudeWGS84": "55.6952546702575970",
+        "PublicPhonePublicPhone0": "(499) 172-63-04"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.44492264971287,
+          55.858306701178975
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 20738541,
+        "Name": "ПЕКАРНЯ",
+        "IsNetObject": "нет",
+        "OperatingCompany": null,
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Северное Тушино",
+        "Address": "улица Фомичёвой, дом 8",
+        "SeatsCount": 1,
+        "SocialPrivileges": "нет",
+        "LongitudeWGS84": "37.4449226497128720",
+        "LatitudeWGS84": "55.8583067011789750",
+        "PublicPhonePublicPhone0": "(495) 497-12-34"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.492715278440926,
+          55.87897969816529
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 20738542,
+        "Name": "ООО «ТД Зодиак»",
+        "IsNetObject": "нет",
+        "OperatingCompany": null,
+        "AdmArea": "Северный административный округ",
+        "District": "район Западное Дегунино",
+        "Address": "улица Маршала Федоренко, дом 3, строение 1",
+        "SeatsCount": 4,
+        "SocialPrivileges": "нет",
+        "LongitudeWGS84": "37.4927152784409260",
+        "LatitudeWGS84": "55.8789796981652880",
+        "PublicPhonePublicPhone0": "(495) 486-02-90"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.414636065275,
+          55.8054089281184
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 20738623,
+        "Name": "МЯСНОЙ ЦЕХ",
+        "IsNetObject": "нет",
+        "OperatingCompany": null,
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Строгино",
+        "Address": "улица Маршала Катукова, дом 25",
+        "SeatsCount": 1,
+        "SocialPrivileges": "нет",
+        "LongitudeWGS84": "37.4146360652750000",
+        "LatitudeWGS84": "55.8054089281184000",
+        "PublicPhonePublicPhone0": "(495) 742-17-85"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.70360415710421,
+          55.7172819850906
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 20738622,
+        "Name": "ООО ПРОДОВОЛЬСТВЕННАЯ БАЗА ПОКОТОРГ",
+        "IsNetObject": "нет",
+        "OperatingCompany": null,
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Печатники",
+        "Address": "Угрешская улица, дом 26А",
+        "SeatsCount": 1,
+        "SocialPrivileges": "нет",
+        "LongitudeWGS84": "37.7036041571042090",
+        "LatitudeWGS84": "55.7172819850906010",
+        "PublicPhonePublicPhone0": "(495) 679-81-95"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.70360415710421,
+          55.7172819850906
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 20738620,
+        "Name": "ТРИАДА - ПОКОТОРГ",
+        "IsNetObject": "нет",
+        "OperatingCompany": null,
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Печатники",
+        "Address": "Угрешская улица, дом 26А",
+        "SeatsCount": 1,
+        "SocialPrivileges": "нет",
+        "LongitudeWGS84": "37.7036041571042090",
+        "LatitudeWGS84": "55.7172819850906010",
+        "PublicPhonePublicPhone0": "(495) 279-36-12"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.72559692583264,
+          55.68809190857287
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 20738618,
+        "Name": "ТОРИТ",
+        "IsNetObject": "нет",
+        "OperatingCompany": null,
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Печатники",
+        "Address": "Шоссейная улица, дом 13",
+        "SeatsCount": 1,
+        "SocialPrivileges": "нет",
+        "LongitudeWGS84": "37.7255969258326400",
+        "LatitudeWGS84": "55.6880919085728720",
+        "PublicPhonePublicPhone0": "(495) 353-29-82"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4025746809074,
+          55.7972386313968
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 20738624,
+        "Name": "МЯСНОЙ ЦЕХ",
+        "IsNetObject": "нет",
+        "OperatingCompany": null,
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Строгино",
+        "Address": "Таллинская улица, дом 18",
+        "SeatsCount": 1,
+        "SocialPrivileges": "нет",
+        "LongitudeWGS84": "37.4025746809074000",
+        "LatitudeWGS84": "55.7972386313968000",
+        "PublicPhonePublicPhone0": "(495) 745-74-39"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.8384980188426,
+          55.7542264438635
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 20738615,
+        "Name": "Пицерия АМЕРИКЭН СИТИ ПИЦА",
+        "IsNetObject": "нет",
+        "OperatingCompany": null,
+        "AdmArea": "Восточный административный округ",
+        "District": "район Ивановское",
+        "Address": "улица Сталеваров, дом 22, корпус 2",
+        "SeatsCount": 1,
+        "SocialPrivileges": "нет",
+        "LongitudeWGS84": "37.8384980188426000",
+        "LatitudeWGS84": "55.7542264438635000",
+        "PublicPhonePublicPhone0": "(495) 905-33-33"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.73026413219697,
+          55.67870791527493
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 20738621,
+        "Name": "ДЫМОК",
+        "IsNetObject": "нет",
+        "OperatingCompany": null,
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Печатники",
+        "Address": "улица Полбина, дом 13",
+        "SeatsCount": 1,
+        "SocialPrivileges": "нет",
+        "LongitudeWGS84": "37.7302641321969720",
+        "LatitudeWGS84": "55.6787079152749270",
+        "PublicPhonePublicPhone0": "(499) 746-20-97"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.70360415710421,
+          55.7172819850906
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 20738619,
+        "Name": "ПРОДОВОЛЬСТВЕННАЯ БАЗА «ПОКОТОРГ»",
+        "IsNetObject": "нет",
+        "OperatingCompany": null,
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Печатники",
+        "Address": "Угрешская улица, дом 26А",
+        "SeatsCount": 1,
+        "SocialPrivileges": "нет",
+        "LongitudeWGS84": "37.7036041571042090",
+        "LatitudeWGS84": "55.7172819850906010",
+        "PublicPhonePublicPhone0": "(495) 279-36-12"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.70360415710421,
+          55.7172819850906
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 20738617,
+        "Name": "ПРОДОВОЛЬСТВЕННАЯ БАЗА ПОКОТОРГ",
+        "IsNetObject": "нет",
+        "OperatingCompany": null,
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Печатники",
+        "Address": "Угрешская улица, дом 26А",
+        "SeatsCount": 1,
+        "SocialPrivileges": "нет",
+        "LongitudeWGS84": "37.7036041571042090",
+        "LatitudeWGS84": "55.7172819850906010",
+        "PublicPhonePublicPhone0": "(495) 279-36-12"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.82979195692795,
+          55.775524064255315
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 20738616,
+        "Name": "Специализированный цех ВИТО-1",
+        "IsNetObject": "нет",
+        "OperatingCompany": null,
+        "AdmArea": "Восточный административный округ",
+        "District": "район Ивановское",
+        "Address": "Магнитогорская улица, дом 19",
+        "SeatsCount": 1,
+        "SocialPrivileges": "нет",
+        "LongitudeWGS84": "37.8297919569279490",
+        "LatitudeWGS84": "55.7755240642553150",
+        "PublicPhonePublicPhone0": "(495) 603-51-13"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4035215520948,
+          55.8167049761973
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 20738627,
+        "Name": "МЯСНОЙ ЦЕХ",
+        "IsNetObject": "нет",
+        "OperatingCompany": null,
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Строгино",
+        "Address": "улица Исаковского, дом 6, корпус 2",
+        "SeatsCount": 1,
+        "SocialPrivileges": "нет",
+        "LongitudeWGS84": "37.4035215520948000",
+        "LatitudeWGS84": "55.8167049761973000",
+        "PublicPhonePublicPhone0": "(495) 780-52-36"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4004489814041,
+          55.7986939933412
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 20738625,
+        "Name": "КОНДИТЕРСКИЕ ИЗДЕЛИЯ",
+        "IsNetObject": "нет",
+        "OperatingCompany": null,
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Строгино",
+        "Address": "Таллинская улица, дом 14",
+        "SeatsCount": 1,
+        "SocialPrivileges": "нет",
+        "LongitudeWGS84": "37.4004489814041000",
+        "LatitudeWGS84": "55.7986939933412000",
+        "PublicPhonePublicPhone0": "(495) 756-57-32"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.731018066383115,
+          55.78513246904855
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 20738629,
+        "Name": "ШКОЛЬНО- БАЗОВЫЙ КОМБИНАТ",
+        "IsNetObject": "нет",
+        "OperatingCompany": null,
+        "AdmArea": "Восточный административный округ",
+        "District": "район Соколиная Гора",
+        "Address": "улица Ибрагимова, дом 20",
+        "SeatsCount": 46,
+        "SocialPrivileges": "нет",
+        "LongitudeWGS84": "37.7310180663831150",
+        "LatitudeWGS84": "55.7851324690485480",
+        "PublicPhonePublicPhone0": "(499) 369-04-55"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.621078101008415,
+          55.59859461439609
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 20738631,
+        "Name": "Розница",
+        "IsNetObject": "нет",
+        "OperatingCompany": null,
+        "AdmArea": "Южный административный округ",
+        "District": "район Чертаново Южное",
+        "Address": "Дорожная улица, дом 11",
+        "SeatsCount": 1,
+        "SocialPrivileges": "нет",
+        "LongitudeWGS84": "37.6210781010084150",
+        "LatitudeWGS84": "55.5985946143960920",
+        "PublicPhonePublicPhone0": "(495) 381-80-93"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4145312299604,
+          55.8054609510716
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 20738628,
+        "Name": "РЫБНЫЙ ЦЕХ",
+        "IsNetObject": "нет",
+        "OperatingCompany": null,
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Строгино",
+        "Address": "улица Маршала Катукова, дом 25",
+        "SeatsCount": 1,
+        "SocialPrivileges": "нет",
+        "LongitudeWGS84": "37.4145312299604000",
+        "LatitudeWGS84": "55.8054609510716000",
+        "PublicPhonePublicPhone0": "(495) 742-17-85"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.60386308617894,
+          55.60293172582204
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 20738630,
+        "Name": "СПАР РИТЭЙЛ",
+        "IsNetObject": "нет",
+        "OperatingCompany": null,
+        "AdmArea": "Южный административный округ",
+        "District": "район Чертаново Южное",
+        "Address": "Варшавское шоссе, дом 146",
+        "SeatsCount": 1,
+        "SocialPrivileges": "нет",
+        "LongitudeWGS84": "37.6038630861789400",
+        "LatitudeWGS84": "55.6029317258220390",
+        "PublicPhonePublicPhone0": "(495) 745-78-17"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.609298542635145,
+          55.59957705033631
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 20738632,
+        "Name": "ПЕРЕКРЕСТОК",
+        "IsNetObject": "нет",
+        "OperatingCompany": null,
+        "AdmArea": "Южный административный округ",
+        "District": "район Чертаново Южное",
+        "Address": "Россошанский проезд, дом 5, корпус 1",
+        "SeatsCount": 1,
+        "SocialPrivileges": "нет",
+        "LongitudeWGS84": "37.6092985426351450",
+        "LatitudeWGS84": "55.5995770503363080",
+        "PublicPhonePublicPhone0": "(495) 382-90-04"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.53627559480586,
+          55.87210060145441
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 20738690,
+        "Name": "МНТК МХ ГЛАЗА КОНД.ЦЕХ",
+        "IsNetObject": "нет",
+        "OperatingCompany": null,
+        "AdmArea": "Северный административный округ",
+        "District": "Бескудниковский район",
+        "Address": "Бескудниковский бульвар, дом 59А",
+        "SeatsCount": 3,
+        "SocialPrivileges": "нет",
+        "LongitudeWGS84": "37.5362755948058580",
+        "LatitudeWGS84": "55.8721006014544130",
+        "PublicPhonePublicPhone0": "(499) 488-87-23"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.403726889839795,
+          55.81095311198468
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 20738626,
+        "Name": "МЯСНОЙ ЦЕХ",
+        "IsNetObject": "нет",
+        "OperatingCompany": null,
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Строгино",
+        "Address": "улица Маршала Катукова, дом 11, корпус 1",
+        "SeatsCount": 1,
+        "SocialPrivileges": "нет",
+        "LongitudeWGS84": "37.4037268898397950",
+        "LatitudeWGS84": "55.8109531119846810",
+        "PublicPhonePublicPhone0": "(495) 750-14-42"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.36110910175507,
+          55.845091075057155
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 20738689,
+        "Name": "СУШИ.РОЛЫ",
+        "IsNetObject": "нет",
+        "OperatingCompany": null,
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Митино",
+        "Address": "Митинская улица, дом 27",
+        "SeatsCount": 1,
+        "SocialPrivileges": "нет",
+        "LongitudeWGS84": "37.3611091017550690",
+        "LatitudeWGS84": "55.8450910750571550",
+        "PublicPhonePublicPhone0": "(916) 613-13-02"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.560065147888324,
+          55.86658289763244
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 20738691,
+        "Name": "НАТАЛКА ПРО",
+        "IsNetObject": "нет",
+        "OperatingCompany": null,
+        "AdmArea": "Северный административный округ",
+        "District": "Бескудниковский район",
+        "Address": "Бескудниковский бульвар, дом 20А",
+        "SeatsCount": 5,
+        "SocialPrivileges": "нет",
+        "LongitudeWGS84": "37.5600651478883240",
+        "LatitudeWGS84": "55.8665828976324410",
+        "PublicPhonePublicPhone0": "(499) 480-20-00"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.46949758775508,
+          55.791923791016934
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 20738694,
+        "Name": "ПИЩЕВОЕ ПРОИЗВОДСТВО",
+        "IsNetObject": "нет",
+        "OperatingCompany": null,
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Щукино",
+        "Address": "улица Берзарина, дом 34, строение 3",
+        "SeatsCount": 1,
+        "SocialPrivileges": "нет",
+        "LongitudeWGS84": "37.4694975877550790",
+        "LatitudeWGS84": "55.7919237910169340",
+        "PublicPhonePublicPhone0": "(495) 775-76-78"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.45984490867423,
+          55.80994900872768
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 20738693,
+        "Name": "ЦЕХ ПО ПРОИЗВОДСТВУ САЛАТОВ",
+        "IsNetObject": "нет",
+        "OperatingCompany": null,
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Щукино",
+        "Address": "Авиационная улица, дом 66",
+        "SeatsCount": 1,
+        "SocialPrivileges": "нет",
+        "LongitudeWGS84": "37.4598449086742280",
+        "LatitudeWGS84": "55.8099490087276780",
+        "PublicPhonePublicPhone0": "(495) 925-27-70"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.815620979011904,
+          55.73627935782084
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "globalid": 20738692,
+        "Name": "ПЕРОВСКИЙ ШКОЛЬНИК",
+        "IsNetObject": "нет",
+        "OperatingCompany": null,
+        "AdmArea": "Восточный административный округ",
+        "District": "район Вешняки",
+        "Address": "улица Юности, дом 1",
+        "SeatsCount": 1,
+        "SocialPrivileges": "нет",
+        "LongitudeWGS84": "37.8156209790119040",
+        "LatitudeWGS84": "55.7362793578208410",
+        "PublicPhonePublicPhone0": "(495) 375-13-00"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

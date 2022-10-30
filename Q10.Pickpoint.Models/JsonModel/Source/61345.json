@@ -1,0 +1,91 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.7933112338387,
+          55.7182980698693
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Государственное бюджетное учреждение города Москвы «Московский дом общественных организаций»",
+        "ShortName": "ГБУ МДОО",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "Рязанский район",
+        "Address": "город Москва, 4-й Вешняковский проезд, дом 1, корпус 1",
+        "ChiefPosition": "Директор",
+        "ChiefName": "Исполняющий обязанности Федонникова Людмила Николаевна",
+        "WebSite": "",
+        "ClarificationOfWorkingHours": "Суббота, воскресенье выходной",
+        "Activities": "Содействие качественному развитию деятельности социально-ориентированных некоммерческих организаций (СО НКО); поддержку гражданских инициатив, направленные на позитивные изменения в общественной и социальной жизни города Москвы; оказание информационной поддержки НКО и жителям столицы по направлениям деятельности некоммерческих организаций",
+        "globalid": 896342112,
+        "PublicPhoneglobalid0": 7,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "Emailglobalid0": 7,
+        "Emailisdeleted0": 0,
+        "EmailEmail0": "",
+        "WorkingHoursglobalid0": 43,
+        "WorkingHoursisdeleted0": 0,
+        "WorkingHoursDayOfWeek0": null,
+        "WorkingHoursHours0": "",
+        "WorkingHoursglobalid1": 44,
+        "WorkingHoursisdeleted1": 0,
+        "WorkingHoursDayOfWeek1": null,
+        "WorkingHoursHours1": "",
+        "WorkingHoursglobalid2": 45,
+        "WorkingHoursisdeleted2": 0,
+        "WorkingHoursDayOfWeek2": null,
+        "WorkingHoursHours2": "",
+        "WorkingHoursglobalid3": 46,
+        "WorkingHoursisdeleted3": 0,
+        "WorkingHoursDayOfWeek3": null,
+        "WorkingHoursHours3": "",
+        "WorkingHoursglobalid4": 47,
+        "WorkingHoursisdeleted4": 0,
+        "WorkingHoursDayOfWeek4": null,
+        "WorkingHoursHours4": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7775109664966,
+          55.7043831773418
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "ГБУ города Москвы «Ресурсный центр по развитию и поддержке волонтерского движения «Мосволонтёр»",
+        "ShortName": "Мосволонтер",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Кузьминки",
+        "Address": "город Москва, Волгоградский проспект, дом 145, корпус 2",
+        "ChiefPosition": "Директор",
+        "ChiefName": "-",
+        "WebSite": "",
+        "ClarificationOfWorkingHours": "Суббота, воскресенье выходной",
+        "Activities": "Уникальный проект Правительства Москвы, объединяющий активных горожан, НКО, власть и бизнес для решения социальных задач города Москвы. В рамках этой деятельности в волонтёрской базе учреждения зарегистрировано более 60 000 горожан и объединено в партнёрскую сеть 400 НКО. К 2020 году планируется, что каждый десятый житель столицы будет вовлечён в добровольческую деятельность, каждый третий – информирован о такой возможности.",
+        "globalid": 896342256,
+        "PublicPhoneglobalid0": 12,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "Emailglobalid0": 12,
+        "Emailisdeleted0": 0,
+        "EmailEmail0": "",
+        "WorkingHoursglobalid0": 53,
+        "WorkingHoursisdeleted0": 0,
+        "WorkingHoursDayOfWeek0": null,
+        "WorkingHoursHours0": "",
+        "WorkingHoursglobalid1": 54,
+        "WorkingHoursisdeleted1": 0,
+        "WorkingHoursDayOfWeek1": null,
+        "WorkingHoursHours1": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

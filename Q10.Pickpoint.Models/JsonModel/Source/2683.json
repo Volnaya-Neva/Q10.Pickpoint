@@ -1,0 +1,6409 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.609272,
+          55.770796
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Театральный День города в саду «Эрмитаж»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Location": "Сад «Эрмитаж»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837490
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.656002,
+          55.793728
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Музыкальный День города в «Сокольниках»",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Сокольники",
+        "Location": "Парк «Сокольники»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837491
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.360151,
+          55.835457
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "«Энциклопедия драконов»: спектакль в микроавтобусе",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Митино",
+        "Location": "Ландшафтный парк «Митино»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837492
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.626933,
+          55.752333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Экскурсии о быте англичан в День города",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Location": "Музей «Старый Английский двор»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837493
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.593345,
+          55.763498
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Булгаковский фестиваль на Патриарших прудах",
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "Location": "Патриаршие пруды",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837494
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.467392,
+          55.850676
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Самый масштабный урок танцев",
+        "AdmArea": "Северный административный округ",
+        "District": "район Левобережный",
+        "Location": "Парк Северного речного вокзала",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837495
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.646597,
+          55.733249
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "День города в Доме музыки",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Замоскворечье",
+        "Location": "Московский международный дом музыки",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837496
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.622657,
+          55.770552
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Фестиваль «Добрая Москва»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Мещанский район",
+        "Location": "Цветной бульвар",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837497
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.218461042297,
+          55.988001954401
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "День города в Зеленограде",
+        "AdmArea": "Зеленоградский административный округ",
+        "District": "район Савёлки",
+        "Location": "Парк Победы",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837498
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.809219,
+          55.688304
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "День города в Московской усадьбе Деда Мороза",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Выхино-Жулебино",
+        "Location": "Московская усадьба Деда Мороза",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837499
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.594881,
+          55.772046
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "День города в Музее русской гармоники",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Location": "Музей русской гармоники А. Мирека",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837500
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.689222,
+          55.761006
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Голландская суббота в парке «Лефортово»",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Лефортово",
+        "Location": "Парк «Лефортово»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837501
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.713818,
+          55.794264
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Праздничная программа в Общественном центре имени Моссовета",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Преображенское",
+        "Location": "Общественный центр имени Моссовета",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837502
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.366116232848,
+          55.833669765652
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Фехтование и авиасимулятор: День города в парке «Митино»",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Митино",
+        "Location": "Ландшафтный парк «Митино»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837503
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.665165,
+          55.672016
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Фестиваль фольклора в музее-заповеднике «Коломенское»",
+        "AdmArea": "Южный административный округ",
+        "District": "район Нагатинский Затон",
+        "Location": "Музей-заповедник «Коломенское»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837504
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.617177,
+          55.756325
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Экскурсии и квесты: День города в Музее археологии",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Location": "Музей археологии Москвы",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837505
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.47386,
+          55.675539
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Праздник «Отражения Москвы» в парке Олимпийской деревни",
+        "AdmArea": "Западный административный округ",
+        "District": "район Тропарёво-Никулино",
+        "Location": "Парк Олимпийской деревни",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837506
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.711024,
+          55.769413
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Интерактивные экскурсии в День города в музее истории «Лефортово»",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Лефортово",
+        "Location": "Музей истории «Лефортово»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837507
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.504214,
+          55.730715
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Звёзды 1990-х и молодые исполнители: День города на Поклонной горе",
+        "AdmArea": "Западный административный округ",
+        "District": "район Дорогомилово",
+        "Location": "Поклонная гора",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837508
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.683931,
+          55.616625
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Классика и джаз в музее-заповеднике «Царицыно»",
+        "AdmArea": "Южный административный округ",
+        "District": "район Орехово-Борисово Северное",
+        "Location": "Музей-заповедник «Царицыно»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837509
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.796526,
+          55.690522
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "День города в усадьбе Голицыных",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Выхино-Жулебино",
+        "Location": "Усадьба Голицыных Влахернское-Кузьминки",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837511
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.429016,
+          55.848877
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Выставка «Моя Москва»",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Южное Тушино",
+        "Location": "Выставочный зал «Тушино»",
+        "EventBegin": "02.09.2016",
+        "EventEnd": "18.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837512
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.400854,
+          55.707035
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "День города в галерее «Сколково»: мастер-класс по декупажу",
+        "AdmArea": "Западный административный округ",
+        "District": "Можайский район",
+        "Location": "Галерея «Сколково»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837513
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.561491,
+          55.690623
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Путь эволюции и язык роботов: День города в Дарвиновском музее",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "Академический район",
+        "Location": "Дарвиновский музей",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837514
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.600657,
+          55.67622
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "День города в галерее «Нагорная»",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Котловка",
+        "Location": "Галерея «Нагорная»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837515
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.461337,
+          55.71801
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "«Жизнь нараспашку»: художественная акция в День города",
+        "AdmArea": "Западный административный округ",
+        "District": "район Фили-Давыдково",
+        "Location": "Галерея XXI века",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837516
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.819244,
+          55.708227
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Киновикторина в галерее-мастерской «Выхино»",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Выхино-Жулебино",
+        "Location": "Галерея-мастерская «Выхино»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837517
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.819244,
+          55.708227
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Краеведческая экскурсия по району Выхино в День города",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Выхино-Жулебино",
+        "Location": "Галерея-мастерская «Выхино»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837518
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.571534,
+          55.764354
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Микромир, Дуремар и древности: День города в биомузее",
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "Location": "Государственный биологический музей имени К.А. Тимирязева",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837519
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.546632,
+          55.869683
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "День города в музее «История танка Т-34»",
+        "AdmArea": "Северный административный округ",
+        "District": "Бескудниковский район",
+        "Location": "Музей «История танка Т-34»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837520
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.61017,
+          55.712847
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Литературно-поэтическая программа «Бумажные чтения»",
+        "AdmArea": "Южный административный округ",
+        "District": "Даниловский район",
+        "Location": "Выставочный зал «На Шаболовке»",
+        "EventBegin": "11.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837521
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.646992,
+          55.66145
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Мастер-класс по жанровой и пейзажной фотосъёмке в «Коломенском»",
+        "AdmArea": "Южный административный округ",
+        "District": "район Нагатино-Садовники",
+        "Location": "Галерея «На Каширке»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837522
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.590066,
+          55.754193
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Экскурсия «Ода пешему ходу»",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Арбат",
+        "Location": "Дом-музей Марины Цветаевой",
+        "EventBegin": "11.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837523
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.590066,
+          55.754193
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Фотовыставка «Московские окна Марины Цветаевой»",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Арбат",
+        "Location": "Дом-музей Марины Цветаевой",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837524
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.808958,
+          55.734922
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Концерт «Любимые мелодии»",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Вешняки",
+        "Location": "Музей-усадьба «Кусково»",
+        "EventBegin": "11.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837525
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.590066,
+          55.754193
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Выставка «Старая и новая Москва в рисунках детей»",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Арбат",
+        "Location": "Дом-музей Марины Цветаевой",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "15.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837526
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.630742,
+          55.726609
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Лекция «Я люблю этот город вязевый…»",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Замоскворечье",
+        "Location": "Московский государственный музей С.А. Есенина",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837527
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.613018,
+          55.74446
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "День города в Доме на набережной",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Якиманка",
+        "Location": "Музей «Дом на набережной»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837528
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.590084,
+          55.750722
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Экскурсия «Переулками Арбата. Из дома в дом» в День города",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Арбат",
+        "Location": "Мемориальный музей А.Н. Скрябина",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837529
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.808958,
+          55.734922
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Представление «Крепостной театр Шереметевых»",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Вешняки",
+        "Location": "Музей-усадьба «Кусково»",
+        "EventBegin": "11.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837530
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.815678,
+          55.734866
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Мастер-класс по бальным танцам в музее-усадьбе «Кусково»",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Вешняки",
+        "Location": "Музей-усадьба «Кусково»",
+        "EventBegin": "11.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837531
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.808958,
+          55.734922
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Исторические реконструкции в музее-усадьбе «Кусково»",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Вешняки",
+        "Location": "Музей-усадьба «Кусково»",
+        "EventBegin": "11.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837532
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.81345,
+          55.749942
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "День города в Музее русского лубка и наивного искусства",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Новогиреево",
+        "Location": "Музей русского лубка и наивного искусства",
+        "EventBegin": "11.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837533
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.60823,
+          55.749055
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Путешествие по старым улицам Москвы в День города",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Хамовники",
+        "Location": "Галерея Александра Шилова",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837534
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.624965,
+          55.75437
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Экскурсии ко Дню города в Музее моды",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Location": "Музей Моды",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837535
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.593093,
+          55.736422
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Фестиваль «Музей и город»",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Хамовники",
+        "Location": "Музей Москвы",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837536
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.808958,
+          55.734922
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Commedia Dell’arte в музее-усадьбе «Кусково»",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Вешняки",
+        "Location": "Музей-усадьба «Кусково»",
+        "EventBegin": "11.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837537
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.606757,
+          55.74639
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Экскурсия «Московская панорама: через века за тысячу шагов»",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Хамовники",
+        "Location": "Галерея Ильи Глазунова",
+        "EventBegin": "11.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837538
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.597836,
+          55.743553
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Выставка «А.С. Пушкин. «Капитанская дочка». К 180-летию публикации повести»",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Хамовники",
+        "Location": "Государственный музей А.С. Пушкина",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.12.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837539
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.808958,
+          55.734922
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Фестиваль искусств «Вдохновение в Кусково» в честь Дня города",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Вешняки",
+        "Location": "Музей-усадьба «Кусково»",
+        "EventBegin": "11.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837540
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.639815,
+          55.82311
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "День города в Музее космонавтики",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Останкинский район",
+        "Location": "Мемориальный музей космонавтики",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837541
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.599822,
+          55.754142
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "«Лучший Гоголь Земли» в День города",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Арбат",
+        "Location": "Дом Гоголя",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837542
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.60823,
+          55.749055
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Благотворительный концерт в Галерее Шилова",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Хамовники",
+        "Location": "Галерея Александра Шилова",
+        "EventBegin": "11.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837543
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.651636,
+          55.74299
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "День города в Доме русского зарубежья имени А.И. Солженицына",
+        "AdmArea": "Центральный административный округ",
+        "District": "Таганский район",
+        "Location": "Дом русского зарубежья имени А.И. Солженицына",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837544
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.488574,
+          55.634034
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Арт-марафон «Влюблённые в Москву»",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Тёплый Стан",
+        "Location": "Зона отдыха «Тропарёво»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837545
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.498348,
+          55.680691
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "День города в парке имени 50-летия Октября",
+        "AdmArea": "Западный административный округ",
+        "District": "район Проспект Вернадского",
+        "Location": "Парк культуры и отдыха имени 50-летия Октября",
+        "EventBegin": "09.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837547
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4599,
+          55.732489
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Праздничная программа «Москва — мой город, столица!»",
+        "AdmArea": "Западный административный округ",
+        "District": "район Фили-Давыдково",
+        "Location": "Мазиловский пруд",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837548
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.392122,
+          55.894308
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "День города в парке «Дубрава»",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Куркино",
+        "Location": "Парк «Дубрава»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837549
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.471623,
+          55.780213
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Праздничная программа «Москва — в осеннем вальсе»",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Хорошёво-Мнёвники",
+        "Location": "Бульвар Генерала Карбышева, дом 14",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837550
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.743849,
+          55.69181
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Праздничный концерт «Жили-были москвичи»",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Текстильщики",
+        "Location": "Дворец творчества детей и молодёжи имени А.П. Гайдара",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837551
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.420554,
+          55.804936
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "День города в Строгинской пойме",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Строгино",
+        "Location": "Природно-исторический парк «Москворецкий»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837552
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.420302,
+          55.847887
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "День города в Южном Тушине",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Южное Тушино",
+        "Location": "Детская площадка на проезде Донелайтиса",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837553
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.65779,
+          55.83024
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "День города в парке «Покровское-Стрешнево»",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Ростокино",
+        "Location": "Парк «Покровское-Стрешнево»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837554
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.835746,
+          55.739493
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Праздничный концерт «Я люблю тебя, Москва!»",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Вешняки",
+        "Location": "Территориальный центр социального обслуживания «Вешняки»",
+        "EventBegin": "02.09.2016",
+        "EventEnd": "02.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837555
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.599085,
+          55.725909
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Фестиваль «Яркие люди» в Парке Горького",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Якиманка",
+        "Location": "Парк Горького",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837557
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.667321,
+          55.738865
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Город мечты, вальс и сторителлинг в Таганском парке",
+        "AdmArea": "Центральный административный округ",
+        "District": "Таганский район",
+        "Location": "Таганский парк",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837558
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.558832,
+          55.753752
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Фестиваль городских романтиков в парке «Красная Пресня»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "Location": "Парк «Красная Пресня»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837559
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.656002,
+          55.793728
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "День хлебопёка в парке «Сокольники»",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Сокольники",
+        "Location": "Парк «Сокольники»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837560
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.253117,
+          55.613738
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Соревнования по футболу, волейболу и стритболу",
+        "AdmArea": "Западный административный округ",
+        "District": "район Внуково",
+        "Location": "Школа № 41",
+        "EventBegin": "09.09.2016",
+        "EventEnd": "09.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837561
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.41423,
+          55.801496
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Дни открытых дверей в футбольном клубе «Строгино»",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Строгино",
+        "Location": "Футбольный клуб «Строгино»",
+        "EventBegin": "05.09.2016",
+        "EventEnd": "08.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837562
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.493892,
+          55.773454
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "День города в библиотеке № 225",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Хорошёво-Мнёвники",
+        "Location": "Библиотека № 225",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837563
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.455534,
+          55.788793
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "День города в библиотеке № 240 района Хорошёво-Мнёвники",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Хорошёво-Мнёвники",
+        "Location": "Библиотека № 240",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837564
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.367553,
+          55.840381
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Концерт в ландшафтном парке «Митино»",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Митино",
+        "Location": "Ландшафтный парк «Митино»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837565
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.591557,
+          55.770973
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Лекции о Москве в «Доме на Брестской»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Location": "Дом на Брестской",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837566
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.637686,
+          55.826326
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Моделирование на ВДНХ: фестиваль «Конструктор»",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Останкинский район",
+        "Location": "Центральная аллея ВДНХ",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837567
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.637686,
+          55.826326
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "«Москва в миниатюре»: уникальный интерактивный макет Москвы",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Останкинский район",
+        "Location": "Павильон ВДНХ № 75",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837568
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.73297,
+          55.707872
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Концерт «Мелодии большого города»",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Текстильщики",
+        "Location": "Культурный центр «Москвич»",
+        "EventBegin": "11.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837569
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.828667,
+          55.731952
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "День города в Вешняках",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Вешняки",
+        "Location": "Зона отдыха «Пруды “Радуга”»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837570
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.615030402045,
+          55.722327874873
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "День города в Гольяновском сквере",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Якиманка",
+        "Location": "Сквер в Гольянове",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837571
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.641602,
+          55.817092
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Открытие Студенческой аллеи в Алексеевском районе",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Алексеевский район",
+        "Location": "Студенческая аллея",
+        "EventBegin": "08.09.2016",
+        "EventEnd": "08.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837572
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.094474,
+          55.410602
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "День города в сквере на Звёздном бульваре",
+        "AdmArea": "Троицкий административный округ",
+        "District": "поселение Михайлово-Ярцевское",
+        "Location": "Сквер на Звёздном бульваре",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837573
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.29108,
+          55.610016
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Концерт «С праздником, любимый город»",
+        "AdmArea": "Западный административный округ",
+        "District": "район Внуково",
+        "Location": "Дом культуры «Первомайское»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837574
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.47783,
+          55.570054
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Фотовыставка «Старая, Новая — Москва!»",
+        "AdmArea": "Новомосковский административный округ",
+        "District": "поселение Сосенское",
+        "Location": "Дом культуры «Коммунарка»",
+        "EventBegin": "05.09.2016",
+        "EventEnd": "15.10.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837575
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.487559,
+          55.745549
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Программа «Москва — город равных возможностей»",
+        "AdmArea": "Западный административный округ",
+        "District": "район Филёвский Парк",
+        "Location": "Парк «Фили»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837576
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.56794,
+          55.747586
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Праздничные концерты и мастер-классы в Дорогомилове",
+        "AdmArea": "Западный административный округ",
+        "District": "район Дорогомилово",
+        "Location": "Украинский бульвар",
+        "EventBegin": "09.09.2016",
+        "EventEnd": "09.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837577
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.347934,
+          55.948145
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Виртуальная экскурсия по Москве",
+        "AdmArea": "Северный административный округ",
+        "District": "Молжаниновский район",
+        "Location": "Школа «Перспектива»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837578
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.523141,
+          55.831145
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Творческая мастерская «Город мастеров»",
+        "AdmArea": "Северный административный округ",
+        "District": "район Коптево",
+        "Location": "Площадка детского городка «Бригантина»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837579
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.59533,
+          55.667736
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Концерт в народном парке «Сосенки»",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Котловка",
+        "Location": "Народный парк «Сосенки»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837580
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.58067,
+          55.573271
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "День города в Северном Бутове",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Северное Бутово",
+        "Location": "Пойма реки Битцы",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837581
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.531684,
+          55.54317
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "День города в парке «Южное Бутово»",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Южное Бутово",
+        "Location": "Детский ландшафтный парк «Южное Бутово»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837582
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.788171,
+          55.693358
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Детский праздник «Встречаем осень в парке»",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Кузьминки",
+        "Location": "Природно-исторический парк «Кузьминки-Люблино»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837583
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.795565,
+          55.635559
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "День города в библиотеках Капотни: виртуальные экскурсии и викторины о Москве",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Капотня",
+        "Location": "Библиотека № 134",
+        "EventBegin": "08.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837584
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.765363,
+          55.663486
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Костюмированный семейный велопробег в честь Дня города",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Марьино",
+        "Location": "Перервинский бульвар",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837585
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.678658,
+          55.767099
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Экскурсия «ПРОМ-акция, или Большое городское путешествие»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Басманный район",
+        "Location": "Библиотека имени Н.А. Некрасова",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837586
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.678658,
+          55.767099
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Разгуляй около Некрасовской библиотеки",
+        "AdmArea": "Центральный административный округ",
+        "District": "Басманный район",
+        "Location": "Центральная универсальная научная библиотека имени Н.А. Некрасова",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837587
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.678658,
+          55.767099
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Экскурсия «Культурное наследие Немецкой слободы»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Басманный район",
+        "Location": "Библиотека имени Н.А. Некрасова",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837588
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.65956,
+          55.581337
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Экскурсия в Бирюлёве Западном",
+        "AdmArea": "Южный административный округ",
+        "District": "район Бирюлёво Западное",
+        "Location": "Железнодорожная станция Бирюлёво-Пассажирская",
+        "EventBegin": "11.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837589
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.559649,
+          55.762024
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Экскурсия «Пресня — «Сити»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "Location": "У скульптурной группы на выходе со станции метро «Улица 1905 года» (последний вагон из центра)",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837590
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.516925,
+          55.736164
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Экскурсия «Москва 1812 года»",
+        "AdmArea": "Западный административный округ",
+        "District": "район Дорогомилово",
+        "Location": "Триумфальная арка",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837591
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.655894,
+          55.741784
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Экскурсия «Мир городской усадьбы»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Таганский район",
+        "Location": "Автобусная остановка у ТЦ «Звёздочка»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837592
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.504214,
+          55.730715
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Экскурсия «Кутузовский проспект — дорога памяти героев»",
+        "AdmArea": "Западный административный округ",
+        "District": "район Дорогомилово",
+        "Location": "Поклонная гора",
+        "EventBegin": "11.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837593
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.513305,
+          55.798819
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Московский кинопробег",
+        "AdmArea": "Северный административный округ",
+        "District": "район Сокол",
+        "Location": "Центральная библиотека № 21",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837594
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.689222,
+          55.761006
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Экскурсия «Прудов задумчивая гладь…»",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Лефортово",
+        "Location": "Парк «Лефортово»",
+        "EventBegin": "11.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837595
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.60708,
+          55.764136
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Экскурсия «Тверская пушкинской поры»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Location": "Улица Тверская, дом 14",
+        "EventBegin": "11.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837596
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.580894,
+          55.743553
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Экскурсия по литературным местам Плющихи и её окрестностей",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Хамовники",
+        "Location": "Улица Плющиха",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837597
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.808958,
+          55.734922
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Концерт камерного оркестра Kremlin в Кускове",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Вешняки",
+        "Location": "Музей-усадьба «Кусково»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837598
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.597836,
+          55.743553
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Экскурсия в открытые хранения Музея А.С. Пушкина",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Хамовники",
+        "Location": "Государственный музей А.С. Пушкина",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837599
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.60708,
+          55.764136
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Лекция «Как полюбить жизнь, если вам кажется, что она вас не любит»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Location": "Государственный музей «Преодоление» имени Н.А. Островского",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837600
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.597181,
+          55.746507
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Открытие выставки «Молодые художники стран СНГ»",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Хамовники",
+        "Location": "Дом Бурганова",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837601
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.808958,
+          55.734922
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Мастер-класс по керамике в усадьбе Кусково",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Вешняки",
+        "Location": "Усадьба Кусково",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837602
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.597181,
+          55.746507
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Мастер-класс «Открытая мастерская» в Доме Бурганова",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Хамовники",
+        "Location": "Дом Бурганова",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837603
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.597181,
+          55.746507
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Экскурсия «Дом Бурганова и окрестности»",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Хамовники",
+        "Location": "Дом Бурганова",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837604
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.808958,
+          55.734922
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Экскурсии в усадьбе Кусково в День города",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Вешняки",
+        "Location": "Музей-усадьба «Кусково»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837605
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.59878,
+          55.741657
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Выставка «Русский космос»: День города в «Мультимедиа-арт-музее»",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Хамовники",
+        "Location": "«Мультимедиа-арт-музей», мультимедийный комплекс актуальных искусств",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837606
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.622801,
+          55.733766
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "День города в Музее В.А. Тропинина",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Якиманка",
+        "Location": "Музей В.А. Тропинина и московских художников его времени",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837607
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.562012,
+          55.900829
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Конные шоу Кремлёвской школы верховой езды",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Лианозово",
+        "Location": "Парки Москвы",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837608
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.788728,
+          55.693906
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "День города в Музее Паустовского",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Кузьминки",
+        "Location": "Московский литературный музей-центр К.Г. Паустовского",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837609
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.609631,
+          55.762115
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "«Антикварный цирк» центра Славы Полунина",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Location": "Тверская улица в районе Пушкинской площади",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837610
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.554457,
+          55.703038
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "День города в Московском дворце пионеров на Воробьёвых горах",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "Гагаринский район",
+        "Location": "Московский Дворец пионеров",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837611
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.360151,
+          55.835457
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Детский спектакль «Красная Шапочка» в парке «Митино»",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Митино",
+        "Location": "Ландшафтный парк «Митино»",
+        "EventBegin": "11.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837612
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.554457,
+          55.703038
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Кинопраздник во Дворце пионеров на Воробьёвых горах",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "Гагаринский район",
+        "Location": "Московский дворец пионеров на Воробьёвых горах",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837613
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.177856,
+          55.316016
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "День города в поселении Вороновском",
+        "AdmArea": "Троицкий административный округ",
+        "District": "поселение Вороновское",
+        "Location": "Дворец культуры «Дружба»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837614
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.646822,
+          55.756731
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Концертная игровая программа «Тебе, Москва, творчество наше!»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Басманный район",
+        "Location": "Центр эстетического воспитания детей",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837615
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.59268,
+          55.776867
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Праздничная программа «Тебе, салютуем, Москва!»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Location": "Сквер Дворца творчества детей и молодёжи на Миуссах",
+        "EventBegin": "11.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837616
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.620393,
+          55.75396
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "День города в Десёновском",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Location": "Стадион в Ватутинках",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837617
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.775334,
+          55.754218
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Праздничная программа «Мы — москвичи!»",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Перово",
+        "Location": "Дворец творчества детей и молодёжи «Восточный»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837618
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.892933,
+          55.716782
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Туристско-краеведческая площадка «Разносторонняя столица»",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Косино-Ухтомский",
+        "Location": "Дворец творчества детей и молодёжи «Восточный»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837619
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          36.867102,
+          55.42944
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Игра в городки и мастер-классы: День города в Киевском",
+        "AdmArea": "Троицкий административный округ",
+        "District": "поселение Киевский",
+        "Location": "Площадь перед домом культуры «Киевский»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837620
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.892933,
+          55.716782
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Праздничный концерт и выставка детских рисунков ко Дню города",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Косино-Ухтомский",
+        "Location": "Дворец творчества детей и молодёжи «Восточный»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837621
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.643138,
+          55.765068
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "День города во Дворце творчества детей и молодёжи «На Стопани»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Басманный район",
+        "Location": "Дворец творчества детей и молодёжи «На Стопани»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837622
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.743849,
+          55.69181
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "День города во Дворце творчества детей и молодёжи имени А.П. Гайдара",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Текстильщики",
+        "Location": "Дворец творчества детей и молодёжи имени А.П. Гайдара",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837623
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.641009,
+          55.836757
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Традиционный фестиваль инвалидного спорта",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Ростокино",
+        "Location": "Учебно-спортивный центр «Искра»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837624
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.564132,
+          55.501498
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "День города в Щербинке",
+        "AdmArea": "Новомосковский административный округ",
+        "District": "поселение Щербинка",
+        "Location": "Площадь перед дворцом культуры «Щербинка»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837625
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.637686,
+          55.826326
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Фестиваль «#Вместе ярче» на ВДНХ",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Останкинский район",
+        "Location": "ВДНХ",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837626
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.185537,
+          55.979596
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Концерты «Поющая Москва» в Зеленограде",
+        "AdmArea": "Зеленоградский административный округ",
+        "District": "район Старое Крюково",
+        "Location": "Экспериментальный центр социальной адаптации и творческого развития детей и подростков «Творческий лицей»",
+        "EventBegin": "01.09.2016",
+        "EventEnd": "17.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837627
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.811653,
+          55.789097
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Мастер-классы, выставка и концерт: День города в библиотеке № 82",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Восточное Измайлово",
+        "Location": "Библиотека № 82",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837628
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.637686,
+          55.826326
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Этнокультурный фестиваль «Сердца юных москвичей открыты для всех»",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Останкинский район",
+        "Location": "ВДНХ",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837629
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.469835,
+          55.780719
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Фестиваль авторской песни «Подарок Москве»",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Хорошёво-Мнёвники",
+        "Location": "Дом культуры «Берендей»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837630
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.649759,
+          55.871183
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Фестиваль «Московские установки»",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Южное Медведково",
+        "Location": "«Певческое поле»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837631
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.621723,
+          55.784005
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Акция «Москва — город мира, дружбы и согласия»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Мещанский район",
+        "Location": "Екатерининский парк",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837632
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.219897,
+          55.989688
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Зеленоград в работах Валерии Паньковой",
+        "AdmArea": "Зеленоградский административный округ",
+        "District": "район Савёлки",
+        "Location": "Культурный центр «Зеленоград»",
+        "EventBegin": "01.09.2016",
+        "EventEnd": "26.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837633
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.683931,
+          55.616625
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Концерт в честь Дня города в «Царицыне»",
+        "AdmArea": "Южный административный округ",
+        "District": "район Орехово-Борисово Северное",
+        "Location": "Музей-заповедник «Царицыно»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837634
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.564805,
+          55.576828
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "С днём рождения, столица: игры и путешествие по Бутову",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Северное Бутово",
+        "Location": "Пойма реки Битцы",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837635
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.446506,
+          55.716691
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Экскурсия и мастер-класс на празднике в Можайском районе",
+        "AdmArea": "Западный административный округ",
+        "District": "Можайский район",
+        "Location": "Фольклорный центр территориальной клубной системы «Кунцево»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837636
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.863899,
+          55.738546
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Акция «Признание городу в любви»",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Новокосино",
+        "Location": "Дом культуры «Новокосино»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837637
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.553478,
+          55.939842
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Программа «Любимый город» в «Северном»",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Северный",
+        "Location": "Дом культуры «Северный»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837638
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.61290621894,
+          55.768176677399
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Фестиваль «Многоголосье»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Location": "Страстной бульвар",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837639
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.541674,
+          55.473306
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Концерт «Мелодии любимого кино»",
+        "AdmArea": "Новомосковский административный округ",
+        "District": "поселение Рязановское",
+        "Location": "Дом культуры «Пересвет»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837640
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.620986,
+          55.673565
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Танцевальный вечер в стиле ретро",
+        "AdmArea": "Южный административный округ",
+        "District": "Нагорный район",
+        "Location": "Дом культуры «Нагорный»",
+        "EventBegin": "11.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837641
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.597531,
+          55.790539
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Праздник «Здравствуйте! Мы вам рады!» в центре творчества «На Вадковском»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Location": "Центр творчества «На Вадковском»",
+        "EventBegin": "11.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837642
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.64198,
+          55.762637
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Всероссийский день трезвости",
+        "AdmArea": "Центральный административный округ",
+        "District": "Басманный район",
+        "Location": "Чистопрудный бульвар",
+        "EventBegin": "09.09.2016",
+        "EventEnd": "09.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837643
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.65779,
+          55.83024
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "День города в парке «Акведук»",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Ростокино",
+        "Location": "Парк «Акведук»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837644
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.654565,
+          55.794447
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "«Шатёр здоровья» в «Сокольниках»",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Сокольники",
+        "Location": "Парк «Сокольники»",
+        "EventBegin": "09.09.2016",
+        "EventEnd": "09.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837645
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.621085,
+          55.753564
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Гала-концерт театра танца «Гжель»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Location": "Красная площадь",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837647
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.593003,
+          55.763052
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Любимые песни и стихи актёров Мастерской Петра Фоменко",
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "Location": "Патриаршие пруды",
+        "EventBegin": "11.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837648
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.60708,
+          55.764136
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Показ фильма «Как закалялась сталь»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Location": "Центр «Преодоление» имени Н.А. Островского",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837649
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.154554,
+          55.989169
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Выставка живописи «Любимый город»",
+        "AdmArea": "Зеленоградский административный округ",
+        "District": "район Крюково",
+        "Location": "Культурный центр «Зеленоград»",
+        "EventBegin": "01.09.2016",
+        "EventEnd": "16.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837650
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4796,
+          55.78484
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Выставка «Художественная география Московии»",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Хорошёво-Мнёвники",
+        "Location": "Клуб «Атом»",
+        "EventBegin": "01.09.2016",
+        "EventEnd": "30.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837651
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.767214,
+          55.740466
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Выставка творческих работ в Перове",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Перово",
+        "Location": "Центр «Интеграция»",
+        "EventBegin": "01.09.2016",
+        "EventEnd": "05.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837652
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.596094,
+          55.899245
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Программа «Нет тебе на свете равных, стародавняя Москва!»",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Бибирево",
+        "Location": "Центр детского и юношеского творчества «Бибирево»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837653
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.821652,
+          55.723475
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Программа «Все песни для тебя, столица»",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Вешняки",
+        "Location": "Библиотека № 90 имени А.С Неверова",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837654
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.470976,
+          55.706431
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Праздничная программа «Прогулки по Москве»",
+        "AdmArea": "Западный административный округ",
+        "District": "район Очаково-Матвеевское",
+        "Location": "Библиотека № 218",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837655
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.460268,
+          55.723851
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Игры, конкурсы и викторины: День города в библиотеке имени Забелина",
+        "AdmArea": "Западный административный округ",
+        "District": "район Фили-Давыдково",
+        "Location": "Детская библиотека № 206",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837656
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.541674,
+          55.473306
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Концерт «Москва златоглавая» в Рязановском",
+        "AdmArea": "Новомосковский административный округ",
+        "District": "поселение Рязановское",
+        "Location": "Дом культуры «Пересвет»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837657
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.56158,
+          55.804142
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Музыкально-интерактивная программа «В переулочках Москвы»",
+        "AdmArea": "Северный административный округ",
+        "District": "Савёловский район",
+        "Location": "Парк «Савёловский»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837658
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.538359,
+          55.47574
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "«Московские вечера»: День города в посёлке Знамя Октября",
+        "AdmArea": "Новомосковский административный округ",
+        "District": "поселение Рязановское",
+        "Location": "Площадь посёлка Знамя Октября",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837659
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.922407,
+          55.683777
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Шествие «Жить, творить — Москве служить!»",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Некрасовка",
+        "Location": "Дом культуры «Заречье»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837660
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.922407,
+          55.683777
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Детский тур «Некрасовка-град»",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Некрасовка",
+        "Location": "Дом культуры «Заречье»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837661
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.576879,
+          55.718633
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Документальный кинолекторий «Е.А. Фурцева: московская кинохроника»",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Хамовники",
+        "Location": "Библиотека № 4 имени Е.А. Фурцевой",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837662
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.579619,
+          55.728236
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Интерактивная программа «С днём рождения, Москва!»",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Хамовники",
+        "Location": "Детский парк «Усадьба Трубецких в Хамовниках»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837663
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.468389,
+          55.806378
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Фестиваль «Аллея мастеров»",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Щукино",
+        "Location": "Площадка перед входом в парк «Покровское-Стрешнево»",
+        "EventBegin": "11.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837664
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.654448,
+          55.733624
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Мастер-класс по рисованию цветным песком",
+        "AdmArea": "Центральный административный округ",
+        "District": "Таганский район",
+        "Location": "Библиотека № 16",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837665
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.683563,
+          55.733315
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "День города в библиотеке № 16",
+        "AdmArea": "Центральный административный округ",
+        "District": "Таганский район",
+        "Location": "Библиотека № 16",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837666
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.582125,
+          55.74941
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "День города в библиотеке имени Н.А. Добролюбова",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Арбат",
+        "Location": "Библиотека № 3 имени Н.А. Добролюбова",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837667
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.468003,
+          55.866051
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Программа «Праздник нашего двора» в районе Левобережный",
+        "AdmArea": "Северный административный округ",
+        "District": "район Левобережный",
+        "Location": "Клуб «Ладога»",
+        "EventBegin": "11.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837668
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.540533,
+          55.689781
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Литературно-музыкальное представление «О Москве и о любви...»",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "Гагаринский район",
+        "Location": "Площадь перед Московским драматическим театром под руководством Армена Джигарханяна",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837669
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.353531,
+          55.790124
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Карнавальное шествие в посёлке Рублёво",
+        "AdmArea": "Западный административный округ",
+        "District": "район Кунцево",
+        "Location": "Дом культуры «Рублёво»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837670
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.353531,
+          55.790124
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Конкурс карнавального костюма в доме культуры «Рублёво»",
+        "AdmArea": "Западный административный округ",
+        "District": "район Кунцево",
+        "Location": "Дом культуры «Рублёво»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837671
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.353531,
+          55.790124
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Мастер-класс по гончарному искусству в доме культуры «Рублёво»",
+        "AdmArea": "Западный административный округ",
+        "District": "район Кунцево",
+        "Location": "Дом культуры «Рублёво»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837672
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.355812,
+          55.846366
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Праздничная программа «А у нас во дворе…»",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Митино",
+        "Location": "Культурный центр «Митино»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837673
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.353531,
+          55.790124
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Мастер-класс «Праздничный коллаж» в доме культуры «Рублёво»",
+        "AdmArea": "Западный административный округ",
+        "District": "район Кунцево",
+        "Location": "Дом культуры «Рублёво»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837674
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.366502,
+          55.841781
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Выставка живописи Надежды Руколь «Москва. Колесо времени»",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Митино",
+        "Location": "Культурный центр «Митино»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "25.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837675
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.366079047668,
+          55.833861207334
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Выставка мотоциклов и автотехники в «Митине»",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Митино",
+        "Location": "Ландшафтный парк «Митино»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837676
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.598519,
+          55.757921
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Экскурсия по Москве Паустовского «Под сенью столетних лип…»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "Location": "Музей-центр Паустовского",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837677
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.633886,
+          55.766248
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Экскурсия «Маяковский о времени и о себе»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Красносельский район",
+        "Location": "Сретенский бульвар",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837678
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.590084,
+          55.750722
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Экскурсия «Скрябинский Арбат»",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Арбат",
+        "Location": "Мемориальный музей А.Н. Скрябина",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837679
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.597836,
+          55.743553
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Экскурсии Музея А.С. Пушкина ко Дню города",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Хамовники",
+        "Location": "Государственный музей А.С. Пушкина",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837680
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.60823,
+          55.749055
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Пешеходная экскурсия «Путешествие по старым улицам Москвы»",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Хамовники",
+        "Location": "Галерея Александра Шилова",
+        "EventBegin": "10.08.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837681
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.59153,
+          55.749496
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Интерактивный мультимедийный проект на Арбате в День города",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Арбат",
+        "Location": "Мемориальный музей-квартира А.Н. Скрябина",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837682
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.613611,
+          55.777074
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Экскурсии музея истории ГУЛАГа в честь Дня города",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Location": "Государственный музей истории ГУЛАГа",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837683
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.620393,
+          55.75396
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Экскурсионная программа Музея Москвы в честь Дня города",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Location": "Улицы Москвы",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837684
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.404133,
+          55.708739
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "День города в Можайском районе",
+        "AdmArea": "Западный административный округ",
+        "District": "Можайский район",
+        "Location": "Беловежский пруд",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837685
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.412981,
+          55.764014
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "«Песни любимого города» в Крылатском",
+        "AdmArea": "Западный административный округ",
+        "District": "район Крылатское",
+        "Location": "Площадка возле культурно-художественного центра «Крылатское»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837686
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.395805,
+          55.653594
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Праздничная программа «Солнечный город»",
+        "AdmArea": "Западный административный округ",
+        "District": "район Солнцево",
+        "Location": "Парковая зона по улице Богданова",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837687
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.399875,
+          55.645857
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Выставка детского творчества в Солнцеве",
+        "AdmArea": "Западный административный округ",
+        "District": "район Солнцево",
+        "Location": "Клуб «Сатурн»",
+        "EventBegin": "05.09.2016",
+        "EventEnd": "12.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837688
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.555247,
+          55.692044
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Учения и мастер-классы экстренных служб",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "Гагаринский район",
+        "Location": "РГУ нефти и газа имени И.М. Губкина",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837689
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          36.940629,
+          55.466305
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "«Моя Москва»: День города в Новофёдоровском",
+        "AdmArea": "Троицкий административный округ",
+        "District": "поселение Новофедоровское",
+        "Location": "Дворец культуры и спорта «Яковлевское»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837691
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.565668,
+          55.65371
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Выставка «Лучший город Земли»",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Черёмушки",
+        "Location": "Библиотека № 191",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837692
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.34576,
+          55.601874
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Интерактивная программа «Столица в блокноте. Булгаков и Москва»",
+        "AdmArea": "Новомосковский административный округ",
+        "District": "поселение Московский",
+        "Location": "Центральный стадион",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837693
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.599822,
+          55.754142
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "День города в Доме Гоголя: экскурсионная программа",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Арбат",
+        "Location": "Сквер у памятника Гоголю",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837694
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.674606,
+          55.703423
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "День города в Южнопортовом районе",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "Южнопортовый район",
+        "Location": "Площадь перед кинотеатром «Свобода»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837695
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.752957,
+          55.644887
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "ГТО и воркаут: День города в парке имени 850-летия Москвы",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Марьино",
+        "Location": "Парк имени 850-летия Москвы",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837696
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.672163,
+          55.757308
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Праздник «Я люблю Москву» в Лефортове",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Лефортово",
+        "Location": "Улица Самокатная, дом 2",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837697
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.777055963072,
+          55.698639126032
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Праздничный концерт «Мой любимый город»",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Кузьминки",
+        "Location": "Аллея Славы",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837698
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.362783,
+          55.63563
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Праздник «Москва — мой город» в детском парке «Буратино»",
+        "AdmArea": "Западный административный округ",
+        "District": "район Ново-Переделкино",
+        "Location": "Детский парк «Буратино»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837699
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.65602,
+          55.663314
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Музыкальная программа в парке «Садовники»",
+        "AdmArea": "Южный административный округ",
+        "District": "район Нагатино-Садовники",
+        "Location": "Парк «Садовники»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837700
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.602436,
+          55.781362
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Концерт хора под руководством Валерия Рыбина",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Location": "Библиотека искусств имени А.П. Боголюбова",
+        "EventBegin": "22.09.2016",
+        "EventEnd": "22.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837702
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.774059,
+          55.689431
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Спортивный праздник ко Дню города в Кузьминках",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Кузьминки",
+        "Location": "Усадьба Влахернское-Кузьминки",
+        "EventBegin": "09.09.2016",
+        "EventEnd": "09.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837703
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5425,
+          55.656697
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Выставка «Немного о Москве»",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Черёмушки",
+        "Location": "Центр культуры и искусства «Меридиан»",
+        "EventBegin": "15.08.2016",
+        "EventEnd": "15.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837704
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.488574,
+          55.634034
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Спортивный праздник в зоне отдыха «Тропарёво»",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Тёплый Стан",
+        "Location": "Зона отдыха «Тропарёво»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837705
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.487559,
+          55.745549
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Дартс, теннис и шахматы: День города в «Филях»",
+        "AdmArea": "Западный административный округ",
+        "District": "район Филёвский Парк",
+        "Location": "Парк культуры и отдыха «Фили»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837706
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.468515,
+          55.851187
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Спортивный праздник в парке Северного речного вокзала",
+        "AdmArea": "Северный административный округ",
+        "District": "район Левобережный",
+        "Location": "Парк Северного речного вокзала",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837707
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.412747,
+          55.862277
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Дартс, новус и ГТО: праздник ко Дню города в СЗАО",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Северное Тушино",
+        "Location": "Физкультурно-оздоровительный комплекс «Лазурный»",
+        "EventBegin": "09.09.2016",
+        "EventEnd": "09.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837708
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.632628,
+          55.775034
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Фотовыставка «Московские ротонды»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Мещанский район",
+        "Location": "Музей «Садовое кольцо»",
+        "EventBegin": "29.08.2016",
+        "EventEnd": "19.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837709
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.632628,
+          55.775034
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "День города в музее «Садовое кольцо»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Мещанский район",
+        "Location": "Музей «Садовое кольцо»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837710
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.632628,
+          55.775034
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Выставка «Улочки московские» в музее «Садовое кольцо»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Мещанский район",
+        "Location": "Музей «Садовое кольцо»",
+        "EventBegin": "01.09.2016",
+        "EventEnd": "15.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837711
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.678658,
+          55.767099
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Историческая прогулка вокруг Курского вокзала",
+        "AdmArea": "Центральный административный округ",
+        "District": "Басманный район",
+        "Location": "Центральная универсальная научная библиотека имени Н.А. Некрасова",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837712
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.683931,
+          55.616625
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Арт-мастерская «PROбиблиотеку»",
+        "AdmArea": "Южный административный округ",
+        "District": "район Орехово-Борисово Северное",
+        "Location": "Музей-заповедник «Царицыно»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837713
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.455534,
+          55.788793
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "День Москвограда в библиотеке № 240",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Хорошёво-Мнёвники",
+        "Location": "Библиотека № 240",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837714
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.353432,
+          55.848539
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Праздник «Город — это я и ты»",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Митино",
+        "Location": "Библиотека № 233",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837715
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.671956,
+          55.772036
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "День города в библиотеке-читальне имени А.С. Пушкина",
+        "AdmArea": "Центральный административный округ",
+        "District": "Басманный район",
+        "Location": "Библиотека-читальня имени А.С. Пушкина",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837716
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.578684,
+          55.762394
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "День города в Московском зоопарке",
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "Location": "Московский зоопарк",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837717
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.523204,
+          55.667584
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Концерт лауреатов конкурса «Москва златоглавая»",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "Обручевский район",
+        "Location": "Библиотека № 172",
+        "EventBegin": "08.09.2016",
+        "EventEnd": "08.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837718
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.534703,
+          55.689715
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "День города в библиотеке имени Данте Алигьери",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "Гагаринский район",
+        "Location": "Библиотека № 183 имени Данте Алигьери",
+        "EventBegin": "11.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837719
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.612865,
+          55.650495
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Программа «Город близкий и родной — тот, что нарекли Москвой!»",
+        "AdmArea": "Южный административный округ",
+        "District": "Нагорный район",
+        "Location": "Библиотека № 148 имени Ф.И. Тютчева",
+        "EventBegin": "11.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837720
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.77599,
+          55.738632
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "День города в Перовском парке",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Перово",
+        "Location": "Перовский парк",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837721
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.533077,
+          55.664345
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "День города в Воронцовском парке",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "Обручевский район",
+        "Location": "Воронцовский парк",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837722
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.752957,
+          55.644887
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "60-е годы и известные хиты: День города в парке 850-летия Москвы",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Марьино",
+        "Location": "Парк 850-летия Москвы",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837723
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.511625,
+          55.729194
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Акция «Парад российского студенчества — Москва»",
+        "AdmArea": "Западный административный округ",
+        "District": "район Дорогомилово",
+        "Location": "Парк Победы на Поклонной горе",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837724
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.549624,
+          55.755515
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Фестиваль «Новая классика» в Краснопресненском парке",
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "Location": "Парк «Красная Пресня»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837725
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.799113,
+          55.638094
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Народные гулянья «Слава столице, слава Москве!»",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Капотня",
+        "Location": "Дворец культуры «Капотня»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837726
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.786249,
+          55.790965
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Праздник «Дорогая моя столица» в библиотеке № 82",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Измайлово",
+        "Location": "Библиотека № 82",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837727
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          36.867533,
+          55.431003
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Концертная программа «С Днём рождения, Москва!»",
+        "AdmArea": "Троицкий административный округ",
+        "District": "поселение Киевский",
+        "Location": "Культурный центр «Киевский»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837728
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.681308,
+          55.86594
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "День города в Бабушкинском парке",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Лосиноостровский район",
+        "Location": "Бабушкинский парк",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837729
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.192633,
+          55.978941
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Программа «Город наш с тобою» в Зеленограде",
+        "AdmArea": "Зеленоградский административный округ",
+        "District": "район Старое Крюково",
+        "Location": "Сквер у бюста А.С. Пушкина",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837730
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.766908,
+          55.69523
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Мастерская «Стань рок-звездой» и концерт: День города в парке «Кузьминки»",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Кузьминки",
+        "Location": "Парк «Кузьминки»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837731
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.65602,
+          55.663314
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "День города в стиле Jazz Funk в парке «Садовники»",
+        "AdmArea": "Южный административный округ",
+        "District": "район Нагатино-Садовники",
+        "Location": "Парк «Садовники»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837732
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.634398,
+          55.765194
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Экологическая выставка «Мой храм — мой зелёный сад»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Красносельский район",
+        "Location": "Библиотека-читальня имени И.С. Тургенева",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837733
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.538799,
+          55.613768
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Праздничная интерактивная программа «Москва — вдохновение моё»",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Ясенево",
+        "Location": "Культурный центр «Вдохновение»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837734
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.751179,
+          55.780795
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "День города в Измайловском парке",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Измайлово",
+        "Location": "Измайловский парк",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837735
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.761321,
+          55.804137
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "День города в Сиреневом саду",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Северное Измайлово",
+        "Location": "Сиреневый сад",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837736
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.634398,
+          55.765194
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Джазовый вечер TurgenevJazz",
+        "AdmArea": "Центральный административный округ",
+        "District": "Красносельский район",
+        "Location": "Библиотека-читальня имени И.С. Тургенева",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837737
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.721004,
+          55.609039
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Концерт «Москва златоглавая»",
+        "AdmArea": "Южный административный округ",
+        "District": "район Орехово-Борисово Южное",
+        "Location": "Центр культуры и искусства «Авангард»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837738
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.549624,
+          55.755515
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Спектакль «Гуси-лебеди»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "Location": "Ландшафтный парк «Митино»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837739
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.637686,
+          55.826326
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Лучшие фото столицы на выставке «Планета Москва»",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Останкинский район",
+        "Location": "ВДНХ, павильон № 70",
+        "EventBegin": "27.08.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837740
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6128308105,
+          55.755360233
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Мастер-класс по росписи имбирно-медовых пряников",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Location": "Дом культуры «Рублёво»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837741
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7714,
+          55.743005
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Семейный фестиваль в Перове",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Перово",
+        "Location": "Центр «Интеграция»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837742
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.214768,
+          55.990695
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Музыкально-поэтическое представление «АпАРТе» в Зеленограде",
+        "AdmArea": "Зеленоградский административный округ",
+        "District": "район Савёлки",
+        "Location": "Парк Победы",
+        "EventBegin": "11.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837743
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.667321,
+          55.738865
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Фестиваль Pop up! Pop art!: День города в Таганском парке",
+        "AdmArea": "Центральный административный округ",
+        "District": "Таганский район",
+        "Location": "Таганский парк культуры и отдыха",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837744
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.660404,
+          55.765853
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "День города в саду имени Баумана",
+        "AdmArea": "Центральный административный округ",
+        "District": "Басманный район",
+        "Location": "Сад имени Баумана",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837745
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.606757,
+          55.74639
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Народные игры и хороводы: День города в Галерее Ильи Глазунова",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Хамовники",
+        "Location": "Галерея Ильи Глазунова",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837746
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.567204,
+          55.900325
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "День города в Лианозовском парке",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Лианозово",
+        "Location": "Лианозовский парк",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837747
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.590084,
+          55.8134
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "День города в Гончаровском парке",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Бутырский район",
+        "Location": "Гончаровский парк",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837748
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.597181,
+          55.746507
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Экскурсия «Прогулки по музею» в День города",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Хамовники",
+        "Location": "Музей «Дом Бурганова»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837749
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.621723,
+          55.784005
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Детский праздник в Екатерининском парке",
+        "AdmArea": "Центральный административный округ",
+        "District": "Мещанский район",
+        "Location": "Екатерининский парк",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837750
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.453774,
+          55.849539
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Киноград и мини-фильм о Москве: День города в парке «Северное Тушино»",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Южное Тушино",
+        "Location": "Музейно-парковый комплекс «Северное Тушино»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837751
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.471623,
+          55.780213
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Праздник «Наш город»",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Хорошёво-Мнёвники",
+        "Location": "Клуб «Феникс»",
+        "EventBegin": "11.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837752
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.752984,
+          55.659744
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "«АртМосСфера»: День города в парке 850-летия Москвы",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Марьино",
+        "Location": "Парк 850-летия Москвы (парк имени Артёма Боровика)",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837753
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.626412,
+          55.745519
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Фильмы о Москве в специальной программе ММКФ",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Замоскворечье",
+        "Location": "Сеть кинотеатров «Московское кино»",
+        "EventBegin": "09.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837754
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.629295,
+          55.74185
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Экскурсия «Литературное Замоскворечье»",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Замоскворечье",
+        "Location": "Станция метро «Новокузнецкая»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837755
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.559649,
+          55.762024
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Пешеходная экскурсия «Их имена свято хранит Пресня»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "Location": "Станция метро «Улица 1905 года» (на выходе у памятника)",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837756
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.625603,
+          55.736306
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Пешеходная экскурсия «Литературные места Замоскворечья»",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Замоскворечье",
+        "Location": "Замоскворечье",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837757
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.705284,
+          55.782066
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Автобусная экскурсия «Московские высотки»",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Соколиная Гора",
+        "Location": "Станция метро «Электрозаводская»",
+        "EventBegin": "11.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837758
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.655553,
+          55.775206
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Экскурсия «Вокзалов созвездье»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Красносельский район",
+        "Location": "Комсомольская площадь",
+        "EventBegin": "11.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837759
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.640183,
+          55.78643
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Экскурсии по Мещанскому району",
+        "AdmArea": "Центральный административный округ",
+        "District": "Мещанский район",
+        "Location": "Библиотека № 1 имени А.С. Грибоедова",
+        "EventBegin": "11.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837760
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.513395,
+          55.665309
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Экскурсия по киноклубу-музею «Эльдар»",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "Обручевский район",
+        "Location": "Киноклуб-музей «Эльдар»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837761
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.602436,
+          55.781362
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Московская гавань моряка-художника",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Location": "Библиотека искусств имени А.П. Боголюбова",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837762
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.665165,
+          55.672016
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Экскурсия по царской резиденции в «Коломенском»",
+        "AdmArea": "Южный административный округ",
+        "District": "район Нагатинский Затон",
+        "Location": "Музей-заповедник «Коломенское»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837763
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.683931,
+          55.616625
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Экскурсия по большому дворцу в Царицыне",
+        "AdmArea": "Южный административный округ",
+        "District": "район Орехово-Борисово Северное",
+        "Location": "Природная территория «Царицыно», Большой дворец",
+        "EventBegin": "11.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837764
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.634119,
+          55.753919
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Экскурсия «Купечество московское: Ивановская горка»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Location": "Ивановская горка",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837765
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.608877,
+          55.724682
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Предпринимательские истории ко Дню города",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Якиманка",
+        "Location": "Музей предпринимателей, меценатов и благотворителей",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837766
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.557511,
+          55.729863
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Экскурсия «Москва Максимилиана Волошина»",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Хамовники",
+        "Location": "Библиотека имени Максимилиана Волошина",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837767
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.623474,
+          55.762971
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Экскурсия «А всё Кузнецкий мост, и вечные французы…»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Мещанский район",
+        "Location": "Метро «Кузнецкий Мост»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837768
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.623474,
+          55.762971
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Пешеходные экскурсии по Кузнецкому Мосту",
+        "AdmArea": "Центральный административный округ",
+        "District": "Мещанский район",
+        "Location": "Метро «Кузнецкий Мост»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837769
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.605984,
+          55.765549
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Экскурсия «Тверская сквозь века»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Location": "Пушкинская площадь",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837770
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.605984,
+          55.765549
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Экскурсия «От Пушкина до Высоцкого»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Location": "Пушкинская площадь",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837771
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.591557,
+          55.770973
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Лекция «Промзоны столицы: прошлое, настоящее, будущее»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Location": "«Дом на Брестской»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837772
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.591557,
+          55.770973
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Градостроительный квест «Москва спортивная»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Location": "2-я Брестская улица, дом 6",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837773
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.622199,
+          55.762227
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Квест «Секреты и сладости» Тверского района",
+        "AdmArea": "Центральный административный округ",
+        "District": "Мещанский район",
+        "Location": "Метро «Кузнецкий Мост»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837774
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.630921,
+          55.756807
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Экскурсионный квест «Покровские Ворота»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Location": "Площадь Ильинские Ворота",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837775
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.602993,
+          55.764607
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Экскурсионный квест «Тени Патриарших прудов»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Location": "Станция метро «Пушкинская»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837776
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.626241,
+          55.74674
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Экскурсия-квест на Пятницкой",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Замоскворечье",
+        "Location": "Чугунный мост",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837777
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.693408,
+          55.613051
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Экскурсионный квест «Секретные заветы «Царицына»",
+        "AdmArea": "Южный административный округ",
+        "District": "район Орехово-Борисово Северное",
+        "Location": "Станция метро «Орехово»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837778
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.66442,
+          55.672554
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Экскурсионный квест «Сокровища «Коломенского»",
+        "AdmArea": "Южный административный округ",
+        "District": "район Нагатинский Затон",
+        "Location": "Музей-заповедник «Коломенское»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837779
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.552184,
+          55.793024
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Экскурсия «Петровский парк глазами Гиляровского»",
+        "AdmArea": "Северный административный округ",
+        "District": "район Аэропорт",
+        "Location": "Петровский парк",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837780
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.568174,
+          55.741749
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Кинопрогулка на теплоходе по Москве-реке",
+        "AdmArea": "Западный административный округ",
+        "District": "район Дорогомилово",
+        "Location": "Причал у Киевского вокзала",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837781
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.511625,
+          55.729194
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Экскурсия «Время победы»",
+        "AdmArea": "Западный административный округ",
+        "District": "район Дорогомилово",
+        "Location": "Парк Победы",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837782
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.665165,
+          55.672016
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Экскурсия «Коломенская вотчина»",
+        "AdmArea": "Южный административный округ",
+        "District": "район Нагатинский Затон",
+        "Location": "Музей-заповедник «Коломенское»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837783
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.599085,
+          55.725909
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Экскурсия «Парк Горького: Крымские горы»",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Якиманка",
+        "Location": "Парк Горького",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837784
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.683931,
+          55.616625
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Квест-экскурсия по Царицынскому парку",
+        "AdmArea": "Южный административный округ",
+        "District": "район Орехово-Борисово Северное",
+        "Location": "Музей-заповедник «Царицыно»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837785
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.606074,
+          55.640538
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Велоэкскурсия «Чертаново»",
+        "AdmArea": "Южный административный округ",
+        "District": "район Чертаново Северное",
+        "Location": "Станция метро «Чертановская»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837786
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.593641,
+          55.766815
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Экскурсия «Булгаков: с котами нельзя!»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "Location": "Музей-театр «Булгаковский дом»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837787
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.743867,
+          55.688005
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Прогулка по Люблинской усадьбе",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Люблино",
+        "Location": "Музей-усадьба «Люблино»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837788
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.609254,
+          55.750454
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Экскурсия «Кремлёвская цитадель»",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Арбат",
+        "Location": "Станция метро «Боровицкая»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837789
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.602032,
+          55.752379
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Экскурсия «Война на Арбате»",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Арбат",
+        "Location": "Улица Арбат",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837790
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.583616,
+          55.753625
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Первый московский парад городской техники",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Арбат",
+        "Location": "Новинский бульвар",
+        "EventBegin": "11.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837791
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.632628,
+          55.775034
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Экскурсия «Тайны и легенды Сухаревой башни»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Мещанский район",
+        "Location": "Музей «Садовое кольцо»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837792
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.683931,
+          55.616625
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Экскурсия «Вокруг замка парк, а в нём высокие аллеи»",
+        "AdmArea": "Южный административный округ",
+        "District": "район Орехово-Борисово Северное",
+        "Location": "Музей-заповедник «Царицыно»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837793
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.590084,
+          55.750722
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Концерт ко Дню города «Фортепиано и валторна»",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Арбат",
+        "Location": "Мемориальный музей Скрябина",
+        "EventBegin": "11.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837794
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.590084,
+          55.750722
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Экскурсия «Переулками Арбата. Из дома в дом»",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Арбат",
+        "Location": "Мемориальный музей А.Н. Скрябина",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837795
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.606757,
+          55.74639
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Мастер-класс «Музыкальная мансарда. Песни о Москве»",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Хамовники",
+        "Location": "Галерея Ильи Глазунова, мансардный этаж",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837796
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.668974,
+          55.769054
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Музыкальный вечер «Очарование барокко»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Басманный район",
+        "Location": "Дом-музей В.Л. Пушкина",
+        "EventBegin": "11.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837797
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.763324,
+          55.79225
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Празднование Дня города в музее-усадьбе «Измайлово»",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Измайлово",
+        "Location": "Музей-усадьба «Измайлово»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837799
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.613117,
+          55.768258
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "«Читающие» памятники: Владимир Высоцкий",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Location": "Площадь Петровские Ворота",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837800
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.219107,
+          55.988192
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Выставка «Зеленоград: место съёмки изменить нельзя»",
+        "AdmArea": "Зеленоградский административный округ",
+        "District": "район Савёлки",
+        "Location": "Парк Победы",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837801
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.683931,
+          55.616625
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "«Музыкальная история» в «Царицыне» в День города",
+        "AdmArea": "Южный административный округ",
+        "District": "район Орехово-Борисово Северное",
+        "Location": "Музей-заповедник «Царицыно»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837802
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.601259,
+          55.76168
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Проект «Говорящие памятники» в Музее С.А. Есенина",
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "Location": "Музей С.А. Есенина",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837803
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.219897,
+          55.989688
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Концерт студий культурного центра «Зеленоград»",
+        "AdmArea": "Зеленоградский административный округ",
+        "District": "район Савёлки",
+        "Location": "Зеленоград, Центральная площадь, дом 1",
+        "EventBegin": "11.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837804
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.20715,
+          55.593278
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "День города в поселении Марушкинское",
+        "AdmArea": "Новомосковский административный округ",
+        "District": "поселение Марушкинское",
+        "Location": "Филиал «Марушкино» культурного центра «Внуково»; клуб-филиал № 3 «Крёкшино»; краеведческий музей «Внуково»",
+        "EventBegin": "11.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837805
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.547477,
+          55.722289
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Концерт «Москва — город открытых сердец»",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Хамовники",
+        "Location": "Центральный концертный зал «Россия»",
+        "EventBegin": "07.09.2016",
+        "EventEnd": "07.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837806
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.795565,
+          55.79602
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Концерт музыкального коллектива Grey Mouse в Измайлове",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Измайлово",
+        "Location": "Музей русского лубка и наивного искусства",
+        "EventBegin": "11.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837807
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.606918,
+          55.692597
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Библиотечная акция «С днем рождения, Москва!»",
+        "AdmArea": "Южный административный округ",
+        "District": "Донской район",
+        "Location": "Библиотека № 161",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837808
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.575522,
+          55.687776
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Праздничная программа в центре «Академический»",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "Академический район",
+        "Location": "Центр культуры и досуга «Академический»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837809
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.726134,
+          55.703758
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Спортивный День города на стадионе «Москвич»",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Печатники",
+        "Location": "Стадион «Москвич»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837810
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.802562,
+          55.749841
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Лучшие фильмы фестиваля «Будем жить»",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Новогиреево",
+        "Location": "Кинотеатр «Берёзка»",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837811
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.553828,
+          55.714744
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Event": "Спортивный праздник «День города в «Лужниках»",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Хамовники",
+        "Location": "Олимпийский комплекс «Лужники»",
+        "EventBegin": "03.09.2016",
+        "EventEnd": "03.09.2016",
+        "Website": "www.mos.ru/dg2016/",
+        "globalid": 272837812
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": null,
+      "properties": {
+        "Event": "Проект «Москва экскурсионная»",
+        "AdmArea": null,
+        "District": null,
+        "Location": "Музеи, парки и библиотеки",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "",
+        "globalid": 272837825
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": null,
+      "properties": {
+        "Event": "Благотворительный велозаезд «ТеатРалли»",
+        "AdmArea": null,
+        "District": null,
+        "Location": "Бульварное кольцо",
+        "EventBegin": "11.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "",
+        "globalid": 272837830
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": null,
+      "properties": {
+        "Event": "Акция «Нам важно, чтобы Вы были здоровы!»",
+        "AdmArea": null,
+        "District": null,
+        "Location": "Новомосковский административный округ",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "",
+        "globalid": 272837836
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": null,
+      "properties": {
+        "Event": "Праздник «Наш любимый город» в Кунцеве",
+        "AdmArea": null,
+        "District": null,
+        "Location": "Сквер на Молодогвардейской улице",
+        "EventBegin": "09.09.2016",
+        "EventEnd": "09.09.2016",
+        "Website": "",
+        "globalid": 272837837
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": null,
+      "properties": {
+        "Event": "Акция «Праздник двора»",
+        "AdmArea": null,
+        "District": null,
+        "Location": "Центры поддержки семьи и детства",
+        "EventBegin": "11.09.2016",
+        "EventEnd": "11.09.2016",
+        "Website": "",
+        "globalid": 272837838
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": null,
+      "properties": {
+        "Event": "День открытых дверей в территориальных центрах социального обслуживания",
+        "AdmArea": null,
+        "District": null,
+        "Location": "Территориальные центра социального обслуживания",
+        "EventBegin": "10.09.2016",
+        "EventEnd": "10.09.2016",
+        "Website": "",
+        "globalid": 272837839
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,1430 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.7392635,
+          55.613419
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ParkingName": "Перехватывающая парковка метрополитена «Красногвардейская»",
+        "AdmArea": "Южный административный округ",
+        "District": "район Зябликово",
+        "LocationDescription": "",
+        "OrgPhone": "",
+        "CarCapacity": 528,
+        "globalid": 1044474873
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6687295,
+          55.619927
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ParkingName": "Перехватывающая парковка метрополитена «Царицыно»",
+        "AdmArea": "Южный административный округ",
+        "District": "район Царицыно",
+        "LocationDescription": "",
+        "OrgPhone": "",
+        "CarCapacity": 261,
+        "globalid": 1044474885
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.471449,
+          55.5604535
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ParkingName": "Перехватывающая парковка метрополитена «Коммунарка»",
+        "AdmArea": "Новомосковский административный округ",
+        "District": "поселение Сосенское",
+        "LocationDescription": "",
+        "OrgPhone": "",
+        "CarCapacity": 508,
+        "globalid": 1044474887
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.434994,
+          55.5838455
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ParkingName": "Перехватывающая парковка метрополитена «Прокшино»",
+        "AdmArea": "Новомосковский административный округ",
+        "District": "поселение Сосенское",
+        "LocationDescription": "",
+        "OrgPhone": "",
+        "CarCapacity": 1291,
+        "globalid": 1044474888
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7209805,
+          55.6112155
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ParkingName": "Перехватывающая парковка метрополитена «Домодедовская» 2",
+        "AdmArea": "Южный административный округ",
+        "District": "район Орехово-Борисово Южное",
+        "LocationDescription": "",
+        "OrgPhone": "",
+        "CarCapacity": 132,
+        "globalid": 1044474903
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7189455,
+          55.6118565
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ParkingName": "Перехватывающая парковка метрополитена «Домодедовская» 1",
+        "AdmArea": "Южный административный округ",
+        "District": "район Орехово-Борисово Северное",
+        "LocationDescription": "",
+        "OrgPhone": "",
+        "CarCapacity": 188,
+        "globalid": 1044474916
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5357025,
+          55.7749505
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ParkingName": "Перехватывающая парковка метрополитена «Беговая»",
+        "AdmArea": "Северный административный округ",
+        "District": "Хорошёвский район",
+        "LocationDescription": "",
+        "OrgPhone": "",
+        "CarCapacity": 86,
+        "globalid": 1044511639
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.603404,
+          55.883443
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ParkingName": "Перехватывающая парковка метрополитена «Бибирево» 1",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Бибирево",
+        "LocationDescription": "",
+        "OrgPhone": "",
+        "CarCapacity": 78,
+        "globalid": 1044511640
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.574379,
+          55.566002
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ParkingName": "Перехватывающая парковка метрополитена «Бульвар Дмитрия Донского» 1",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Северное Бутово",
+        "LocationDescription": "",
+        "OrgPhone": "",
+        "CarCapacity": 66,
+        "globalid": 1044511650
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.577392,
+          55.569939
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ParkingName": "Перехватывающая парковка метрополитена «Бульвар Дмитрия Донского» 2",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Северное Бутово",
+        "LocationDescription": "",
+        "OrgPhone": "",
+        "CarCapacity": 133,
+        "globalid": 1044511652
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5336255,
+          55.606179
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ParkingName": "Перехватывающая парковка метрополитена «Ясенево» 1",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Ясенево",
+        "LocationDescription": "",
+        "OrgPhone": "",
+        "CarCapacity": 72,
+        "globalid": 1044511655
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.661257,
+          55.886625
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ParkingName": "Перехватывающая парковка метрополитена «Медведково»",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Северное Медведково",
+        "LocationDescription": "Парковка в режиме без взимания денежных средств.",
+        "OrgPhone": "",
+        "CarCapacity": 60,
+        "globalid": 1044511663
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.533128,
+          55.6054635
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ParkingName": "Перехватывающая парковка метрополитена «Ясенево» 2",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Ясенево",
+        "LocationDescription": "",
+        "OrgPhone": "",
+        "CarCapacity": 80,
+        "globalid": 1044511664
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5425775,
+          55.5456495
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ParkingName": "Перехватывающая парковка метрополитена «Бульвар адмирала Ушакова» 1",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Южное Бутово",
+        "LocationDescription": "",
+        "OrgPhone": "",
+        "CarCapacity": 68,
+        "globalid": 1045149888
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.544114,
+          55.5460675
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ParkingName": "Перехватывающая парковка метрополитена «Бульвар адмирала Ушакова» 2",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Южное Бутово",
+        "LocationDescription": "",
+        "OrgPhone": "",
+        "CarCapacity": 222,
+        "globalid": 1045149912
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.663799,
+          55.869415
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ParkingName": "Перехватывающая парковка метрополитена «Бабушкинская» 6",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Бабушкинский район",
+        "LocationDescription": "",
+        "OrgPhone": "",
+        "CarCapacity": 39,
+        "globalid": 1089194061
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.571636,
+          55.866545
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ParkingName": "Перехватывающая парковка метрополитена «Верхние Лихоборы» 3",
+        "AdmArea": "Северный административный округ",
+        "District": "район Восточное Дегунино",
+        "LocationDescription": "",
+        "OrgPhone": "",
+        "CarCapacity": 101,
+        "globalid": 1089194062
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4029755,
+          55.6015275
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ParkingName": "Перехватывающая парковка метрополитена «Прокшино» 1",
+        "AdmArea": "Новомосковский административный округ",
+        "District": "поселение Сосенское",
+        "LocationDescription": "",
+        "OrgPhone": "",
+        "CarCapacity": 1836,
+        "globalid": 1089486875
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.506261,
+          55.620859
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ParkingName": "Перехватывающая парковка метрополитена «Тёплый стан» 1",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Коньково",
+        "LocationDescription": "",
+        "OrgPhone": "",
+        "CarCapacity": 26,
+        "globalid": 1089486876
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.463475,
+          55.726124
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ParkingName": "Перехватывающая парковка метрополитена «Славянский бульвар»",
+        "AdmArea": "Западный административный округ",
+        "District": "район Фили-Давыдково",
+        "LocationDescription": "",
+        "OrgPhone": "",
+        "CarCapacity": 60,
+        "globalid": 1129984972
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.503202,
+          55.616953
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ParkingName": "Перехватывающая парковка метрополитена «Профсоюзная»",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Тёплый Стан",
+        "LocationDescription": "",
+        "OrgPhone": "",
+        "CarCapacity": 212,
+        "globalid": 1129984973
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.848088,
+          55.680048
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ParkingName": "Перехватывающая парковка метрополитена «Котельники» 1",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Выхино-Жулебино",
+        "LocationDescription": "",
+        "OrgPhone": "",
+        "CarCapacity": 63,
+        "globalid": 1129984977
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.851509,
+          55.6784565
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ParkingName": "Перехватывающая парковка метрополитена «Котельники» 2",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Выхино-Жулебино",
+        "LocationDescription": "",
+        "OrgPhone": "",
+        "CarCapacity": 235,
+        "globalid": 1129984978
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.855345,
+          55.676661
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ParkingName": "Перехватывающая парковка метрополитена «Котельники» 3",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Выхино-Жулебино",
+        "LocationDescription": "",
+        "OrgPhone": "",
+        "CarCapacity": 171,
+        "globalid": 1129984979
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.434758,
+          55.8634275
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ParkingName": "Перехватывающая парковка метрополитена «Планерная»",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Северное Тушино",
+        "LocationDescription": "",
+        "OrgPhone": "",
+        "CarCapacity": 316,
+        "globalid": 1129984980
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.446996,
+          55.67214
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ParkingName": "Перехватывающая парковка метрополитена «Озерная»",
+        "AdmArea": "Западный административный округ",
+        "District": "район Очаково-Матвеевское",
+        "LocationDescription": "",
+        "OrgPhone": "",
+        "CarCapacity": 95,
+        "globalid": 1129984982
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.33584,
+          55.6337405
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ParkingName": "Перехватывающая парковка метрополитена «Рассказовка» 2",
+        "AdmArea": "Новомосковский административный округ",
+        "District": "поселение Внуковское",
+        "LocationDescription": "",
+        "OrgPhone": "",
+        "CarCapacity": 47,
+        "globalid": 1129984984
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.329872,
+          55.6321855
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ParkingName": "Перехватывающая парковка метрополитена «Рассказовка»",
+        "AdmArea": "Новомосковский административный округ",
+        "District": "поселение Внуковское",
+        "LocationDescription": "",
+        "OrgPhone": "",
+        "CarCapacity": 188,
+        "globalid": 1129984985
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7439755,
+          55.7895275
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ParkingName": "Перехватывающая парковка метрополитена «Измайлово»",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Измайлово",
+        "LocationDescription": "",
+        "OrgPhone": "",
+        "CarCapacity": 107,
+        "globalid": 1129984988
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7443805,
+          55.7876855
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ParkingName": "Перехватывающая парковка метрополитена «Измайлово» 1",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Измайлово",
+        "LocationDescription": "",
+        "OrgPhone": "",
+        "CarCapacity": 251,
+        "globalid": 1129984989
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7445975,
+          55.7864065
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ParkingName": "Перехватывающая парковка метрополитена «Измайлово» 2",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Измайлово",
+        "LocationDescription": "",
+        "OrgPhone": "",
+        "CarCapacity": 250,
+        "globalid": 1129984990
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.3491275,
+          55.860666
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ParkingName": "Перехватывающая парковка метрополитена «Пятницкое шоссе» 2",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Митино",
+        "LocationDescription": "",
+        "OrgPhone": "",
+        "CarCapacity": 173,
+        "globalid": 1129984994
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5935,
+          55.578458
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ParkingName": "Перехватывающая парковка метрополитена «Аннино»",
+        "AdmArea": "Южный административный округ",
+        "District": "район Чертаново Южное",
+        "LocationDescription": "",
+        "OrgPhone": "",
+        "CarCapacity": 1039,
+        "globalid": 2363518373
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.745181,
+          55.612357
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ParkingName": "Перехватывающая парковка метрополитена «Зябликово» 1",
+        "AdmArea": "Южный административный округ",
+        "District": "район Зябликово",
+        "LocationDescription": "",
+        "OrgPhone": "",
+        "CarCapacity": 25,
+        "globalid": 2363518374
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.400394,
+          55.8036485
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ParkingName": "Перехватывающая парковка метрополитена «Строгино»",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Строгино",
+        "LocationDescription": "",
+        "OrgPhone": "",
+        "CarCapacity": 124,
+        "globalid": 2363518377
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.745037,
+          55.609068
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ParkingName": "Перехватывающая парковка метрополитена «Зябликово» 2",
+        "AdmArea": "Южный административный округ",
+        "District": "район Зябликово",
+        "LocationDescription": "",
+        "OrgPhone": "",
+        "CarCapacity": 269,
+        "globalid": 2363518379
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.3785615,
+          55.8387035
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ParkingName": "Перехватывающая парковка метрополитена «Волоколамская»",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Митино",
+        "LocationDescription": "",
+        "OrgPhone": "",
+        "CarCapacity": 325,
+        "globalid": 2363518380
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7433295,
+          55.6229585
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ParkingName": "Перехватывающая парковка метрополитена «Шипиловская» 1",
+        "AdmArea": "Южный административный округ",
+        "District": "район Орехово-Борисово Северное",
+        "LocationDescription": "",
+        "OrgPhone": "",
+        "CarCapacity": 60,
+        "globalid": 2363518382
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.743793,
+          55.6201065
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ParkingName": "Перехватывающая парковка метрополитена «Шипиловская» 3",
+        "AdmArea": "Южный административный округ",
+        "District": "район Орехово-Борисово Северное",
+        "LocationDescription": "",
+        "OrgPhone": "",
+        "CarCapacity": 87,
+        "globalid": 2363518383
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.82088,
+          55.717082
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ParkingName": "Перехватывающая парковка метрополитена «Выхино»",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Вешняки",
+        "LocationDescription": "",
+        "OrgPhone": "",
+        "CarCapacity": 312,
+        "globalid": 2363518384
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.745412,
+          55.611393
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ParkingName": "Перехватывающая парковка метрополитена «Зябликово» 4",
+        "AdmArea": "Южный административный округ",
+        "District": "район Зябликово",
+        "LocationDescription": "",
+        "OrgPhone": "",
+        "CarCapacity": 82,
+        "globalid": 2363518391
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.743067,
+          55.6236535
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ParkingName": "Перехватывающая парковка метрополитена «Шипиловская» 2",
+        "AdmArea": "Южный административный округ",
+        "District": "район Орехово-Борисово Северное",
+        "LocationDescription": "",
+        "OrgPhone": "",
+        "CarCapacity": 64,
+        "globalid": 2363518394
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.8556915,
+          55.744129
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ParkingName": "Перехватывающая парковка метрополитена «Новокосино» 1",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Новокосино",
+        "LocationDescription": "",
+        "OrgPhone": "",
+        "CarCapacity": 390,
+        "globalid": 2363518395
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7774165,
+          55.787895
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ParkingName": "Перехватывающая парковка метрополитена «Измайловская»",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Измайлово",
+        "LocationDescription": "",
+        "OrgPhone": "",
+        "CarCapacity": 82,
+        "globalid": 2363518402
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.74351,
+          55.6212225
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ParkingName": "Перехватывающая парковка метрополитена «Шипиловская» 4",
+        "AdmArea": "Южный административный округ",
+        "District": "район Орехово-Борисово Северное",
+        "LocationDescription": "",
+        "OrgPhone": "",
+        "CarCapacity": 111,
+        "globalid": 2363518408
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.745338,
+          55.611993
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ParkingName": "Перехватывающая парковка метрополитена «Зябликово» 3",
+        "AdmArea": "Южный административный округ",
+        "District": "район Зябликово",
+        "LocationDescription": "",
+        "OrgPhone": "",
+        "CarCapacity": 83,
+        "globalid": 2363518419
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.552949,
+          55.6707255
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ParkingName": "Перехватывающая парковка метрополитена «Новые Черёмушки»",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Черёмушки",
+        "LocationDescription": "",
+        "OrgPhone": "",
+        "CarCapacity": 271,
+        "globalid": 2363549205
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.741348,
+          55.800971
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ParkingName": "Перехватывающая парковка метрополитена «Черкизовская»",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Преображенское",
+        "LocationDescription": "",
+        "OrgPhone": "",
+        "CarCapacity": 191,
+        "globalid": 2363549206
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4404395,
+          55.8511075
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ParkingName": "Перехватывающая парковка метрополитена «Сходненская»",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Северное Тушино",
+        "LocationDescription": "",
+        "OrgPhone": "",
+        "CarCapacity": 56,
+        "globalid": 2363549210
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.743712,
+          55.612491
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ParkingName": "Перехватывающая парковка метрополитена «Зябликово»",
+        "AdmArea": "Южный административный округ",
+        "District": "район Зябликово",
+        "LocationDescription": "",
+        "OrgPhone": "",
+        "CarCapacity": 137,
+        "globalid": 2363549213
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4126585,
+          55.658912
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ParkingName": "Перехватывающая парковка метрополитена «Говорово»",
+        "AdmArea": "Новомосковский административный округ",
+        "District": "поселение Московский",
+        "LocationDescription": "",
+        "OrgPhone": "",
+        "CarCapacity": 93,
+        "globalid": 2363549217
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.85989,
+          55.7447875
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ParkingName": "Перехватывающая парковка метрополитена «Новокосино»",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Новокосино",
+        "LocationDescription": "",
+        "OrgPhone": "",
+        "CarCapacity": 138,
+        "globalid": 2363549219
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6073915,
+          55.622537
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ParkingName": "Перехватывающая парковка метрополитена «Южная»",
+        "AdmArea": "Южный административный округ",
+        "District": "район Чертаново Северное",
+        "LocationDescription": "",
+        "OrgPhone": "",
+        "CarCapacity": 81,
+        "globalid": 2363549220
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.553288,
+          55.899353
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ParkingName": "Перехватывающая парковка метрополитена «Алтуфьево»",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Лианозово",
+        "LocationDescription": "",
+        "OrgPhone": "",
+        "CarCapacity": 248,
+        "globalid": 2363549221
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7159785,
+          55.6587965
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ParkingName": "Перехватывающая парковка метрополитена «Марьино»",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Марьино",
+        "LocationDescription": "",
+        "OrgPhone": "",
+        "CarCapacity": 102,
+        "globalid": 2363549222
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6684605,
+          55.621419
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ParkingName": "Перехватывающая парковка метрополитена «Царицыно» 1",
+        "AdmArea": "Южный административный округ",
+        "District": "район Царицыно",
+        "LocationDescription": "",
+        "OrgPhone": "",
+        "CarCapacity": 82,
+        "globalid": 2363643931
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7446505,
+          55.806095
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ParkingName": "Перехватывающая парковка метрополитена «Черкизовская» 1",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Преображенское",
+        "LocationDescription": "",
+        "OrgPhone": "",
+        "CarCapacity": 60,
+        "globalid": 2363643932
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.752359,
+          55.657236
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ParkingName": "Перехватывающая парковка метрополитена «Братиславская»",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Марьино",
+        "LocationDescription": "",
+        "OrgPhone": "",
+        "CarCapacity": 166,
+        "globalid": 2363643938
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6029405,
+          55.609072
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ParkingName": "Перехватывающая парковка метрополитена «Пражская»",
+        "AdmArea": "Южный административный округ",
+        "District": "район Чертаново Центральное",
+        "LocationDescription": "",
+        "OrgPhone": "",
+        "CarCapacity": 92,
+        "globalid": 2363643939
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7335055,
+          55.8148285
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ParkingName": "Перехватывающая парковка метрополитена «58702205»",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Богородское",
+        "LocationDescription": "",
+        "OrgPhone": "",
+        "CarCapacity": 32,
+        "globalid": 2366427810
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.734572,
+          55.8143525
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ParkingName": "Перехватывающая парковка метрополитена «58702205» 2",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Богородское",
+        "LocationDescription": "",
+        "OrgPhone": "",
+        "CarCapacity": 71,
+        "globalid": 2366427812
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.728753,
+          55.8161805
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ParkingName": "Перехватывающая парковка метрополитена «58702205» 1",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Богородское",
+        "LocationDescription": "",
+        "OrgPhone": "",
+        "CarCapacity": 160,
+        "globalid": 2366427813
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.504612,
+          55.6182235
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ParkingName": "Перехватывающая парковка метрополитена «58702166» 2",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Ясенево",
+        "LocationDescription": "",
+        "OrgPhone": "",
+        "CarCapacity": 25,
+        "globalid": 2366427814
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7477465,
+          55.7695575
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ParkingName": "Перехватывающая парковка метрополитена «277904741»",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Соколиная Гора",
+        "LocationDescription": "",
+        "OrgPhone": "",
+        "CarCapacity": 39,
+        "globalid": 2366427815
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5092715,
+          55.62201
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ParkingName": "Перехватывающая парковка метрополитена «58702166» 3",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Ясенево",
+        "LocationDescription": "",
+        "OrgPhone": "",
+        "CarCapacity": 126,
+        "globalid": 2366427816
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.8606675,
+          55.7441575
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ParkingName": "Перехватывающая парковка метрополитена «Новокосино» 2",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Новокосино",
+        "LocationDescription": "",
+        "OrgPhone": "",
+        "CarCapacity": 150,
+        "globalid": 2372268070
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.556468,
+          55.89697
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ParkingName": "Перехватывающая парковка метрополитена «Алтуфьево» 2",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Лианозово",
+        "LocationDescription": "",
+        "OrgPhone": "",
+        "CarCapacity": 199,
+        "globalid": 2372268072
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.661712,
+          55.890558
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ParkingName": "Перехватывающая парковка метрополитена «Медведково» 1",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Северное Медведково",
+        "LocationDescription": "",
+        "OrgPhone": "",
+        "CarCapacity": 182,
+        "globalid": 2372268074
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.613623,
+          55.62164
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ParkingName": "Перехватывающая парковка метрополитена «Южная» 1",
+        "AdmArea": "Южный административный округ",
+        "District": "район Чертаново Северное",
+        "LocationDescription": "",
+        "OrgPhone": "",
+        "CarCapacity": 100,
+        "globalid": 2372268075
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7447105,
+          55.650245
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ParkingName": "Перехватывающая парковка метрополитена «Марьино» 1",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Марьино",
+        "LocationDescription": "",
+        "OrgPhone": "",
+        "CarCapacity": 38,
+        "globalid": 2372268077
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.469368,
+          55.863318
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ParkingName": "Перехватывающая парковка метрополитена «Беломорская»",
+        "AdmArea": "Северный административный округ",
+        "District": "район Левобережный",
+        "LocationDescription": "",
+        "OrgPhone": "",
+        "CarCapacity": 88,
+        "globalid": 2372268078
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.790043,
+          55.788297
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ParkingName": "Перехватывающая парковка метрополитена «Измайловская» 1",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Измайлово",
+        "LocationDescription": "",
+        "OrgPhone": "",
+        "CarCapacity": 176,
+        "globalid": 2372268079
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.868208,
+          55.7454825
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ParkingName": "Перехватывающая парковка метрополитена «Новокосино» 3",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Новокосино",
+        "LocationDescription": "",
+        "OrgPhone": "",
+        "CarCapacity": 267,
+        "globalid": 2372268081
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.471859,
+          55.691793
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ParkingName": "Перехватывающая парковка метрополитена «Мичуринский проспект» 1",
+        "AdmArea": "Западный административный округ",
+        "District": "район Раменки",
+        "LocationDescription": "",
+        "OrgPhone": "",
+        "CarCapacity": 89,
+        "globalid": 2372529384
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.474145,
+          55.69173
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ParkingName": "Перехватывающая парковка метрополитена «Мичуринский проспект» 2",
+        "AdmArea": "Западный административный округ",
+        "District": "район Раменки",
+        "LocationDescription": "",
+        "OrgPhone": "",
+        "CarCapacity": 53,
+        "globalid": 2372529822
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

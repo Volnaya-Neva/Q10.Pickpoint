@@ -1,0 +1,2126 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.6790679421827,
+          55.6953457817368
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "LSM DARK COASTER",
+        "Photo": "26ef57f7-5e74-422e-a783-5f6f6d30e2b7",
+        "AdmArea": "Южный административный округ",
+        "District": "район Нагатинский Затон",
+        "Location": "ТЕМАТИЧЕСКИЙ ПАРК РАЗВЛЕЧЕНИЙ ОСТРОВ МЕЧТЫ",
+        "RegistrationNumber": "0113-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 1060227344
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6693728616125,
+          55.6501546763258
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "DOG UP",
+        "Photo": "dba1e0c4-fc16-4dfb-92e4-c07908d29226",
+        "AdmArea": "Южный административный округ",
+        "District": "район Москворечье-Сабурово",
+        "Location": "ТЦ КАШИРСКАЯ ПЛАЗА",
+        "RegistrationNumber": "0147-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 1060227345
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6620416977926,
+          55.6827823183245
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "5D КИНОТЕАТР",
+        "Photo": "2220b1c7-f5b7-49f3-a026-a55dbe7acd57",
+        "AdmArea": "Южный административный округ",
+        "District": "район Нагатино-Садовники",
+        "Location": "ТРЦ «НОРА»",
+        "RegistrationNumber": "0170-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 1060227346
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5487325411162,
+          55.6834150814042
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "5D КИНОТЕАТР",
+        "Photo": "cdd497b6-df33-401e-9e90-41fc2064da24",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "Гагаринский район",
+        "Location": "ТЦ «ТРИУМФАЛЬНЫЙ»",
+        "RegistrationNumber": "0171-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 1060227347
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5375602335073,
+          55.7485799494395
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "АВИАСИМУЛЯТОР EXTRINO 737",
+        "Photo": "3beb01c5-7170-4994-9b91-2ef271bc1338",
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "Location": "ТРЦ «АФИМОЛЛ СИТИ»",
+        "RegistrationNumber": "0186-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 1060227350
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6775348764237,
+          55.7111907626425
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "ДИНАМИЧЕСКАЯ ПЛАТФОРМА 3Д5",
+        "Photo": "831bdd36-c75e-4e60-b480-370c703a8c09",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "Южнопортовый район",
+        "Location": "ТРЦ «МОЗАИКА»",
+        "RegistrationNumber": "0201-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 1060204967
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4224299067915,
+          55.6238429849747
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "ДИНАМИЧЕСКАЯ ПЛАТФОРМА 3Д5",
+        "Photo": "ec37a55f-f248-4bb3-941c-e25a8bec794b",
+        "AdmArea": "Новомосковский административный округ",
+        "District": "поселение Московский",
+        "Location": "ТРЦ САЛАРИС",
+        "RegistrationNumber": "0209-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 1060204969
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6422462637966,
+          55.7050430753945
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "АВИАСИМУЛЯТОР БОИНГ 737",
+        "Photo": "c02d469f-6645-4141-94dc-b60cda9311bd",
+        "AdmArea": "Южный административный округ",
+        "District": "Даниловский район",
+        "Location": "ТРЦ «РИВЬЕРА»",
+        "RegistrationNumber": "0210-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 1060204973
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6422462637966,
+          55.7050430753945
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "АВИАСИМУЛЯТОР АИРБАС А320",
+        "Photo": "08c8e0c6-7e5f-403e-a4c2-7a1f2083a08a",
+        "AdmArea": "Южный административный округ",
+        "District": "Даниловский район",
+        "Location": "ТРЦ «РИВЬЕРА»",
+        "RegistrationNumber": "0211-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 1060204978
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4666115699107,
+          55.678189607297
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "MIRAGE F3",
+        "Photo": "087ba71e-ceba-420b-84b8-4abf793c1926",
+        "AdmArea": "Западный административный округ",
+        "District": "район Тропарёво-Никулино",
+        "Location": "ТРЦ «ФЕСТИВАЛЬ»",
+        "RegistrationNumber": "0220-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 2386772615
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4663452010074,
+          55.6781895347053
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "BUMPER CARS",
+        "Photo": "657d0f48-e2d3-45df-958f-24d85684e56d",
+        "AdmArea": "Западный административный округ",
+        "District": "район Тропарёво-Никулино",
+        "Location": "ТРЦ «ФЕСТИВАЛЬ»",
+        "RegistrationNumber": "0221-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 2386835268
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6249438604405,
+          55.7602260224005
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "6D OF 3 SCREEN RACING",
+        "Photo": "020bb3bf-a04a-49e5-8500-52945f087d69",
+        "AdmArea": "Центральный административный округ",
+        "District": "Мещанский район",
+        "Location": "ТЦ «ЦЕНТРАЛЬНЫЙ ДЕТСКИЙ МАГАЗИН»",
+        "RegistrationNumber": "0228-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 2386772616
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6249438604405,
+          55.7602260224005
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "360 KING KONG VR",
+        "Photo": "6e083048-1cbb-4acc-a0fe-5a5747478fe3",
+        "AdmArea": "Центральный административный округ",
+        "District": "Мещанский район",
+        "Location": "ТЦ «ЦЕНТРАЛЬНЫЙ ДЕТСКИЙ МАГАЗИН»",
+        "RegistrationNumber": "0229-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 2386772617
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6075120434604,
+          55.6120911825784
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "АВИАСИМУЛЯТОР EXTRINO 737",
+        "Photo": "36775ae6-56ea-4317-8e86-0500431ab3ad",
+        "AdmArea": "Южный административный округ",
+        "District": "район Чертаново Центральное",
+        "Location": "ТРЦ «COLUMBUS»",
+        "RegistrationNumber": "0241-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 2386835249
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5659237143916,
+          55.744788901369
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "«BUFFALO»(MEDIUM)",
+        "Photo": "fef9f4d8-bad6-4017-8fb1-cb247f64a665",
+        "AdmArea": "Западный административный округ",
+        "District": "район Дорогомилово",
+        "Location": "ТРЦ «ЕВРОПЕЙСКИЙ»",
+        "RegistrationNumber": "0242-77",
+        "State": "регистрация аттракциона приостановлена",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 2386835250
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5397743411028,
+          55.748938879636
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "АВИАСИМУЛЯТОР EXTRINO 320",
+        "Photo": "195249f7-3272-4eb0-aea4-df0a0068ef31",
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "Location": "ТРЦ «АФИМОЛЛ СИТИ»",
+        "RegistrationNumber": "0243-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 2386835251
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6034980195158,
+          55.6233102806806
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "AIR FORCE",
+        "Photo": "e614ee1d-b646-4f8b-bea8-cabe13b7c38d",
+        "AdmArea": "Южный административный округ",
+        "District": "район Чертаново Северное",
+        "Location": "ТРЦ «ГЛОБАЛ СИТИ»",
+        "RegistrationNumber": "0249-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 2386886315
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6034052244119,
+          55.6232554146596
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "DROP TOWER 25MT",
+        "Photo": "e7b2e571-9813-4675-9dca-f9417765f6ab",
+        "AdmArea": "Южный административный округ",
+        "District": "район Чертаново Северное",
+        "Location": "ТРЦ «ГЛОБАЛ СИТИ»",
+        "RegistrationNumber": "0256-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 2386886321
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4967694191703,
+          55.8225317128986
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "MERRY GO ROUND 4MT",
+        "Photo": "fd921a71-0cf6-4d9f-ba0e-213875544f24",
+        "AdmArea": "Северный административный округ",
+        "District": "Войковский район",
+        "Location": "ТЦ «МЕТРОПОЛИС»",
+        "RegistrationNumber": "0259-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 2386835252
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6034171435951,
+          55.6236200350567
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "U2 MIRAGE",
+        "Photo": "0e27a9eb-03d9-4926-ad59-895b2a39b3d4",
+        "AdmArea": "Южный административный округ",
+        "District": "район Чертаново Северное",
+        "Location": "ТРЦ «ГЛОБАЛ СИТИ»",
+        "RegistrationNumber": "0257-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 2386975253
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7682465383871,
+          55.6497925362833
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "ДИНАМИЧЕСКАЯ ПЛАТФОРМА EP 4VR ST",
+        "Photo": "f1bdbb53-7c4b-400e-bd1c-71b409af36ce",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Марьино",
+        "Location": "ТРК «MARI»",
+        "RegistrationNumber": "2333-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 2386886293
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6034052244119,
+          55.6232554146596
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "FX SIMULATION X2",
+        "Photo": "aa97391d-929e-46f1-bba7-aeaadbc766de",
+        "AdmArea": "Южный административный округ",
+        "District": "район Чертаново Северное",
+        "Location": "ТРЦ «ГЛОБАЛ СИТИ»",
+        "RegistrationNumber": "0262-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 2386886319
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5287423698625,
+          55.7907915179062
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "ПОЖАРНАЯ МАШИНА",
+        "Photo": "923a300e-f200-4a50-8df6-988332330737",
+        "AdmArea": "Северный административный округ",
+        "District": "Хорошёвский район",
+        "Location": "ТЦ «АВИАПАРК»",
+        "RegistrationNumber": "0263-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 2386772623
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5287423698625,
+          55.7907915179062
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "СКОРАЯ ПОМОЩЬ",
+        "Photo": "e03fac4e-d78c-41ff-a089-c47547e1b89b",
+        "AdmArea": "Северный административный округ",
+        "District": "Хорошёвский район",
+        "Location": "ТЦ «АВИАПАРК»",
+        "RegistrationNumber": "0264-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 2386772624
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5287423698625,
+          55.7907915179062
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "МАШИНА ИНКАССАЦИИ",
+        "Photo": "2f224355-0255-4f2a-bff8-7280e33eea91",
+        "AdmArea": "Северный административный округ",
+        "District": "Хорошёвский район",
+        "Location": "ТЦ «АВИАПАРК»",
+        "RegistrationNumber": "0265-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 2386772625
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5287423698625,
+          55.7907915179062
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "АВТОБУС",
+        "Photo": "0997e2a1-357e-4c82-adf0-637bee77ff83",
+        "AdmArea": "Северный административный округ",
+        "District": "Хорошёвский район",
+        "Location": "ТЦ «АВИАПАРК»",
+        "RegistrationNumber": "0266-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 2386772626
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5287423698625,
+          55.7907915179062
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "АВТОДРОМ",
+        "Photo": "04ec9ed6-2804-4dc7-a440-2f95a77d70a2",
+        "AdmArea": "Северный административный округ",
+        "District": "Хорошёвский район",
+        "Location": "ТЦ «АВИАПАРК»",
+        "RegistrationNumber": "0267-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 2386772628
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.606861336213,
+          55.6119638808537
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "ДЕТСКИЙ ПАРОВОЗИК «HAPPY EXPRESS»",
+        "Photo": "81a9db95-d359-4a49-aed9-8cd665a8df47",
+        "AdmArea": "Южный административный округ",
+        "District": "район Чертаново Центральное",
+        "Location": "ТРЦ «COLUMBUS»",
+        "RegistrationNumber": "0268-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 2386772629
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6035920653631,
+          55.6872410738328
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "СКОРОСТНАЯ ДОРОГА С МИНИ-АВТОМОБИЛЯМИ МОДЕЛЕЙ STORM PROKART EFD, STORM PROKART EFD DUO, JUNIOR MY17",
+        "Photo": "83f9d32e-b2bc-470b-887c-69d4988d85d2",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Котловка",
+        "Location": "ТЦ «КАПИТОЛИЙ СЕВАСТОПОЛЬСКИЙ»",
+        "RegistrationNumber": "0272-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 2386772630
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6741345140243,
+          55.6944607923682
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "MEGA DISKO 40",
+        "Photo": "31953e0f-35e1-4a97-83b7-479c19001a89",
+        "AdmArea": "Южный административный округ",
+        "District": "район Нагатинский Затон",
+        "Location": "ТЕМАТИЧЕСКИЙ ПАРК РАЗВЛЕЧЕНИЙ ОСТРОВ МЕЧТЫ",
+        "RegistrationNumber": "0281-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 2386835253
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6741345140243,
+          55.6944607923682
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "«ЛЕДЯНАЯ КАРУСЕЛЬ» («FLYNG SWINGER 64»)",
+        "Photo": "52c4e586-cce0-4a01-bf3a-beec381807ca",
+        "AdmArea": "Южный административный округ",
+        "District": "район Нагатинский Затон",
+        "Location": "ТЕМАТИЧЕСКИЙ ПАРК РАЗВЛЕЧЕНИЙ ОСТРОВ МЕЧТЫ",
+        "RegistrationNumber": "0282-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 2386772632
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6741345140243,
+          55.6944607923682
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "«ВЕРЕВОЧНАЯ СЕМЕЙНАЯ БАШНЯ» («ROPE FAMILY TOWER»)",
+        "Photo": "45a31fe0-ef75-416d-b3c2-6377c7c90e8d",
+        "AdmArea": "Южный административный округ",
+        "District": "район Нагатинский Затон",
+        "Location": "ТЕМАТИЧЕСКИЙ ПАРК РАЗВЛЕЧЕНИЙ ОСТРОВ МЕЧТЫ",
+        "RegistrationNumber": "0283-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 2386772633
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6741345140243,
+          55.6944607923682
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "«TOP SPIN SUSPENDED» («ХРАМ ОГНЯ»)",
+        "Photo": "fd0ba226-ae8a-4f7b-ba28-35b1aa9ea773",
+        "AdmArea": "Южный административный округ",
+        "District": "район Нагатинский Затон",
+        "Location": "ТЕМАТИЧЕСКИЙ ПАРК РАЗВЛЕЧЕНИЙ ОСТРОВ МЕЧТЫ",
+        "RegistrationNumber": "0284-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 2386772634
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6741345140243,
+          55.6944607923682
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "«ЛЕТНАЯ ШКОЛА» («SKY FLY»)",
+        "Photo": "7943675f-af29-4b3f-84e6-e9b7544a6887",
+        "AdmArea": "Южный административный округ",
+        "District": "район Нагатинский Затон",
+        "Location": "ТЕМАТИЧЕСКИЙ ПАРК РАЗВЛЕЧЕНИЙ ОСТРОВ МЕЧТЫ",
+        "RegistrationNumber": "0285-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 2386886271
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6741345140243,
+          55.6944607923682
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "«POWER MOUSE 30X20 METERS» («СЕМЕЙНАЯ КАТАЛЬНАЯ ГОРА»)",
+        "Photo": "8aa03a3c-3c84-4e73-a563-fdb3177422e8",
+        "AdmArea": "Южный административный округ",
+        "District": "район Нагатинский Затон",
+        "Location": "ТЕМАТИЧЕСКИЙ ПАРК РАЗВЛЕЧЕНИЙ ОСТРОВ МЕЧТЫ",
+        "RegistrationNumber": "0286-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 2386835255
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6741345140243,
+          55.6944607923682
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "«МОЛОТ СУДЬБЫ» («MAXI DANCE PARTY 32»)",
+        "Photo": "1ea999cc-7395-4173-829f-240241149301",
+        "AdmArea": "Южный административный округ",
+        "District": "район Нагатинский Затон",
+        "Location": "ТЕМАТИЧЕСКИЙ ПАРК РАЗВЛЕЧЕНИЙ ОСТРОВ МЕЧТЫ",
+        "RegistrationNumber": "0287-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 2386886273
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6741345140243,
+          55.6944607923682
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "«ПОЮЩАЯ КАРУСЕЛЬ» («CIRCUS SWING»)",
+        "Photo": "145613fe-1e16-4036-bfde-55a9ae4f9c85",
+        "AdmArea": "Южный административный округ",
+        "District": "район Нагатинский Затон",
+        "Location": "ТЕМАТИЧЕСКИЙ ПАРК РАЗВЛЕЧЕНИЙ ОСТРОВ МЕЧТЫ",
+        "RegistrationNumber": "0288-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 2386886276
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6741345140243,
+          55.6944607923682
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "MAGIC BIKES 8",
+        "Photo": "444662b8-4d75-414b-887c-5638bc592a35",
+        "AdmArea": "Южный административный округ",
+        "District": "район Нагатинский Затон",
+        "Location": "ТЕМАТИЧЕСКИЙ ПАРК РАЗВЛЕЧЕНИЙ ОСТРОВ МЕЧТЫ",
+        "RegistrationNumber": "0294-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 2386886278
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6741345140243,
+          55.6944607923682
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "«GARGAMELS TOWER DROP-TWIST TOWER (БАШНЯ ПАДЕНИЯ 8 М)»",
+        "Photo": "c87e01e8-e6ee-46b3-b1a2-7c0e84934217",
+        "AdmArea": "Южный административный округ",
+        "District": "район Нагатинский Затон",
+        "Location": "ТЕМАТИЧЕСКИЙ ПАРК РАЗВЛЕЧЕНИЙ ОСТРОВ МЕЧТЫ",
+        "RegistrationNumber": "0297-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 2386835259
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.768352639928,
+          55.64970938839
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "МОУШН СФЕРА",
+        "Photo": "5a97d45a-314c-4ef8-9749-11db85500437",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Марьино",
+        "Location": "ТРК «MARI»",
+        "RegistrationNumber": "0296-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 2386835260
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6741345140243,
+          55.6944607923682
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "WIND STAR Z",
+        "Photo": "441502c2-1758-4fd3-9d41-c89881e641ac",
+        "AdmArea": "Южный административный округ",
+        "District": "район Нагатинский Затон",
+        "Location": "ТЕМАТИЧЕСКИЙ ПАРК РАЗВЛЕЧЕНИЙ ОСТРОВ МЕЧТЫ",
+        "RegistrationNumber": "2200-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 2386835261
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6741345140243,
+          55.6944607923682
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "OCTOPUS RIDE",
+        "Photo": "06c4064d-3545-4b60-bb46-f7226d2e4028",
+        "AdmArea": "Южный административный округ",
+        "District": "район Нагатинский Затон",
+        "Location": "ТЕМАТИЧЕСКИЙ ПАРК РАЗВЛЕЧЕНИЙ ОСТРОВ МЕЧТЫ",
+        "RegistrationNumber": "2201-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 2386835262
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6741345140243,
+          55.6944607923682
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "SWIRLING CUPCAKES",
+        "Photo": "a443ba36-bc9d-4092-8288-0f1594541a67",
+        "AdmArea": "Южный административный округ",
+        "District": "район Нагатинский Затон",
+        "Location": "ТЕМАТИЧЕСКИЙ ПАРК РАЗВЛЕЧЕНИЙ ОСТРОВ МЕЧТЫ",
+        "RegistrationNumber": "2202-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 2386835263
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6741345140243,
+          55.6944607923682
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "FLYING AIRPLANE 14 (КАРУСЕЛЬ ПТЕРОДАКТИЛИ)",
+        "Photo": "48a82b49-d5b8-4b17-98c6-af00f88a5045",
+        "AdmArea": "Южный административный округ",
+        "District": "район Нагатинский Затон",
+        "Location": "ТЕМАТИЧЕСКИЙ ПАРК РАЗВЛЕЧЕНИЙ ОСТРОВ МЕЧТЫ",
+        "RegistrationNumber": "2207-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 2386835264
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.3524503103216,
+          55.5947971042067
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "СТЕРЕОЗАЛ «STAR TECHNOLOGY»",
+        "Photo": "bcb991a0-54ae-4802-9577-c0acde428cbf",
+        "AdmArea": "Новомосковский административный округ",
+        "District": "поселение Московский",
+        "Location": "ТРК «НОВОМОСКОВСКИЙ»",
+        "RegistrationNumber": "2210-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 2386886324
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6658837869069,
+          55.8757298806884
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "СТЕРЕОЗАЛ «STAR TECHNOLOGY»",
+        "Photo": "a3f013bd-f72d-489f-be60-80035fb5ac72",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Бабушкинский район",
+        "Location": "ТРЦ «КЛЕН»",
+        "RegistrationNumber": "2232-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 2386835265
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7130352632902,
+          55.6215195869267
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "JUNGLE CARROUSEL",
+        "Photo": "98df67e7-8144-4dea-b964-4b4cde0cd3cc",
+        "AdmArea": "Южный административный округ",
+        "District": "район Орехово-Борисово Северное",
+        "Location": "ТЦ КАШИРСКАЯ ПЛАЗА",
+        "RegistrationNumber": "2238-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 2386835267
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.674143518651,
+          55.6944657744799
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "3D-TOWER 24 MT («МЕДИА БАШНЯ ПАДЕНИЯ»)",
+        "Photo": "a3d04c7d-33c2-4b34-8fbe-60273337a838",
+        "AdmArea": "Южный административный округ",
+        "District": "район Нагатинский Затон",
+        "Location": "ТЕМАТИЧЕСКИЙ ПАРК РАЗВЛЕЧЕНИЙ ОСТРОВ МЕЧТЫ",
+        "RegistrationNumber": "2258-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 2386835266
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.674143518651,
+          55.6944657744799
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "MOVIE BASE XS («ЛЕТАЮЩИЙ ТЕАТР»)",
+        "Photo": "9a5f6312-f2bc-4e10-860a-6c3aca9df0a0",
+        "AdmArea": "Южный административный округ",
+        "District": "район Нагатинский Затон",
+        "Location": "ТЕМАТИЧЕСКИЙ ПАРК РАЗВЛЕЧЕНИЙ ОСТРОВ МЕЧТЫ",
+        "RegistrationNumber": "2319-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 2386835269
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6620379320159,
+          55.6830780209769
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "СПЕЙС РИФТ 2Х",
+        "Photo": "9b86e67c-200d-4dbc-95c8-1a30f479daf2",
+        "AdmArea": "Южный административный округ",
+        "District": "район Нагатино-Садовники",
+        "Location": "ТРЦ «НОРА»",
+        "RegistrationNumber": "2324-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 2386835270
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6247140092643,
+          55.7602532280102
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "КАРУСЕЛЬ С ЛОШАДКАМИ",
+        "Photo": "45ad00d6-434a-4286-87d1-0bb69a31d29c",
+        "AdmArea": "Центральный административный округ",
+        "District": "Мещанский район",
+        "Location": "ТЦ «ЦЕНТРАЛЬНЫЙ ДЕТСКИЙ МАГАЗИН»",
+        "RegistrationNumber": "2331-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 2386886288
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6756845975257,
+          55.6947073290833
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "NEBULAZ",
+        "Photo": "b5948f5c-9df7-4f54-b95a-72af22ad72b0",
+        "AdmArea": "Южный административный округ",
+        "District": "район Нагатинский Затон",
+        "Location": "ТЕМАТИЧЕСКИЙ ПАРК РАЗВЛЕЧЕНИЙ ОСТРОВ МЕЧТЫ",
+        "RegistrationNumber": "2332-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 2386886291
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6251206463378,
+          55.7542440346359
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "КАРУСЕЛЬ",
+        "Photo": "dd93f93b-cd84-4ff9-b79e-3a5526715f82",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Location": "ГОСТИНЫЙ ДВОР",
+        "RegistrationNumber": "2334-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 2386886296
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.674143518651,
+          55.6944657744799
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "KITE FLYER 12",
+        "Photo": "0d2b630c-3a87-4e22-9aef-38bb94eeb48d",
+        "AdmArea": "Южный административный округ",
+        "District": "район Нагатинский Затон",
+        "Location": "ТЕМАТИЧЕСКИЙ ПАРК РАЗВЛЕЧЕНИЙ ОСТРОВ МЕЧТЫ",
+        "RegistrationNumber": "2336-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 2386886299
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.674143518651,
+          55.6944657744799
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "JUMP AROUND 6",
+        "Photo": "252f653a-329c-4c30-b2c7-3f83d77976f1",
+        "AdmArea": "Южный административный округ",
+        "District": "район Нагатинский Затон",
+        "Location": "ТЕМАТИЧЕСКИЙ ПАРК РАЗВЛЕЧЕНИЙ ОСТРОВ МЕЧТЫ",
+        "RegistrationNumber": "2337-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 2386886303
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.674143518651,
+          55.6944657744799
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "JUMPIN STAR",
+        "Photo": "43b56be6-12ab-42da-b425-c4fe747b9cfd",
+        "AdmArea": "Южный административный округ",
+        "District": "район Нагатинский Затон",
+        "Location": "ТЕМАТИЧЕСКИЙ ПАРК РАЗВЛЕЧЕНИЙ ОСТРОВ МЕЧТЫ",
+        "RegistrationNumber": "2338-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 2386886306
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.674143518651,
+          55.6944657744799
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "SUPER HAPPY SWING",
+        "Photo": "99f364df-af9e-4975-880b-eec46e18abc5",
+        "AdmArea": "Южный административный округ",
+        "District": "район Нагатинский Затон",
+        "Location": "ТЕМАТИЧЕСКИЙ ПАРК РАЗВЛЕЧЕНИЙ ОСТРОВ МЕЧТЫ",
+        "RegistrationNumber": "2339-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 2386886309
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6650460331459,
+          55.7569050839852
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "ЗИМНЯЯ ГОРКА KIDWILL",
+        "Photo": "0b21036d-8e78-4603-87c3-1f22dfdc1b6c",
+        "AdmArea": "Центральный административный округ",
+        "District": "Басманный район",
+        "Location": "ТЕРРИТОРИЯ ЦЕНТРА СОВРЕМЕННОГО ИСКУССТВА ВИНЗАВОД",
+        "RegistrationNumber": "2340-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 2386886312
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6154410274334,
+          55.752312520618
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "ВОДНАЯ ГОРКА BODY SLIDE",
+        "Photo": "1ea068db-60fa-47cf-98ce-87c7f82a415e",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Location": "АКВАПАРК КАРИБИЯ",
+        "RegistrationNumber": "2347-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 2386886327
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6154410274334,
+          55.752312520618
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "ВОДНАЯ ГОРКА BLACK HOLE",
+        "Photo": "9687caad-1276-4a1a-8d71-997d6980eeba",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Location": "АКВАПАРК КАРИБИЯ",
+        "RegistrationNumber": "2348-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 2386886330
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5252862544321,
+          55.5974445855733
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "INNER TUBE ENCLOSED SLIDE GAT",
+        "Photo": "95d86b69-6fb3-45f7-829e-eba5f2555472",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Ясенево",
+        "Location": "АКВАПАРК МОРИОН",
+        "RegistrationNumber": "2351-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 2386886333
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5252862544321,
+          55.5974445855733
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "SLIDE SPACE BOWL AT",
+        "Photo": "f237a59c-f342-41ba-8dbf-d794931ba99a",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Ясенево",
+        "Location": "АКВАПАРК МОРИОН",
+        "RegistrationNumber": "2352-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 2386886337
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5252862544321,
+          55.5974445855733
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "BLACK HOLE ENCLOSED SLIDE GAT",
+        "Photo": "33aefc16-fda9-41fe-9b2f-aa1b5ed4415c",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Ясенево",
+        "Location": "АКВАПАРК МОРИОН",
+        "RegistrationNumber": "2353-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 2386886340
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5584313023686,
+          55.713120356891
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "«ВОДНАЯ ТРУБА (AQUATUBE SLIDE) AB»",
+        "Photo": "dfac431f-4d6a-4af0-b693-21fac9ea027d",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Хамовники",
+        "Location": "АКВАКОМПЛЕКС ЛУЖНИКИ",
+        "RegistrationNumber": "2354-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 2386886344
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5584313023686,
+          55.713120356891
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "«АКВАСФЕРА (AQUASPHERE) AD»",
+        "Photo": "243b5636-6a82-4405-b1da-6f75c7e67169",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Хамовники",
+        "Location": "АКВАКОМПЛЕКС ЛУЖНИКИ",
+        "RegistrationNumber": "2355-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 2386975240
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5584313023686,
+          55.713120356891
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "«ПУЛСАЙДЕР (POOLSIDER) AE»",
+        "Photo": "8f01e4dc-7947-4e98-8e4e-69c7d70dc852",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Хамовники",
+        "Location": "АКВАКОМПЛЕКС ЛУЖНИКИ",
+        "RegistrationNumber": "2356-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 2386975241
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5584313023686,
+          55.713120356891
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "«ВОДНАЯ ТРУБА (AQUATUBE SLIDE) AG»",
+        "Photo": "87b02bb6-3f5d-4e84-8fba-be5d64f1c705",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Хамовники",
+        "Location": "АКВАКОМПЛЕКС ЛУЖНИКИ",
+        "RegistrationNumber": "2357-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 2386975242
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5584313023686,
+          55.713120356891
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "«ВОДНАЯ ТРУБА (AQUATUBE SLIDE) AJ»",
+        "Photo": "4cc3dd37-1a58-470e-8681-06c323dd0202",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Хамовники",
+        "Location": "АКВАКОМПЛЕКС ЛУЖНИКИ",
+        "RegistrationNumber": "2358-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 2386975243
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5584313023686,
+          55.713120356891
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "«АКВАТРУБА РА»",
+        "Photo": "33fceca6-5a38-40d2-a644-f19269d85f01",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Хамовники",
+        "Location": "АКВАКОМПЛЕКС ЛУЖНИКИ",
+        "RegistrationNumber": "2359-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 2386975244
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5584313023686,
+          55.713120356891
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "«МИНИ МУЛЬТИ РB»",
+        "Photo": "bde4468e-b2ac-4d58-8ccc-4f5ae408e8a6",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Хамовники",
+        "Location": "АКВАКОМПЛЕКС ЛУЖНИКИ",
+        "RegistrationNumber": "2360-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 2386975245
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5584313023686,
+          55.713120356891
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "«МЕРТВАЯ ПЕТЛЯ (AQUALOOP) AI»",
+        "Photo": "30eb2520-b133-4185-b5ab-c77d73a52c39",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Хамовники",
+        "Location": "АКВАКОМПЛЕКС ЛУЖНИКИ",
+        "RegistrationNumber": "2361-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 2386975246
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5584313023686,
+          55.713120356891
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "«СЛАЙДБОУРДИНГ (SLIDEBOARDING) АС»",
+        "Photo": "e8d298d6-5214-4d2f-87f9-0481daacc2ee",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Хамовники",
+        "Location": "АКВАКОМПЛЕКС ЛУЖНИКИ",
+        "RegistrationNumber": "2362-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 2386975247
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5584313023686,
+          55.713120356891
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "«ВОДНАЯ ТРУБА (AQUATUBE SLIDE) AH»",
+        "Photo": "bfe8e14e-397e-4e65-b684-a8d4fd11c6b3",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Хамовники",
+        "Location": "АКВАКОМПЛЕКС ЛУЖНИКИ",
+        "RegistrationNumber": "2363-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 2386975248
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5584313023686,
+          55.713120356891
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "«МАСТЕР БЛАСТЕР/ КОНСТРИКТОР/ СУПЕР БОУЛ АА»",
+        "Photo": "92a0c729-84e0-42a5-a7d6-44b74b1938da",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Хамовники",
+        "Location": "АКВАКОМПЛЕКС ЛУЖНИКИ",
+        "RegistrationNumber": "2364-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 2386975249
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.674143518651,
+          55.6944657744799
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "VENETIAN CAROUSEL MERRY GO ROUND",
+        "Photo": "9803d5ec-e9b2-400f-bc0d-74d8343eb2c4",
+        "AdmArea": "Южный административный округ",
+        "District": "район Нагатинский Затон",
+        "Location": "ТЕМАТИЧЕСКИЙ ПАРК РАЗВЛЕЧЕНИЙ ОСТРОВ МЕЧТЫ",
+        "RegistrationNumber": "2367-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 2386975250
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6154410274334,
+          55.752312520618
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "ТУННЕЛЬ ФРИ ФОЛЛ (TUNNEL FREE FALL)",
+        "Photo": "3f98e644-9aee-469e-a21a-61e3924c35ea",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Location": "АКВАПАРК КАРИБИЯ",
+        "RegistrationNumber": "2368-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 2386975251
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6154410274334,
+          55.752312520618
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "МУЛЬТИ СЛАЙД (MULTI SLIDE)",
+        "Photo": "d10f3a94-4810-41eb-b20d-414baf145967",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Location": "АКВАПАРК КАРИБИЯ",
+        "RegistrationNumber": "2369-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 2386975252
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.674143518651,
+          55.6944657744799
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "FLYING TIGERS 8",
+        "Photo": "7d0b5f16-4429-4f1a-b4ed-0463590fce89",
+        "AdmArea": "Южный административный округ",
+        "District": "район Нагатинский Затон",
+        "Location": "ТЕМАТИЧЕСКИЙ ПАРК РАЗВЛЕЧЕНИЙ ОСТРОВ МЕЧТЫ",
+        "RegistrationNumber": "2376-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 2386975254
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5093927871178,
+          55.7177621566399
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "ВОДНАЯ ГОРКА «АКВАТЮБ»",
+        "Photo": "b9e0ab90-cc17-4f5d-bff5-7a97b32e9231",
+        "AdmArea": "Западный административный округ",
+        "District": "район Раменки",
+        "Location": "СПОРТИВНО-РАЗВЛЕКАТЕЛЬНЫЙ КОМПЛЕКС «ПРЕМЬЕР-СПОРТ»",
+        "RegistrationNumber": "2377-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 2386975255
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5252862544321,
+          55.5974445855733
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "BODY SLIDE ENCLOSED SLIDE AT",
+        "Photo": "a7ade293-df42-486a-af01-eadbc9d33a74",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Ясенево",
+        "Location": "АКВАПАРК МОРИОН",
+        "RegistrationNumber": "2378-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 2386975256
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5252862544321,
+          55.5974445855733
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "МИНИ КРЫЛО",
+        "Photo": "a5703ad3-2ca9-48f2-befd-6ac807a64756",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Ясенево",
+        "Location": "АКВАПАРК МОРИОН",
+        "RegistrationNumber": "2379-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 2386975257
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5252862544321,
+          55.5974445855733
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "BODY SLIDE RAMP SLIDE RM",
+        "Photo": "f4b70e6c-739a-4790-8e7f-d09435938d59",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Ясенево",
+        "Location": "АКВАПАРК МОРИОН",
+        "RegistrationNumber": "2380-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 2386975258
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5252862544321,
+          55.5974445855733
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "ГИДРОТРУБА 1",
+        "Photo": "ac6e3147-b572-4b73-8102-912af7703b23",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Ясенево",
+        "Location": "АКВАПАРК МОРИОН",
+        "RegistrationNumber": "2381-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 2386975259
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5252862544321,
+          55.5974445855733
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "ТОБОГГАН",
+        "Photo": "456dcaea-3edb-4834-af21-37c94b713e5e",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Ясенево",
+        "Location": "АКВАПАРК МОРИОН",
+        "RegistrationNumber": "2382-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 2386975260
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5252862544321,
+          55.5974445855733
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "ДЕТСКИЙ ГОРОДОК АР150 ТВ CUSTOM PIRATE BOAT THEME AQUA SPRAY TOYS",
+        "Photo": "379cc944-fb50-4ac3-8a9d-5b12883a2f3c",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Ясенево",
+        "Location": "АКВАПАРК МОРИОН",
+        "RegistrationNumber": "2383-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 2386975261
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5252862544321,
+          55.5974445855733
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "ЭКСТРИМ ТРУБА",
+        "Photo": "22e955f6-87d8-4493-baec-d3b4b0712314",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Ясенево",
+        "Location": "АКВАПАРК МОРИОН",
+        "RegistrationNumber": "2384-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 2386975262
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5252862544321,
+          55.5974445855733
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "ГИДРОТРУБА 2",
+        "Photo": "72cad08b-d8fd-4a7b-8ce7-b51fda1200cc",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Ясенево",
+        "Location": "АКВАПАРК МОРИОН",
+        "RegistrationNumber": "2385-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 2386975263
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.674143518651,
+          55.6944657744799
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "«FARMER SMURFS WINDMILL» («КОЛЕСО ОБОЗРЕНИЯ 8 МЕТРОВ»)",
+        "Photo": "2f4ae383-3ba1-4ba2-8964-fb1607c9a4b2",
+        "AdmArea": "Южный административный округ",
+        "District": "район Нагатинский Затон",
+        "Location": "ТЕМАТИЧЕСКИЙ ПАРК РАЗВЛЕЧЕНИЙ ОСТРОВ МЕЧТЫ",
+        "RegistrationNumber": "2389-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 2386975264
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5670902313635,
+          55.4996147836651
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "НАДУВНОЙ БАТУТ ПАТРУЛЬ",
+        "Photo": "d3648899-78ed-45aa-ad53-894d3b9e0eeb",
+        "AdmArea": "Новомосковский административный округ",
+        "District": "поселение Щербинка",
+        "Location": "ТЦ «АКВАРЕЛЬ»",
+        "RegistrationNumber": "2401-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 2387014153
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5271659818828,
+          55.7583965307646
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "СКОРОСТНАЯ ДОРОГА С МИНИ-АВТОМОБИЛЯМИ «ЛЕМАН СИТИ»",
+        "Photo": "7dc8a580-8c6b-46f4-af61-06f8193043c6",
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "Location": "ЛЕМАН СИТИ",
+        "RegistrationNumber": "2404-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 2387014156
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6811879675411,
+          55.7190962996154
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "СКОРОСТНАЯ ДОРОГА С МИНИ-АВТОМОБИЛЯМИ МОДЕЛЕЙ SODI RT8, SODI LR5, 2Х МЕСТНЫЙ ДУЭТ, DINO RENTAL, МИКС КАРТ СПОРТ",
+        "Photo": "39dfc632-1bbe-447a-92fd-ff76e162bcf2",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "Южнопортовый район",
+        "Location": "MIKS KARTING",
+        "RegistrationNumber": "2405-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 2387014159
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4566474368301,
+          55.707759174633
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "АИР ПАРК",
+        "Photo": "542ebba6-6ae0-4537-8f36-56dc3d7951c5",
+        "AdmArea": "Западный административный округ",
+        "District": "район Очаково-Матвеевское",
+        "Location": "ТРЦ «KVARTAL WEST»",
+        "RegistrationNumber": "2411-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 2387014161
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.669747274567,
+          55.8828740740309
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "КАРТИНГ",
+        "Photo": "6d3418cd-90df-4eed-a212-6d4a40774721",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Северное Медведково",
+        "Location": "X-TI КАРТИНГ",
+        "RegistrationNumber": "2412-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 2387014164
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7165394985976,
+          55.7377208366673
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "КАРТИНГ «E-GO KARTING»",
+        "Photo": "b9cc5084-addf-4dbc-9414-cfe106af47d5",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Лефортово",
+        "Location": "ТРЦ СПОРТЕХ",
+        "RegistrationNumber": "2413-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 2387014166
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7782645965621,
+          55.747846976534
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "PIRATE PLAY",
+        "Photo": "272647cc-d38c-48ed-8cdf-9ed3ec859ca1",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Перово",
+        "Location": "АКВАПАРК КАРИБИЯ",
+        "RegistrationNumber": "2414-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 2387014168
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6178347280473,
+          55.6809716272138
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "СКОРОСТНАЯ ДОРОГА LONATO KARTING",
+        "Photo": "d7796113-9811-4e65-b838-602806b6156e",
+        "AdmArea": "Южный административный округ",
+        "District": "Нагорный район",
+        "Location": "LONATO KARTING",
+        "RegistrationNumber": "2418-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 2387014171
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7388672001678,
+          55.6548411826528
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "ГОРКА ВОДНАЯ ФЕНТАЗИ",
+        "Photo": "2c39642e-c6e2-404e-9332-9fa5376528eb",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Марьино",
+        "Location": "АКВАПАРК ФЭНТАЗИ",
+        "RegistrationNumber": "2420-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 2387014175
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7388672001678,
+          55.6548411826528
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "ГОРКА ВОДНАЯ БАРАКУДА",
+        "Photo": "cb3bb4bc-e42b-464c-8f94-5004fba3801c",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Марьино",
+        "Location": "АКВАПАРК ФЭНТАЗИ",
+        "RegistrationNumber": "2421-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 2387014181
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7388672001678,
+          55.6548411826528
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "ГОРКА ВОДНАЯ ТАБОГАН",
+        "Photo": "1405db2f-d864-4286-beab-6051d3d23955",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Марьино",
+        "Location": "АКВАПАРК ФЭНТАЗИ",
+        "RegistrationNumber": "2422-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 2387014186
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7388672001678,
+          55.6548411826528
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "ГОРКА ВОДНАЯ КАМИКАДЗЕ",
+        "Photo": "24af4069-b57c-493b-b157-824a4f97af34",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Марьино",
+        "Location": "АКВАПАРК ФЭНТАЗИ",
+        "RegistrationNumber": "2423-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 2387014189
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6394853873966,
+          55.705178107908
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "КАРТОДРОМ BLACKSTARKARTING",
+        "Photo": "70149239-106b-43fd-940c-ca7d091942c5",
+        "AdmArea": "Южный административный округ",
+        "District": "Даниловский район",
+        "Location": "ТРЦ «РИВЬЕРА»",
+        "RegistrationNumber": "2425-77",
+        "State": "аттракцион зарегистрирован",
+        "LocationType": "торгово-развлекательный комплекс",
+        "globalid": 2389451290
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

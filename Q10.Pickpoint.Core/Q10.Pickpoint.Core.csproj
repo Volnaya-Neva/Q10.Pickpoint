@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Q10.Pickpoint.Models\Q10.Pickpoint.Models.csproj" />
+    <ProjectReference Include="..\Q10.Pickpoint.Serializer\Q10.Pickpoint.Serializer.csproj" />
   </ItemGroup>
 
 </Project>

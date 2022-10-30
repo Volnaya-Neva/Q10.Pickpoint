@@ -1,0 +1,879 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.773975405365,
+          55.6918283970222
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "лодочная станция",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Кузьминки",
+        "Address": "Кузьминский парк, дом 1, строение 2",
+        "Email": "parkkuzminki@culture.mos.ru",
+        "WebSite": "www.park-kuzminki.ru",
+        "HelpPhone": "(495) 175-33-69",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "да",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.04-30.11",
+        "Lighting": "освещение лампами накаливания",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407117242
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7523742384482,
+          55.7727147283465
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "лодочная станция",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Измайлово",
+        "Address": "аллея Большого Круга, дом 7",
+        "Email": "izmpark@mail.ru",
+        "WebSite": "izmailovsky-park.ru",
+        "HelpPhone": "(499) 166-61-19",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "да",
+        "HasTechService": "да",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": "частично приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407122187
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6758272468508,
+          55.6140753891136
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "лодочная станция №1, Верхний Царицынский пруд",
+        "AdmArea": "Южный административный округ",
+        "District": "район Бирюлёво Восточное",
+        "Address": "Дольская улица, дом 1",
+        "Email": "gmz@tsaritsyno.net",
+        "WebSite": "www.tsaritsyno-museum.ru",
+        "HelpPhone": "(495) 321-63-66",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "да",
+        "HasTechService": "да",
+        "HasDressingRoom": "нет",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "да",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.05-30.09",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407123059
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6778815726488,
+          55.6194089016091
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "лодочная станция №2, Средний Царицынский пруд",
+        "AdmArea": "Южный административный округ",
+        "District": "район Бирюлёво Восточное",
+        "Address": "Дольская улица, дом 1",
+        "Email": "gmz@tsaritsyno.net",
+        "WebSite": "www.tsaritsyno-museum.ru",
+        "HelpPhone": "(495) 321-63-66",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "да",
+        "HasTechService": "да",
+        "HasDressingRoom": "нет",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "да",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.05-30.09",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407123268
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4766343832014,
+          55.8402397125413
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "лодочная станция",
+        "AdmArea": "Северный административный округ",
+        "District": "Войковский район",
+        "Address": "Ленинградское шоссе, дом 45, строение 1",
+        "Email": "voenpatriot@edu.mos.ru",
+        "WebSite": "voenpatriot.mskobr.ru",
+        "HelpPhone": "(499) 164-08-06",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "асфальтовое, бетонное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 410058351
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6047674831256,
+          55.7304751321323
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "лодочная станция, Пионерский пруд",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Якиманка",
+        "Address": "улица Крымский Вал, дом 9, строение 1",
+        "Email": "official@park-gorkogo.com",
+        "WebSite": "www.park-gorkogo.com",
+        "HelpPhone": "(495) 995-00-20",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "да",
+        "HasTechService": "да",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "да",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.05-30.09",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "заливное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 625842977
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5972978559823,
+          55.7249471817115
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "лодочная станция у Голицынского пруда",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Якиманка",
+        "Address": "улица Крымский Вал, дом 9, строение 1",
+        "Email": "official@park-gorkogo.com",
+        "WebSite": "www.park-gorkogo.com",
+        "HelpPhone": "(495) 995-00-20",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "да",
+        "HasTechService": "да",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "да",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.05-30.09",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "заливное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 625843080
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5317134112969,
+          55.8814388738531
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "лодочная станция",
+        "AdmArea": "Северный административный округ",
+        "District": "Дмитровский район",
+        "Address": "Ангарская улица, дом 53, корпус 1",
+        "Email": "Liapark@ya.ru",
+        "WebSite": "liapark.ru/park-angarskie-prudy",
+        "HelpPhone": "(499) 908-35-00",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "да",
+        "HasTechService": "да",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "да",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.05-15.10",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 863616527
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5681647204604,
+          55.9007765687321
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "лодочная станция",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Лианозово",
+        "Address": "Угличская улица, дом 13",
+        "Email": "info@liapark.ru",
+        "WebSite": "liapark.ru",
+        "HelpPhone": "(499) 908-35-00",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "да",
+        "HasTechService": "нет",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "да",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.05-30.11",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 930085487
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6875281998525,
+          55.6291690525951
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "лодочная станция №3 Царицынский Нижний пруд",
+        "AdmArea": "Южный административный округ",
+        "District": "район Орехово-Борисово Северное",
+        "Address": "Дольская улица, дом 1",
+        "Email": "gmz@tsaritsyno.net",
+        "WebSite": "www.tsaritsyno-museum.ru",
+        "HelpPhone": "(495) 321-63-66",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "да",
+        "HasTechService": "да",
+        "HasDressingRoom": "нет",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "да",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.05-30.09",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 930205818
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.810369,
+          55.734998
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "лодочная станция",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Вешняки",
+        "Address": "улица Юности, дом 2, строение 11",
+        "Email": "museumkuskovo@mail.ru",
+        "WebSite": "kuskovo.ru/ekskursiivmuzee/shop1/",
+        "HelpPhone": "(903) 675-85-57",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "деревянное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 930205937
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.8573975553975,
+          55.7210092805394
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "лодочная станция",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Косино-Ухтомский",
+        "Address": "Большая Косинская улица, дом 45",
+        "Email": "",
+        "WebSite": "www.kdmclub.ru/",
+        "HelpPhone": "(495) 700-50-05",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "да",
+        "HasTechService": "нет",
+        "HasDressingRoom": "да",
+        "HasEatery": "нет",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "да",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-30.11",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 930412550
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5385344212654,
+          55.8358095757425
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "лодочная станция",
+        "AdmArea": "Северный административный округ",
+        "District": "Тимирязевский район",
+        "Address": "Большая Академическая улица, дом 32А, строение 1",
+        "Email": "info@timacad.ru",
+        "WebSite": "www.timacad.ru/",
+        "HelpPhone": "(499) 976-15-60",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "деревянное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 930704248
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4351416834846,
+          55.7750596144381
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "лодочная станция",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Хорошёво-Мнёвники",
+        "Address": "Таманская улица, владение 1, корпус 5, строение 2",
+        "Email": "pr@cska.ru",
+        "WebSite": "cska.ru/objects/36",
+        "HelpPhone": "(499) 159-75-53",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "да",
+        "HasEatery": "нет",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 930704250
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.3510612150549,
+          55.7933026655356
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "лодочная станция",
+        "AdmArea": "Западный административный округ",
+        "District": "район Кунцево",
+        "Address": "улица Василия Ботылёва, дом 43, строение 2",
+        "Email": "mso@mos.sport",
+        "WebSite": "mos.sport/",
+        "HelpPhone": "(495) 681-01-48",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "да",
+        "HasTechService": "нет",
+        "HasDressingRoom": "да",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 930704254
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6168495693675,
+          55.837732544042
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "лодочная станция, Третий пруд каскада прудов реки Каменка",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Останкинский район",
+        "Address": "проспект Мира, дом 119, строение 6",
+        "Email": "info@vvcentre.ru",
+        "WebSite": "vdnh.ru",
+        "HelpPhone": "(495) 748-35-00",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "да",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "да",
+        "HasFirstAidPost": "да",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.04-30.11",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "деревянное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 930704274
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4158170319065,
+          55.7977418213305
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "лодочная станция",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Строгино",
+        "Address": "улица Твардовского, дом 16, корпус 3",
+        "Email": "mso@mos.sport",
+        "WebSite": "mos.sport/",
+        "HelpPhone": "(495) 681-01-48",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "да",
+        "HasTechService": "нет",
+        "HasDressingRoom": "да",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-30.11",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1047337498
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4812351077957,
+          55.8327875233771
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "лодочная станция",
+        "AdmArea": "Северный административный округ",
+        "District": "Войковский район",
+        "Address": "Ленинградское шоссе, дом 39, строение 7",
+        "Email": "info@royalyachtclub.ru",
+        "WebSite": "royalyachtclub.ru/",
+        "HelpPhone": "(495) 961-88-66",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "да",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.09-31.08",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1047349252
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4318660024389,
+          55.803281626962
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "лодочная станция, «Место стоянки маломерных судов»",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Строгино",
+        "Address": "Строгинское шоссе, дом 3Б/Н",
+        "Email": "mso@mos.sport",
+        "WebSite": "mos.sport/",
+        "HelpPhone": "(495) 681-01-48",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "да",
+        "HasEatery": "нет",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "освещение светодиодными лампами",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1123869028
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6157614782158,
+          55.8228985117847
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "лодочная станция",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Останкинский район",
+        "Address": "1-я Останкинская улица, дом 7А, строение 3",
+        "Email": "dir-svao@eco.mos.ru",
+        "WebSite": "www.mospriroda.ru/wheretogo/territorii/prirodnoistoricheskiyparkostankino/",
+        "HelpPhone": "(499) 477-11-97",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "да",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.09-31.08",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "деревянное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1124001058
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5297336715546,
+          55.6669450024032
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "лодочная станция у Большого пруда",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "Обручевский район",
+        "Address": "Воронцовский парк, дом 3",
+        "Email": "info@usadba-vorontsovo.ru",
+        "WebSite": "www.usadba-vorontsovo.ru",
+        "HelpPhone": "(495) 580-26-78",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "да",
+        "HasTechService": "нет",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.04-30.11",
+        "Lighting": "освещение лампами накаливания",
+        "SurfaceTypeSummer": "деревянное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 2366647157
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.3003533111534,
+          55.4946718469454
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "лодочная станция №1",
+        "AdmArea": "Троицкий административный округ",
+        "District": "поселение Троицк",
+        "Address": "город Троицк, Радужная улица, дом 4",
+        "Email": "admtro@mail.ru",
+        "WebSite": "www.admtroitsk.ru/",
+        "HelpPhone": "(495) 851-00-75",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "деревянное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 2366650079
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.3062833864304,
+          55.4939960817573
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "лодочная станция №2",
+        "AdmArea": "Троицкий административный округ",
+        "District": "поселение Троицк",
+        "Address": "город Троицк, Радужная улица, дом 4",
+        "Email": "admtro@mail.ru",
+        "WebSite": "www.admtroitsk.ru/",
+        "HelpPhone": "(495) 851-00-75",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "деревянное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 2366650081
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,7383 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.919557,
+          55.701079
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "195",
+        "LOT": null,
+        "ADDRESS": "Защитников Москвы просп., д.9",
+        "UNOM": null,
+        "CHARACTERISTIC": "1",
+        "S": "63.7",
+        "FIRSTPRICE": "5950000,00",
+        "LASTPRICE": "5950000,00",
+        "DATEOFEVENT": "17.12.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЮВАО",
+        "WINNER": "Гаврилов И.А.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "6",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.919557",
+        "YWGS": "55.701079",
+        "GLOBALID": "89255638"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.622007,
+          55.717742
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "73",
+        "LOT": null,
+        "ADDRESS": "ул. Люсиновская, д. 62",
+        "UNOM": null,
+        "CHARACTERISTIC": "2 и 3 этаж",
+        "S": "353.9",
+        "FIRSTPRICE": "45006380,00",
+        "LASTPRICE": "45006380,00",
+        "DATEOFEVENT": "09.10.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЮАО",
+        "WINNER": "ООО \"СТРОЙТЕХ\"",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "2",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.622007",
+        "YWGS": "55.717742",
+        "GLOBALID": "88024339"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.715432,
+          55.752333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "199",
+        "LOT": null,
+        "ADDRESS": "Авиамоторная ул., д.14",
+        "UNOM": null,
+        "CHARACTERISTIC": "подвал",
+        "S": "71.1",
+        "FIRSTPRICE": "5590000,00",
+        "LASTPRICE": "5590000,00",
+        "DATEOFEVENT": "17.12.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЮВАО",
+        "WINNER": "Слесарев Ю.И.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "2",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.715432",
+        "YWGS": "55.752333",
+        "GLOBALID": "89255642"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.578806,
+          55.682254
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "180",
+        "LOT": null,
+        "ADDRESS": "ул .Новочеремушкинская, д.20/23",
+        "UNOM": null,
+        "CHARACTERISTIC": "1",
+        "S": "19.0",
+        "FIRSTPRICE": "1230000,00",
+        "LASTPRICE": "6703500,00",
+        "DATEOFEVENT": "12.12.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЮЗАО",
+        "WINNER": "Алиев О.М.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "35",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.578806",
+        "YWGS": "55.682254",
+        "GLOBALID": "89255622"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.486219,
+          55.771056
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "139",
+        "LOT": null,
+        "ADDRESS": "ул. Демьяна Бедного, д.1, корп.1",
+        "UNOM": null,
+        "CHARACTERISTIC": "цоколь",
+        "S": "84.9",
+        "FIRSTPRICE": "5450000,00",
+        "LASTPRICE": "5450000,00",
+        "DATEOFEVENT": "22.11.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "СЗАО",
+        "WINNER": "Фадеев П.А.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "2",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.486219",
+        "YWGS": "55.771056",
+        "GLOBALID": "89255180"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.523082,
+          55.838127
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "129",
+        "LOT": null,
+        "ADDRESS": "ул. Коптевская, д.32",
+        "UNOM": null,
+        "CHARACTERISTIC": "1",
+        "S": "77.9",
+        "FIRSTPRICE": "6060000,00",
+        "LASTPRICE": "6666000,00",
+        "DATEOFEVENT": "21.11.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "САО",
+        "WINNER": "Набатов А.Л.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "5",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.523082",
+        "YWGS": "55.838127",
+        "GLOBALID": "89255170"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.55147,
+          55.874794
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "205",
+        "LOT": null,
+        "ADDRESS": "Бескудниковский пр., д.2, корп.2",
+        "UNOM": null,
+        "CHARACTERISTIC": "1",
+        "S": "49.8",
+        "FIRSTPRICE": "4150000,00",
+        "LASTPRICE": "4150000,00",
+        "DATEOFEVENT": "18.12.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытй аукцион",
+        "OKRUG": "САО",
+        "WINNER": "Пиляев М.Г.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "2",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.55147",
+        "YWGS": "55.874794",
+        "GLOBALID": "89611644"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.384213,
+          55.904758
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "58",
+        "LOT": null,
+        "ADDRESS": "ул. Соколово-Мещерская, д.29",
+        "UNOM": null,
+        "CHARACTERISTIC": "1 этаж",
+        "S": "49.8",
+        "FIRSTPRICE": "4390000,00",
+        "LASTPRICE": "4390000,00",
+        "DATEOFEVENT": "25.09.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "СЗАО",
+        "WINNER": "Ахмедов К.К.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "2",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.384213",
+        "YWGS": "55.904758",
+        "GLOBALID": "88024324"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.710509,
+          55.819458
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "31",
+        "LOT": null,
+        "ADDRESS": "Погонный пр., д.14",
+        "UNOM": "260019",
+        "CHARACTERISTIC": "1 этаж",
+        "S": "48.8",
+        "FIRSTPRICE": "4410000,00",
+        "LASTPRICE": "6615000,00",
+        "DATEOFEVENT": "24.07.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ВАО",
+        "WINNER": "ООО \"КАРАТ\"",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "3",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.710509",
+        "YWGS": "55.819458",
+        "GLOBALID": "87708697"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.654649,
+          55.703761
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "174",
+        "LOT": null,
+        "ADDRESS": "ул. Автозаводская, д.17, корп.3",
+        "UNOM": null,
+        "CHARACTERISTIC": "1",
+        "S": "174.0",
+        "FIRSTPRICE": "15400000,00",
+        "LASTPRICE": "15400000,00",
+        "DATEOFEVENT": "11.12.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЮАО",
+        "WINNER": "ООО \"РЕНТАЛ\"",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "2",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.654649",
+        "YWGS": "55.703761",
+        "GLOBALID": "89255615"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.147864,
+          55.987348
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "20",
+        "LOT": null,
+        "ADDRESS": "Зеленоград, корп.1416",
+        "UNOM": "31166",
+        "CHARACTERISTIC": "1 этаж",
+        "S": "22.9",
+        "FIRSTPRICE": "1670000,00",
+        "LASTPRICE": "1670000,00",
+        "DATEOFEVENT": "10.07.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЗелАО",
+        "WINNER": "Солдатов А.Н.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "2",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.147864",
+        "YWGS": "55.987348",
+        "GLOBALID": "87708686"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.666421,
+          55.73932
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "183",
+        "LOT": null,
+        "ADDRESS": "ул. Таганская, д.36, стр.1",
+        "UNOM": null,
+        "CHARACTERISTIC": "1",
+        "S": "47.1",
+        "FIRSTPRICE": "5710000,00",
+        "LASTPRICE": "7708500,00",
+        "DATEOFEVENT": "12.12.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЦАО",
+        "WINNER": "Гиголов А.Р.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "9",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.666421",
+        "YWGS": "55.73932",
+        "GLOBALID": "89255626"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.205152,
+          56.004264
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "6",
+        "LOT": null,
+        "ADDRESS": "г.Зеленоград, корп.249",
+        "UNOM": "370061",
+        "CHARACTERISTIC": "этаж 1, пом. ХХ, комн. 1, 1а, 2-5",
+        "S": "125.8",
+        "FIRSTPRICE": "11257200,00",
+        "LASTPRICE": "11257200,00",
+        "DATEOFEVENT": "22.05.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЗелАО",
+        "WINNER": "Чикликчи У.В.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "4",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.205152",
+        "YWGS": "56.004264",
+        "GLOBALID": "87708673"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.439998,
+          55.857836
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "25",
+        "LOT": null,
+        "ADDRESS": "ул.Фомичевой, д.16, корп.3",
+        "UNOM": "27556",
+        "CHARACTERISTIC": "1 этаж",
+        "S": "57.8",
+        "FIRSTPRICE": "5650000,00",
+        "LASTPRICE": "6497500,00",
+        "DATEOFEVENT": "23.07.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "СЗАО",
+        "WINNER": "Фадеев П.А.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "9",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.439998",
+        "YWGS": "55.857836",
+        "GLOBALID": "87708691"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.772896,
+          55.66339
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "96",
+        "LOT": null,
+        "ADDRESS": "Белореченская ул., д. 41, корп. 1",
+        "UNOM": null,
+        "CHARACTERISTIC": "1",
+        "S": "203.5",
+        "FIRSTPRICE": "18900000,00",
+        "LASTPRICE": "18900000,00",
+        "DATEOFEVENT": "06.11.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЮВАО",
+        "WINNER": "Кузьминов С.В.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "3",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.772896",
+        "YWGS": "55.66339",
+        "GLOBALID": "89255137"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.56944,
+          55.549985
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "1",
+        "LOT": null,
+        "ADDRESS": "Изюмская ул., д. 39, корп. 1",
+        "UNOM": "290207",
+        "CHARACTERISTIC": "Этаж 1, пом. IX, комн. 1-8",
+        "S": "75.2",
+        "FIRSTPRICE": "6050000,00",
+        "LASTPRICE": "6050000,00",
+        "DATEOFEVENT": "25.06.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЮЗАО",
+        "WINNER": "Махмудов А.М.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "3",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.56944",
+        "YWGS": "55.549985",
+        "GLOBALID": "87708667"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.634491,
+          55.801375
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "15",
+        "LOT": null,
+        "ADDRESS": "просп.Мира, д.81",
+        "UNOM": "14504",
+        "CHARACTERISTIC": "1 этаж",
+        "S": "20.9",
+        "FIRSTPRICE": "2400000,00",
+        "LASTPRICE": "2400000,00",
+        "DATEOFEVENT": "09.07.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "СВАО",
+        "WINNER": "Фейзиев Г.Г.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "7",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.634491",
+        "YWGS": "55.801375",
+        "GLOBALID": "87708681"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.467854,
+          55.867377
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "5",
+        "LOT": null,
+        "ADDRESS": "Валдайский пр-д., д. 10, корп. 1",
+        "UNOM": "340256",
+        "CHARACTERISTIC": "этаж 1, пом. XIX, комн. 1-8",
+        "S": "53.8",
+        "FIRSTPRICE": "5687600,00",
+        "LASTPRICE": "6184360,00",
+        "DATEOFEVENT": "22.05.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "САО",
+        "WINNER": "Трунов П.В.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "6",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.467854",
+        "YWGS": "55.867377",
+        "GLOBALID": "87708672"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.612906,
+          55.886127
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "140",
+        "LOT": null,
+        "ADDRESS": "ул. Плещеева, д.14",
+        "UNOM": null,
+        "CHARACTERISTIC": "1",
+        "S": "180.5",
+        "FIRSTPRICE": "14400000,00",
+        "LASTPRICE": "14400000,00",
+        "DATEOFEVENT": "22.11.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "СВАО",
+        "WINNER": "Ивкина Е.В.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "3",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.612906",
+        "YWGS": "55.886127",
+        "GLOBALID": "89255181"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.599176,
+          55.632904
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "101",
+        "LOT": null,
+        "ADDRESS": "Сумской пр., д.13, корп.2",
+        "UNOM": null,
+        "CHARACTERISTIC": "5",
+        "S": "62.8",
+        "FIRSTPRICE": "5540000,00",
+        "LASTPRICE": "6648000,00",
+        "DATEOFEVENT": "12.11.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЮАО",
+        "WINNER": "Мамурина Л.И.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "13",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.599176",
+        "YWGS": "55.632904",
+        "GLOBALID": "89255142"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.656164,
+          55.633891
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "204",
+        "LOT": null,
+        "ADDRESS": "Пролетарский просп., д.18, корп.1",
+        "UNOM": null,
+        "CHARACTERISTIC": "подвал",
+        "S": "210.4",
+        "FIRSTPRICE": "12500000,00",
+        "LASTPRICE": "12500000,00",
+        "DATEOFEVENT": "18.12.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытй аукцион",
+        "OKRUG": "ЮАО",
+        "WINNER": "Гаджикеримов Р.А.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "2",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.656164",
+        "YWGS": "55.633891",
+        "GLOBALID": "89611643"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.570797,
+          55.548561
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "80",
+        "LOT": null,
+        "ADDRESS": "ул. Изюмская, д. 43, корп. 3",
+        "UNOM": null,
+        "CHARACTERISTIC": "1 этаж",
+        "S": "84.8",
+        "FIRSTPRICE": "6780000,00",
+        "LASTPRICE": "6780000,00",
+        "DATEOFEVENT": "17.10.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЮЗАО",
+        "WINNER": "Крылов П.А.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "2",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.570797",
+        "YWGS": "55.548561",
+        "GLOBALID": "88024346"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.579437,
+          55.70499
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "72",
+        "LOT": null,
+        "ADDRESS": "Ленинский просп., д.41/2",
+        "UNOM": null,
+        "CHARACTERISTIC": "1 этаж",
+        "S": "95.3",
+        "FIRSTPRICE": "18100000,00",
+        "LASTPRICE": "64255000,00",
+        "DATEOFEVENT": "08.10.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЮЗАО",
+        "WINNER": "Вартанян Ю.И.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "35",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.579437",
+        "YWGS": "55.70499",
+        "GLOBALID": "88024338"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.622007,
+          55.717742
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "17",
+        "LOT": null,
+        "ADDRESS": "ул. Люсиновская, д.62",
+        "UNOM": "3900215",
+        "CHARACTERISTIC": "1 и 2 этажи",
+        "S": "209.3",
+        "FIRSTPRICE": "27700000,00",
+        "LASTPRICE": "30470000,00",
+        "DATEOFEVENT": "09.07.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЮАО",
+        "WINNER": "ООО \"Стройтех\"",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "2",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.622007",
+        "YWGS": "55.717742",
+        "GLOBALID": "87708683"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.585374,
+          55.682534
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "68",
+        "LOT": null,
+        "ADDRESS": "ул.Б.Черемушкинская, д. 20, корп. 4",
+        "UNOM": null,
+        "CHARACTERISTIC": "1 этаж",
+        "S": "37.9",
+        "FIRSTPRICE": "3630000,00",
+        "LASTPRICE": "5082000,00",
+        "DATEOFEVENT": "27.09.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЮЗАО",
+        "WINNER": "Изместьев Д.Б.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "7",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.585374",
+        "YWGS": "55.682534",
+        "GLOBALID": "88024334"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.627736,
+          55.877239
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "53",
+        "LOT": null,
+        "ADDRESS": "ул. Молодцова, д.23, корп.2",
+        "UNOM": null,
+        "CHARACTERISTIC": "1 этаж",
+        "S": "32.6",
+        "FIRSTPRICE": "2710000,00",
+        "LASTPRICE": "2845500,00",
+        "DATEOFEVENT": "23.09.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "СВАО",
+        "WINNER": "Солнцев М.А.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "7",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.627736",
+        "YWGS": "55.877239",
+        "GLOBALID": "88024319"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.522181,
+          55.756335
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "200",
+        "LOT": null,
+        "ADDRESS": "Шелепихинское ш., д.1",
+        "UNOM": null,
+        "CHARACTERISTIC": "цоколь",
+        "S": "132.7",
+        "FIRSTPRICE": "9250000,00",
+        "LASTPRICE": "9250000,00",
+        "DATEOFEVENT": "18.12.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытй аукцион",
+        "OKRUG": "ЦАО",
+        "WINNER": "Кельмишкейт В.Э.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "4",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.522181",
+        "YWGS": "55.756335",
+        "GLOBALID": "89611621"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.519868,
+          55.667491
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "83",
+        "LOT": null,
+        "ADDRESS": "ул. Новаторов, д. 4, корп.3",
+        "UNOM": null,
+        "CHARACTERISTIC": "1 этаж",
+        "S": "36.2",
+        "FIRSTPRICE": "3810000,00",
+        "LASTPRICE": "5143500,00",
+        "DATEOFEVENT": "23.10.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "СВАО",
+        "WINNER": "Сошин М.Д.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "11",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.519868",
+        "YWGS": "55.667491",
+        "GLOBALID": "88024349"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.594574,
+          55.866623
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "126",
+        "LOT": null,
+        "ADDRESS": "ул. Декабристов, д.2, корп.3",
+        "UNOM": null,
+        "CHARACTERISTIC": "1",
+        "S": "72.0",
+        "FIRSTPRICE": "7080000,00",
+        "LASTPRICE": "10620000,00",
+        "DATEOFEVENT": "21.11.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "СВАО",
+        "WINNER": "Турленко С.А.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "9",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.594574",
+        "YWGS": "55.866623",
+        "GLOBALID": "89255167"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.920397,
+          55.70519
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "169",
+        "LOT": null,
+        "ADDRESS": "ул. Рождественская, д.23/33",
+        "UNOM": null,
+        "CHARACTERISTIC": "1",
+        "S": "200.8",
+        "FIRSTPRICE": "17000000,00",
+        "LASTPRICE": "17000000,00",
+        "DATEOFEVENT": "10.12.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЮВАО",
+        "WINNER": "Гулиев Ф.Х.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "2",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.920397",
+        "YWGS": "55.70519",
+        "GLOBALID": "89255610"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.695321,
+          55.791836
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "102",
+        "LOT": null,
+        "ADDRESS": "ул. Матросская Тишина, д.23/7, корп.1",
+        "UNOM": null,
+        "CHARACTERISTIC": "1",
+        "S": "83.1",
+        "FIRSTPRICE": "6640000,00",
+        "LASTPRICE": "10624000,00",
+        "DATEOFEVENT": "12.11.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ВАО",
+        "WINNER": "ООО \"ОМНАС Трейд\"",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "5",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.695321",
+        "YWGS": "55.791836",
+        "GLOBALID": "89255143"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.588935,
+          55.504493
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "34",
+        "LOT": null,
+        "ADDRESS": "ул.Маршала Савицкого, д.18",
+        "UNOM": "290251",
+        "CHARACTERISTIC": "1 этаж",
+        "S": "81.4",
+        "FIRSTPRICE": "8000400,00",
+        "LASTPRICE": "8000400,00",
+        "DATEOFEVENT": "30.07.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЮЗАО",
+        "WINNER": "Кучина С.И.",
+        "ENCUMBRANCE": "Договор аренды от 20.01.2010 № 07-00006/10",
+        "NUMBEROFPARTICIPANTS": "2",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.588935",
+        "YWGS": "55.504493",
+        "GLOBALID": "87708700"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.219269,
+          55.996553
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "133",
+        "LOT": null,
+        "ADDRESS": "Зеленоград, корп.330",
+        "UNOM": null,
+        "CHARACTERISTIC": "1",
+        "S": "257.8",
+        "FIRSTPRICE": "19000000,00",
+        "LASTPRICE": "31350000,00",
+        "DATEOFEVENT": "22.11.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЗелАО",
+        "WINNER": "ООО \"Сателайт\"",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "4",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.219269",
+        "YWGS": "55.996553",
+        "GLOBALID": "89255174"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.59141,
+          55.504668
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "146",
+        "LOT": null,
+        "ADDRESS": "ул. Маршала Савицкого, д.22",
+        "UNOM": null,
+        "CHARACTERISTIC": "1",
+        "S": "80.1",
+        "FIRSTPRICE": "6080000,00",
+        "LASTPRICE": "6080000,00",
+        "DATEOFEVENT": "26.11.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЮЗАО",
+        "WINNER": "Гаврилов И.А.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "2",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.59141",
+        "YWGS": "55.504668",
+        "GLOBALID": "89255187"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.755383,
+          55.647448
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "104",
+        "LOT": null,
+        "ADDRESS": "Луговой пр., д.9, корп.2",
+        "UNOM": null,
+        "CHARACTERISTIC": "1",
+        "S": "115.4",
+        "FIRSTPRICE": "10800000,00",
+        "LASTPRICE": "11340000,00",
+        "DATEOFEVENT": "12.11.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЮВАО",
+        "WINNER": "Алхименков А.Н.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "2",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.755383",
+        "YWGS": "55.647448",
+        "GLOBALID": "89255145"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.599176,
+          55.632904
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "136",
+        "LOT": null,
+        "ADDRESS": "Сумской пр., д.13, корп.2",
+        "UNOM": null,
+        "CHARACTERISTIC": "1",
+        "S": "45.5",
+        "FIRSTPRICE": "4110000,00",
+        "LASTPRICE": "6165000,00",
+        "DATEOFEVENT": "22.11.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЮАО",
+        "WINNER": "Зыкова И.И.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "10",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.599176",
+        "YWGS": "55.632904",
+        "GLOBALID": "89255177"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.480496,
+          55.741513
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "158",
+        "LOT": null,
+        "ADDRESS": "ул. Минская, д.15, корп.1",
+        "UNOM": null,
+        "CHARACTERISTIC": "подвал",
+        "S": "259.4",
+        "FIRSTPRICE": "16200000,00",
+        "LASTPRICE": "25110000,00",
+        "DATEOFEVENT": "05.12.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЗАО",
+        "WINNER": "Сощин М.Д.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "3",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.480496",
+        "YWGS": "55.741513",
+        "GLOBALID": "89255199"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.56298,
+          55.855317
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "48",
+        "LOT": null,
+        "ADDRESS": "Дмитровское ш., д.64, корп.1",
+        "UNOM": null,
+        "CHARACTERISTIC": "подвал",
+        "S": "420.3",
+        "FIRSTPRICE": "15220820,00",
+        "LASTPRICE": "15981861,00",
+        "DATEOFEVENT": "03.09.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "САО",
+        "WINNER": "ООО \"ЛЕЛА\"",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "2",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.56298",
+        "YWGS": "55.855317",
+        "GLOBALID": "88024314"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.748276,
+          55.677029
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "29",
+        "LOT": null,
+        "ADDRESS": "ул.Краснодонская, д.18/18",
+        "UNOM": "11572",
+        "CHARACTERISTIC": "1 этаж",
+        "S": "39.0",
+        "FIRSTPRICE": "3910000,00",
+        "LASTPRICE": "3910000,00",
+        "DATEOFEVENT": "24.07.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЮВАО",
+        "WINNER": "Верникова М.В.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "4",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.748276",
+        "YWGS": "55.677029",
+        "GLOBALID": "87708695"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.61832,
+          55.720557
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "131",
+        "LOT": null,
+        "ADDRESS": "ул. Павла Андреева, д.28, корп.7",
+        "UNOM": null,
+        "CHARACTERISTIC": "Подвал + 1",
+        "S": "286.9",
+        "FIRSTPRICE": "21200000,00",
+        "LASTPRICE": "24380000,00",
+        "DATEOFEVENT": "21.11.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЦАО",
+        "WINNER": "Джаниашвили А.Д.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "3",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.61832",
+        "YWGS": "55.720557",
+        "GLOBALID": "89255172"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.582516,
+          55.741799
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "122",
+        "LOT": null,
+        "ADDRESS": "Смоленский бульвар, д.15",
+        "UNOM": null,
+        "CHARACTERISTIC": "1",
+        "S": "242.1",
+        "FIRSTPRICE": "14400000,00",
+        "LASTPRICE": "23040000,00",
+        "DATEOFEVENT": "21.11.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЦАО",
+        "WINNER": "ООО \"КОМПАНИЯ КРОНОС\"",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "4",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.582516",
+        "YWGS": "55.741799",
+        "GLOBALID": "89255163"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.655745,
+          55.833601
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "38",
+        "LOT": null,
+        "ADDRESS": "просп. Мира, д.188",
+        "UNOM": null,
+        "CHARACTERISTIC": "1 этаж",
+        "S": "72.5",
+        "FIRSTPRICE": "9710000,00",
+        "LASTPRICE": "9710000,00",
+        "DATEOFEVENT": "14.08.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "СВАО",
+        "WINNER": "ООО \"ТК \"Суминистро\"",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "4",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.655745",
+        "YWGS": "55.833601",
+        "GLOBALID": "88024304"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.55816,
+          55.864999
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "178",
+        "LOT": null,
+        "ADDRESS": "Бескудниковский бул., д.19, корп.2",
+        "UNOM": null,
+        "CHARACTERISTIC": "1",
+        "S": "64.1",
+        "FIRSTPRICE": "5510000,00",
+        "LASTPRICE": "9642500,00",
+        "DATEOFEVENT": "12.12.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "САО",
+        "WINNER": "Терпенянц А.В.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "11",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.55816",
+        "YWGS": "55.864999",
+        "GLOBALID": "89255620"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.344146,
+          55.854745
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "88",
+        "LOT": null,
+        "ADDRESS": "ул. Барышиха, д. 42",
+        "UNOM": null,
+        "CHARACTERISTIC": "1",
+        "S": "26.4",
+        "FIRSTPRICE": "2230000,00",
+        "LASTPRICE": "3122000,00",
+        "DATEOFEVENT": "30.10.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЮАО",
+        "WINNER": "Ивкина Е.В.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "5",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.344146",
+        "YWGS": "55.854745",
+        "GLOBALID": "89255129"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.572929,
+          55.782976
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "198",
+        "LOT": null,
+        "ADDRESS": "Ленинградский пр-т, д.26, кор.1",
+        "UNOM": null,
+        "CHARACTERISTIC": "подвал",
+        "S": "374.5",
+        "FIRSTPRICE": "18199140,00",
+        "LASTPRICE": "18199140,00",
+        "DATEOFEVENT": "17.12.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "САО",
+        "WINNER": "Мамурина Л.И.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "2",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.572929",
+        "YWGS": "55.782976",
+        "GLOBALID": "89255641"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.190198,
+          55.982758
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "41",
+        "LOT": null,
+        "ADDRESS": "Зеленоград, корп. 904",
+        "UNOM": null,
+        "CHARACTERISTIC": "1 этаж",
+        "S": "44.2",
+        "FIRSTPRICE": "2970000,00",
+        "LASTPRICE": "3564000,00",
+        "DATEOFEVENT": "22.08.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЗелАО",
+        "WINNER": "Иванова Е.Ю.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "5",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.190198",
+        "YWGS": "55.982758",
+        "GLOBALID": "88024307"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.388065,
+          55.840628
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "11",
+        "LOT": null,
+        "ADDRESS": "Пятницкое ш., д. 12, корп. 3",
+        "UNOM": "73482",
+        "CHARACTERISTIC": "этаж 1, пом. I, ком. 1",
+        "S": "13.6",
+        "FIRSTPRICE": "1062000,00",
+        "LASTPRICE": "1062000,00",
+        "DATEOFEVENT": "21.05.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "СЗАО",
+        "WINNER": "Крисанов В.Н.",
+        "ENCUMBRANCE": "Договор аренды от 15.05.2008 № 09-00406/08",
+        "NUMBEROFPARTICIPANTS": "4",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.388065",
+        "YWGS": "55.840628",
+        "GLOBALID": "87708677"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.606783,
+          55.67975
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "62",
+        "LOT": null,
+        "ADDRESS": "ул. Нагорная, д. 15, корп. 1-2",
+        "UNOM": null,
+        "CHARACTERISTIC": "подвал",
+        "S": "58.2",
+        "FIRSTPRICE": "4130000,00",
+        "LASTPRICE": "4130000,00",
+        "DATEOFEVENT": "27.09.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЮЗАО",
+        "WINNER": "Дамиров Ш.М.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "3",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.606783",
+        "YWGS": "55.67975",
+        "GLOBALID": "88024328"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.718479,
+          55.690939
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "26",
+        "LOT": null,
+        "ADDRESS": "ул.Гурьянова, д.6, корп.1",
+        "UNOM": "270199",
+        "CHARACTERISTIC": "1 этаж",
+        "S": "63.8",
+        "FIRSTPRICE": "5600000,00",
+        "LASTPRICE": "5600000,00",
+        "DATEOFEVENT": "23.07.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЮВАО",
+        "WINNER": "ООО \"АЛЬФАКОМ\"",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "3",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.718479",
+        "YWGS": "55.690939",
+        "GLOBALID": "89255447"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.711121,
+          55.794825
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "166",
+        "LOT": null,
+        "ADDRESS": "Преображенская пл., д.6",
+        "UNOM": null,
+        "CHARACTERISTIC": "1",
+        "S": "253.4",
+        "FIRSTPRICE": "23900000,00",
+        "LASTPRICE": "57360000,00",
+        "DATEOFEVENT": "10.12.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ВАО",
+        "WINNER": "Шаулов В.Ш.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "19",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.711121",
+        "YWGS": "55.794825",
+        "GLOBALID": "89255607"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.582608,
+          55.791242
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "100",
+        "LOT": null,
+        "ADDRESS": "ул. Нижняя Масловка, д.5, корп.2",
+        "UNOM": null,
+        "CHARACTERISTIC": "подвал",
+        "S": "35.5",
+        "FIRSTPRICE": "1750000,00",
+        "LASTPRICE": "4550000,00",
+        "DATEOFEVENT": "12.11.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "САО",
+        "WINNER": "ООО \"Строительная фирма \"Лабиринт\"",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "9",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.582608",
+        "YWGS": "55.791242",
+        "GLOBALID": "89255141"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.646288,
+          55.756936
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "190",
+        "LOT": null,
+        "ADDRESS": "Покровский бульв., д.8, стр.2",
+        "UNOM": null,
+        "CHARACTERISTIC": "2",
+        "S": "189.5",
+        "FIRSTPRICE": "17100000,00",
+        "LASTPRICE": "29070000,00",
+        "DATEOFEVENT": "17.12.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЦАО",
+        "WINNER": "ЗАО \"НТП Финанс\"",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "12",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.646288",
+        "YWGS": "55.756936",
+        "GLOBALID": "89255633"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.671915,
+          55.719106
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "70",
+        "LOT": null,
+        "ADDRESS": "ул. Шарикоподшипниковская, д.6/14",
+        "UNOM": null,
+        "CHARACTERISTIC": "1 этаж",
+        "S": "121.6",
+        "FIRSTPRICE": "10800000,00",
+        "LASTPRICE": "10800000,00",
+        "DATEOFEVENT": "08.10.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЮВАО",
+        "WINNER": "Шрагин Б.В.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "3",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.671915",
+        "YWGS": "55.719106",
+        "GLOBALID": "88024336"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.588429,
+          55.895058
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "89",
+        "LOT": null,
+        "ADDRESS": "Алтуфьевское ш., д. 82",
+        "UNOM": null,
+        "CHARACTERISTIC": "1",
+        "S": "37.8",
+        "FIRSTPRICE": "3850000,00",
+        "LASTPRICE": "5390000,00",
+        "DATEOFEVENT": "30.10.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЮЗАО",
+        "WINNER": "Колосова В.М.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "5",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.588429",
+        "YWGS": "55.895058",
+        "GLOBALID": "89255130"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.502935,
+          55.860753
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "142",
+        "LOT": null,
+        "ADDRESS": "ул. Фестивальная, д.28",
+        "UNOM": null,
+        "CHARACTERISTIC": "1",
+        "S": "35.1",
+        "FIRSTPRICE": "3140000,00",
+        "LASTPRICE": "3768000,00",
+        "DATEOFEVENT": "22.11.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "САО",
+        "WINNER": "Рубцов А.П.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "8",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.502935",
+        "YWGS": "55.860753",
+        "GLOBALID": "89255183"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.42741,
+          55.826735
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "35",
+        "LOT": null,
+        "ADDRESS": "Волоколамское ш., д.108",
+        "UNOM": "4710",
+        "CHARACTERISTIC": "цоколь",
+        "S": "38.9",
+        "FIRSTPRICE": "4318800,00",
+        "LASTPRICE": "4318800,00",
+        "DATEOFEVENT": "30.07.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "СЗАО",
+        "WINNER": "Усов В.В.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "2",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.42741",
+        "YWGS": "55.826735",
+        "GLOBALID": "87708701"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.594431,
+          55.748435
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "170",
+        "LOT": null,
+        "ADDRESS": "Староконюшенный пер., д.33",
+        "UNOM": null,
+        "CHARACTERISTIC": "1",
+        "S": "78.8",
+        "FIRSTPRICE": "10500000,00",
+        "LASTPRICE": "21000000,00",
+        "DATEOFEVENT": "10.12.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЦАО",
+        "WINNER": "ООО \"МАКСАЛ ГРУПП\"",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "8",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.594431",
+        "YWGS": "55.748435",
+        "GLOBALID": "89255611"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.548271,
+          55.876587
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "186",
+        "LOT": null,
+        "ADDRESS": "Дмитровское ш., д.96, корп.1",
+        "UNOM": null,
+        "CHARACTERISTIC": "1",
+        "S": "92.3",
+        "FIRSTPRICE": "8700000,00",
+        "LASTPRICE": "15225000,00",
+        "DATEOFEVENT": "17.12.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "САО",
+        "WINNER": "Овсянникова Т.В.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "7",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.548271",
+        "YWGS": "55.876587",
+        "GLOBALID": "89255629"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.53272,
+          55.601356
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "27",
+        "LOT": null,
+        "ADDRESS": "ул.Ясногорская, д.17, корп.2",
+        "UNOM": "30745",
+        "CHARACTERISTIC": "1 этаж",
+        "S": "135.4",
+        "FIRSTPRICE": "12100000,00",
+        "LASTPRICE": "12100000,00",
+        "DATEOFEVENT": "23.07.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЮЗАО",
+        "WINNER": "Шрагин Б.В.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "3",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.53272",
+        "YWGS": "55.601356",
+        "GLOBALID": "87708693"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.531486,
+          55.677225
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "149",
+        "LOT": null,
+        "ADDRESS": "Ленинский просп., д.89/2",
+        "UNOM": null,
+        "CHARACTERISTIC": "подвал",
+        "S": "106.0",
+        "FIRSTPRICE": "6760000,00",
+        "LASTPRICE": "6760000,00",
+        "DATEOFEVENT": "26.11.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЮЗАО",
+        "WINNER": "ООО \"М-Актив\"",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "2",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.531486",
+        "YWGS": "55.677225",
+        "GLOBALID": "89255190"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.597701,
+          55.822244
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "123",
+        "LOT": null,
+        "ADDRESS": "ул. Академика Королева, д.28, корп.1",
+        "UNOM": null,
+        "CHARACTERISTIC": "подвал",
+        "S": "90.8",
+        "FIRSTPRICE": "11600000,00",
+        "LASTPRICE": "18560000,00",
+        "DATEOFEVENT": "21.11.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "СВАО",
+        "WINNER": "ООО \"КОМПАНИЯ КРОНОС\"",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "6",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.597701",
+        "YWGS": "55.822244",
+        "GLOBALID": "89255164"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.203477,
+          56.007766
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "153",
+        "LOT": null,
+        "ADDRESS": "Зеленоград, корп.161А",
+        "UNOM": null,
+        "CHARACTERISTIC": "ЕОН",
+        "S": "74.8",
+        "FIRSTPRICE": "3670000,00",
+        "LASTPRICE": "8257500,00",
+        "DATEOFEVENT": "03.12.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЗелАО",
+        "WINNER": "Такаев Николай Игоревич",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "7",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": "С земельным участком по адресу: Москва, Зеленоград, 1-й мкр., корп.161А",
+        "XWGS": "37.203477",
+        "YWGS": "56.007766",
+        "GLOBALID": "89255194"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.558764,
+          55.872723
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "197",
+        "LOT": null,
+        "ADDRESS": "Дубнинская ул., д.53, корп.2",
+        "UNOM": null,
+        "CHARACTERISTIC": "1",
+        "S": "115.0",
+        "FIRSTPRICE": "10800000,00",
+        "LASTPRICE": "10800000,00",
+        "DATEOFEVENT": "17.12.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "САО",
+        "WINNER": "Гуськов А.В.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "3",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.558764",
+        "YWGS": "55.872723",
+        "GLOBALID": "89255640"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.481219,
+          55.861049
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "159",
+        "LOT": null,
+        "ADDRESS": "Смолная ул., д.35, стр.1",
+        "UNOM": null,
+        "CHARACTERISTIC": "2",
+        "S": "122.6",
+        "FIRSTPRICE": "10100000,00",
+        "LASTPRICE": "15655000,00",
+        "DATEOFEVENT": "05.12.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "САО",
+        "WINNER": "Циткилова Е.В.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "4",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.481219",
+        "YWGS": "55.861049",
+        "GLOBALID": "89255200"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.471516,
+          55.870052
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "114",
+        "LOT": null,
+        "ADDRESS": "ул.Смольная, д.63",
+        "UNOM": null,
+        "CHARACTERISTIC": "1",
+        "S": "62.5",
+        "FIRSTPRICE": "4910000,00",
+        "LASTPRICE": "6874000,00",
+        "DATEOFEVENT": "19.11.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "САО",
+        "WINNER": "Кормильцев В.А.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "9",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.471516",
+        "YWGS": "55.870052",
+        "GLOBALID": "89255155"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.154879,
+          55.971743
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "40",
+        "LOT": null,
+        "ADDRESS": "Зеленоград, корп.1619",
+        "UNOM": null,
+        "CHARACTERISTIC": "1 этаж",
+        "S": "23.0",
+        "FIRSTPRICE": "1880000,00",
+        "LASTPRICE": "1880000,00",
+        "DATEOFEVENT": "20.08.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЗелАО",
+        "WINNER": "Набатов А.Л.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "2",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.154879",
+        "YWGS": "55.971743",
+        "GLOBALID": "88024306"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.496456,
+          55.792321
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "99",
+        "LOT": null,
+        "ADDRESS": "ул. Маршала Бирюзова, д. 8, корп. 1",
+        "UNOM": null,
+        "CHARACTERISTIC": "цоколь",
+        "S": "58.6",
+        "FIRSTPRICE": "4420000,00",
+        "LASTPRICE": "23868000,00",
+        "DATEOFEVENT": "06.11.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "СЗАО",
+        "WINNER": "ООО \"Торгинвест\"",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "32",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.496456",
+        "YWGS": "55.792321",
+        "GLOBALID": "89255140"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.557069,
+          55.864665
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "192",
+        "LOT": null,
+        "ADDRESS": "Бескудниковский бульв., д.17, корп.1",
+        "UNOM": null,
+        "CHARACTERISTIC": "1",
+        "S": "80.2",
+        "FIRSTPRICE": "6750000,00",
+        "LASTPRICE": "9787500,00",
+        "DATEOFEVENT": "17.12.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "САО",
+        "WINNER": "Новиков Ф.М.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "7",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.557069",
+        "YWGS": "55.864665",
+        "GLOBALID": "89255635"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.793227,
+          55.759798
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "212",
+        "LOT": null,
+        "ADDRESS": "ул. Новогиреевская, д.18/31",
+        "UNOM": null,
+        "CHARACTERISTIC": "подвал",
+        "S": "122.9",
+        "FIRSTPRICE": "9900000,00",
+        "LASTPRICE": "9900000,00",
+        "DATEOFEVENT": "27.12.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытй аукцион",
+        "OKRUG": "ВАО",
+        "WINNER": "Циткилова Е.В.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "2",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.793227",
+        "YWGS": "55.759798",
+        "GLOBALID": "89611669"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.406589,
+          55.737896
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "32",
+        "LOT": null,
+        "ADDRESS": "ул.Партизанская, д.35, корп.3",
+        "UNOM": "320068",
+        "CHARACTERISTIC": "1 этаж",
+        "S": "173.3",
+        "FIRSTPRICE": "18000000,00",
+        "LASTPRICE": "18000000,00",
+        "DATEOFEVENT": "24.07.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЗАО",
+        "WINNER": "ООО \"РУЭЛТА\"",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "2",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.406589",
+        "YWGS": "55.737896",
+        "GLOBALID": "87708698"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.488716,
+          55.65154
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "150",
+        "LOT": null,
+        "ADDRESS": "Ленинский просп., д.119",
+        "UNOM": null,
+        "CHARACTERISTIC": "1",
+        "S": "892.5",
+        "FIRSTPRICE": "154576460,00",
+        "LASTPRICE": "177762929,00",
+        "DATEOFEVENT": "26.11.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЮЗАО",
+        "WINNER": "Аникин И.И.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "4",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.488716",
+        "YWGS": "55.65154",
+        "GLOBALID": "89255191"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.755508,
+          55.616924
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "115",
+        "LOT": null,
+        "ADDRESS": "Ореховый бул., д.59, корп. 2",
+        "UNOM": null,
+        "CHARACTERISTIC": "1",
+        "S": "59.5",
+        "FIRSTPRICE": "5040000,00",
+        "LASTPRICE": "5292000,00",
+        "DATEOFEVENT": "19.11.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЮАО",
+        "WINNER": "ООО \"КОМПАНИЯ КРОНОС\"",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "2",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.755508",
+        "YWGS": "55.616924",
+        "GLOBALID": "89255156"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.59042,
+          55.687404
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "111",
+        "LOT": null,
+        "ADDRESS": "ул.Винокурова, д. 11, корп.1",
+        "UNOM": null,
+        "CHARACTERISTIC": "1",
+        "S": "181.2",
+        "FIRSTPRICE": "22400000,00",
+        "LASTPRICE": "22400000,00",
+        "DATEOFEVENT": "19.11.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЮЗАО",
+        "WINNER": "Андроцкий В.В.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "2",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.59042",
+        "YWGS": "55.687404",
+        "GLOBALID": "89255152"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.56289,
+          55.757978
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "76",
+        "LOT": null,
+        "ADDRESS": "Б. Трехгорный пер., д.1/26, стр.1",
+        "UNOM": null,
+        "CHARACTERISTIC": "цоколь",
+        "S": "71.1",
+        "FIRSTPRICE": "7190000,00",
+        "LASTPRICE": "7190000,00",
+        "DATEOFEVENT": "17.10.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЦАО",
+        "WINNER": "Никитин Ю.В.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "2",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.56289",
+        "YWGS": "55.757978",
+        "GLOBALID": "88024342"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.637384,
+          55.784088
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "154",
+        "LOT": null,
+        "ADDRESS": "пер. Орлово-Давыдовский, д.1, стр.1",
+        "UNOM": null,
+        "CHARACTERISTIC": "1",
+        "S": "14.4",
+        "FIRSTPRICE": "1870000,00",
+        "LASTPRICE": "3366000,00",
+        "DATEOFEVENT": "05.12.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЦАО",
+        "WINNER": "Павлов В.В.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "8",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.637384",
+        "YWGS": "55.784088",
+        "GLOBALID": "89255195"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.783943,
+          55.744074
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "148",
+        "LOT": null,
+        "ADDRESS": "ул. Перовская, д.46, корп.3",
+        "UNOM": null,
+        "CHARACTERISTIC": "1",
+        "S": "72.8",
+        "FIRSTPRICE": "6240000,00",
+        "LASTPRICE": "6552000,00",
+        "DATEOFEVENT": "26.11.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ВАО",
+        "WINNER": "ООО \"Вега\"",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "3",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.783943",
+        "YWGS": "55.744074",
+        "GLOBALID": "89255189"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.172471,
+          55.97293
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "33",
+        "LOT": null,
+        "ADDRESS": "Зеленоград, корп.2033",
+        "UNOM": "370070",
+        "CHARACTERISTIC": "1 этаж",
+        "S": "58.9",
+        "FIRSTPRICE": "4212600,00",
+        "LASTPRICE": "4212600,00",
+        "DATEOFEVENT": "30.07.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЗелАО",
+        "WINNER": "Полянин Б.И.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "2",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.172471",
+        "YWGS": "55.97293",
+        "GLOBALID": "87708699"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.587812,
+          55.882863
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "54",
+        "LOT": null,
+        "ADDRESS": "Алтуфьевское ш., д.60",
+        "UNOM": null,
+        "CHARACTERISTIC": "1 этаж",
+        "S": "14.6",
+        "FIRSTPRICE": "901000,00",
+        "LASTPRICE": "901000,00",
+        "DATEOFEVENT": "25.09.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "СВАО",
+        "WINNER": "ООО \"ГАРБОР\"",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "3",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.587812",
+        "YWGS": "55.882863",
+        "GLOBALID": "88024320"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.644013,
+          55.855722
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "4",
+        "LOT": null,
+        "ADDRESS": "пр-д Русанова, д. 9",
+        "UNOM": "230598",
+        "CHARACTERISTIC": "этаж 1, пом X, комн. 1-4",
+        "S": "32.5",
+        "FIRSTPRICE": "2900000,00",
+        "LASTPRICE": "4930000,00",
+        "DATEOFEVENT": "25.06.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "СВАО",
+        "WINNER": "Аврелькин Г.А.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "6",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.644013",
+        "YWGS": "55.855722",
+        "GLOBALID": "87708669"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.654952,
+          55.739469
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "181",
+        "LOT": null,
+        "ADDRESS": "ул. Воронцовская, д.6, стр.2",
+        "UNOM": null,
+        "CHARACTERISTIC": "3",
+        "S": "41.1",
+        "FIRSTPRICE": "5320000,00",
+        "LASTPRICE": "7714000,00",
+        "DATEOFEVENT": "12.12.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЦАО",
+        "WINNER": "Кишкис А.Г.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "7",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.654952",
+        "YWGS": "55.739469",
+        "GLOBALID": "89255624"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.508901,
+          55.818112
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "119",
+        "LOT": null,
+        "ADDRESS": "2-й Новоподмосковный пер., д.3",
+        "UNOM": null,
+        "CHARACTERISTIC": "подвал",
+        "S": "54.6",
+        "FIRSTPRICE": "2280000,00",
+        "LASTPRICE": "2280000,00",
+        "DATEOFEVENT": "21.11.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "САО",
+        "WINNER": "Мезенцев В.А.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "2",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.508901",
+        "YWGS": "55.818112",
+        "GLOBALID": "89255160"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.642508,
+          55.756483
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "51",
+        "LOT": null,
+        "ADDRESS": "Колпачный пер., д.9А, стр.1",
+        "UNOM": null,
+        "CHARACTERISTIC": "3 этаж",
+        "S": "744.6",
+        "FIRSTPRICE": "119556420,00",
+        "LASTPRICE": "125534241,00",
+        "DATEOFEVENT": "23.09.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЦАО",
+        "WINNER": "ООО \"Упр.комп. Деловой Мир\"",
+        "ENCUMBRANCE": "Договор аренды от 10.08.2000 № 01-01292/00",
+        "NUMBEROFPARTICIPANTS": "2",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.642508",
+        "YWGS": "55.756483",
+        "GLOBALID": "88024317"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.896957,
+          55.712918
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "209",
+        "LOT": null,
+        "ADDRESS": "ул. Святоозерская, д.21",
+        "UNOM": null,
+        "CHARACTERISTIC": "1",
+        "S": "132.4",
+        "FIRSTPRICE": "9760000,00",
+        "LASTPRICE": "9760000,00",
+        "DATEOFEVENT": "27.12.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытй аукцион",
+        "OKRUG": null,
+        "WINNER": "Солнцев М.А.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "2",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.896957",
+        "YWGS": "55.712918",
+        "GLOBALID": "89611651"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.678313,
+          55.864143
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "145",
+        "LOT": null,
+        "ADDRESS": "ул. Коминтерна, д.9, корп.1",
+        "UNOM": null,
+        "CHARACTERISTIC": "подвал",
+        "S": "70.9",
+        "FIRSTPRICE": "4820000,00",
+        "LASTPRICE": "4820000,00",
+        "DATEOFEVENT": "26.11.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "СВАО",
+        "WINNER": "Прохватилов Р.И.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "2",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.678313",
+        "YWGS": "55.864143",
+        "GLOBALID": "89255186"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.674694,
+          55.73752
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "177",
+        "LOT": null,
+        "ADDRESS": "ул.Талалихина, д.2/1, стр.7",
+        "UNOM": null,
+        "CHARACTERISTIC": "цоколь",
+        "S": "121.6",
+        "FIRSTPRICE": "11000000,00",
+        "LASTPRICE": "20350000,00",
+        "DATEOFEVENT": "11.12.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЦАО",
+        "WINNER": "ООО \"Контур\"",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "8",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.674694",
+        "YWGS": "55.73752",
+        "GLOBALID": "89255619"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.714228,
+          55.806534
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "97",
+        "LOT": null,
+        "ADDRESS": "ул. Малая Черкизовская, д. 64",
+        "UNOM": null,
+        "CHARACTERISTIC": "1",
+        "S": "33.7",
+        "FIRSTPRICE": "2780000,00",
+        "LASTPRICE": "4031000,00",
+        "DATEOFEVENT": "06.11.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ВАО",
+        "WINNER": "Рубцов А.П.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "14",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.714228",
+        "YWGS": "55.806534",
+        "GLOBALID": "89255138"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.558446,
+          55.883374
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "22",
+        "LOT": null,
+        "ADDRESS": "ул. Дубнинская, д.32",
+        "UNOM": "2109638",
+        "CHARACTERISTIC": "1 этаж",
+        "S": "51.6",
+        "FIRSTPRICE": "2010000,00",
+        "LASTPRICE": "3919500,00",
+        "DATEOFEVENT": "16.07.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "САО",
+        "WINNER": "Жаров А.М.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "9",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.558446",
+        "YWGS": "55.883374",
+        "GLOBALID": "89255126"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.162752,
+          55.972081
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "49",
+        "LOT": null,
+        "ADDRESS": "Зеленоград, корп.2013",
+        "UNOM": null,
+        "CHARACTERISTIC": "1 этаж",
+        "S": "73.7",
+        "FIRSTPRICE": "5750000,00",
+        "LASTPRICE": "7762500,00",
+        "DATEOFEVENT": "03.09.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЗелАО",
+        "WINNER": "Анищенко А.В.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "6",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.162752",
+        "YWGS": "55.972081",
+        "GLOBALID": "88024315"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.566883,
+          55.897761
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "87",
+        "LOT": null,
+        "ADDRESS": "ул. Череповецкая, д. 6",
+        "UNOM": null,
+        "CHARACTERISTIC": "подвал",
+        "S": "42.0",
+        "FIRSTPRICE": "3100000,00",
+        "LASTPRICE": "3255000,00",
+        "DATEOFEVENT": "30.10.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЮАО",
+        "WINNER": "Курбанов  М.Ф.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "3",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.566883",
+        "YWGS": "55.897761",
+        "GLOBALID": "89255128"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.921476,
+          55.70245
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "191",
+        "LOT": null,
+        "ADDRESS": "Защитников Москвы просп., д.13",
+        "UNOM": null,
+        "CHARACTERISTIC": "1",
+        "S": "62.9",
+        "FIRSTPRICE": "5490000,00",
+        "LASTPRICE": "7137000,00",
+        "DATEOFEVENT": "17.12.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЮВАО",
+        "WINNER": "Яковлев С.В.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "8",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.921476",
+        "YWGS": "55.70245",
+        "GLOBALID": "89255634"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.77541,
+          55.703605
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "24",
+        "LOT": null,
+        "ADDRESS": "Волгоградский просп., д.108",
+        "UNOM": "2128659",
+        "CHARACTERISTIC": "подвал, 1 и 2 этажи, антресоль",
+        "S": "567.4",
+        "FIRSTPRICE": "56721420,00",
+        "LASTPRICE": "79409988,00",
+        "DATEOFEVENT": "16.07.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЮВАО",
+        "WINNER": "Ченцов А.М.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "4",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.77541",
+        "YWGS": "55.703605",
+        "GLOBALID": "87708690"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.476834,
+          55.771042
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "16",
+        "LOT": null,
+        "ADDRESS": "ул. Народного Ополчения, д.8",
+        "UNOM": "15779",
+        "CHARACTERISTIC": "цоколь",
+        "S": "85.9",
+        "FIRSTPRICE": "6450000,00",
+        "LASTPRICE": "6450000,00",
+        "DATEOFEVENT": "09.07.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "СЗАО",
+        "WINNER": "Фадеев П.А.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "4",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.476834",
+        "YWGS": "55.771042",
+        "GLOBALID": "87708682"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.402593,
+          55.891543
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "39",
+        "LOT": null,
+        "ADDRESS": "ул. Соловьиная Роща, д.8, корп.2",
+        "UNOM": null,
+        "CHARACTERISTIC": "1 этаж",
+        "S": "93.7",
+        "FIRSTPRICE": "8190000,00",
+        "LASTPRICE": "8190000,00",
+        "DATEOFEVENT": "14.08.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "СЗАО",
+        "WINNER": "Торосян А.Р.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "3",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.402593",
+        "YWGS": "55.891543",
+        "GLOBALID": "88024305"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.438562,
+          55.861644
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "187",
+        "LOT": null,
+        "ADDRESS": "ул. Планерная, д.12, корп.4",
+        "UNOM": null,
+        "CHARACTERISTIC": "1",
+        "S": "32.8",
+        "FIRSTPRICE": "2960000,00",
+        "LASTPRICE": "4440000,00",
+        "DATEOFEVENT": "17.12.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "СЗАО",
+        "WINNER": "ЗАО \"НТП Финанс\"",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "19",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.438562",
+        "YWGS": "55.861644",
+        "GLOBALID": "89255630"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.461628,
+          55.730549
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "12",
+        "LOT": null,
+        "ADDRESS": "ул. Курина Герасима, д. 44, корп. 1",
+        "UNOM": "72079",
+        "CHARACTERISTIC": "этаж 1, пом. V, ком. 1-7, пом. VI, ком. 4",
+        "S": "110.9",
+        "FIRSTPRICE": "13546400,00",
+        "LASTPRICE": "13546400,00",
+        "DATEOFEVENT": "21.05.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЗАО",
+        "WINNER": "Глушницкий В.О.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "3",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.461628",
+        "YWGS": "55.730549",
+        "GLOBALID": "87708678"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.627189,
+          55.878174
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "176",
+        "LOT": null,
+        "ADDRESS": "ул. Молодцова, д.25, корп.2",
+        "UNOM": null,
+        "CHARACTERISTIC": "1",
+        "S": "172.9",
+        "FIRSTPRICE": "12300000,00",
+        "LASTPRICE": "12300000,00",
+        "DATEOFEVENT": "11.12.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "СВАО",
+        "WINNER": "ООО \"Контур\"",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "2",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.627189",
+        "YWGS": "55.878174",
+        "GLOBALID": "89255617"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.680843,
+          55.873315
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "128",
+        "LOT": null,
+        "ADDRESS": "ул. Изумрудная, д.13, корп. 2",
+        "UNOM": null,
+        "CHARACTERISTIC": "1",
+        "S": "31.9",
+        "FIRSTPRICE": "2730000,00",
+        "LASTPRICE": "3549000,00",
+        "DATEOFEVENT": "21.11.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "СВАО",
+        "WINNER": "Назарян Г.А.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "9",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.680843",
+        "YWGS": "55.873315",
+        "GLOBALID": "89255169"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.753186,
+          55.736283
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "92",
+        "LOT": null,
+        "ADDRESS": "Перовское ш., д. 18/1",
+        "UNOM": null,
+        "CHARACTERISTIC": "1",
+        "S": "72.8",
+        "FIRSTPRICE": "6610000,00",
+        "LASTPRICE": "6610000,00",
+        "DATEOFEVENT": "30.10.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЮВАО",
+        "WINNER": "Набатов А.Л.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "2",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.753186",
+        "YWGS": "55.736283",
+        "GLOBALID": "89255133"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.422322,
+          55.733419
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "13",
+        "LOT": null,
+        "ADDRESS": "ул. Молодогвардейская, д. 19, корп. 1",
+        "UNOM": "14995",
+        "CHARACTERISTIC": "этаж 1, пом. X, ком. 1-4",
+        "S": "79.8",
+        "FIRSTPRICE": "6973800,00",
+        "LASTPRICE": "6973800,00",
+        "DATEOFEVENT": "21.05.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЗАО",
+        "WINNER": "Кабисова Д.И.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "3",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.422322",
+        "YWGS": "55.733419",
+        "GLOBALID": "87708679"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.710509,
+          55.819458
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "28",
+        "LOT": null,
+        "ADDRESS": "Погонный пр., д.14",
+        "UNOM": "260019",
+        "CHARACTERISTIC": "1 этаж",
+        "S": "134.0",
+        "FIRSTPRICE": "11460000,00",
+        "LASTPRICE": "11460000,00",
+        "DATEOFEVENT": "23.07.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ВАО",
+        "WINNER": "ООО \"КАРАТ\"",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "2",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.710509",
+        "YWGS": "55.819458",
+        "GLOBALID": "87708694"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.170412,
+          55.99217
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "120",
+        "LOT": null,
+        "ADDRESS": "Зеленоград, корп.1131",
+        "UNOM": null,
+        "CHARACTERISTIC": "1",
+        "S": "23.1",
+        "FIRSTPRICE": "1540000,00",
+        "LASTPRICE": "2618000,00",
+        "DATEOFEVENT": "21.11.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЗелАО",
+        "WINNER": "Ищук И.Б.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "5",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.170412",
+        "YWGS": "55.99217",
+        "GLOBALID": "89255161"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.594524,
+          55.865183
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "50",
+        "LOT": null,
+        "ADDRESS": "ул. Каргопольская, д.18",
+        "UNOM": null,
+        "CHARACTERISTIC": "1 этаж",
+        "S": "23.0",
+        "FIRSTPRICE": "2640000,00",
+        "LASTPRICE": "3300000,00",
+        "DATEOFEVENT": "03.09.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "СВАО",
+        "WINNER": "Медведицков М.Г.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "5",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.594524",
+        "YWGS": "55.865183",
+        "GLOBALID": "88024316"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.565323,
+          55.814092
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "213",
+        "LOT": null,
+        "ADDRESS": "ул. Тимирязевская, д.23",
+        "UNOM": null,
+        "CHARACTERISTIC": "подвал",
+        "S": "85.8",
+        "FIRSTPRICE": "5610000,00",
+        "LASTPRICE": "5610000,00",
+        "DATEOFEVENT": "27.12.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытй аукцион",
+        "OKRUG": "САО",
+        "WINNER": "Григорьев А.Г.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "2",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.565323",
+        "YWGS": "55.814092",
+        "GLOBALID": "89611670"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.552674,
+          55.867785
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "201",
+        "LOT": null,
+        "ADDRESS": "Рогачевский пер., д.4, корп.1",
+        "UNOM": null,
+        "CHARACTERISTIC": "1",
+        "S": "120.0",
+        "FIRSTPRICE": "11100000,00",
+        "LASTPRICE": "17760000,00",
+        "DATEOFEVENT": "18.12.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытй аукцион",
+        "OKRUG": "САО",
+        "WINNER": "Арустамов В.И.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "4",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.552674",
+        "YWGS": "55.867785",
+        "GLOBALID": "89611622"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.452895,
+          55.833601
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "57",
+        "LOT": null,
+        "ADDRESS": "ул. Свободы, д. 23",
+        "UNOM": null,
+        "CHARACTERISTIC": "подвал",
+        "S": "103.5",
+        "FIRSTPRICE": "6480000,00",
+        "LASTPRICE": "6480000,00",
+        "DATEOFEVENT": "25.09.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "СЗАО",
+        "WINNER": "Игнатенко Ю.И.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "2",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.452895",
+        "YWGS": "55.833601",
+        "GLOBALID": "88024323"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.92091,
+          55.686158
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "95",
+        "LOT": null,
+        "ADDRESS": "ул. 2-я Вольская, д. 20",
+        "UNOM": null,
+        "CHARACTERISTIC": "1",
+        "S": "73.3",
+        "FIRSTPRICE": "5990000,00",
+        "LASTPRICE": "5990000,00",
+        "DATEOFEVENT": "06.11.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЮВАО",
+        "WINNER": "ООО \"Контур\"",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "2",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.92091",
+        "YWGS": "55.686158",
+        "GLOBALID": "89255136"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.648774,
+          55.881434
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "105",
+        "LOT": null,
+        "ADDRESS": "пр-д  Шокальского, д. 31, корп. 1",
+        "UNOM": null,
+        "CHARACTERISTIC": "1",
+        "S": "125.5",
+        "FIRSTPRICE": "11800000,00",
+        "LASTPRICE": "11800000,00",
+        "DATEOFEVENT": "12.11.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "СВАО",
+        "WINNER": "Гуськов А.Е.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "2",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.648774",
+        "YWGS": "55.881434",
+        "GLOBALID": "89255146"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.615267,
+          55.718432
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "171",
+        "LOT": null,
+        "ADDRESS": "ул. Хавская, д.3, корп.1",
+        "UNOM": null,
+        "CHARACTERISTIC": "1",
+        "S": "97.7",
+        "FIRSTPRICE": "7360000,00",
+        "LASTPRICE": "8096000,00",
+        "DATEOFEVENT": "10.12.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЮАО",
+        "WINNER": "ООО \"Арт-Групп\"",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "2",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.615267",
+        "YWGS": "55.718432",
+        "GLOBALID": "89255612"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.518818,
+          55.667075
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "65",
+        "LOT": null,
+        "ADDRESS": "ул. Новаторов, д. 4, корп. 4",
+        "UNOM": null,
+        "CHARACTERISTIC": "1 этаж",
+        "S": "71.7",
+        "FIRSTPRICE": "7850000,00",
+        "LASTPRICE": "8242500,00",
+        "DATEOFEVENT": "27.09.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЮЗАО",
+        "WINNER": "Горбань Д.В.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "4",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.518818",
+        "YWGS": "55.667075",
+        "GLOBALID": "88024331"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.825336,
+          55.718453
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "44",
+        "LOT": null,
+        "ADDRESS": "ул. Вешняковская, д.39Б, стр.1",
+        "UNOM": null,
+        "CHARACTERISTIC": "1 этаж",
+        "S": "121.3",
+        "FIRSTPRICE": "14000000,00",
+        "LASTPRICE": "28700000,00",
+        "DATEOFEVENT": "22.08.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ВАО",
+        "WINNER": "ООО \"Прод-М\"",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "11",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.825336",
+        "YWGS": "55.718453",
+        "GLOBALID": "88024310"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.920622,
+          55.704226
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "196",
+        "LOT": null,
+        "ADDRESS": "Рождественская ул., д. 18",
+        "UNOM": null,
+        "CHARACTERISTIC": "1",
+        "S": "34.0",
+        "FIRSTPRICE": "3040000,00",
+        "LASTPRICE": "3040000,00",
+        "DATEOFEVENT": "17.12.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЮВАО",
+        "WINNER": "Сигунов А.Г.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "4",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.920622",
+        "YWGS": "55.704226",
+        "GLOBALID": "89255639"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.420433,
+          55.833762
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "10",
+        "LOT": null,
+        "ADDRESS": "1-й Тушинский пер., д. 8, корп. 1",
+        "UNOM": "26479",
+        "CHARACTERISTIC": "цоколь, пом. I, ком. 1-15",
+        "S": "103.7",
+        "FIRSTPRICE": "10041800,00",
+        "LASTPRICE": "10041800,00",
+        "DATEOFEVENT": "21.05.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "СЗАО",
+        "WINNER": "ООО \"Экономикс\"",
+        "ENCUMBRANCE": "Договор аренды от 30.09.2004 № 09-00540/04",
+        "NUMBEROFPARTICIPANTS": "2",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.420433",
+        "YWGS": "55.833762",
+        "GLOBALID": "87708676"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.351471,
+          55.834414
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "90",
+        "LOT": null,
+        "ADDRESS": "Волоцкий пер., д.13, корп. 2",
+        "UNOM": null,
+        "CHARACTERISTIC": "1",
+        "S": "35.6",
+        "FIRSTPRICE": "3080000,00",
+        "LASTPRICE": "3696000,00",
+        "DATEOFEVENT": "30.10.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЮЗАО",
+        "WINNER": "Морозова А.Г.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "3",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.351471",
+        "YWGS": "55.834414",
+        "GLOBALID": "89255131"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.644013,
+          55.855722
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "36",
+        "LOT": null,
+        "ADDRESS": "пр. Русанова, д.9",
+        "UNOM": null,
+        "CHARACTERISTIC": "1 этаж",
+        "S": "31.7",
+        "FIRSTPRICE": "2830000,00",
+        "LASTPRICE": "4952500,00",
+        "DATEOFEVENT": "14.08.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "СВАО",
+        "WINNER": "Аврелькин А.В.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "17",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.644013",
+        "YWGS": "55.855722",
+        "GLOBALID": "88024302"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.518818,
+          55.667075
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "64",
+        "LOT": null,
+        "ADDRESS": "ул. Новаторов, д. 4, корп. 4",
+        "UNOM": null,
+        "CHARACTERISTIC": "1 этаж",
+        "S": "108.9",
+        "FIRSTPRICE": "11700000,00",
+        "LASTPRICE": "12870000,00",
+        "DATEOFEVENT": "27.09.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЮЗАО",
+        "WINNER": "Дамиров Ш.М.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "5",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.518818",
+        "YWGS": "55.667075",
+        "GLOBALID": "88024330"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.515887,
+          55.649641
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "67",
+        "LOT": null,
+        "ADDRESS": "ул. Волгина Академика, д. 15, корп. 3",
+        "UNOM": null,
+        "CHARACTERISTIC": "1 этаж",
+        "S": "95.0",
+        "FIRSTPRICE": "9900000,00",
+        "LASTPRICE": "9900000,00",
+        "DATEOFEVENT": "27.09.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЮЗАО",
+        "WINNER": "Меркулов А.Г.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "2",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.515887",
+        "YWGS": "55.649641",
+        "GLOBALID": "88024333"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.437947,
+          55.72103
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "9",
+        "LOT": null,
+        "ADDRESS": "Можайское ш., д. 9",
+        "UNOM": "14889",
+        "CHARACTERISTIC": "этаж 1, пом. VII, ком. 1-21",
+        "S": "146.9",
+        "FIRSTPRICE": "19906600,00",
+        "LASTPRICE": "45785180,00",
+        "DATEOFEVENT": "21.05.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЗАО",
+        "WINNER": "Гусер Р.В.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "9",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.437947",
+        "YWGS": "55.72103",
+        "GLOBALID": "87708675"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.655455,
+          55.811474
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "43",
+        "LOT": null,
+        "ADDRESS": "ул. Павла Корчагина, д.2/1",
+        "UNOM": null,
+        "CHARACTERISTIC": "1 этаж",
+        "S": "265.9",
+        "FIRSTPRICE": "28700000,00",
+        "LASTPRICE": "28700000,00",
+        "DATEOFEVENT": "22.08.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "СВАО",
+        "WINNER": "ООО \"ТК \"Суминистро\"",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "2",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.655455",
+        "YWGS": "55.811474",
+        "GLOBALID": "88024309"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.345914,
+          55.847138
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "108",
+        "LOT": null,
+        "ADDRESS": "ул.Барышиха, д. 28",
+        "UNOM": null,
+        "CHARACTERISTIC": "1",
+        "S": "31.7",
+        "FIRSTPRICE": "2740000,00",
+        "LASTPRICE": "5069000,00",
+        "DATEOFEVENT": "19.11.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "СЗАО",
+        "WINNER": "ООО \"САДКО ПЛЮС\"",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "16",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.345914",
+        "YWGS": "55.847138",
+        "GLOBALID": "89255149"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.717205,
+          55.812188
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "162",
+        "LOT": null,
+        "ADDRESS": "ул. Бойцовая, д.17, корп.3",
+        "UNOM": null,
+        "CHARACTERISTIC": "1",
+        "S": "37.2",
+        "FIRSTPRICE": "2900000,00",
+        "LASTPRICE": "4060000,00",
+        "DATEOFEVENT": "10.12.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ВАО",
+        "WINNER": "ООО \"МАКС М\"",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "12",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.717205",
+        "YWGS": "55.812188",
+        "GLOBALID": "89255603"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.671876,
+          55.707726
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "161",
+        "LOT": null,
+        "ADDRESS": "6-я Кожуховская ул., д.11. корп.2",
+        "UNOM": null,
+        "CHARACTERISTIC": "1",
+        "S": "121.3",
+        "FIRSTPRICE": "11800000,00",
+        "LASTPRICE": "13570000,00",
+        "DATEOFEVENT": "10.12.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЮВАО",
+        "WINNER": "Овасанян Н.Ш.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "3",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.671876",
+        "YWGS": "55.707726",
+        "GLOBALID": "89255602"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.542131,
+          55.760052
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "203",
+        "LOT": null,
+        "ADDRESS": "Красногвардейский бул., д.7А",
+        "UNOM": null,
+        "CHARACTERISTIC": "1",
+        "S": "76.0",
+        "FIRSTPRICE": "9930000,00",
+        "LASTPRICE": "9930000,00",
+        "DATEOFEVENT": "18.12.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытй аукцион",
+        "OKRUG": "ЦАО",
+        "WINNER": "Мурсалов К.М.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "2",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.542131",
+        "YWGS": "55.760052",
+        "GLOBALID": "89611625"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.55816,
+          55.864999
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "179",
+        "LOT": null,
+        "ADDRESS": "Бескудниковский бул., д.19, корп.2",
+        "UNOM": null,
+        "CHARACTERISTIC": "1",
+        "S": "80.6",
+        "FIRSTPRICE": "6890000,00",
+        "LASTPRICE": "6890000,00",
+        "DATEOFEVENT": "12.12.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "САО",
+        "WINNER": "Ильясов А.И.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "2",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.55816",
+        "YWGS": "55.864999",
+        "GLOBALID": "89255621"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.659739,
+          55.869093
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "84",
+        "LOT": null,
+        "ADDRESS": "ул.Менжинского, д. 23, корп. 2",
+        "UNOM": null,
+        "CHARACTERISTIC": "1 этаж",
+        "S": "31.7",
+        "FIRSTPRICE": "3030000,00",
+        "LASTPRICE": "3939000,00",
+        "DATEOFEVENT": "23.10.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "СВАО",
+        "WINNER": "ООО \"Виктория\"",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "11",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.659739",
+        "YWGS": "55.869093",
+        "GLOBALID": "88024350"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.209966,
+          55.997875
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "194",
+        "LOT": null,
+        "ADDRESS": "Зеленоград, корп.407",
+        "UNOM": null,
+        "CHARACTERISTIC": "2",
+        "S": "36.4",
+        "FIRSTPRICE": "2420000,00",
+        "LASTPRICE": "2783000,00",
+        "DATEOFEVENT": "17.12.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЗелАО",
+        "WINNER": "ООО \"ТК Ромакс\"",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "5",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.209966",
+        "YWGS": "55.997875",
+        "GLOBALID": "89255637"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.668764,
+          55.592745
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "157",
+        "LOT": null,
+        "ADDRESS": "Липецкая ул., д.24, корп.2",
+        "UNOM": null,
+        "CHARACTERISTIC": "1",
+        "S": "46.4",
+        "FIRSTPRICE": "3730000,00",
+        "LASTPRICE": "4289500,00",
+        "DATEOFEVENT": "05.12.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЮАО",
+        "WINNER": "Циткилова Е.В.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "2",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.668764",
+        "YWGS": "55.592745",
+        "GLOBALID": "89255198"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.554386,
+          55.687833
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "66",
+        "LOT": null,
+        "ADDRESS": "ул. Вавилова, д.60, корп. 2",
+        "UNOM": null,
+        "CHARACTERISTIC": "подвал",
+        "S": "19.6",
+        "FIRSTPRICE": "1050000,00",
+        "LASTPRICE": "1050000,00",
+        "DATEOFEVENT": "27.09.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЮЗАО",
+        "WINNER": "Варьян С.А.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "3",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.554386",
+        "YWGS": "55.687833",
+        "GLOBALID": "88024332"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.53862,
+          55.86725
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "135",
+        "LOT": null,
+        "ADDRESS": "Коровинское шоссе, д.7, корп.1",
+        "UNOM": null,
+        "CHARACTERISTIC": "1",
+        "S": "79.3",
+        "FIRSTPRICE": "6760000,00",
+        "LASTPRICE": "6760000,00",
+        "DATEOFEVENT": "22.11.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "САО",
+        "WINNER": "Мамурина Л.И.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "3",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.53862",
+        "YWGS": "55.86725",
+        "GLOBALID": "89255176"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.537265,
+          55.863766
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "86",
+        "LOT": null,
+        "ADDRESS": "Дегунинская ул., д. 3, корп. 2",
+        "UNOM": null,
+        "CHARACTERISTIC": "1",
+        "S": "70.1",
+        "FIRSTPRICE": "6300000,00",
+        "LASTPRICE": "6615000,00",
+        "DATEOFEVENT": "30.10.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЮЗАО",
+        "WINNER": "Андроцкий  В.В.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "3",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.537265",
+        "YWGS": "55.863766",
+        "GLOBALID": "89255127"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.582848,
+          55.805962
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "79",
+        "LOT": null,
+        "ADDRESS": "ул. Бутырская, д. 84",
+        "UNOM": null,
+        "CHARACTERISTIC": "подвал",
+        "S": "133.6",
+        "FIRSTPRICE": "9610000,00",
+        "LASTPRICE": "9610000,00",
+        "DATEOFEVENT": "17.10.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "СВАО",
+        "WINNER": "Никитин Ю.В.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "2",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.582848",
+        "YWGS": "55.805962",
+        "GLOBALID": "88024345"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.526525,
+          55.681328
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "74",
+        "LOT": null,
+        "ADDRESS": "ул. Ульяновой Марии, д. 8",
+        "UNOM": null,
+        "CHARACTERISTIC": "цоколь",
+        "S": "58.5",
+        "FIRSTPRICE": "4840000,00",
+        "LASTPRICE": "4840000,00",
+        "DATEOFEVENT": "09.10.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЮЗАО",
+        "WINNER": "Кунин А.В.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "3",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.526525",
+        "YWGS": "55.681328",
+        "GLOBALID": "88024340"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.447223,
+          55.827095
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "138",
+        "LOT": null,
+        "ADDRESS": "ул. Вишневая, д.2/14",
+        "UNOM": null,
+        "CHARACTERISTIC": "1",
+        "S": "149.4",
+        "FIRSTPRICE": "14100000,00",
+        "LASTPRICE": "27495000,00",
+        "DATEOFEVENT": "22.11.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "СЗАО",
+        "WINNER": "ООО \"САДКО ПЛЮС\"",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "11",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.447223",
+        "YWGS": "55.827095",
+        "GLOBALID": "89255179"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.562034,
+          55.725137
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "14",
+        "LOT": null,
+        "ADDRESS": "ул. Усачева, д.62",
+        "UNOM": "26854",
+        "CHARACTERISTIC": "подвал",
+        "S": "64.7",
+        "FIRSTPRICE": "4260000,00",
+        "LASTPRICE": "4260000,00",
+        "DATEOFEVENT": "09.07.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЦАО",
+        "WINNER": "ООО \"Торговая компания \"Суминистро\"",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "2",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.562034",
+        "YWGS": "55.725137",
+        "GLOBALID": "87708680"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.540663,
+          55.738827
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "216",
+        "LOT": null,
+        "ADDRESS": "ул. Студенческая, д.35, стр.1",
+        "UNOM": null,
+        "CHARACTERISTIC": "подвал",
+        "S": "99.8",
+        "FIRSTPRICE": "7370000,00",
+        "LASTPRICE": "7370000,00",
+        "DATEOFEVENT": "27.12.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытй аукцион",
+        "OKRUG": "ЗАО",
+        "WINNER": "Игнатенко Ю.В.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "2",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.540663",
+        "YWGS": "55.738827",
+        "GLOBALID": "89611704"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.616347,
+          55.717368
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "160",
+        "LOT": null,
+        "ADDRESS": "Шухова ул., д.10",
+        "UNOM": null,
+        "CHARACTERISTIC": "подвал",
+        "S": "164.6",
+        "FIRSTPRICE": "10100000,00",
+        "LASTPRICE": "12120000,00",
+        "DATEOFEVENT": "05.12.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЮАО",
+        "WINNER": "Мальцева Т.Ю,",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "2",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.616347",
+        "YWGS": "55.717368",
+        "GLOBALID": "89255201"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.760727,
+          55.632628
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "85",
+        "LOT": null,
+        "ADDRESS": "ул. Братеевская, д. 10, корп. 1",
+        "UNOM": null,
+        "CHARACTERISTIC": "1 этаж",
+        "S": "55.4",
+        "FIRSTPRICE": "5020000,00",
+        "LASTPRICE": "12550000,00",
+        "DATEOFEVENT": "23.10.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЮАО",
+        "WINNER": "Кишкис А.Г.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "18",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.760727",
+        "YWGS": "55.632628",
+        "GLOBALID": "88024351"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.474184,
+          55.644777
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "61",
+        "LOT": null,
+        "ADDRESS": "Ленинский пр-т, д. 131",
+        "UNOM": null,
+        "CHARACTERISTIC": "1 этаж",
+        "S": "203.2",
+        "FIRSTPRICE": "30400000,00",
+        "LASTPRICE": "30400000,00",
+        "DATEOFEVENT": "27.09.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЮЗАО",
+        "WINNER": "Меркулов А.Г.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "2",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.474184",
+        "YWGS": "55.644777",
+        "GLOBALID": "88024327"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.149673,
+          55.977828
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "42",
+        "LOT": null,
+        "ADDRESS": "Зеленоград, корп. 1562",
+        "UNOM": null,
+        "CHARACTERISTIC": "1 этаж",
+        "S": "31.5",
+        "FIRSTPRICE": "2710000,00",
+        "LASTPRICE": "3252000,00",
+        "DATEOFEVENT": "22.08.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЗелАО",
+        "WINNER": "Солдатов А.Н.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "3",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.149673",
+        "YWGS": "55.977828",
+        "GLOBALID": "88024308"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.56786,
+          55.546994
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "208",
+        "LOT": null,
+        "ADDRESS": "ул. Изюмская, д.47, корп.2",
+        "UNOM": null,
+        "CHARACTERISTIC": "1",
+        "S": "83.0",
+        "FIRSTPRICE": "6660000,00",
+        "LASTPRICE": "8325000,00",
+        "DATEOFEVENT": "27.12.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытй аукцион",
+        "OKRUG": "ЮЗАО",
+        "WINNER": "ОАО \"НТП Финанс\"",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "4",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.56786",
+        "YWGS": "55.546994",
+        "GLOBALID": "89611647"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.718504,
+          55.751121
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "21",
+        "LOT": null,
+        "ADDRESS": "ш.Энтузиастов, д.24/43",
+        "UNOM": "30136",
+        "CHARACTERISTIC": "1 этаж",
+        "S": "50.7",
+        "FIRSTPRICE": "11894400,00",
+        "LASTPRICE": "32709600,00",
+        "DATEOFEVENT": "10.07.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЮВАО",
+        "WINNER": "ООО \"Олимп\"",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "20",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.718504",
+        "YWGS": "55.751121",
+        "GLOBALID": "87708687"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.628553,
+          55.771036
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "94",
+        "LOT": null,
+        "ADDRESS": "Большой Сухаревский пер., д. 15, стр. 2",
+        "UNOM": null,
+        "CHARACTERISTIC": "цоколь",
+        "S": "241.3",
+        "FIRSTPRICE": "24300000,00",
+        "LASTPRICE": "36450000,00",
+        "DATEOFEVENT": "06.11.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЦАО",
+        "WINNER": "ООО \"Стелла\"",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "3",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.628553",
+        "YWGS": "55.771036",
+        "GLOBALID": "89255135"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.410306,
+          55.733555
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "52",
+        "LOT": null,
+        "ADDRESS": "ул. Молодогвардейская, д.45",
+        "UNOM": null,
+        "CHARACTERISTIC": "1 этаж",
+        "S": "55.1",
+        "FIRSTPRICE": "5180000,00",
+        "LASTPRICE": "5180000,00",
+        "DATEOFEVENT": "23.09.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЗАО",
+        "WINNER": "Морозов С.В.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "8",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.410306",
+        "YWGS": "55.733555",
+        "GLOBALID": "88024318"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.790675,
+          55.6697
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "98",
+        "LOT": null,
+        "ADDRESS": "ул. Маршала Баграмяна, д. 8",
+        "UNOM": null,
+        "CHARACTERISTIC": "1",
+        "S": "81.3",
+        "FIRSTPRICE": "7210000,00",
+        "LASTPRICE": "7210000,00",
+        "DATEOFEVENT": "06.11.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЮВАО",
+        "WINNER": "Файзиев Г.Г.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "2",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.790675",
+        "YWGS": "55.6697",
+        "GLOBALID": "89255139"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.648774,
+          55.881434
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "71",
+        "LOT": null,
+        "ADDRESS": "пр. Шокальского, д.31, корп.1",
+        "UNOM": null,
+        "CHARACTERISTIC": "1 этаж",
+        "S": "133.9",
+        "FIRSTPRICE": "12900000,00",
+        "LASTPRICE": "16125000,00",
+        "DATEOFEVENT": "08.10.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "СВАО",
+        "WINNER": "ООО \"Адажио\"",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "3",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.648774",
+        "YWGS": "55.881434",
+        "GLOBALID": "88024337"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.688847,
+          55.872746
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "144",
+        "LOT": null,
+        "ADDRESS": "Янтарный пр., д.29",
+        "UNOM": null,
+        "CHARACTERISTIC": "1",
+        "S": "31.0",
+        "FIRSTPRICE": "2510000,00",
+        "LASTPRICE": "4016000,00",
+        "DATEOFEVENT": "22.11.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "СВАО",
+        "WINNER": "Титов А.С.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "13",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.688847",
+        "YWGS": "55.872746",
+        "GLOBALID": "89255185"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.620694,
+          55.896198
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "69",
+        "LOT": null,
+        "ADDRESS": "ул. Белозерская, д.19",
+        "UNOM": null,
+        "CHARACTERISTIC": "1 этаж",
+        "S": "16.9",
+        "FIRSTPRICE": "1370000,00",
+        "LASTPRICE": "1370000,00",
+        "DATEOFEVENT": "08.10.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "СВАО",
+        "WINNER": "Пронина Е.А.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "5",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.620694",
+        "YWGS": "55.896198",
+        "GLOBALID": "88024335"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.805901,
+          55.758472
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "106",
+        "LOT": null,
+        "ADDRESS": "ул. Мартеновская, д.5",
+        "UNOM": null,
+        "CHARACTERISTIC": "подвал",
+        "S": "135.3",
+        "FIRSTPRICE": "5590000,00",
+        "LASTPRICE": "5869500,00",
+        "DATEOFEVENT": "12.11.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ВАО",
+        "WINNER": "Усов Н.В.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "2",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.805901",
+        "YWGS": "55.758472",
+        "GLOBALID": "89255147"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.747031,
+          55.673224
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "47",
+        "LOT": null,
+        "ADDRESS": "ул.Судакова, д.11",
+        "UNOM": null,
+        "CHARACTERISTIC": "1 этаж",
+        "S": "46.6",
+        "FIRSTPRICE": "4130000,00",
+        "LASTPRICE": "4130000,00",
+        "DATEOFEVENT": "23.08.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЮВАО",
+        "WINNER": "Фейзиев Г.Г.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "4",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.747031",
+        "YWGS": "55.673224",
+        "GLOBALID": "88024313"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.654267,
+          55.823079
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "124",
+        "LOT": null,
+        "ADDRESS": "ул. Бориса Галушкина, д.14, корп.2",
+        "UNOM": null,
+        "CHARACTERISTIC": "1",
+        "S": "76.0",
+        "FIRSTPRICE": "5910000,00",
+        "LASTPRICE": "6796500,00",
+        "DATEOFEVENT": "21.11.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "СВАО",
+        "WINNER": "Кафырин А.Ю.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "7",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.654267",
+        "YWGS": "55.823079",
+        "GLOBALID": "89255165"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.179335,
+          55.978671
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "193",
+        "LOT": null,
+        "ADDRESS": "Зеленоград, корп.839",
+        "UNOM": null,
+        "CHARACTERISTIC": "1",
+        "S": "42.5",
+        "FIRSTPRICE": "3190000,00",
+        "LASTPRICE": "4306500,00",
+        "DATEOFEVENT": "17.12.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЗелАО",
+        "WINNER": "Такаев Н.И.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "5",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.179335",
+        "YWGS": "55.978671",
+        "GLOBALID": "89255636"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.532457,
+          55.681268
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "164",
+        "LOT": null,
+        "ADDRESS": "Ленинский просп., д.82/2",
+        "UNOM": null,
+        "CHARACTERISTIC": "подвал",
+        "S": "224.3",
+        "FIRSTPRICE": "14050000,00",
+        "LASTPRICE": "14050000,00",
+        "DATEOFEVENT": "10.12.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЮЗАО",
+        "WINNER": "ООО \"МАКС М\"",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "2",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.532457",
+        "YWGS": "55.681268",
+        "GLOBALID": "89255605"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.574427,
+          55.705296
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "55",
+        "LOT": null,
+        "ADDRESS": "Ленинский пр-т, д. 36",
+        "UNOM": null,
+        "CHARACTERISTIC": "цоколь",
+        "S": "96.1",
+        "FIRSTPRICE": "8210000,00",
+        "LASTPRICE": "10262500,00",
+        "DATEOFEVENT": "25.09.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЮЗАО",
+        "WINNER": "ООО \"М-Актив\"",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "4",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.574427",
+        "YWGS": "55.705296",
+        "GLOBALID": "88024321"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.582848,
+          55.805962
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "56",
+        "LOT": null,
+        "ADDRESS": "ул. Бутырская, д.84",
+        "UNOM": null,
+        "CHARACTERISTIC": "1 этаж",
+        "S": "30.3",
+        "FIRSTPRICE": "3050000,00",
+        "LASTPRICE": "8082500,00",
+        "DATEOFEVENT": "25.09.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "СВАО",
+        "WINNER": "ООО \"Перспектива\"",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "21",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.582848",
+        "YWGS": "55.805962",
+        "GLOBALID": "88024322"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.607513,
+          55.854182
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "211",
+        "LOT": null,
+        "ADDRESS": "Отрадный пр., д.3",
+        "UNOM": null,
+        "CHARACTERISTIC": "1",
+        "S": "226.5",
+        "FIRSTPRICE": "20900000,00",
+        "LASTPRICE": "20900000,00",
+        "DATEOFEVENT": "27.12.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытй аукцион",
+        "OKRUG": "СВАО",
+        "WINNER": "Ивкина В.И.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "2",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.607513",
+        "YWGS": "55.854182",
+        "GLOBALID": "89611668"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.187009,
+          55.976812
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "189",
+        "LOT": null,
+        "ADDRESS": "Зеленоград, корп.813",
+        "UNOM": null,
+        "CHARACTERISTIC": "2",
+        "S": "44.4",
+        "FIRSTPRICE": "2960000,00",
+        "LASTPRICE": "3700000,00",
+        "DATEOFEVENT": "17.12.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЗелАО",
+        "WINNER": "Марченков А.А.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "8",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.187009",
+        "YWGS": "55.976812",
+        "GLOBALID": "89255632"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.650307,
+          55.737027
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "185",
+        "LOT": null,
+        "ADDRESS": "Краснохолмская наб., д.1/15",
+        "UNOM": null,
+        "CHARACTERISTIC": "1",
+        "S": "17.3",
+        "FIRSTPRICE": "1390000,00",
+        "LASTPRICE": "7784000,00",
+        "DATEOFEVENT": "17.12.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЦАО",
+        "WINNER": "Камберов М.Б.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "38",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.650307",
+        "YWGS": "55.737027",
+        "GLOBALID": "89255628"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.410306,
+          55.733555
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "217",
+        "LOT": null,
+        "ADDRESS": "ул. Молодогвардейская, д.45",
+        "UNOM": null,
+        "CHARACTERISTIC": "подвал",
+        "S": "151.1",
+        "FIRSTPRICE": "10500000,00",
+        "LASTPRICE": "12600000,00",
+        "DATEOFEVENT": "27.12.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытй аукцион",
+        "OKRUG": "ЗАО",
+        "WINNER": "Игнатенко Ю.В.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "6",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.410306",
+        "YWGS": "55.733555",
+        "GLOBALID": "89611705"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.399577,
+          55.839221
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "125",
+        "LOT": null,
+        "ADDRESS": "ул. Василия  Петушкова, д.17",
+        "UNOM": null,
+        "CHARACTERISTIC": "1",
+        "S": "44.5",
+        "FIRSTPRICE": "3800000,00",
+        "LASTPRICE": "3800000,00",
+        "DATEOFEVENT": "21.11.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "СЗАО",
+        "WINNER": "Мамурина Л.И.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "3",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.399577",
+        "YWGS": "55.839221",
+        "GLOBALID": "89255166"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.723816,
+          55.877095
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "93",
+        "LOT": null,
+        "ADDRESS": "ул. Проходчиков, д. 16",
+        "UNOM": null,
+        "CHARACTERISTIC": "1",
+        "S": "127.2",
+        "FIRSTPRICE": "9600000,00",
+        "LASTPRICE": "9600000,00",
+        "DATEOFEVENT": "30.10.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "СВАО",
+        "WINNER": "Ниишпапа А.Л.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "4",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.723816",
+        "YWGS": "55.877095",
+        "GLOBALID": "89255134"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.458514,
+          55.831755
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "173",
+        "LOT": null,
+        "ADDRESS": "ул. Большая Набережная, д.19",
+        "UNOM": null,
+        "CHARACTERISTIC": "1",
+        "S": "183.1",
+        "FIRSTPRICE": "13900000,00",
+        "LASTPRICE": "13900000,00",
+        "DATEOFEVENT": "11.12.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "СЗАО",
+        "WINNER": "ООО \"Контур\"",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "2",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.458514",
+        "YWGS": "55.831755",
+        "GLOBALID": "89255614"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.484817,
+          55.876221
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "77",
+        "LOT": null,
+        "ADDRESS": "ул. Дыбенко, д. 36, корп. 1",
+        "UNOM": null,
+        "CHARACTERISTIC": "1 этаж",
+        "S": "123.3",
+        "FIRSTPRICE": "10400000,00",
+        "LASTPRICE": "15600000,00",
+        "DATEOFEVENT": "17.10.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "САО",
+        "WINNER": "Полевщиков Д.В.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "6",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.484817",
+        "YWGS": "55.876221",
+        "GLOBALID": "88024343"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.431879,
+          55.86386
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "110",
+        "LOT": null,
+        "ADDRESS": "ул. Вилиса Лациса, д. 1, корп. 1",
+        "UNOM": null,
+        "CHARACTERISTIC": "1",
+        "S": "38.0",
+        "FIRSTPRICE": "3270000,00",
+        "LASTPRICE": "5722500,00",
+        "DATEOFEVENT": "19.11.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "СЗАО",
+        "WINNER": "ООО \"САДКО ПЛЮС\"",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "20",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.431879",
+        "YWGS": "55.86386",
+        "GLOBALID": "89255151"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.621569,
+          55.765362
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "168",
+        "LOT": null,
+        "ADDRESS": "Нижний Кисельный пер., д.3, стр.1",
+        "UNOM": null,
+        "CHARACTERISTIC": "подвал",
+        "S": "84.4",
+        "FIRSTPRICE": "6000000,00",
+        "LASTPRICE": "17700000,00",
+        "DATEOFEVENT": "10.12.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЦАО",
+        "WINNER": "ООО \"Арт-Групп\"",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "16",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.621569",
+        "YWGS": "55.765362",
+        "GLOBALID": "89255609"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.514309,
+          55.782253
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "156",
+        "LOT": null,
+        "ADDRESS": "ул. Куусинена, д.11",
+        "UNOM": null,
+        "CHARACTERISTIC": "подвал",
+        "S": "63.9",
+        "FIRSTPRICE": "4500000,00",
+        "LASTPRICE": "4950000,00",
+        "DATEOFEVENT": "05.12.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "САО",
+        "WINNER": "Обухов В.Н.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "3",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.514309",
+        "YWGS": "55.782253",
+        "GLOBALID": "89255197"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.820906,
+          55.742475
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "163",
+        "LOT": null,
+        "ADDRESS": "ул. Кетчерская, д.4А",
+        "UNOM": null,
+        "CHARACTERISTIC": "1",
+        "S": "130.2",
+        "FIRSTPRICE": "12500000,00",
+        "LASTPRICE": "26875000,00",
+        "DATEOFEVENT": "10.12.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ВАО",
+        "WINNER": "Рандюк А.М.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "9",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.820906",
+        "YWGS": "55.742475",
+        "GLOBALID": "89255604"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.184111,
+          55.980138
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "134",
+        "LOT": null,
+        "ADDRESS": "Зеленоград, корп.826",
+        "UNOM": null,
+        "CHARACTERISTIC": "1",
+        "S": "366.2",
+        "FIRSTPRICE": "32665940,00",
+        "LASTPRICE": "44099019,00",
+        "DATEOFEVENT": "22.11.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЗелАО",
+        "WINNER": "ООО \"Сателайт\"",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "2",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.184111",
+        "YWGS": "55.980138",
+        "GLOBALID": "89255175"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.557479,
+          55.845429
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "215",
+        "LOT": null,
+        "ADDRESS": "ул. Большая Академическая, д.83",
+        "UNOM": null,
+        "CHARACTERISTIC": "подвал",
+        "S": "98.2",
+        "FIRSTPRICE": "4960000,00",
+        "LASTPRICE": "4960000,00",
+        "DATEOFEVENT": "27.12.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытй аукцион",
+        "OKRUG": "САО",
+        "WINNER": "Кунин А.В.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "2",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.557479",
+        "YWGS": "55.845429",
+        "GLOBALID": "89611672"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.542776,
+          55.541807
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "46",
+        "LOT": null,
+        "ADDRESS": "Чечерский пр., д.12",
+        "UNOM": null,
+        "CHARACTERISTIC": "1 этаж",
+        "S": "46.1",
+        "FIRSTPRICE": "3870000,00",
+        "LASTPRICE": "3870000,00",
+        "DATEOFEVENT": "23.08.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЮЗАО",
+        "WINNER": "Оконенко Т.К.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "5",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.542776",
+        "YWGS": "55.541807",
+        "GLOBALID": "88024312"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.568421,
+          55.545065
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "182",
+        "LOT": null,
+        "ADDRESS": "ул. Изюмская, д.49, корп.3",
+        "UNOM": null,
+        "CHARACTERISTIC": "1",
+        "S": "35.2",
+        "FIRSTPRICE": "2810000,00",
+        "LASTPRICE": "3793500,00",
+        "DATEOFEVENT": "12.12.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЮЗАО",
+        "WINNER": "Маевский С.В.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "6",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.568421",
+        "YWGS": "55.545065",
+        "GLOBALID": "89255625"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.454098,
+          55.720721
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "137",
+        "LOT": null,
+        "ADDRESS": "ул. Ватутина, д.11",
+        "UNOM": null,
+        "CHARACTERISTIC": "1",
+        "S": "48.2",
+        "FIRSTPRICE": "5100000,00",
+        "LASTPRICE": "9180000,00",
+        "DATEOFEVENT": "22.11.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЗАО",
+        "WINNER": "Рябенко Г.В.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "14",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.454098",
+        "YWGS": "55.720721",
+        "GLOBALID": "89255178"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.192499,
+          55.980744
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "18",
+        "LOT": null,
+        "ADDRESS": "Зеленоград, корп.901",
+        "UNOM": "31089",
+        "CHARACTERISTIC": "1 этаж",
+        "S": "44.0",
+        "FIRSTPRICE": "2780000,00",
+        "LASTPRICE": "3753000,00",
+        "DATEOFEVENT": "10.07.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЗелАО",
+        "WINNER": "Третьякова М.Д.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "9",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.192499",
+        "YWGS": "55.980744",
+        "GLOBALID": "87708684"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.528766,
+          55.6409
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "147",
+        "LOT": null,
+        "ADDRESS": "ул. Миклухо-Маклая, д.30",
+        "UNOM": null,
+        "CHARACTERISTIC": "1",
+        "S": "237.0",
+        "FIRSTPRICE": "22500000,00",
+        "LASTPRICE": "22500000,00",
+        "DATEOFEVENT": "26.11.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЮЗАО",
+        "WINNER": "Джаниашвили А.Д.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "2",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.528766",
+        "YWGS": "55.6409",
+        "GLOBALID": "89255188"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.589782,
+          55.861936
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "152",
+        "LOT": null,
+        "ADDRESS": "ул. Каргопольская, д.7",
+        "UNOM": null,
+        "CHARACTERISTIC": "ЕОН",
+        "S": "313.1",
+        "FIRSTPRICE": "27015184,00",
+        "LASTPRICE": "27015184,00",
+        "DATEOFEVENT": "03.12.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "СВАО",
+        "WINNER": "ООО «АВ-терминал»",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "4",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": "С земельным участком по адресу: Москва, ул. Каргопольская, вл.7",
+        "XWGS": "37.589782",
+        "YWGS": "55.861936",
+        "GLOBALID": "89255193"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.558764,
+          55.872723
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "112",
+        "LOT": null,
+        "ADDRESS": "ул.Дубнинская, д. 53, корп. 2",
+        "UNOM": null,
+        "CHARACTERISTIC": "1",
+        "S": "63.6",
+        "FIRSTPRICE": "5690000,00",
+        "LASTPRICE": "8535000,00",
+        "DATEOFEVENT": "19.11.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "САО",
+        "WINNER": "Гуськов А.Е.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "8",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.558764",
+        "YWGS": "55.872723",
+        "GLOBALID": "89255153"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.166409,
+          55.971543
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "45",
+        "LOT": null,
+        "ADDRESS": "Зеленоград, корп. 2018",
+        "UNOM": null,
+        "CHARACTERISTIC": "1 этаж",
+        "S": "60.9",
+        "FIRSTPRICE": "4490000,00",
+        "LASTPRICE": "4490000,00",
+        "DATEOFEVENT": "22.08.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЗелАО",
+        "WINNER": "Ивкина Е.В.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "2",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.166409",
+        "YWGS": "55.971543",
+        "GLOBALID": "88024311"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.638565,
+          55.769069
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "151",
+        "LOT": null,
+        "ADDRESS": "Уланский пер., д.13, стр.4",
+        "UNOM": null,
+        "CHARACTERISTIC": "ЕОН",
+        "S": "139.8",
+        "FIRSTPRICE": "23200000,00",
+        "LASTPRICE": "35960000,00",
+        "DATEOFEVENT": "03.12.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЦАО",
+        "WINNER": "ООО «Ново-Маркет»",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "11",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": "С земельным участком по адресу: Москва, Уланский пер., вл.13, стр.4",
+        "XWGS": "37.638565",
+        "YWGS": "55.769069",
+        "GLOBALID": "89255192"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.611522,
+          55.596107
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "37",
+        "LOT": null,
+        "ADDRESS": "ул. Россошанская, д.9, корп.2",
+        "UNOM": null,
+        "CHARACTERISTIC": "1 этаж",
+        "S": "32.4",
+        "FIRSTPRICE": "2990000,00",
+        "LASTPRICE": "3289000,00",
+        "DATEOFEVENT": "14.08.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЮАО",
+        "WINNER": "Максимов В.Г.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "13",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.611522",
+        "YWGS": "55.596107",
+        "GLOBALID": "88024303"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.527372,
+          55.773695
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "206",
+        "LOT": null,
+        "ADDRESS": "ул. 5-я Магистральная, д.14, корп.2",
+        "UNOM": null,
+        "CHARACTERISTIC": "подвал",
+        "S": "71.7",
+        "FIRSTPRICE": "3960000,00",
+        "LASTPRICE": "5148000,00",
+        "DATEOFEVENT": "27.12.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытй аукцион",
+        "OKRUG": "САО",
+        "WINNER": "ОАО \"Каскад\"",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "6",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.527372",
+        "YWGS": "55.773695",
+        "GLOBALID": "89611645"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.638676,
+          55.774997
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "59",
+        "LOT": null,
+        "ADDRESS": "1-й Коптельский пер., д. 20",
+        "UNOM": null,
+        "CHARACTERISTIC": "1 этаж",
+        "S": "85.2",
+        "FIRSTPRICE": "9830000,00",
+        "LASTPRICE": "17202500,00",
+        "DATEOFEVENT": "27.09.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЦАО",
+        "WINNER": "Назаркин Д.В.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "22",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.638676",
+        "YWGS": "55.774997",
+        "GLOBALID": "88024325"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.644713,
+          55.717424
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "116",
+        "LOT": null,
+        "ADDRESS": "1-й Павелецкий пр., д. 1/42, корп. 2",
+        "UNOM": null,
+        "CHARACTERISTIC": "полу-подвал",
+        "S": "69.7",
+        "FIRSTPRICE": "5100000,00",
+        "LASTPRICE": "5100000,00",
+        "DATEOFEVENT": "19.11.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЮАО",
+        "WINNER": "ООО \"КОМПАНИЯ КРОНОС\"",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "2",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.644713",
+        "YWGS": "55.717424",
+        "GLOBALID": "89255157"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.696388,
+          55.877142
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "60",
+        "LOT": null,
+        "ADDRESS": "ул. Норильская, д. 6",
+        "UNOM": null,
+        "CHARACTERISTIC": "1 этаж",
+        "S": "23.3",
+        "FIRSTPRICE": "1870000,00",
+        "LASTPRICE": "2057000,00",
+        "DATEOFEVENT": "27.09.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "СВАО",
+        "WINNER": "Грибова Т.Н.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "5",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.696388",
+        "YWGS": "55.877142",
+        "GLOBALID": "88024326"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.556646,
+          55.767038
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "188",
+        "LOT": null,
+        "ADDRESS": "Большая Декабрьская ул., д.6",
+        "UNOM": null,
+        "CHARACTERISTIC": "подвал",
+        "S": "71.6",
+        "FIRSTPRICE": "6560000,00",
+        "LASTPRICE": "12136000,00",
+        "DATEOFEVENT": "17.12.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЦАО",
+        "WINNER": "ООО \"Каскад\"",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "20",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.556646",
+        "YWGS": "55.767038",
+        "GLOBALID": "89255631"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.56786,
+          55.546994
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "107",
+        "LOT": null,
+        "ADDRESS": "ул.Изюмская, д. 47, корп. 2",
+        "UNOM": null,
+        "CHARACTERISTIC": "1",
+        "S": "83.1",
+        "FIRSTPRICE": "6670000,00",
+        "LASTPRICE": "6670000,00",
+        "DATEOFEVENT": "19.11.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЮЗАО",
+        "WINNER": "ООО \"КОМПАНИЯ КРОНОС\"",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "2",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.56786",
+        "YWGS": "55.546994",
+        "GLOBALID": "89255148"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.587718,
+          55.880806
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "172",
+        "LOT": null,
+        "ADDRESS": "Алтуфьевское ш., д.56",
+        "UNOM": null,
+        "CHARACTERISTIC": "1",
+        "S": "39.9",
+        "FIRSTPRICE": "3240000,00",
+        "LASTPRICE": "3240000,00",
+        "DATEOFEVENT": "11.12.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "СВАО",
+        "WINNER": "Горячев А.С.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "4",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.587718",
+        "YWGS": "55.880806",
+        "GLOBALID": "89255613"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.791123,
+          55.71477
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "23",
+        "LOT": null,
+        "ADDRESS": "1-я Новокузьминская ул., д.19",
+        "UNOM": "2128298",
+        "CHARACTERISTIC": "5 этаж",
+        "S": "56.6",
+        "FIRSTPRICE": "4320000,00",
+        "LASTPRICE": "5181000,00",
+        "DATEOFEVENT": "16.07.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЮВАО",
+        "WINNER": "Котов С.Д.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "5",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.791123",
+        "YWGS": "55.71477",
+        "GLOBALID": "87708689"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.170412,
+          55.99217
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "30",
+        "LOT": null,
+        "ADDRESS": "Зеленоград, корп.1131",
+        "UNOM": "31566",
+        "CHARACTERISTIC": "1 этаж",
+        "S": "23.1",
+        "FIRSTPRICE": "1400000,00",
+        "LASTPRICE": "1400000,00",
+        "DATEOFEVENT": "24.07.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЗелАО",
+        "WINNER": "Солдатов А.Н.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "2",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.170412",
+        "YWGS": "55.99217",
+        "GLOBALID": "87708696"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.492004,
+          55.793545
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "103",
+        "LOT": null,
+        "ADDRESS": "ул. Народного Ополчения, д.47",
+        "UNOM": null,
+        "CHARACTERISTIC": "подвал",
+        "S": "71.4",
+        "FIRSTPRICE": "3750000,00",
+        "LASTPRICE": "7875000,00",
+        "DATEOFEVENT": "12.11.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "СЗАО",
+        "WINNER": "Гусев Р.В.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "3",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.492004",
+        "YWGS": "55.793545",
+        "GLOBALID": "89255144"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.553029,
+          55.866983
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "132",
+        "LOT": null,
+        "ADDRESS": "ул. Селигерская, д.18, корп.3",
+        "UNOM": null,
+        "CHARACTERISTIC": "1",
+        "S": "114.8",
+        "FIRSTPRICE": "9460000,00",
+        "LASTPRICE": "13244000,00",
+        "DATEOFEVENT": "21.11.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "САО",
+        "WINNER": "Михайленко В.Б.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "3",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.553029",
+        "YWGS": "55.866983",
+        "GLOBALID": "89255173"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.515294,
+          55.527284
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "167",
+        "LOT": null,
+        "ADDRESS": "Чечёрский пр., д.118",
+        "UNOM": null,
+        "CHARACTERISTIC": "1",
+        "S": "44.1",
+        "FIRSTPRICE": "3690000,00",
+        "LASTPRICE": "5719500,00",
+        "DATEOFEVENT": "10.12.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЮЗАО",
+        "WINNER": "НОЧУ \"Автомотошкола \"Р-АВТО\"",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "3",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.515294",
+        "YWGS": "55.527284",
+        "GLOBALID": "89255608"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.518818,
+          55.667075
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "63",
+        "LOT": null,
+        "ADDRESS": "ул. Новаторов, д. 4, корп. 4",
+        "UNOM": null,
+        "CHARACTERISTIC": "1 этаж",
+        "S": "35.8",
+        "FIRSTPRICE": "4000000,00",
+        "LASTPRICE": "5000000,00",
+        "DATEOFEVENT": "27.09.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЮЗАО",
+        "WINNER": "Меркулов А.Г.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "9",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.518818",
+        "YWGS": "55.667075",
+        "GLOBALID": "88024329"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.557122,
+          55.87282
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "127",
+        "LOT": null,
+        "ADDRESS": "ул. Дубнинская, д.53, корп.3",
+        "UNOM": null,
+        "CHARACTERISTIC": "1",
+        "S": "142.2",
+        "FIRSTPRICE": "12300000,00",
+        "LASTPRICE": "15990000,00",
+        "DATEOFEVENT": "21.11.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "САО",
+        "WINNER": "Турленко С.А.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "2",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.557122",
+        "YWGS": "55.87282",
+        "GLOBALID": "89255168"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.600063,
+          55.6803
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "165",
+        "LOT": null,
+        "ADDRESS": "ул. Нагорная, д.24, корп.9",
+        "UNOM": null,
+        "CHARACTERISTIC": "1",
+        "S": "72.2",
+        "FIRSTPRICE": "6750000,00",
+        "LASTPRICE": "6750000,00",
+        "DATEOFEVENT": "10.12.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЮЗАО",
+        "WINNER": "Набатов А.Л.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "3",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.600063",
+        "YWGS": "55.6803",
+        "GLOBALID": "89255606"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.514894,
+          55.797892
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "113",
+        "LOT": null,
+        "ADDRESS": "ул.Новопесчаная, д. 17, корп.1",
+        "UNOM": null,
+        "CHARACTERISTIC": "подвал",
+        "S": "131.4",
+        "FIRSTPRICE": "8510000,00",
+        "LASTPRICE": "9361000,00",
+        "DATEOFEVENT": "19.11.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "САО",
+        "WINNER": "Сидорова О.Я.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "2",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.514894",
+        "YWGS": "55.797892",
+        "GLOBALID": "89255154"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.226339,
+          55.989457
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "7",
+        "LOT": null,
+        "ADDRESS": "г.Зеленоград, корп.601",
+        "UNOM": "31018",
+        "CHARACTERISTIC": "этаж 1, пом. III, ком. 1-4, 4а, 5-8",
+        "S": "113.4",
+        "FIRSTPRICE": "9027000,00",
+        "LASTPRICE": "9027000,00",
+        "DATEOFEVENT": "22.05.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЗелАО",
+        "WINNER": "Савеличева В.Л.",
+        "ENCUMBRANCE": "Договор аренды от 22.03.2004 № 10-00173/04",
+        "NUMBEROFPARTICIPANTS": "2",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.226339",
+        "YWGS": "55.989457",
+        "GLOBALID": "87708674"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.576436,
+          55.814034
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "109",
+        "LOT": null,
+        "ADDRESS": "Дмитровское ш., д.7, корп.2",
+        "UNOM": null,
+        "CHARACTERISTIC": "1",
+        "S": "48.9",
+        "FIRSTPRICE": "4730000,00",
+        "LASTPRICE": "6385500,00",
+        "DATEOFEVENT": "19.11.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "САО",
+        "WINNER": "Горбунов Г.В.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "5",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.576436",
+        "YWGS": "55.814034",
+        "GLOBALID": "89255150"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.599101,
+          55.78861
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "117",
+        "LOT": null,
+        "ADDRESS": "1-й Тихвинский тупик, д. 5-7",
+        "UNOM": null,
+        "CHARACTERISTIC": "подвал",
+        "S": "71.8",
+        "FIRSTPRICE": "4350000,00",
+        "LASTPRICE": "5437500,00",
+        "DATEOFEVENT": "19.11.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЦАО",
+        "WINNER": "Акенина Ю.С.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "5",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.599101",
+        "YWGS": "55.78861",
+        "GLOBALID": "89255158"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.666208,
+          55.778742
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "155",
+        "LOT": null,
+        "ADDRESS": "ул. Краснопрудная, д.24",
+        "UNOM": null,
+        "CHARACTERISTIC": "2",
+        "S": "135.0",
+        "FIRSTPRICE": "13300000,00",
+        "LASTPRICE": "21945000,00",
+        "DATEOFEVENT": "05.12.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЦАО",
+        "WINNER": "ООО \"XXL-Финанс\"",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "6",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.666208",
+        "YWGS": "55.778742",
+        "GLOBALID": "89255196"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.64213,
+          55.761658
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "184",
+        "LOT": null,
+        "ADDRESS": "Чистопрудный бул., д.12, стр.6",
+        "UNOM": null,
+        "CHARACTERISTIC": "2",
+        "S": "41.3",
+        "FIRSTPRICE": "4650000,00",
+        "LASTPRICE": "7440000,00",
+        "DATEOFEVENT": "12.12.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЦАО",
+        "WINNER": "Фельдман М.Б.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "16",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.64213",
+        "YWGS": "55.761658",
+        "GLOBALID": "89255627"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4007,
+          55.800318
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "141",
+        "LOT": null,
+        "ADDRESS": "ул. Таллинская, д.13, корп.2",
+        "UNOM": null,
+        "CHARACTERISTIC": "1",
+        "S": "50.0",
+        "FIRSTPRICE": "4540000,00",
+        "LASTPRICE": "6810000,00",
+        "DATEOFEVENT": "22.11.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "СЗАО",
+        "WINNER": "Чернышев А.Е.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "16",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.4007",
+        "YWGS": "55.800318",
+        "GLOBALID": "89255182"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.405287,
+          55.65049
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "210",
+        "LOT": null,
+        "ADDRESS": "Солнцевский просп., д.14",
+        "UNOM": null,
+        "CHARACTERISTIC": "1",
+        "S": "81.0",
+        "FIRSTPRICE": "7390000,00",
+        "LASTPRICE": "7390000,00",
+        "DATEOFEVENT": "27.12.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытй аукцион",
+        "OKRUG": "ЗАО",
+        "WINNER": "Иванов М.Ю.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "2",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.405287",
+        "YWGS": "55.65049",
+        "GLOBALID": "89611667"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.621508,
+          55.824674
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "118",
+        "LOT": null,
+        "ADDRESS": "1-я Останкинская ул., д.21",
+        "UNOM": null,
+        "CHARACTERISTIC": "подвал",
+        "S": "85.3",
+        "FIRSTPRICE": "4940000,00",
+        "LASTPRICE": "6422000,00",
+        "DATEOFEVENT": "19.11.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "СВАО",
+        "WINNER": "Назарян Г.А.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "5",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.621508",
+        "YWGS": "55.824674",
+        "GLOBALID": "89255159"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.560008,
+          55.548661
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "75",
+        "LOT": null,
+        "ADDRESS": "ул. Скобелевская, д. 23, корп.6",
+        "UNOM": null,
+        "CHARACTERISTIC": "1 этаж",
+        "S": "47.4",
+        "FIRSTPRICE": "3910000,00",
+        "LASTPRICE": "5083000,00",
+        "DATEOFEVENT": "09.10.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЮЗАО",
+        "WINNER": "Козлов В.В.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "4",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.560008",
+        "YWGS": "55.548661",
+        "GLOBALID": "88024341"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.644013,
+          55.855722
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "121",
+        "LOT": null,
+        "ADDRESS": "пр. Русанова, д.9",
+        "UNOM": null,
+        "CHARACTERISTIC": "1",
+        "S": "33.0",
+        "FIRSTPRICE": "3030000,00",
+        "LASTPRICE": "4393500,00",
+        "DATEOFEVENT": "21.11.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "СВАО",
+        "WINNER": "Циткилова Е.В.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "6",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.644013",
+        "YWGS": "55.855722",
+        "GLOBALID": "89255162"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.658648,
+          55.814697
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "91",
+        "LOT": null,
+        "ADDRESS": "ул. Павла Корчагина, д. 10",
+        "UNOM": null,
+        "CHARACTERISTIC": "цоколь",
+        "S": "119.0",
+        "FIRSTPRICE": "9540000,00",
+        "LASTPRICE": "12402000,00",
+        "DATEOFEVENT": "30.10.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЮЗАО",
+        "WINNER": "Морозов С.В.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "4",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.658648",
+        "YWGS": "55.814697",
+        "GLOBALID": "89255132"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.70358,
+          55.816682
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "202",
+        "LOT": null,
+        "ADDRESS": "ул. 1-я Мясниковская, д.8/10",
+        "UNOM": null,
+        "CHARACTERISTIC": "цоколь",
+        "S": "55.3",
+        "FIRSTPRICE": "3870000,00",
+        "LASTPRICE": "3870000,00",
+        "DATEOFEVENT": "18.12.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытй аукцион",
+        "OKRUG": "ВАО",
+        "WINNER": "Маевский С.В.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "2",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.70358",
+        "YWGS": "55.816682",
+        "GLOBALID": "89611623"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.484817,
+          55.876221
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "78",
+        "LOT": null,
+        "ADDRESS": "ул. Дыбенко, д. 36, корп. 1",
+        "UNOM": null,
+        "CHARACTERISTIC": "1 этаж",
+        "S": "138.5",
+        "FIRSTPRICE": "11700000,00",
+        "LASTPRICE": "15210000,00",
+        "DATEOFEVENT": "17.10.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "САО",
+        "WINNER": "ООО \"ЭРИС\"",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "7",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.484817",
+        "YWGS": "55.876221",
+        "GLOBALID": "88024344"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.192499,
+          55.980744
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "19",
+        "LOT": null,
+        "ADDRESS": "Зеленоград, корп.901",
+        "UNOM": "31089",
+        "CHARACTERISTIC": "1 этаж",
+        "S": "51.1",
+        "FIRSTPRICE": "3760000,00",
+        "LASTPRICE": "5640000,00",
+        "DATEOFEVENT": "10.07.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЗелАО",
+        "WINNER": "Третьякова М.Д.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "4",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.192499",
+        "YWGS": "55.980744",
+        "GLOBALID": "87708685"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.524363,
+          55.883274
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "175",
+        "LOT": null,
+        "ADDRESS": "ул. Клязьминская, д.8, корп.2",
+        "UNOM": null,
+        "CHARACTERISTIC": "1",
+        "S": "178.9",
+        "FIRSTPRICE": "15000000,00",
+        "LASTPRICE": "15000000,00",
+        "DATEOFEVENT": "11.12.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "САО",
+        "WINNER": "ООО \"Контур\"",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "2",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.524363",
+        "YWGS": "55.883274",
+        "GLOBALID": "89255616"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.596422,
+          55.651622
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "8",
+        "LOT": null,
+        "ADDRESS": "ул. Азовская, д.24, корп.2",
+        "UNOM": "280100",
+        "CHARACTERISTIC": "этаж 1, пом. II, комн. 1-8, 17, 18, 20-26",
+        "S": "264.4",
+        "FIRSTPRICE": "26585400,00",
+        "LASTPRICE": "50512260,00",
+        "DATEOFEVENT": "28.05.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЮЗАО",
+        "WINNER": "ЗАО \"Тандер\"",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "6",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.596422",
+        "YWGS": "55.651622",
+        "GLOBALID": "87708671"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.554295,
+          55.843685
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "82",
+        "LOT": null,
+        "ADDRESS": "ул.Большая Академическая, д. 77, корп.2",
+        "UNOM": null,
+        "CHARACTERISTIC": "1 этаж",
+        "S": "140.3",
+        "FIRSTPRICE": "10700000,00",
+        "LASTPRICE": "10700000,00",
+        "DATEOFEVENT": "23.10.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "САО",
+        "WINNER": "Росебашвили Р.В.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "2",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.554295",
+        "YWGS": "55.843685",
+        "GLOBALID": "88024348"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.554753,
+          55.864228
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "143",
+        "LOT": null,
+        "ADDRESS": "ул. Селигерская, д.12, корп.2",
+        "UNOM": null,
+        "CHARACTERISTIC": "1",
+        "S": "161.0",
+        "FIRSTPRICE": "13000000,00",
+        "LASTPRICE": "20800000,00",
+        "DATEOFEVENT": "22.11.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "САО",
+        "WINNER": "Гейдаров Н.А.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "4",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.554753",
+        "YWGS": "55.864228",
+        "GLOBALID": "89255184"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.501056,
+          55.531571
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "2",
+        "LOT": null,
+        "ADDRESS": "ул. Академика Понтрягина, д. 27",
+        "UNOM": "290100",
+        "CHARACTERISTIC": "этаж 1, пом. XI, комн. 1-5",
+        "S": "36.3",
+        "FIRSTPRICE": "2973600,00",
+        "LASTPRICE": "3865680,00",
+        "DATEOFEVENT": "28.05.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЮЗАО",
+        "WINNER": "Хвалин А.А.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "4",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.501056",
+        "YWGS": "55.531571",
+        "GLOBALID": "87708670"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.627779,
+          55.789102
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "81",
+        "LOT": null,
+        "ADDRESS": "ул. Трифоновская, д.49",
+        "UNOM": null,
+        "CHARACTERISTIC": "1 этаж",
+        "S": "96.4",
+        "FIRSTPRICE": "11400000,00",
+        "LASTPRICE": "22800000,00",
+        "DATEOFEVENT": "23.10.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЦАО",
+        "WINNER": "Мамонтов А.П.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "29",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.627779",
+        "YWGS": "55.789102",
+        "GLOBALID": "88024347"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.595894,
+          55.883256
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "3",
+        "LOT": null,
+        "ADDRESS": "Бибиревская ул., д. 17В",
+        "UNOM": "2100",
+        "CHARACTERISTIC": "этаж 2, пом.I, комн. 1",
+        "S": "15.4",
+        "FIRSTPRICE": "1280000,00",
+        "LASTPRICE": "1280000,00",
+        "DATEOFEVENT": "25.06.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "СВАО",
+        "WINNER": "Соколов М.В.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "2",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.595894",
+        "YWGS": "55.883256",
+        "GLOBALID": "87708668"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.554753,
+          55.864228
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "207",
+        "LOT": null,
+        "ADDRESS": " ул. Селигерская, д.12, корп.2",
+        "UNOM": null,
+        "CHARACTERISTIC": "1",
+        "S": "111.4",
+        "FIRSTPRICE": "9180000,00",
+        "LASTPRICE": "9180000,00",
+        "DATEOFEVENT": "27.12.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытй аукцион",
+        "OKRUG": "САО",
+        "WINNER": "Пиляев М.Г.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "3",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.554753",
+        "YWGS": "55.864228",
+        "GLOBALID": "89611646"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.548198,
+          55.688989
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "214",
+        "LOT": null,
+        "ADDRESS": "Ленинский просп., д.73/8",
+        "UNOM": null,
+        "CHARACTERISTIC": "подвал   + 1 этаж",
+        "S": "1130.5",
+        "FIRSTPRICE": "289958600,00",
+        "LASTPRICE": "289958600,00",
+        "DATEOFEVENT": "27.12.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытй аукцион",
+        "OKRUG": "ЮЗАО",
+        "WINNER": "ОАО \"Грин авеню\"",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "4",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.548198",
+        "YWGS": "55.688989",
+        "GLOBALID": "89611671"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.572288,
+          55.764986
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N": "130",
+        "LOT": null,
+        "ADDRESS": "ул. Малая Грузинская, д.20/13, стр.1",
+        "UNOM": null,
+        "CHARACTERISTIC": "1",
+        "S": "19.9",
+        "FIRSTPRICE": "1890000,00",
+        "LASTPRICE": "3496500,00",
+        "DATEOFEVENT": "21.11.2013",
+        "TIME": null,
+        "STARTDATE": null,
+        "ANDDATE": null,
+        "PRIVATISATIONMETHOD": "Открытый аукцион",
+        "OKRUG": "ЦАО",
+        "WINNER": "Назарян Г.А.",
+        "ENCUMBRANCE": "Нет",
+        "NUMBEROFPARTICIPANTS": "4",
+        "NUMBEROFTHEBULLETIN": null,
+        "COMMENT": null,
+        "XWGS": "37.572288",
+        "YWGS": "55.764986",
+        "GLOBALID": "89255171"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,3119 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.5929168837804,
+          55.647969243477
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Большая Юшуньская улица",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Зюзино",
+        "Address": "Большая Юшуньская улица, дом 5",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868378
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5428214123425,
+          55.6556991656989
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Калужская",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Черёмушки",
+        "Address": "Профсоюзная улица, дом 61А",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868379
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.554133,
+          55.670675
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "26-й микрорайон Новых Черемушек",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "Обручевский район",
+        "Address": "город Москва, Профсоюзная улица, дом 58/32, корпус 1",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889623503
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5648432,
+          55.6777015
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Профсоюзная",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "Академический район",
+        "Address": "Нахимовский проспект, дом 42",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868380
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5429243083767,
+          55.5488923150691
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "2-й микрорайон Южное Бутово",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Южное Бутово",
+        "Address": "Венёвская улица, дом 2",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868381
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.564572,
+          55.668975
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "23-й квартал Новых Черемушек",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Черёмушки",
+        "Address": "Новочеремушкинская улица, владение 56",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868382
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.523213,
+          55.659927
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Новаторов",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "Обручевский район",
+        "Address": "улица Академика Челомея, дом 12/19",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868383
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4901562024784,
+          55.6151087354109
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "5-й микрорайон Теплого Стана",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Тёплый Стан",
+        "Address": "улица Генерала Тюленева, владение 37",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868384
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5238235657281,
+          55.6430967218856
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Беляево",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Коньково",
+        "Address": "улица Миклухо-Маклая, дом 22А",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868385
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.518129,
+          55.526799
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Остафьевская улица",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Южное Бутово",
+        "Address": "город Москва,Чечёрский проезд, дом 43",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889623510
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5096111867982,
+          55.6154172669964
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Филиал «Юго-западный»",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Ясенево",
+        "Address": "Новоясеневский проспект 4, строение 4",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868386
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.547029,
+          55.588882
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Проезд Карамзина",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Ясенево",
+        "Address": "город Москва, улица Иннесы Арманд, дом 13",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889623512
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4689348130021,
+          55.6458129856863
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Тропарёво",
+        "AdmArea": "Западный административный округ",
+        "District": "район Тропарёво-Никулино",
+        "Address": "Ленинский проспект, дом 162",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868387
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4160660873581,
+          55.6390387720414
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "5-й микрорайон Солнцева",
+        "AdmArea": "Западный административный округ",
+        "District": "район Солнцево",
+        "Address": "улица Авиаторов, дом 15",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868388
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.3380049327004,
+          55.6359317398006
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "11-й микрорайон Солнцева",
+        "AdmArea": "Западный административный округ",
+        "District": "район Ново-Переделкино",
+        "Address": "улица Федосьино, дом 5",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868389
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.383162,
+          55.656034
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Солнечная",
+        "AdmArea": "Западный административный округ",
+        "District": "район Солнцево",
+        "Address": "город Москва, улица Попутная, дом 1",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889623517
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.2526572112897,
+          55.6046832310201
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Внуково",
+        "AdmArea": "Западный административный округ",
+        "District": "район Внуково",
+        "Address": "Заводское шоссе, дом 19А",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868390
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.359441,
+          55.635559
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "9-й микрорайон Солнцева",
+        "AdmArea": "Западный административный округ",
+        "District": "район Ново-Переделкино",
+        "Address": "улица Шолохова, напротив дома 2",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868391
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.427915,
+          55.666719
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Востряково",
+        "AdmArea": "Западный административный округ",
+        "District": "район Солнцево",
+        "Address": "город Москва, улица Домостроительная, дом 1, корпус 3",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889623521
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.441695,
+          55.669636
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Озерная",
+        "AdmArea": "Западный административный округ",
+        "District": "район Очаково-Матвеевское",
+        "Address": "город Москва, улица Озерная, между владением 42 и владением 44",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889623522
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.30024,
+          55.489412
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Микрорайон В город Троицк",
+        "AdmArea": "Троицкий административный округ",
+        "District": "поселение Троицк",
+        "Address": "город Москва, город Троицк, Микрорайон В, вблизи дома 10",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889623523
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          36.864306,
+          55.427803
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "поселок Киевский",
+        "AdmArea": "Троицкий административный округ",
+        "District": "поселение Киевский",
+        "Address": "город Москва, поселок Киевский, вблизи дома 14",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889623524
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.42428,
+          55.620796
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Саларьево",
+        "AdmArea": "Новомосковский административный округ",
+        "District": "поселение Московский",
+        "Address": "город Москва, поселение Московский, вблизи метро Саларьево",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889623526
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.338096,
+          55.636513
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Рассказовка",
+        "AdmArea": "Западный административный округ",
+        "District": "район Ново-Переделкино",
+        "Address": "город Москва, улица Анны Ахматовой, дом 8",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889623527
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.852518,
+          55.679793
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "6-й микрорайон Жулебина",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Выхино-Жулебино",
+        "Address": "город Москва, улица Привольная, дом 71",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889623528
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7899617,
+          55.6966566
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Ветеринарная Академия",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Кузьминки",
+        "Address": "улица Юных Ленинцев, дом 108",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868392
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.8500891,
+          55.6947369
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "2-й микрорайон Жулебина",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Выхино-Жулебино",
+        "Address": "улица Привольная, дом 29",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868393
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.8104903866308,
+          55.6730497876334
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Улица Головачева",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Люблино",
+        "Address": "город Москва, улица Головачёва, дом 15",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889623531
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7589714633341,
+          55.7365756351128
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Карачарово",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "Нижегородский район",
+        "Address": "город Москва, 1-ая Карачаровская улица, дом 17",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889623532
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7637652469979,
+          55.6815583078027
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Больница Семашко",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Люблино",
+        "Address": "Ставропольская улица, дом 48",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868394
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.8170226,
+          55.6930674
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "138-й квартал Выхино",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Выхино-Жулебино",
+        "Address": "Волгоградский проспект, дом 189",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868395
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7422747,
+          55.7156599
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Саратовская улица",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Текстильщики",
+        "Address": "Саратовская улица, дом 18/10",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868396
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7918031243999,
+          55.7232623062872
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Улица Паперника",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "Рязанский район",
+        "Address": "1-й Вешняковский проезд, дом 8",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868397
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.71392371032,
+          55.7537423655285
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Авиамоторная",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Лефортово",
+        "Address": "Красноказарменная улица, дом 23",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868398
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.8185033582786,
+          55.7180151651832
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Выхино",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Вешняки",
+        "Address": "улица Красный Казанец, дом 19Б",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868399
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.8981459057587,
+          55.7163926963189
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Кожухово",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Косино-Ухтомский",
+        "Address": "город Москва, улица Рудневка, дом 47",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889623539
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.8390070445581,
+          55.7674114988819
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Ивановское",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Ивановское",
+        "Address": "город Москва, улица Саянская, дом 22А",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889623540
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.858983,
+          55.7311173
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "3-й микрорайон Новокосино",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Новокосино",
+        "Address": "улица Николая Старостина, дом 15",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868400
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.8250376,
+          55.8280102
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Камчатская",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Гольяново",
+        "Address": "город Москва, Хабаровская улица, дом 28, строение 1",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889623542
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.8207689906163,
+          55.7433899970212
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Кетчерская",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Вешняки",
+        "Address": "город Москва, улица Кетчерская, дом 4Б",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889623543
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.797812,
+          55.81061
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Щелковская",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Гольяново",
+        "Address": "город Москва, Щелковское шоссе, дом 73",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889623544
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.8313412647562,
+          55.8036713220407
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Сиреневый бульвар",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Северное Измайлово",
+        "Address": "Сиреневый бульвар, дом 77",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868401
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7660264,
+          55.7371555
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Кусковская",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Перово",
+        "Address": "город Москва, улица Кусковская, дом 2А",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889623546
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7380104,
+          55.8131833
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Бульвар Рокоссовского",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Богородское",
+        "Address": "Открытое шоссе, дом 14",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868403
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.836368938369,
+          55.7824001547645
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Южное Измайлово",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Ивановское",
+        "Address": "город Москва, улица Чечулина, дом 15",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868404
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.8275774,
+          55.7529276
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Федеративный проспект",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Ивановское",
+        "Address": "Федеративный проспект, дом 54",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868405
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.8238738,
+          55.8216202
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Уссурийская",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Гольяново",
+        "Address": "город Москва, Алтайская улица, дом 21, строение 2 ",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889623552
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7196539,
+          55.7786421
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Проспект Буденного",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Соколиная Гора",
+        "Address": "Измайловское шоссе, дом 4А",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868406
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5768306285116,
+          55.8469799005074
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Гостиницы ВВЦ",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Марфино",
+        "Address": "город Москва, улица Гостиничная, дом 8",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889623555
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6195404912191,
+          55.8758759890383
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Ясный проезд",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Южное Медведково",
+        "Address": "Ясный проезд, дом 17А",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868407
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.624651,
+          55.86552
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Юрловский проезд",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Отрадное",
+        "Address": "Юрловский проезд, дом 7",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868408
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6749191486465,
+          55.8861339844103
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Осташковская",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Северное Медведково",
+        "Address": "город Москва, улица Осташковская, дом 20",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889623558
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6023983421339,
+          55.8600201454889
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Улица Хачатуряна",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Отрадное",
+        "Address": "улица Хачатуряна, дом 16",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868409
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5550033279798,
+          55.9331686556943
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "9-я Северная линия",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Северный",
+        "Address": "город Москва, 9-я Северная линия, дом 25, корус 2",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889623560
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6584085005379,
+          55.882423297378
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Заревый проезд",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Северное Медведково",
+        "Address": "Заревый проезд, дом 1, корпус 1",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868410
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.581712,
+          55.818963
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Улица Яблочкова",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Бутырский район",
+        "Address": "город Москва, улица Фонвизина, дом 2/14",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889623563
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.664976,
+          55.820395
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Улица Павла Корчагина",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Алексеевский район",
+        "Address": "улица Бориса Галушкина, дом 26",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868411
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5745929308781,
+          55.9077397029293
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Абрамцевская",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Лианозово",
+        "Address": "город Москва, улица Абрамцевская, дом 28, строение 1",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889623565
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6089406685322,
+          55.9030881145768
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Корнейчука",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Бибирево",
+        "Address": "улица Корнейчука, дом 3",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868412
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6006224171345,
+          55.8833134400146
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Костромская улица",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Алтуфьевский район",
+        "Address": "город Москва, улица Костромская, дом 20",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889623567
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7196282103577,
+          55.879676178464
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Холмогорская улица",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Ярославский район",
+        "Address": "город Москва, улица Холмогорская, дом 1",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889623568
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5906304507387,
+          55.9050135770071
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "6-й микрорайон Бибирева",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Бибирево",
+        "Address": "город Москва, Алтуфьевское шоссе, дом 102, корус 2, строение 2",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889623569
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5902620122337,
+          55.8205315828655
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Улица Фонвизина",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Бутырский район",
+        "Address": "город Москва, улица  Добролюбова, дом 29/16",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889623570
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6701513,
+          55.8445535
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Платформа Северянин",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Ярославский район",
+        "Address": "город Москва, Проспект Мира, дом 224",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889623571
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6353573835173,
+          55.8239073876794
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "ВДНХ-Южная",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Останкинский район",
+        "Address": "1-я Останкинская улица, дом 57",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868413
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.555858,
+          55.863672
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Бескудниково",
+        "AdmArea": "Северный административный округ",
+        "District": "Бескудниковский район",
+        "Address": "город Москва, Бескудниковский переулок, дом 1, корус 2",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889623573
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5243062649962,
+          55.8942194090918
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Лобненская",
+        "AdmArea": "Северный административный округ",
+        "District": "Дмитровский район",
+        "Address": "город Москва, улица Лобненская, владение 14, строение 2",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889623574
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5493002217518,
+          55.8068336951073
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Улица 8-го марта",
+        "AdmArea": "Северный административный округ",
+        "District": "Савёловский район",
+        "Address": "город Москва, улица 8-го Марта, дом 18, строение 1 ",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889623575
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5543221898471,
+          55.8962514768848
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Лианозово",
+        "AdmArea": "Северный административный округ",
+        "District": "район Восточное Дегунино",
+        "Address": "город Москва, улица Дубнинская, дом 87",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889623576
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6726322,
+          55.792023
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Сокольники",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Сокольники",
+        "Address": "город Москва, Сокольнический вал, дом 17",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889623577
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6560708830839,
+          55.5956687911237
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Бирюлево-Товарная",
+        "AdmArea": "Южный административный округ",
+        "District": "район Бирюлёво Восточное",
+        "Address": "город Москва, улица Касимовская, дом 19",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889623578
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6457103292672,
+          55.6172019670724
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "14-й микрорайон Ленино-Дачная",
+        "AdmArea": "Южный административный округ",
+        "District": "район Царицыно",
+        "Address": "улица Бехтерева, дом 43, корпус 1",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868414
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6398500499692,
+          55.7103883571955
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "3-й Павелецкий проезд",
+        "AdmArea": "Южный административный округ",
+        "District": "Даниловский район",
+        "Address": "3-й Павелецкий проезд, дом 9А",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868415
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6791256204742,
+          55.6281776177452
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Ереванская улица",
+        "AdmArea": "Южный административный округ",
+        "District": "район Царицыно",
+        "Address": "улица Ереванская, дом 35",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868416
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6424430972131,
+          55.6522062435496
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Каширская-2",
+        "AdmArea": "Южный административный округ",
+        "District": "район Москворечье-Сабурово",
+        "Address": "улица Москворечье, дом 3",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868417
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6836768,
+          55.6871281
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Якорная",
+        "AdmArea": "Южный административный округ",
+        "District": "район Нагатинский Затон",
+        "Address": "город Москва, улица Якорная, дом 3",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889623584
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7057160932729,
+          55.683847851355
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Нагатинский затон",
+        "AdmArea": "Южный административный округ",
+        "District": "район Нагатинский Затон",
+        "Address": "город Москва, улица Коломенская, дом 5",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889623585
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.760719,
+          55.632626
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Братеево",
+        "AdmArea": "Южный административный округ",
+        "District": "район Братеево",
+        "Address": "город Москва, улица Братеевская, дом 10, корпус 1",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889623586
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.696588,
+          55.616153
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Орехово",
+        "AdmArea": "Южный административный округ",
+        "District": "район Орехово-Борисово Северное",
+        "Address": "улица Шипиловский проезд, дом 31 (напротив)",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868418
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.744781,
+          55.607321
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Ясеневая",
+        "AdmArea": "Южный административный округ",
+        "District": "район Орехово-Борисово Южное",
+        "Address": "улица Ясеневая, дом 41, корпус 1",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868419
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7274857895603,
+          55.5971176286905
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Каширское шоссе 148",
+        "AdmArea": "Южный административный округ",
+        "District": "район Орехово-Борисово Южное",
+        "Address": "Каширское шоссе 67, корпус 1",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868420
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.746903,
+          55.612726
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Красногвардейская",
+        "AdmArea": "Южный административный округ",
+        "District": "район Зябликово",
+        "Address": "город  Москва, Ореховый бульвар, владение 24, корпус 1Г",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889623590
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.621648,
+          55.683276
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Нагатинская",
+        "AdmArea": "Южный административный округ",
+        "District": "Нагорный район",
+        "Address": "Варшавское шоссе, дом 30Г",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868421
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6874556,
+          55.5782624
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Загорье",
+        "AdmArea": "Южный административный округ",
+        "District": "район Бирюлёво Восточное",
+        "Address": "улица Липецкая, дом 23, корпус 1",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868423
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7007121,
+          55.6510593
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Курьяново",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Печатники",
+        "Address": "город Москва, улица 1-я Курьяновская, дом 53",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889623594
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6873904522167,
+          55.7061320597149
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Кожуховская",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "Южнопортовый район",
+        "Address": "улица Южнопортовая, 22А",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868424
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7986534,
+          55.628648
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Капотня",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Капотня",
+        "Address": "5-й квартал Капотня, дом 1А",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868425
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7511655,
+          55.6583547
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Братиславская",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Марьино",
+        "Address": "город Москва, Мячковский бульвар, дом 1А ",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889623597
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7404792,
+          55.6485548
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Марьино-2",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Марьино",
+        "Address": "Новочеркасский бульвар, дом 53",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868426
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.740393,
+          55.647736
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Нагорный бульвар",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Котловка",
+        "Address": "Нагорный бульвар, дом 8",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868427
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.706202,
+          55.6445873
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Марьино",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Марьино",
+        "Address": "Донецкая улица, дом 34",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868428
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.512484,
+          55.769993
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Силикатная",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Хорошёво-Мнёвники",
+        "Address": "1-й Силикатный проезд, дом 12, корус 1",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868429
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.477110125507,
+          55.7889029369603
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Расплетина",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Щукино",
+        "Address": "город Москва, улица Берзарина, дом 26, корус 2",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889623602
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4545606,
+          55.809842
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Щукинская",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Щукино",
+        "Address": "город Москва, улица Авиационная, дом 68",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889623603
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.438469,
+          55.827254
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Тушинская",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Покровское-Стрешнево",
+        "Address": "проезд Стратонавтов, дом 7, корус 2",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868430
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.403746,
+          55.850073
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Братцево",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Южное Тушино",
+        "Address": "бульвар Яна Райниса, дом 49",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868431
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.347537,
+          55.860443
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "4-й микрорайон Митино",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Митино",
+        "Address": "Пятницкое шоссе, дом 49",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868432
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.43495,
+          55.86393
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Планерная",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Северное Тушино",
+        "Address": "город Москва, улица Планерная, дом 7, корпус 1",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868433
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.406996,
+          55.76506
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Крылатское",
+        "AdmArea": "Западный административный округ",
+        "District": "район Крылатское",
+        "Address": "улица Крылатские Холмы, дом 38, корус 3",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868434
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.414587,
+          55.74183
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Молодежная",
+        "AdmArea": "Западный административный округ",
+        "District": "район Кунцево",
+        "Address": "город Москва, улица Ярцевская, дом 25, корпус 3",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868435
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.355917,
+          55.787004
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Рублево",
+        "AdmArea": "Западный административный округ",
+        "District": "район Кунцево",
+        "Address": "улица Новорублевская, дом 14",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868436
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5421178,
+          55.7852793
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Ледовый Дворец",
+        "AdmArea": "Северный административный округ",
+        "District": "Хорошёвский район",
+        "Address": "улица Авиаконструктора Сухого, дом 1А, строение 1",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868437
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.650919,
+          55.574318
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Бирюлево Западное",
+        "AdmArea": "Южный административный округ",
+        "District": "район Бирюлёво Западное",
+        "Address": "Востряковский проезд, 18А",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868438
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5867813,
+          55.5961432
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Улица Академика Янгеля",
+        "AdmArea": "Южный административный округ",
+        "District": "район Чертаново Южное",
+        "Address": "город Москва, улица Чертановская, дом 66, корпус 1",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889623615
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6071760441181,
+          55.6219117097824
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Южная",
+        "AdmArea": "Южный административный округ",
+        "District": "район Чертаново Северное",
+        "Address": "город Москва, улица Днепропетровская, дом 2А",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889623616
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.69097,
+          55.586259
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Лебедянская",
+        "AdmArea": "Южный административный округ",
+        "District": "район Бирюлёво Восточное",
+        "Address": "улица Лебедянская, дом 31",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868440
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.62153,
+          55.653732
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Варшавская",
+        "AdmArea": "Южный административный округ",
+        "District": "Нагорный район",
+        "Address": "Варшавское шоссе, дом 87",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868441
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.522434,
+          55.674278
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Улица Кравченко",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "Ломоносовский район",
+        "Address": "Ленинский проспект, дом 90",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868442
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.592758,
+          55.568787
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "5-й микрорайон Северное Бутово",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Северное Бутово",
+        "Address": "Старобитцевская улица, владение 2, строение 1 (напротив)",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868444
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.74993,
+          55.729546
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Карачаровский путепровод",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "Нижегородский район",
+        "Address": "Рязанский проспект, дом 33",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868445
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.145741,
+          55.989581
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "14-й микрорайон",
+        "AdmArea": "Зеленоградский административный округ",
+        "District": "район Крюково",
+        "Address": "город Зеленоград, улица Александровка, дом 10",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868446
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.141437,
+          56.008934
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Алабушево",
+        "AdmArea": "Зеленоградский административный округ",
+        "District": "район Силино",
+        "Address": "город Зеленоград, проезд 684, дом 10",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868447
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.188975,
+          56.0138
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Северная",
+        "AdmArea": "Зеленоградский административный округ",
+        "District": "район Силино",
+        "Address": "город Зеленоград, улица Конструктора Гуськова, владение 1Б, строение 1",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868449
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.497586,
+          55.82047
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Войковская",
+        "AdmArea": "Северный административный округ",
+        "District": "Войковский район",
+        "Address": "Ленинградское шосе, дом 14, строение 1",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868450
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.487028,
+          55.840294
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Водный стадион",
+        "AdmArea": "Северный административный округ",
+        "District": "Головинский район",
+        "Address": "Кронштадтский бульвар, владение 7",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868451
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.443206,
+          55.877558
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "МКАД 75 км",
+        "AdmArea": "Северный административный округ",
+        "District": "район Левобережный",
+        "Address": "Ленинградское шосе, владение 71",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868453
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.517102,
+          55.884509
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Базовская",
+        "AdmArea": "Северный административный округ",
+        "District": "Дмитровский район",
+        "Address": "Коровинское шоссе, дом 30А",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868455
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.515505,
+          55.893936
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Коровино",
+        "AdmArea": "Северный административный округ",
+        "District": "Дмитровский район",
+        "Address": "город Москва, улица Ижорская, владение 11",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889623630
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5394060140014,
+          55.6920408058056
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "МГУ",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "Гагаринский район",
+        "Address": "Ломоносовский проспект, дом 18",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868457
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.606626,
+          55.656336
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Болотниковская",
+        "AdmArea": "Южный административный округ",
+        "District": "Нагорный район",
+        "Address": "Болотниковская улица, дом 11, корпус 1",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868458
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.606569,
+          55.656351
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Ангара",
+        "AdmArea": "Южный административный округ",
+        "District": "Нагорный район",
+        "Address": "город Москва,Чонгарский бульвар, дом 10, корпус 1",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868459
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.478947,
+          55.762479
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Филёвский бульвар",
+        "AdmArea": "Западный административный округ",
+        "District": "район Филёвский Парк",
+        "Address": "Филевский бульвар, дом 16",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868461
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.493672,
+          55.751342
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Барклая",
+        "AdmArea": "Западный административный округ",
+        "District": "район Филёвский Парк",
+        "Address": "улица Барклая, дом 22",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868462
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5165482694512,
+          55.7052537325906
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Университет",
+        "AdmArea": "Западный административный округ",
+        "District": "район Раменки",
+        "Address": "Ломоносовский проспект, дом 28",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868463
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.449291,
+          55.671498
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Озерная",
+        "AdmArea": "Западный административный округ",
+        "District": "район Очаково-Матвеевское",
+        "Address": "улица Озерная, дом 33, корпус 1",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868464
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.3952176,
+          55.7071109
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Беловежская",
+        "AdmArea": "Западный административный округ",
+        "District": "Можайский район",
+        "Address": "Беловежская улица, дом 10",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868466
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4895050852456,
+          55.7127920322593
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Матвеевское",
+        "AdmArea": "Западный административный округ",
+        "District": "район Очаково-Матвеевское",
+        "Address": "улица Веерная, дом 2",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868467
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.3870385,
+          55.718894
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Барвихинская",
+        "AdmArea": "Западный административный округ",
+        "District": "Можайский район",
+        "Address": "Барвихинская улица, дом 16, корпус 2",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868469
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4607466729506,
+          55.7308098301923
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Герасима Курина",
+        "AdmArea": "Западный административный округ",
+        "District": "район Фили-Давыдково",
+        "Address": "улица Герасима Курина, дом 44, корпус 2",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868470
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.468398,
+          55.863161
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Кинотеатр Нева",
+        "AdmArea": "Северный административный округ",
+        "District": "район Левобережный",
+        "Address": "Беломорская улица, дом 1Б, строение 1",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868471
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4368524492959,
+          55.7807871214027
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Серебряный Бор",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Хорошёво-Мнёвники",
+        "Address": "Таманская улица, дом 33",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868472
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.459729,
+          55.817987
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Больница МПС",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Покровское-Стрешнево",
+        "Address": "Волоколамское шоссе, дом 80, корпус 1",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868473
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4609716025919,
+          55.7786906886022
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Генерала Глаголева",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Хорошёво-Мнёвники",
+        "Address": "улица Генерала Глагольева, дом 2",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868474
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4780774,
+          55.7691352
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Карамышевская набережная",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Хорошёво-Мнёвники",
+        "Address": "Карамышевская набережная, дом 31",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868475
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5485382513019,
+          55.8408699382765
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Академическая",
+        "AdmArea": "Северный административный округ",
+        "District": "район Коптево",
+        "Address": "Большая Академическая улица, дом 67",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868476
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4754599997901,
+          55.7841755852378
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Маршала Тухачевского",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Хорошёво-Мнёвники",
+        "Address": "город Москва,улица Маршала Тухачевского, дом 26, корпус 1",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868477
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6328151305192,
+          55.7968351705435
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Рижская",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Марьина Роща",
+        "Address": "Рижская площадь, дом 7",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868478
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5640281,
+          55.715832
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Лужники-Южные",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Хамовники",
+        "Address": "Новолужнецкий проезд, дом 3",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868479
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4838552473558,
+          55.7402167437416
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Филевский парк",
+        "AdmArea": "Западный административный округ",
+        "District": "район Филёвский Парк",
+        "Address": "Минская улица, дом 16А",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868480
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5140754193745,
+          55.6794931693355
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Кравченко",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "Ломоносовский район",
+        "Address": "улица Кравченко, дом 22",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868481
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.593311,
+          55.733282
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Крымская",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Хамовники",
+        "Address": "Комсомольский проспект, дом 3",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868482
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.535835,
+          55.692105
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Метро «Универститет»",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "Гагаринский район",
+        "Address": "Ломоносовский проспект, дом 23А",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868483
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.590812,
+          55.595084
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Улица Академикая Янгеля",
+        "AdmArea": "Южный административный округ",
+        "District": "район Чертаново Южное",
+        "Address": "улица Академика Янгеля, дом 7",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868484
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.603804,
+          55.643879
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Балаклавский проспект",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Зюзино",
+        "Address": "Симферопольский бульвар, дом 26/11",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868485
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.691227,
+          55.68627
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Нагатино",
+        "AdmArea": "Южный административный округ",
+        "District": "район Нагатинский Затон",
+        "Address": "Судостроительная улица, дом 47",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868486
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.611935,
+          55.726575
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Метро «Октябрьская»",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Якиманка",
+        "Address": "улица Шаболовка, дом 9, строение 3",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868487
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.64298,
+          55.887543
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Медведково",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Северное Медведково",
+        "Address": "Полярная улица, дом 31А",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868488
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.616388,
+          55.824064
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Останкино",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Останкинский район",
+        "Address": "1-я Останкинская улица, дом 1А",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868490
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.650533,
+          55.77677
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Каланчёвская",
+        "AdmArea": "Центральный административный округ",
+        "District": "Красносельский район",
+        "Address": "Каланчёвская улица, владение 12",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868491
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.453985,
+          55.77949
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Проспект Маршала Жукова",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Хорошёво-Мнёвники",
+        "Address": "проспект Маршала Жукова, дом 72",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868493
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.388585,
+          55.799949
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Таллинская улица",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Строгино",
+        "Address": "улица Твардовского, дом 2",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868494
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.407924,
+          55.851832
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Братцево",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Северное Тушино",
+        "Address": "улица Героев Панфиловцев, дом 51",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868495
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.522087,
+          55.838456
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Михалково",
+        "AdmArea": "Северный административный округ",
+        "District": "район Коптево",
+        "Address": "Коптевская улица, дом 87",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868497
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.577592,
+          55.808857
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Метро «Дмитровская»",
+        "AdmArea": "Северный административный округ",
+        "District": "Тимирязевский район",
+        "Address": "Дмитровский проезд, дом 1Б",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868498
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.694379,
+          55.715629
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Угрешская",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Печатники",
+        "Address": "город Москва, Угрешская улица, владение 29",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889623669
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.58483,
+          55.68031
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Черёмушки",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "Академический район",
+        "Address": "Большая Черёмушкинская улица, дом 26, корпус 1",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868499
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.726286,
+          55.754198
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Дом культуры «Компрессор»",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Соколиная Гора",
+        "Address": "шоссе Энтузиастов, дом 23А",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868501
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.696495,
+          55.734022
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Новоконная площадь",
+        "AdmArea": "Центральный административный округ",
+        "District": "Таганский район",
+        "Address": "Чесменская улица, дом 7",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868502
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.767207,
+          55.829424
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Детский Санаторий",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Метрогородок",
+        "Address": "Открытое шоссе, дом 31, строение 1",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868504
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.73693,
+          55.81315
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Метро «Бульвар Рокоссовского»",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Богородское",
+        "Address": "Открытое шоссе, дом 5, корпус 6",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868505
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.815639,
+          55.745687
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Новогиреево",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Новогиреево",
+        "Address": "Свободный проспект, дом 39, корпус 1",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868506
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.659879,
+          55.755298
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Курский вокзал",
+        "AdmArea": "Центральный административный округ",
+        "District": "Басманный район",
+        "Address": "Верхний Сусальный переулок, дом 4/6, строение 2",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868507
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.821675,
+          55.793874
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "16-я Парковая улица",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Восточное Измайлово",
+        "Address": "Первомайская улица, дом 121",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889868508
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.349224,
+          55.59512
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "3-й микрорайон Московский",
+        "AdmArea": "Новомосковский административный округ",
+        "District": "поселение Московский",
+        "Address": "поселок Московский, 3-й микрорайон, вблизи дома 8",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 889907068
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.911878,
+          55.724058
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "9-й микрорайон Кожухова",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Косино-Ухтомский",
+        "Address": "город Москва, Лухмановская улица, дом37",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 1028755983
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.82017,
+          55.743612
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Платформа «Новогиреево»",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Новогиреево",
+        "Address": "город Москва, Перовская улица, дом70",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 1028755984
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.522209,
+          55.674415
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "14-й микрорайон Марьинского парка",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Марьино",
+        "Address": "город Москва, 14-й микрорайон Марьинского парка",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 1028755986
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.573111,
+          55.500916
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "1-й микрорайон Щербинки",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Южное Бутово",
+        "Address": "город Москва, улица Брусилова, напротив владения 1",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 1028755988
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.149071,
+          55.964552
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "16-й микрорайон",
+        "AdmArea": "Зеленоградский административный округ",
+        "District": "район Крюково",
+        "Address": "город Москва, город Зеленоград, корпус 1624",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 1028755503
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.512946,
+          55.737232
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Генерала Ермолова",
+        "AdmArea": "Западный административный округ",
+        "District": "район Дорогомилово",
+        "Address": "город Москва, улица Неверовского, дом13",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 1028755989
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.531935,
+          55.753028
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Тестовская улица дом 9",
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "Address": "город Москва, Тестовская улица, дом 9",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 2361343972
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.662266,
+          55.582182
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Михневская",
+        "AdmArea": "Южный административный округ",
+        "District": "район Бирюлёво Восточное",
+        "Address": "ул. Михневская, дом 11, корпус 1",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 2389599957
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.650947,
+          55.655466
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameStation": "Каширское шоссе владение 7",
+        "AdmArea": "Южный административный округ",
+        "District": "район Нагатино-Садовники",
+        "Address": "город Москва, Каширское шоссе, владение 7",
+        "OperatingMode": "05:00-01:30",
+        "globalid": 2389604458
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

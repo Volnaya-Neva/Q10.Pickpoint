@@ -1,0 +1,131 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.8272736867709,
+          55.6768273218588
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectName": "Спортивный комплекс военно-охотничьего общества-общероссийской спортивной общественной организации",
+        "NameSummer": "стрельбище №1, «Кузьминки»",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Люблино",
+        "Address": "улица Головачёва, дом 31, строение 9",
+        "Email": "CCKBOO@MAIL.RU",
+        "WebSite": "www.sskvoo.ru/",
+        "HelpPhone": "(495) 377-20-02",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "EquipmentRentalComments": "",
+        "HasTechService": "да",
+        "TechServiceComments": "",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.01-31.12",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "грунтовое покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "PaidComments": "",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 930213656
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7805585169679,
+          55.652750753793
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectName": "Биатлонно-лыжный комплекс «Марьино»",
+        "NameSummer": "стрельбище",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Марьино",
+        "Address": "улица Марьинский Парк, дом 4, строение 3",
+        "Email": "info@biathlon-maryino.ru",
+        "WebSite": "biathlon-maryino.ru/",
+        "HelpPhone": "(495) 363-70-22",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "EquipmentRentalComments": "",
+        "HasTechService": "нет",
+        "TechServiceComments": "",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "да",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.09-31.08",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "PaidComments": "",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 2305332787
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.8267018214569,
+          55.6783577294406
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectName": "Спортивный комплекс военно-охотничьего общества-общероссийской спортивной общественной организации",
+        "NameSummer": "стрельбище №2",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Люблино",
+        "Address": "улица Головачёва, дом 31, строение 9",
+        "Email": "CCKBOO@MAIL.RU",
+        "WebSite": "www.sskvoo.ru/",
+        "HelpPhone": "(495) 377-20-02",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "EquipmentRentalComments": "",
+        "HasTechService": "да",
+        "TechServiceComments": "",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.01-31.12",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "газонное покрытие (натуральное)",
+        "Seats": 0,
+        "Paid": "платно",
+        "PaidComments": "",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 2366648437
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

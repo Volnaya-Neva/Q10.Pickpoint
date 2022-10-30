@@ -1,0 +1,101 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            37.739503081939,
+            55.769235614218
+          ]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "FullName": "Государственное бюджетное учреждение здравоохранения города Москвы «Московский городской центр профилактики и борьбы со СПИДом Департамента здравоохранения города Москвы»",
+        "ShortName": "ГБУЗ «МГЦПиБ со СПИДом» ДЗМ",
+        "ChiefName": "Мазус Алексей Израилевич",
+        "ChiefPosition": "директор",
+        "ChiefGender": "мужской",
+        "ClarificationWorkingHours": "",
+        "globalid": 656106333,
+        "OrgInfoisdeleted0": 0,
+        "OrgInfoFullName0": "",
+        "OrgInfoINN0": "",
+        "OrgInfoKPP0": "",
+        "OrgInfoOGRN0": "",
+        "OrgInfoLegalAddress0": "",
+        "OrgInfoChiefName0": "",
+        "OrgInfoChiefPosition0": null,
+        "OrgInfoChiefGender0": null,
+        "OrgInfoChiefPhone0": [
+          {
+            "isdeleted": 0,
+            "globalid": 333963,
+            "ChiefPhone": ""
+          }
+        ],
+        "OrgInfoglobalid0": 336057,
+        "ObjectAddressisdeleted0": 0,
+        "ObjectAddressAdmArea0": null,
+        "ObjectAddressDistrict0": null,
+        "ObjectAddressPostalCode0": "",
+        "ObjectAddressAddress0": "",
+        "ObjectAddressAvailability0": [
+          {
+            "isdeleted": 0,
+            "globalid": 157759,
+            "availablek": null,
+            "availableo": null,
+            "availablez": null,
+            "availables": null,
+            "availableelement": []
+          }
+        ],
+        "ObjectAddressExtrainfo0": "",
+        "ObjectAddressglobalid0": 376150,
+        "ChiefPhoneisdeleted0": 0,
+        "ChiefPhoneChiefPhone0": "",
+        "ChiefPhoneglobalid0": 351653,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "PublicPhoneglobalid0": 384560,
+        "Faxisdeleted0": 0,
+        "FaxFax0": "",
+        "Faxglobalid0": 345334,
+        "Emailisdeleted0": 0,
+        "EmailEmail0": "",
+        "Emailglobalid0": 347648,
+        "WorkingHoursisdeleted0": 0,
+        "WorkingHoursDayWeek0": null,
+        "WorkingHoursWorkHours0": "",
+        "WorkingHoursglobalid0": 2492443,
+        "WorkingHoursisdeleted1": 0,
+        "WorkingHoursDayWeek1": null,
+        "WorkingHoursWorkHours1": "",
+        "WorkingHoursglobalid1": 2496102,
+        "WorkingHoursisdeleted2": 0,
+        "WorkingHoursDayWeek2": null,
+        "WorkingHoursWorkHours2": "",
+        "WorkingHoursglobalid2": 2483483,
+        "WorkingHoursisdeleted3": 0,
+        "WorkingHoursDayWeek3": null,
+        "WorkingHoursWorkHours3": "",
+        "WorkingHoursglobalid3": 2494644,
+        "WorkingHoursisdeleted4": 0,
+        "WorkingHoursDayWeek4": null,
+        "WorkingHoursWorkHours4": "",
+        "WorkingHoursglobalid4": 2493346,
+        "WorkingHoursisdeleted5": 0,
+        "WorkingHoursDayWeek5": null,
+        "WorkingHoursWorkHours5": "",
+        "WorkingHoursglobalid5": 2491471,
+        "WorkingHoursisdeleted6": 0,
+        "WorkingHoursDayWeek6": null,
+        "WorkingHoursWorkHours6": "",
+        "WorkingHoursglobalid6": 2495994
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

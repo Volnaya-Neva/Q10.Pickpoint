@@ -1,0 +1,110 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.635160999615,
+          55.755468999821
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectName": "Московская хоральная синагога",
+        "AdmArea": "Центральный административный округ",
+        "District": "Басманный район",
+        "Address": "Большой Спасоглинищевский переулок, дом 10",
+        "PublicPhone": "(495) 624-24-24",
+        "Fax": "",
+        "Email": "info@mero.su",
+        "WebSite": "www.centralsynagogue.ru",
+        "globalid": 62408201
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.598151000102,
+          55.76022099984
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectName": "Cинагога на Большой Бронной",
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "Address": "Большая Бронная улица, дом 6, строение 3",
+        "PublicPhone": "(495) 695-76-45",
+        "Fax": "",
+        "Email": "chabad.bronnaya.moscow@gmail.com ",
+        "WebSite": "www.bronnaya.ru",
+        "globalid": 62408196
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.49634499992,
+          55.730029999929
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectName": "Мемориальная синагога на Поклонной горе",
+        "AdmArea": "Западный административный округ",
+        "District": "район Дорогомилово",
+        "Address": "Кутузовский проспект, дом 53",
+        "PublicPhone": "(495) 777-65-75",
+        "Fax": "(495) 777-65-74",
+        "Email": "info@rjc.ru",
+        "WebSite": "www.memorial.rjc.ru",
+        "globalid": 62408197
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.60835600007,
+          55.790852999773
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectName": "Московский еврейский общинный центр",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Марьина Роща",
+        "Address": "2-й Вышеславцев переулок, дом 5А",
+        "PublicPhone": "(495) 645-50-00",
+        "Fax": "",
+        "Email": "office@mjcc.ru",
+        "WebSite": "www.mjcc.ru",
+        "globalid": 62408198
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.591979000077,
+          55.855244000183
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectName": "Синагога «Даркей Шалом»",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Отрадное",
+        "Address": "Сигнальный проезд,  дом 19Б",
+        "PublicPhone": "(495) 221-65-48",
+        "Fax": "",
+        "Email": "dashalom@mtu-net.ru",
+        "WebSite": "www.shalom.org.ru",
+        "globalid": 62408199
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

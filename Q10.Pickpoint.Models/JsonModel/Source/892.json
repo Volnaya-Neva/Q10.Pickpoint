@@ -1,0 +1,309 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.5644851135535,
+          55.8681080457641
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "площадка для мини-гольфа",
+        "AdmArea": "Северный административный округ",
+        "District": "район Восточное Дегунино",
+        "Address": "Дубнинская улица, дом 16, корпус 2",
+        "Email": "sao-ur-vdegunino@mos.ru",
+        "WebSite": "vost-degunino.mos.ru",
+        "HelpPhone": "(499) 900-46-77",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-30.11",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407128673
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6582677411651,
+          55.8292033852132
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "площадка для мини-гольфа",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Ростокино",
+        "Address": "улица Бажова, дом 2",
+        "Email": "4762259@mail.ru",
+        "WebSite": "park-yauza.info",
+        "HelpPhone": "(499) 476-22-59",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-30.11",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "газонное покрытие (натуральное)",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "частично приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407134318
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5474747836494,
+          55.8779797347178
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "площадка для мини-гольфа",
+        "AdmArea": "Северный административный округ",
+        "District": "район Восточное Дегунино",
+        "Address": "улица 800-летия Москвы, дом 14",
+        "Email": "sao-ur-vdegunino@mos.ru",
+        "WebSite": "vost-degunino.mos.ru",
+        "HelpPhone": "(499) 900-46-77",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-30.11",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "асфальтовое, бетонное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407136614
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4707452426299,
+          55.8787121448364
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "площадка для мини-гольфа",
+        "AdmArea": "Северный административный округ",
+        "District": "район Ховрино",
+        "Address": "Левобережная улица, дом 12, корпус 1",
+        "Email": "s1@mossport.ru",
+        "WebSite": "umkabm.ru",
+        "HelpPhone": "(499) 458-10-84",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "да",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.04-30.11",
+        "Lighting": "освещение газоразрядными лампами",
+        "SurfaceTypeSummer": "газонное покрытие (искусственное)",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "частично приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407152630
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.605028547837,
+          55.860467140913
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "площадка для мини-гольфа",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Отрадное",
+        "Address": "Отрадная улица, дом 1А",
+        "Email": "950@edu.mos.ru",
+        "WebSite": "sch950sv.mskobr.ru",
+        "HelpPhone": "(499) 204-34-46",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "да",
+        "HasEatery": "нет",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "да",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "15.04-15.10",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "газонное покрытие (искусственное)",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 930205606
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5009307008223,
+          55.870536801483
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "площадка для мини-гольфа",
+        "AdmArea": "Северный административный округ",
+        "District": "район Ховрино",
+        "Address": "Зеленоградская улица, дом 17, корпус 1",
+        "Email": "ur.hovrino@yandex.ru",
+        "WebSite": "khovrino.mos.ru/",
+        "HelpPhone": "(495) 456-03-60",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "да",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-30.11",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1047346813
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5960003852335,
+          55.7362212547844
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "площадка для мини-гольфа",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Хамовники",
+        "Address": "Турчанинов переулок, дом 3, строение 1",
+        "Email": "",
+        "WebSite": "www.chayka-sport.ru",
+        "HelpPhone": "(499) 246-13-44",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "да",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.05-31.10",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": "частично приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1047356304
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4733128832922,
+          55.8324520933415
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "площадка для мини-гольфа",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Покровское-Стрешнево",
+        "Address": "Иваньковское шоссе, дом 2",
+        "Email": "info@mosparks.ru",
+        "WebSite": "mosparks.ru/",
+        "HelpPhone": "(495) 640-73-55",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "грунтовое покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1123951280
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

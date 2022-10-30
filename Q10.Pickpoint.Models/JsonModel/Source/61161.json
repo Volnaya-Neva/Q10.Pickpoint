@@ -1,0 +1,2466 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.409139675852,
+          55.67495926289
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "02.06.2018",
+        "AdmArea": "Западный административный округ",
+        "ContObjectName": "Мещерская",
+        "AffiliationDep": "Префектура Западного административного округа города Москвы",
+        "BalanceHolderName": "Префектура ЗАО",
+        "RespContrOrganization": "ГБУ \"Автомобильные дороги ЗАО\"",
+        "Location": "город Москва, Воскресенская улица, дом 5",
+        "TypeOfViolation": "Содержание зеленых насаждений",
+        "ViolationNature": "Не зачищена несанкционированная пикниковая точка",
+        "Photo": "4a65a630-71b9-4179-b1bf-c37c3e95dd2b",
+        "globalid": 896742548
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.216606842075,
+          55.988026544988
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "30.06.2018",
+        "AdmArea": "Зеленоградский административный округ",
+        "ContObjectName": "Большой городской пруд",
+        "AffiliationDep": "Префектура Зеленоградского административного округа города Москвы",
+        "BalanceHolderName": "Префектура ЗелАО",
+        "RespContrOrganization": "ГБУ \"Жилищник района Савелки\"",
+        "Location": "г. Москва, Зеленоград, Центральный пр-кт, з/у 1",
+        "TypeOfViolation": "Содержание МАФ и ограждений",
+        "ViolationNature": "Не удалены посторонние надписи на МАФ",
+        "Photo": "4ccdeead-c4f4-4708-bbd3-2e2c7756eaa5",
+        "globalid": 896742777
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.409442059239,
+          55.675230661512
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "07.07.2018",
+        "AdmArea": "Западный административный округ",
+        "ContObjectName": "Мещерская",
+        "AffiliationDep": "Префектура Западного административного округа города Москвы",
+        "BalanceHolderName": "Префектура ЗАО",
+        "RespContrOrganization": "ГБУ \"Автомобильные дороги ЗАО\"",
+        "Location": "город Москва, Воскресенская улица, дом 5",
+        "TypeOfViolation": "Содержание зеленых насаждений",
+        "ViolationNature": "Не зачищена несанкционированная пикниковая точка",
+        "Photo": "1e16b3ca-b763-4e6f-b19e-6d8cb1000fd5",
+        "globalid": 896742803
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.221262537292,
+          55.986166197791
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "15.07.2018",
+        "AdmArea": "Зеленоградский административный округ",
+        "ContObjectName": "Большой городской пруд",
+        "AffiliationDep": "Префектура Зеленоградского административного округа города Москвы",
+        "BalanceHolderName": "Префектура ЗелАО",
+        "RespContrOrganization": "ГБУ \"Жилищник района Савелки\"",
+        "Location": "г. Москва, Зеленоград, Центральный пр-кт, з/у 1",
+        "TypeOfViolation": "Содержание покрытия",
+        "ViolationNature": "Поврежден бортовой камень",
+        "Photo": "e628a678-e1e5-4648-adb3-7ade8deb579f",
+        "globalid": 896743353
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.405571486032,
+          55.781516458329
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "15.07.2018",
+        "AdmArea": "Северо-Западный административный округ",
+        "ContObjectName": "Серебряный Бор-3",
+        "AffiliationDep": "Департамент природопользования и охраны окружающей среды города Москвы",
+        "BalanceHolderName": "Департамент природопользования и охраны окружающей среды г. Москвы",
+        "RespContrOrganization": "ГПБУ \"Мосприрода\"",
+        "Location": "город Москва, 4-я линия Хорошёвского Серебряного Бора, дом 15",
+        "TypeOfViolation": "Состояние МАФ и ограждений",
+        "ViolationNature": "Повреждено сиденье на трибуне",
+        "Photo": "220eb90e-46b4-43f4-9c81-545435444886",
+        "globalid": 896743390
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.407995598349,
+          55.674342976764
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "14.07.2018",
+        "AdmArea": "Западный административный округ",
+        "ContObjectName": "Мещерская",
+        "AffiliationDep": "Префектура Западного административного округа города Москвы",
+        "BalanceHolderName": "Префектура ЗАО",
+        "RespContrOrganization": "ГБУ \"Автомобильные дороги ЗАО\"",
+        "Location": "город Москва, Воскресенская улица, дом 5",
+        "TypeOfViolation": "Уборка и санитария",
+        "ViolationNature": "Не убран мусор",
+        "Photo": "cb9d2ad3-e170-4c27-9e7f-34240000a44a",
+        "globalid": 896743543
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.871442451477,
+          55.714359415748
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "21.07.2018",
+        "AdmArea": "Восточный административный округ",
+        "ContObjectName": "Озеро \"Белое\"",
+        "AffiliationDep": "Префектура Восточного административного округа города Москвы",
+        "BalanceHolderName": "Префектура ВАО",
+        "RespContrOrganization": "ГБУ \"Жилищник района Косино-Ухтомский\"",
+        "Location": "город Москва, Заозёрная улица, дом 2",
+        "TypeOfViolation": "Уборка и санитария",
+        "ViolationNature": "Не убран мусор",
+        "Photo": "edd0dc6b-58e7-472a-9a34-ead9d0713503",
+        "globalid": 896743981
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.177757434299,
+          55.990651635877
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "21.07.2018",
+        "AdmArea": "Зеленоградский административный округ",
+        "ContObjectName": "Школьное озеро",
+        "AffiliationDep": "Префектура Зеленоградского административного округа города Москвы",
+        "BalanceHolderName": "Префектура ЗелАО",
+        "RespContrOrganization": "ГБУ \"Жилищник района Силино\"",
+        "Location": "г. Москва, Зеленоград, ул. Филаретовская, з/у 1",
+        "TypeOfViolation": "Состояние МАФ и ограждений",
+        "ViolationNature": "Повреждена МАФ (урна)",
+        "Photo": "75b284d1-9292-4949-bac3-5af4ce6b63cf",
+        "globalid": 896744406
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.87233294487,
+          55.715861444013
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "28.07.2018",
+        "AdmArea": "Восточный административный округ",
+        "ContObjectName": "Озеро \"Белое\"",
+        "AffiliationDep": "Префектура Восточного административного округа города Москвы",
+        "BalanceHolderName": "Префектура ВАО",
+        "RespContrOrganization": "ГБУ \"Жилищник района Косино-Ухтомский\"",
+        "Location": "город Москва, Заозёрная улица, дом 2",
+        "TypeOfViolation": "Содержание зеленых насаждений",
+        "ViolationNature": "Не удален пень",
+        "Photo": "8f58a8f1-f377-46c5-9d98-e8b08339835d",
+        "globalid": 896744418
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.407884161982,
+          55.674198741401
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "29.07.2018",
+        "AdmArea": "Западный административный округ",
+        "ContObjectName": "Мещерская",
+        "AffiliationDep": "Префектура Западного административного округа города Москвы",
+        "BalanceHolderName": "Префектура ЗАО",
+        "RespContrOrganization": "ГБУ \"Автомобильные дороги ЗАО\"",
+        "Location": "город Москва, Воскресенская улица, дом 5",
+        "TypeOfViolation": "Содержание зеленых насаждений",
+        "ViolationNature": "Не зачищена несанкционированная пикниковая точка",
+        "Photo": "915a963d-4873-4556-af0d-9431eb3a2f69",
+        "globalid": 896744549
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.40776485333,
+          55.674278602818
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "03.06.2019",
+        "AdmArea": "Западный административный округ",
+        "ContObjectName": "Мещерское",
+        "AffiliationDep": "Префектура Западного административного округа города Москвы",
+        "BalanceHolderName": "Префектура ЗАО",
+        "RespContrOrganization": "ГБУ \"Автомобильные дороги ЗАО\"",
+        "Location": "город Москва, Воскресенская улица, дом 5",
+        "TypeOfViolation": "Содержание МАФ",
+        "ViolationNature": "повреждена МАФ",
+        "Photo": "0865b03a-9257-423b-8722-4211199c29cf",
+        "globalid": 930752679
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.172670196889,
+          55.990453863761
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "04.06.2018",
+        "AdmArea": "Зеленоградский административный округ",
+        "ContObjectName": "зона отдыха Школьное озеро",
+        "AffiliationDep": "Префектура Зеленоградского административного округа города Москвы",
+        "BalanceHolderName": "ГБУ Жилищник района Силино",
+        "RespContrOrganization": "ГБУ \"Жилищник района Силино\"",
+        "Location": "город Москва, город Зеленоград, 10-й Микрорайон, дом Н",
+        "TypeOfViolation": "повреждена урна",
+        "ViolationNature": "повреждена урна",
+        "Photo": "1f69081e-850c-4a97-8456-20d12e1b6e6c",
+        "globalid": 1026713220
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.412655963898,
+          55.676183597046
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "17.06.2018",
+        "AdmArea": "Западный административный округ",
+        "ContObjectName": "озеро Мещерское",
+        "AffiliationDep": "Префектура Западного административного округа города Москвы",
+        "BalanceHolderName": "ГБУ Автомобильные дороги ЗАО",
+        "RespContrOrganization": "ГБУ Автомобильные дороги ЗАО",
+        "Location": "город Москва, Воскресенская улица, владение 5",
+        "TypeOfViolation": "поврежден настил",
+        "ViolationNature": "поврежден настил",
+        "Photo": "51f23f10-b349-4f4f-926f-5afd10fda21f",
+        "globalid": 1026713432
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.853498593767,
+          55.717428752242
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "27.06.2019",
+        "AdmArea": "Восточный административный округ",
+        "ContObjectName": "озеро Белое",
+        "AffiliationDep": "Префектура Восточного административного округа города Москвы",
+        "BalanceHolderName": "ГБУ Жилищник района Косино-Ухтомский",
+        "RespContrOrganization": "ГБУ Жилищник района Косино-Ухтомский",
+        "Location": "город Москва, Заозёрная улица, дом 20",
+        "TypeOfViolation": "повреждена МАФ",
+        "ViolationNature": "повреждены качели на детской площадке",
+        "Photo": "afc8975b-ad56-4d69-a983-b4104cc8e38b",
+        "globalid": 1026713619
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.492993488312,
+          55.636793006687
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "01.09.2018",
+        "AdmArea": "Юго-Западный административный округ",
+        "ContObjectName": "Тропарево",
+        "AffiliationDep": "Департамент природопользования и охраны окружающей среды города Москвы",
+        "BalanceHolderName": "ГПБУ Мосприрода",
+        "RespContrOrganization": "ГБУ Автомобильные дороги ЮЗАО",
+        "Location": "город Москва, улица Академика Виноградова, дом 12",
+        "TypeOfViolation": "замусоренность территории",
+        "ViolationNature": "не убран мусор",
+        "Photo": "893ff0b5-3247-4110-9345-94a6c0bef553",
+        "globalid": 1026713662
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.22182748311,
+          55.986056117843
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "19.09.2018",
+        "AdmArea": "Зеленоградский административный округ",
+        "ContObjectName": "Большой городской пруд",
+        "AffiliationDep": "Префектура Зеленоградского административного округа города Москвы",
+        "BalanceHolderName": "ГБУ Жилищник района Савелки",
+        "RespContrOrganization": "ГБУ Жилищник района Савелки",
+        "Location": "г. Москва, Зеленоград, Центральный пр-кт, з/у 1",
+        "TypeOfViolation": "повреждена МАФ",
+        "ViolationNature": "повреждена кабинка для переодевания",
+        "Photo": "4eabe9ca-c81a-41d9-99e7-a57ccd630e78",
+        "globalid": 1026713663
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.176137816969,
+          55.988651399848
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "11.08.2020",
+        "AdmArea": "Зеленоградский административный округ",
+        "ContObjectName": "зона отдыха Школьное озеро",
+        "AffiliationDep": "Префектура Зеленоградского административного округа города Москвы",
+        "BalanceHolderName": "ГБУ Жилищник ЗелАО",
+        "RespContrOrganization": "ГБУ Жилищник ЗелАО",
+        "Location": "город Москва, город Зеленоград, Панфиловский проспект, дом 10, строение 5",
+        "TypeOfViolation": "повреждена МАФ",
+        "ViolationNature": "повреждена скамейка",
+        "Photo": "72165d41-03f4-4caf-bd08-378c315fd95b",
+        "globalid": 1048039325
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.215244220404,
+          55.986639519259
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "11.08.2020",
+        "AdmArea": "Зеленоградский административный округ",
+        "ContObjectName": "Большой городской пруд",
+        "AffiliationDep": "Префектура Зеленоградского административного округа города Москвы",
+        "BalanceHolderName": "ГБУ Жилищник ЗелАО",
+        "RespContrOrganization": "ГБУ Жилищник ЗелАО",
+        "Location": "город Москва, город Зеленоград, Центральный проспект, дом 1",
+        "TypeOfViolation": "повреждена МАФ",
+        "ViolationNature": "повреждена МАФ",
+        "Photo": "c7f5890b-4839-4b3f-90bd-93230d42b9ca",
+        "globalid": 1048039763
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.847790458541,
+          55.720226942554
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "13.07.2020",
+        "AdmArea": "Восточный административный округ",
+        "ContObjectName": "зона отдыха озеро Белое",
+        "AffiliationDep": "Департамент природопользования и охраны окружающей среды города Москвы",
+        "BalanceHolderName": "ГПБУ Мосприрода",
+        "RespContrOrganization": "ГПБУ Мосприрода",
+        "Location": "город Москва, Заозёрная улица, дом 2",
+        "TypeOfViolation": "не убран мусор",
+        "ViolationNature": "не убран мусор",
+        "Photo": "a8cbbc38-e3a9-4345-b774-e1a6a0df80e0",
+        "globalid": 1048040058
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.17574180603,
+          55.988722983475
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "16.08.2020",
+        "AdmArea": "Зеленоградский административный округ",
+        "ContObjectName": "зона отдыха Школьное озеро",
+        "AffiliationDep": "Префектура Зеленоградского административного округа города Москвы",
+        "BalanceHolderName": "ГБУ Жилищник ЗелАО",
+        "RespContrOrganization": "ГБУ Жилищник ЗелАО",
+        "Location": "город Москва, город Зеленоград, Панфиловский проспект, дом 1, сооружение 2",
+        "TypeOfViolation": "повреждено резиновое покрытие",
+        "ViolationNature": "повреждено резиновое покрытие",
+        "Photo": "90c9a1f0-1598-4cfb-853f-0c9d6a2e2db0",
+        "globalid": 1048040313
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.848154601622,
+          55.720265821887
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "22.08.2020",
+        "AdmArea": "Восточный административный округ",
+        "ContObjectName": "зона отдыха озеро Белое",
+        "AffiliationDep": "Департамент природопользования и охраны окружающей среды города Москвы",
+        "BalanceHolderName": "ГПБУ Мосприрода",
+        "RespContrOrganization": "ГПБУ Мосприрода",
+        "Location": "город Москва, Заозёрная улица, дом 2",
+        "TypeOfViolation": "повреждено асфальтовое покрытие",
+        "ViolationNature": "повреждено асфальтовое покрытие",
+        "Photo": "e35ac1c0-226d-4c9f-9122-1b21f057bd01",
+        "globalid": 1048040434
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.234443401525,
+          55.992540827712
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "29.08.2020",
+        "AdmArea": "Зеленоградский административный округ",
+        "ContObjectName": "Большой городской пруд",
+        "AffiliationDep": "Префектура Зеленоградского административного округа города Москвы",
+        "BalanceHolderName": "ГБУ Жилищник ЗелАО",
+        "RespContrOrganization": "ГБУ Жилищник ЗелАО",
+        "Location": "город Москва, город Зеленоград, Центральный проспект, дом 1",
+        "TypeOfViolation": "повреждена МАФ",
+        "ViolationNature": "повреждена кабинка для переодивания",
+        "Photo": "37c74126-bded-4650-8ffd-615196b06b87",
+        "globalid": 1048040817
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.463177445853,
+          55.876252689125
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "06.08.2020",
+        "AdmArea": "Северный административный округ",
+        "ContObjectName": "пляж Левобережный",
+        "AffiliationDep": "Департамент культуры города Москвы",
+        "BalanceHolderName": "ГАУК г. Москвы МПК Северное Тушино",
+        "RespContrOrganization": "АО ОЭК",
+        "Location": "город Москва, Прибрежный проезд, дом 5",
+        "TypeOfViolation": "не работает опора освещения",
+        "ViolationNature": "не работает опора освещения",
+        "Photo": "acbf3843-5a8f-419e-86e9-3ac98d1a4dbf",
+        "globalid": 1048041462
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4067649668,
+          55.674034805909
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "07.08.2020",
+        "AdmArea": "Западный административный округ",
+        "ContObjectName": "Мещерская",
+        "AffiliationDep": "Префектура Западного административного округа города Москвы",
+        "BalanceHolderName": "ГБУ Автомобильные дороги ЗАО",
+        "RespContrOrganization": "АО ОЭК",
+        "Location": "город Москва, Воскресенская улица, дом 25, строение 1",
+        "TypeOfViolation": "не работает опора освещения",
+        "ViolationNature": "не работает опора освещения",
+        "Photo": "af3ef701-8041-41a1-bcf2-abf4fbeba391",
+        "globalid": 1048041245
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.848110118964,
+          55.721138458717
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "13.07.2020",
+        "AdmArea": "Восточный административный округ",
+        "ContObjectName": "зона отдыха озеро Белое",
+        "AffiliationDep": "Департамент природопользования и охраны окружающей среды города Москвы",
+        "BalanceHolderName": "ГПБУ Моспирода",
+        "RespContrOrganization": "ГБУ Автомобильные дороги ВАО",
+        "Location": "город Москва, Заозёрная улица, дом 2",
+        "TypeOfViolation": "не зачищена несанкционированная пикниковая точка",
+        "ViolationNature": "не зачищена несанкционированная пикниковая точка",
+        "Photo": "fbbe0592-5a0e-4a4e-b746-99e5d48a9ddb",
+        "globalid": 1048041656
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.176826000214,
+          55.990612911158
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "17.08.2020",
+        "AdmArea": "Зеленоградский административный округ",
+        "ContObjectName": "Школьное озеро",
+        "AffiliationDep": "Префектура Зеленоградского административного округа города Москвы",
+        "BalanceHolderName": "Префектура ЗелАО",
+        "RespContrOrganization": "ГБУ \"Жилищник ЗелАО\"",
+        "Location": "город Москва, город Зеленоград, Филаретовская улица, дом 3, строение 1",
+        "TypeOfViolation": "санитарное содержание территории",
+        "ViolationNature": "не убраны порубочные остатки",
+        "Photo": "13693f31-ae3f-431c-aca7-fd29afa32408",
+        "globalid": 1080972423
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.179654836655,
+          55.99011262897
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "17.08.2020",
+        "AdmArea": "Зеленоградский административный округ",
+        "ContObjectName": "Школьное озеро",
+        "AffiliationDep": "Префектура Зеленоградского административного округа города Москвы",
+        "BalanceHolderName": "Префектура ЗелАО",
+        "RespContrOrganization": "ГБУ \"Жилищник ЗелАО\"",
+        "Location": "город Москва, город Зеленоград, Филаретовская улица, дом 3, строение 1",
+        "TypeOfViolation": "санитарное содержание территорий",
+        "ViolationNature": "не убран мусор",
+        "Photo": "25ef32aa-e74c-45db-960e-20c8e553165a",
+        "globalid": 1080972429
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.224905490875,
+          55.985695823274
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "31.08.2020",
+        "AdmArea": "Зеленоградский административный округ",
+        "ContObjectName": "Большой городской пруд",
+        "AffiliationDep": "Префектура Зеленоградского административного округа города Москвы",
+        "BalanceHolderName": "Префектура ЗелАО",
+        "RespContrOrganization": "ГБУ \"Жилищник ЗелАО\"",
+        "Location": "город Москва, город Зеленоград, Озёрная аллея, дом 10",
+        "TypeOfViolation": "Содержание МАФ",
+        "ViolationNature": "повреждена вело парковка",
+        "Photo": "0f868cbf-b841-4166-84fb-e84c5414af92",
+        "globalid": 1080973000
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.848372458539,
+          55.717925895823
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "01.03.2021",
+        "AdmArea": "Восточный административный округ",
+        "ContObjectName": "ВАО, Озеро \"Белое\", ул. Заозерная, д. 2-6, отв. ГПБУ \"Мосприрода\"",
+        "AffiliationDep": "Департамент природопользования и охраны окружающей среды города Москвы",
+        "BalanceHolderName": "Департамент природопользования и охраны окружающей среды",
+        "RespContrOrganization": "ГБУ \"Автомобильные дороги ВАО\"",
+        "Location": "г. Москва, тер. ООПТ «ПИП «Косинский», ул. Заозёрная, з/у 3",
+        "TypeOfViolation": "Уборка",
+        "ViolationNature": "ДТС не очищена от снега и наледи",
+        "Photo": "20ddeed1-e5a5-4e85-aba2-1d9c37e53693",
+        "globalid": 1110709947
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.850546835107,
+          55.716838506876
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "20.02.2021",
+        "AdmArea": "Восточный административный округ",
+        "ContObjectName": "ВАО, Озеро \"Белое\"",
+        "AffiliationDep": "Департамент природопользования и охраны окружающей среды города Москвы",
+        "BalanceHolderName": "ДПИООС",
+        "RespContrOrganization": "ГБУ \"Автомобильные дороги ВАО\"",
+        "Location": "г. Москва, тер. ООПТ «ПИП «Косинский», ул. Заозёрная, з/у 3",
+        "TypeOfViolation": "Уборка",
+        "ViolationNature": "ДТС не очищена от снега и наледи",
+        "Photo": "18c28766-50e6-48c1-b5ee-13bfb3a23253",
+        "globalid": 1110709953
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.462059258978,
+          55.875481569583
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "07.02.2021",
+        "AdmArea": "Северный административный округ",
+        "ContObjectName": "пляж \"Левобережный",
+        "AffiliationDep": "Департамент культуры города Москвы",
+        "BalanceHolderName": "Департамент культуры",
+        "RespContrOrganization": "ГАУК г. Москвы МПК \"Северное Тушино\"",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Левобережный, Левобережная улица, дом 11, строение 1",
+        "TypeOfViolation": "Уборка",
+        "ViolationNature": "ДТС не очищена от снега и наледи",
+        "Photo": "a88575c5-0c7a-494e-be93-14b8988eae2f",
+        "globalid": 1110710103
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.48805522875,
+          55.635605169204
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "09.02.2021",
+        "AdmArea": "Юго-Западный административный округ",
+        "ContObjectName": "Тропарево",
+        "AffiliationDep": "Департамент природопользования и охраны окружающей среды города Москвы",
+        "BalanceHolderName": "ДПиООС",
+        "RespContrOrganization": "ГБУ \"Автомобильные дороги ЮЗАО\"",
+        "Location": "город Москва, улица Академика Виноградова, дом 12",
+        "TypeOfViolation": "Уборка",
+        "ViolationNature": "ДТС не очищена от снега и наледи",
+        "Photo": "b788bde3-6957-44dc-9df5-9725fdd766ed",
+        "globalid": 1110710127
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.21853971394,
+          55.986768113694
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "04.02.2021",
+        "AdmArea": "Зеленоградский административный округ",
+        "ContObjectName": "Большой Городской пруд",
+        "AffiliationDep": "Префектура Зеленоградского административного округа города Москвы",
+        "BalanceHolderName": "Префектура ЗелАО",
+        "RespContrOrganization": "ГБУ \"Жилищник ЗелАО\"",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Матушкино, город Зеленоград, Центральный проспект, владение 435А",
+        "TypeOfViolation": "Уборка",
+        "ViolationNature": "ДТС не очищена от снега и наледи",
+        "Photo": "bce7747d-95a5-4594-8159-e01d945625f9",
+        "globalid": 1110710257
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.216565608105,
+          55.985927888674
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "08.03.2021",
+        "AdmArea": "Зеленоградский административный округ",
+        "ContObjectName": "Большой Городской пруд",
+        "AffiliationDep": "Префектура Зеленоградского административного округа города Москвы",
+        "BalanceHolderName": "Префектура ЗелАО",
+        "RespContrOrganization": "ГБУ \"Жилищник ЗелАО\"",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Матушкино, город Зеленоград, Центральный проспект, владение 435А",
+        "TypeOfViolation": "Уборка",
+        "ViolationNature": "ДТС не очищена от снега и наледи",
+        "Photo": "724aa3a1-fd31-44ed-b950-d9db18abe81d",
+        "globalid": 1110710285
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.219798564038,
+          55.98502762719
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "12.02.2021",
+        "AdmArea": "Зеленоградский административный округ",
+        "ContObjectName": "Большой Городской пруд",
+        "AffiliationDep": "Префектура Зеленоградского административного округа города Москвы",
+        "BalanceHolderName": "Префектура ЗелАО",
+        "RespContrOrganization": "ГБУ \"Жилищник ЗелАО\"",
+        "Location": "г. Москва, Зеленоград, Центральный пр-кт, з/у 1",
+        "TypeOfViolation": "Уборка",
+        "ViolationNature": "ДТС не очищена от снега и наледи",
+        "Photo": "69cc4d12-945f-41d3-aaa8-163677f8ba99",
+        "globalid": 1110710342
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.215760945837,
+          55.986125743199
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "14.02.2021",
+        "AdmArea": "Зеленоградский административный округ",
+        "ContObjectName": "Большой городской пруд",
+        "AffiliationDep": "Префектура Зеленоградского административного округа города Москвы",
+        "BalanceHolderName": "Префектура ЗелАО",
+        "RespContrOrganization": "ГБУ \"Жилищник ЗелАО\"",
+        "Location": "г. Москва, Зеленоград, Центральный пр-кт, з/у 1",
+        "TypeOfViolation": "Уборка",
+        "ViolationNature": "ДТС не очищена от снега и наледи",
+        "Photo": "ac1b75b8-166a-421f-8252-bc5206aa2948",
+        "globalid": 1110710396
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.171783446393,
+          55.990216846561
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "21.02.2021",
+        "AdmArea": "Зеленоградский административный округ",
+        "ContObjectName": "Школьное озеро",
+        "AffiliationDep": "Префектура Зеленоградского административного округа города Москвы",
+        "BalanceHolderName": "Префектура ЗелАО",
+        "RespContrOrganization": "ГБУ \"Жилищник ЗелАО\"",
+        "Location": "г. Москва,  Зеленоград, Панфиловский пр-кт, з/у 5",
+        "TypeOfViolation": "Уборка",
+        "ViolationNature": "ДТС не очищена от снега и наледи",
+        "Photo": "88478576-ddbe-4213-8453-d7bb6141dbe4",
+        "globalid": 1110710459
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.47643947514,
+          55.879098903861
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "19.04.2021",
+        "AdmArea": "Северный административный округ",
+        "ContObjectName": "Северный административный округ\nпляж Левобережный",
+        "AffiliationDep": "Департамент культуры города Москвы",
+        "BalanceHolderName": "Департамент культуры",
+        "RespContrOrganization": "ГАУК г. Москвы МПК \"Северное Тушино\"",
+        "Location": "город Москва, Прибрежный проезд, дом 7",
+        "TypeOfViolation": "уборка",
+        "ViolationNature": "не убран КГМ",
+        "Photo": "7527c8d5-d765-420e-a707-211a443fcb12",
+        "globalid": 1139321015
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.488831281225,
+          55.634486823913
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "03.05.2021",
+        "AdmArea": "Юго-Западный административный округ",
+        "ContObjectName": "ЮЗАО, зона отдыха \"Тропарево\"",
+        "AffiliationDep": "Департамент природопользования и охраны окружающей среды города Москвы",
+        "BalanceHolderName": "ДПиООС",
+        "RespContrOrganization": "ГБУ \"Автомобильные дороги ЮЗАО\"",
+        "Location": "город Москва, улица Академика Виноградова, дом 12",
+        "TypeOfViolation": "Санитарное содержание",
+        "ViolationNature": "не зачищена несанкционированная пикниковая точка",
+        "Photo": "65d3ddf7-d2be-43a5-87e3-949a66fcdd9d",
+        "globalid": 1139321373
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.488831281225,
+          55.634486823913
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "02.05.2021",
+        "AdmArea": "Юго-Западный административный округ",
+        "ContObjectName": "ЗАО, \"Мещерское\"",
+        "AffiliationDep": "Префектура Западного административного округа города Москвы",
+        "BalanceHolderName": "Префектура ЗАО",
+        "RespContrOrganization": "ГБУ \"Автомобильные дороги ЗАО\"",
+        "Location": "город Москва, Воскресенская улица, дом 5",
+        "TypeOfViolation": "Санитарное содержание",
+        "ViolationNature": "не зачищена несанкционированная пикниковая точка",
+        "Photo": "fe4be0c6-5841-4fd8-a9a2-ea4906813342",
+        "globalid": 1139321426
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.214369773428,
+          55.988114236393
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "17.05.2021",
+        "AdmArea": "Зеленоградский административный округ",
+        "ContObjectName": "ЗелАО, Большой городской пруд",
+        "AffiliationDep": "Префектура Зеленоградского административного округа города Москвы",
+        "BalanceHolderName": "Префектура ЗелАО",
+        "RespContrOrganization": "ГБУ \"Жилищник ЗелАО\"",
+        "Location": "город Москва, город Зеленоград, Центральный проспект, корпус 438А",
+        "TypeOfViolation": "Санитарное содержание",
+        "ViolationNature": "не убран мусор",
+        "Photo": "e99adb63-8518-49cd-9bfa-95bb661b3c35",
+        "globalid": 1139321507
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.181389331818,
+          55.990968965658
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "27.05.2021",
+        "AdmArea": "Зеленоградский административный округ",
+        "ContObjectName": "ЗелАО, Школьное озеро",
+        "AffiliationDep": "Префектура Зеленоградского административного округа города Москвы",
+        "BalanceHolderName": "Префектура ЗелАО",
+        "RespContrOrganization": "ГБУ \"Жилищник ЗелАО\"",
+        "Location": "город Москва, город Зеленоград, Филаретовская улица, дом 1, строение 1",
+        "TypeOfViolation": "санитарное содержание",
+        "ViolationNature": "не убран мусор",
+        "Photo": "06601107-725e-40ec-9a5f-3ea5df2f7235",
+        "globalid": 1139321623
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.465939522663,
+          55.87856528253
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "01.12.2021",
+        "AdmArea": "Северный административный округ",
+        "ContObjectName": "САО",
+        "AffiliationDep": "Департамент культуры города Москвы",
+        "BalanceHolderName": "ГАУК города Москвы МПК Северное Тушино",
+        "RespContrOrganization": "ГАУК г. Москвы МПК \"Северное Тушино\"",
+        "Location": "город Москва, Прибрежный проезд, дом 3",
+        "TypeOfViolation": "уборка",
+        "ViolationNature": "дорожно-тропиночная сеть не очищена от снега",
+        "Photo": "dbc405e3-1075-4ece-b5fc-8841b72c7392",
+        "globalid": 1266783620
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.492591738701,
+          55.636255975072
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "25.10.2021",
+        "AdmArea": "Юго-Западный административный округ",
+        "ContObjectName": "Тропарево",
+        "AffiliationDep": "Департамент природопользования и охраны окружающей среды города Москвы",
+        "BalanceHolderName": "Департамент природопользования и охраны окружающей среды",
+        "RespContrOrganization": "ГПБУ Мосприрода",
+        "Location": "город Москва, улица Академика Виноградова, дом 12",
+        "TypeOfViolation": "повреждена МАФ",
+        "ViolationNature": "повреждена МАФ",
+        "Photo": "986efd66-648c-4799-bfb9-95e99f99740d",
+        "globalid": 1266783622
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.409357428551,
+          55.674863074189
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "18.10.2021",
+        "AdmArea": "Западный административный округ",
+        "ContObjectName": "Мещерская",
+        "AffiliationDep": "Префектура Западного административного округа города Москвы",
+        "BalanceHolderName": "ГБУ Автомобильные дороги ЗАО",
+        "RespContrOrganization": "ГБУ Автомобильные дороги ЗАО",
+        "Location": "город Москва, Воскресенская улица, дом 18, строение 1",
+        "TypeOfViolation": "повреждена МАФ",
+        "ViolationNature": "повреждена МАФ",
+        "Photo": "2d7db399-9eb3-42ac-9c9a-eef136589e0f",
+        "globalid": 1266783629
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.410943509021,
+          55.675564247543
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "15.11.2021",
+        "AdmArea": "Западный административный округ",
+        "ContObjectName": "Мещерская",
+        "AffiliationDep": "Префектура Западного административного округа города Москвы",
+        "BalanceHolderName": "ГБУ Автомобильные дороги ЗАО",
+        "RespContrOrganization": "ГБУ Автомобильные дороги ЗАО",
+        "Location": "город Москва, Воскресенская улица, дом 14",
+        "TypeOfViolation": "Повреждена МАФ",
+        "ViolationNature": "Повреждена МАФ",
+        "Photo": "f2ccc73f-a53a-489c-a512-9d162b772282",
+        "globalid": 1266783630
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.409849167743,
+          55.675523915802
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "13.12.2021",
+        "AdmArea": "Западный административный округ",
+        "ContObjectName": "Мещерская",
+        "AffiliationDep": "Префектура Западного административного округа города Москвы",
+        "BalanceHolderName": "ГБУ Автомобильные дороги ЗАО",
+        "RespContrOrganization": "ГБУ Автомобильные дороги ЗАО",
+        "Location": "город Москва, Воскресенская улица, дом 18, строение 1",
+        "TypeOfViolation": "уборка",
+        "ViolationNature": "лестничный сход не очищен от снега",
+        "Photo": "2076c585-2247-4e13-94d6-ff35fc76d724",
+        "globalid": 1266783631
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.220038175146,
+          55.986567861863
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "15.11.2021",
+        "AdmArea": "Зеленоградский административный округ",
+        "ContObjectName": "Большой городской пруд",
+        "AffiliationDep": "Префектура Зеленоградского административного округа города Москвы",
+        "BalanceHolderName": "ГБУ Жилищник ЗелАО",
+        "RespContrOrganization": "ГБУ Жилищник ЗелАО",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Савелки, город Зеленоград, Центральный проспект, дом 1",
+        "TypeOfViolation": "уборка",
+        "ViolationNature": "дорожно-тропиночная сеть не очищена от снега",
+        "Photo": "b37c8d28-688d-494c-9fec-4dc6cc399513",
+        "globalid": 1266783632
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.173643110436,
+          55.989301082707
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "25.10.2021",
+        "AdmArea": "Зеленоградский административный округ",
+        "ContObjectName": "Школьное озеро",
+        "AffiliationDep": "Префектура Зеленоградского административного округа города Москвы",
+        "BalanceHolderName": "ГБУ Жилищник ЗелАО",
+        "RespContrOrganization": "ГБУ Жилищник ЗелАО",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Крюково, город Зеленоград, Панфиловский проспект, дом 21",
+        "TypeOfViolation": "уборка",
+        "ViolationNature": "не зачищена несанкционированная пикниковая точка",
+        "Photo": "30022f30-ecb2-4678-a812-49f059656ca2",
+        "globalid": 1266783633
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.176153659384,
+          55.990556702182
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "25.10.2021",
+        "AdmArea": "Зеленоградский административный округ",
+        "ContObjectName": "Школьное озеро",
+        "AffiliationDep": "Префектура Зеленоградского административного округа города Москвы",
+        "BalanceHolderName": "ГБУ Жилищник ЗелАО",
+        "RespContrOrganization": "ГБУ Жилищник ЗелАО",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Матушкино, город Зеленоград, Панфиловский проспект, дом 10, строение 3",
+        "TypeOfViolation": "содержание водоотводящих лотков",
+        "ViolationNature": "отсутствует решетка на водоотводящем лотке",
+        "Photo": "49f37951-d8cf-4d36-b25a-038ddf898689",
+        "globalid": 1266783634
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.175084352057,
+          55.990572704847
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "28.10.2021",
+        "AdmArea": "Зеленоградский административный округ",
+        "ContObjectName": "Школьное озеро",
+        "AffiliationDep": "Префектура Зеленоградского административного округа города Москвы",
+        "BalanceHolderName": "ГБУ Жилищник ЗелАО",
+        "RespContrOrganization": "ГБУ Жилищник ЗелАО",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Крюково, город Зеленоград, Панфиловский проспект, дом 21",
+        "TypeOfViolation": "содержание МАФ",
+        "ViolationNature": "повреждена МАФ",
+        "Photo": "b94fbe60-77e1-4828-9a8d-5fb591e22aa5",
+        "globalid": 1266783635
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.172584532818,
+          55.990516895901
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "15.11.2021",
+        "AdmArea": "Зеленоградский административный округ",
+        "ContObjectName": "Школьное озеро",
+        "AffiliationDep": "Префектура Зеленоградского административного округа города Москвы",
+        "BalanceHolderName": "ГБУ Жилищник ЗелАО",
+        "RespContrOrganization": "ГБУ Жилищник ЗелАО",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Матушкино, город Зеленоград, Панфиловский проспект, сооружение 2, строение 1",
+        "TypeOfViolation": "содержание МАФ",
+        "ViolationNature": "повреждена МАФ",
+        "Photo": "6a7e37f9-17a3-4191-9982-a0c4bd511bbc",
+        "globalid": 1266783637
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.172927856445,
+          55.989348791037
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "30.03.2022",
+        "AdmArea": "Зеленоградский административный округ",
+        "ContObjectName": "Школьное озеро",
+        "AffiliationDep": "Префектура Зеленоградского административного округа города Москвы",
+        "BalanceHolderName": "ГБУ «Жилищник ЗелАО»",
+        "RespContrOrganization": "ГБУ «Жилищник ЗелАО»",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Силино, город Зеленоград, корпус 1014",
+        "TypeOfViolation": "Устранимое",
+        "ViolationNature": "Неудовлетворительное содержание информационной таблички безопасности",
+        "Photo": "35fdcb76-899f-46d5-b95f-c4bec1b4324f",
+        "globalid": 2372691748
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.848554849625,
+          55.720447694335
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "06.04.2022",
+        "AdmArea": "Восточный административный округ",
+        "ContObjectName": "Озеро Белое",
+        "AffiliationDep": "Префектура Восточного административного округа города Москвы",
+        "BalanceHolderName": "ГБУ «Жилищник района Косино-Ухтомский»",
+        "RespContrOrganization": "ГБУ «Жилищник района Косино-Ухтомский»",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Косино-Ухтомский, Заозёрная улица, земельный участок 15А/2",
+        "TypeOfViolation": "Неустранимое",
+        "ViolationNature": "Не убрана парковая территория",
+        "Photo": "53fbd340-63cd-4800-a48a-2cc95788e659",
+        "globalid": 2372695011
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.513965368271,
+          55.840749629385
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "11.04.2022",
+        "AdmArea": "Северный административный округ",
+        "ContObjectName": "Парк Петра Алексеева",
+        "AffiliationDep": "Префектура Северного административного округа города Москвы",
+        "BalanceHolderName": "ГБУ «Жилищник Головинского района»",
+        "RespContrOrganization": "ГБУ «Жилищник Головинского района»",
+        "Location": "город Москва, Михалковская улица, дом 46, корпус 3",
+        "TypeOfViolation": "Неустранимое",
+        "ViolationNature": "Не убрана парковая территория",
+        "Photo": "3ef282f1-e960-4678-8eac-bf75ccee2ca3",
+        "globalid": 2372695302
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.173453569412,
+          55.989118496512
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "20.04.2022",
+        "AdmArea": "Зеленоградский административный округ",
+        "ContObjectName": "Школьное озеро",
+        "AffiliationDep": "Префектура Зеленоградского административного округа города Москвы",
+        "BalanceHolderName": "ГБУ «Жилищник ЗелАО»",
+        "RespContrOrganization": "ГБУ «Жилищник ЗелАО»",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Силино, город Зеленоград, корпус 1014",
+        "TypeOfViolation": "Устранимое",
+        "ViolationNature": "Сломан МАФ",
+        "Photo": "4177de2c-e09b-4b03-892b-c67c016afbc9",
+        "globalid": 2372695535
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.848619222641,
+          55.720568550451
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "28.04.2022",
+        "AdmArea": "Восточный административный округ",
+        "ContObjectName": "Озеро Белое",
+        "AffiliationDep": "Префектура Восточного административного округа города Москвы",
+        "BalanceHolderName": "ГБУ «Жилищник района Косино-Ухтомский»",
+        "RespContrOrganization": "ГБУ «Жилищник района Косино-Ухтомский»",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Косино-Ухтомский, Заозёрная улица, земельный участок 15А/2",
+        "TypeOfViolation": "Неустранимое",
+        "ViolationNature": "Не убрана парковая территория",
+        "Photo": "5f85e830-92e7-45e7-86de-45e1b7843ff1",
+        "globalid": 2372695800
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.181178331375,
+          55.988080278757
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "02.05.2022",
+        "AdmArea": "Зеленоградский административный округ",
+        "ContObjectName": "Школьное озеро",
+        "AffiliationDep": "Префектура Зеленоградского административного округа города Москвы",
+        "BalanceHolderName": "ГБУ «Жилищник ЗелАО»",
+        "RespContrOrganization": "ГБУ «Жилищник ЗелАО»",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Силино, город Зеленоград, корпус 1014",
+        "TypeOfViolation": "Неустранимое",
+        "ViolationNature": "Не убрана парковая территория",
+        "Photo": "353a65e4-89ce-4670-b1d7-ea1893d3b02e",
+        "globalid": 2372699281
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.517634630203,
+          55.844460351998
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "04.05.2022",
+        "AdmArea": "Северный административный округ",
+        "ContObjectName": "Парк Петра Алексеева",
+        "AffiliationDep": "Префектура Северного административного округа города Москвы",
+        "BalanceHolderName": "ГБУ «Жилищник Головинского района»",
+        "RespContrOrganization": "ГБУ «Жилищник Головинского района»",
+        "Location": "город Москва, 1-й Лихачёвский переулок, дом 4, корпус 2",
+        "TypeOfViolation": "Устранимое",
+        "ViolationNature": "Повреждено ограждение",
+        "Photo": "8db8e802-8602-4e14-aeee-363ce4821884",
+        "globalid": 2372699508
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.179365158081,
+          55.991194848386
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "12.05.2022",
+        "AdmArea": "Зеленоградский административный округ",
+        "ContObjectName": "Школьное озеро",
+        "AffiliationDep": "Префектура Зеленоградского административного округа города Москвы",
+        "BalanceHolderName": "ГБУ «Жилищник ЗелАО»",
+        "RespContrOrganization": "ГБУ «Жилищник ЗелАО»",
+        "Location": "город Москва, город Зеленоград, корпус 1143",
+        "TypeOfViolation": "Устранимое",
+        "ViolationNature": "Разрушено покрытие из резиновой крошки",
+        "Photo": "496f2328-6971-4147-b3d2-2238d1b0b1b7",
+        "globalid": 2372699854
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.848093509674,
+          55.71916659651
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "14.05.2022",
+        "AdmArea": "Восточный административный округ",
+        "ContObjectName": "Озеро Белое",
+        "AffiliationDep": "Префектура Восточного административного округа города Москвы",
+        "BalanceHolderName": "ГБУ «Жилищник района Косино-Ухтомский»",
+        "RespContrOrganization": "ГБУ «Жилищник района Косино-Ухтомский»",
+        "Location": "город Москва, Заозёрная улица, дом 16",
+        "TypeOfViolation": "Неустранимое",
+        "ViolationNature": "Не убрана парковая территория",
+        "Photo": "5024b8b0-f6c7-4fcd-88fa-2b05ed34db5f",
+        "globalid": 2372699983
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.177755832672,
+          55.991134839781
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "15.05.2022",
+        "AdmArea": "Зеленоградский административный округ",
+        "ContObjectName": "Школьное озеро",
+        "AffiliationDep": "Префектура Зеленоградского административного округа города Москвы",
+        "BalanceHolderName": "ГБУ «Жилищник ЗелАО»",
+        "RespContrOrganization": "ГБУ «Жилищник ЗелАО»",
+        "Location": "город Москва, город Зеленоград, корпус 1143",
+        "TypeOfViolation": "Неустранимое",
+        "ViolationNature": "Не убрана парковая территория",
+        "Photo": "327d317e-47a2-4d83-9e3f-cf8a945c7ba2",
+        "globalid": 2372700187
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.515360116959,
+          55.845785524238
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "18.05.2022",
+        "AdmArea": "Северный административный округ",
+        "ContObjectName": "Парк Петра Алексеева",
+        "AffiliationDep": "Префектура Северного административного округа города Москвы",
+        "BalanceHolderName": "ГБУ «Жилищник Головинского района»",
+        "RespContrOrganization": "ГБУ «Жилищник Головинского района»",
+        "Location": "город Москва, 1-й Лихачёвский переулок, дом 4, корпус 2",
+        "TypeOfViolation": "Устранимое",
+        "ViolationNature": "Не окрашен МАФ",
+        "Photo": "247e4dd9-2065-426d-a259-f9b416955ace",
+        "globalid": 2372700371
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.173796892166,
+          55.989100492973
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "24.05.2022",
+        "AdmArea": "Зеленоградский административный округ",
+        "ContObjectName": "Школьное озеро",
+        "AffiliationDep": "Префектура Зеленоградского административного округа города Москвы",
+        "BalanceHolderName": "ГБУ «Жилищник ЗелАО»",
+        "RespContrOrganization": "ГБУ «Жилищник ЗелАО»",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Силино, город Зеленоград, корпус 1014",
+        "TypeOfViolation": "Устранимое",
+        "ViolationNature": "Грязный МАФ",
+        "Photo": "c645aca3-5c71-4147-8015-c18f84082b18",
+        "globalid": 2372700507
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.853393554688,
+          55.717184437825
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "02.06.2022",
+        "AdmArea": "Восточный административный округ",
+        "ContObjectName": "Озеро Белое",
+        "AffiliationDep": "Префектура Восточного административного округа города Москвы",
+        "BalanceHolderName": "ГБУ «Жилищник района Косино-Ухтомский»",
+        "RespContrOrganization": "ГБУ «Жилищник района Косино-Ухтомский»",
+        "Location": "город Москва, поселение Щаповское, деревня Кузенево, Заозёрная улица, дом 2",
+        "TypeOfViolation": "Неустранимое",
+        "ViolationNature": "Переполнена урна",
+        "Photo": "214fdaca-dd0c-4107-a227-ce6d735a27c0",
+        "globalid": 2372701765
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.51816034317,
+          55.844526611683
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "06.06.2022",
+        "AdmArea": "Северный административный округ",
+        "ContObjectName": "Парк Петра Алексеева",
+        "AffiliationDep": "Префектура Северного административного округа города Москвы",
+        "BalanceHolderName": "ГБУ «Жилищник Головинского района»",
+        "RespContrOrganization": "ГБУ «Жилищник Головинского района»",
+        "Location": "город Москва, 1-й Лихачёвский переулок, дом 4, корпус 2",
+        "TypeOfViolation": "Устранимое",
+        "ViolationNature": "Повреждено ограждение",
+        "Photo": "cab907f3-4a8f-47ae-97df-14dbb681927d",
+        "globalid": 2372702004
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.172487974167,
+          55.98959146147
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "08.06.2022",
+        "AdmArea": "Зеленоградский административный округ",
+        "ContObjectName": "Школьное озеро",
+        "AffiliationDep": "Префектура Зеленоградского административного округа города Москвы",
+        "BalanceHolderName": "ГБУ «Жилищник ЗелАО»",
+        "RespContrOrganization": "ГБУ «Жилищник ЗелАО»",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Силино, город Зеленоград, корпус 1014",
+        "TypeOfViolation": "Устранимое",
+        "ViolationNature": "Разрушено покрытие из резиновой крошки",
+        "Photo": "fe08045f-3c41-41b0-bea0-6994c0016775",
+        "globalid": 2372702184
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.520574331284,
+          55.843677274439
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "09.06.2022",
+        "AdmArea": "Северный административный округ",
+        "ContObjectName": "Парк Петра Алексеева",
+        "AffiliationDep": "Префектура Северного административного округа города Москвы",
+        "BalanceHolderName": "ГБУ «Жилищник Головинского района»",
+        "RespContrOrganization": "ГБУ «Жилищник Головинского района»",
+        "Location": "город Москва, 1-й Лихачёвский переулок, дом 4, корпус 2",
+        "TypeOfViolation": "Устранимое",
+        "ViolationNature": "Неудовлетворительное содержание газона (непокос)",
+        "Photo": "6f9a9a85-af45-4b1f-8ab3-2418127c44d8",
+        "globalid": 2372702292
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.460535764694,
+          55.874572769465
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "11.06.2022",
+        "AdmArea": "Северный административный округ",
+        "ContObjectName": "пляж Левобережный",
+        "AffiliationDep": "Департамент культуры города Москвы",
+        "BalanceHolderName": "ГАУК г. Москвы МПК Северное Тушино",
+        "RespContrOrganization": "ГАУК г. Москвы МПК Северное Тушино",
+        "Location": "город Москва, Прибрежный проезд, дом 1",
+        "TypeOfViolation": "Неустранимое",
+        "ViolationNature": "Не убрана парковая территория",
+        "Photo": "80ee0924-8e8d-4d91-ac27-b5e623d9f3b2",
+        "globalid": 2372702499
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.407546043396,
+          55.673920544029
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "27.06.2022",
+        "AdmArea": "Западный административный округ",
+        "ContObjectName": "озеро Мещерское",
+        "AffiliationDep": "Префектура Западного административного округа города Москвы",
+        "BalanceHolderName": "ГБУ «Автомобильные дороги ЗАО»",
+        "RespContrOrganization": "ГБУ «Автомобильные дороги ЗАО»",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Солнцево, Воскресенская улица, дом 3, строение 1",
+        "TypeOfViolation": "Устранимое",
+        "ViolationNature": "Сломан МАФ",
+        "Photo": "f1ca3382-af8f-4fb3-b01a-274e8e9a9f1f",
+        "globalid": 2372706210
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.406569719315,
+          55.673478890646
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "27.06.2022",
+        "AdmArea": "Западный административный округ",
+        "ContObjectName": "озеро Мещерское",
+        "AffiliationDep": "Префектура Западного административного округа города Москвы",
+        "BalanceHolderName": "ГБУ «Автомобильные дороги ЗАО»",
+        "RespContrOrganization": "ГБУ «Автомобильные дороги ЗАО»",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Солнцево, Воскресенская улица, дом 3, строение 1",
+        "TypeOfViolation": "Устранимое",
+        "ViolationNature": "Сломан МАФ",
+        "Photo": "6b8d6070-7c22-499b-a2b2-6cf990eca0b5",
+        "globalid": 2372706349
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.407331466675,
+          55.673620311022
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "21.06.2022",
+        "AdmArea": "Западный административный округ",
+        "ContObjectName": "озеро Мещерское",
+        "AffiliationDep": "Префектура Западного административного округа города Москвы",
+        "BalanceHolderName": "ГБУ «Автомобильные дороги ЗАО»",
+        "RespContrOrganization": "ГБУ «Автомобильные дороги ЗАО»",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Солнцево, Воскресенская улица, дом 10",
+        "TypeOfViolation": "Устранимое",
+        "ViolationNature": "Не работает освещение",
+        "Photo": "557c2103-9928-47b8-bdde-1d63c839e7e0",
+        "globalid": 2372706375
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.40758895874,
+          55.67422984968
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "21.06.2022",
+        "AdmArea": "Западный административный округ",
+        "ContObjectName": "озеро Мещерское",
+        "AffiliationDep": "Префектура Северо-Западного административного округа города Москвы",
+        "BalanceHolderName": "ГБУ «Автомобильные дороги ЗАО»",
+        "RespContrOrganization": "ГБУ «Автомобильные дороги ЗАО»",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Солнцево, Воскресенская улица, дом 10",
+        "TypeOfViolation": "Неустранимое",
+        "ViolationNature": "Не убрана парковая территория",
+        "Photo": "c8d64d04-24e6-4401-be6c-d9a7d3b2f70e",
+        "globalid": 2372706492
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.409960031509,
+          55.675184976144
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "27.04.2022",
+        "AdmArea": "Западный административный округ",
+        "ContObjectName": "озеро Мещерское",
+        "AffiliationDep": "Префектура Западного административного округа города Москвы",
+        "BalanceHolderName": "ГБУ «Автомобильные дороги ЗАО»",
+        "RespContrOrganization": "ГБУ «Автомобильные дороги ЗАО»",
+        "Location": "город Москва, Воскресенская улица, дом 1",
+        "TypeOfViolation": "Устранимое",
+        "ViolationNature": "Разрушение плиточного покрытия",
+        "Photo": "2d0ce0d1-44bb-41d5-847e-3ce7ca14a588",
+        "globalid": 2372706542
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.407900094986,
+          55.784388693577
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "27.04.2022",
+        "AdmArea": "Северо-Западный административный округ",
+        "ContObjectName": "озеро Мещерское",
+        "AffiliationDep": "Префектура Западного административного округа города Москвы",
+        "BalanceHolderName": "ГБУ «Автомобильные дороги ЗАО»",
+        "RespContrOrganization": "ГБУ «Автомобильные дороги ЗАО»",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Солнцево, Воскресенская улица, дом 10",
+        "TypeOfViolation": "Неустранимое",
+        "ViolationNature": "Не убрана парковая территория",
+        "Photo": "fff858b4-a076-4a3e-9650-d9a911a5b4c6",
+        "globalid": 2372706644
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.422051429749,
+          55.802664900899
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "28.06.2022",
+        "AdmArea": "Северо-Западный административный округ",
+        "ContObjectName": "Природно-исторический парк Москворецкий",
+        "AffiliationDep": "Департамент природопользования и охраны окружающей среды города Москвы",
+        "BalanceHolderName": "ГПУ «Природно-исторический парк Москворецкий»",
+        "RespContrOrganization": "ГБУ «Автомобильные дороги СЗАО»",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Строгино, улица Маршала Катукова, земельный участок 24/5",
+        "TypeOfViolation": "Устранимое",
+        "ViolationNature": "Не убрана парковая территория",
+        "Photo": "2fb9a145-e85b-487f-a00e-52381dc69030",
+        "globalid": 2372707891
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.407900094986,
+          55.784388693577
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "28.06.2022",
+        "AdmArea": "Северо-Западный административный округ",
+        "ContObjectName": "Памятник природы Серебряный Бор",
+        "AffiliationDep": "Департамент природопользования и охраны окружающей среды города Москвы",
+        "BalanceHolderName": "ГПБУ «Московское городское управление природными территориями»",
+        "RespContrOrganization": "ГБУ «Автомобильные дороги СЗАО»",
+        "Location": "город Москва, 4-я линия Хорошёвского Серебряного Бора, дом 15",
+        "TypeOfViolation": "Устранимое",
+        "ViolationNature": "Не убрана парковая территория",
+        "Photo": "2422b0a9-2de8-47d3-b2ec-245530323e8a",
+        "globalid": 2372708050
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.84775018692,
+          55.721964411488
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "02.07.2022",
+        "AdmArea": "Восточный административный округ",
+        "ContObjectName": "Озеро Белое",
+        "AffiliationDep": "Департамент природопользования и охраны окружающей среды города Москвы",
+        "BalanceHolderName": "Департамент природопользования и охраны окружающей среды г. Москвы",
+        "RespContrOrganization": "ГПБУ \"Мосприрода\"",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Косино-Ухтомский, Заозёрная улица, дом 15А, строение 10",
+        "TypeOfViolation": "Неустранимое",
+        "ViolationNature": "Не убрана парковая территория",
+        "Photo": "9c8440c5-8e59-40dd-8ed2-9e7960d8efaa",
+        "globalid": 2387168214
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.46196269989,
+          55.87565616462
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "02.07.2022",
+        "AdmArea": "Северный административный округ",
+        "ContObjectName": "пляж Левобережный",
+        "AffiliationDep": "Департамент культуры города Москвы",
+        "BalanceHolderName": "ГАУК «Музейно-Парковый Комплекс «Северное Тушино»",
+        "RespContrOrganization": "ГАУК «Музейно-Парковый Комплекс «Северное Тушино»",
+        "Location": "город Москва, Прибрежный проезд, дом 7",
+        "TypeOfViolation": "Неустранимое",
+        "ViolationNature": "Не убрана парковая территория",
+        "Photo": "c304c214-22e7-43f0-b475-3d4666b3b01a",
+        "globalid": 2387168492
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.411301136017,
+          55.676294345544
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "08.07.2022",
+        "AdmArea": "Западный административный округ",
+        "ContObjectName": "озеро Мещерское",
+        "AffiliationDep": "Префектура Западного административного округа города Москвы",
+        "BalanceHolderName": "ГБУ «Автомобильные дороги ЗАО»",
+        "RespContrOrganization": "ГБУ «Автомобильные дороги ЗАО»",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Солнцево, Воскресенская улица, дом 3, строение 1",
+        "TypeOfViolation": "Неустранимое",
+        "ViolationNature": "Не убрана парковая территория",
+        "Photo": "8906438f-7f44-47d5-ab42-3efbbee40ea4",
+        "globalid": 2387467138
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.408050298691,
+          55.67516682669
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "13.07.2022",
+        "AdmArea": "Западный административный округ",
+        "ContObjectName": "озеро Мещерское",
+        "AffiliationDep": "Префектура Западного административного округа города Москвы",
+        "BalanceHolderName": "ГБУ «Автомобильные дороги ЗАО»",
+        "RespContrOrganization": "ГБУ «Автомобильные дороги ЗАО»",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Солнцево, Воскресенская улица, дом 3, строение 1",
+        "TypeOfViolation": "Неустранимое",
+        "ViolationNature": "Не убрана парковая территория",
+        "Photo": "39425add-efaf-4233-8591-9e6d06311aec",
+        "globalid": 2387467294
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.405400276184,
+          55.672906397591
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "13.07.2022",
+        "AdmArea": "Западный административный округ",
+        "ContObjectName": "озеро Мещерское",
+        "AffiliationDep": "Префектура Западного административного округа города Москвы",
+        "BalanceHolderName": "ГБУ «Автомобильные дороги ЗАО»",
+        "RespContrOrganization": "ГБУ «Автомобильные дороги ЗАО»",
+        "Location": "город Москва, Воскресенская улица, дом 3, строение А",
+        "TypeOfViolation": "Устранимое",
+        "ViolationNature": "Сломан МАФ",
+        "Photo": "dbdf9636-b863-4864-8f59-c16a04c9ae5b",
+        "globalid": 2387467495
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.407031059265,
+          55.673571910523
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "13.07.2022",
+        "AdmArea": "Западный административный округ",
+        "ContObjectName": "озеро Мещерское",
+        "AffiliationDep": "Префектура Западного административного округа города Москвы",
+        "BalanceHolderName": "ГБУ «Автомобильные дороги ЗАО»",
+        "RespContrOrganization": "ГБУ «Автомобильные дороги ЗАО»",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Солнцево, Воскресенская улица, дом 3, строение 1",
+        "TypeOfViolation": "Неустранимое",
+        "ViolationNature": "Не убрана парковая территория",
+        "Photo": "c2982f17-e12a-48c6-bd6e-d935b2f41c45",
+        "globalid": 2387467712
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.174987792969,
+          55.990936810724
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "17.07.2022",
+        "AdmArea": "Зеленоградский административный округ",
+        "ContObjectName": "Школьное озеро",
+        "AffiliationDep": "Префектура Зеленоградского административного округа города Москвы",
+        "BalanceHolderName": "ГБУ «Жилищник ЗелАО»",
+        "RespContrOrganization": "ГБУ «Жилищник ЗелАО»",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Силино, город Зеленоград, корпус 1136",
+        "TypeOfViolation": "Устранимое",
+        "ViolationNature": "Грязный МАФ",
+        "Photo": "799f7d54-5f11-4b5e-af7f-690ba0d8d211",
+        "globalid": 2387468220
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.513546943665,
+          55.847249184707
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "18.07.2022",
+        "AdmArea": "Северный административный округ",
+        "ContObjectName": "Парк Петра Алексеева",
+        "AffiliationDep": "Префектура Северного административного округа города Москвы",
+        "BalanceHolderName": "ГБУ «Жилищник Головинского района»",
+        "RespContrOrganization": "ГБУ «Жилищник Головинского района»",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Головинский, 3-й Лихачёвский переулок, дом 1, корпус 1",
+        "TypeOfViolation": "Устранимое",
+        "ViolationNature": "Неудовлетворительное содержание газона (непокос)",
+        "Photo": "33c16153-f44d-47b0-9950-78d72ee86746",
+        "globalid": 2387468514
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.40617275238,
+          55.673962894092
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "19.07.2022",
+        "AdmArea": "Западный административный округ",
+        "ContObjectName": "озеро Мещерское",
+        "AffiliationDep": "Префектура Западного административного округа города Москвы",
+        "BalanceHolderName": "ГБУ «Автомобильные дороги ЗАО»",
+        "RespContrOrganization": "ГБУ «Автомобильные дороги ЗАО»",
+        "Location": "город Москва, Воскресенская улица, дом 3, строение А",
+        "TypeOfViolation": "Неустранимое",
+        "ViolationNature": "Не убрана парковая территория",
+        "Photo": "9b053431-db21-4efd-953e-b4308818cbbb",
+        "globalid": 2387468791
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.406634092331,
+          55.673497040884
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "19.07.2022",
+        "AdmArea": "Западный административный округ",
+        "ContObjectName": "озеро Мещерское",
+        "AffiliationDep": "Префектура Западного административного округа города Москвы",
+        "BalanceHolderName": "ГБУ «Автомобильные дороги ЗАО»",
+        "RespContrOrganization": "ГБУ «Автомобильные дороги ЗАО»",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Солнцево, Воскресенская улица, дом 3, строение 1",
+        "TypeOfViolation": "Неустранимое",
+        "ViolationNature": "Не убрана парковая территория",
+        "Photo": "cb96186b-19b6-4751-a988-f7e1ec1fccc9",
+        "globalid": 2387469063
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.172605991364,
+          55.99069302356
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "23.07.2022",
+        "AdmArea": "Зеленоградский административный округ",
+        "ContObjectName": "Школьное озеро",
+        "AffiliationDep": "Префектура Зеленоградского административного округа города Москвы",
+        "BalanceHolderName": "ГБУ «Жилищник ЗелАО»",
+        "RespContrOrganization": "ГБУ «Жилищник ЗелАО»",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Силино, город Зеленоград, корпус 1136",
+        "TypeOfViolation": "Неустранимое",
+        "ViolationNature": "Не убрана парковая территория",
+        "Photo": "b79447a3-e5bb-4757-86b7-5c571687c9ed",
+        "globalid": 2387469257
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.407202720642,
+          55.670655669978
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "25.07.2022",
+        "AdmArea": "Западный административный округ",
+        "ContObjectName": "озеро Мещерское",
+        "AffiliationDep": "Префектура Западного административного округа города Москвы",
+        "BalanceHolderName": "ГБУ «Автомобильные дороги ЗАО»",
+        "RespContrOrganization": "ГБУ «Автомобильные дороги ЗАО»",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Солнцево, Воскресенская улица, дом 3, строение 1",
+        "TypeOfViolation": "Неустранимое",
+        "ViolationNature": "Не убрана парковая территория",
+        "Photo": "27563717-5469-47a5-9c11-52612eb65c28",
+        "globalid": 2387470844
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.40715444088,
+          55.670827731179
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "25.07.2022",
+        "AdmArea": "Западный административный округ",
+        "ContObjectName": "озеро Мещерское",
+        "AffiliationDep": "Префектура Западного административного округа города Москвы",
+        "BalanceHolderName": "ГБУ «Автомобильные дороги ЗАО»",
+        "RespContrOrganization": "ГБУ «Автомобильные дороги ЗАО»",
+        "Location": "г. Москва, ЗАО, Воскресенская улица, вл. 3, стр. А",
+        "TypeOfViolation": "Устранимое",
+        "ViolationNature": "Сломан МАФ",
+        "Photo": "e3105db7-e081-44cd-957c-563f19cc06d0",
+        "globalid": 2387470976
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.511594295502,
+          55.846859934705
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "26.07.2022",
+        "AdmArea": "Северный административный округ",
+        "ContObjectName": "Парк Петра Алексеева",
+        "AffiliationDep": "Префектура Северного административного округа города Москвы",
+        "BalanceHolderName": "ГБУ «Жилищник Головинского района»",
+        "RespContrOrganization": "ГБУ «Жилищник Головинского района»",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Головинский, Кронштадтский бульвар, дом 24, корпус 3",
+        "TypeOfViolation": "Устранимое",
+        "ViolationNature": "Неудовлетворительное содержание газона (непокос)",
+        "Photo": "e1cb114d-d6e2-4fd9-9983-7f16263b90af",
+        "globalid": 2387471070
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.46509552002,
+          55.876902031679
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "02.08.2022",
+        "AdmArea": "Северный административный округ",
+        "ContObjectName": "пляж Левобережный",
+        "AffiliationDep": "Департамент культуры города Москвы",
+        "BalanceHolderName": "ГАУК «Музейно-Парковый Комплекс «Северное Тушино»",
+        "RespContrOrganization": "ГАУК «Музейно-Парковый Комплекс «Северное Тушино»",
+        "Location": "город Москва, Прибрежный проезд, дом 7",
+        "TypeOfViolation": "Устранимое",
+        "ViolationNature": "Сломан МАФ",
+        "Photo": "ef7be183-9aa1-4329-9d16-da4aa7d59812",
+        "globalid": 2387471189
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.170320749283,
+          55.990428606514
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "02.08.2022",
+        "AdmArea": "Зеленоградский административный округ",
+        "ContObjectName": "Школьное озеро",
+        "AffiliationDep": "Префектура Зеленоградского административного округа города Москвы",
+        "BalanceHolderName": "ГБУ «Жилищник ЗелАО»",
+        "RespContrOrganization": "ГБУ «Жилищник ЗелАО»",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Силино, город Зеленоград, корпус 1014",
+        "TypeOfViolation": "Устранимое",
+        "ViolationNature": "Разрушено покрытие из резиновой крошки",
+        "Photo": "1247c1f2-e5e0-45f5-bee7-a05875c2988a",
+        "globalid": 2387471380
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.46629178524,
+          55.878980268646
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "05.08.2022",
+        "AdmArea": "Северный административный округ",
+        "ContObjectName": "пляж Левобережный",
+        "AffiliationDep": "Департамент культуры города Москвы",
+        "BalanceHolderName": "ГАУК «Музейно-Парковый Комплекс «Северное Тушино»",
+        "RespContrOrganization": "ГАУК «Музейно-Парковый Комплекс «Северное Тушино»",
+        "Location": "город Москва, Прибрежный проезд, дом 7",
+        "TypeOfViolation": "Устранимое",
+        "ViolationNature": "Сломан МАФ",
+        "Photo": "22b10a47-e093-4b9c-ad0b-512be36c08ad",
+        "globalid": 2387471582
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.1799659729,
+          55.991173095277
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "06.08.2022",
+        "AdmArea": "Зеленоградский административный округ",
+        "ContObjectName": "Школьное озеро",
+        "AffiliationDep": "Префектура Зеленоградского административного округа города Москвы",
+        "BalanceHolderName": "ГБУ «Жилищник ЗелАО»",
+        "RespContrOrganization": "ГБУ «Жилищник ЗелАО»",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Силино, город Зеленоград, корпус 1136",
+        "TypeOfViolation": "Неустранимое",
+        "ViolationNature": "Не убрана парковая территория",
+        "Photo": "824438a9-d9f7-4cbe-aa02-b003a259e9a6",
+        "globalid": 2387471707
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.538866996765,
+          55.833992162527
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "13.08.2022",
+        "AdmArea": "Северный административный округ",
+        "ContObjectName": "Большой Садовый пруд",
+        "AffiliationDep": "Префектура Северного административного округа города Москвы",
+        "BalanceHolderName": "ГБУ «Жилищник Тимирязевского района»",
+        "RespContrOrganization": "ГБУ «Жилищник Тимирязевского района»",
+        "Location": "город Москва, Большая Академическая улица, владение 40, строение 2",
+        "TypeOfViolation": "Устранимое",
+        "ViolationNature": "Сломан МАФ",
+        "Photo": "04b4538e-35d1-4a19-8582-e070877d000a",
+        "globalid": 2387471886
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.183356285095,
+          55.990561002793
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "16.08.2022",
+        "AdmArea": "Зеленоградский административный округ",
+        "ContObjectName": "Школьное озеро",
+        "AffiliationDep": "Префектура Зеленоградского административного округа города Москвы",
+        "BalanceHolderName": "ГБУ «Жилищник ЗелАО»",
+        "RespContrOrganization": "ГБУ «Жилищник ЗелАО»",
+        "Location": "город Москва, город Зеленоград, корпус 1145",
+        "TypeOfViolation": "Неустранимое",
+        "ViolationNature": "Не убрана парковая территория",
+        "Photo": "916c6b62-bfa2-4eb5-a1ba-053a87914154",
+        "globalid": 2387471924
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.461748123169,
+          55.874614902064
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "19.08.2022",
+        "AdmArea": "Северный административный округ",
+        "ContObjectName": "пляж Левобережный",
+        "AffiliationDep": "Департамент культуры города Москвы",
+        "BalanceHolderName": "ГАУК «Музейно-Парковый Комплекс «Северное Тушино»",
+        "RespContrOrganization": "ГАУК «Музейно-Парковый Комплекс «Северное Тушино»",
+        "Location": "город Москва, Прибрежный проезд, дом 5",
+        "TypeOfViolation": "Неустранимое",
+        "ViolationNature": "Не убрана парковая территория",
+        "Photo": "92c49ea3-bafc-4b83-af18-1d1913063b0f",
+        "globalid": 2387471953
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.510499954224,
+          55.839803820389
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "20.08.2022",
+        "AdmArea": "Северный административный округ",
+        "ContObjectName": "Парк Петра Алексеева",
+        "AffiliationDep": "Префектура Северного административного округа города Москвы",
+        "BalanceHolderName": "ГБУ «Жилищник Головинского района»",
+        "RespContrOrganization": "ГБУ «Жилищник Головинского района»",
+        "Location": "город Москва, Михалковская улица, дом 52, строение 7",
+        "TypeOfViolation": "Неустранимое",
+        "ViolationNature": "Не убрана парковая территория",
+        "Photo": "09b23399-ee5c-498d-b180-de693e8d015d",
+        "globalid": 2387471965
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.517763376236,
+          55.8442845374
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "23.08.2022",
+        "AdmArea": "Северный административный округ",
+        "ContObjectName": "Парк Петра Алексеева",
+        "AffiliationDep": "Префектура Северного административного округа города Москвы",
+        "BalanceHolderName": "ГБУ «Жилищник Головинского района»",
+        "RespContrOrganization": "ГБУ «Жилищник Головинского района»",
+        "Location": "город Москва, 1-й Лихачёвский переулок, дом 4, корпус 2А",
+        "TypeOfViolation": "Неустранимое",
+        "ViolationNature": "Не убрана парковая территория",
+        "Photo": "76f9ed2e-6ce8-423d-bc0c-c365082d3da1",
+        "globalid": 2387472812
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.516513466835,
+          55.84469056627
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "23.08.2022",
+        "AdmArea": "Северный административный округ",
+        "ContObjectName": "Парк Петра Алексеева",
+        "AffiliationDep": "Префектура Северного административного округа города Москвы",
+        "BalanceHolderName": "ГБУ «Жилищник Головинского района»",
+        "RespContrOrganization": "ГБУ «Жилищник Головинского района»",
+        "Location": "город Москва, 1-й Лихачёвский переулок, дом 4, корпус 2",
+        "TypeOfViolation": "Устранимое",
+        "ViolationNature": "Сломан МАФ",
+        "Photo": "a9fb08a4-d659-4c44-8eb0-8b7f63c5b072",
+        "globalid": 2387472844
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.458808422089,
+          55.874111564993
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "27.08.2022",
+        "AdmArea": "Северный административный округ",
+        "ContObjectName": "пляж Левобережный",
+        "AffiliationDep": "Департамент культуры города Москвы",
+        "BalanceHolderName": "ГАУК «Музейно-Парковый Комплекс «Северное Тушино»",
+        "RespContrOrganization": "ГАУК «Музейно-Парковый Комплекс «Северное Тушино»",
+        "Location": "город Москва, Прибрежный проезд, дом 1",
+        "TypeOfViolation": "Неустранимое",
+        "ViolationNature": "Не убрана парковая территория",
+        "Photo": "1890021f-1852-4850-bd1c-c17921f013b7",
+        "globalid": 2387472906
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.463850975037,
+          55.876589064004
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "29.08.2022",
+        "AdmArea": "Северный административный округ",
+        "ContObjectName": "пляж Левобережный",
+        "AffiliationDep": "Департамент культуры города Москвы",
+        "BalanceHolderName": "ГАУК «Музейно-Парковый Комплекс «Северное Тушино»",
+        "RespContrOrganization": "ГАУК «Музейно-Парковый Комплекс «Северное Тушино»",
+        "Location": "город Москва, Прибрежный проезд, дом 7",
+        "TypeOfViolation": "Устранимое",
+        "ViolationNature": "Сломан МАФ",
+        "Photo": "786e4883-f160-4d76-82b1-5de4ec53ffc0",
+        "globalid": 2387480152
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.516277432442,
+          55.844868261391
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "07.09.2022",
+        "AdmArea": "Северный административный округ",
+        "ContObjectName": "Парк Петра Алексеева",
+        "AffiliationDep": "Префектура Северного административного округа города Москвы",
+        "BalanceHolderName": "ГБУ «Жилищник Головинского района»",
+        "RespContrOrganization": "ГБУ «Жилищник Головинского района»",
+        "Location": "город Москва, 1-й Лихачёвский переулок, дом 6",
+        "TypeOfViolation": "Устранимое",
+        "ViolationNature": "Сломан МАФ",
+        "Photo": "6e5ad8cb-eeec-4816-a1b6-c946b8cd247b",
+        "globalid": 2387500562
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.179861366749,
+          55.991146653982
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "07.09.2022",
+        "AdmArea": "Зеленоградский административный округ",
+        "ContObjectName": "Школьное озеро",
+        "AffiliationDep": "Префектура Зеленоградского административного округа города Москвы",
+        "BalanceHolderName": "ГБУ «Жилищник ЗелАО»",
+        "RespContrOrganization": "ГБУ «Жилищник ЗелАО»",
+        "Location": "город Москва, город Зеленоград, Филаретовская улица, дом 3, строение 1",
+        "TypeOfViolation": "Неустранимое",
+        "ViolationNature": "Не убрана парковая территория",
+        "Photo": "21801c07-f409-47dc-a4c6-02c90e717e84",
+        "globalid": 2387515048
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.51916885376,
+          55.843207420332
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "15.09.2022",
+        "AdmArea": "Северный административный округ",
+        "ContObjectName": "Парк Петра Алексеева",
+        "AffiliationDep": "Префектура Северного административного округа города Москвы",
+        "BalanceHolderName": "ГБУ «Жилищник Головинского района»",
+        "RespContrOrganization": "ГБУ «Жилищник Головинского района»",
+        "Location": "город Москва, 1-й Лихачёвский переулок, дом 4, корпус 1",
+        "TypeOfViolation": "Устранимое",
+        "ViolationNature": "Грязный МАФ",
+        "Photo": "02341e2f-ed7e-42cd-b19d-c54b4f2e8984",
+        "globalid": 2387523335
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.48986254088,
+          55.632598561906
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "SurveyDate": "02.06.2019",
+        "AdmArea": "Юго-Западный административный округ",
+        "ContObjectName": "Тропарево",
+        "AffiliationDep": "Департамент природопользования и охраны окружающей среды города Москвы",
+        "BalanceHolderName": "ДПиООС",
+        "RespContrOrganization": "ГБУ \"Автомобильные дороги ЮЗАО\"",
+        "Location": "город Москва, улица Академика Виноградова, дом 12",
+        "TypeOfViolation": "содержание зеленых насаждений",
+        "ViolationNature": "не зачищена несанкционированная пикниковая точка",
+        "Photo": "d6757c67-1ae4-4dc0-96ef-fb66d98550ec",
+        "globalid": 930752093
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,467 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.6193384980219,
+          55.7568321043918
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "Площадь Революции",
+        "EventName": "Московская Весна",
+        "Period": "30.04.2022-10.05.2022",
+        "WorkingHours": "10:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru",
+        "AmountOfPlaces": 7,
+        "globalid": 345260675
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6103650496102,
+          55.7618873077511
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "Тверская площадь",
+        "EventName": "Московская Весна",
+        "Period": "30.04.2022-10.05.2022",
+        "WorkingHours": "10:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru",
+        "AmountOfPlaces": 18,
+        "globalid": 345260676
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5240064583647,
+          55.831798785699
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Северный административный округ",
+        "District": "район Коптево",
+        "Address": "Коптевский бульвар, вл. 18 (парк «Бригантина»)",
+        "EventName": "Московская Весна",
+        "Period": "30.04.2022-10.05.2022",
+        "WorkingHours": "10:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru",
+        "AmountOfPlaces": 6,
+        "globalid": 345260677
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6018158906173,
+          55.8612473955906
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Отрадное",
+        "Address": "Сквер по ул. Хачатуряна",
+        "EventName": "Московская Весна",
+        "Period": "30.04.2022-10.05.2022",
+        "WorkingHours": "10:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru",
+        "AmountOfPlaces": 4,
+        "globalid": 345260678
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.864896511184,
+          55.7436395949503
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Восточный административный округ",
+        "District": "район Новокосино",
+        "Address": "ул. Городецкая, вл.1",
+        "EventName": "Московская Весна",
+        "Period": "30.04.2022-10.05.2022",
+        "WorkingHours": "10:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru",
+        "AmountOfPlaces": 8,
+        "globalid": 345260679
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.8782709766885,
+          55.7140434029587
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Восточный административный округ",
+        "District": "район Косино-Ухтомский",
+        "Address": "Святоозерская ул., вл.1",
+        "EventName": "Московская Весна",
+        "Period": "30.04.2022-10.05.2022",
+        "WorkingHours": "10:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru",
+        "AmountOfPlaces": 5,
+        "globalid": 345260680
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.8274044695582,
+          55.7275509807807
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Восточный административный округ",
+        "District": "район Вешняки",
+        "Address": "ул. Вешняковская, вл.16",
+        "EventName": "Московская Весна",
+        "Period": "30.04.2022-10.05.2022",
+        "WorkingHours": "10:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru",
+        "AmountOfPlaces": 8,
+        "globalid": 345260681
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7997953194091,
+          55.8214573734711
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Восточный административный округ",
+        "District": "район Гольяново",
+        "Address": "Сквер у Гольяновского пруда",
+        "EventName": "Московская Весна",
+        "Period": "30.04.2022-10.05.2022",
+        "WorkingHours": "10:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru",
+        "AmountOfPlaces": 6,
+        "globalid": 345260682
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7662730501881,
+          55.7064111539798
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Кузьминки",
+        "Address": "Площадь Славы (Волгоградский пр-т. вл. 119)",
+        "EventName": "Московская Весна",
+        "Period": "30.04.2022-10.05.2022",
+        "WorkingHours": "10:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru",
+        "AmountOfPlaces": 8,
+        "globalid": 345260683
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7445620711981,
+          55.6576089816723
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Марьино",
+        "Address": "ул. Перерва, вл.52",
+        "EventName": "Московская Весна",
+        "Period": "30.04.2022-10.05.2022",
+        "WorkingHours": "10:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru",
+        "AmountOfPlaces": 9,
+        "globalid": 345260684
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.929733343919,
+          55.7044192115766
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Некрасовка",
+        "Address": "Сквер у ст. м.Некрасовка",
+        "EventName": "Московская Весна",
+        "Period": "30.04.2022-10.05.2022",
+        "WorkingHours": "10:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru",
+        "AmountOfPlaces": 6,
+        "globalid": 345260685
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7434426080534,
+          55.6136354174997
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Южный административный округ",
+        "District": "район Зябликово",
+        "Address": "Ореховый бульвар, вл. 24, стр. 1",
+        "EventName": "Московская Весна",
+        "Period": "30.04.2022-10.05.2022",
+        "WorkingHours": "10:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru",
+        "AmountOfPlaces": 6,
+        "globalid": 345260686
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.764864161038,
+          55.6327715478253
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Южный административный округ",
+        "District": "район Братеево",
+        "Address": "ул. Ключевая, вл. 22 (ст. м. Алма-Атинская)",
+        "EventName": "Московская Весна",
+        "Period": "30.04.2022-10.05.2022",
+        "WorkingHours": "10:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru",
+        "AmountOfPlaces": 5,
+        "globalid": 345260687
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5545763679114,
+          55.6694773660038
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Черёмушки",
+        "Address": "ул. Профсоюзная, вл. 41",
+        "EventName": "Московская Весна",
+        "Period": "30.04.2022-10.05.2022",
+        "WorkingHours": "10:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru",
+        "AmountOfPlaces": 16,
+        "globalid": 345260688
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5750201919972,
+          55.5668349667053
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Северное Бутово",
+        "Address": "Бульвар Дмитрия Донского, вл.11",
+        "EventName": "Московская Весна",
+        "Period": "30.04.2022-10.05.2022",
+        "WorkingHours": "10:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru",
+        "AmountOfPlaces": 11,
+        "globalid": 345260689
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5013876706727,
+          55.6188132984682
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Тёплый Стан",
+        "Address": "ул. Теплый стан, вл.1Б",
+        "EventName": "Московская Весна",
+        "Period": "30.04.2022-10.05.2022",
+        "WorkingHours": "10:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru",
+        "AmountOfPlaces": 6,
+        "globalid": 345260690
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.529734466187,
+          55.541712750568
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Южное Бутово",
+        "Address": "ул. Адмирала Руднева, вл.8",
+        "EventName": "Московская Весна",
+        "Period": "30.04.2022-10.05.2022",
+        "WorkingHours": "10:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru",
+        "AmountOfPlaces": 6,
+        "globalid": 345260691
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4789107001374,
+          55.7040336056986
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Западный административный округ",
+        "District": "район Очаково-Матвеевское",
+        "Address": "ул. Матвеевская, вл.2",
+        "EventName": "Московская Весна",
+        "Period": "30.04.2022-10.05.2022",
+        "WorkingHours": "10:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru",
+        "AmountOfPlaces": 7,
+        "globalid": 345260692
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.3579597940315,
+          55.8474144181388
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Митино",
+        "Address": "ул. Митинская, вл. 31",
+        "EventName": "Московская Весна",
+        "Period": "30.04.2022-10.05.2022",
+        "WorkingHours": "10:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru",
+        "AmountOfPlaces": 6,
+        "globalid": 345260693
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.3867645033881,
+          55.899411561776
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Куркино",
+        "Address": "Пересечение ул. Соколово - Мещерская и ул. Юровская",
+        "EventName": "Московская Весна",
+        "Period": "30.04.2022-10.05.2022",
+        "WorkingHours": "10:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru",
+        "AmountOfPlaces": 5,
+        "globalid": 345260694
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.155224269575,
+          55.9760490698444
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Зеленоградский административный округ",
+        "District": "район Крюково",
+        "Address": "г. Зеленоград, 16 мкрн., бульварная зона",
+        "EventName": "Московская Весна",
+        "Period": "30.04.2022-10.05.2022",
+        "WorkingHours": "10:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru",
+        "AmountOfPlaces": 5,
+        "globalid": 345260695
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

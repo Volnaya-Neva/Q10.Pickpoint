@@ -1,0 +1,467 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.739043,
+          55.65463
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectName": "Аквапарк «Фэнтази»",
+        "NameSummer": "бассейн «Медленная река», в аквапарке Фэнтази",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Марьино",
+        "Address": "Люблинская улица, дом 100",
+        "Email": "info@fpark.ru",
+        "WebSite": "fpark.ru/",
+        "HelpPhone": "(495) 641-34-51",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "EquipmentRentalComments": "",
+        "HasTechService": "да",
+        "TechServiceComments": "",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "да",
+        "HasFirstAidPost": "да",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.09-31.08",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "PaidComments": "",
+        "DisabilityFriendly": "частично приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 628676173
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.527184,
+          55.597246
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectName": "Аквапарк «Комплекс водных развлечений Мореон»",
+        "NameSummer": "волновой бассейн аквапарка Мореон",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Ясенево",
+        "Address": "Голубинская улица, дом 16",
+        "Email": "sales@more-on.ru",
+        "WebSite": "www.more-on.ru/",
+        "HelpPhone": "(495) 374-53-35",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "EquipmentRentalComments": "",
+        "HasTechService": "нет",
+        "TechServiceComments": "",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "да",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.09-31.08",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "PaidComments": "",
+        "DisabilityFriendly": "частично приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 628676796
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.778443,
+          55.747844
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectName": "Аквапарк «Центр семейного отдыха аквапарк «Карибия»",
+        "NameSummer": "главный бассейн плавательный в аквапарке №1, «Карибия»",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Перово",
+        "Address": "Зелёный проспект, дом 10Б",
+        "Email": "Info@karibya.ru",
+        "WebSite": "www.karibiya.ru",
+        "HelpPhone": "(495) 095-75-75",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "EquipmentRentalComments": "",
+        "HasTechService": "да",
+        "TechServiceComments": "",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "да",
+        "HasFirstAidPost": "да",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.01-31.12",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "PaidComments": "",
+        "DisabilityFriendly": "частично приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 628677399
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5592128806988,
+          55.7128619790892
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectName": "Дворец водных видов спорта «Лужники»",
+        "NameSummer": "бассейн в аквапарке №1, «Медленная река»",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Хамовники",
+        "Address": "улица Лужники, дом 24, строение 4",
+        "Email": "aquaask@luzhniki.ru",
+        "WebSite": "aqua.luzhniki.ru/",
+        "HelpPhone": "(495) 637-03-60",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "EquipmentRentalComments": "",
+        "HasTechService": "да",
+        "TechServiceComments": "",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "да",
+        "HasFirstAidPost": "да",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.09-31.08",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "PaidComments": "",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1019525146
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.739043,
+          55.65463
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectName": "Аквапарк «Фэнтази»",
+        "NameSummer": "бассейн «Буль-Буль», в аквапарке Фэнтази",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Марьино",
+        "Address": "Люблинская улица, дом 100",
+        "Email": "info@fpark.ru",
+        "WebSite": "fpark.ru/",
+        "HelpPhone": "(495) 641-34-51",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "EquipmentRentalComments": "",
+        "HasTechService": "да",
+        "TechServiceComments": "",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "да",
+        "HasFirstAidPost": "да",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.09-31.08",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "PaidComments": "",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1047335139
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.739043,
+          55.65463
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectName": "Аквапарк «Фэнтази»",
+        "NameSummer": "бассейн «Лягушатник», в аквапарке Фэнтази",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Марьино",
+        "Address": "Люблинская улица, дом 100",
+        "Email": "info@fpark.ru",
+        "WebSite": "fpark.ru/",
+        "HelpPhone": "(495) 641-34-51",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "EquipmentRentalComments": "",
+        "HasTechService": "да",
+        "TechServiceComments": "",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "да",
+        "HasFirstAidPost": "да",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.09-31.08",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "PaidComments": "",
+        "DisabilityFriendly": "частично приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1047340211
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5580756240764,
+          55.713043686017
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectName": "Дворец водных видов спорта «Лужники»",
+        "NameSummer": "бассейн в аквапарке №5, «Термобассейн»",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Хамовники",
+        "Address": "улица Лужники, дом 24, строение 4",
+        "Email": "aquaask@luzhniki.ru",
+        "WebSite": "aqua.luzhniki.ru/",
+        "HelpPhone": "(495) 637-03-60",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "EquipmentRentalComments": "",
+        "HasTechService": "да",
+        "TechServiceComments": "",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "да",
+        "HasFirstAidPost": "да",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.09-31.08",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "PaidComments": "",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1047341034
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5584940486828,
+          55.7129498042302
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectName": "Дворец водных видов спорта «Лужники»",
+        "NameSummer": "бассейн в аквапарке №2, «Волновой»",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Хамовники",
+        "Address": "улица Лужники, дом 24, строение 4",
+        "Email": "aquaask@luzhniki.ru",
+        "WebSite": "aqua.luzhniki.ru/",
+        "HelpPhone": "(495) 637-03-60",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "EquipmentRentalComments": "",
+        "HasTechService": "да",
+        "TechServiceComments": "",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "да",
+        "HasFirstAidPost": "да",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.09-31.08",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "PaidComments": "",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1047341035
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5586120658794,
+          55.7127802104793
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectName": "Дворец водных видов спорта «Лужники»",
+        "NameSummer": "бассейн в аквапарке №4, «Термобассейн»",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Хамовники",
+        "Address": "улица Лужники, дом 24, строение 4",
+        "Email": "aquaask@luzhniki.ru",
+        "WebSite": "aqua.luzhniki.ru/",
+        "HelpPhone": "(495) 637-03-60",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "EquipmentRentalComments": "",
+        "HasTechService": "да",
+        "TechServiceComments": "",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "да",
+        "HasFirstAidPost": "да",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.09-31.08",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "PaidComments": "",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1047341429
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5586978965682,
+          55.7131769374985
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectName": "Дворец водных видов спорта «Лужники»",
+        "NameSummer": "бассейн в аквапарке №3, «Термобассейн»",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Хамовники",
+        "Address": "улица Лужники, дом 24, строение 4",
+        "Email": "aquaask@luzhniki.ru",
+        "WebSite": "aqua.luzhniki.ru/",
+        "HelpPhone": "(495) 637-03-60",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "EquipmentRentalComments": "",
+        "HasTechService": "да",
+        "TechServiceComments": "",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "да",
+        "HasFirstAidPost": "да",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.09-31.08",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "PaidComments": "",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1047341594
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.778443,
+          55.747844
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectName": "Аквапарк «Центр семейного отдыха аквапарк «Карибия»",
+        "NameSummer": "бассейн плавательный в аквапарке №2, «Карибия»",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Перово",
+        "Address": "Зелёный проспект, дом 10Б",
+        "Email": "Info@karibya.ru",
+        "WebSite": "www.karibiya.ru",
+        "HelpPhone": "(495) 095-75-75",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "EquipmentRentalComments": "",
+        "HasTechService": "да",
+        "TechServiceComments": "",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "да",
+        "HasFirstAidPost": "да",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.01-31.12",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "PaidComments": "",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1047346091
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

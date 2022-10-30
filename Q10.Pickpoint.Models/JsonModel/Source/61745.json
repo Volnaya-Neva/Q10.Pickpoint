@@ -1,0 +1,4384 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.587563348945,
+          55.7487619143166
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа района Арбат города Москвы",
+        "AuthorityHead": "Нечаев Юрий Николаевич",
+        "AuthorityArea": "район Арбат",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Арбат",
+        "Address": "город Москва, улица Арбат, дом 40, строение 2",
+        "ClarificationOfWorkingHours": "",
+        "WebSite": "arbat.mos.ru",
+        "Email": "arbat@mos.ru",
+        "DepartmentalAffiliation": "Префектура Центрального административного округа города Москвы",
+        "globalid": 926088747
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6686562103545,
+          55.7705155815782
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа Басманного района города Москвы",
+        "AuthorityHead": "Лесных Ирина Васильевна",
+        "AuthorityArea": "Басманный район",
+        "AdmArea": "Центральный административный округ",
+        "District": "Басманный район",
+        "Address": "город Москва, Новая Басманная улица, дом 37, строение 1",
+        "ClarificationOfWorkingHours": "",
+        "WebSite": "basman.mos.ru",
+        "Email": "ur-basman@mos.ru",
+        "DepartmentalAffiliation": "Префектура Центрального административного округа города Москвы",
+        "globalid": 926088841
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.636311106583,
+          55.7356358848677
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа района Замоскворечье города Москвы",
+        "AuthorityHead": "Устоев Алексей Владимирович",
+        "AuthorityArea": "район Замоскворечье",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Замоскворечье",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Замоскворечье, улица Бахрушина, дом 13",
+        "ClarificationOfWorkingHours": "",
+        "WebSite": "zmsk.mos.ru",
+        "Email": "zmsk@mos.ru",
+        "DepartmentalAffiliation": "Префектура Центрального административного округа города Москвы",
+        "globalid": 926088861
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6683043717803,
+          55.7793387375846
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа Красносельского района города Москвы",
+        "AuthorityHead": "Орлова Светлана Анатольевна",
+        "AuthorityArea": "Красносельский район",
+        "AdmArea": "Центральный административный округ",
+        "District": "Красносельский район",
+        "Address": "город Москва, Нижняя Красносельская улица, дом 5, строение 7",
+        "ClarificationOfWorkingHours": "",
+        "WebSite": "krasnoselsky.mos.ru",
+        "Email": "ur-krasnosel@mos.ru",
+        "DepartmentalAffiliation": "Префектура Центрального административного округа города Москвы",
+        "globalid": 926088887
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5567573314356,
+          55.7592965828478
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа Пресненского района города Москвы",
+        "AuthorityHead": "Михайлов Александр Валентинович",
+        "AuthorityArea": "Пресненский район",
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "Address": "город Москва, Шмитовский проезд, дом 2, строение 1",
+        "ClarificationOfWorkingHours": "",
+        "WebSite": "presnya.mos.ru",
+        "Email": "uprpresn@mos.ru",
+        "DepartmentalAffiliation": "Префектура Центрального административного округа города Москвы",
+        "globalid": 926093658
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6597653775822,
+          55.7368717298003
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа Таганского района города Москвы",
+        "AuthorityHead": "Мишаков Александр Сергеевич",
+        "AuthorityArea": "Таганский район",
+        "AdmArea": "Центральный административный округ",
+        "District": "Таганский район",
+        "Address": "город Москва, Воронцовская улица, дом 21, строение 1",
+        "ClarificationOfWorkingHours": "",
+        "WebSite": "tagan.mos.ru",
+        "Email": "urtagansky@mos.ru",
+        "DepartmentalAffiliation": "Префектура Центрального административного округа города Москвы",
+        "globalid": 926093695
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6199643255199,
+          55.7722474491164
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа Тверского района города Москвы",
+        "AuthorityHead": "Ханахян Эдуард Саятович",
+        "AuthorityArea": "Тверской район",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "город Москва, Цветной бульвар, дом 21, строение 8",
+        "ClarificationOfWorkingHours": "",
+        "WebSite": "tveruprava.mos.ru",
+        "Email": "ur-tverskoy@mos.ru",
+        "DepartmentalAffiliation": "Префектура Центрального административного округа города Москвы",
+        "globalid": 926093714
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5971148317881,
+          55.7433192058435
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа района Хамовники города Москвы",
+        "AuthorityHead": "Дерюгин Максим Александрович",
+        "AuthorityArea": "район Хамовники",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Хамовники",
+        "Address": "город Москва, улица Пречистенка, дом 14/1, строение 1",
+        "ClarificationOfWorkingHours": "",
+        "WebSite": "hamovniki.mos.ru",
+        "Email": "urhamovn@mos.ru",
+        "DepartmentalAffiliation": "Префектура Центрального административного округа города Москвы",
+        "globalid": 926093746
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6234997313986,
+          55.7252556733282
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа района Якиманка города Москвы",
+        "AuthorityHead": "Макарова Елена Владимировна",
+        "AuthorityArea": "район Якиманка",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Замоскворечье",
+        "Address": "город Москва, Люсиновская улица, дом 27, строение 2",
+        "ClarificationOfWorkingHours": "",
+        "WebSite": "yakimanka.mos.ru",
+        "Email": "ur-yakimanka@mos.ru",
+        "DepartmentalAffiliation": "Префектура Центрального административного округа города Москвы",
+        "globalid": 926093768
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.631903430754,
+          55.7746863487522
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа района Мещанский города Москвы",
+        "AuthorityHead": "Башаров Дмитрий Николаевич",
+        "AuthorityArea": "Мещанский район",
+        "AdmArea": "Центральный административный округ",
+        "District": "Мещанский район",
+        "Address": "город Москва, проспект Мира, дом 5, строение 2",
+        "ClarificationOfWorkingHours": "",
+        "WebSite": "meschanka.mos.ru",
+        "Email": "meschanka@mos.ru",
+        "DepartmentalAffiliation": "Префектура Центрального административного округа города Москвы",
+        "globalid": 926109525
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7971376778246,
+          55.6400666768369
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа района Капотня города Москвы",
+        "AuthorityHead": "Горбатов Павел Олегович",
+        "AuthorityArea": "район Капотня",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Капотня",
+        "Address": "город Москва, 2-й квартал Капотня, дом 7",
+        "ClarificationOfWorkingHours": "",
+        "WebSite": "uprava-kapotnya.mos.ru",
+        "Email": "uprava-kapotnya@mos.ru",
+        "DepartmentalAffiliation": "Префектура Юго-Восточного административного округа города Москвы",
+        "globalid": 926278575
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7059499650552,
+          55.8110383081964
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа района Богородское города Москвы",
+        "AuthorityHead": "Ланько Елена Борисовна",
+        "AuthorityArea": "район Богородское",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Богородское",
+        "Address": "город Москва, Краснобогатырская улица, дом 29, корпус 2",
+        "ClarificationOfWorkingHours": "12:30-13:15 - перерыв на обед",
+        "WebSite": "bogorodskoe.mos.ru",
+        "Email": "vao-bog@mos.ru",
+        "DepartmentalAffiliation": "Префектура Восточного административного округа города Москвы",
+        "globalid": 926278576,
+        "Phonesisdeleted0": 0,
+        "Phonesglobalid0": 3,
+        "PhonesPhone0": "",
+        "PhonesPhoneComment0": "",
+        "WorkingHoursisdeleted0": 0,
+        "WorkingHoursglobalid0": 15,
+        "WorkingHoursDayOfWeek0": null,
+        "WorkingHoursHours0": "",
+        "WorkingHoursisdeleted1": 0,
+        "WorkingHoursglobalid1": 16,
+        "WorkingHoursDayOfWeek1": null,
+        "WorkingHoursHours1": "",
+        "WorkingHoursisdeleted2": 0,
+        "WorkingHoursglobalid2": 17,
+        "WorkingHoursDayOfWeek2": null,
+        "WorkingHoursHours2": "",
+        "WorkingHoursisdeleted3": 0,
+        "WorkingHoursglobalid3": 18,
+        "WorkingHoursDayOfWeek3": null,
+        "WorkingHoursHours3": "",
+        "WorkingHoursisdeleted4": 0,
+        "WorkingHoursglobalid4": 19,
+        "WorkingHoursDayOfWeek4": null,
+        "WorkingHoursHours4": "",
+        "WorkingHoursisdeleted5": 0,
+        "WorkingHoursglobalid5": 20,
+        "WorkingHoursDayOfWeek5": null,
+        "WorkingHoursHours5": "",
+        "WorkingHoursisdeleted6": 0,
+        "WorkingHoursglobalid6": 21,
+        "WorkingHoursDayOfWeek6": null,
+        "WorkingHoursHours6": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.9284647132235,
+          55.6828200283695
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа района Некрасовка города Москвы",
+        "AuthorityHead": "Хромова Елена Станиславовна",
+        "AuthorityArea": "район Некрасовка",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Некрасовка",
+        "Address": "город Москва, 1-я Вольская улица, дом 24, корпус 1",
+        "ClarificationOfWorkingHours": "",
+        "WebSite": "nekrasovka.mos.ru",
+        "Email": "nekuprava@uvao.mos.ru",
+        "DepartmentalAffiliation": "Префектура Юго-Восточного административного округа города Москвы",
+        "globalid": 926278608
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.8291392059283,
+          55.736360792226
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа района Вешняки города Москвы",
+        "AuthorityHead": "Щербачев Евгений Дмитриевич",
+        "AuthorityArea": "район Вешняки",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Вешняки",
+        "Address": "город Москва, Вешняковская улица, дом 9, корпус 2, строение 2",
+        "ClarificationOfWorkingHours": "12:30-13:15 - перерыв на обед",
+        "WebSite": "veshnyaki.mos.ru",
+        "Email": "vesh@mos.ru",
+        "DepartmentalAffiliation": "Префектура Восточного административного округа города Москвы",
+        "globalid": 926278639,
+        "Phonesisdeleted0": 0,
+        "Phonesglobalid0": 4,
+        "PhonesPhone0": "",
+        "PhonesPhoneComment0": "",
+        "WorkingHoursisdeleted0": 0,
+        "WorkingHoursglobalid0": 22,
+        "WorkingHoursDayOfWeek0": null,
+        "WorkingHoursHours0": "",
+        "WorkingHoursisdeleted1": 0,
+        "WorkingHoursglobalid1": 23,
+        "WorkingHoursDayOfWeek1": null,
+        "WorkingHoursHours1": "",
+        "WorkingHoursisdeleted2": 0,
+        "WorkingHoursglobalid2": 24,
+        "WorkingHoursDayOfWeek2": null,
+        "WorkingHoursHours2": "",
+        "WorkingHoursisdeleted3": 0,
+        "WorkingHoursglobalid3": 25,
+        "WorkingHoursDayOfWeek3": null,
+        "WorkingHoursHours3": "",
+        "WorkingHoursisdeleted4": 0,
+        "WorkingHoursglobalid4": 26,
+        "WorkingHoursDayOfWeek4": null,
+        "WorkingHoursHours4": "",
+        "WorkingHoursisdeleted5": 0,
+        "WorkingHoursglobalid5": 27,
+        "WorkingHoursDayOfWeek5": null,
+        "WorkingHoursHours5": "",
+        "WorkingHoursisdeleted6": 0,
+        "WorkingHoursglobalid6": 28,
+        "WorkingHoursDayOfWeek6": null,
+        "WorkingHoursHours6": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.8178363663869,
+          55.7962481821963
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа района Восточное Измайлово города Москвы",
+        "AuthorityHead": "Умеренков Александр Алексеевич",
+        "AuthorityArea": "район Восточное Измайлово",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Восточное Измайлово",
+        "Address": "город Москва, 15-я Парковая улица, дом 23А",
+        "ClarificationOfWorkingHours": "12:30-13:15 - перерыв на обед",
+        "WebSite": "v-izm.mos.ru",
+        "Email": "vizm@mos.ru",
+        "DepartmentalAffiliation": "Префектура Восточного административного округа города Москвы",
+        "globalid": 926278673,
+        "Phonesisdeleted0": 0,
+        "Phonesglobalid0": 5,
+        "PhonesPhone0": "",
+        "PhonesPhoneComment0": "",
+        "WorkingHoursisdeleted0": 0,
+        "WorkingHoursglobalid0": 29,
+        "WorkingHoursDayOfWeek0": null,
+        "WorkingHoursHours0": "",
+        "WorkingHoursisdeleted1": 0,
+        "WorkingHoursglobalid1": 30,
+        "WorkingHoursDayOfWeek1": null,
+        "WorkingHoursHours1": "",
+        "WorkingHoursisdeleted2": 0,
+        "WorkingHoursglobalid2": 31,
+        "WorkingHoursDayOfWeek2": null,
+        "WorkingHoursHours2": "",
+        "WorkingHoursisdeleted3": 0,
+        "WorkingHoursglobalid3": 32,
+        "WorkingHoursDayOfWeek3": null,
+        "WorkingHoursHours3": "",
+        "WorkingHoursisdeleted4": 0,
+        "WorkingHoursglobalid4": 33,
+        "WorkingHoursDayOfWeek4": null,
+        "WorkingHoursHours4": "",
+        "WorkingHoursisdeleted5": 0,
+        "WorkingHoursglobalid5": 34,
+        "WorkingHoursDayOfWeek5": null,
+        "WorkingHoursHours5": "",
+        "WorkingHoursisdeleted6": 0,
+        "WorkingHoursglobalid6": 35,
+        "WorkingHoursDayOfWeek6": null,
+        "WorkingHoursHours6": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.8661419732873,
+          55.8162772597245
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа района Восточный города Москвы",
+        "AuthorityHead": "Ивановский Виктор Сергеевич",
+        "AuthorityArea": "район Восточный",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Восточный",
+        "Address": "город Москва, улица 9 Мая, дом 12А",
+        "ClarificationOfWorkingHours": "12:30-13:15 - перерыв на обед",
+        "WebSite": "vostochniy.mos.ru",
+        "Email": "priemupravavostok@mail.ru",
+        "DepartmentalAffiliation": "Префектура Восточного административного округа города Москвы",
+        "globalid": 926278699,
+        "Phonesisdeleted0": 0,
+        "Phonesglobalid0": 6,
+        "PhonesPhone0": "",
+        "PhonesPhoneComment0": "",
+        "WorkingHoursisdeleted0": 0,
+        "WorkingHoursglobalid0": 36,
+        "WorkingHoursDayOfWeek0": null,
+        "WorkingHoursHours0": "",
+        "WorkingHoursisdeleted1": 0,
+        "WorkingHoursglobalid1": 37,
+        "WorkingHoursDayOfWeek1": null,
+        "WorkingHoursHours1": "",
+        "WorkingHoursisdeleted2": 0,
+        "WorkingHoursglobalid2": 38,
+        "WorkingHoursDayOfWeek2": null,
+        "WorkingHoursHours2": "",
+        "WorkingHoursisdeleted3": 0,
+        "WorkingHoursglobalid3": 39,
+        "WorkingHoursDayOfWeek3": null,
+        "WorkingHoursHours3": "",
+        "WorkingHoursisdeleted4": 0,
+        "WorkingHoursglobalid4": 40,
+        "WorkingHoursDayOfWeek4": null,
+        "WorkingHoursHours4": "",
+        "WorkingHoursisdeleted5": 0,
+        "WorkingHoursglobalid5": 41,
+        "WorkingHoursDayOfWeek5": null,
+        "WorkingHoursHours5": "",
+        "WorkingHoursisdeleted6": 0,
+        "WorkingHoursglobalid6": 42,
+        "WorkingHoursDayOfWeek6": null,
+        "WorkingHoursHours6": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.8198652145749,
+          55.829456353133
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа района Гольяново города Москвы",
+        "AuthorityHead": "Балдуев Роман Юрьевич",
+        "AuthorityArea": "район Гольяново",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Гольяново",
+        "Address": "город Москва, Курганская улица, дом 8",
+        "ClarificationOfWorkingHours": "12:30-13:15 - перерыв на обед",
+        "WebSite": "golyanovo.mos.ru",
+        "Email": "gol@vao.mos.ru",
+        "DepartmentalAffiliation": "Префектура Восточного административного округа города Москвы",
+        "globalid": 926278706,
+        "Phonesisdeleted0": 0,
+        "Phonesglobalid0": 7,
+        "PhonesPhone0": "",
+        "PhonesPhoneComment0": "",
+        "WorkingHoursisdeleted0": 0,
+        "WorkingHoursglobalid0": 43,
+        "WorkingHoursDayOfWeek0": null,
+        "WorkingHoursHours0": "",
+        "WorkingHoursisdeleted1": 0,
+        "WorkingHoursglobalid1": 44,
+        "WorkingHoursDayOfWeek1": null,
+        "WorkingHoursHours1": "",
+        "WorkingHoursisdeleted2": 0,
+        "WorkingHoursglobalid2": 45,
+        "WorkingHoursDayOfWeek2": null,
+        "WorkingHoursHours2": "",
+        "WorkingHoursisdeleted3": 0,
+        "WorkingHoursglobalid3": 46,
+        "WorkingHoursDayOfWeek3": null,
+        "WorkingHoursHours3": "",
+        "WorkingHoursisdeleted4": 0,
+        "WorkingHoursglobalid4": 47,
+        "WorkingHoursDayOfWeek4": null,
+        "WorkingHoursHours4": "",
+        "WorkingHoursisdeleted5": 0,
+        "WorkingHoursglobalid5": 48,
+        "WorkingHoursDayOfWeek5": null,
+        "WorkingHoursHours5": "",
+        "WorkingHoursisdeleted6": 0,
+        "WorkingHoursglobalid6": 49,
+        "WorkingHoursDayOfWeek6": null,
+        "WorkingHoursHours6": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.8343168806322,
+          55.7669020412026
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа района Ивановское города Москвы",
+        "AuthorityHead": "Алимова Зинаида Ивановна",
+        "AuthorityArea": "район Ивановское",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Ивановское",
+        "Address": "город Москва, Саянская улица, дом 18",
+        "ClarificationOfWorkingHours": "12:00-12:45 - перерыв на обед",
+        "WebSite": "ivanovskoe.mos.ru",
+        "Email": "ivanovskoe@mos.ru",
+        "DepartmentalAffiliation": "Префектура Восточного административного округа города Москвы",
+        "globalid": 926278722,
+        "Phonesisdeleted0": 0,
+        "Phonesglobalid0": 8,
+        "PhonesPhone0": "",
+        "PhonesPhoneComment0": "",
+        "WorkingHoursisdeleted0": 0,
+        "WorkingHoursglobalid0": 50,
+        "WorkingHoursDayOfWeek0": null,
+        "WorkingHoursHours0": "",
+        "WorkingHoursisdeleted1": 0,
+        "WorkingHoursglobalid1": 51,
+        "WorkingHoursDayOfWeek1": null,
+        "WorkingHoursHours1": "",
+        "WorkingHoursisdeleted2": 0,
+        "WorkingHoursglobalid2": 52,
+        "WorkingHoursDayOfWeek2": null,
+        "WorkingHoursHours2": "",
+        "WorkingHoursisdeleted3": 0,
+        "WorkingHoursglobalid3": 53,
+        "WorkingHoursDayOfWeek3": null,
+        "WorkingHoursHours3": "",
+        "WorkingHoursisdeleted4": 0,
+        "WorkingHoursglobalid4": 54,
+        "WorkingHoursDayOfWeek4": null,
+        "WorkingHoursHours4": "",
+        "WorkingHoursisdeleted5": 0,
+        "WorkingHoursglobalid5": 55,
+        "WorkingHoursDayOfWeek5": null,
+        "WorkingHoursHours5": "",
+        "WorkingHoursisdeleted6": 0,
+        "WorkingHoursglobalid6": 56,
+        "WorkingHoursDayOfWeek6": null,
+        "WorkingHoursHours6": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7886452885587,
+          55.7913359451804
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа района Измайлово города Москвы",
+        "AuthorityHead": "Довбня Михаил Владимирович",
+        "AuthorityArea": "район Измайлово",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Измайлово",
+        "Address": "город Москва, 5-я Парковая улица, дом 16",
+        "ClarificationOfWorkingHours": "12:30-13:15 - перерыв на обед",
+        "WebSite": "izmaylowo.mos.ru",
+        "Email": "izmaylovo@mos.ru",
+        "DepartmentalAffiliation": "Префектура Восточного административного округа города Москвы",
+        "globalid": 926279402,
+        "Phonesisdeleted0": 0,
+        "Phonesglobalid0": 9,
+        "PhonesPhone0": "",
+        "PhonesPhoneComment0": "",
+        "WorkingHoursisdeleted0": 0,
+        "WorkingHoursglobalid0": 57,
+        "WorkingHoursDayOfWeek0": null,
+        "WorkingHoursHours0": "",
+        "WorkingHoursisdeleted1": 0,
+        "WorkingHoursglobalid1": 58,
+        "WorkingHoursDayOfWeek1": null,
+        "WorkingHoursHours1": "",
+        "WorkingHoursisdeleted2": 0,
+        "WorkingHoursglobalid2": 59,
+        "WorkingHoursDayOfWeek2": null,
+        "WorkingHoursHours2": "",
+        "WorkingHoursisdeleted3": 0,
+        "WorkingHoursglobalid3": 60,
+        "WorkingHoursDayOfWeek3": null,
+        "WorkingHoursHours3": "",
+        "WorkingHoursisdeleted4": 0,
+        "WorkingHoursglobalid4": 61,
+        "WorkingHoursDayOfWeek4": null,
+        "WorkingHoursHours4": "",
+        "WorkingHoursisdeleted5": 0,
+        "WorkingHoursglobalid5": 62,
+        "WorkingHoursDayOfWeek5": null,
+        "WorkingHoursHours5": "",
+        "WorkingHoursisdeleted6": 0,
+        "WorkingHoursglobalid6": 63,
+        "WorkingHoursDayOfWeek6": null,
+        "WorkingHoursHours6": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.8557526776882,
+          55.7131339077228
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа района Косино-Ухтомский города Москвы",
+        "AuthorityHead": "Алпатов Александр Леонидович",
+        "AuthorityArea": "район Косино-Ухтомский",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Косино-Ухтомский",
+        "Address": "город Москва, Большая Косинская улица, дом 20, корпус 1",
+        "ClarificationOfWorkingHours": "12:00-12:45 - перерыв на обед",
+        "WebSite": "kosino-uhtomski.mos.ru",
+        "Email": "vao-kosuht@mos.ru",
+        "DepartmentalAffiliation": "Префектура Восточного административного округа города Москвы",
+        "globalid": 926279481,
+        "Phonesisdeleted0": 0,
+        "Phonesglobalid0": 10,
+        "PhonesPhone0": "",
+        "PhonesPhoneComment0": "",
+        "WorkingHoursisdeleted0": 0,
+        "WorkingHoursglobalid0": 64,
+        "WorkingHoursDayOfWeek0": null,
+        "WorkingHoursHours0": "",
+        "WorkingHoursisdeleted1": 0,
+        "WorkingHoursglobalid1": 65,
+        "WorkingHoursDayOfWeek1": null,
+        "WorkingHoursHours1": "",
+        "WorkingHoursisdeleted2": 0,
+        "WorkingHoursglobalid2": 66,
+        "WorkingHoursDayOfWeek2": null,
+        "WorkingHoursHours2": "",
+        "WorkingHoursisdeleted3": 0,
+        "WorkingHoursglobalid3": 67,
+        "WorkingHoursDayOfWeek3": null,
+        "WorkingHoursHours3": "",
+        "WorkingHoursisdeleted4": 0,
+        "WorkingHoursglobalid4": 68,
+        "WorkingHoursDayOfWeek4": null,
+        "WorkingHoursHours4": "",
+        "WorkingHoursisdeleted5": 0,
+        "WorkingHoursglobalid5": 69,
+        "WorkingHoursDayOfWeek5": null,
+        "WorkingHoursHours5": "",
+        "WorkingHoursisdeleted6": 0,
+        "WorkingHoursglobalid6": 70,
+        "WorkingHoursDayOfWeek6": null,
+        "WorkingHoursHours6": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7502832250407,
+          55.8250333928169
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа района Метрогородок города Москвы",
+        "AuthorityHead": "Пильщиков Олег Евгеньевич",
+        "AuthorityArea": "район Метрогородок",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Метрогородок",
+        "Address": "город Москва, Открытое шоссе, дом 19, корпус 6",
+        "ClarificationOfWorkingHours": "12:30-13:15 - перерыв на обед",
+        "WebSite": "metrogorodok.mos.ru",
+        "Email": "vao-metro@mos.ru",
+        "DepartmentalAffiliation": "Префектура Восточного административного округа города Москвы",
+        "globalid": 926279652,
+        "Phonesisdeleted0": 0,
+        "Phonesglobalid0": 11,
+        "PhonesPhone0": "",
+        "PhonesPhoneComment0": "",
+        "WorkingHoursisdeleted0": 0,
+        "WorkingHoursglobalid0": 71,
+        "WorkingHoursDayOfWeek0": null,
+        "WorkingHoursHours0": "",
+        "WorkingHoursisdeleted1": 0,
+        "WorkingHoursglobalid1": 72,
+        "WorkingHoursDayOfWeek1": null,
+        "WorkingHoursHours1": "",
+        "WorkingHoursisdeleted2": 0,
+        "WorkingHoursglobalid2": 73,
+        "WorkingHoursDayOfWeek2": null,
+        "WorkingHoursHours2": "",
+        "WorkingHoursisdeleted3": 0,
+        "WorkingHoursglobalid3": 74,
+        "WorkingHoursDayOfWeek3": null,
+        "WorkingHoursHours3": "",
+        "WorkingHoursisdeleted4": 0,
+        "WorkingHoursglobalid4": 75,
+        "WorkingHoursDayOfWeek4": null,
+        "WorkingHoursHours4": "",
+        "WorkingHoursisdeleted5": 0,
+        "WorkingHoursglobalid5": 76,
+        "WorkingHoursDayOfWeek5": null,
+        "WorkingHoursHours5": "",
+        "WorkingHoursisdeleted6": 0,
+        "WorkingHoursglobalid6": 77,
+        "WorkingHoursDayOfWeek6": null,
+        "WorkingHoursHours6": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7872339882982,
+          55.7502307366492
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа района Новогиреево города Москвы",
+        "AuthorityHead": "Хрулёв Александр Павлович",
+        "AuthorityArea": "район Новогиреево",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Новогиреево",
+        "Address": "город Москва, Зелёный проспект, дом 20",
+        "ClarificationOfWorkingHours": "12:00-12:45 - перерыв на обед",
+        "WebSite": "novogireevo.mos.ru",
+        "Email": "novogir@vao.mos.ru",
+        "DepartmentalAffiliation": "Префектура Восточного административного округа города Москвы",
+        "globalid": 926279781,
+        "Phonesisdeleted0": 0,
+        "Phonesglobalid0": 12,
+        "PhonesPhone0": "",
+        "PhonesPhoneComment0": "",
+        "WorkingHoursisdeleted0": 0,
+        "WorkingHoursglobalid0": 78,
+        "WorkingHoursDayOfWeek0": null,
+        "WorkingHoursHours0": "",
+        "WorkingHoursisdeleted1": 0,
+        "WorkingHoursglobalid1": 79,
+        "WorkingHoursDayOfWeek1": null,
+        "WorkingHoursHours1": "",
+        "WorkingHoursisdeleted2": 0,
+        "WorkingHoursglobalid2": 80,
+        "WorkingHoursDayOfWeek2": null,
+        "WorkingHoursHours2": "",
+        "WorkingHoursisdeleted3": 0,
+        "WorkingHoursglobalid3": 81,
+        "WorkingHoursDayOfWeek3": null,
+        "WorkingHoursHours3": "",
+        "WorkingHoursisdeleted4": 0,
+        "WorkingHoursglobalid4": 82,
+        "WorkingHoursDayOfWeek4": null,
+        "WorkingHoursHours4": "",
+        "WorkingHoursisdeleted5": 0,
+        "WorkingHoursglobalid5": 83,
+        "WorkingHoursDayOfWeek5": null,
+        "WorkingHoursHours5": "",
+        "WorkingHoursisdeleted6": 0,
+        "WorkingHoursglobalid6": 84,
+        "WorkingHoursDayOfWeek6": null,
+        "WorkingHoursHours6": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.8545098279644,
+          55.7413024563794
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа района Новокосино города Москвы",
+        "AuthorityHead": "Романцова Наталья Николаевна",
+        "AuthorityArea": "район Новокосино",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Новокосино",
+        "Address": "город Москва, Суздальская улица, дом 20",
+        "ClarificationOfWorkingHours": "12:30-13:15 - перерыв на обед",
+        "WebSite": "novokosino.mos.ru",
+        "Email": "upravanovokosino@mos.ru",
+        "DepartmentalAffiliation": "Префектура Восточного административного округа города Москвы",
+        "globalid": 926279801,
+        "Phonesisdeleted0": 0,
+        "Phonesglobalid0": 13,
+        "PhonesPhone0": "",
+        "PhonesPhoneComment0": "",
+        "WorkingHoursisdeleted0": 0,
+        "WorkingHoursglobalid0": 85,
+        "WorkingHoursDayOfWeek0": null,
+        "WorkingHoursHours0": "",
+        "WorkingHoursisdeleted1": 0,
+        "WorkingHoursglobalid1": 86,
+        "WorkingHoursDayOfWeek1": null,
+        "WorkingHoursHours1": "",
+        "WorkingHoursisdeleted2": 0,
+        "WorkingHoursglobalid2": 87,
+        "WorkingHoursDayOfWeek2": null,
+        "WorkingHoursHours2": "",
+        "WorkingHoursisdeleted3": 0,
+        "WorkingHoursglobalid3": 88,
+        "WorkingHoursDayOfWeek3": null,
+        "WorkingHoursHours3": "",
+        "WorkingHoursisdeleted4": 0,
+        "WorkingHoursglobalid4": 89,
+        "WorkingHoursDayOfWeek4": null,
+        "WorkingHoursHours4": "",
+        "WorkingHoursisdeleted5": 0,
+        "WorkingHoursglobalid5": 90,
+        "WorkingHoursDayOfWeek5": null,
+        "WorkingHoursHours5": "",
+        "WorkingHoursisdeleted6": 0,
+        "WorkingHoursglobalid6": 91,
+        "WorkingHoursDayOfWeek6": null,
+        "WorkingHoursHours6": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7872339882982,
+          55.7502307366492
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа района Перово города Москвы",
+        "AuthorityHead": "Филиппов Дмитрий Станиславович",
+        "AuthorityArea": "район Перово",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Новогиреево",
+        "Address": "город Москва, Зелёный проспект, дом 20",
+        "ClarificationOfWorkingHours": "12:00-12:45 - перерыв на обед",
+        "WebSite": "perovo.mos.ru",
+        "Email": "perpriem@vao.mos.ru",
+        "DepartmentalAffiliation": "Префектура Восточного административного округа города Москвы",
+        "globalid": 926279808,
+        "Phonesisdeleted0": 0,
+        "Phonesglobalid0": 14,
+        "PhonesPhone0": "",
+        "PhonesPhoneComment0": "",
+        "WorkingHoursisdeleted0": 0,
+        "WorkingHoursglobalid0": 92,
+        "WorkingHoursDayOfWeek0": null,
+        "WorkingHoursHours0": "",
+        "WorkingHoursisdeleted1": 0,
+        "WorkingHoursglobalid1": 93,
+        "WorkingHoursDayOfWeek1": null,
+        "WorkingHoursHours1": "",
+        "WorkingHoursisdeleted2": 0,
+        "WorkingHoursglobalid2": 94,
+        "WorkingHoursDayOfWeek2": null,
+        "WorkingHoursHours2": "",
+        "WorkingHoursisdeleted3": 0,
+        "WorkingHoursglobalid3": 95,
+        "WorkingHoursDayOfWeek3": null,
+        "WorkingHoursHours3": "",
+        "WorkingHoursisdeleted4": 0,
+        "WorkingHoursglobalid4": 96,
+        "WorkingHoursDayOfWeek4": null,
+        "WorkingHoursHours4": "",
+        "WorkingHoursisdeleted5": 0,
+        "WorkingHoursglobalid5": 97,
+        "WorkingHoursDayOfWeek5": null,
+        "WorkingHoursHours5": "",
+        "WorkingHoursisdeleted6": 0,
+        "WorkingHoursglobalid6": 98,
+        "WorkingHoursDayOfWeek6": null,
+        "WorkingHoursHours6": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7256800910689,
+          55.7958717066462
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа района Преображенское города Москвы",
+        "AuthorityHead": "Ямалдинов Руслан Маратович",
+        "AuthorityArea": "район Преображенское",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Преображенское",
+        "Address": "город Москва, Большая Черкизовская улица, дом 14А",
+        "ClarificationOfWorkingHours": "12:30-13:15 - перерыв на обед",
+        "WebSite": "preobr.mos.ru",
+        "Email": "preo@vao.mos.ru",
+        "DepartmentalAffiliation": "Префектура Восточного административного округа города Москвы",
+        "globalid": 926279810,
+        "Phonesisdeleted0": 0,
+        "Phonesglobalid0": 15,
+        "PhonesPhone0": "",
+        "PhonesPhoneComment0": "",
+        "WorkingHoursisdeleted0": 0,
+        "WorkingHoursglobalid0": 99,
+        "WorkingHoursDayOfWeek0": null,
+        "WorkingHoursHours0": "",
+        "WorkingHoursisdeleted1": 0,
+        "WorkingHoursglobalid1": 100,
+        "WorkingHoursDayOfWeek1": null,
+        "WorkingHoursHours1": "",
+        "WorkingHoursisdeleted2": 0,
+        "WorkingHoursglobalid2": 101,
+        "WorkingHoursDayOfWeek2": null,
+        "WorkingHoursHours2": "",
+        "WorkingHoursisdeleted3": 0,
+        "WorkingHoursglobalid3": 102,
+        "WorkingHoursDayOfWeek3": null,
+        "WorkingHoursHours3": "",
+        "WorkingHoursisdeleted4": 0,
+        "WorkingHoursglobalid4": 103,
+        "WorkingHoursDayOfWeek4": null,
+        "WorkingHoursHours4": "",
+        "WorkingHoursisdeleted5": 0,
+        "WorkingHoursglobalid5": 104,
+        "WorkingHoursDayOfWeek5": null,
+        "WorkingHoursHours5": "",
+        "WorkingHoursisdeleted6": 0,
+        "WorkingHoursglobalid6": 105,
+        "WorkingHoursDayOfWeek6": null,
+        "WorkingHoursHours6": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7891710760365,
+          55.8044422633647
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа района Северное Измайлово города Москвы",
+        "AuthorityHead": "Дятленко Дмитрий Дмитриевич",
+        "AuthorityArea": "район Северное Измайлово",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Северное Измайлово",
+        "Address": "город Москва, 5-я Парковая улица, дом 58А",
+        "ClarificationOfWorkingHours": "12:30-13:15 - перерыв на обед",
+        "WebSite": "sevizm.mos.ru",
+        "Email": "sizm@mos.ru",
+        "DepartmentalAffiliation": "Префектура Восточного административного округа города Москвы",
+        "globalid": 926279815,
+        "Phonesisdeleted0": 0,
+        "Phonesglobalid0": 16,
+        "PhonesPhone0": "",
+        "PhonesPhoneComment0": "",
+        "WorkingHoursisdeleted0": 0,
+        "WorkingHoursglobalid0": 106,
+        "WorkingHoursDayOfWeek0": null,
+        "WorkingHoursHours0": "",
+        "WorkingHoursisdeleted1": 0,
+        "WorkingHoursglobalid1": 107,
+        "WorkingHoursDayOfWeek1": null,
+        "WorkingHoursHours1": "",
+        "WorkingHoursisdeleted2": 0,
+        "WorkingHoursglobalid2": 108,
+        "WorkingHoursDayOfWeek2": null,
+        "WorkingHoursHours2": "",
+        "WorkingHoursisdeleted3": 0,
+        "WorkingHoursglobalid3": 109,
+        "WorkingHoursDayOfWeek3": null,
+        "WorkingHoursHours3": "",
+        "WorkingHoursisdeleted4": 0,
+        "WorkingHoursglobalid4": 110,
+        "WorkingHoursDayOfWeek4": null,
+        "WorkingHoursHours4": "",
+        "WorkingHoursisdeleted5": 0,
+        "WorkingHoursglobalid5": 111,
+        "WorkingHoursDayOfWeek5": null,
+        "WorkingHoursHours5": "",
+        "WorkingHoursisdeleted6": 0,
+        "WorkingHoursglobalid6": 112,
+        "WorkingHoursDayOfWeek6": null,
+        "WorkingHoursHours6": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7254071487699,
+          55.7829950240899
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа района Соколиная гора города Москвы",
+        "AuthorityHead": "Махов Сергей Михайлович",
+        "AuthorityArea": "район Соколиная Гора",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Соколиная Гора",
+        "Address": "город Москва, Щербаковская улица, дом 5А",
+        "ClarificationOfWorkingHours": "13:00-13:45 - перерыв на обед",
+        "WebSite": "sokolinka.mos.ru",
+        "Email": "sg-priem@mos.ru",
+        "DepartmentalAffiliation": "Префектура Восточного административного округа города Москвы",
+        "globalid": 926279817,
+        "Phonesisdeleted0": 0,
+        "Phonesglobalid0": 17,
+        "PhonesPhone0": "",
+        "PhonesPhoneComment0": "",
+        "WorkingHoursisdeleted0": 0,
+        "WorkingHoursglobalid0": 113,
+        "WorkingHoursDayOfWeek0": null,
+        "WorkingHoursHours0": "",
+        "WorkingHoursisdeleted1": 0,
+        "WorkingHoursglobalid1": 114,
+        "WorkingHoursDayOfWeek1": null,
+        "WorkingHoursHours1": "",
+        "WorkingHoursisdeleted2": 0,
+        "WorkingHoursglobalid2": 115,
+        "WorkingHoursDayOfWeek2": null,
+        "WorkingHoursHours2": "",
+        "WorkingHoursisdeleted3": 0,
+        "WorkingHoursglobalid3": 116,
+        "WorkingHoursDayOfWeek3": null,
+        "WorkingHoursHours3": "",
+        "WorkingHoursisdeleted4": 0,
+        "WorkingHoursglobalid4": 117,
+        "WorkingHoursDayOfWeek4": null,
+        "WorkingHoursHours4": "",
+        "WorkingHoursisdeleted5": 0,
+        "WorkingHoursglobalid5": 118,
+        "WorkingHoursDayOfWeek5": null,
+        "WorkingHoursHours5": "",
+        "WorkingHoursisdeleted6": 0,
+        "WorkingHoursglobalid6": 119,
+        "WorkingHoursDayOfWeek6": null,
+        "WorkingHoursHours6": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6832767516825,
+          55.7907641661227
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа района Сокольники города Москвы",
+        "AuthorityHead": "Цветкова Елена Николаевна",
+        "AuthorityArea": "район Сокольники",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Сокольники",
+        "Address": "город Москва, улица Стромынка, дом 3",
+        "ClarificationOfWorkingHours": "12:30-13:15 - перерыв на обед",
+        "WebSite": "sokolniki.mos.ru",
+        "Email": "sokolniki-priem@mos.ru",
+        "DepartmentalAffiliation": "Префектура Восточного административного округа города Москвы",
+        "globalid": 926279829,
+        "Phonesisdeleted0": 0,
+        "Phonesglobalid0": 18,
+        "PhonesPhone0": "",
+        "PhonesPhoneComment0": "",
+        "WorkingHoursisdeleted0": 0,
+        "WorkingHoursglobalid0": 120,
+        "WorkingHoursDayOfWeek0": null,
+        "WorkingHoursHours0": "",
+        "WorkingHoursisdeleted1": 0,
+        "WorkingHoursglobalid1": 121,
+        "WorkingHoursDayOfWeek1": null,
+        "WorkingHoursHours1": "",
+        "WorkingHoursisdeleted2": 0,
+        "WorkingHoursglobalid2": 122,
+        "WorkingHoursDayOfWeek2": null,
+        "WorkingHoursHours2": "",
+        "WorkingHoursisdeleted3": 0,
+        "WorkingHoursglobalid3": 123,
+        "WorkingHoursDayOfWeek3": null,
+        "WorkingHoursHours3": "",
+        "WorkingHoursisdeleted4": 0,
+        "WorkingHoursglobalid4": 124,
+        "WorkingHoursDayOfWeek4": null,
+        "WorkingHoursHours4": "",
+        "WorkingHoursisdeleted5": 0,
+        "WorkingHoursglobalid5": 125,
+        "WorkingHoursDayOfWeek5": null,
+        "WorkingHoursHours5": "",
+        "WorkingHoursisdeleted6": 0,
+        "WorkingHoursglobalid6": 126,
+        "WorkingHoursDayOfWeek6": null,
+        "WorkingHoursHours6": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.2996591626288,
+          55.6110987171235
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа района Внуково",
+        "AuthorityHead": "Алехин Сергей Алексеевич",
+        "AuthorityArea": "район Внуково",
+        "AdmArea": "Западный административный округ",
+        "District": "район Внуково",
+        "Address": "город Москва, посёлок Внуково, Спортивная улица, дом 3А",
+        "ClarificationOfWorkingHours": "",
+        "WebSite": "www.vnukovo.mos.ru",
+        "Email": "uprava-vnukovo@mos.ru",
+        "DepartmentalAffiliation": "Префектура Западного административного округа города Москвы",
+        "globalid": 926360689
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.538101140541,
+          55.7389015926513
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа района Дорогомилово",
+        "AuthorityHead": "Горбунова Ольга Александровна",
+        "AuthorityArea": "район Дорогомилово",
+        "AdmArea": "Западный административный округ",
+        "District": "район Дорогомилово",
+        "Address": "город Москва, Студенческая улица, дом 44/28",
+        "ClarificationOfWorkingHours": "",
+        "WebSite": "www.dorogomilovo.mos.ru",
+        "Email": "Uprava.dorogomilovo@mos.ru",
+        "DepartmentalAffiliation": "Префектура Западного административного округа города Москвы",
+        "globalid": 926361025
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4162524856372,
+          55.7564773239187
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа района Крылатское",
+        "AuthorityHead": "Галянин Сергей Александрович",
+        "AuthorityArea": "район Крылатское",
+        "AdmArea": "Западный административный округ",
+        "District": "район Крылатское",
+        "Address": "город Москва, улица Крылатские Холмы, дом 27, корпус 1",
+        "ClarificationOfWorkingHours": "",
+        "WebSite": "www.krylatskoe.mos.ru",
+        "Email": "uprava-krylatskoe@mos.ru",
+        "DepartmentalAffiliation": "Префектура Западного административного округа города Москвы",
+        "globalid": 926361122
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4096764587104,
+          55.743759653449
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа района Кунцево",
+        "AuthorityHead": "Сапронов Дмитрий Валерьевич",
+        "AuthorityArea": "район Кунцево",
+        "AdmArea": "Западный административный округ",
+        "District": "район Кунцево",
+        "Address": "город Москва, улица Академика Павлова, дом 42, корпус 2",
+        "ClarificationOfWorkingHours": "",
+        "WebSite": "www.kuntsevo.mos.ru",
+        "Email": "uprava-kuntsevo@mos.ru",
+        "DepartmentalAffiliation": "Префектура Западного административного округа города Москвы",
+        "globalid": 926361154
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4059140515971,
+          55.7194162521189
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа района Можайский",
+        "AuthorityHead": "Шакиров Рустем Маратович",
+        "AuthorityArea": "Можайский район",
+        "AdmArea": "Западный административный округ",
+        "District": "Можайский район",
+        "Address": "город Москва, улица Кубинка, дом 3, строение 5",
+        "ClarificationOfWorkingHours": "",
+        "WebSite": "www.mozhaisky.mos.ru",
+        "Email": "uprava-mozh@mos.ru",
+        "DepartmentalAffiliation": "Префектура Западного административного округа города Москвы",
+        "globalid": 926361201
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.3608776976439,
+          55.6418471567731
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа района Ново-Переделкино",
+        "AuthorityHead": "Булыгин Николай Валерьевич",
+        "AuthorityArea": "район Ново-Переделкино",
+        "AdmArea": "Западный административный округ",
+        "District": "район Ново-Переделкино",
+        "Address": "город Москва, Боровское шоссе, дом 33",
+        "ClarificationOfWorkingHours": "",
+        "WebSite": "www.novo-peredelkino.mos.ru",
+        "Email": "zao-uprava-np@mos.ru",
+        "DepartmentalAffiliation": "Префектура Западного административного округа города Москвы",
+        "globalid": 926361250
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4634379662563,
+          55.6881823936062
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа района Очаково-Матвеевское",
+        "AuthorityHead": "Гусев Ян Николаевич",
+        "AuthorityArea": "район Очаково-Матвеевское",
+        "AdmArea": "Западный административный округ",
+        "District": "район Очаково-Матвеевское",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Очаково-Матвеевское, Большая Очаковская улица, дом 10",
+        "ClarificationOfWorkingHours": "",
+        "WebSite": "www.ochakovo.mos.ru",
+        "Email": "Оchakovo-Uprava@mos.ru",
+        "DepartmentalAffiliation": "Префектура Западного административного округа города Москвы",
+        "globalid": 926361361
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4963589402719,
+          55.67670103422
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа района Проспект Вернадского",
+        "AuthorityHead": "Малышев Иван Юрьевич",
+        "AuthorityArea": "район Проспект Вернадского",
+        "AdmArea": "Западный административный округ",
+        "District": "район Проспект Вернадского",
+        "Address": "город Москва, улица Лобачевского, дом 66А",
+        "ClarificationOfWorkingHours": "",
+        "WebSite": "www.vernadskogo.mos.ru",
+        "Email": "www.ProspVern-Uprava@mos.ru",
+        "DepartmentalAffiliation": "Префектура Западного административного округа города Москвы",
+        "globalid": 926361568
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4980238038617,
+          55.6945324879388
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа района Раменки",
+        "AuthorityHead": "Алексеев Игорь Алексеевич",
+        "AuthorityArea": "район Раменки",
+        "AdmArea": "Западный административный округ",
+        "District": "район Раменки",
+        "Address": "город Москва, Мичуринский проспект, дом 31, корпус 5",
+        "ClarificationOfWorkingHours": "",
+        "WebSite": "www.ramenki.mos.ru",
+        "Email": "uzao-ramenki@mos.ru",
+        "DepartmentalAffiliation": "Префектура Западного административного округа города Москвы",
+        "globalid": 926361609
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.3944057142687,
+          55.650630392434
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа района Солнцево",
+        "AuthorityHead": "Бораев Фёдор Павлович",
+        "AuthorityArea": "район Солнцево",
+        "AdmArea": "Западный административный округ",
+        "District": "район Солнцево",
+        "Address": "город Москва, улица Богданова, дом 50",
+        "ClarificationOfWorkingHours": "",
+        "WebSite": "www.solntsevo.mos.ru",
+        "Email": "solntsevo@mos.ru",
+        "DepartmentalAffiliation": "Префектура Западного административного округа города Москвы",
+        "globalid": 926361764
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4913524724,
+          55.6546392476357
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа района Тропарево-Никулино",
+        "AuthorityHead": "Скворцов Николай Иванович",
+        "AuthorityArea": "район Тропарёво-Никулино",
+        "AdmArea": "Западный административный округ",
+        "District": "район Тропарёво-Никулино",
+        "Address": "город Москва, Ленинский проспект, дом 150",
+        "ClarificationOfWorkingHours": "",
+        "WebSite": "www.troparevo-nikulino.mos.ru",
+        "Email": "uprava.trop-nik@zao.mos.ru",
+        "DepartmentalAffiliation": "Префектура Западного административного округа города Москвы",
+        "globalid": 926361886
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5003495783305,
+          55.7482162007763
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа района Филёвский парк",
+        "AuthorityHead": "Мирошниченко Роман Евгеньевич",
+        "AuthorityArea": "район Филёвский Парк",
+        "AdmArea": "Западный административный округ",
+        "District": "район Филёвский Парк",
+        "Address": "город Москва, Большая Филёвская улица, дом 13",
+        "ClarificationOfWorkingHours": "",
+        "WebSite": "www.filevsky-park.mos.ru",
+        "Email": "upravafp@mos.ru",
+        "DepartmentalAffiliation": "Префектура Западного административного округа города Москвы",
+        "globalid": 926362005
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.480978078894,
+          55.7345193178618
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа района Фили-Давыдково",
+        "AuthorityHead": "Нахаев Эльдар Заурбейгович",
+        "AuthorityArea": "район Фили-Давыдково",
+        "AdmArea": "Западный административный округ",
+        "District": "район Фили-Давыдково",
+        "Address": "город Москва, Кастанаевская улица, дом 29, корпус 2",
+        "ClarificationOfWorkingHours": "",
+        "WebSite": "www.fili-davydkovo.mos.ru",
+        "Email": "uprava-filidavydkovo@mos.ru",
+        "DepartmentalAffiliation": "Префектура Западного административного округа города Москвы",
+        "globalid": 926362552
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.679751233418,
+          55.7029468750284
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа Южнопортового района города Москвы",
+        "AuthorityHead": "Никитин Сергей Владимирович",
+        "AuthorityArea": "Южнопортовый район",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "Южнопортовый район",
+        "Address": "город Москва, улица Трофимова, дом 27, корпус 1",
+        "ClarificationOfWorkingHours": "",
+        "WebSite": "uzhnoport.mos.ru",
+        "Email": "uzhsekretar@uvao.mos.ru",
+        "DepartmentalAffiliation": "Префектура Юго-Восточного административного округа города Москвы",
+        "globalid": 926363198
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7370780538797,
+          55.6897610160592
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа района Люблино города Москвы",
+        "AuthorityHead": "Бирюков Алексей Петрович",
+        "AuthorityArea": "район Люблино",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Люблино",
+        "Address": "город Москва, Люблинская улица, дом 53",
+        "ClarificationOfWorkingHours": "",
+        "WebSite": "lublino.mos.ru",
+        "Email": "lublino@mos.ru",
+        "DepartmentalAffiliation": "Префектура Юго-Восточного административного округа города Москвы",
+        "globalid": 926363228
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7708802933857,
+          55.6988499700994
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа района Кузьминки города Москвы",
+        "AuthorityHead": "Акубекова Людмила Олеговна",
+        "AuthorityArea": "район Кузьминки",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Кузьминки",
+        "Address": "город Москва, улица Юных Ленинцев, дом 66, корпус 2",
+        "ClarificationOfWorkingHours": "",
+        "WebSite": "kuzminki.mos.ru",
+        "Email": "uprava-kuzminki@mos.ru",
+        "DepartmentalAffiliation": "Префектура Юго-Восточного административного округа города Москвы",
+        "globalid": 926363309
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.8035476812443,
+          55.7138726764231
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа района Выхино-Жулебино города Москвы",
+        "AuthorityHead": "Сандурский Сергей Владимирович",
+        "AuthorityArea": "район Выхино-Жулебино",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Выхино-Жулебино",
+        "Address": "город Москва, Рязанский проспект, дом 64, корпус 2",
+        "ClarificationOfWorkingHours": "",
+        "WebSite": "vyhino-zhulebino.mos.ru",
+        "Email": "vh@uvao.mos.ru",
+        "DepartmentalAffiliation": "Префектура Юго-Восточного административного округа города Москвы",
+        "globalid": 926363390
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7195632890928,
+          55.6676796692696
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа района Печатники города Москвы",
+        "AuthorityHead": "Юмадилов Альберт Рашитович",
+        "AuthorityArea": "район Печатники",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Печатники",
+        "Address": "город Москва, Шоссейная улица, дом 86",
+        "ClarificationOfWorkingHours": "",
+        "WebSite": "pechatniki.mos.ru",
+        "Email": "upravapechatniki@mos.ru",
+        "DepartmentalAffiliation": "Префектура Юго-Восточного административного округа города Москвы",
+        "globalid": 926363440
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7465831903862,
+          55.7014450120553
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа района Текстильщики города Москвы",
+        "AuthorityHead": "Матыцин Александр Николаевич",
+        "AuthorityArea": "район Текстильщики",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Текстильщики",
+        "Address": "город Москва, 8-я улица Текстильщиков, дом 16, корпус 5",
+        "ClarificationOfWorkingHours": "",
+        "WebSite": "tekstilschiky.mos.ru",
+        "Email": "tekstilschiky@mos.ru",
+        "DepartmentalAffiliation": "Префектура Юго-Восточного административного округа города Москвы",
+        "globalid": 926363456
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7054081785833,
+          55.7340892971853
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа Нижегородского района города Москвы",
+        "AuthorityHead": "Иванченко Валентина Алексеевна",
+        "AuthorityArea": "Нижегородский район",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "Нижегородский район",
+        "Address": "город Москва, Нижегородская улица, дом 58, корпус 1",
+        "ClarificationOfWorkingHours": "",
+        "WebSite": "nizhegorodsky.mos.ru",
+        "Email": "nizhegorodka@mos.ru",
+        "DepartmentalAffiliation": "Префектура Юго-Восточного административного округа города Москвы",
+        "globalid": 926363528
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.78481322024,
+          55.7158190745115
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа Рязанского района города Москвы",
+        "AuthorityHead": "Киселев Андрей Александрович",
+        "AuthorityArea": "Рязанский район",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "Рязанский район",
+        "Address": "город Москва, 1-я Новокузьминская улица, дом 10",
+        "ClarificationOfWorkingHours": "",
+        "WebSite": "ryazansky.mos.ru",
+        "Email": "uprava-ryazansky@mos.ru",
+        "DepartmentalAffiliation": "Префектура Юго-Восточного административного округа города Москвы",
+        "globalid": 926363538
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7439915906193,
+          55.6525564871537
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа района Марьино города Москвы",
+        "AuthorityHead": "Чернышов Вадим Георгиевич",
+        "AuthorityArea": "район Марьино",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Марьино",
+        "Address": "город Москва, Люблинская улица, дом 161",
+        "ClarificationOfWorkingHours": "",
+        "WebSite": "marino.mos.ru",
+        "Email": "marino@mos.ru",
+        "DepartmentalAffiliation": "Префектура Юго-Восточного административного округа города Москвы",
+        "globalid": 926363561
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7024621074994,
+          55.7525782184511
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа района Лефортово города Москвы",
+        "AuthorityHead": "Царикаев Азамат Русланович",
+        "AuthorityArea": "район Лефортово",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Лефортово",
+        "Address": "город Москва, проезд Завода Серп и Молот, дом 10",
+        "ClarificationOfWorkingHours": "",
+        "WebSite": "lefortovo.mos.ru",
+        "Email": "lefortovo@uvao.mos.ru",
+        "DepartmentalAffiliation": "Префектура Юго-Восточного административного округа города Москвы",
+        "globalid": 926363599
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5800682299672,
+          55.6807266167412
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа Академического района города Москвы",
+        "AuthorityHead": "Шигабетдинова Эльвира Альбертовна",
+        "AuthorityArea": "Академический район",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "Академический район",
+        "Address": "город Москва, Новочерёмушкинская улица, дом 23, корпус 5",
+        "ClarificationOfWorkingHours": "Перерыв на обед - 12:30-13:15",
+        "WebSite": "akademichesky.mos.ru",
+        "Email": "uzao-akadem@mos.ru",
+        "DepartmentalAffiliation": "Префектура Юго-Западного административного округа города Москвы",
+        "globalid": 926364054,
+        "Phonesisdeleted0": 0,
+        "Phonesglobalid0": 12,
+        "PhonesPhone0": "",
+        "PhonesPhoneComment0": "",
+        "WorkingHoursisdeleted0": 0,
+        "WorkingHoursglobalid0": 18,
+        "WorkingHoursDayOfWeek0": null,
+        "WorkingHoursHours0": "",
+        "WorkingHoursisdeleted1": 0,
+        "WorkingHoursglobalid1": 19,
+        "WorkingHoursDayOfWeek1": null,
+        "WorkingHoursHours1": "",
+        "WorkingHoursisdeleted2": 0,
+        "WorkingHoursglobalid2": 20,
+        "WorkingHoursDayOfWeek2": null,
+        "WorkingHoursHours2": "",
+        "WorkingHoursisdeleted3": 0,
+        "WorkingHoursglobalid3": 21,
+        "WorkingHoursDayOfWeek3": null,
+        "WorkingHoursHours3": "",
+        "WorkingHoursisdeleted4": 0,
+        "WorkingHoursglobalid4": 22,
+        "WorkingHoursDayOfWeek4": null,
+        "WorkingHoursHours4": "",
+        "WorkingHoursisdeleted5": 0,
+        "WorkingHoursglobalid5": 23,
+        "WorkingHoursDayOfWeek5": null,
+        "WorkingHoursHours5": "",
+        "WorkingHoursisdeleted6": 0,
+        "WorkingHoursglobalid6": 24,
+        "WorkingHoursDayOfWeek6": null,
+        "WorkingHoursHours6": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.2135795148695,
+          56.0005963581578
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа района Савелки города Москвы",
+        "AuthorityHead": "Макшанцев Андрей Евгеньевич",
+        "AuthorityArea": "район Савёлки",
+        "AdmArea": "Зеленоградский административный округ",
+        "District": "район Савёлки",
+        "Address": "город Москва, город Зеленоград, корпус 311",
+        "ClarificationOfWorkingHours": "Перерыв на обед 12:00-12:45",
+        "WebSite": "www.savelki.mos.ru",
+        "Email": "zelao-savelki@mos.ru",
+        "DepartmentalAffiliation": "Префектура Зеленоградского административного округа города Москвы",
+        "globalid": 926364511,
+        "Phonesglobalid0": 14,
+        "Phonesisdeleted0": 0,
+        "PhonesPhone0": "",
+        "PhonesPhoneComment0": "",
+        "WorkingHoursglobalid0": 92,
+        "WorkingHoursisdeleted0": 0,
+        "WorkingHoursDayOfWeek0": null,
+        "WorkingHoursHours0": "",
+        "WorkingHoursglobalid1": 93,
+        "WorkingHoursisdeleted1": 0,
+        "WorkingHoursDayOfWeek1": null,
+        "WorkingHoursHours1": "",
+        "WorkingHoursglobalid2": 94,
+        "WorkingHoursisdeleted2": 0,
+        "WorkingHoursDayOfWeek2": null,
+        "WorkingHoursHours2": "",
+        "WorkingHoursglobalid3": 95,
+        "WorkingHoursisdeleted3": 0,
+        "WorkingHoursDayOfWeek3": null,
+        "WorkingHoursHours3": "",
+        "WorkingHoursglobalid4": 96,
+        "WorkingHoursisdeleted4": 0,
+        "WorkingHoursDayOfWeek4": null,
+        "WorkingHoursHours4": "",
+        "WorkingHoursglobalid5": 97,
+        "WorkingHoursisdeleted5": 0,
+        "WorkingHoursDayOfWeek5": null,
+        "WorkingHoursHours5": "",
+        "WorkingHoursglobalid6": 98,
+        "WorkingHoursisdeleted6": 0,
+        "WorkingHoursDayOfWeek6": null,
+        "WorkingHoursHours6": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.1800339321862,
+          55.9814893511976
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа района Старое Крюково города Москвы",
+        "AuthorityHead": "Петрова Людмила Ивановна",
+        "AuthorityArea": "район Старое Крюково",
+        "AdmArea": "Зеленоградский административный округ",
+        "District": "район Старое Крюково",
+        "Address": "город Москва, город Зеленоград, корпус 830",
+        "ClarificationOfWorkingHours": "Перерыв на обед 12:00-12:45",
+        "WebSite": "www.st-krukovo.mos.ru",
+        "Email": "uprsk@mos.ru",
+        "DepartmentalAffiliation": "Префектура Зеленоградского административного округа города Москвы",
+        "globalid": 926364517,
+        "Phonesglobalid0": 15,
+        "Phonesisdeleted0": 0,
+        "PhonesPhone0": "",
+        "PhonesPhoneComment0": "",
+        "WorkingHoursglobalid0": 99,
+        "WorkingHoursisdeleted0": 0,
+        "WorkingHoursDayOfWeek0": null,
+        "WorkingHoursHours0": "",
+        "WorkingHoursglobalid1": 100,
+        "WorkingHoursisdeleted1": 0,
+        "WorkingHoursDayOfWeek1": null,
+        "WorkingHoursHours1": "",
+        "WorkingHoursglobalid2": 101,
+        "WorkingHoursisdeleted2": 0,
+        "WorkingHoursDayOfWeek2": null,
+        "WorkingHoursHours2": "",
+        "WorkingHoursglobalid3": 102,
+        "WorkingHoursisdeleted3": 0,
+        "WorkingHoursDayOfWeek3": null,
+        "WorkingHoursHours3": "",
+        "WorkingHoursglobalid4": 103,
+        "WorkingHoursisdeleted4": 0,
+        "WorkingHoursDayOfWeek4": null,
+        "WorkingHoursHours4": "",
+        "WorkingHoursglobalid5": 104,
+        "WorkingHoursisdeleted5": 0,
+        "WorkingHoursDayOfWeek5": null,
+        "WorkingHoursHours5": "",
+        "WorkingHoursglobalid6": 105,
+        "WorkingHoursisdeleted6": 0,
+        "WorkingHoursDayOfWeek6": null,
+        "WorkingHoursHours6": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5823029708665,
+          55.5620985989669
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа района Северное Бутово города Москвы",
+        "AuthorityHead": "Прокудин Алексей Александрович",
+        "AuthorityArea": "район Северное Бутово",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Северное Бутово",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Северное Бутово, улица Грина, дом 1, корпус 2",
+        "ClarificationOfWorkingHours": "Перерыв на обед - 12:00-12:45",
+        "WebSite": "sevbutovo.mos.ru",
+        "Email": "uzao-sevbutovo@mos.ru",
+        "DepartmentalAffiliation": "Префектура Юго-Западного административного округа города Москвы",
+        "globalid": 926364524
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.1514706078319,
+          55.9860922482338
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа района Крюково города Москвы",
+        "AuthorityHead": "Журавлев Андрей Владиславович",
+        "AuthorityArea": "район Крюково",
+        "AdmArea": "Зеленоградский административный округ",
+        "District": "район Крюково",
+        "Address": "город Москва, город Зеленоград, корпус 1444",
+        "ClarificationOfWorkingHours": "Перерыв на обед 12:00-12:45",
+        "WebSite": "www.krukovo.mos.ru",
+        "Email": "krukovo@mos.ru",
+        "DepartmentalAffiliation": "Префектура Зеленоградского административного округа города Москвы",
+        "globalid": 926365704,
+        "Phonesglobalid0": 19,
+        "Phonesisdeleted0": 0,
+        "PhonesPhone0": "",
+        "PhonesPhoneComment0": "",
+        "WorkingHoursglobalid0": 127,
+        "WorkingHoursisdeleted0": 0,
+        "WorkingHoursDayOfWeek0": null,
+        "WorkingHoursHours0": "",
+        "WorkingHoursglobalid1": 128,
+        "WorkingHoursisdeleted1": 0,
+        "WorkingHoursDayOfWeek1": null,
+        "WorkingHoursHours1": "",
+        "WorkingHoursglobalid2": 129,
+        "WorkingHoursisdeleted2": 0,
+        "WorkingHoursDayOfWeek2": null,
+        "WorkingHoursHours2": "",
+        "WorkingHoursglobalid3": 130,
+        "WorkingHoursisdeleted3": 0,
+        "WorkingHoursDayOfWeek3": null,
+        "WorkingHoursHours3": "",
+        "WorkingHoursglobalid4": 131,
+        "WorkingHoursisdeleted4": 0,
+        "WorkingHoursDayOfWeek4": null,
+        "WorkingHoursHours4": "",
+        "WorkingHoursglobalid5": 132,
+        "WorkingHoursisdeleted5": 0,
+        "WorkingHoursDayOfWeek5": null,
+        "WorkingHoursHours5": "",
+        "WorkingHoursglobalid6": 133,
+        "WorkingHoursisdeleted6": 0,
+        "WorkingHoursDayOfWeek6": null,
+        "WorkingHoursHours6": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.1763316655844,
+          55.9960621650746
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа района Силино города Москвы",
+        "AuthorityHead": "Журба Александр Григорьевич",
+        "AuthorityArea": "район Силино",
+        "AdmArea": "Зеленоградский административный округ",
+        "District": "район Силино",
+        "Address": "город Москва, город Зеленоград, корпус 1123",
+        "ClarificationOfWorkingHours": "12.00-12.45 - перерыв на обед",
+        "WebSite": "www.silino.mos.ru",
+        "Email": "silinozelao@mos.ru",
+        "DepartmentalAffiliation": "Префектура Зеленоградского административного округа города Москвы",
+        "globalid": 926365744,
+        "Phonesglobalid0": 20,
+        "Phonesisdeleted0": 0,
+        "PhonesPhone0": "",
+        "PhonesPhoneComment0": "",
+        "WorkingHoursglobalid0": 134,
+        "WorkingHoursisdeleted0": 0,
+        "WorkingHoursDayOfWeek0": null,
+        "WorkingHoursHours0": "",
+        "WorkingHoursglobalid1": 135,
+        "WorkingHoursisdeleted1": 0,
+        "WorkingHoursDayOfWeek1": null,
+        "WorkingHoursHours1": "",
+        "WorkingHoursglobalid2": 136,
+        "WorkingHoursisdeleted2": 0,
+        "WorkingHoursDayOfWeek2": null,
+        "WorkingHoursHours2": "",
+        "WorkingHoursglobalid3": 137,
+        "WorkingHoursisdeleted3": 0,
+        "WorkingHoursDayOfWeek3": null,
+        "WorkingHoursHours3": "",
+        "WorkingHoursglobalid4": 138,
+        "WorkingHoursisdeleted4": 0,
+        "WorkingHoursDayOfWeek4": null,
+        "WorkingHoursHours4": "",
+        "WorkingHoursglobalid5": 139,
+        "WorkingHoursisdeleted5": 0,
+        "WorkingHoursDayOfWeek5": null,
+        "WorkingHoursHours5": "",
+        "WorkingHoursglobalid6": 140,
+        "WorkingHoursisdeleted6": 0,
+        "WorkingHoursDayOfWeek6": null,
+        "WorkingHoursHours6": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5169133885673,
+          55.6651358834516
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа Обручевского района города Москвы",
+        "AuthorityHead": "Хизирьянов Вячеслав Владимирович",
+        "AuthorityArea": "Обручевский район",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "Обручевский район",
+        "Address": "город Москва, улица Новаторов, дом 4, корпус 8",
+        "ClarificationOfWorkingHours": "Перерыв на обед - 12:30-13:15\n",
+        "WebSite": "obruchev.mos.ru",
+        "Email": "UZAO-obruchev@mos.ru",
+        "DepartmentalAffiliation": "Префектура Юго-Западного административного округа города Москвы",
+        "globalid": 926367314,
+        "Phonesisdeleted0": 0,
+        "Phonesglobalid0": 25,
+        "PhonesPhone0": "",
+        "PhonesPhoneComment0": "",
+        "WorkingHoursisdeleted0": 0,
+        "WorkingHoursglobalid0": 93,
+        "WorkingHoursDayOfWeek0": null,
+        "WorkingHoursHours0": "",
+        "WorkingHoursisdeleted1": 0,
+        "WorkingHoursglobalid1": 94,
+        "WorkingHoursDayOfWeek1": null,
+        "WorkingHoursHours1": "",
+        "WorkingHoursisdeleted2": 0,
+        "WorkingHoursglobalid2": 95,
+        "WorkingHoursDayOfWeek2": null,
+        "WorkingHoursHours2": "",
+        "WorkingHoursisdeleted3": 0,
+        "WorkingHoursglobalid3": 96,
+        "WorkingHoursDayOfWeek3": null,
+        "WorkingHoursHours3": "",
+        "WorkingHoursisdeleted4": 0,
+        "WorkingHoursglobalid4": 97,
+        "WorkingHoursDayOfWeek4": null,
+        "WorkingHoursHours4": "",
+        "WorkingHoursisdeleted5": 0,
+        "WorkingHoursglobalid5": 98,
+        "WorkingHoursDayOfWeek5": null,
+        "WorkingHoursHours5": "",
+        "WorkingHoursisdeleted6": 0,
+        "WorkingHoursglobalid6": 99,
+        "WorkingHoursDayOfWeek6": null,
+        "WorkingHoursHours6": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.209776689143,
+          56.0027252793353
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа района Матушкино города Москвы",
+        "AuthorityHead": "Гущин Антон Валентинович",
+        "AuthorityArea": "район Матушкино",
+        "AdmArea": "Зеленоградский административный округ",
+        "District": "район Матушкино",
+        "Address": "город Москва, город Зеленоград, площадь Юности, дом 1",
+        "ClarificationOfWorkingHours": "Перерыв на обед 12:15-13:00",
+        "WebSite": "www.matushkino.mos.ru",
+        "Email": "zelao-matushkino-kos@mos.ru",
+        "DepartmentalAffiliation": "Префектура Зеленоградского административного округа города Москвы",
+        "globalid": 926367337,
+        "Phonesglobalid0": 28,
+        "Phonesisdeleted0": 0,
+        "PhonesPhone0": "",
+        "PhonesPhoneComment0": "",
+        "WorkingHoursglobalid0": 190,
+        "WorkingHoursisdeleted0": 0,
+        "WorkingHoursDayOfWeek0": null,
+        "WorkingHoursHours0": "",
+        "WorkingHoursglobalid1": 191,
+        "WorkingHoursisdeleted1": 0,
+        "WorkingHoursDayOfWeek1": null,
+        "WorkingHoursHours1": "",
+        "WorkingHoursglobalid2": 192,
+        "WorkingHoursisdeleted2": 0,
+        "WorkingHoursDayOfWeek2": null,
+        "WorkingHoursHours2": "",
+        "WorkingHoursglobalid3": 193,
+        "WorkingHoursisdeleted3": 0,
+        "WorkingHoursDayOfWeek3": null,
+        "WorkingHoursHours3": "",
+        "WorkingHoursglobalid4": 194,
+        "WorkingHoursisdeleted4": 0,
+        "WorkingHoursDayOfWeek4": null,
+        "WorkingHoursHours4": "",
+        "WorkingHoursglobalid5": 195,
+        "WorkingHoursisdeleted5": 0,
+        "WorkingHoursDayOfWeek5": null,
+        "WorkingHoursHours5": "",
+        "WorkingHoursglobalid6": 196,
+        "WorkingHoursisdeleted6": 0,
+        "WorkingHoursDayOfWeek6": null,
+        "WorkingHoursHours6": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5779682235475,
+          55.6553240359304
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа района Зюзино города Москвы",
+        "AuthorityHead": "Горлова Вера Владимировна",
+        "AuthorityArea": "район Зюзино",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Зюзино",
+        "Address": "город Москва, улица Каховка, дом 12Б",
+        "ClarificationOfWorkingHours": "Перерыв на обед - 12:30-13:15",
+        "WebSite": "zuzino.mos.ru",
+        "Email": "uzao-zuzino@mos.ru",
+        "DepartmentalAffiliation": "Префектура Юго-Западного административного округа города Москвы",
+        "globalid": 926367343,
+        "Phonesisdeleted0": 0,
+        "Phonesglobalid0": 30,
+        "PhonesPhone0": "",
+        "PhonesPhoneComment0": "",
+        "WorkingHoursisdeleted0": 0,
+        "WorkingHoursglobalid0": 128,
+        "WorkingHoursDayOfWeek0": null,
+        "WorkingHoursHours0": "",
+        "WorkingHoursisdeleted1": 0,
+        "WorkingHoursglobalid1": 129,
+        "WorkingHoursDayOfWeek1": null,
+        "WorkingHoursHours1": "",
+        "WorkingHoursisdeleted2": 0,
+        "WorkingHoursglobalid2": 130,
+        "WorkingHoursDayOfWeek2": null,
+        "WorkingHoursHours2": "",
+        "WorkingHoursisdeleted3": 0,
+        "WorkingHoursglobalid3": 131,
+        "WorkingHoursDayOfWeek3": null,
+        "WorkingHoursHours3": "",
+        "WorkingHoursisdeleted4": 0,
+        "WorkingHoursglobalid4": 132,
+        "WorkingHoursDayOfWeek4": null,
+        "WorkingHoursHours4": "",
+        "WorkingHoursisdeleted5": 0,
+        "WorkingHoursglobalid5": 133,
+        "WorkingHoursDayOfWeek5": null,
+        "WorkingHoursHours5": "",
+        "WorkingHoursisdeleted6": 0,
+        "WorkingHoursglobalid6": 134,
+        "WorkingHoursDayOfWeek6": null,
+        "WorkingHoursHours6": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5455503151405,
+          55.6896721058844
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа Гагаринского района города Москвы",
+        "AuthorityHead": "Вишняков Евгений Евгеньевич",
+        "AuthorityArea": "Гагаринский район",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "Гагаринский район",
+        "Address": "город Москва, Ленинский проспект, дом 68/10",
+        "ClarificationOfWorkingHours": "Перерыв на обед - 13:00-13:45\n",
+        "WebSite": "gagarin.mos.ru",
+        "Email": "uzao-gagarin@mos.ru",
+        "DepartmentalAffiliation": "Префектура Юго-Западного административного округа города Москвы",
+        "globalid": 926370252,
+        "Phonesisdeleted0": 0,
+        "Phonesglobalid0": 34,
+        "PhonesPhone0": "",
+        "PhonesPhoneComment0": "",
+        "WorkingHoursisdeleted0": 0,
+        "WorkingHoursglobalid0": 157,
+        "WorkingHoursDayOfWeek0": null,
+        "WorkingHoursHours0": "",
+        "WorkingHoursisdeleted1": 0,
+        "WorkingHoursglobalid1": 158,
+        "WorkingHoursDayOfWeek1": null,
+        "WorkingHoursHours1": "",
+        "WorkingHoursisdeleted2": 0,
+        "WorkingHoursglobalid2": 159,
+        "WorkingHoursDayOfWeek2": null,
+        "WorkingHoursHours2": "",
+        "WorkingHoursisdeleted3": 0,
+        "WorkingHoursglobalid3": 160,
+        "WorkingHoursDayOfWeek3": null,
+        "WorkingHoursHours3": "",
+        "WorkingHoursisdeleted4": 0,
+        "WorkingHoursglobalid4": 161,
+        "WorkingHoursDayOfWeek4": null,
+        "WorkingHoursHours4": "",
+        "WorkingHoursisdeleted5": 0,
+        "WorkingHoursglobalid5": 162,
+        "WorkingHoursDayOfWeek5": null,
+        "WorkingHoursHours5": "",
+        "WorkingHoursisdeleted6": 0,
+        "WorkingHoursglobalid6": 536,
+        "WorkingHoursDayOfWeek6": null,
+        "WorkingHoursHours6": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.3998672652841,
+          55.8918343959759
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа района Куркино города Москвы",
+        "AuthorityHead": "Тараканов Денис Михайлович",
+        "AuthorityArea": "район Куркино",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Куркино",
+        "Address": "город Москва, улица Соловьиная Роща, дом 8, корпус 1",
+        "ClarificationOfWorkingHours": "",
+        "WebSite": "kurkino.mos.ru",
+        "Email": "kurkino@sisp.mos.ru",
+        "DepartmentalAffiliation": "Префектура Северо-Западного административного округа города Москвы",
+        "globalid": 926370378
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5029468233078,
+          55.6221764153334
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа района Теплый Стан города Москвы",
+        "AuthorityHead": "Никитенко Антон Юрьевич",
+        "AuthorityArea": "район Тёплый Стан",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Тёплый Стан",
+        "Address": "город Москва, Профсоюзная улица, дом 154, корпус 2",
+        "ClarificationOfWorkingHours": "Перерыв на обед - 12:30-13:15\n",
+        "WebSite": "teplystan.mos.ru",
+        "Email": "UZAO-Teplystan@mos.ru",
+        "DepartmentalAffiliation": "Префектура Юго-Западного административного округа города Москвы",
+        "globalid": 926370412,
+        "Phonesisdeleted0": 0,
+        "Phonesglobalid0": 44,
+        "PhonesPhone0": "",
+        "PhonesPhoneComment0": "",
+        "WorkingHoursisdeleted0": 0,
+        "WorkingHoursglobalid0": 216,
+        "WorkingHoursDayOfWeek0": null,
+        "WorkingHoursHours0": "",
+        "WorkingHoursisdeleted1": 0,
+        "WorkingHoursglobalid1": 217,
+        "WorkingHoursDayOfWeek1": null,
+        "WorkingHoursHours1": "",
+        "WorkingHoursisdeleted2": 0,
+        "WorkingHoursglobalid2": 218,
+        "WorkingHoursDayOfWeek2": null,
+        "WorkingHoursHours2": "",
+        "WorkingHoursisdeleted3": 0,
+        "WorkingHoursglobalid3": 219,
+        "WorkingHoursDayOfWeek3": null,
+        "WorkingHoursHours3": "",
+        "WorkingHoursisdeleted4": 0,
+        "WorkingHoursglobalid4": 220,
+        "WorkingHoursDayOfWeek4": null,
+        "WorkingHoursHours4": "",
+        "WorkingHoursisdeleted5": 0,
+        "WorkingHoursglobalid5": 221,
+        "WorkingHoursDayOfWeek5": null,
+        "WorkingHoursHours5": "",
+        "WorkingHoursisdeleted6": 0,
+        "WorkingHoursglobalid6": 222,
+        "WorkingHoursDayOfWeek6": null,
+        "WorkingHoursHours6": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.3552508824612,
+          55.8480223796094
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа района Митино города Москвы",
+        "AuthorityHead": "Низамов Алексей Сергеевич",
+        "AuthorityArea": "район Митино",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Митино",
+        "Address": "город Москва, Митинская улица, дом 35",
+        "ClarificationOfWorkingHours": "",
+        "WebSite": "mitino.mos.ru",
+        "Email": "mitino@mos.ru",
+        "DepartmentalAffiliation": "Префектура Северо-Западного административного округа города Москвы",
+        "globalid": 926370425
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4539252340911,
+          55.8316663044798
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа района Покровское-Стрешнево города Москвы",
+        "AuthorityHead": "Попов Игорь Александрович",
+        "AuthorityArea": "район Покровское-Стрешнево",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Покровское-Стрешнево",
+        "Address": "город Москва, улица Свободы, дом 16",
+        "ClarificationOfWorkingHours": "",
+        "WebSite": "pokrov-streshnevo.mos.ru",
+        "Email": "szao-pstreshnevo@mos.ru",
+        "DepartmentalAffiliation": "Префектура Северо-Западного административного округа города Москвы",
+        "globalid": 926370487
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4198003834065,
+          55.8565596832689
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа района Северное Тушино города Москвы",
+        "AuthorityHead": "Кузнецов Сергей Иванович",
+        "AuthorityArea": "район Северное Тушино",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Северное Тушино",
+        "Address": "город Москва, Туристская улица, дом 29, корпус 1",
+        "ClarificationOfWorkingHours": "",
+        "WebSite": "severnoe-tushino.mos.ru",
+        "Email": "severnoe-tushino@mos.ru",
+        "DepartmentalAffiliation": "Префектура Северо-Западного административного округа города Москвы",
+        "globalid": 926370501
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.523464644711,
+          55.6328447368446
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа района Коньково города Москвы",
+        "AuthorityHead": "Захарова Регина Михайловна",
+        "AuthorityArea": "район Коньково",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Коньково",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Коньково, улица Островитянова, дом 32",
+        "ClarificationOfWorkingHours": "Перерыв на обед - 12:30-13:15",
+        "WebSite": "konkovo.mos.ru",
+        "Email": "UZAO-konkovo@mos.ru",
+        "DepartmentalAffiliation": "Префектура Юго-Западного административного округа города Москвы",
+        "globalid": 926370505
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4117558631096,
+          55.8085076094749
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа района Строгино города Москвы",
+        "AuthorityHead": "Коновалов Виктор Викторович",
+        "AuthorityArea": "район Строгино",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Строгино",
+        "Address": "город Москва, улица Маршала Катукова, дом 19, корпус 1",
+        "ClarificationOfWorkingHours": "",
+        "WebSite": "strogino.mos.ru",
+        "Email": "szao-strogino@mos.ru",
+        "DepartmentalAffiliation": "Префектура Северо-Западного административного округа города Москвы",
+        "globalid": 926370510
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.480385856704,
+          55.7864656343758
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа района Хорошёво-Мнёвники города Москвы",
+        "AuthorityHead": "Ерохов Александр Сергеевич",
+        "AuthorityArea": "район Хорошёво-Мнёвники",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Хорошёво-Мнёвники",
+        "Address": "город Москва, улица Народного Ополчения, дом 33, корпус 1",
+        "ClarificationOfWorkingHours": "",
+        "WebSite": "horoshevo-mnevniki.mos.ru",
+        "Email": "szao-hormn@mos.ru",
+        "DepartmentalAffiliation": "Префектура Северо-Западного административного округа города Москвы",
+        "globalid": 926370517
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4827331691322,
+          55.7942040183801
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа района Щукино города Москвы",
+        "AuthorityHead": "Железняк Олег Сергеевич",
+        "AuthorityArea": "район Щукино",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Щукино",
+        "Address": "город Москва, улица Расплетина, дом 9",
+        "ClarificationOfWorkingHours": "",
+        "WebSite": "schukino.mos.ru",
+        "Email": "shukino-uprava@mos.ru",
+        "DepartmentalAffiliation": "Префектура Северо-Западного административного округа города Москвы",
+        "globalid": 926370524
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4105002205511,
+          55.849409913898
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа района Южное Тушино города Москвы",
+        "AuthorityHead": "Захаров Дмитрий Владимирович",
+        "AuthorityArea": "район Южное Тушино",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Южное Тушино",
+        "Address": "город Москва, бульвар Яна Райниса, дом 43, корпус 1",
+        "ClarificationOfWorkingHours": "",
+        "WebSite": "tushino-juzhnoe.mos.ru",
+        "Email": "SZAO-UTUSH@mos.ru",
+        "DepartmentalAffiliation": "Префектура Северо-Западного административного округа города Москвы",
+        "globalid": 926370527
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5202081547653,
+          55.6767240335596
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа Ломоносовского района города Москвы",
+        "AuthorityHead": "Кравцова Ксения Владимировна",
+        "AuthorityArea": "Ломоносовский район",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "Ломоносовский район",
+        "Address": "город Москва, улица Кравченко, дом 8",
+        "ClarificationOfWorkingHours": "Перерыв на обед - 12:30-13:15",
+        "WebSite": "lomonosovsky.mos.ru",
+        "Email": "uzao-lomonos@mos.ru",
+        "DepartmentalAffiliation": "Префектура Юго-Западного административного округа города Москвы",
+        "globalid": 926370528,
+        "Phonesisdeleted0": 0,
+        "Phonesglobalid0": 63,
+        "PhonesPhone0": "",
+        "PhonesPhoneComment0": "",
+        "WorkingHoursisdeleted0": 0,
+        "WorkingHoursglobalid0": 336,
+        "WorkingHoursDayOfWeek0": null,
+        "WorkingHoursHours0": "",
+        "WorkingHoursisdeleted1": 0,
+        "WorkingHoursglobalid1": 337,
+        "WorkingHoursDayOfWeek1": null,
+        "WorkingHoursHours1": "",
+        "WorkingHoursisdeleted2": 0,
+        "WorkingHoursglobalid2": 338,
+        "WorkingHoursDayOfWeek2": null,
+        "WorkingHoursHours2": "",
+        "WorkingHoursisdeleted3": 0,
+        "WorkingHoursglobalid3": 339,
+        "WorkingHoursDayOfWeek3": null,
+        "WorkingHoursHours3": "",
+        "WorkingHoursisdeleted4": 0,
+        "WorkingHoursglobalid4": 340,
+        "WorkingHoursDayOfWeek4": null,
+        "WorkingHoursHours4": "",
+        "WorkingHoursisdeleted5": 0,
+        "WorkingHoursglobalid5": 341,
+        "WorkingHoursDayOfWeek5": null,
+        "WorkingHoursHours5": "",
+        "WorkingHoursisdeleted6": 0,
+        "WorkingHoursglobalid6": 342,
+        "WorkingHoursDayOfWeek6": null,
+        "WorkingHoursHours6": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5491972269586,
+          55.6743668813225
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа района Черёмушки города Москвы",
+        "AuthorityHead": "Ширяев Станислав Владимирович",
+        "AuthorityArea": "район Черёмушки",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Черёмушки",
+        "Address": "город Москва, улица Архитектора Власова, дом 25, корпус 2",
+        "ClarificationOfWorkingHours": "Перерыв на обед - 12:30-13:15",
+        "WebSite": "cheremush.mos.ru",
+        "Email": "uzao-cheremush@mos.ru",
+        "DepartmentalAffiliation": "Префектура Юго-Западного административного округа города Москвы",
+        "globalid": 926370573,
+        "Phonesisdeleted0": 0,
+        "Phonesglobalid0": 77,
+        "PhonesPhone0": "",
+        "PhonesPhoneComment0": "",
+        "WorkingHoursisdeleted0": 0,
+        "WorkingHoursglobalid0": 357,
+        "WorkingHoursDayOfWeek0": null,
+        "WorkingHoursHours0": "",
+        "WorkingHoursisdeleted1": 0,
+        "WorkingHoursglobalid1": 358,
+        "WorkingHoursDayOfWeek1": null,
+        "WorkingHoursHours1": "",
+        "WorkingHoursisdeleted2": 0,
+        "WorkingHoursglobalid2": 359,
+        "WorkingHoursDayOfWeek2": null,
+        "WorkingHoursHours2": "",
+        "WorkingHoursisdeleted3": 0,
+        "WorkingHoursglobalid3": 360,
+        "WorkingHoursDayOfWeek3": null,
+        "WorkingHoursHours3": "",
+        "WorkingHoursisdeleted4": 0,
+        "WorkingHoursglobalid4": 361,
+        "WorkingHoursDayOfWeek4": null,
+        "WorkingHoursHours4": "",
+        "WorkingHoursisdeleted5": 0,
+        "WorkingHoursglobalid5": 362,
+        "WorkingHoursDayOfWeek5": null,
+        "WorkingHoursHours5": "",
+        "WorkingHoursisdeleted6": 0,
+        "WorkingHoursglobalid6": 363,
+        "WorkingHoursDayOfWeek6": null,
+        "WorkingHoursHours6": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.53831196497,
+          55.5990734337726
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа района Ясенево города Москвы",
+        "AuthorityHead": "Толчеев Алексей Юрьевич",
+        "AuthorityArea": "район Ясенево",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Ясенево",
+        "Address": "город Москва, улица Паустовского, дом 8, корпус 1",
+        "ClarificationOfWorkingHours": "Перерыв на обед - 13:00-13:45\n",
+        "WebSite": "yasenevo.mos.ru",
+        "Email": "UZAO-yasenevo@mos.ru",
+        "DepartmentalAffiliation": "Префектура Юго-Западного административного округа города Москвы",
+        "globalid": 926372409,
+        "Phonesisdeleted0": 0,
+        "Phonesglobalid0": 79,
+        "PhonesPhone0": "",
+        "PhonesPhoneComment0": "",
+        "WorkingHoursisdeleted0": 0,
+        "WorkingHoursglobalid0": 413,
+        "WorkingHoursDayOfWeek0": null,
+        "WorkingHoursHours0": "",
+        "WorkingHoursisdeleted1": 0,
+        "WorkingHoursglobalid1": 414,
+        "WorkingHoursDayOfWeek1": null,
+        "WorkingHoursHours1": "",
+        "WorkingHoursisdeleted2": 0,
+        "WorkingHoursglobalid2": 415,
+        "WorkingHoursDayOfWeek2": null,
+        "WorkingHoursHours2": "",
+        "WorkingHoursisdeleted3": 0,
+        "WorkingHoursglobalid3": 416,
+        "WorkingHoursDayOfWeek3": null,
+        "WorkingHoursHours3": "",
+        "WorkingHoursisdeleted4": 0,
+        "WorkingHoursglobalid4": 417,
+        "WorkingHoursDayOfWeek4": null,
+        "WorkingHoursHours4": "",
+        "WorkingHoursisdeleted5": 0,
+        "WorkingHoursglobalid5": 418,
+        "WorkingHoursDayOfWeek5": null,
+        "WorkingHoursHours5": "",
+        "WorkingHoursisdeleted6": 0,
+        "WorkingHoursglobalid6": 419,
+        "WorkingHoursDayOfWeek6": null,
+        "WorkingHoursHours6": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5997169635591,
+          55.6817968781284
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа района Котловка города Москвы",
+        "AuthorityHead": "Пахомова Елена Анатольевна",
+        "AuthorityArea": "район Котловка",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Котловка",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Котловка, Севастопольский проспект, дом 15, корпус 4",
+        "ClarificationOfWorkingHours": "Перерыв на обед - 12:30-13:15",
+        "WebSite": "kotlovka.mos.ru",
+        "Email": "UZAO-kotlovka@mos.ru",
+        "DepartmentalAffiliation": "Префектура Юго-Западного административного округа города Москвы",
+        "globalid": 926372454
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.542125468621,
+          55.5476537487021
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа района Южное Бутово города Москвы",
+        "AuthorityHead": "Бекниязов Мурад Азадович",
+        "AuthorityArea": "район Южное Бутово",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Южное Бутово",
+        "Address": "город Москва, аллея Витте, дом 5",
+        "ClarificationOfWorkingHours": "Перерыв на обед - 12:30-13:15",
+        "WebSite": "ubutovo.mos.ru",
+        "Email": "uzao-ugbutovo@mos.ru",
+        "DepartmentalAffiliation": "Префектура Юго-Западного административного округа города Москвы",
+        "globalid": 926372489,
+        "Phonesisdeleted0": 0,
+        "Phonesglobalid0": 96,
+        "PhonesPhone0": "",
+        "PhonesPhoneComment0": "",
+        "WorkingHoursisdeleted0": 0,
+        "WorkingHoursglobalid0": 528,
+        "WorkingHoursDayOfWeek0": null,
+        "WorkingHoursHours0": "",
+        "WorkingHoursisdeleted1": 0,
+        "WorkingHoursglobalid1": 529,
+        "WorkingHoursDayOfWeek1": null,
+        "WorkingHoursHours1": "",
+        "WorkingHoursisdeleted2": 0,
+        "WorkingHoursglobalid2": 530,
+        "WorkingHoursDayOfWeek2": null,
+        "WorkingHoursHours2": "",
+        "WorkingHoursisdeleted3": 0,
+        "WorkingHoursglobalid3": 531,
+        "WorkingHoursDayOfWeek3": null,
+        "WorkingHoursHours3": "",
+        "WorkingHoursisdeleted4": 0,
+        "WorkingHoursglobalid4": 532,
+        "WorkingHoursDayOfWeek4": null,
+        "WorkingHoursHours4": "",
+        "WorkingHoursisdeleted5": 0,
+        "WorkingHoursglobalid5": 533,
+        "WorkingHoursDayOfWeek5": null,
+        "WorkingHoursHours5": "",
+        "WorkingHoursisdeleted6": 0,
+        "WorkingHoursglobalid6": 534,
+        "WorkingHoursDayOfWeek6": null,
+        "WorkingHoursHours6": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5855260485897,
+          55.8928821817402
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа района Лианозово города Москвы",
+        "AuthorityHead": "Колесова Елена Львовна",
+        "AuthorityArea": "район Лианозово",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Лианозово",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Лианозово, Алтуфьевское шоссе, дом 87",
+        "ClarificationOfWorkingHours": "перерыв на обед 12:00-12:45",
+        "WebSite": "Lianozovo.mos.ru",
+        "Email": "LiaSpr@mos.ru",
+        "DepartmentalAffiliation": "Префектура Северо-Восточного административного округа города Москвы",
+        "globalid": 926376749,
+        "Phonesisdeleted0": 0,
+        "Phonesglobalid0": 1,
+        "PhonesPhone0": "",
+        "PhonesPhoneComment0": "",
+        "WorkingHoursisdeleted0": 0,
+        "WorkingHoursglobalid0": 1,
+        "WorkingHoursDayOfWeek0": null,
+        "WorkingHoursHours0": "",
+        "WorkingHoursisdeleted1": 0,
+        "WorkingHoursglobalid1": 2,
+        "WorkingHoursDayOfWeek1": null,
+        "WorkingHoursHours1": "",
+        "WorkingHoursisdeleted2": 0,
+        "WorkingHoursglobalid2": 3,
+        "WorkingHoursDayOfWeek2": null,
+        "WorkingHoursHours2": "",
+        "WorkingHoursisdeleted3": 0,
+        "WorkingHoursglobalid3": 4,
+        "WorkingHoursDayOfWeek3": null,
+        "WorkingHoursHours3": "",
+        "WorkingHoursisdeleted4": 0,
+        "WorkingHoursglobalid4": 5,
+        "WorkingHoursDayOfWeek4": null,
+        "WorkingHoursHours4": "",
+        "WorkingHoursisdeleted5": 0,
+        "WorkingHoursglobalid5": 6,
+        "WorkingHoursDayOfWeek5": null,
+        "WorkingHoursHours5": "",
+        "WorkingHoursisdeleted6": 0,
+        "WorkingHoursglobalid6": 7,
+        "WorkingHoursDayOfWeek6": null,
+        "WorkingHoursHours6": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6676240118814,
+          55.8367772837883
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "управа района Ростокино города Москвы",
+        "AuthorityHead": "Бурцев Михаил Михайлович",
+        "AuthorityArea": "район Ростокино",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Ростокино",
+        "Address": "город Москва, Будайский проезд, дом 9",
+        "ClarificationOfWorkingHours": "перерыв на обед 12:00-12:45",
+        "WebSite": "rostokino.mos.ru",
+        "Email": "rosspr@mos.ru",
+        "DepartmentalAffiliation": "Префектура Северо-Восточного административного округа города Москвы",
+        "globalid": 926377964,
+        "Phonesisdeleted0": 0,
+        "Phonesglobalid0": 3,
+        "PhonesPhone0": "",
+        "PhonesPhoneComment0": "",
+        "WorkingHoursisdeleted0": 0,
+        "WorkingHoursglobalid0": 13,
+        "WorkingHoursDayOfWeek0": null,
+        "WorkingHoursHours0": "",
+        "WorkingHoursisdeleted1": 0,
+        "WorkingHoursglobalid1": 14,
+        "WorkingHoursDayOfWeek1": null,
+        "WorkingHoursHours1": "",
+        "WorkingHoursisdeleted2": 0,
+        "WorkingHoursglobalid2": 15,
+        "WorkingHoursDayOfWeek2": null,
+        "WorkingHoursHours2": "",
+        "WorkingHoursisdeleted3": 0,
+        "WorkingHoursglobalid3": 16,
+        "WorkingHoursDayOfWeek3": null,
+        "WorkingHoursHours3": "",
+        "WorkingHoursisdeleted4": 0,
+        "WorkingHoursglobalid4": 17,
+        "WorkingHoursDayOfWeek4": null,
+        "WorkingHoursHours4": "",
+        "WorkingHoursisdeleted5": 0,
+        "WorkingHoursglobalid5": 18,
+        "WorkingHoursDayOfWeek5": null,
+        "WorkingHoursHours5": "",
+        "WorkingHoursisdeleted6": 0,
+        "WorkingHoursglobalid6": 19,
+        "WorkingHoursDayOfWeek6": null,
+        "WorkingHoursHours6": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5971286559682,
+          55.8876938919738
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "управа района Бибирево города Москвы",
+        "AuthorityHead": "Бужгулашвили Вадим Альбертович",
+        "AuthorityArea": "район Бибирево",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Бибирево",
+        "Address": "город Москва, улица Пришвина, дом 12, корпус 2",
+        "ClarificationOfWorkingHours": "перерыв на обед 12:00-12:45",
+        "WebSite": "bibirevo.mos.ru",
+        "Email": "bibirevo@mos.ru",
+        "DepartmentalAffiliation": "Префектура Северо-Восточного административного округа города Москвы",
+        "globalid": 926700953,
+        "Phonesisdeleted0": 0,
+        "Phonesglobalid0": 77,
+        "PhonesPhone0": "",
+        "PhonesPhoneComment0": "",
+        "WorkingHoursisdeleted0": 0,
+        "WorkingHoursglobalid0": 501,
+        "WorkingHoursDayOfWeek0": null,
+        "WorkingHoursHours0": "",
+        "WorkingHoursisdeleted1": 0,
+        "WorkingHoursglobalid1": 502,
+        "WorkingHoursDayOfWeek1": null,
+        "WorkingHoursHours1": "",
+        "WorkingHoursisdeleted2": 0,
+        "WorkingHoursglobalid2": 503,
+        "WorkingHoursDayOfWeek2": null,
+        "WorkingHoursHours2": "",
+        "WorkingHoursisdeleted3": 0,
+        "WorkingHoursglobalid3": 504,
+        "WorkingHoursDayOfWeek3": null,
+        "WorkingHoursHours3": "",
+        "WorkingHoursisdeleted4": 0,
+        "WorkingHoursglobalid4": 505,
+        "WorkingHoursDayOfWeek4": null,
+        "WorkingHoursHours4": "",
+        "WorkingHoursisdeleted5": 0,
+        "WorkingHoursglobalid5": 506,
+        "WorkingHoursDayOfWeek5": null,
+        "WorkingHoursHours5": "",
+        "WorkingHoursisdeleted6": 0,
+        "WorkingHoursglobalid6": 507,
+        "WorkingHoursDayOfWeek6": null,
+        "WorkingHoursHours6": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5929987094365,
+          55.8312817845187
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "управа района Марфино города Москвы",
+        "AuthorityHead": "Сабирзянова Любовь Михайловна",
+        "AuthorityArea": "район Марфино",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Марфино",
+        "Address": "город Москва, Большая Марфинская улица, дом 4",
+        "ClarificationOfWorkingHours": "перерыв на обед 12:00-12:45",
+        "WebSite": "www.marfino.mos.ru/",
+        "Email": "marspr@svao.mos.ru",
+        "DepartmentalAffiliation": "Префектура Северо-Восточного административного округа города Москвы",
+        "globalid": 926704688,
+        "Phonesisdeleted0": 0,
+        "Phonesglobalid0": 80,
+        "PhonesPhone0": "",
+        "PhonesPhoneComment0": "",
+        "WorkingHoursisdeleted0": 0,
+        "WorkingHoursglobalid0": 519,
+        "WorkingHoursDayOfWeek0": null,
+        "WorkingHoursHours0": "",
+        "WorkingHoursisdeleted1": 0,
+        "WorkingHoursglobalid1": 520,
+        "WorkingHoursDayOfWeek1": null,
+        "WorkingHoursHours1": "",
+        "WorkingHoursisdeleted2": 0,
+        "WorkingHoursglobalid2": 521,
+        "WorkingHoursDayOfWeek2": null,
+        "WorkingHoursHours2": "",
+        "WorkingHoursisdeleted3": 0,
+        "WorkingHoursglobalid3": 522,
+        "WorkingHoursDayOfWeek3": null,
+        "WorkingHoursHours3": "",
+        "WorkingHoursisdeleted4": 0,
+        "WorkingHoursglobalid4": 523,
+        "WorkingHoursDayOfWeek4": null,
+        "WorkingHoursHours4": "",
+        "WorkingHoursisdeleted5": 0,
+        "WorkingHoursglobalid5": 524,
+        "WorkingHoursDayOfWeek5": null,
+        "WorkingHoursHours5": "",
+        "WorkingHoursisdeleted6": 0,
+        "WorkingHoursglobalid6": 525,
+        "WorkingHoursDayOfWeek6": null,
+        "WorkingHoursHours6": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6196952142386,
+          55.8756055575024
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа района Южное Медведково города Москвы",
+        "AuthorityHead": "Кулиев Роман Тахирович",
+        "AuthorityArea": "район Южное Медведково",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Южное Медведково",
+        "Address": "город Москва, Ясный проезд, дом 17",
+        "ClarificationOfWorkingHours": "перерыв на обед 12:00-12:45",
+        "WebSite": "medvedkovo-juzhnoe.mos.ru",
+        "Email": "SMeSpr@mos.ru",
+        "DepartmentalAffiliation": "Префектура Северо-Восточного административного округа города Москвы",
+        "globalid": 926704776,
+        "Phonesisdeleted0": 0,
+        "Phonesglobalid0": 92,
+        "PhonesPhone0": "",
+        "PhonesPhoneComment0": "",
+        "WorkingHoursisdeleted0": 0,
+        "WorkingHoursglobalid0": 589,
+        "WorkingHoursDayOfWeek0": null,
+        "WorkingHoursHours0": "",
+        "WorkingHoursisdeleted1": 0,
+        "WorkingHoursglobalid1": 590,
+        "WorkingHoursDayOfWeek1": null,
+        "WorkingHoursHours1": "",
+        "WorkingHoursisdeleted2": 0,
+        "WorkingHoursglobalid2": 591,
+        "WorkingHoursDayOfWeek2": null,
+        "WorkingHoursHours2": "",
+        "WorkingHoursisdeleted3": 0,
+        "WorkingHoursglobalid3": 592,
+        "WorkingHoursDayOfWeek3": null,
+        "WorkingHoursHours3": "",
+        "WorkingHoursisdeleted4": 0,
+        "WorkingHoursglobalid4": 593,
+        "WorkingHoursDayOfWeek4": null,
+        "WorkingHoursHours4": "",
+        "WorkingHoursisdeleted5": 0,
+        "WorkingHoursglobalid5": 594,
+        "WorkingHoursDayOfWeek5": null,
+        "WorkingHoursHours5": "",
+        "WorkingHoursisdeleted6": 0,
+        "WorkingHoursglobalid6": 595,
+        "WorkingHoursDayOfWeek6": null,
+        "WorkingHoursHours6": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6114592917808,
+          55.8584874060918
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа района Отрадное города Москвы",
+        "AuthorityHead": "Литовченко Павел Павлович",
+        "AuthorityArea": "район Отрадное",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Отрадное",
+        "Address": "город Москва, проезд Якушкина, дом 4",
+        "ClarificationOfWorkingHours": "перерыв на обед 12:00-12:45",
+        "WebSite": "otradnoe.mos.ru",
+        "Email": "otrorg@mos.ru",
+        "DepartmentalAffiliation": "Префектура Северо-Восточного административного округа города Москвы",
+        "globalid": 926704988,
+        "Phonesisdeleted0": 0,
+        "Phonesglobalid0": 95,
+        "PhonesPhone0": "",
+        "PhonesPhoneComment0": "",
+        "WorkingHoursisdeleted0": 0,
+        "WorkingHoursglobalid0": 608,
+        "WorkingHoursDayOfWeek0": null,
+        "WorkingHoursHours0": "",
+        "WorkingHoursisdeleted1": 0,
+        "WorkingHoursglobalid1": 609,
+        "WorkingHoursDayOfWeek1": null,
+        "WorkingHoursHours1": "",
+        "WorkingHoursisdeleted2": 0,
+        "WorkingHoursglobalid2": 610,
+        "WorkingHoursDayOfWeek2": null,
+        "WorkingHoursHours2": "",
+        "WorkingHoursisdeleted3": 0,
+        "WorkingHoursglobalid3": 611,
+        "WorkingHoursDayOfWeek3": null,
+        "WorkingHoursHours3": "",
+        "WorkingHoursisdeleted4": 0,
+        "WorkingHoursglobalid4": 612,
+        "WorkingHoursDayOfWeek4": null,
+        "WorkingHoursHours4": "",
+        "WorkingHoursisdeleted5": 0,
+        "WorkingHoursglobalid5": 613,
+        "WorkingHoursDayOfWeek5": null,
+        "WorkingHoursHours5": "",
+        "WorkingHoursisdeleted6": 0,
+        "WorkingHoursglobalid6": 614,
+        "WorkingHoursDayOfWeek6": null,
+        "WorkingHoursHours6": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.608797860137,
+          55.7950360022373
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа района Марьина роща города Москвы",
+        "AuthorityHead": "Гордикова Светлана Юрьевна",
+        "AuthorityArea": "район Марьина Роща",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Марьина Роща",
+        "Address": "город Москва, 2-я Ямская улица, дом 15",
+        "ClarificationOfWorkingHours": "перерыв на обед 12:00-12:45",
+        "WebSite": "marina-roscha.mos.ru",
+        "Email": "MRoSpr@mos.ru",
+        "DepartmentalAffiliation": "Префектура Северо-Восточного административного округа города Москвы",
+        "globalid": 926705214,
+        "Phonesisdeleted0": 0,
+        "Phonesglobalid0": 110,
+        "PhonesPhone0": "",
+        "PhonesPhoneComment0": "",
+        "WorkingHoursisdeleted0": 0,
+        "WorkingHoursglobalid0": 705,
+        "WorkingHoursDayOfWeek0": null,
+        "WorkingHoursHours0": "",
+        "WorkingHoursisdeleted1": 0,
+        "WorkingHoursglobalid1": 706,
+        "WorkingHoursDayOfWeek1": null,
+        "WorkingHoursHours1": "",
+        "WorkingHoursisdeleted2": 0,
+        "WorkingHoursglobalid2": 707,
+        "WorkingHoursDayOfWeek2": null,
+        "WorkingHoursHours2": "",
+        "WorkingHoursisdeleted3": 0,
+        "WorkingHoursglobalid3": 708,
+        "WorkingHoursDayOfWeek3": null,
+        "WorkingHoursHours3": "",
+        "WorkingHoursisdeleted4": 0,
+        "WorkingHoursglobalid4": 709,
+        "WorkingHoursDayOfWeek4": null,
+        "WorkingHoursHours4": "",
+        "WorkingHoursisdeleted5": 0,
+        "WorkingHoursglobalid5": 710,
+        "WorkingHoursDayOfWeek5": null,
+        "WorkingHoursHours5": "",
+        "WorkingHoursisdeleted6": 0,
+        "WorkingHoursglobalid6": 711,
+        "WorkingHoursDayOfWeek6": null,
+        "WorkingHoursHours6": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5524920042726,
+          55.9340820392007
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа района Северный города Москвы",
+        "AuthorityHead": "Колесова Елена Львовна",
+        "AuthorityArea": "район Северный",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Северный",
+        "Address": "город Москва, 9-я Северная линия, дом 5",
+        "ClarificationOfWorkingHours": "перерыв на обед 12:00-12:45",
+        "WebSite": "severny.mos.ru",
+        "Email": "sevspr@mos.ru",
+        "DepartmentalAffiliation": "Префектура Северо-Восточного административного округа города Москвы",
+        "globalid": 926705428,
+        "Phonesisdeleted0": 0,
+        "Phonesglobalid0": 115,
+        "PhonesPhone0": "",
+        "PhonesPhoneComment0": "",
+        "WorkingHoursisdeleted0": 0,
+        "WorkingHoursglobalid0": 745,
+        "WorkingHoursDayOfWeek0": null,
+        "WorkingHoursHours0": "",
+        "WorkingHoursisdeleted1": 0,
+        "WorkingHoursglobalid1": 746,
+        "WorkingHoursDayOfWeek1": null,
+        "WorkingHoursHours1": "",
+        "WorkingHoursisdeleted2": 0,
+        "WorkingHoursglobalid2": 747,
+        "WorkingHoursDayOfWeek2": null,
+        "WorkingHoursHours2": "",
+        "WorkingHoursisdeleted3": 0,
+        "WorkingHoursglobalid3": 748,
+        "WorkingHoursDayOfWeek3": null,
+        "WorkingHoursHours3": "",
+        "WorkingHoursisdeleted4": 0,
+        "WorkingHoursglobalid4": 749,
+        "WorkingHoursDayOfWeek4": null,
+        "WorkingHoursHours4": "",
+        "WorkingHoursisdeleted5": 0,
+        "WorkingHoursglobalid5": 750,
+        "WorkingHoursDayOfWeek5": null,
+        "WorkingHoursHours5": "",
+        "WorkingHoursisdeleted6": 0,
+        "WorkingHoursglobalid6": 751,
+        "WorkingHoursDayOfWeek6": null,
+        "WorkingHoursHours6": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.589093598481,
+          55.8811936694972
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "управа Алтуфьевского района города Москвы",
+        "AuthorityHead": "Кузьменко Владимир Петрович",
+        "AuthorityArea": "Алтуфьевский район",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Алтуфьевский район",
+        "Address": "город Москва, Алтуфьевское шоссе, дом 56А",
+        "ClarificationOfWorkingHours": "перерыв на обед 12:00-12:45",
+        "WebSite": "altufievo.mos.ru",
+        "Email": "altspr@mos.ru",
+        "DepartmentalAffiliation": "Префектура Северо-Восточного административного округа города Москвы",
+        "globalid": 926705649,
+        "Phonesisdeleted0": 0,
+        "Phonesglobalid0": 132,
+        "PhonesPhone0": "",
+        "PhonesPhoneComment0": "",
+        "WorkingHoursisdeleted0": 0,
+        "WorkingHoursglobalid0": 864,
+        "WorkingHoursDayOfWeek0": null,
+        "WorkingHoursHours0": "",
+        "WorkingHoursisdeleted1": 0,
+        "WorkingHoursglobalid1": 865,
+        "WorkingHoursDayOfWeek1": null,
+        "WorkingHoursHours1": "",
+        "WorkingHoursisdeleted2": 0,
+        "WorkingHoursglobalid2": 866,
+        "WorkingHoursDayOfWeek2": null,
+        "WorkingHoursHours2": "",
+        "WorkingHoursisdeleted3": 0,
+        "WorkingHoursglobalid3": 867,
+        "WorkingHoursDayOfWeek3": null,
+        "WorkingHoursHours3": "",
+        "WorkingHoursisdeleted4": 0,
+        "WorkingHoursglobalid4": 868,
+        "WorkingHoursDayOfWeek4": null,
+        "WorkingHoursHours4": "",
+        "WorkingHoursisdeleted5": 0,
+        "WorkingHoursglobalid5": 869,
+        "WorkingHoursDayOfWeek5": null,
+        "WorkingHoursHours5": "",
+        "WorkingHoursisdeleted6": 0,
+        "WorkingHoursglobalid6": 870,
+        "WorkingHoursDayOfWeek6": null,
+        "WorkingHoursHours6": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6510996777538,
+          55.8809203090409
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "управа района Северное Медведково города Москвы",
+        "AuthorityHead": "Яровенко Сергей Александрович",
+        "AuthorityArea": "район Северное Медведково",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Северное Медведково",
+        "Address": "город Москва, проезд Шокальского, дом 30, корпус 1",
+        "ClarificationOfWorkingHours": "перерыв на обед 12:30-13:15",
+        "WebSite": "smedvedkovo.mos.ru",
+        "Email": "nmespr@mos.ru",
+        "DepartmentalAffiliation": "Префектура Северо-Восточного административного округа города Москвы",
+        "globalid": 926705680,
+        "Phonesisdeleted0": 0,
+        "Phonesglobalid0": 137,
+        "PhonesPhone0": "",
+        "PhonesPhoneComment0": "",
+        "WorkingHoursisdeleted0": 0,
+        "WorkingHoursglobalid0": 899,
+        "WorkingHoursDayOfWeek0": null,
+        "WorkingHoursHours0": "",
+        "WorkingHoursisdeleted1": 0,
+        "WorkingHoursglobalid1": 900,
+        "WorkingHoursDayOfWeek1": null,
+        "WorkingHoursHours1": "",
+        "WorkingHoursisdeleted2": 0,
+        "WorkingHoursglobalid2": 901,
+        "WorkingHoursDayOfWeek2": null,
+        "WorkingHoursHours2": "",
+        "WorkingHoursisdeleted3": 0,
+        "WorkingHoursglobalid3": 902,
+        "WorkingHoursDayOfWeek3": null,
+        "WorkingHoursHours3": "",
+        "WorkingHoursisdeleted4": 0,
+        "WorkingHoursglobalid4": 903,
+        "WorkingHoursDayOfWeek4": null,
+        "WorkingHoursHours4": "",
+        "WorkingHoursisdeleted5": 0,
+        "WorkingHoursglobalid5": 904,
+        "WorkingHoursDayOfWeek5": null,
+        "WorkingHoursHours5": "",
+        "WorkingHoursisdeleted6": 0,
+        "WorkingHoursglobalid6": 905,
+        "WorkingHoursDayOfWeek6": null,
+        "WorkingHoursHours6": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7123526257646,
+          55.8700702085907
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа района Ярославский города Москвы",
+        "AuthorityHead": "Киржаков Сергей Леонидович",
+        "AuthorityArea": "Ярославский район",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Ярославский район",
+        "Address": "город Москва, Ярославское шоссе, дом 122, корпус 1",
+        "ClarificationOfWorkingHours": "перерыв на обед 12:00-12:45",
+        "WebSite": "yaroslavsky.mos.ru",
+        "Email": "yarspr@mos.ru",
+        "DepartmentalAffiliation": "Префектура Северо-Восточного административного округа города Москвы",
+        "globalid": 926706109,
+        "Phonesisdeleted0": 0,
+        "Phonesglobalid0": 164,
+        "PhonesPhone0": "",
+        "PhonesPhoneComment0": "",
+        "WorkingHoursisdeleted0": 0,
+        "WorkingHoursglobalid0": 1096,
+        "WorkingHoursDayOfWeek0": null,
+        "WorkingHoursHours0": "",
+        "WorkingHoursisdeleted1": 0,
+        "WorkingHoursglobalid1": 1097,
+        "WorkingHoursDayOfWeek1": null,
+        "WorkingHoursHours1": "",
+        "WorkingHoursisdeleted2": 0,
+        "WorkingHoursglobalid2": 1098,
+        "WorkingHoursDayOfWeek2": null,
+        "WorkingHoursHours2": "",
+        "WorkingHoursisdeleted3": 0,
+        "WorkingHoursglobalid3": 1099,
+        "WorkingHoursDayOfWeek3": null,
+        "WorkingHoursHours3": "",
+        "WorkingHoursisdeleted4": 0,
+        "WorkingHoursglobalid4": 1100,
+        "WorkingHoursDayOfWeek4": null,
+        "WorkingHoursHours4": "",
+        "WorkingHoursisdeleted5": 0,
+        "WorkingHoursglobalid5": 1101,
+        "WorkingHoursDayOfWeek5": null,
+        "WorkingHoursHours5": "",
+        "WorkingHoursisdeleted6": 0,
+        "WorkingHoursglobalid6": 1102,
+        "WorkingHoursDayOfWeek6": null,
+        "WorkingHoursHours6": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6697979857588,
+          55.8563877503277
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа района Свиблово города Москвы",
+        "AuthorityHead": "Киселев Виктор Васильевич",
+        "AuthorityArea": "район Свиблово",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Бабушкинский район",
+        "Address": "город Москва, улица Лётчика Бабушкина, дом 1, корпус 1",
+        "ClarificationOfWorkingHours": "Перерыв на обед 12:00-12:45\n",
+        "WebSite": "sviblovo.mos.ru",
+        "Email": "SviSpr@mos.ru",
+        "DepartmentalAffiliation": "Префектура Северо-Восточного административного округа города Москвы",
+        "globalid": 926706398,
+        "Phonesisdeleted0": 0,
+        "Phonesglobalid0": 172,
+        "PhonesPhone0": "",
+        "PhonesPhoneComment0": "",
+        "WorkingHoursisdeleted0": 0,
+        "WorkingHoursglobalid0": 1152,
+        "WorkingHoursDayOfWeek0": null,
+        "WorkingHoursHours0": "",
+        "WorkingHoursisdeleted1": 0,
+        "WorkingHoursglobalid1": 1153,
+        "WorkingHoursDayOfWeek1": null,
+        "WorkingHoursHours1": "",
+        "WorkingHoursisdeleted2": 0,
+        "WorkingHoursglobalid2": 1154,
+        "WorkingHoursDayOfWeek2": null,
+        "WorkingHoursHours2": "",
+        "WorkingHoursisdeleted3": 0,
+        "WorkingHoursglobalid3": 1155,
+        "WorkingHoursDayOfWeek3": null,
+        "WorkingHoursHours3": "",
+        "WorkingHoursisdeleted4": 0,
+        "WorkingHoursglobalid4": 1156,
+        "WorkingHoursDayOfWeek4": null,
+        "WorkingHoursHours4": "",
+        "WorkingHoursisdeleted5": 0,
+        "WorkingHoursglobalid5": 1157,
+        "WorkingHoursDayOfWeek5": null,
+        "WorkingHoursHours5": "",
+        "WorkingHoursisdeleted6": 0,
+        "WorkingHoursglobalid6": 1158,
+        "WorkingHoursDayOfWeek6": null,
+        "WorkingHoursHours6": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6697979857588,
+          55.8563877503277
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа Лосиноостровского района города Москвы",
+        "AuthorityHead": "Литовченко Павел Павлович",
+        "AuthorityArea": "Лосиноостровский район",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Бабушкинский район",
+        "Address": "город Москва, улица Лётчика Бабушкина, дом 1, корпус 1",
+        "ClarificationOfWorkingHours": "перерыв на обед 12:00-12:45\n",
+        "WebSite": "losinka.mos.ru",
+        "Email": "yrlos@mos.ru",
+        "DepartmentalAffiliation": "Префектура Северо-Восточного административного округа города Москвы",
+        "globalid": 926706528,
+        "Phonesisdeleted0": 0,
+        "Phonesglobalid0": 174,
+        "PhonesPhone0": "",
+        "PhonesPhoneComment0": "",
+        "WorkingHoursisdeleted0": 0,
+        "WorkingHoursglobalid0": 1166,
+        "WorkingHoursDayOfWeek0": null,
+        "WorkingHoursHours0": "",
+        "WorkingHoursisdeleted1": 0,
+        "WorkingHoursglobalid1": 1167,
+        "WorkingHoursDayOfWeek1": null,
+        "WorkingHoursHours1": "",
+        "WorkingHoursisdeleted2": 0,
+        "WorkingHoursglobalid2": 1168,
+        "WorkingHoursDayOfWeek2": null,
+        "WorkingHoursHours2": "",
+        "WorkingHoursisdeleted3": 0,
+        "WorkingHoursglobalid3": 1169,
+        "WorkingHoursDayOfWeek3": null,
+        "WorkingHoursHours3": "",
+        "WorkingHoursisdeleted4": 0,
+        "WorkingHoursglobalid4": 1170,
+        "WorkingHoursDayOfWeek4": null,
+        "WorkingHoursHours4": "",
+        "WorkingHoursisdeleted5": 0,
+        "WorkingHoursglobalid5": 1171,
+        "WorkingHoursDayOfWeek5": null,
+        "WorkingHoursHours5": "",
+        "WorkingHoursisdeleted6": 0,
+        "WorkingHoursglobalid6": 1172,
+        "WorkingHoursDayOfWeek6": null,
+        "WorkingHoursHours6": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6368554549482,
+          55.8021392146122
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "управа Алексеевского района города Москвы",
+        "AuthorityHead": "Потапенко Екатерина Васильевна",
+        "AuthorityArea": "Алексеевский район",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Алексеевский район",
+        "Address": "город Москва, проспект Мира, дом 104",
+        "ClarificationOfWorkingHours": "перерыв на обед 12:00-12:45",
+        "WebSite": "alekseevsky.mos.ru",
+        "Email": "alespr@mos.ru",
+        "DepartmentalAffiliation": "Префектура Северо-Восточного административного округа города Москвы",
+        "globalid": 926707850,
+        "Phonesisdeleted0": 0,
+        "Phonesglobalid0": 178,
+        "PhonesPhone0": "",
+        "PhonesPhoneComment0": "",
+        "WorkingHoursisdeleted0": 0,
+        "WorkingHoursglobalid0": 1194,
+        "WorkingHoursDayOfWeek0": null,
+        "WorkingHoursHours0": "",
+        "WorkingHoursisdeleted1": 0,
+        "WorkingHoursglobalid1": 1195,
+        "WorkingHoursDayOfWeek1": null,
+        "WorkingHoursHours1": "",
+        "WorkingHoursisdeleted2": 0,
+        "WorkingHoursglobalid2": 1196,
+        "WorkingHoursDayOfWeek2": null,
+        "WorkingHoursHours2": "",
+        "WorkingHoursisdeleted3": 0,
+        "WorkingHoursglobalid3": 1197,
+        "WorkingHoursDayOfWeek3": null,
+        "WorkingHoursHours3": "",
+        "WorkingHoursisdeleted4": 0,
+        "WorkingHoursglobalid4": 1198,
+        "WorkingHoursDayOfWeek4": null,
+        "WorkingHoursHours4": "",
+        "WorkingHoursisdeleted5": 0,
+        "WorkingHoursglobalid5": 1199,
+        "WorkingHoursDayOfWeek5": null,
+        "WorkingHoursHours5": "",
+        "WorkingHoursisdeleted6": 0,
+        "WorkingHoursglobalid6": 1200,
+        "WorkingHoursDayOfWeek6": null,
+        "WorkingHoursHours6": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6697979857588,
+          55.8563877503277
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа Бабушкинского района города Москвы",
+        "AuthorityHead": "Аганеев Сергей Александрович",
+        "AuthorityArea": "Бабушкинский район",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Бабушкинский район",
+        "Address": "город Москва, улица Лётчика Бабушкина, дом 1, корпус 1",
+        "ClarificationOfWorkingHours": "перерыв на обед 12:00-12:45",
+        "WebSite": "babushkinsky.mos.ru",
+        "Email": "bshspr@mos.ru",
+        "DepartmentalAffiliation": "Префектура Северо-Восточного административного округа города Москвы",
+        "globalid": 926707888,
+        "Phonesisdeleted0": 0,
+        "Phonesglobalid0": 181,
+        "PhonesPhone0": "",
+        "PhonesPhoneComment0": "",
+        "WorkingHoursisdeleted0": 0,
+        "WorkingHoursglobalid0": 1215,
+        "WorkingHoursDayOfWeek0": null,
+        "WorkingHoursHours0": "",
+        "WorkingHoursisdeleted1": 0,
+        "WorkingHoursglobalid1": 1216,
+        "WorkingHoursDayOfWeek1": null,
+        "WorkingHoursHours1": "",
+        "WorkingHoursisdeleted2": 0,
+        "WorkingHoursglobalid2": 1217,
+        "WorkingHoursDayOfWeek2": null,
+        "WorkingHoursHours2": "",
+        "WorkingHoursisdeleted3": 0,
+        "WorkingHoursglobalid3": 1218,
+        "WorkingHoursDayOfWeek3": null,
+        "WorkingHoursHours3": "",
+        "WorkingHoursisdeleted4": 0,
+        "WorkingHoursglobalid4": 1219,
+        "WorkingHoursDayOfWeek4": null,
+        "WorkingHoursHours4": "",
+        "WorkingHoursisdeleted5": 0,
+        "WorkingHoursglobalid5": 1220,
+        "WorkingHoursDayOfWeek5": null,
+        "WorkingHoursHours5": "",
+        "WorkingHoursisdeleted6": 0,
+        "WorkingHoursglobalid6": 1221,
+        "WorkingHoursDayOfWeek6": null,
+        "WorkingHoursHours6": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5803865199282,
+          55.8285858052879
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "управа Бутырского района города Москвы",
+        "AuthorityHead": "Акопов Енок Юрьевич",
+        "AuthorityArea": "Бутырский район",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Бутырский район",
+        "Address": "город Москва, улица Милашенкова, дом 14",
+        "ClarificationOfWorkingHours": "перерыв на обед 12:00-12:45",
+        "WebSite": "butyrsky.mos.ru",
+        "Email": "butspr@mos.ru",
+        "DepartmentalAffiliation": "Префектура Северо-Восточного административного округа города Москвы",
+        "globalid": 926708367,
+        "Phonesisdeleted0": 0,
+        "Phonesglobalid0": 182,
+        "PhonesPhone0": "",
+        "PhonesPhoneComment0": "",
+        "WorkingHoursisdeleted0": 0,
+        "WorkingHoursglobalid0": 1222,
+        "WorkingHoursDayOfWeek0": null,
+        "WorkingHoursHours0": "",
+        "WorkingHoursisdeleted1": 0,
+        "WorkingHoursglobalid1": 1223,
+        "WorkingHoursDayOfWeek1": null,
+        "WorkingHoursHours1": "",
+        "WorkingHoursisdeleted2": 0,
+        "WorkingHoursglobalid2": 1224,
+        "WorkingHoursDayOfWeek2": null,
+        "WorkingHoursHours2": "",
+        "WorkingHoursisdeleted3": 0,
+        "WorkingHoursglobalid3": 1225,
+        "WorkingHoursDayOfWeek3": null,
+        "WorkingHoursHours3": "",
+        "WorkingHoursisdeleted4": 0,
+        "WorkingHoursglobalid4": 1226,
+        "WorkingHoursDayOfWeek4": null,
+        "WorkingHoursHours4": "",
+        "WorkingHoursisdeleted5": 0,
+        "WorkingHoursglobalid5": 1227,
+        "WorkingHoursDayOfWeek5": null,
+        "WorkingHoursHours5": "",
+        "WorkingHoursisdeleted6": 0,
+        "WorkingHoursglobalid6": 1228,
+        "WorkingHoursDayOfWeek6": null,
+        "WorkingHoursHours6": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6199912232647,
+          55.8234075372142
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "управа Останкинского района города Москвы",
+        "AuthorityHead": "Горожанкин Геннадий Михайлович",
+        "AuthorityArea": "Останкинский район",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Останкинский район",
+        "Address": "город Москва, улица Академика Королёва, дом 10",
+        "ClarificationOfWorkingHours": "перерыв на обед 12:00-12:45",
+        "WebSite": "ostankino.mos.ru",
+        "Email": "OstSpr@mos.ru",
+        "DepartmentalAffiliation": "Префектура Северо-Восточного административного округа города Москвы",
+        "globalid": 926709151,
+        "Phonesisdeleted0": 0,
+        "Phonesglobalid0": 183,
+        "PhonesPhone0": "",
+        "PhonesPhoneComment0": "",
+        "WorkingHoursisdeleted0": 0,
+        "WorkingHoursglobalid0": 1229,
+        "WorkingHoursDayOfWeek0": null,
+        "WorkingHoursHours0": "",
+        "WorkingHoursisdeleted1": 0,
+        "WorkingHoursglobalid1": 1230,
+        "WorkingHoursDayOfWeek1": null,
+        "WorkingHoursHours1": "",
+        "WorkingHoursisdeleted2": 0,
+        "WorkingHoursglobalid2": 1231,
+        "WorkingHoursDayOfWeek2": null,
+        "WorkingHoursHours2": "",
+        "WorkingHoursisdeleted3": 0,
+        "WorkingHoursglobalid3": 1232,
+        "WorkingHoursDayOfWeek3": null,
+        "WorkingHoursHours3": "",
+        "WorkingHoursisdeleted4": 0,
+        "WorkingHoursglobalid4": 1233,
+        "WorkingHoursDayOfWeek4": null,
+        "WorkingHoursHours4": "",
+        "WorkingHoursisdeleted5": 0,
+        "WorkingHoursglobalid5": 1234,
+        "WorkingHoursDayOfWeek5": null,
+        "WorkingHoursHours5": "",
+        "WorkingHoursisdeleted6": 0,
+        "WorkingHoursglobalid6": 1235,
+        "WorkingHoursDayOfWeek6": null,
+        "WorkingHoursHours6": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5038935959246,
+          55.8162508713576
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа Войковского района города Москвы",
+        "AuthorityHead": "Захаров Олег Захарович",
+        "AuthorityArea": "Войковский район",
+        "AdmArea": "Северный административный округ",
+        "District": "Войковский район",
+        "Address": "город Москва, 1-й Новоподмосковный переулок, дом 2/1",
+        "ClarificationOfWorkingHours": "Перерыв на обед 12:00-12:45;",
+        "WebSite": "voykovsky.mos.ru",
+        "Email": "voik@mos.ru",
+        "DepartmentalAffiliation": "Префектура Северного административного округа города Москвы",
+        "globalid": 926858234
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.3907225295332,
+          55.9275102808489
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа Молжаниновского района города Москвы",
+        "AuthorityHead": "Валитов Александр Хусаинович",
+        "AuthorityArea": "Молжаниновский район",
+        "AdmArea": "Северный административный округ",
+        "District": "Молжаниновский район",
+        "Address": "город Москва, 4-я улица Новосёлки, дом 2",
+        "ClarificationOfWorkingHours": "Перерыв на обед 12:00-12:45;",
+        "WebSite": "molzhaninovskiy.mos.ru",
+        "Email": "sao-molg@mos.ru",
+        "DepartmentalAffiliation": "Префектура Северного административного округа города Москвы",
+        "globalid": 926858447
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4791390699891,
+          55.8518387423933
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа района Ховрино города Москвы",
+        "AuthorityHead": "Иванов Антон Александрович",
+        "AuthorityArea": "район Ховрино",
+        "AdmArea": "Северный административный округ",
+        "District": "район Левобережный",
+        "Address": "город Москва, Флотская улица, дом 1, строение 2",
+        "ClarificationOfWorkingHours": "Обед: с 12.00 до 12.45 ",
+        "WebSite": "khovrino.mos.ru",
+        "Email": "sao-hovrino@mos.ru",
+        "DepartmentalAffiliation": "Префектура Северного административного округа города Москвы",
+        "globalid": 926859335
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.479892076534,
+          55.851349629313
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа района Левобережный города Москвы",
+        "AuthorityHead": "Фисенко Юрий Геннадьевич",
+        "AuthorityArea": "район Левобережный",
+        "AdmArea": "Северный административный округ",
+        "District": "район Левобережный",
+        "Address": "город Москва, Флотская улица, дом 1",
+        "ClarificationOfWorkingHours": "Перерыв на обед 12:00-12:45",
+        "WebSite": "levoberezhny.mos.ru",
+        "Email": "sao-levober@mos.ru",
+        "DepartmentalAffiliation": "Префектура Северного административного округа города Москвы",
+        "globalid": 926863954
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.479892076534,
+          55.851349629313
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа Головинского района города Москвы",
+        "AuthorityHead": "Панасенко Михаил Владимирович",
+        "AuthorityArea": "Головинский район",
+        "AdmArea": "Северный административный округ",
+        "District": "район Левобережный",
+        "Address": "город Москва, Флотская улица, дом 1",
+        "ClarificationOfWorkingHours": "Перерыв на обед\n12:00-12:45\n",
+        "WebSite": "golovinskiy.mos.ru",
+        "Email": "sao-golov@mos.ru",
+        "DepartmentalAffiliation": "Префектура Северного административного округа города Москвы",
+        "globalid": 926863997
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.519683900186,
+          55.7791158474421
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа Хорошевского района города Москвы",
+        "AuthorityHead": "Бахров Сергей Анатольевич",
+        "AuthorityArea": "Хорошёвский район",
+        "AdmArea": "Северный административный округ",
+        "District": "Хорошёвский район",
+        "Address": "город Москва, Хорошёвское шоссе, дом 84, корпус 3",
+        "ClarificationOfWorkingHours": "Перерыв на обед: 12:00 – 12:45",
+        "WebSite": "khoroshevskiy.mos.ru",
+        "Email": "sao-hor@mos.ru",
+        "DepartmentalAffiliation": "Префектура Северного административного округа города Москвы",
+        "globalid": 926864054
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5224606204541,
+          55.8242919390524
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа района Коптево города Москвы",
+        "AuthorityHead": "Катанов Николай Алексеевич",
+        "AuthorityArea": "район Коптево",
+        "AdmArea": "Северный административный округ",
+        "District": "район Коптево",
+        "Address": "город Москва, улица Зои и Александра Космодемьянских, дом 31, корпус 1",
+        "ClarificationOfWorkingHours": "Перерыв на обед 12:00-12:45",
+        "WebSite": "koptevo.mos.ru",
+        "Email": "Sao-koptevo@mos.ru",
+        "DepartmentalAffiliation": "Префектура Северного административного округа города Москвы",
+        "globalid": 926864075
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.561251755305,
+          55.8115713411794
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа Тимирязевского района города Москвы",
+        "AuthorityHead": "Золотарев Сергей Евгеньевич",
+        "AuthorityArea": "Тимирязевский район",
+        "AdmArea": "Северный административный округ",
+        "District": "Тимирязевский район",
+        "Address": "город Москва, Астрадамский проезд, дом 4",
+        "ClarificationOfWorkingHours": "Перерыв на обед 12:00-12:45",
+        "WebSite": "timiryazevskiy.mos.ru",
+        "Email": "sao-timir@mos.ru",
+        "DepartmentalAffiliation": "Префектура Северного административного округа города Москвы",
+        "globalid": 926864080
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5620175487312,
+          55.8638708692977
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа Бескудниковского района города Москвы",
+        "AuthorityHead": "Кануков Денис Михайлович",
+        "AuthorityArea": "Бескудниковский район",
+        "AdmArea": "Северный административный округ",
+        "District": "Бескудниковский район",
+        "Address": "город Москва, Бескудниковский бульвар, дом 16А",
+        "ClarificationOfWorkingHours": "Перерыв на обед 12:00-12:45",
+        "WebSite": "beskudnikovo.mos.ru",
+        "Email": "beskudnikovo@mos.ru",
+        "DepartmentalAffiliation": "Префектура Северного административного округа города Москвы",
+        "globalid": 926864105
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5655267798778,
+          55.8794007232798
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа района Восточное Дегунино города Москвы",
+        "AuthorityHead": "Емельянов Александр Владимирович",
+        "AuthorityArea": "район Восточное Дегунино",
+        "AdmArea": "Северный административный округ",
+        "District": "район Восточное Дегунино",
+        "Address": "город Москва, улица 800-летия Москвы, дом 32",
+        "ClarificationOfWorkingHours": "Перерыв на обед 12:00-12:45",
+        "WebSite": "vost-degunino.mos.ru",
+        "Email": "Sao-ur-vdegunino@mos.ru",
+        "DepartmentalAffiliation": "Префектура Северного административного округа города Москвы",
+        "globalid": 926864113
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5030544564064,
+          55.8049038831943
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа района Сокол города Москвы",
+        "AuthorityHead": "Мещеряков Антон Александрович",
+        "AuthorityArea": "район Сокол",
+        "AdmArea": "Северный административный округ",
+        "District": "район Сокол",
+        "Address": "город Москва, улица Шишкина, дом 7/27",
+        "ClarificationOfWorkingHours": "Перерыв на обед: 12:00 – 12:45",
+        "WebSite": "sokol.mos",
+        "Email": "sokol@mos.ru",
+        "DepartmentalAffiliation": "Префектура Северного административного округа города Москвы",
+        "globalid": 926864147
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5260236886145,
+          55.8057094416487
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа района Аэропорт города Москвы",
+        "AuthorityHead": "Борисенко Алексей Леонидович",
+        "AuthorityArea": "район Аэропорт",
+        "AdmArea": "Северный административный округ",
+        "District": "район Аэропорт",
+        "Address": "город Москва, улица Усиевича, дом 23",
+        "ClarificationOfWorkingHours": "Перерыв на обед 12:00-12:45",
+        "WebSite": "aeroport.mos.ru",
+        "Email": "Sao-aeroportl@mos.ru",
+        "DepartmentalAffiliation": "Префектура Северного административного округа города Москвы",
+        "globalid": 926864153
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5667181152609,
+          55.8025024772922
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа Савеловского района города Москвы",
+        "AuthorityHead": "ИО Овчинников Игорь Александрович",
+        "AuthorityArea": "Савёловский район",
+        "AdmArea": "Северный административный округ",
+        "District": "Савёловский район",
+        "Address": "город Москва, Петровско-Разумовский проезд, дом 24, корпус 1",
+        "ClarificationOfWorkingHours": "Перерыв на обед 12:00-12:45",
+        "WebSite": "savelovskiy.mos.ru",
+        "Email": "Sao-savel@mos.ru",
+        "DepartmentalAffiliation": "Префектура Северного административного округа города Москвы",
+        "globalid": 926864187
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5702170969217,
+          55.7842254134918
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа района Беговой города Москвы",
+        "AuthorityHead": "Занегин Владимир Юрьевич",
+        "AuthorityArea": "район Беговой",
+        "AdmArea": "Северный административный округ",
+        "District": "район Беговой",
+        "Address": "город Москва, Ленинградский проспект, дом 30, строение 1",
+        "ClarificationOfWorkingHours": "Перерыв на обед 12:00-12:45;",
+        "WebSite": "begovoy.mos.ru",
+        "Email": "sao-begovoy@mos.ru",
+        "DepartmentalAffiliation": "Префектура Северного административного округа города Москвы",
+        "globalid": 927068326
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5218688861572,
+          55.8876522118125
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа Дмитровского района города Москвы",
+        "AuthorityHead": "Перхун Сергей Иванович",
+        "AuthorityArea": "Дмитровский район",
+        "AdmArea": "Северный административный округ",
+        "District": "Дмитровский район",
+        "Address": "город Москва, Клязьминская улица, дом 11, корпус 3",
+        "ClarificationOfWorkingHours": "Перерыв на обед : 12:00-12:45",
+        "WebSite": "dmitrovskiy.mos.ru",
+        "Email": "sao-dmitr@mos.ru",
+        "DepartmentalAffiliation": "Префектура Северного административного округа города Москвы",
+        "globalid": 927068428
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5404568421834,
+          55.8630150159072
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа района Западное Дегунино города Москвы",
+        "AuthorityHead": "Предко Андрей Владимирович",
+        "AuthorityArea": "район Западное Дегунино",
+        "AdmArea": "Северный административный округ",
+        "District": "район Западное Дегунино",
+        "Address": "город Москва, Дегунинская улица, дом 1, корпус 1",
+        "ClarificationOfWorkingHours": "Обеденный перерыв\t12:00 - 12:45",
+        "WebSite": "zap-degunino.mos.ru",
+        "Email": "sao-wdeg@mos.ru",
+        "DepartmentalAffiliation": "Префектура Северного административного округа города Москвы",
+        "globalid": 927068518
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6639170328669,
+          55.5849313583928
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа района Бирюлёво Восточное города Москвы",
+        "AuthorityHead": "Кучерявкин Александр Сергеевич",
+        "AuthorityArea": "район Бирюлёво Восточное",
+        "AdmArea": "Южный административный округ",
+        "District": "район Бирюлёво Восточное",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Бирюлево Восточное, Бирюлёвская улица, дом 48, корпус 2",
+        "ClarificationOfWorkingHours": "перерыв на обед с 12.00 до 12.45",
+        "WebSite": "bv.mos.ru",
+        "Email": "sovbr@mos.ru",
+        "DepartmentalAffiliation": "Префектура Южного административного округа города Москвы",
+        "globalid": 930211522
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6457838708338,
+          55.5826217822032
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа района Бирюлёво Западное города Москвы",
+        "AuthorityHead": "Андриянова Ольга Львовна",
+        "AuthorityArea": "район Бирюлёво Западное",
+        "AdmArea": "Южный административный округ",
+        "District": "район Бирюлёво Западное",
+        "Address": "город Москва, Медынская улица, дом 14Б",
+        "ClarificationOfWorkingHours": "Перерыв 13.00 - 13.45",
+        "WebSite": "birulevo-zapadnoe.mos.ru",
+        "Email": "sowbr@uao.mos.ru",
+        "DepartmentalAffiliation": "Префектура Южного административного округа города Москвы",
+        "globalid": 930211527
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7666972923593,
+          55.6383566189196
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа района Братеево города Москвы",
+        "AuthorityHead": "Воробьев Александр Алексеевич",
+        "AuthorityArea": "район Братеево",
+        "AdmArea": "Южный административный округ",
+        "District": "район Братеево",
+        "Address": "город Москва, Алма-Атинская улица, дом 10, корпус 3",
+        "ClarificationOfWorkingHours": "Перерыв на обед с 12.00 до 13.00",
+        "WebSite": "brateevo.mos.ru",
+        "Email": "sobrt@mos.ru",
+        "DepartmentalAffiliation": "Префектура Южного административного округа города Москвы",
+        "globalid": 930211617
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6238406407492,
+          55.7105028880032
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа Даниловского района города Москвы",
+        "AuthorityHead": "Конюхова Ольга Александровна",
+        "AuthorityArea": "Даниловский район",
+        "AdmArea": "Южный административный округ",
+        "District": "Даниловский район",
+        "Address": "город Москва, Большая Тульская улица, дом 9",
+        "ClarificationOfWorkingHours": "Перерыв на обед с 12.00 до 13.00",
+        "WebSite": "danilovsky.mos.ru",
+        "Email": "sodnl@uao.mos.ru",
+        "DepartmentalAffiliation": "Префектура Южного административного округа города Москвы",
+        "globalid": 930211655
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6197246715265,
+          55.6981669706159
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа Донсгоко района города Москвы",
+        "AuthorityHead": "Соколов Дмитрий Николаевич",
+        "AuthorityArea": "Донской район",
+        "AdmArea": "Южный административный округ",
+        "District": "Донской район",
+        "Address": "город Москва, Варшавское шоссе, дом 10, корпус 1",
+        "ClarificationOfWorkingHours": "Перерыв на обед: с 12.00 до 12.45",
+        "WebSite": "donskoy.mos.ru",
+        "Email": "sodns@uao.mos.ru",
+        "DepartmentalAffiliation": "Префектура Южного административного округа города Москвы",
+        "globalid": 930211683
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7550075534813,
+          55.6195479553648
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа района Зябликово города Москвы",
+        "AuthorityHead": "Князев Константин Игоревич",
+        "AuthorityArea": "район Зябликово",
+        "AdmArea": "Южный административный округ",
+        "District": "район Зябликово",
+        "Address": "город Москва, Кустанайская улица, дом 3, корпус 2",
+        "ClarificationOfWorkingHours": "обед с 12.15 до 13.00",
+        "WebSite": "zyablikovo.mos.ru",
+        "Email": "sozbk@mos.ru",
+        "DepartmentalAffiliation": "Префектура Южного административного округа города Москвы",
+        "globalid": 930211706
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6574560321282,
+          55.6456873669064
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа района Москворечье- Сабурово города Москвы",
+        "AuthorityHead": "Заковыркин Роман Васильевич",
+        "AuthorityArea": "район Москворечье-Сабурово",
+        "AdmArea": "Южный административный округ",
+        "District": "район Москворечье-Сабурово",
+        "Address": "город Москва, Пролетарский проспект, дом 7",
+        "ClarificationOfWorkingHours": "Обед с 12:00-12:45",
+        "WebSite": "moskvoreche-saburovo.mos.ru",
+        "Email": "somsb@mos.ru",
+        "DepartmentalAffiliation": "Префектура Южного административного округа города Москвы",
+        "globalid": 930211784
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6445459722552,
+          55.6622111882693
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа района Нагатино-Садовники города Москвы",
+        "AuthorityHead": "Федоров Сергей Константинович",
+        "AuthorityArea": "район Нагатино-Садовники",
+        "AdmArea": "Южный административный округ",
+        "District": "район Нагатино-Садовники",
+        "Address": "город Москва, улица Академика Миллионщикова, дом 37",
+        "ClarificationOfWorkingHours": "обед с 12:00 до 12:45",
+        "WebSite": "nagatino-sadovniki.mos.ru",
+        "Email": "songs@mos.ru",
+        "DepartmentalAffiliation": "Префектура Южного административного округа города Москвы",
+        "globalid": 930211800
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6928403523976,
+          55.6763405791384
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа района Нагатинский Затон города Москвы",
+        "AuthorityHead": "Джиоева Ирина Петровна",
+        "AuthorityArea": "район Нагатинский Затон",
+        "AdmArea": "Южный административный округ",
+        "District": "район Нагатинский Затон",
+        "Address": "город Москва, Коломенская набережная, дом 22, корпус 2",
+        "ClarificationOfWorkingHours": "обед с 12:30 до 13:15",
+        "WebSite": "agatinsky-zaton.mos.ru",
+        "Email": "sonzt@mos.ru",
+        "DepartmentalAffiliation": "Префектура Южного административного округа города Москвы",
+        "globalid": 930211875
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6144738530748,
+          55.6560374543579
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа Нагорного района города Москвы",
+        "AuthorityHead": "Русских Аркадий Юрьевич",
+        "AuthorityArea": "Нагорный район",
+        "AdmArea": "Южный административный округ",
+        "District": "Нагорный район",
+        "Address": "город Москва, Болотниковская улица, дом 3, корпус 2",
+        "ClarificationOfWorkingHours": "Обед: 12.00-12.45",
+        "WebSite": "nagorny.mos.ru",
+        "Email": "Songr@uao.mos.ru",
+        "DepartmentalAffiliation": "Префектура Южного административного округа города Москвы",
+        "globalid": 930211904
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6980735236044,
+          55.609979564438
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа района Орехово-Борисово Северное города Москвы",
+        "AuthorityHead": "Силкин Евгений Петрович",
+        "AuthorityArea": "район Орехово-Борисово Северное",
+        "AdmArea": "Южный административный округ",
+        "District": "район Орехово-Борисово Северное",
+        "Address": "город Москва, Шипиловский проезд, дом 45, корпус 1",
+        "ClarificationOfWorkingHours": "Перерыв с 12.00 до 12.45",
+        "WebSite": "sevorehovo-borisovo.mos.ru",
+        "Email": "sonbr@mos.ru",
+        "DepartmentalAffiliation": "Префектура Южного административного округа города Москвы",
+        "globalid": 930211936
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7182025727893,
+          55.6059236606224
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа района Орехово-Борисово Южное города Москвы",
+        "AuthorityHead": "Козельская Валентина Дмитриевна",
+        "AuthorityArea": "район Орехово-Борисово Южное",
+        "AdmArea": "Южный административный округ",
+        "District": "район Орехово-Борисово Южное",
+        "Address": "город Москва, Каширское шоссе, дом 122",
+        "ClarificationOfWorkingHours": "Перерыв с 12:00 до 12:45",
+        "WebSite": "orehovo-borisovo-juzhnoe.mos.ru",
+        "Email": "sosbr@mos.ru",
+        "DepartmentalAffiliation": "Префектура Южного административного округа города Москвы",
+        "globalid": 930211954
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6623108273623,
+          55.6231718206547
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа района Царицыно города Москвы",
+        "AuthorityHead": "Белов Сергей Александрович",
+        "AuthorityArea": "район Царицыно",
+        "AdmArea": "Южный административный округ",
+        "District": "район Царицыно",
+        "Address": "город Москва, Весёлая улица, дом 31А",
+        "ClarificationOfWorkingHours": "Перерыв 12.00-12.45",
+        "WebSite": "tsaricino.mos.ru",
+        "Email": "sotsr@uao.mos.ru",
+        "DepartmentalAffiliation": "Префектура Южного административного округа города Москвы",
+        "globalid": 930211973
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6170973826361,
+          55.633941670299
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа района Чертаново Северное города Москвы",
+        "AuthorityHead": "Дёмин Александр Евгеньевич",
+        "AuthorityArea": "район Чертаново Северное",
+        "AdmArea": "Южный административный округ",
+        "District": "район Чертаново Северное",
+        "Address": "город Москва, Варшавское шоссе, дом 116",
+        "ClarificationOfWorkingHours": "Обед с 12.00 до 12.45",
+        "WebSite": "chertanovo-severnoe.mos.ru",
+        "Email": "sonch@mos.ru",
+        "DepartmentalAffiliation": "Префектура Южного административного округа города Москвы",
+        "globalid": 930212009
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5826847124725,
+          55.6158016402701
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа района Чертаново Центральное города Москвы",
+        "AuthorityHead": "Михеев Владимир Александрович",
+        "AuthorityArea": "район Чертаново Центральное",
+        "AdmArea": "Южный административный округ",
+        "District": "район Чертаново Центральное",
+        "Address": "город Москва, Днепропетровская улица, дом 16, корпус 8",
+        "ClarificationOfWorkingHours": "Обед: 13.00 - 13.45",
+        "WebSite": "chertanovocentr.mos.ru",
+        "Email": "chertanovocentr@mail.ru",
+        "DepartmentalAffiliation": "Префектура Южного административного округа города Москвы",
+        "globalid": 930212035
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6102247047492,
+          55.6061370354155
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Управа района Чертаново Южное города Москвы",
+        "AuthorityHead": "Щербаков Николай Викторович",
+        "AuthorityArea": "район Чертаново Южное",
+        "AdmArea": "Южный административный округ",
+        "District": "район Чертаново Южное",
+        "Address": "город Москва, улица Подольских Курсантов, дом 4А",
+        "ClarificationOfWorkingHours": "обед: 12.00 - 12.45",
+        "WebSite": "chertanovo-juzhnoe.mos.ru",
+        "Email": "sosch@uao.mos.ru",
+        "DepartmentalAffiliation": "Префектура Южного административного округа города Москвы",
+        "globalid": 930212052
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

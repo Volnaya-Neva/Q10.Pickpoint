@@ -1,0 +1,1034 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.627445,
+          55.773757
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Сухаревская площадь",
+        "StationPurpose": "контроль качества атмосферного воздуха",
+        "SurveillanceZoneCharacteristics": "Вблизи автомагистралей",
+        "AdmArea": "Центральный административный округ",
+        "District": "Мещанский район",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Мещанский, Малая Сухаревская площадь, дом 1, строение 1",
+        "StartUpYear": 1996,
+        "IsWorking": "да",
+        "globalid": 171656891
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6052377,
+          55.715698
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Шаболовка",
+        "StationPurpose": "контроль качества атмосферного воздуха",
+        "SurveillanceZoneCharacteristics": "Жилые территории",
+        "AdmArea": "Южный административный округ",
+        "District": "Донской район",
+        "Location": "город Москва, Дальний переулок, дом 2, корпус 1, строение 2",
+        "StartUpYear": 1996,
+        "IsWorking": "да",
+        "globalid": 171656892
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6621,
+          55.76385
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Казакова",
+        "StationPurpose": "контроль качества атмосферного воздуха",
+        "SurveillanceZoneCharacteristics": "Жилые территории",
+        "AdmArea": "Центральный административный округ",
+        "District": "Басманный район",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Басманный, Гороховский переулок, дом 4, корпус 1А",
+        "StartUpYear": 2000,
+        "IsWorking": "да",
+        "globalid": 171656893
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.751502,
+          55.652695
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Марьино",
+        "StationPurpose": "контроль качества атмосферного воздуха",
+        "SurveillanceZoneCharacteristics": "Смешанные антропогенные источники загрязнений",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Марьино",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Марьино, Новомарьинская улица, дом 7",
+        "StartUpYear": 1999,
+        "IsWorking": "да",
+        "globalid": 171656894
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.22794,
+          55.98971
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Зеленоград 6",
+        "StationPurpose": "контроль качества атмосферного воздуха",
+        "SurveillanceZoneCharacteristics": "Жилые территории",
+        "AdmArea": "Зеленоградский административный округ",
+        "District": "район Савёлки",
+        "Location": "город Москва, город Зеленоград, корпус 623, строение 1",
+        "StartUpYear": 2004,
+        "IsWorking": "да",
+        "globalid": 171656895
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.172252,
+          55.994145
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Зеленоград 11",
+        "StationPurpose": "контроль качества атмосферного воздуха",
+        "SurveillanceZoneCharacteristics": "Жилые территории",
+        "AdmArea": "Зеленоградский административный округ",
+        "District": "район Силино",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Силино, город Зеленоград, корпус 1140",
+        "StartUpYear": 2006,
+        "IsWorking": "да",
+        "globalid": 171656896
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.149584,
+          55.976936
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Зеленоград 16",
+        "StationPurpose": "контроль качества атмосферного воздуха",
+        "SurveillanceZoneCharacteristics": "Жилые территории",
+        "AdmArea": "Зеленоградский административный округ",
+        "District": "район Крюково",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Крюково, город Зеленоград, корпус 1606",
+        "StartUpYear": 1996,
+        "IsWorking": "да",
+        "globalid": 171656897
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.527343,
+          55.802301
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "МАДИ",
+        "StationPurpose": "контроль качества атмосферного воздуха",
+        "SurveillanceZoneCharacteristics": "Вблизи автомагистралей",
+        "AdmArea": "Северный административный округ",
+        "District": "район Аэропорт",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Аэропорт, Ленинградский проспект, дом 64",
+        "StartUpYear": 2001,
+        "IsWorking": "да",
+        "globalid": 171656898
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.643092,
+          55.579354
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Бирюлево",
+        "StationPurpose": "контроль качества атмосферного воздуха",
+        "SurveillanceZoneCharacteristics": "Смешанные антропогенные источники загрязнений",
+        "AdmArea": "Южный административный округ",
+        "District": "район Бирюлёво Западное",
+        "Location": "город Москва, Востряковский проезд, дом 11, корпус 1",
+        "StartUpYear": 2001,
+        "IsWorking": "да",
+        "globalid": 171656899
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.522409999673,
+          55.707240999761
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "МГУ",
+        "StationPurpose": "контроль качества атмосферного воздуха",
+        "SurveillanceZoneCharacteristics": "Природные территории",
+        "AdmArea": "Западный административный округ",
+        "District": "район Раменки",
+        "Location": "Ленинские Горы, дом 1, строение 27",
+        "StartUpYear": 2002,
+        "IsWorking": "да",
+        "globalid": 171656900
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.535874000355,
+          55.64941199976
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Бутлерова",
+        "StationPurpose": "контроль качества атмосферного воздуха",
+        "SurveillanceZoneCharacteristics": "Вблизи автомагистралей",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Коньково",
+        "Location": "улица Бутлерова, дом 15",
+        "StartUpYear": 2003,
+        "IsWorking": "да",
+        "globalid": 171656901
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.690749,
+          55.849868
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Лосиный остров",
+        "StationPurpose": "контроль качества атмосферного воздуха",
+        "SurveillanceZoneCharacteristics": "Природные территории",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Метрогородок",
+        "Location": "город Москва, 12-я улица Красной Сосны, дом 31",
+        "StartUpYear": 2002,
+        "IsWorking": "да",
+        "globalid": 171656902
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.71249,
+          55.811801
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Глебовская",
+        "StationPurpose": "контроль качества атмосферного воздуха",
+        "SurveillanceZoneCharacteristics": "Смешанные антропогенные источники загрязнений",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Богородское",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Богородское, Глебовская улица, дом 3, корпус 1",
+        "StartUpYear": 2003,
+        "IsWorking": "да",
+        "globalid": 171656903
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.741263,
+          55.669453
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Люблино",
+        "StationPurpose": "контроль качества атмосферного воздуха",
+        "SurveillanceZoneCharacteristics": "Смешанные антропогенные источники загрязнений",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Люблино",
+        "Location": "город Москва, Совхозная улица, дом 1, строение 1",
+        "StartUpYear": 2003,
+        "IsWorking": "да",
+        "globalid": 171656904
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.471434,
+          55.658163
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Академика Анохина",
+        "StationPurpose": "контроль качества атмосферного воздуха",
+        "SurveillanceZoneCharacteristics": "Жилые территории",
+        "AdmArea": "Западный административный округ",
+        "District": "район Тропарёво-Никулино",
+        "Location": "город Москва, улица Академика Анохина, дом 38",
+        "StartUpYear": 2004,
+        "IsWorking": "да",
+        "globalid": 171656905
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.594615,
+          55.774521
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Чаянова",
+        "StationPurpose": "контроль качества атмосферного воздуха",
+        "SurveillanceZoneCharacteristics": "Жилые территории",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Location": "город Москва, 4-я Тверская-Ямская улица, дом 26/8, строение 2",
+        "StartUpYear": 2003,
+        "IsWorking": "да",
+        "globalid": 171656906
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.403491,
+          55.721913
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Толбухина",
+        "StationPurpose": "контроль качества атмосферного воздуха",
+        "SurveillanceZoneCharacteristics": "Жилые территории",
+        "AdmArea": "Западный административный округ",
+        "District": "Можайский район",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Можайский, улица Толбухина, дом 10, корпус 4",
+        "StartUpYear": 2004,
+        "IsWorking": "да",
+        "globalid": 171656907
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.795549,
+          55.719959
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Вешняки",
+        "StationPurpose": "контроль качества атмосферного воздуха",
+        "SurveillanceZoneCharacteristics": "Смешанные антропогенные источники загрязнений",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "Рязанский район",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Рязанский, 4-й Вешняковский проезд, дом 8",
+        "StartUpYear": 2004,
+        "IsWorking": "да",
+        "globalid": 171656908
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.536881,
+          55.894383
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Долгопрудная",
+        "StationPurpose": "контроль качества атмосферного воздуха",
+        "SurveillanceZoneCharacteristics": "Смешанные антропогенные источники загрязнений",
+        "AdmArea": "Северный административный округ",
+        "District": "Дмитровский район",
+        "Location": "город Москва, Карельский бульвар, дом 6, корпус 1",
+        "StartUpYear": 2004,
+        "IsWorking": "да",
+        "globalid": 171656909
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.525158,
+          55.833222
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Коптевский",
+        "StationPurpose": "контроль качества атмосферного воздуха",
+        "SurveillanceZoneCharacteristics": "Жилые территории",
+        "AdmArea": "Северный административный округ",
+        "District": "район Коптево",
+        "Location": "город Москва, Коптевский бульвар, дом 16, корпус 1, строение 1",
+        "StartUpYear": 2004,
+        "IsWorking": "да",
+        "globalid": 171656910
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.475878000082,
+          55.776064000101
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Народного ополчения",
+        "StationPurpose": "контроль качества атмосферного воздуха",
+        "SurveillanceZoneCharacteristics": "Вблизи автомагистралей",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Хорошёво-Мнёвники",
+        "Location": "улица Народного Ополчения, дом 21, корпус 1",
+        "StartUpYear": 2004,
+        "IsWorking": "да",
+        "globalid": 171656911
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6378,
+          55.874901
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Полярная",
+        "StationPurpose": "контроль качества атмосферного воздуха",
+        "SurveillanceZoneCharacteristics": "Смешанные антропогенные источники загрязнений",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Южное Медведково",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Южное Медведково, Полярная улица, дом 10",
+        "StartUpYear": 2004,
+        "IsWorking": "да",
+        "globalid": 171656912
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.584782,
+          55.680056
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Черемушки",
+        "StationPurpose": "контроль качества атмосферного воздуха",
+        "SurveillanceZoneCharacteristics": "Жилые территории",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "Академический район",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Академический, Большая Черёмушкинская улица, дом 30, корпус 1",
+        "StartUpYear": 2004,
+        "IsWorking": "да",
+        "globalid": 171656913
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.426628,
+          55.856324
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Туристская",
+        "StationPurpose": "контроль качества атмосферного воздуха",
+        "SurveillanceZoneCharacteristics": "Жилые территории",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Северное Тушино",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Северное Тушино, Туристская улица, дом 18",
+        "StartUpYear": 2004,
+        "IsWorking": "да",
+        "globalid": 171656914
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.595584,
+          55.759354
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Спиридоновка",
+        "StationPurpose": "контроль качества атмосферного воздуха",
+        "SurveillanceZoneCharacteristics": "Жилые территории",
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Пресненский, улица Спиридоновка, дом 10",
+        "StartUpYear": 2005,
+        "IsWorking": "да",
+        "globalid": 171656915
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.663946,
+          55.707506
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Кожуховский проезд",
+        "StationPurpose": "контроль качества атмосферного воздуха",
+        "SurveillanceZoneCharacteristics": "Вблизи автомагистралей",
+        "AdmArea": "Южный административный округ",
+        "District": "Даниловский район",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Даниловский, 1-й Кожуховский проезд, дом 15",
+        "StartUpYear": 2010,
+        "IsWorking": "да",
+        "globalid": 171656916
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.612592000403,
+          55.821154000039
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Останкино 0",
+        "StationPurpose": "контроль качества атмосферного воздуха",
+        "SurveillanceZoneCharacteristics": "Жилые территории",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Останкинский район",
+        "Location": "улица Академика Королёва, дом 15А",
+        "StartUpYear": 2007,
+        "IsWorking": "да",
+        "globalid": 171656917
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.910381,
+          55.723093
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Кожухово",
+        "StationPurpose": "контроль качества атмосферного воздуха",
+        "SurveillanceZoneCharacteristics": "Смешанные антропогенные источники загрязнений",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Косино-Ухтомский",
+        "Location": "город Москва, Лухмановская улица, дом 34",
+        "StartUpYear": 2007,
+        "IsWorking": "да",
+        "globalid": 171656918
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.583343,
+          55.710272
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Площадь Гагарина",
+        "StationPurpose": "контроль качества атмосферного воздуха",
+        "SurveillanceZoneCharacteristics": "Вблизи автомагистралей",
+        "AdmArea": "Южный административный округ",
+        "District": "Донской район",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Донской, Ленинский проспект, дом 30",
+        "StartUpYear": 2008,
+        "IsWorking": "да",
+        "globalid": 171656919
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.570271,
+          55.718774
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Хамовники",
+        "StationPurpose": "контроль качества атмосферного воздуха",
+        "SurveillanceZoneCharacteristics": "Вблизи автомагистралей",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Хамовники",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Хамовники, улица Хамовнический Вал, дом 24",
+        "StartUpYear": 2008,
+        "IsWorking": "да",
+        "globalid": 171656920
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.802403,
+          55.637931
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Капотня",
+        "StationPurpose": "контроль качества атмосферного воздуха",
+        "SurveillanceZoneCharacteristics": "Смешанные антропогенные источники загрязнений",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Капотня",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Капотня, 2-й квартал Капотня, дом 16, строение 4",
+        "StartUpYear": 2013,
+        "IsWorking": "да",
+        "globalid": 1022418914
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.613288,
+          55.700958
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Чура",
+        "StationPurpose": "контроль качества атмосферного воздуха",
+        "SurveillanceZoneCharacteristics": "Вблизи автомагистралей",
+        "AdmArea": "Южный административный округ",
+        "District": "Донской район",
+        "Location": "город Москва, Загородное шоссе, владение 2Б",
+        "StartUpYear": 2008,
+        "IsWorking": "да",
+        "globalid": 1022405630
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.578405,
+          55.791842
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Нижняя Масловка",
+        "StationPurpose": "контроль качества атмосферного воздуха",
+        "SurveillanceZoneCharacteristics": "Вблизи автомагистралей",
+        "AdmArea": "Северный административный округ",
+        "District": "Савёловский район",
+        "Location": "город Москва, улица Нижняя Масловка, дом 10",
+        "StartUpYear": 2010,
+        "IsWorking": "да",
+        "globalid": 171656921
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.742432,
+          55.60049
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Гурьевский проезд",
+        "StationPurpose": "контроль качества атмосферного воздуха",
+        "SurveillanceZoneCharacteristics": "Смешанные антропогенные источники загрязнений",
+        "AdmArea": "Южный административный округ",
+        "District": "район Орехово-Борисово Южное",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Орехово-Борисово Южное, Гурьевский проезд, дом 9, корпус 1",
+        "StartUpYear": 2010,
+        "IsWorking": "да",
+        "globalid": 171656922
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.818094,
+          55.673059
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Головачева",
+        "StationPurpose": "контроль качества атмосферного воздуха",
+        "SurveillanceZoneCharacteristics": "Смешанные антропогенные источники загрязнений",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Люблино",
+        "Location": "город Москва, улица Головачёва, дом 25",
+        "StartUpYear": 2013,
+        "IsWorking": "да",
+        "globalid": 1022418915
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.072376999674,
+          55.213024000088
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Рогово",
+        "StationPurpose": "контроль качества атмосферного воздуха",
+        "SurveillanceZoneCharacteristics": "Территория Новой Москвы",
+        "AdmArea": "Троицкий административный округ",
+        "District": "поселение Роговское",
+        "Location": "посёлок Рогово, Школьная улица, дом 17",
+        "StartUpYear": 2013,
+        "IsWorking": "да",
+        "globalid": 171656923
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.308209999923,
+          55.491239999819
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Троицк",
+        "StationPurpose": "контроль качества атмосферного воздуха",
+        "SurveillanceZoneCharacteristics": "Территория Новой Москвы",
+        "AdmArea": "Троицкий административный округ",
+        "District": "поселение Троицк",
+        "Location": "г. Троицк, город Троицк, улица Текстильщиков, дом 4",
+        "StartUpYear": 2013,
+        "IsWorking": "да",
+        "globalid": 171656924
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.658684,
+          55.635129
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Пролетарский проспект",
+        "StationPurpose": "контроль качества атмосферного воздуха",
+        "SurveillanceZoneCharacteristics": "Смешанные антропогенные источники загрязнений",
+        "AdmArea": "Южный административный округ",
+        "District": "район Царицыно",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Царицыно, Пролетарский проспект, дом 29",
+        "StartUpYear": 2013,
+        "IsWorking": "да",
+        "globalid": 171656925
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.716882,
+          55.679393
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Гурьянова",
+        "StationPurpose": "контроль качества атмосферного воздуха",
+        "SurveillanceZoneCharacteristics": "Смешанные антропогенные источники загрязнений",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Печатники",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Печатники, улица Гурьянова, дом 73",
+        "StartUpYear": 2013,
+        "IsWorking": "да",
+        "globalid": 171656926
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          36.93432500006,
+          55.465028000057
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Кузнецово",
+        "StationPurpose": "контроль качества атмосферного воздуха",
+        "SurveillanceZoneCharacteristics": "Территория Новой Москвы",
+        "AdmArea": "Троицкий административный округ",
+        "District": "поселение Новофедоровское",
+        "Location": "деревня Яковлевское, дом 125",
+        "StartUpYear": 2013,
+        "IsWorking": "да",
+        "globalid": 171656927
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.420264,
+          55.607425
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Саларьево",
+        "StationPurpose": "контроль качества атмосферного воздуха",
+        "SurveillanceZoneCharacteristics": "Территория Новой Москвы",
+        "AdmArea": "Новомосковский административный округ",
+        "District": "поселение Сосенское",
+        "Location": "город Москва, поселение Сосенское, деревня Николо-Хованское, дом 99, корпус 8",
+        "StartUpYear": 2013,
+        "IsWorking": "да",
+        "globalid": 861366394
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.112604999893,
+          55.286827999805
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Семенково",
+        "StationPurpose": "контроль качества атмосферного воздуха",
+        "SurveillanceZoneCharacteristics": "Территория Новой Москвы",
+        "AdmArea": "Троицкий административный округ",
+        "District": "поселение Вороновское",
+        "Location": "деревня Семенково, Центральная улица, дом 75",
+        "StartUpYear": 2013,
+        "IsWorking": "да",
+        "globalid": 171656929
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.562875,
+          55.50749
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Щербинка",
+        "StationPurpose": "контроль качества атмосферного воздуха",
+        "SurveillanceZoneCharacteristics": "Территория Новой Москвы",
+        "AdmArea": "Новомосковский административный округ",
+        "District": "поселение Щербинка",
+        "Location": "Российская Федерация, город Москва, город Щербинка, Пушкинская улица, дом 6",
+        "StartUpYear": 2013,
+        "IsWorking": "да",
+        "globalid": 861366395
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.57936,
+          55.535478
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Мелитопольская",
+        "StationPurpose": "контроль качества атмосферного воздуха",
+        "SurveillanceZoneCharacteristics": "Смешанные антропогенные источники загрязнений",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Южное Бутово",
+        "Location": "город Москва, 2-я Мелитопольская улица, дом 19",
+        "StartUpYear": 2014,
+        "IsWorking": "да",
+        "globalid": 171656931
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.488194,
+          55.81431
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Светлый проезд",
+        "StationPurpose": "контроль качества атмосферного воздуха",
+        "SurveillanceZoneCharacteristics": "Вблизи автомагистралей",
+        "AdmArea": "Северный административный округ",
+        "District": "район Сокол",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Сокол, Светлый проезд, дом 12",
+        "StartUpYear": 2014,
+        "IsWorking": "да",
+        "globalid": 171656932
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.684668,
+          55.775732
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Спартаковская площадь",
+        "StationPurpose": "контроль качества атмосферного воздуха",
+        "SurveillanceZoneCharacteristics": "Специальная",
+        "AdmArea": "Центральный административный округ",
+        "District": "Басманный район",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Басманный, Бакунинская улица, дом 23-41",
+        "StartUpYear": 2014,
+        "IsWorking": "да",
+        "globalid": 1022833939
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.857779,
+          55.734445
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Новокосино",
+        "StationPurpose": "контроль качества атмосферного воздуха",
+        "SurveillanceZoneCharacteristics": "Смешанные антропогенные источники загрязнений",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Новокосино",
+        "Location": "город Москва, Салтыковская улица, дом 7, корпус 2",
+        "StartUpYear": 2015,
+        "IsWorking": "да",
+        "globalid": 171656933
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.725487,
+          55.705858
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Технополис",
+        "StationPurpose": "контроль качества атмосферного воздуха",
+        "SurveillanceZoneCharacteristics": "Смешанные антропогенные источники загрязнений",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Печатники",
+        "Location": "город Москва, Волгоградский проспект, дом 42",
+        "StartUpYear": 2020,
+        "IsWorking": "да",
+        "globalid": 1110991813
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.508365,
+          55.879789
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Базовская",
+        "StationPurpose": "контроль качества атмосферного воздуха",
+        "SurveillanceZoneCharacteristics": "Смешанные антропогенные источники загрязнений",
+        "AdmArea": "Северный административный округ",
+        "District": "район Западное Дегунино",
+        "Location": "город Москва, Базовская улица, дом 15, корпус 5",
+        "StartUpYear": 2021,
+        "IsWorking": "да",
+        "globalid": 1124629907
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

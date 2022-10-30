@@ -1,0 +1,425 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            37.702372987038,
+            55.769253557421
+          ]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "FullName": "Государственное бюджетное учреждение здравоохранения города Москвы «Городская клиническая больница № 29 им. Н.Э. Баумана патологоанатомическое отделение (морг) № 6 Департамента здравоохранения города Москвы»",
+        "ShortName": "ГБУЗ ГКБ № 29 им. Баумана ПО (морг) № 6 ДЗМ",
+        "ChiefName": "Бражник Виктория Алексеевна",
+        "ChiefPosition": "главный врач",
+        "ChiefGender": "женский",
+        "ClarificationWorkingHours": "",
+        "Specialization": "",
+        "Extrainfo": "",
+        "globalid": 656106196
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            37.46550114862,
+            55.770965663291
+          ]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "FullName": "Государственное бюджетное учреждение здравоохранения города Москвы «Городская клиническая больница № 67 им. Л.А. Ворохобова патологоанатомическое отделение (морг) № 5 Департамента здравоохранения города Москвы»",
+        "ShortName": "ГКБ № 67 им. Л. А. Ворохобова ПО (морг) № 5 ДЗМ",
+        "ChiefName": "Шкода Андрей Сергеевич",
+        "ChiefPosition": "главный врач",
+        "ChiefGender": "мужской",
+        "ClarificationWorkingHours": "",
+        "Specialization": "",
+        "Extrainfo": "",
+        "globalid": 656107303,
+        "OrgInfoisdeleted0": 0,
+        "OrgInfoChiefPhone0": [
+          {
+            "isdeleted": 0,
+            "globalid": 334671,
+            "ChiefPhone": ""
+          },
+          {
+            "isdeleted": 0,
+            "globalid": 335168,
+            "ChiefPhone": ""
+          }
+        ],
+        "OrgInfoFullName0": "",
+        "OrgInfoINN0": "",
+        "OrgInfoKPP0": "",
+        "OrgInfoOGRN0": "",
+        "OrgInfoLegalAddress0": "",
+        "OrgInfoChiefName0": "",
+        "OrgInfoChiefPosition0": null,
+        "OrgInfoChiefGender0": null,
+        "OrgInfoglobalid0": 335172,
+        "ObjectAddressisdeleted0": 0,
+        "ObjectAddressAdmArea0": null,
+        "ObjectAddressDistrict0": null,
+        "ObjectAddressPostalCode0": "",
+        "ObjectAddressAddress0": "",
+        "ObjectAddressAvailability0": [
+          {
+            "isdeleted": 0,
+            "globalid": 158242,
+            "availablek": null,
+            "availableo": null,
+            "availablez": null,
+            "availables": null,
+            "availableelement": []
+          }
+        ],
+        "ObjectAddressExtrainfo0": "",
+        "ObjectAddressglobalid0": 375805,
+        "ChiefPhoneisdeleted0": 0,
+        "ChiefPhoneChiefPhone0": "",
+        "ChiefPhoneglobalid0": 351292,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "PublicPhoneglobalid0": 384272,
+        "Faxisdeleted0": 0,
+        "FaxFax0": "",
+        "Faxglobalid0": 344984,
+        "Emailisdeleted0": 0,
+        "EmailEmail0": "",
+        "Emailglobalid0": 347829,
+        "WorkingHoursisdeleted0": 0,
+        "WorkingHoursDayWeek0": null,
+        "WorkingHoursWorkHours0": "",
+        "WorkingHoursglobalid0": 2484271,
+        "WorkingHoursisdeleted1": 0,
+        "WorkingHoursDayWeek1": null,
+        "WorkingHoursWorkHours1": "",
+        "WorkingHoursglobalid1": 2486788,
+        "WorkingHoursisdeleted2": 0,
+        "WorkingHoursDayWeek2": null,
+        "WorkingHoursWorkHours2": "",
+        "WorkingHoursglobalid2": 2495539,
+        "WorkingHoursisdeleted3": 0,
+        "WorkingHoursDayWeek3": null,
+        "WorkingHoursWorkHours3": "",
+        "WorkingHoursglobalid3": 2483468,
+        "WorkingHoursisdeleted4": 0,
+        "WorkingHoursDayWeek4": null,
+        "WorkingHoursWorkHours4": "",
+        "WorkingHoursglobalid4": 2489466,
+        "WorkingHoursisdeleted5": 0,
+        "WorkingHoursDayWeek5": null,
+        "WorkingHoursWorkHours5": "",
+        "WorkingHoursglobalid5": 2490892,
+        "WorkingHoursisdeleted6": 0,
+        "WorkingHoursDayWeek6": null,
+        "WorkingHoursWorkHours6": "",
+        "WorkingHoursglobalid6": 2488266
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            37.813463592067,
+            55.756789791262
+          ]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "FullName": "Государственное бюджетное учреждение здравоохранения города Москвы «Городская клиническая больница им. Е.О. Мухина патологоанатомическое отделение (морг) № 9 Департамента здравоохранения города Москвы»",
+        "ShortName": "ГБУЗ «ГКБ им. Е.О. Мухина ПО (морг) № 9 ДЗМ»",
+        "ChiefName": "Извеков Александр Александрович",
+        "ChiefPosition": "главный врач",
+        "ChiefGender": "мужской",
+        "ClarificationWorkingHours": "",
+        "Specialization": "",
+        "Extrainfo": "",
+        "globalid": 656107347,
+        "OrgInfoisdeleted0": 0,
+        "OrgInfoChiefPhone0": [
+          {
+            "isdeleted": 0,
+            "globalid": 334614,
+            "ChiefPhone": ""
+          }
+        ],
+        "OrgInfoFullName0": "",
+        "OrgInfoINN0": "",
+        "OrgInfoKPP0": "",
+        "OrgInfoOGRN0": "",
+        "OrgInfoLegalAddress0": "",
+        "OrgInfoChiefName0": "",
+        "OrgInfoChiefPosition0": null,
+        "OrgInfoChiefGender0": null,
+        "OrgInfoglobalid0": 334373,
+        "ObjectAddressisdeleted0": 0,
+        "ObjectAddressAdmArea0": null,
+        "ObjectAddressDistrict0": null,
+        "ObjectAddressPostalCode0": "",
+        "ObjectAddressAddress0": "",
+        "ObjectAddressAvailability0": [
+          {
+            "isdeleted": 0,
+            "globalid": 158215,
+            "availablek": null,
+            "availableo": null,
+            "availablez": null,
+            "availables": null,
+            "availableelement": []
+          }
+        ],
+        "ObjectAddressExtrainfo0": "",
+        "ObjectAddressglobalid0": 377861,
+        "ChiefPhoneisdeleted0": 0,
+        "ChiefPhoneChiefPhone0": "",
+        "ChiefPhoneglobalid0": 351943,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "PublicPhoneglobalid0": 383783,
+        "Faxisdeleted0": 0,
+        "FaxFax0": "",
+        "Faxglobalid0": 344837,
+        "Emailisdeleted0": 0,
+        "EmailEmail0": "",
+        "Emailglobalid0": 346716,
+        "WorkingHoursisdeleted0": 0,
+        "WorkingHoursDayWeek0": null,
+        "WorkingHoursWorkHours0": "",
+        "WorkingHoursglobalid0": 2489467,
+        "WorkingHoursisdeleted1": 0,
+        "WorkingHoursDayWeek1": null,
+        "WorkingHoursWorkHours1": "",
+        "WorkingHoursglobalid1": 2483797,
+        "WorkingHoursisdeleted2": 0,
+        "WorkingHoursDayWeek2": null,
+        "WorkingHoursWorkHours2": "",
+        "WorkingHoursglobalid2": 2483681,
+        "WorkingHoursisdeleted3": 0,
+        "WorkingHoursDayWeek3": null,
+        "WorkingHoursWorkHours3": "",
+        "WorkingHoursglobalid3": 2483469,
+        "WorkingHoursisdeleted4": 0,
+        "WorkingHoursDayWeek4": null,
+        "WorkingHoursWorkHours4": "",
+        "WorkingHoursglobalid4": 2491359,
+        "WorkingHoursisdeleted5": 0,
+        "WorkingHoursDayWeek5": null,
+        "WorkingHoursWorkHours5": "",
+        "WorkingHoursglobalid5": 2494369,
+        "WorkingHoursisdeleted6": 0,
+        "WorkingHoursDayWeek6": null,
+        "WorkingHoursWorkHours6": "",
+        "WorkingHoursglobalid6": 2490417
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            37.547663191519,
+            55.780306845232
+          ]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "FullName": "Государственное бюджетное учреждение здравоохранения города Москвы «Городская клиническая больница им. С.П.Боткина патологоанатомическое отделение (морг) № 10 Департамента здравоохранения города Москвы»",
+        "ShortName": "ГБУЗ «ГКБ им. С.П. Боткина ПО (морг) № 10 ДЗМ»",
+        "ChiefName": "Шабунин Алексей Васильевич",
+        "ChiefPosition": "главный врач",
+        "ChiefGender": "мужской",
+        "ClarificationWorkingHours": "",
+        "Specialization": "",
+        "Extrainfo": "",
+        "globalid": 656107447,
+        "OrgInfoisdeleted0": 0,
+        "OrgInfoChiefPhone0": [
+          {
+            "isdeleted": 0,
+            "globalid": 334447,
+            "ChiefPhone": ""
+          }
+        ],
+        "OrgInfoFullName0": "",
+        "OrgInfoINN0": "",
+        "OrgInfoKPP0": "",
+        "OrgInfoOGRN0": "",
+        "OrgInfoLegalAddress0": "",
+        "OrgInfoChiefName0": "",
+        "OrgInfoChiefPosition0": null,
+        "OrgInfoChiefGender0": null,
+        "OrgInfoglobalid0": 334982,
+        "ObjectAddressisdeleted0": 0,
+        "ObjectAddressAdmArea0": null,
+        "ObjectAddressDistrict0": null,
+        "ObjectAddressPostalCode0": "",
+        "ObjectAddressAddress0": "",
+        "ObjectAddressAvailability0": [
+          {
+            "isdeleted": 0,
+            "globalid": 158026,
+            "availablek": null,
+            "availableo": null,
+            "availablez": null,
+            "availables": null,
+            "availableelement": []
+          }
+        ],
+        "ObjectAddressExtrainfo0": "",
+        "ObjectAddressglobalid0": 377811,
+        "ChiefPhoneisdeleted0": 0,
+        "ChiefPhoneChiefPhone0": "",
+        "ChiefPhoneglobalid0": 351293,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "PublicPhoneglobalid0": 384011,
+        "Faxisdeleted0": 0,
+        "FaxFax0": "",
+        "Faxglobalid0": 345244,
+        "Emailisdeleted0": 0,
+        "EmailEmail0": "",
+        "Emailglobalid0": 347186,
+        "WorkingHoursisdeleted0": 0,
+        "WorkingHoursDayWeek0": null,
+        "WorkingHoursWorkHours0": "",
+        "WorkingHoursglobalid0": 2483631,
+        "WorkingHoursisdeleted1": 0,
+        "WorkingHoursDayWeek1": null,
+        "WorkingHoursWorkHours1": "",
+        "WorkingHoursglobalid1": 2486789,
+        "WorkingHoursisdeleted2": 0,
+        "WorkingHoursDayWeek2": null,
+        "WorkingHoursWorkHours2": "",
+        "WorkingHoursglobalid2": 2494370,
+        "WorkingHoursisdeleted3": 0,
+        "WorkingHoursDayWeek3": null,
+        "WorkingHoursWorkHours3": "",
+        "WorkingHoursglobalid3": 2483856,
+        "WorkingHoursisdeleted4": 0,
+        "WorkingHoursDayWeek4": null,
+        "WorkingHoursWorkHours4": "",
+        "WorkingHoursglobalid4": 2489666,
+        "WorkingHoursisdeleted5": 0,
+        "WorkingHoursDayWeek5": null,
+        "WorkingHoursWorkHours5": "",
+        "WorkingHoursglobalid5": 2490677,
+        "WorkingHoursisdeleted6": 0,
+        "WorkingHoursDayWeek6": null,
+        "WorkingHoursWorkHours6": "",
+        "WorkingHoursglobalid6": 2492837
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            37.634777439984,
+            55.775181929756
+          ]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "FullName": "Государственное бюджетное учреждение здравоохранения города Москвы «Научно-исследовательский институт скорой помощи им. Н.В. Склифосовского патологоанатомическое отделение (морг) № 3 Департамента здравоохранения города Москвы»",
+        "ShortName": "ГБУЗ НИИ СП им. Н.В. Склифосовского ПО (морг) № 3 ДЗМ",
+        "ChiefName": "Строкова Вера Александровна",
+        "ChiefPosition": "заведующий отделением",
+        "ChiefGender": "женский",
+        "ClarificationWorkingHours": "",
+        "Specialization": "",
+        "Extrainfo": "",
+        "globalid": 656107280,
+        "OrgInfoisdeleted0": 0,
+        "OrgInfoChiefPhone0": [
+          {
+            "isdeleted": 0,
+            "globalid": 333903,
+            "ChiefPhone": ""
+          }
+        ],
+        "OrgInfoFullName0": "",
+        "OrgInfoINN0": "",
+        "OrgInfoKPP0": "",
+        "OrgInfoOGRN0": "",
+        "OrgInfoLegalAddress0": "",
+        "OrgInfoChiefName0": "",
+        "OrgInfoChiefPosition0": null,
+        "OrgInfoChiefGender0": null,
+        "OrgInfoglobalid0": 335061,
+        "ObjectAddressisdeleted0": 0,
+        "ObjectAddressAdmArea0": null,
+        "ObjectAddressDistrict0": null,
+        "ObjectAddressPostalCode0": "",
+        "ObjectAddressAddress0": "",
+        "ObjectAddressAvailability0": [
+          {
+            "isdeleted": 0,
+            "globalid": 157392,
+            "availablek": null,
+            "availableo": null,
+            "availablez": null,
+            "availables": null,
+            "availableelement": []
+          }
+        ],
+        "ObjectAddressExtrainfo0": "",
+        "ObjectAddressglobalid0": 377089,
+        "ChiefPhoneisdeleted0": 0,
+        "ChiefPhoneChiefPhone0": "",
+        "ChiefPhoneglobalid0": 351045,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "PublicPhoneglobalid0": 384054,
+        "Faxisdeleted0": 0,
+        "FaxFax0": "",
+        "Faxglobalid0": 344232,
+        "Emailisdeleted0": 0,
+        "EmailEmail0": "",
+        "Emailglobalid0": 347525,
+        "WorkingHoursisdeleted0": 0,
+        "WorkingHoursDayWeek0": null,
+        "WorkingHoursWorkHours0": "",
+        "WorkingHoursglobalid0": 2495506,
+        "WorkingHoursisdeleted1": 0,
+        "WorkingHoursDayWeek1": null,
+        "WorkingHoursWorkHours1": "",
+        "WorkingHoursglobalid1": 2487832,
+        "WorkingHoursisdeleted2": 0,
+        "WorkingHoursDayWeek2": null,
+        "WorkingHoursWorkHours2": "",
+        "WorkingHoursglobalid2": 2491727,
+        "WorkingHoursisdeleted3": 0,
+        "WorkingHoursDayWeek3": null,
+        "WorkingHoursWorkHours3": "",
+        "WorkingHoursglobalid3": 2493894,
+        "WorkingHoursisdeleted4": 0,
+        "WorkingHoursDayWeek4": null,
+        "WorkingHoursWorkHours4": "",
+        "WorkingHoursglobalid4": 2483855,
+        "WorkingHoursisdeleted5": 0,
+        "WorkingHoursDayWeek5": null,
+        "WorkingHoursWorkHours5": "",
+        "WorkingHoursglobalid5": 2491455,
+        "WorkingHoursisdeleted6": 0,
+        "WorkingHoursDayWeek6": null,
+        "WorkingHoursWorkHours6": "",
+        "WorkingHoursglobalid6": 2487423
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

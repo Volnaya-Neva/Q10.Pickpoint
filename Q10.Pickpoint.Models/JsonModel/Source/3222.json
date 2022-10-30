@@ -1,0 +1,775 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.619861101814,
+          55.757096069693
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Цветочный Джем",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "Площадь Революции",
+        "Period": "01.09.2021-01.10.2021",
+        "AmountOfPlaces": null,
+        "WorkingHours": "10:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 19679404
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.610258793682,
+          55.761842484783
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Цветочный Джем",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "Тверская площадь",
+        "Period": "01.09.2021-01.10.2021",
+        "AmountOfPlaces": null,
+        "WorkingHours": "12:00-22:00",
+        "WorkingHoursWeekend": "12:00-22:00",
+        "WebSite": "mos.ru",
+        "globalid": 19679405
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.523107118554,
+          55.83187352786
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Цветочный Джем",
+        "AdmArea": "Северный административный округ",
+        "District": "район Коптево",
+        "Address": "Коптевский бульвар, вл. 18 (парк «Бригантина»)",
+        "Period": "01.09.2021-01.10.2021",
+        "AmountOfPlaces": null,
+        "WorkingHours": "10:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 19679406
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.864947946903,
+          55.743604494669
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Цветочный Джем",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Новокосино",
+        "Address": "ул. Городецкая, вл.1",
+        "Period": "01.09.2021-01.10.2021",
+        "AmountOfPlaces": null,
+        "WorkingHours": "10:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 19679407
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.80066746771,
+          55.821614477828
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Цветочный Джем",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Гольяново",
+        "Address": "Сквер у Гольяновского пруда",
+        "Period": "01.09.2021-01.10.2021",
+        "AmountOfPlaces": null,
+        "WorkingHours": "10:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 19679408
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.878305912018,
+          55.714104489414
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Цветочный Джем",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Косино-Ухтомский",
+        "Address": "ул. Святоозерская, вл.1",
+        "Period": "01.09.2021-01.10.2021",
+        "AmountOfPlaces": null,
+        "WorkingHours": "10:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 19679409
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.826961162293,
+          55.726830699465
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Цветочный Джем",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Вешняки",
+        "Address": "ул. Вешняковская, вл.16",
+        "Period": "01.09.2021-01.10.2021",
+        "AmountOfPlaces": null,
+        "WorkingHours": "10:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 19679410
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.766323685646,
+          55.706600395299
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Цветочный Джем",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Кузьминки",
+        "Address": "Пл. Славы",
+        "Period": "01.09.2021-01.10.2021",
+        "AmountOfPlaces": null,
+        "WorkingHours": "10:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 19679412
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.744678258896,
+          55.65772357848
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Цветочный Джем",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Марьино",
+        "Address": "Ул. Перерва, вл.52",
+        "Period": "01.09.2021-01.10.2021",
+        "AmountOfPlaces": null,
+        "WorkingHours": "10:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 19679413
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.743444442749,
+          55.613666751024
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Цветочный Джем",
+        "AdmArea": "Южный административный округ",
+        "District": "район Зябликово",
+        "Address": "Ореховый бульвар, Вл.24",
+        "Period": "01.09.2021-01.10.2021",
+        "AmountOfPlaces": null,
+        "WorkingHours": "10:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 19679414
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.764687538147,
+          55.632898879795
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Цветочный Джем",
+        "AdmArea": "Южный административный округ",
+        "District": "район Братеево",
+        "Address": "м. Алма-Атинская (ул. Ключевая, вл. 22, корп. 1)",
+        "Period": "01.09.2021-01.10.2021",
+        "AmountOfPlaces": null,
+        "WorkingHours": "10:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 19679415
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.555410861969,
+          55.669456136583
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Цветочный Джем",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Черёмушки",
+        "Address": "Ул. Профсоюзная, Вл.41",
+        "Period": "01.09.2021-01.10.2021",
+        "AmountOfPlaces": null,
+        "WorkingHours": "10:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 19679416
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.575382590294,
+          55.566985205486
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Цветочный Джем",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Северное Бутово",
+        "Address": "Бульвар Дмитрия Донского, вл.11",
+        "Period": "01.09.2021-01.10.2021",
+        "AmountOfPlaces": null,
+        "WorkingHours": "10:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 19679417
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.501404024645,
+          55.6187993298
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Цветочный Джем",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Тёплый Стан",
+        "Address": "ул. Теплый стан, вл. 1Б ",
+        "Period": "01.09.2021-01.10.2021",
+        "AmountOfPlaces": null,
+        "WorkingHours": "10:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 19679418
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.358311414719,
+          55.847290594052
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Цветочный Джем",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Митино",
+        "Address": "Ул. Митинская, Вл.31",
+        "Period": "01.09.2021-01.10.2021",
+        "AmountOfPlaces": null,
+        "WorkingHours": "10:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 19679419
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.387011051178,
+          55.899381706297
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Цветочный Джем",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Куркино",
+        "Address": "Пересечение ул. Соколово-Мещерская и ул. Юровская",
+        "Period": "01.09.2021-01.10.2021",
+        "AmountOfPlaces": null,
+        "WorkingHours": "10:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 19679420
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.153728604317,
+          55.976219063254
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Цветочный Джем",
+        "AdmArea": "Зеленоградский административный округ",
+        "District": "район Крюково",
+        "Address": "Крюково, бульварная зона 16 мкрн.",
+        "Period": "01.09.2021-01.10.2021",
+        "AmountOfPlaces": null,
+        "WorkingHours": "10:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 19679421
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.480107285388,
+          55.704441436833
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Цветочный Джем",
+        "AdmArea": "Западный административный округ",
+        "District": "район Очаково-Матвеевское",
+        "Address": "ул. Матвеевская, вл.2",
+        "Period": "01.09.2021-01.10.2021",
+        "AmountOfPlaces": null,
+        "WorkingHours": "10:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 19679422
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.529598064274,
+          55.541823817339
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Цветочный Джем",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Южное Бутово",
+        "Address": "ул. Адмирала Руднева, вл.8",
+        "Period": "01.09.2021-01.10.2021",
+        "AmountOfPlaces": null,
+        "WorkingHours": "10:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 19679423
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.616423180453,
+          55.756200746342
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Цветочный Джем",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "Манежная площадь",
+        "Period": "01.09.2021-01.10.2021",
+        "AmountOfPlaces": null,
+        "WorkingHours": "10:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 19679424
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.618553524938,
+          55.756847036736
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Цветочный Джем",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "Переход от Манежной площади к Площади Революции ",
+        "Period": "01.09.2021-01.10.2021",
+        "AmountOfPlaces": null,
+        "WorkingHours": "10:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 19679425
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.609985878914,
+          55.752100839118
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Цветочный Джем",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Арбат",
+        "Address": "ул. Воздвиженка, д. 3/5 (Российская государственная библиотека)",
+        "Period": "01.09.2021-01.10.2021",
+        "AmountOfPlaces": null,
+        "WorkingHours": "10:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 170798489
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.619175797413,
+          55.761598080203
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Цветочный Джем",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "ул. Кузнецкий мост, вл. 7 (площадь у ЦУМ)",
+        "Period": "01.09.2021-01.10.2021",
+        "AmountOfPlaces": null,
+        "WorkingHours": "10:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 170798645
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.616989797104,
+          55.763324088403
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Цветочный Джем",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "ул. Петровка, вл. 15",
+        "Period": "01.09.2021-01.10.2021",
+        "AmountOfPlaces": null,
+        "WorkingHours": "10:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 170798817
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.612292578635,
+          55.759423012446
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Цветочный Джем",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "Камергерский пер., вл. 4 (у памятника Станиславскому и Немировичу-Данченко)",
+        "Period": "01.09.2021-01.10.2021",
+        "AmountOfPlaces": null,
+        "WorkingHours": "10:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 170798955
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.613590097227,
+          55.759947454455
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Цветочный Джем",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "Камергерский пер. от д. 5/7 до д. 3с1",
+        "Period": "01.09.2021-01.10.2021",
+        "AmountOfPlaces": null,
+        "WorkingHours": "10:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 170799114
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.604557087951,
+          55.764867468799
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Цветочный Джем",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "Новопушкинский сквер",
+        "Period": "01.09.2021-01.10.2021",
+        "AmountOfPlaces": null,
+        "WorkingHours": "10:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 170799679
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.598539552113,
+          55.757923220304
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Цветочный Джем",
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "Address": "Тверской бульвар (площадь у памятника К.А. Тимирязеву)",
+        "Period": "01.09.2021-01.10.2021",
+        "AmountOfPlaces": null,
+        "WorkingHours": "10:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 170799746
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.599583601971,
+          55.75756017232
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Цветочный Джем",
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "Address": "Тверской бульвар, вл. 2",
+        "Period": "01.09.2021-01.10.2021",
+        "AmountOfPlaces": null,
+        "WorkingHours": "10:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 170799865
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.601999601689,
+          55.761475464693
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Цветочный Джем",
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "Address": "Тверской бульвар (у памятника С.А. Есенину)",
+        "Period": "01.09.2021-01.10.2021",
+        "AmountOfPlaces": null,
+        "WorkingHours": "10:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 170799950
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.604952043229,
+          55.764346099175
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Цветочный Джем",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "Тверской бульвар, вл. 28",
+        "Period": "11.09.2021-01.10.2021",
+        "AmountOfPlaces": null,
+        "WorkingHours": "10:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 170800043
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.625433390963,
+          55.759408981639
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Цветочный Джем",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "ул. Никольская, вл. 25 до д. 3с2",
+        "Period": "01.09.2021-01.10.2021",
+        "AmountOfPlaces": null,
+        "WorkingHours": "10:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 170801169
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.609916812037,
+          55.760906830225
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Цветочный Джем",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "ул. Тверская д. 1 – до ул. Тверская д. 17",
+        "Period": "11.09.2021-01.10.2021",
+        "AmountOfPlaces": null,
+        "WorkingHours": "10:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 170801272
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.610319143381,
+          55.761091699237
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Цветочный Джем",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "ул. Тверская д. 2 до ул. Тверская д. 16",
+        "Period": "11.09.2021-01.10.2021",
+        "AmountOfPlaces": null,
+        "WorkingHours": "10:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 170801365
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.605536764782,
+          55.765321635294
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Цветочный Джем",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "Пушкинская площадь (у памятника А.С. Пушкину)",
+        "Period": "11.09.2021-01.10.2021",
+        "AmountOfPlaces": null,
+        "WorkingHours": "10:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru",
+        "globalid": 170801483
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

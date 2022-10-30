@@ -1,0 +1,3732 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            37.4323683962799,
+            55.8667064324502
+          ]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "CommonNameen": "Пансионат для ветеранов труда № 9",
+        "FullNameen": "Государственное бюджетное учреждение города Москвы Пансионат для ветеранов труда № 9 Департамента труда и социальной защиты населения города Москвы",
+        "ShortNameen": "ГБУ ПВТ № 9",
+        "ChiefNameen": "Яковлев Александр Николаевич",
+        "ChiefPositionen": "директор",
+        "ClarificationWorkingHoursen": "",
+        "WebSiteen": "пвт9.рф",
+        "globalid": 641991299,
+        "OrgInfoenisdeleted0": 0,
+        "OrgInfoenFullNameen0": "Государственное бюджетное учреждение города Москвы Пансионат для ветеранов труда № 9 Департамента труда и социальной защиты населения города Москвы",
+        "OrgInfoenINNen0": "7733006687",
+        "OrgInfoenKPPen0": "773301001",
+        "OrgInfoenOGRNen0": "1037739187199",
+        "OrgInfoenLegalAddressen0": "125480, ГОРОД МОСКВА, УЛИЦА ВИЛИСА ЛАЦИСА, 2",
+        "OrgInfoenChiefNameen0": "Яковлев Александр Николаевич",
+        "OrgInfoenChiefPositionen0": "директор",
+        "OrgInfoenChiefPhoneen0": [
+          {
+            "isdeleted": 0,
+            "globalid": 572864,
+            "ChiefPhoneen": "(915) 245-54-34"
+          }
+        ],
+        "OrgInfoenglobalid0": 469959,
+        "ObjectAddressenisdeleted0": 0,
+        "ObjectAddressenAdmAreaen0": "Severo-Zapadny'j administrativny'j okrug",
+        "ObjectAddressenDistricten0": "rajon Severnoe Tushino",
+        "ObjectAddressenPostalCodeen0": "125480",
+        "ObjectAddressenAddressen0": "город Москва, улица Вилиса Лациса, дом 2, корпус 1",
+        "ObjectAddressenSocialServicesen0": "",
+        "ObjectAddressenAvailabilityen0": [
+          {
+            "isdeleted": 0,
+            "globalid": 296722,
+            "availableken": "completely",
+            "availableoen": "partly",
+            "availablezen": "partly",
+            "availablesen": "partly",
+            "availableelementen": [
+              {
+                "isdeleted": 0,
+                "globalid": 10606118,
+                "Groupmgnen": "person with locomotive disability",
+                "Areamgnen": "entrance group",
+                "Elementmgnen": "zero input",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10606119,
+                "Groupmgnen": "person with locomotive disability",
+                "Areamgnen": "wc",
+                "Elementmgnen": "handrails at toilet",
+                "availabledegreeen": "partly",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10606120,
+                "Groupmgnen": "sight-disabled person",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "handrails on stairs available",
+                "availabledegreeen": "partly",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10606121,
+                "Groupmgnen": "person with hearing disabilities",
+                "Areamgnen": "object territory",
+                "Elementmgnen": "direction indicator",
+                "availabledegreeen": "partly",
+                "availableindexen": "not available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10606298,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "area of service provision",
+                "Elementmgnen": "lane width (serving displacement)",
+                "availabledegreeen": "completely",
+                "availableindexen": "match"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10606452,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "stairs to the movement",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10606453,
+                "Groupmgnen": "sight-disabled person",
+                "Areamgnen": "entrance group",
+                "Elementmgnen": "tactile strip in front of the entrance stairs",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10606523,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "wc",
+                "Elementmgnen": "the sink area for wheelchairs",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10607513,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "entrance group",
+                "Elementmgnen": "ramp with handrails and slope",
+                "availabledegreeen": "completely",
+                "availableindexen": "match"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10607514,
+                "Groupmgnen": "sight-disabled person",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "contrast marking steps",
+                "availabledegreeen": "partly",
+                "availableindexen": "does not match"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10607717,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "wc",
+                "Elementmgnen": "dimensions of the cabin",
+                "availabledegreeen": "completely",
+                "availableindexen": "match"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10608100,
+                "Groupmgnen": "sight-disabled person",
+                "Areamgnen": "entrance group",
+                "Elementmgnen": "handrails on stairs available",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10608341,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "object territory",
+                "Elementmgnen": "parking space for disabled",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10608342,
+                "Groupmgnen": "sight-disabled person",
+                "Areamgnen": "object territory",
+                "Elementmgnen": "barrier-free path to the main entrance",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10608383,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "object territory",
+                "Elementmgnen": "barrier-free path to the main entrance",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10608384,
+                "Groupmgnen": "person with locomotive disability",
+                "Areamgnen": "object territory",
+                "Elementmgnen": "handrails on stairs available",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10608758,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "lift",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10609023,
+                "Groupmgnen": "sight-disabled person",
+                "Areamgnen": "object territory",
+                "Elementmgnen": "tactile strip in front of the stairs",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10609114,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "entrance group",
+                "Elementmgnen": "the width of the front door",
+                "availabledegreeen": "completely",
+                "availableindexen": "match"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10609115,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "ramp with handrails and slope",
+                "availabledegreeen": "completely",
+                "availableindexen": "match"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10609116,
+                "Groupmgnen": "person with locomotive disability",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "handrails on stairs available",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10609730,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "entrance group",
+                "Elementmgnen": "information signs",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10610190,
+                "Groupmgnen": "sight-disabled person",
+                "Areamgnen": "area of service provision",
+                "Elementmgnen": "tactile media",
+                "availabledegreeen": "partly",
+                "availableindexen": "not available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10610367,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "object territory",
+                "Elementmgnen": "information signs",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10610368,
+                "Groupmgnen": "sight-disabled person",
+                "Areamgnen": "entrance group",
+                "Elementmgnen": "zero input",
+                "availabledegreeen": "completely",
+                "availableindexen": "not available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10610549,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "entrance group",
+                "Elementmgnen": "zero input",
+                "availabledegreeen": "completely",
+                "availableindexen": "not available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10610550,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "area of service provision",
+                "Elementmgnen": "the width of the door to the office",
+                "availabledegreeen": "completely",
+                "availableindexen": "match"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10610551,
+                "Groupmgnen": "person with locomotive disability",
+                "Areamgnen": "area of service provision",
+                "Elementmgnen": "seating area dimensions (depth)",
+                "availabledegreeen": "completely",
+                "availableindexen": "match"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10610586,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "lane width",
+                "availabledegreeen": "completely",
+                "availableindexen": "match"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10610587,
+                "Groupmgnen": "person with locomotive disability",
+                "Areamgnen": "object territory",
+                "Elementmgnen": "parking space for disabled",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10610960,
+                "Groupmgnen": "sight-disabled person",
+                "Areamgnen": "wc",
+                "Elementmgnen": "tactile indication bathrooms",
+                "availabledegreeen": "partly",
+                "availableindexen": "not available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10611141,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "wc",
+                "Elementmgnen": "door width",
+                "availabledegreeen": "completely",
+                "availableindexen": "match"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10611142,
+                "Groupmgnen": "person with locomotive disability",
+                "Areamgnen": "wc",
+                "Elementmgnen": "handrail at the sink",
+                "availabledegreeen": "partly",
+                "availableindexen": "does not match"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10611396,
+                "Groupmgnen": "person with locomotive disability",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "lift",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10611914,
+                "Groupmgnen": "person with locomotive disability",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "stairs to the movement",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10612022,
+                "Groupmgnen": "person with locomotive disability",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "lane width",
+                "availabledegreeen": "completely",
+                "availableindexen": "match"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10612510,
+                "Groupmgnen": "person with locomotive disability",
+                "Areamgnen": "area of service provision",
+                "Elementmgnen": "lane width (serving displacement)",
+                "availabledegreeen": "completely",
+                "availableindexen": "match"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10612904,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "wc",
+                "Elementmgnen": "area next to the toilet",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10613074,
+                "Groupmgnen": "sight-disabled person",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "stairs to the movement",
+                "availabledegreeen": "partly",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10613113,
+                "Groupmgnen": "person with locomotive disability",
+                "Areamgnen": "object territory",
+                "Elementmgnen": "barrier-free path to the main entrance",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10613134,
+                "Groupmgnen": "sight-disabled person",
+                "Areamgnen": "object territory",
+                "Elementmgnen": "handrails on stairs available",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10619409,
+                "Groupmgnen": "person with hearing disabilities",
+                "Areamgnen": "area of service provision",
+                "Elementmgnen": "visual media to provide services",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10619438,
+                "Groupmgnen": "person with hearing disabilities",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "the presence of inscriptions",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10619451,
+                "Groupmgnen": "person with hearing disabilities",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "signposting, pictograms",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              }
+            ]
+          }
+        ],
+        "ObjectAddressenglobalid0": 476533,
+        "PublicPhoneenisdeleted0": 0,
+        "PublicPhoneenPublicPhoneen0": "(495) 495-63-91",
+        "PublicPhoneenglobalid0": 48231,
+        "WorkingHoursenisdeleted0": 0,
+        "WorkingHoursenDayWeeken0": "monday",
+        "WorkingHoursenWorkHoursen0": "круглосуточно",
+        "WorkingHoursenglobalid0": 3286387,
+        "WorkingHoursenisdeleted1": 0,
+        "WorkingHoursenDayWeeken1": "tuesday",
+        "WorkingHoursenWorkHoursen1": "круглосуточно",
+        "WorkingHoursenglobalid1": 3286874,
+        "WorkingHoursenisdeleted2": 0,
+        "WorkingHoursenDayWeeken2": "wednesday",
+        "WorkingHoursenWorkHoursen2": "круглосуточно",
+        "WorkingHoursenglobalid2": 3286386,
+        "WorkingHoursenisdeleted3": 0,
+        "WorkingHoursenDayWeeken3": "thursday",
+        "WorkingHoursenWorkHoursen3": "круглосуточно",
+        "WorkingHoursenglobalid3": 3284748,
+        "WorkingHoursenisdeleted4": 0,
+        "WorkingHoursenDayWeeken4": "friday",
+        "WorkingHoursenWorkHoursen4": "круглосуточно",
+        "WorkingHoursenglobalid4": 3284477,
+        "WorkingHoursenisdeleted5": 0,
+        "WorkingHoursenDayWeeken5": "saturday",
+        "WorkingHoursenWorkHoursen5": "круглосуточно",
+        "WorkingHoursenglobalid5": 3287406,
+        "WorkingHoursenisdeleted6": 0,
+        "WorkingHoursenDayWeeken6": "sunday",
+        "WorkingHoursenWorkHoursen6": "круглосуточно",
+        "WorkingHoursenglobalid6": 3285666
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            37.830092677863,
+            55.800832098299
+          ]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "CommonNameen": "Пансионат для ветеранов труда № 19",
+        "FullNameen": "Государственное бюджетное учреждение города Москвы Пансионат для ветеранов труда № 19 Департамента труда и социальной защиты населения города Москвы",
+        "ShortNameen": "ГБУ ПВТ № 19",
+        "ChiefNameen": "Шматковский Владимир Федорович",
+        "ChiefPositionen": "директор",
+        "ClarificationWorkingHoursen": "режим работы администрации: понедельник-пятница 09.00–17.30",
+        "WebSiteen": "www.pvt19.ru",
+        "globalid": 641991353,
+        "OrgInfoenisdeleted0": 0,
+        "OrgInfoenFullNameen0": "Государственное бюджетное учреждение города Москвы Пансионат для ветеранов труда № 19 Департамента труда и социальной защиты населения города Москвы",
+        "OrgInfoenINNen0": "7719017976",
+        "OrgInfoenKPPen0": "771901001",
+        "OrgInfoenOGRNen0": "1037719010339",
+        "OrgInfoenLegalAddressen0": "105484, ГОРОД МОСКВА, УЛИЦА 16-Я ПАРКОВАЯ, 16",
+        "OrgInfoenChiefNameen0": "Шматковский Владимир Федорович",
+        "OrgInfoenChiefPositionen0": "директор",
+        "OrgInfoenChiefPhoneen0": [
+          {
+            "isdeleted": 0,
+            "globalid": 572737,
+            "ChiefPhoneen": "(499) 464-03-89"
+          }
+        ],
+        "OrgInfoenglobalid0": 469799,
+        "ObjectAddressenisdeleted0": 0,
+        "ObjectAddressenAdmAreaen0": "Vostochny'j administrativny'j okrug",
+        "ObjectAddressenDistricten0": "rajon Vostochnoe Izmajlovo",
+        "ObjectAddressenPostalCodeen0": "105484",
+        "ObjectAddressenAddressen0": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Восточное Измайлово, 16-я Парковая улица, дом 16",
+        "ObjectAddressenSocialServicesen0": "",
+        "ObjectAddressenAvailabilityen0": [
+          {
+            "isdeleted": 0,
+            "globalid": 296801,
+            "availableken": "completely",
+            "availableoen": "completely",
+            "availablezen": "partly",
+            "availablesen": "partly",
+            "availableelementen": [
+              {
+                "isdeleted": 0,
+                "globalid": 10606073,
+                "Groupmgnen": "sight-disabled person",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "handrails on stairs available",
+                "availabledegreeen": "partly",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10606478,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "area of service provision",
+                "Elementmgnen": "service through a window / counter",
+                "availabledegreeen": "completely",
+                "availableindexen": "match"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10606856,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "object territory",
+                "Elementmgnen": "parking space for disabled",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10607450,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "wc",
+                "Elementmgnen": "dimensions of the cabin",
+                "availabledegreeen": "completely",
+                "availableindexen": "match"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10607451,
+                "Groupmgnen": "sight-disabled person",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "stairs to the movement",
+                "availabledegreeen": "partly",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10607491,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "entrance group",
+                "Elementmgnen": "information signs",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10607492,
+                "Groupmgnen": "sight-disabled person",
+                "Areamgnen": "wc",
+                "Elementmgnen": "tactile indication bathrooms",
+                "availabledegreeen": "partly",
+                "availableindexen": "not available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10607789,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "lift platforms (mobile stair lifts)",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10608197,
+                "Groupmgnen": "sight-disabled person",
+                "Areamgnen": "entrance group",
+                "Elementmgnen": "zero input",
+                "availabledegreeen": "partly",
+                "availableindexen": "not available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10608438,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "wc",
+                "Elementmgnen": "door width",
+                "availabledegreeen": "completely",
+                "availableindexen": "match"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10608756,
+                "Groupmgnen": "person with locomotive disability",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "lift",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10609022,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "entrance group",
+                "Elementmgnen": "lift platforms (mobile stair lifts)",
+                "availabledegreeen": "completely",
+                "availableindexen": "not available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10609255,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "lane width",
+                "availabledegreeen": "completely",
+                "availableindexen": "match"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10609256,
+                "Groupmgnen": "person with hearing disabilities",
+                "Areamgnen": "area of service provision",
+                "Elementmgnen": "places for people with hearing disabilities in the hall",
+                "availabledegreeen": "partly",
+                "availableindexen": "not available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10609267,
+                "Groupmgnen": "person with locomotive disability",
+                "Areamgnen": "entrance group",
+                "Elementmgnen": "zero input",
+                "availabledegreeen": "completely",
+                "availableindexen": "not available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10609268,
+                "Groupmgnen": "person with locomotive disability",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "handrails on stairs available",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10609269,
+                "Groupmgnen": "person with hearing disabilities",
+                "Areamgnen": "area of service provision",
+                "Elementmgnen": "visual media to provide services",
+                "availabledegreeen": "partly",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10609298,
+                "Groupmgnen": "person with locomotive disability",
+                "Areamgnen": "wc",
+                "Elementmgnen": "handrail at the sink",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10609696,
+                "Groupmgnen": "person with locomotive disability",
+                "Areamgnen": "area of service provision",
+                "Elementmgnen": "seating area dimensions (depth)",
+                "availabledegreeen": "completely",
+                "availableindexen": "match"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10610182,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "stairs to the movement",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10610230,
+                "Groupmgnen": "person with locomotive disability",
+                "Areamgnen": "entrance group",
+                "Elementmgnen": "handrails on stairs available",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10610231,
+                "Groupmgnen": "person with locomotive disability",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "stairs to the movement",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10610345,
+                "Groupmgnen": "sight-disabled person",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "contrast marking steps",
+                "availabledegreeen": "partly",
+                "availableindexen": "not available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10610456,
+                "Groupmgnen": "person with locomotive disability",
+                "Areamgnen": "object territory",
+                "Elementmgnen": "barrier-free path to the main entrance",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10610533,
+                "Groupmgnen": "person with hearing disabilities",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "the presence of inscriptions",
+                "availabledegreeen": "completely",
+                "availableindexen": "not available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10610544,
+                "Groupmgnen": "person with locomotive disability",
+                "Areamgnen": "object territory",
+                "Elementmgnen": "parking space for disabled",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10610756,
+                "Groupmgnen": "person with locomotive disability",
+                "Areamgnen": "wc",
+                "Elementmgnen": "handrails at toilet",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10610990,
+                "Groupmgnen": "sight-disabled person",
+                "Areamgnen": "entrance group",
+                "Elementmgnen": "tactile strip in front of the entrance stairs",
+                "availabledegreeen": "partly",
+                "availableindexen": "not available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10611136,
+                "Groupmgnen": "person with hearing disabilities",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "signposting, pictograms",
+                "availabledegreeen": "partly",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10611389,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "lift",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10611540,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "entrance group",
+                "Elementmgnen": "zero input",
+                "availabledegreeen": "completely",
+                "availableindexen": "not available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10611541,
+                "Groupmgnen": "sight-disabled person",
+                "Areamgnen": "object territory",
+                "Elementmgnen": "barrier-free path to the main entrance",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10611815,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "wc",
+                "Elementmgnen": "area next to the toilet",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10611816,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "wc",
+                "Elementmgnen": "the sink area for wheelchairs",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10611909,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "area of service provision",
+                "Elementmgnen": "the width of the door to the office",
+                "availabledegreeen": "completely",
+                "availableindexen": "match"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10611997,
+                "Groupmgnen": "sight-disabled person",
+                "Areamgnen": "area of service provision",
+                "Elementmgnen": "tactile media",
+                "availabledegreeen": "partly",
+                "availableindexen": "not available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10612264,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "entrance group",
+                "Elementmgnen": "the width of the front door",
+                "availabledegreeen": "completely",
+                "availableindexen": "match"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10612485,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "object territory",
+                "Elementmgnen": "barrier-free path to the main entrance",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10612630,
+                "Groupmgnen": "person with locomotive disability",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "lane width",
+                "availabledegreeen": "completely",
+                "availableindexen": "match"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10612882,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "area of service provision",
+                "Elementmgnen": "space for wheelchair users in the hall",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10613058,
+                "Groupmgnen": "person with hearing disabilities",
+                "Areamgnen": "object territory",
+                "Elementmgnen": "direction indicator",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10613129,
+                "Groupmgnen": "sight-disabled person",
+                "Areamgnen": "entrance group",
+                "Elementmgnen": "handrails on stairs available",
+                "availabledegreeen": "partly",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10613208,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "object territory",
+                "Elementmgnen": "information signs",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10613358,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "entrance group",
+                "Elementmgnen": "ramp with handrails and slope",
+                "availabledegreeen": "completely",
+                "availableindexen": "match"
+              }
+            ]
+          }
+        ],
+        "ObjectAddressenglobalid0": 476855,
+        "PublicPhoneenisdeleted0": 0,
+        "PublicPhoneenPublicPhoneen0": "(499) 464-03-89",
+        "PublicPhoneenglobalid0": 48230,
+        "WorkingHoursenisdeleted0": 0,
+        "WorkingHoursenDayWeeken0": "monday",
+        "WorkingHoursenWorkHoursen0": "круглосуточно",
+        "WorkingHoursenglobalid0": 3287111,
+        "WorkingHoursenisdeleted1": 0,
+        "WorkingHoursenDayWeeken1": "tuesday",
+        "WorkingHoursenWorkHoursen1": "круглосуточно",
+        "WorkingHoursenglobalid1": 3287351,
+        "WorkingHoursenisdeleted2": 0,
+        "WorkingHoursenDayWeeken2": "wednesday",
+        "WorkingHoursenWorkHoursen2": "круглосуточно",
+        "WorkingHoursenglobalid2": 3285354,
+        "WorkingHoursenisdeleted3": 0,
+        "WorkingHoursenDayWeeken3": "thursday",
+        "WorkingHoursenWorkHoursen3": "круглосуточно",
+        "WorkingHoursenglobalid3": 3285832,
+        "WorkingHoursenisdeleted4": 0,
+        "WorkingHoursenDayWeeken4": "friday",
+        "WorkingHoursenWorkHoursen4": "круглосуточно",
+        "WorkingHoursenglobalid4": 3287477,
+        "WorkingHoursenisdeleted5": 0,
+        "WorkingHoursenDayWeeken5": "saturday",
+        "WorkingHoursenWorkHoursen5": "круглосуточно",
+        "WorkingHoursenglobalid5": 3284889,
+        "WorkingHoursenisdeleted6": 0,
+        "WorkingHoursenDayWeeken6": "sunday",
+        "WorkingHoursenWorkHoursen6": "круглосуточно",
+        "WorkingHoursenglobalid6": 3284631
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            37.4745050871056,
+            55.7174618125044
+          ]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "CommonNameen": "Государственное бюджетное учреждение города Москвы Пансионат для ветеранов труда № 29 Департамента труда и социальной защиты населения города Москвы",
+        "FullNameen": "Государственное бюджетное учреждение города Москвы Пансионат для ветеранов труда № 29 Департамента труда и социальной защиты населения города Москвы",
+        "ShortNameen": "ГБУ ПВТ № 29",
+        "ChiefNameen": "Бунин Артур Викторович",
+        "ChiefPositionen": "директор",
+        "ClarificationWorkingHoursen": "режим работы администрации: \nпонедельник – четверг с 09:00 до 18:00, \nпятница с 09:00 до 16:45, \nобед с 14:00 до 14:45",
+        "WebSiteen": "pvt29.ru",
+        "globalid": 641991391,
+        "OrgInfoenisdeleted0": 0,
+        "OrgInfoenFullNameen0": "Государственное бюджетное учреждение города Москвы Пансионат для ветеранов труда № 29 Департамента труда и социальной защиты населения города Москвы",
+        "OrgInfoenINNen0": "7729046172",
+        "OrgInfoenKPPen0": "772901001",
+        "OrgInfoenOGRNen0": "1027700493809",
+        "OrgInfoenLegalAddressen0": "119501, ГОРОД МОСКВА, УЛИЦА НЕЖИНСКАЯ, ДОМ 2",
+        "OrgInfoenChiefNameen0": "Бунин Артур Викторович",
+        "OrgInfoenChiefPositionen0": "директор",
+        "OrgInfoenChiefPhoneen0": [
+          {
+            "isdeleted": 0,
+            "globalid": 572435,
+            "ChiefPhoneen": "(495) 442-54-91"
+          }
+        ],
+        "OrgInfoenglobalid0": 470000,
+        "ObjectAddressenisdeleted0": 0,
+        "ObjectAddressenAdmAreaen0": "Zapadny'j administrativny'j okrug",
+        "ObjectAddressenDistricten0": "rajon Ochakovo-Matveevskoe",
+        "ObjectAddressenPostalCodeen0": "119501",
+        "ObjectAddressenAddressen0": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Очаково-Матвеевское, Нежинская улица, дом 2",
+        "ObjectAddressenSocialServicesen0": "",
+        "ObjectAddressenAvailabilityen0": [
+          {
+            "isdeleted": 0,
+            "globalid": 296678,
+            "availableken": "partly",
+            "availableoen": "partly",
+            "availablezen": "partly",
+            "availablesen": "partly",
+            "availableelementen": [
+              {
+                "isdeleted": 0,
+                "globalid": 10605859,
+                "Groupmgnen": "sight-disabled person",
+                "Areamgnen": "wc",
+                "Elementmgnen": "tactile indication bathrooms",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10606126,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "area of service provision",
+                "Elementmgnen": "lane width (serving displacement)",
+                "availabledegreeen": "completely",
+                "availableindexen": "match"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10606127,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "wc",
+                "Elementmgnen": "dimensions of the cabin",
+                "availabledegreeen": "completely",
+                "availableindexen": "match"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10606144,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "lift",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10606145,
+                "Groupmgnen": "person with locomotive disability",
+                "Areamgnen": "wc",
+                "Elementmgnen": "handrail at the sink",
+                "availabledegreeen": "partly",
+                "availableindexen": "not available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10606457,
+                "Groupmgnen": "sight-disabled person",
+                "Areamgnen": "area of service provision",
+                "Elementmgnen": "tactile media",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10606526,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "object territory",
+                "Elementmgnen": "information signs",
+                "availabledegreeen": "partly",
+                "availableindexen": "not available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10606527,
+                "Groupmgnen": "person with locomotive disability",
+                "Areamgnen": "entrance group",
+                "Elementmgnen": "zero input",
+                "availabledegreeen": "completely",
+                "availableindexen": "not available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10606960,
+                "Groupmgnen": "sight-disabled person",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "handrails on stairs available",
+                "availabledegreeen": "partly",
+                "availableindexen": "does not match"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10607536,
+                "Groupmgnen": "sight-disabled person",
+                "Areamgnen": "object territory",
+                "Elementmgnen": "barrier-free path to the main entrance",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10607818,
+                "Groupmgnen": "person with locomotive disability",
+                "Areamgnen": "entrance group",
+                "Elementmgnen": "handrails on stairs available",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10608104,
+                "Groupmgnen": "person with locomotive disability",
+                "Areamgnen": "wc",
+                "Elementmgnen": "handrails at toilet",
+                "availabledegreeen": "partly",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10608372,
+                "Groupmgnen": "sight-disabled person",
+                "Areamgnen": "object territory",
+                "Elementmgnen": "handrails on stairs available",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10608388,
+                "Groupmgnen": "person with locomotive disability",
+                "Areamgnen": "area of service provision",
+                "Elementmgnen": "handrails on stairs available",
+                "availabledegreeen": "partly",
+                "availableindexen": "does not match"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10608389,
+                "Groupmgnen": "sight-disabled person",
+                "Areamgnen": "entrance group",
+                "Elementmgnen": "zero input",
+                "availabledegreeen": "completely",
+                "availableindexen": "not available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10608482,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "lane width",
+                "availabledegreeen": "completely",
+                "availableindexen": "match"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10608573,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "lift platforms (mobile stair lifts)",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10608920,
+                "Groupmgnen": "person with locomotive disability",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "lane width",
+                "availabledegreeen": "partly",
+                "availableindexen": "match"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10609028,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "wc",
+                "Elementmgnen": "area next to the toilet",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10609317,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "object territory",
+                "Elementmgnen": "barrier-free path to the main entrance",
+                "availabledegreeen": "partly",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10609318,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "entrance group",
+                "Elementmgnen": "zero input",
+                "availabledegreeen": "completely",
+                "availableindexen": "not available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10609319,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "entrance group",
+                "Elementmgnen": "the width of the front door",
+                "availabledegreeen": "completely",
+                "availableindexen": "match"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10609320,
+                "Groupmgnen": "sight-disabled person",
+                "Areamgnen": "entrance group",
+                "Elementmgnen": "handrails on stairs available",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10610197,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "stairs to the movement",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10610466,
+                "Groupmgnen": "sight-disabled person",
+                "Areamgnen": "entrance group",
+                "Elementmgnen": "tactile strip in front of the entrance stairs",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10610766,
+                "Groupmgnen": "person with hearing disabilities",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "contrast marking steps",
+                "availabledegreeen": "partly",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10610780,
+                "Groupmgnen": "sight-disabled person",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "stairs to the movement",
+                "availabledegreeen": "partly",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10610996,
+                "Groupmgnen": "person with locomotive disability",
+                "Areamgnen": "object territory",
+                "Elementmgnen": "parking space for disabled",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10611185,
+                "Groupmgnen": "person with locomotive disability",
+                "Areamgnen": "area of service provision",
+                "Elementmgnen": "seating area dimensions (depth)",
+                "availabledegreeen": "completely",
+                "availableindexen": "match"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10611847,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "area of service provision",
+                "Elementmgnen": "the width of the door to the office",
+                "availabledegreeen": "completely",
+                "availableindexen": "match"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10611921,
+                "Groupmgnen": "person with locomotive disability",
+                "Areamgnen": "object territory",
+                "Elementmgnen": "barrier-free path to the main entrance",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10612030,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "entrance group",
+                "Elementmgnen": "information signs",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10612091,
+                "Groupmgnen": "person with locomotive disability",
+                "Areamgnen": "object territory",
+                "Elementmgnen": "handrails on stairs available",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10612292,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "entrance group",
+                "Elementmgnen": "ramp with handrails and slope",
+                "availabledegreeen": "completely",
+                "availableindexen": "match"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10612293,
+                "Groupmgnen": "person with locomotive disability",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "lift",
+                "availabledegreeen": "partly",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10612331,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "area of service provision",
+                "Elementmgnen": "service through a window / counter",
+                "availabledegreeen": "completely",
+                "availableindexen": "match"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10612332,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "area of service provision",
+                "Elementmgnen": "space for wheelchair users in the hall",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10612466,
+                "Groupmgnen": "person with locomotive disability",
+                "Areamgnen": "area of service provision",
+                "Elementmgnen": "lane width (serving displacement)",
+                "availabledegreeen": "completely",
+                "availableindexen": "match"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10612791,
+                "Groupmgnen": "sight-disabled person",
+                "Areamgnen": "object territory",
+                "Elementmgnen": "tactile strip in front of the stairs",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10612910,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "wc",
+                "Elementmgnen": "the sink area for wheelchairs",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10613138,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "object territory",
+                "Elementmgnen": "parking space for disabled",
+                "availabledegreeen": "partly",
+                "availableindexen": "not available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10613139,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "wc",
+                "Elementmgnen": "door width",
+                "availabledegreeen": "completely",
+                "availableindexen": "match"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10613225,
+                "Groupmgnen": "person with locomotive disability",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "stairs to the movement",
+                "availabledegreeen": "partly",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10619328,
+                "Groupmgnen": "person with hearing disabilities",
+                "Areamgnen": "object territory",
+                "Elementmgnen": "direction indicator",
+                "availabledegreeen": "partly",
+                "availableindexen": "not available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10619329,
+                "Groupmgnen": "person with hearing disabilities",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "the presence of inscriptions",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10619330,
+                "Groupmgnen": "person with hearing disabilities",
+                "Areamgnen": "area of service provision",
+                "Elementmgnen": "visual media to provide services",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10619331,
+                "Groupmgnen": "person with hearing disabilities",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "signposting, pictograms",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              }
+            ]
+          }
+        ],
+        "ObjectAddressenglobalid0": 476628,
+        "PublicPhoneenisdeleted0": 0,
+        "PublicPhoneenPublicPhoneen0": "(495) 442-54-91",
+        "PublicPhoneenglobalid0": 48394,
+        "WorkingHoursenisdeleted0": 0,
+        "WorkingHoursenDayWeeken0": "monday",
+        "WorkingHoursenWorkHoursen0": "круглосуточно",
+        "WorkingHoursenglobalid0": 3285759,
+        "WorkingHoursenisdeleted1": 0,
+        "WorkingHoursenDayWeeken1": "tuesday",
+        "WorkingHoursenWorkHoursen1": "круглосуточно",
+        "WorkingHoursenglobalid1": 3284216,
+        "WorkingHoursenisdeleted2": 0,
+        "WorkingHoursenDayWeeken2": "wednesday",
+        "WorkingHoursenWorkHoursen2": "круглосуточно",
+        "WorkingHoursenglobalid2": 3286875,
+        "WorkingHoursenisdeleted3": 0,
+        "WorkingHoursenDayWeeken3": "thursday",
+        "WorkingHoursenWorkHoursen3": "круглосуточно",
+        "WorkingHoursenglobalid3": 3286495,
+        "WorkingHoursenisdeleted4": 0,
+        "WorkingHoursenDayWeeken4": "friday",
+        "WorkingHoursenWorkHoursen4": "круглосуточно",
+        "WorkingHoursenglobalid4": 3285551,
+        "WorkingHoursenisdeleted5": 0,
+        "WorkingHoursenDayWeeken5": "saturday",
+        "WorkingHoursenWorkHoursen5": "круглосуточно",
+        "WorkingHoursenglobalid5": 3287134,
+        "WorkingHoursenisdeleted6": 0,
+        "WorkingHoursenDayWeeken6": "sunday",
+        "WorkingHoursenWorkHoursen6": "круглосуточно",
+        "WorkingHoursenglobalid6": 3287200
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            37.5042138300858,
+            55.6300237972096
+          ]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "CommonNameen": "ГБУ ПВВ «Коньково»",
+        "FullNameen": "Государственное бюджетное учреждение города Москвы Пансионат «Коньково» для ветеранов войны Департамента труда и социальной защиты населения города Москвы",
+        "ShortNameen": "ГБУ ПВВ «Коньково»",
+        "ChiefNameen": "Михайличенко Галина Ивановна",
+        "ChiefPositionen": "директор",
+        "ClarificationWorkingHoursen": "режим работы администрации: понедельник-четверг: 08:00-16:45; пятница: 08:00-15:30",
+        "WebSiteen": "pvvkonkovo.ru",
+        "globalid": 641991423,
+        "OrgInfoenisdeleted0": 0,
+        "OrgInfoenFullNameen0": "Государственное бюджетное учреждение города Москвы Пансионат «Коньково» для ветеранов войны Департамента труда и социальной защиты населения города Москвы",
+        "OrgInfoenINNen0": "7728019708",
+        "OrgInfoenKPPen0": "772801001",
+        "OrgInfoenOGRNen0": "1037739594991",
+        "OrgInfoenLegalAddressen0": "117321, ГОРОД МОСКВА, УЛИЦА ПРОФСОЮЗНАЯ, ДОМ 140, КОРПУС 6",
+        "OrgInfoenChiefNameen0": "Михайличенко Галина Ивановна",
+        "OrgInfoenChiefPositionen0": "директор",
+        "OrgInfoenChiefPhoneen0": [
+          {
+            "isdeleted": 0,
+            "globalid": 572626,
+            "ChiefPhoneen": "(495) 339-91-97"
+          }
+        ],
+        "OrgInfoenglobalid0": 469636,
+        "ObjectAddressenisdeleted0": 0,
+        "ObjectAddressenAdmAreaen0": "Yugo-Zapadny'j administrativny'j okrug",
+        "ObjectAddressenDistricten0": "rajon Tyoply'j Stan",
+        "ObjectAddressenPostalCodeen0": "117321",
+        "ObjectAddressenAddressen0": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Теплый Стан, Профсоюзная улица, дом 140, корпус 6",
+        "ObjectAddressenSocialServicesen0": "",
+        "ObjectAddressenAvailabilityen0": [
+          {
+            "isdeleted": 0,
+            "globalid": 296847,
+            "availableken": "completely",
+            "availableoen": "completely",
+            "availablezen": "partly",
+            "availablesen": "completely",
+            "availableelementen": [
+              {
+                "isdeleted": 0,
+                "globalid": 10605887,
+                "Groupmgnen": "person with locomotive disability",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "lift",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10606272,
+                "Groupmgnen": "person with hearing disabilities",
+                "Areamgnen": "area of service provision",
+                "Elementmgnen": "visual media to provide services",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10606636,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "object territory",
+                "Elementmgnen": "parking space for disabled",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10606899,
+                "Groupmgnen": "sight-disabled person",
+                "Areamgnen": "wc",
+                "Elementmgnen": "tactile indication bathrooms",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10607069,
+                "Groupmgnen": "person with locomotive disability",
+                "Areamgnen": "object territory",
+                "Elementmgnen": "handrails on stairs available",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10607070,
+                "Groupmgnen": "person with locomotive disability",
+                "Areamgnen": "wc",
+                "Elementmgnen": "handrail at the sink",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10607592,
+                "Groupmgnen": "person with locomotive disability",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "lane width",
+                "availabledegreeen": "completely",
+                "availableindexen": "match"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10607828,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "lane width",
+                "availabledegreeen": "completely",
+                "availableindexen": "match"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10607829,
+                "Groupmgnen": "sight-disabled person",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "handrails on stairs available",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10607932,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "entrance group",
+                "Elementmgnen": "zero input",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10607933,
+                "Groupmgnen": "person with hearing disabilities",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "the presence of inscriptions",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10608143,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "lift",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10608144,
+                "Groupmgnen": "person with hearing disabilities",
+                "Areamgnen": "area of service provision",
+                "Elementmgnen": "places for people with hearing disabilities in the hall",
+                "availabledegreeen": "completely",
+                "availableindexen": "not available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10608170,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "ramp with handrails and slope",
+                "availabledegreeen": "completely",
+                "availableindexen": "match"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10608517,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "entrance group",
+                "Elementmgnen": "information signs",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10609074,
+                "Groupmgnen": "person with locomotive disability",
+                "Areamgnen": "wc",
+                "Elementmgnen": "handrails at toilet",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10609075,
+                "Groupmgnen": "sight-disabled person",
+                "Areamgnen": "object territory",
+                "Elementmgnen": "barrier-free path to the main entrance",
+                "availabledegreeen": "partly",
+                "availableindexen": "not available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10609076,
+                "Groupmgnen": "sight-disabled person",
+                "Areamgnen": "object territory",
+                "Elementmgnen": "handrails on stairs available",
+                "availabledegreeen": "partly",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10609343,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "wc",
+                "Elementmgnen": "door width",
+                "availabledegreeen": "completely",
+                "availableindexen": "match"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10609344,
+                "Groupmgnen": "person with locomotive disability",
+                "Areamgnen": "entrance group",
+                "Elementmgnen": "zero input",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10609345,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "area of service provision",
+                "Elementmgnen": "the width of the door to the office",
+                "availabledegreeen": "completely",
+                "availableindexen": "match"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10609427,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "area of service provision",
+                "Elementmgnen": "service through a window / counter",
+                "availabledegreeen": "completely",
+                "availableindexen": "match"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10609810,
+                "Groupmgnen": "sight-disabled person",
+                "Areamgnen": "entrance group",
+                "Elementmgnen": "zero input",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10610226,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "wc",
+                "Elementmgnen": "dimensions of the cabin",
+                "availabledegreeen": "completely",
+                "availableindexen": "match"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10610381,
+                "Groupmgnen": "person with locomotive disability",
+                "Areamgnen": "object territory",
+                "Elementmgnen": "barrier-free path to the main entrance",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10610634,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "entrance group",
+                "Elementmgnen": "the width of the front door",
+                "availabledegreeen": "completely",
+                "availableindexen": "match"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10611172,
+                "Groupmgnen": "person with locomotive disability",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "handrails on stairs available",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10611173,
+                "Groupmgnen": "person with hearing disabilities",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "signposting, pictograms",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10611272,
+                "Groupmgnen": "sight-disabled person",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "stairs to the movement",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10611374,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "stairs to the movement",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10611505,
+                "Groupmgnen": "sight-disabled person",
+                "Areamgnen": "area of service provision",
+                "Elementmgnen": "tactile media",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10611713,
+                "Groupmgnen": "person with hearing disabilities",
+                "Areamgnen": "object territory",
+                "Elementmgnen": "direction indicator",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10612141,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "wc",
+                "Elementmgnen": "area next to the toilet",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10612299,
+                "Groupmgnen": "person with locomotive disability",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "stairs to the movement",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10612300,
+                "Groupmgnen": "sight-disabled person",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "contrast marking steps",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10612367,
+                "Groupmgnen": "sight-disabled person",
+                "Areamgnen": "object territory",
+                "Elementmgnen": "tactile strip in front of the stairs",
+                "availabledegreeen": "partly",
+                "availableindexen": "not available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10612401,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "wc",
+                "Elementmgnen": "the sink area for wheelchairs",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10612402,
+                "Groupmgnen": "person with locomotive disability",
+                "Areamgnen": "area of service provision",
+                "Elementmgnen": "seating area dimensions (depth)",
+                "availabledegreeen": "completely",
+                "availableindexen": "match"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10612839,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "object territory",
+                "Elementmgnen": "information signs",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10613089,
+                "Groupmgnen": "person with locomotive disability",
+                "Areamgnen": "object territory",
+                "Elementmgnen": "parking space for disabled",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10613190,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "object territory",
+                "Elementmgnen": "barrier-free path to the main entrance",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              }
+            ]
+          }
+        ],
+        "ObjectAddressenglobalid0": 476725,
+        "PublicPhoneenisdeleted0": 0,
+        "PublicPhoneenPublicPhoneen0": "(495) 339-91-97",
+        "PublicPhoneenglobalid0": 48287,
+        "WorkingHoursenisdeleted0": 0,
+        "WorkingHoursenDayWeeken0": "monday",
+        "WorkingHoursenWorkHoursen0": "круглосуточно",
+        "WorkingHoursenglobalid0": 3286584,
+        "WorkingHoursenisdeleted1": 0,
+        "WorkingHoursenDayWeeken1": "tuesday",
+        "WorkingHoursenWorkHoursen1": "круглосуточно",
+        "WorkingHoursenglobalid1": 3285196,
+        "WorkingHoursenisdeleted2": 0,
+        "WorkingHoursenDayWeeken2": "wednesday",
+        "WorkingHoursenWorkHoursen2": "круглосуточно",
+        "WorkingHoursenglobalid2": 3285195,
+        "WorkingHoursenisdeleted3": 0,
+        "WorkingHoursenDayWeeken3": "thursday",
+        "WorkingHoursenWorkHoursen3": "круглосуточно",
+        "WorkingHoursenglobalid3": 3286701,
+        "WorkingHoursenisdeleted4": 0,
+        "WorkingHoursenDayWeeken4": "friday",
+        "WorkingHoursenWorkHoursen4": "круглосуточно",
+        "WorkingHoursenglobalid4": 3287133,
+        "WorkingHoursenisdeleted5": 0,
+        "WorkingHoursenDayWeeken5": "saturday",
+        "WorkingHoursenWorkHoursen5": "круглосуточно",
+        "WorkingHoursenglobalid5": 3286583,
+        "WorkingHoursenisdeleted6": 0,
+        "WorkingHoursenDayWeeken6": "sunday",
+        "WorkingHoursenWorkHoursen6": "круглосуточно",
+        "WorkingHoursenglobalid6": 3285597
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            37.5008748645841,
+            55.6395855306103
+          ]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "CommonNameen": "Пансионат для ветеранов труда № 6",
+        "FullNameen": "Государственное бюджетное учреждение города Москвы Пансионат для ветеранов труда № 6 Департамента труда и социальной защиты населения города Москвы",
+        "ShortNameen": "ГБУ ПВТ № 6",
+        "ChiefNameen": "Ситеева Светлана Валерьевна",
+        "ChiefPositionen": "директор",
+        "ClarificationWorkingHoursen": "Режим работы администрации:\nПн-Чт: 09:00-17:45;\nПт: 09:00-16:30;\nОбед: 13:00-13:30;\nСуббота и воскресенье - выходные.\n\nПриемные дни в пансионате:\nПн-Чт: с 10:00 до 12:00 и с 14:00 до 16:00.",
+        "WebSiteen": "www.pvt6.ru",
+        "globalid": 641991478,
+        "OrgInfoenisdeleted0": 0,
+        "OrgInfoenFullNameen0": "Государственное бюджетное учреждение города Москвы Пансионат для ветеранов труда № 6 Департамента труда и социальной защиты населения города Москвы",
+        "OrgInfoenINNen0": "7728085002",
+        "OrgInfoenKPPen0": "772801001",
+        "OrgInfoenOGRNen0": "1037700104276",
+        "OrgInfoenLegalAddressen0": "117513, ГОРОД МОСКВА, УЛИЦА ОСТРОВИТЯНОВА, ДОМ 10",
+        "OrgInfoenChiefNameen0": "Ситеева Светлана Валерьевна",
+        "OrgInfoenChiefPositionen0": "директор",
+        "OrgInfoenChiefPhoneen0": [
+          {
+            "isdeleted": 0,
+            "globalid": 572606,
+            "ChiefPhoneen": "(495) 330-44-29"
+          }
+        ],
+        "OrgInfoenglobalid0": 469854,
+        "ObjectAddressenisdeleted0": 0,
+        "ObjectAddressenAdmAreaen0": "Yugo-Zapadny'j administrativny'j okrug",
+        "ObjectAddressenDistricten0": "rajon Tyoply'j Stan",
+        "ObjectAddressenPostalCodeen0": "117437",
+        "ObjectAddressenAddressen0": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Теплый Стан, улица Островитянова, дом 10, строение 1",
+        "ObjectAddressenSocialServicesen0": "",
+        "ObjectAddressenAvailabilityen0": [
+          {
+            "isdeleted": 0,
+            "globalid": 296704,
+            "availableken": "partly",
+            "availableoen": "completely",
+            "availablezen": "partly",
+            "availablesen": "completely",
+            "availableelementen": [
+              {
+                "isdeleted": 0,
+                "globalid": 10605879,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "wc",
+                "Elementmgnen": "door width",
+                "availabledegreeen": "partly",
+                "availableindexen": "match"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10606025,
+                "Groupmgnen": "person with locomotive disability",
+                "Areamgnen": "entrance group",
+                "Elementmgnen": "zero input",
+                "availabledegreeen": "completely",
+                "availableindexen": "not available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10606968,
+                "Groupmgnen": "person with locomotive disability",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "lane width",
+                "availabledegreeen": "completely",
+                "availableindexen": "match"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10606969,
+                "Groupmgnen": "sight-disabled person",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "contrast marking steps",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10607059,
+                "Groupmgnen": "person with locomotive disability",
+                "Areamgnen": "object territory",
+                "Elementmgnen": "parking space for disabled",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10607060,
+                "Groupmgnen": "sight-disabled person",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "stairs to the movement",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10607457,
+                "Groupmgnen": "person with hearing disabilities",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "signposting, pictograms",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10607992,
+                "Groupmgnen": "person with locomotive disability",
+                "Areamgnen": "object territory",
+                "Elementmgnen": "barrier-free path to the main entrance",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10607993,
+                "Groupmgnen": "sight-disabled person",
+                "Areamgnen": "area of service provision",
+                "Elementmgnen": "tactile media",
+                "availabledegreeen": "partly",
+                "availableindexen": "not available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10608412,
+                "Groupmgnen": "person with hearing disabilities",
+                "Areamgnen": "object territory",
+                "Elementmgnen": "direction indicator",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10608492,
+                "Groupmgnen": "sight-disabled person",
+                "Areamgnen": "wc",
+                "Elementmgnen": "tactile indication bathrooms",
+                "availabledegreeen": "partly",
+                "availableindexen": "not available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10608493,
+                "Groupmgnen": "person with hearing disabilities",
+                "Areamgnen": "area of service provision",
+                "Elementmgnen": "visual media to provide services",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10608551,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "area of service provision",
+                "Elementmgnen": "the width of the door to the office",
+                "availabledegreeen": "completely",
+                "availableindexen": "match"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10608559,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "stairs to the movement",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10608906,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "object territory",
+                "Elementmgnen": "information signs",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10609060,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "wc",
+                "Elementmgnen": "the sink area for wheelchairs",
+                "availabledegreeen": "partly",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10609704,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "wc",
+                "Elementmgnen": "area next to the toilet",
+                "availabledegreeen": "partly",
+                "availableindexen": "does not match"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10609774,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "entrance group",
+                "Elementmgnen": "lift platforms (mobile stair lifts)",
+                "availabledegreeen": "completely",
+                "availableindexen": "not available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10609888,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "entrance group",
+                "Elementmgnen": "ramp with handrails and slope",
+                "availabledegreeen": "completely",
+                "availableindexen": "match"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10609931,
+                "Groupmgnen": "person with locomotive disability",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "stairs to the movement",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10609932,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "entrance group",
+                "Elementmgnen": "information signs",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10610215,
+                "Groupmgnen": "person with locomotive disability",
+                "Areamgnen": "entrance group",
+                "Elementmgnen": "handrails on stairs available",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10610312,
+                "Groupmgnen": "person with locomotive disability",
+                "Areamgnen": "area of service provision",
+                "Elementmgnen": "seating area dimensions (depth)",
+                "availabledegreeen": "completely",
+                "availableindexen": "match"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10610313,
+                "Groupmgnen": "person with locomotive disability",
+                "Areamgnen": "wc",
+                "Elementmgnen": "handrails at toilet",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10610725,
+                "Groupmgnen": "person with locomotive disability",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "lift",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10610726,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "entrance group",
+                "Elementmgnen": "zero input",
+                "availabledegreeen": "completely",
+                "availableindexen": "not available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10610869,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "lift platforms (mobile stair lifts)",
+                "availabledegreeen": "completely",
+                "availableindexen": "not available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10610870,
+                "Groupmgnen": "sight-disabled person",
+                "Areamgnen": "entrance group",
+                "Elementmgnen": "tactile strip in front of the entrance stairs",
+                "availabledegreeen": "partly",
+                "availableindexen": "not available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10611163,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "wc",
+                "Elementmgnen": "dimensions of the cabin",
+                "availabledegreeen": "partly",
+                "availableindexen": "match"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10611651,
+                "Groupmgnen": "sight-disabled person",
+                "Areamgnen": "entrance group",
+                "Elementmgnen": "handrails on stairs available",
+                "availabledegreeen": "partly",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10611828,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "object territory",
+                "Elementmgnen": "parking space for disabled",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10612132,
+                "Groupmgnen": "person with locomotive disability",
+                "Areamgnen": "wc",
+                "Elementmgnen": "handrail at the sink",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10612273,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "object territory",
+                "Elementmgnen": "barrier-free path to the main entrance",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10612274,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "lane width",
+                "availabledegreeen": "completely",
+                "availableindexen": "match"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10612275,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "lift",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10612276,
+                "Groupmgnen": "sight-disabled person",
+                "Areamgnen": "entrance group",
+                "Elementmgnen": "zero input",
+                "availabledegreeen": "partly",
+                "availableindexen": "not available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10612725,
+                "Groupmgnen": "sight-disabled person",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "handrails on stairs available",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10612770,
+                "Groupmgnen": "sight-disabled person",
+                "Areamgnen": "object territory",
+                "Elementmgnen": "barrier-free path to the main entrance",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10612830,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "entrance group",
+                "Elementmgnen": "the width of the front door",
+                "availabledegreeen": "completely",
+                "availableindexen": "match"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10613231,
+                "Groupmgnen": "person with locomotive disability",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "handrails on stairs available",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10613298,
+                "Groupmgnen": "person with hearing disabilities",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "the presence of inscriptions",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              }
+            ]
+          }
+        ],
+        "ObjectAddressenglobalid0": 476709,
+        "PublicPhoneenisdeleted0": 0,
+        "PublicPhoneenPublicPhoneen0": "(495) 330-44-29",
+        "PublicPhoneenglobalid0": 48209,
+        "WorkingHoursenisdeleted0": 0,
+        "WorkingHoursenDayWeeken0": "monday",
+        "WorkingHoursenWorkHoursen0": "круглосуточно",
+        "WorkingHoursenglobalid0": 3287063,
+        "WorkingHoursenisdeleted1": 0,
+        "WorkingHoursenDayWeeken1": "tuesday",
+        "WorkingHoursenWorkHoursen1": "круглосуточно",
+        "WorkingHoursenglobalid1": 3284844,
+        "WorkingHoursenisdeleted2": 0,
+        "WorkingHoursenDayWeeken2": "wednesday",
+        "WorkingHoursenWorkHoursen2": "круглосуточно",
+        "WorkingHoursenglobalid2": 3285140,
+        "WorkingHoursenisdeleted3": 0,
+        "WorkingHoursenDayWeeken3": "thursday",
+        "WorkingHoursenWorkHoursen3": "круглосуточно",
+        "WorkingHoursenglobalid3": 3285353,
+        "WorkingHoursenisdeleted4": 0,
+        "WorkingHoursenDayWeeken4": "friday",
+        "WorkingHoursenWorkHoursen4": "круглосуточно",
+        "WorkingHoursenglobalid4": 3285867,
+        "WorkingHoursenisdeleted5": 0,
+        "WorkingHoursenDayWeeken5": "saturday",
+        "WorkingHoursenWorkHoursen5": "круглосуточно",
+        "WorkingHoursenglobalid5": 3285253,
+        "WorkingHoursenisdeleted6": 0,
+        "WorkingHoursenDayWeeken6": "sunday",
+        "WorkingHoursenWorkHoursen6": "круглосуточно",
+        "WorkingHoursenglobalid6": 3286582
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            37.7662563849269,
+            55.6847208244985
+          ]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "CommonNameen": "ГБУ Геронтологический центр «Люблино»",
+        "FullNameen": "Государственное бюджетное учреждение города Москвы Геронтологический центр «Люблино» Департамента труда и социальной защиты населения города Москвы",
+        "ShortNameen": "ГБУ Геронтологический центр «Люблино»",
+        "ChiefNameen": "Тягачева Елена Леонидовна",
+        "ChiefPositionen": "директор",
+        "ClarificationWorkingHoursen": "режим работы администрации: понедельник-пятница 09.00–17.30, обеденный перерыв 13.00-13.30",
+        "WebSiteen": "www.pvt17.ru",
+        "globalid": 641991519
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            37.5062606206758,
+            55.6335605778971
+          ]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "CommonNameen": "ГБУ Геронтологический центр «Юго-Западный»",
+        "FullNameen": "Государственное бюджетное учреждение города Москвы Геронтологический центр «Юго-Западный» Департамента труда и социальной защиты населения города Москвы",
+        "ShortNameen": "ГБУ Геронтологический центр «Юго-Западный»",
+        "ChiefNameen": "Мецлер Андрей Владимирович",
+        "ChiefPositionen": "директор",
+        "ClarificationWorkingHoursen": "Дни приема граждан на заселение: вт., чт. с 10:00 до 12:00 и с 14:00 до 16:00 (предварительная запись по телефону).Ознакомиться с условиями проживания можно в будние дни с 10:00 до 13:00 и с 14:00 до 16:00",
+        "WebSiteen": "www.pvt31.ru",
+        "globalid": 641991544
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            37.4547618974163,
+            55.8791451196674
+          ]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "CommonNameen": "Геронтологический центр «Левобережный»",
+        "FullNameen": "Государственное бюджетное учреждение города Москвы Геронтологический центр «Левобережный» Департамента труда и социальной защиты населения города Москвы",
+        "ShortNameen": "ГБУ Геронтологический центр «Левобережный»",
+        "ChiefNameen": "Шейхов Махач Расулович",
+        "ChiefPositionen": "директор",
+        "ClarificationWorkingHoursen": "Приемный день в администрации:\nПонедельник с 15:00 до 16:30\nДень открытых дверей:\nСреда с 11:00 до 16:00\n\nДни приема граждан на заселение в ГБУ ПВТ № 1\n(предварительная запись по телефону обязательна!)\nВторник, четверг\nс 09:30-12:00 и с 13:30- 15:00",
+        "WebSiteen": "pvt-1.ru",
+        "globalid": 641991598,
+        "OrgInfoenisdeleted0": 0,
+        "OrgInfoenFullNameen0": "Государственное бюджетное учреждение города Москвы Геронтологический центр «Левобережный» Департамента труда и социальной защиты населения города Москвы",
+        "OrgInfoenINNen0": "7712001712",
+        "OrgInfoenKPPen0": "774301001",
+        "OrgInfoenOGRNen0": "1037739373440",
+        "OrgInfoenLegalAddressen0": "125445, ГОРОД МОСКВА, УЛИЦА ПРАВОБЕРЕЖНАЯ, 4",
+        "OrgInfoenChiefNameen0": "Шейхов Махач Расулович",
+        "OrgInfoenChiefPositionen0": "директор",
+        "OrgInfoenChiefPhoneen0": [
+          {
+            "isdeleted": 0,
+            "globalid": 572867,
+            "ChiefPhoneen": "(495) 457-14-58"
+          }
+        ],
+        "OrgInfoenglobalid0": 469659,
+        "ObjectAddressenisdeleted0": 0,
+        "ObjectAddressenAdmAreaen0": "Severny'j administrativny'j okrug",
+        "ObjectAddressenDistricten0": "rajon Levoberezhny'j",
+        "ObjectAddressenPostalCodeen0": "125445",
+        "ObjectAddressenAddressen0": "город Москва, Правобережная улица, дом 4, корпус 1",
+        "ObjectAddressenSocialServicesen0": "",
+        "ObjectAddressenAvailabilityen0": [
+          {
+            "isdeleted": 0,
+            "globalid": 296803,
+            "availableken": "partly",
+            "availableoen": "completely",
+            "availablezen": "partly",
+            "availablesen": "partly",
+            "availableelementen": [
+              {
+                "isdeleted": 0,
+                "globalid": 10605856,
+                "Groupmgnen": "person with locomotive disability",
+                "Areamgnen": "object territory",
+                "Elementmgnen": "barrier-free path to the main entrance",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10605940,
+                "Groupmgnen": "person with locomotive disability",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "handrails on stairs available",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10606139,
+                "Groupmgnen": "person with hearing disabilities",
+                "Areamgnen": "area of service provision",
+                "Elementmgnen": "visual media to provide services",
+                "availabledegreeen": "partly",
+                "availableindexen": "not available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10606299,
+                "Groupmgnen": "person with hearing disabilities",
+                "Areamgnen": "area of service provision",
+                "Elementmgnen": "places for people with hearing disabilities in the hall",
+                "availabledegreeen": "partly",
+                "availableindexen": "not available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10606454,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "area of service provision",
+                "Elementmgnen": "the width of the door to the office",
+                "availabledegreeen": "completely",
+                "availableindexen": "match"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10606870,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "entrance group",
+                "Elementmgnen": "information signs",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10606871,
+                "Groupmgnen": "sight-disabled person",
+                "Areamgnen": "area of service provision",
+                "Elementmgnen": "tactile media",
+                "availabledegreeen": "partly",
+                "availableindexen": "not available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10607374,
+                "Groupmgnen": "person with locomotive disability",
+                "Areamgnen": "entrance group",
+                "Elementmgnen": "handrails on stairs available",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10607467,
+                "Groupmgnen": "person with locomotive disability",
+                "Areamgnen": "area of service provision",
+                "Elementmgnen": "seating area dimensions (depth)",
+                "availabledegreeen": "completely",
+                "availableindexen": "match"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10607515,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "entrance group",
+                "Elementmgnen": "zero input",
+                "availabledegreeen": "completely",
+                "availableindexen": "not available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10607516,
+                "Groupmgnen": "person with hearing disabilities",
+                "Areamgnen": "object territory",
+                "Elementmgnen": "direction indicator",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10608199,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "object territory",
+                "Elementmgnen": "parking space for disabled",
+                "availabledegreeen": "partly",
+                "availableindexen": "not available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10608200,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "lane width",
+                "availabledegreeen": "completely",
+                "availableindexen": "match"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10608201,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "entrance group",
+                "Elementmgnen": "the width of the front door",
+                "availabledegreeen": "completely",
+                "availableindexen": "match"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10608458,
+                "Groupmgnen": "sight-disabled person",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "handrails on stairs available",
+                "availabledegreeen": "partly",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10608759,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "entrance group",
+                "Elementmgnen": "ramp with handrails and slope",
+                "availabledegreeen": "completely",
+                "availableindexen": "match"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10609713,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "stairs to the movement",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10609745,
+                "Groupmgnen": "person with hearing disabilities",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "signposting, pictograms",
+                "availabledegreeen": "partly",
+                "availableindexen": "not available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10610239,
+                "Groupmgnen": "person with locomotive disability",
+                "Areamgnen": "entrance group",
+                "Elementmgnen": "zero input",
+                "availabledegreeen": "completely",
+                "availableindexen": "not available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10610240,
+                "Groupmgnen": "person with locomotive disability",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "lane width",
+                "availabledegreeen": "completely",
+                "availableindexen": "match"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10610369,
+                "Groupmgnen": "person with hearing disabilities",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "the presence of inscriptions",
+                "availabledegreeen": "partly",
+                "availableindexen": "not available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10610463,
+                "Groupmgnen": "person with locomotive disability",
+                "Areamgnen": "object territory",
+                "Elementmgnen": "parking space for disabled",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10611397,
+                "Groupmgnen": "person with locomotive disability",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "stairs to the movement",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10611557,
+                "Groupmgnen": "sight-disabled person",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "contrast marking steps",
+                "availabledegreeen": "partly",
+                "availableindexen": "not available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10611841,
+                "Groupmgnen": "person with locomotive disability",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "lift",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10611876,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "object territory",
+                "Elementmgnen": "information signs",
+                "availabledegreeen": "partly",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10611932,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "lift",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10612023,
+                "Groupmgnen": "sight-disabled person",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "stairs to the movement",
+                "availabledegreeen": "partly",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10612063,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "object territory",
+                "Elementmgnen": "barrier-free path to the main entrance",
+                "availabledegreeen": "partly",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10612064,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "area of service provision",
+                "Elementmgnen": "service through a window / counter",
+                "availabledegreeen": "completely",
+                "availableindexen": "match"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10612633,
+                "Groupmgnen": "sight-disabled person",
+                "Areamgnen": "entrance group",
+                "Elementmgnen": "tactile strip in front of the entrance stairs",
+                "availabledegreeen": "partly",
+                "availableindexen": "not available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10613075,
+                "Groupmgnen": "sight-disabled person",
+                "Areamgnen": "object territory",
+                "Elementmgnen": "barrier-free path to the main entrance",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10613076,
+                "Groupmgnen": "sight-disabled person",
+                "Areamgnen": "entrance group",
+                "Elementmgnen": "zero input",
+                "availabledegreeen": "partly",
+                "availableindexen": "not available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10613114,
+                "Groupmgnen": "sight-disabled person",
+                "Areamgnen": "entrance group",
+                "Elementmgnen": "handrails on stairs available",
+                "availabledegreeen": "partly",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10613362,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "ramp with handrails and slope",
+                "availabledegreeen": "completely",
+                "availableindexen": "match"
+              }
+            ]
+          }
+        ],
+        "ObjectAddressenglobalid0": 476784,
+        "PublicPhoneenisdeleted0": 0,
+        "PublicPhoneenPublicPhoneen0": "(495) 451-87-29",
+        "PublicPhoneenglobalid0": 47986,
+        "WorkingHoursenisdeleted0": 0,
+        "WorkingHoursenDayWeeken0": "monday",
+        "WorkingHoursenWorkHoursen0": "08:30-17:15",
+        "WorkingHoursenglobalid0": 3286057,
+        "WorkingHoursenisdeleted1": 0,
+        "WorkingHoursenDayWeeken1": "tuesday",
+        "WorkingHoursenWorkHoursen1": "08:30-17:15",
+        "WorkingHoursenglobalid1": 3285471,
+        "WorkingHoursenisdeleted2": 0,
+        "WorkingHoursenDayWeeken2": "wednesday",
+        "WorkingHoursenWorkHoursen2": "08:30-17:15",
+        "WorkingHoursenglobalid2": 3284065,
+        "WorkingHoursenisdeleted3": 0,
+        "WorkingHoursenDayWeeken3": "thursday",
+        "WorkingHoursenWorkHoursen3": "08:30-17:15",
+        "WorkingHoursenglobalid3": 3284502,
+        "WorkingHoursenisdeleted4": 0,
+        "WorkingHoursenDayWeeken4": "friday",
+        "WorkingHoursenWorkHoursen4": "08:30-17:15",
+        "WorkingHoursenglobalid4": 3285982,
+        "WorkingHoursenisdeleted5": 0,
+        "WorkingHoursenDayWeeken5": "saturday",
+        "WorkingHoursenWorkHoursen5": "выходной",
+        "WorkingHoursenglobalid5": 3285352,
+        "WorkingHoursenisdeleted6": 0,
+        "WorkingHoursenDayWeeken6": "sunday",
+        "WorkingHoursenWorkHoursen6": "выходной",
+        "WorkingHoursenglobalid6": 3284706
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            37.8007506760756,
+            55.7666887127694
+          ]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "CommonNameen": "Дом ветеранов сцены им. А.А. Яблочкиной",
+        "FullNameen": "Государственное бюджетное учреждение города Москвы Дом ветеранов сцены им. А.А. Яблочкиной Департамента труда и социальной защиты населения города Москвы",
+        "ShortNameen": "ГБУ ДВС им. А.А. Яблочкиной",
+        "ChiefNameen": "Сучков Андрей Викторович",
+        "ChiefPositionen": "директор",
+        "ClarificationWorkingHoursen": "режим работы администрации: понедельник-пятница 09.00–17.30",
+        "WebSiteen": "www.gbu-dvs.ru",
+        "globalid": 641991776,
+        "OrgInfoenisdeleted0": 0,
+        "OrgInfoenFullNameen0": "Государственное бюджетное учреждение города Москвы Дом ветеранов сцены им. А.А. Яблочкиной Департамента труда и социальной защиты населения города Москвы (ГБУ ДВС им. А.А. Яблочкиной)",
+        "OrgInfoenINNen0": "7720753353",
+        "OrgInfoenKPPen0": "772001001",
+        "OrgInfoenOGRNen0": "1127746456089",
+        "OrgInfoenLegalAddressen0": "111123, ГОРОД МОСКВА, ШОССЕ ЭНТУЗИАСТОВ, 88",
+        "OrgInfoenChiefNameen0": "Сучков Андрей Викторович",
+        "OrgInfoenChiefPositionen0": "директор",
+        "OrgInfoenChiefPhoneen0": [
+          {
+            "isdeleted": 0,
+            "globalid": 572745,
+            "ChiefPhoneen": "(495) 304-31-22"
+          }
+        ],
+        "OrgInfoenglobalid0": 469922,
+        "ObjectAddressenisdeleted0": 0,
+        "ObjectAddressenAdmAreaen0": "Vostochny'j administrativny'j okrug",
+        "ObjectAddressenDistricten0": "rajon Perovo",
+        "ObjectAddressenPostalCodeen0": "111123",
+        "ObjectAddressenAddressen0": "город Москва, шоссе Энтузиастов, дом 88",
+        "ObjectAddressenSocialServicesen0": "",
+        "ObjectAddressenAvailabilityen0": [
+          {
+            "isdeleted": 0,
+            "globalid": 296771,
+            "availableken": "completely",
+            "availableoen": "partly",
+            "availablezen": "partly",
+            "availablesen": "partly",
+            "availableelementen": [
+              {
+                "isdeleted": 0,
+                "globalid": 10606175,
+                "Groupmgnen": "person with locomotive disability",
+                "Areamgnen": "wc",
+                "Elementmgnen": "handrail at the sink",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10606555,
+                "Groupmgnen": "sight-disabled person",
+                "Areamgnen": "entrance group",
+                "Elementmgnen": "zero input",
+                "availabledegreeen": "partly",
+                "availableindexen": "not available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10606658,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "stairs to the movement",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10606684,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "object territory",
+                "Elementmgnen": "parking space for disabled",
+                "availabledegreeen": "completely",
+                "availableindexen": "not available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10607486,
+                "Groupmgnen": "sight-disabled person",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "contrast marking steps",
+                "availabledegreeen": "partly",
+                "availableindexen": "not available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10607567,
+                "Groupmgnen": "person with locomotive disability",
+                "Areamgnen": "object territory",
+                "Elementmgnen": "barrier-free path to the main entrance",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10607597,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "entrance group",
+                "Elementmgnen": "ramp with handrails and slope",
+                "availabledegreeen": "completely",
+                "availableindexen": "match"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10607839,
+                "Groupmgnen": "person with locomotive disability",
+                "Areamgnen": "entrance group",
+                "Elementmgnen": "zero input",
+                "availabledegreeen": "partly",
+                "availableindexen": "not available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10607840,
+                "Groupmgnen": "person with hearing disabilities",
+                "Areamgnen": "area of service provision",
+                "Elementmgnen": "places for people with hearing disabilities in the hall",
+                "availabledegreeen": "partly",
+                "availableindexen": "not available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10607938,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "wc",
+                "Elementmgnen": "the sink area for wheelchairs",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10607939,
+                "Groupmgnen": "person with hearing disabilities",
+                "Areamgnen": "area of service provision",
+                "Elementmgnen": "visual media to provide services",
+                "availabledegreeen": "partly",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10608148,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "wc",
+                "Elementmgnen": "area next to the toilet",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10608149,
+                "Groupmgnen": "sight-disabled person",
+                "Areamgnen": "entrance group",
+                "Elementmgnen": "handrails on stairs available",
+                "availabledegreeen": "partly",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10608175,
+                "Groupmgnen": "sight-disabled person",
+                "Areamgnen": "object territory",
+                "Elementmgnen": "barrier-free path to the main entrance",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10608423,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "entrance group",
+                "Elementmgnen": "the width of the front door",
+                "availabledegreeen": "completely",
+                "availableindexen": "match"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10608435,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "object territory",
+                "Elementmgnen": "barrier-free path to the main entrance",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10608436,
+                "Groupmgnen": "person with locomotive disability",
+                "Areamgnen": "entrance group",
+                "Elementmgnen": "handrails on stairs available",
+                "availabledegreeen": "partly",
+                "availableindexen": "not available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10608880,
+                "Groupmgnen": "person with hearing disabilities",
+                "Areamgnen": "object territory",
+                "Elementmgnen": "direction indicator",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10608953,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "ramp with handrails and slope",
+                "availabledegreeen": "completely",
+                "availableindexen": "match"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10608954,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "entrance group",
+                "Elementmgnen": "information signs",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10609100,
+                "Groupmgnen": "person with hearing disabilities",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "the presence of inscriptions",
+                "availabledegreeen": "partly",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10609815,
+                "Groupmgnen": "person with locomotive disability",
+                "Areamgnen": "area of service provision",
+                "Elementmgnen": "lane width (serving displacement)",
+                "availabledegreeen": "completely",
+                "availableindexen": "match"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10609816,
+                "Groupmgnen": "person with hearing disabilities",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "signposting, pictograms",
+                "availabledegreeen": "partly",
+                "availableindexen": "not available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10609943,
+                "Groupmgnen": "person with locomotive disability",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "lane width",
+                "availabledegreeen": "partly",
+                "availableindexen": "match"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10610048,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "area of service provision",
+                "Elementmgnen": "lane width (serving displacement)",
+                "availabledegreeen": "completely",
+                "availableindexen": "match"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10610049,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "entrance group",
+                "Elementmgnen": "zero input",
+                "availabledegreeen": "completely",
+                "availableindexen": "not available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10610385,
+                "Groupmgnen": "person with locomotive disability",
+                "Areamgnen": "area of service provision",
+                "Elementmgnen": "seating area dimensions (depth)",
+                "availabledegreeen": "completely",
+                "availableindexen": "match"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10611228,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "object territory",
+                "Elementmgnen": "information signs",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10611349,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "area of service provision",
+                "Elementmgnen": "space for wheelchair users in the hall",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10611512,
+                "Groupmgnen": "sight-disabled person",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "stairs to the movement",
+                "availabledegreeen": "partly",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10611513,
+                "Groupmgnen": "sight-disabled person",
+                "Areamgnen": "area of service provision",
+                "Elementmgnen": "tactile media",
+                "availabledegreeen": "partly",
+                "availableindexen": "not available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10611716,
+                "Groupmgnen": "person with locomotive disability",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "handrails on stairs available",
+                "availabledegreeen": "partly",
+                "availableindexen": "not available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10611717,
+                "Groupmgnen": "sight-disabled person",
+                "Areamgnen": "wc",
+                "Elementmgnen": "tactile indication bathrooms",
+                "availabledegreeen": "partly",
+                "availableindexen": "not available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10611855,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "lane width",
+                "availabledegreeen": "completely",
+                "availableindexen": "match"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10612375,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "wc",
+                "Elementmgnen": "door width",
+                "availabledegreeen": "completely",
+                "availableindexen": "match"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10612376,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "wc",
+                "Elementmgnen": "dimensions of the cabin",
+                "availabledegreeen": "completely",
+                "availableindexen": "match"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10612377,
+                "Groupmgnen": "person with locomotive disability",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "stairs to the movement",
+                "availabledegreeen": "partly",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10612378,
+                "Groupmgnen": "sight-disabled person",
+                "Areamgnen": "entrance group",
+                "Elementmgnen": "tactile strip in front of the entrance stairs",
+                "availabledegreeen": "partly",
+                "availableindexen": "not available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10612428,
+                "Groupmgnen": "sight-disabled person",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "handrails on stairs available",
+                "availabledegreeen": "partly",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10612473,
+                "Groupmgnen": "person with locomotive disability",
+                "Areamgnen": "object territory",
+                "Elementmgnen": "parking space for disabled",
+                "availabledegreeen": "completely",
+                "availableindexen": "not available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10613194,
+                "Groupmgnen": "person with locomotive disability",
+                "Areamgnen": "wc",
+                "Elementmgnen": "handrails at toilet",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              }
+            ]
+          }
+        ],
+        "ObjectAddressenglobalid0": 476439,
+        "PublicPhoneenisdeleted0": 0,
+        "PublicPhoneenPublicPhoneen0": "(495) 304-31-22",
+        "PublicPhoneenglobalid0": 48420,
+        "WorkingHoursenisdeleted0": 0,
+        "WorkingHoursenDayWeeken0": "monday",
+        "WorkingHoursenWorkHoursen0": "круглосуточно",
+        "WorkingHoursenglobalid0": 3286585,
+        "WorkingHoursenisdeleted1": 0,
+        "WorkingHoursenDayWeeken1": "tuesday",
+        "WorkingHoursenWorkHoursen1": "круглосуточно",
+        "WorkingHoursenglobalid1": 3286059,
+        "WorkingHoursenisdeleted2": 0,
+        "WorkingHoursenDayWeeken2": "wednesday",
+        "WorkingHoursenWorkHoursen2": "круглосуточно",
+        "WorkingHoursenglobalid2": 3284294,
+        "WorkingHoursenisdeleted3": 0,
+        "WorkingHoursenDayWeeken3": "thursday",
+        "WorkingHoursenWorkHoursen3": "круглосуточно",
+        "WorkingHoursenglobalid3": 3285983,
+        "WorkingHoursenisdeleted4": 0,
+        "WorkingHoursenDayWeeken4": "friday",
+        "WorkingHoursenWorkHoursen4": "круглосуточно",
+        "WorkingHoursenglobalid4": 3287201,
+        "WorkingHoursenisdeleted5": 0,
+        "WorkingHoursenDayWeeken5": "saturday",
+        "WorkingHoursenWorkHoursen5": "круглосуточно",
+        "WorkingHoursenglobalid5": 3285356,
+        "WorkingHoursenisdeleted6": 0,
+        "WorkingHoursenDayWeeken6": "sunday",
+        "WorkingHoursenWorkHoursen6": "круглосуточно",
+        "WorkingHoursenglobalid6": 3286198
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            37.520759716034,
+            56.242121972051
+          ]
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "CommonNameen": "Пансионат для ветеранов войны и труда «Турист»",
+        "FullNameen": "Государственное бюджетное учреждение города Москвы Пансионат для ветеранов войны и труда «Турист» Департамента труда и социальной защиты населения города Москвы",
+        "ShortNameen": "ГБУ ПВВТ «Турист»",
+        "ChiefNameen": "Выдрыч Ирина Николаевна",
+        "ChiefPositionen": "директор",
+        "ClarificationWorkingHoursen": "Перерыв 12:00 - 13:00",
+        "WebSiteen": "pvvt-turist.ru",
+        "globalid": 1019362415,
+        "OrgInfoenisdeleted0": 0,
+        "OrgInfoenFullNameen0": "Государственное бюджетное учреждение города Москвы Пансионат для ветеранов войны и труда «Турист» Департамента труда и социальной защиты населения города Москвы.",
+        "OrgInfoenINNen0": "5007008294",
+        "OrgInfoenKPPen0": "500701001",
+        "OrgInfoenOGRNen0": "1035001601018",
+        "OrgInfoenLegalAddressen0": "141850, ОБЛАСТЬ МОСКОВСКАЯ, ГОРОД ДМИТРОВ, РАБОЧИЙ ПОСЕЛОК ДЕДЕНЕВО, УЛИЦА СОВЕТСКАЯ, ДОМ 32А",
+        "OrgInfoenChiefNameen0": "Выдрыч Ирина Николаевна",
+        "OrgInfoenChiefPositionen0": "директор",
+        "OrgInfoenChiefPhoneen0": [
+          {
+            "isdeleted": 0,
+            "globalid": 573230,
+            "ChiefPhoneen": "(495) 993-81-54"
+          }
+        ],
+        "OrgInfoenglobalid0": 470350,
+        "ObjectAddressenisdeleted0": 0,
+        "ObjectAddressenAdmAreaen0": null,
+        "ObjectAddressenDistricten0": null,
+        "ObjectAddressenPostalCodeen0": "141850",
+        "ObjectAddressenAddressen0": "Московская обл., Дмитровский район, пос. Деденево, ул. Советская, д. 32-А",
+        "ObjectAddressenSocialServicesen0": "",
+        "ObjectAddressenAvailabilityen0": [
+          {
+            "isdeleted": 0,
+            "globalid": 297635,
+            "availableken": "completely",
+            "availableoen": "completely",
+            "availablezen": "completely",
+            "availablesen": "completely",
+            "availableelementen": [
+              {
+                "isdeleted": 0,
+                "globalid": 10636127,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "entrance group",
+                "Elementmgnen": "information signs",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10636128,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "wc",
+                "Elementmgnen": "the sink area for wheelchairs",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10636131,
+                "Groupmgnen": "sight-disabled person",
+                "Areamgnen": "area of service provision",
+                "Elementmgnen": "tactile media",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10636133,
+                "Groupmgnen": "person with locomotive disability",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "lift",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10636134,
+                "Groupmgnen": "sight-disabled person",
+                "Areamgnen": "wc",
+                "Elementmgnen": "tactile indication bathrooms",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10636136,
+                "Groupmgnen": "sight-disabled person",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "handrails on stairs available",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10636137,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "lift platforms (mobile stair lifts)",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10636138,
+                "Groupmgnen": "person with hearing disabilities",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "the presence of inscriptions",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10636139,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "object territory",
+                "Elementmgnen": "barrier-free path to the main entrance",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10636140,
+                "Groupmgnen": "sight-disabled person",
+                "Areamgnen": "object territory",
+                "Elementmgnen": "barrier-free path to the main entrance",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10636141,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "entrance group",
+                "Elementmgnen": "the width of the front door",
+                "availabledegreeen": "completely",
+                "availableindexen": "match"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10636142,
+                "Groupmgnen": "sight-disabled person",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "stairs to the movement",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10636143,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "object territory",
+                "Elementmgnen": "parking space for disabled",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10636144,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "wc",
+                "Elementmgnen": "dimensions of the cabin",
+                "availabledegreeen": "completely",
+                "availableindexen": "match"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10636145,
+                "Groupmgnen": "person with locomotive disability",
+                "Areamgnen": "object territory",
+                "Elementmgnen": "parking space for disabled",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10636149,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "entrance group",
+                "Elementmgnen": "zero input",
+                "availabledegreeen": "completely",
+                "availableindexen": "not available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10636151,
+                "Groupmgnen": "person with locomotive disability",
+                "Areamgnen": "object territory",
+                "Elementmgnen": "barrier-free path to the main entrance",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10636152,
+                "Groupmgnen": "person with locomotive disability",
+                "Areamgnen": "entrance group",
+                "Elementmgnen": "zero input",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10636153,
+                "Groupmgnen": "sight-disabled person",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "contrast marking steps",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10636156,
+                "Groupmgnen": "sight-disabled person",
+                "Areamgnen": "entrance group",
+                "Elementmgnen": "zero input",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10636157,
+                "Groupmgnen": "person with hearing disabilities",
+                "Areamgnen": "area of service provision",
+                "Elementmgnen": "visual media to provide services",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10636158,
+                "Groupmgnen": "person with locomotive disability",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "stairs to the movement",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10636159,
+                "Groupmgnen": "person with hearing disabilities",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "signposting, pictograms",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10636160,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "stairs to the movement",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10636161,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "entrance group",
+                "Elementmgnen": "ramp with handrails and slope",
+                "availabledegreeen": "completely",
+                "availableindexen": "match"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10636162,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "wc",
+                "Elementmgnen": "area next to the toilet",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10636163,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "ramp with handrails and slope",
+                "availabledegreeen": "completely",
+                "availableindexen": "match"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10636167,
+                "Groupmgnen": "person with locomotive disability",
+                "Areamgnen": "wc",
+                "Elementmgnen": "handrail at the sink",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10636168,
+                "Groupmgnen": "person with locomotive disability",
+                "Areamgnen": "area of service provision",
+                "Elementmgnen": "seating area dimensions (depth)",
+                "availabledegreeen": "completely",
+                "availableindexen": "match"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10636169,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "lane width",
+                "availabledegreeen": "completely",
+                "availableindexen": "match"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10636170,
+                "Groupmgnen": "person with locomotive disability",
+                "Areamgnen": "wc",
+                "Elementmgnen": "handrails at toilet",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10636171,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "entrance group",
+                "Elementmgnen": "lift platforms (mobile stair lifts)",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10636172,
+                "Groupmgnen": "person with locomotive disability",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "lane width",
+                "availabledegreeen": "completely",
+                "availableindexen": "match"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10636173,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "lift",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10636174,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "area of service provision",
+                "Elementmgnen": "the width of the door to the office",
+                "availabledegreeen": "completely",
+                "availableindexen": "match"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10636175,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "object territory",
+                "Elementmgnen": "information signs",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10636176,
+                "Groupmgnen": "person with locomotive disability",
+                "Areamgnen": "movement and evacuation paths",
+                "Elementmgnen": "handrails on stairs available",
+                "availabledegreeen": "completely",
+                "availableindexen": "available"
+              },
+              {
+                "isdeleted": 0,
+                "globalid": 10636177,
+                "Groupmgnen": "wheelchair person",
+                "Areamgnen": "wc",
+                "Elementmgnen": "door width",
+                "availabledegreeen": "completely",
+                "availableindexen": "match"
+              }
+            ]
+          }
+        ],
+        "ObjectAddressenglobalid0": 477413,
+        "PublicPhoneenisdeleted0": 0,
+        "PublicPhoneenPublicPhoneen0": "(495) 993-81-54",
+        "PublicPhoneenglobalid0": 48958,
+        "WorkingHoursenisdeleted0": 0,
+        "WorkingHoursenDayWeeken0": "monday",
+        "WorkingHoursenWorkHoursen0": "09:00-17:00",
+        "WorkingHoursenglobalid0": 3289332,
+        "WorkingHoursenisdeleted1": 0,
+        "WorkingHoursenDayWeeken1": "tuesday",
+        "WorkingHoursenWorkHoursen1": "09:00-17:00",
+        "WorkingHoursenglobalid1": 3289362,
+        "WorkingHoursenisdeleted2": 0,
+        "WorkingHoursenDayWeeken2": "wednesday",
+        "WorkingHoursenWorkHoursen2": "09:00-17:00",
+        "WorkingHoursenglobalid2": 3289338,
+        "WorkingHoursenisdeleted3": 0,
+        "WorkingHoursenDayWeeken3": "thursday",
+        "WorkingHoursenWorkHoursen3": "09:00-17:00",
+        "WorkingHoursenglobalid3": 3289325,
+        "WorkingHoursenisdeleted4": 0,
+        "WorkingHoursenDayWeeken4": "friday",
+        "WorkingHoursenWorkHoursen4": "09:00-17:00",
+        "WorkingHoursenglobalid4": 3289316,
+        "WorkingHoursenisdeleted5": 0,
+        "WorkingHoursenDayWeeken5": "saturday",
+        "WorkingHoursenWorkHoursen5": "выходной",
+        "WorkingHoursenglobalid5": 3289364,
+        "WorkingHoursenisdeleted6": 0,
+        "WorkingHoursenDayWeeken6": "sunday",
+        "WorkingHoursenWorkHoursen6": "выходной",
+        "WorkingHoursenglobalid6": 3289367
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

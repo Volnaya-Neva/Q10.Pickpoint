@@ -1,0 +1,467 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.739043,
+          55.65463
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectNameen": "Аквапарк «Фэнтази»",
+        "NameSummeren": "бассейн «Медленная река», в аквапарке Фэнтази",
+        "AdmAreaen": null,
+        "Districten": null,
+        "Addressen": "Люблинская улица, дом 100",
+        "Emailen": "info@fpark.ru",
+        "WebSiteen": "fpark.ru/",
+        "HelpPhoneen": "(495) 641-34-51",
+        "HelpPhoneExtensionen": "",
+        "ClarificationOfWorkingHoursSummeren": "",
+        "HasEquipmentRentalen": "нет",
+        "EquipmentRentalCommentsen": "",
+        "HasTechServiceen": "да",
+        "TechServiceCommentsen": "",
+        "HasDressingRoomen": "да",
+        "HasEateryen": "да",
+        "HasToileten": "да",
+        "HasWifien": "нет",
+        "HasCashMachineen": "да",
+        "HasFirstAidPosten": "да",
+        "HasMusicen": "да",
+        "UsagePeriodSummeren": "01.09-31.08",
+        "Lightingen": null,
+        "SurfaceTypeSummeren": null,
+        "Seatsen": 0,
+        "Paiden": null,
+        "PaidCommentsen": "",
+        "DisabilityFriendlyen": null,
+        "ServicesSummeren": null,
+        "globalid": 628676173
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.527184,
+          55.597246
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectNameen": "Аквапарк «Комплекс водных развлечений Мореон»",
+        "NameSummeren": "волновой бассейн аквапарка Мореон",
+        "AdmAreaen": null,
+        "Districten": null,
+        "Addressen": "Голубинская улица, дом 16",
+        "Emailen": "sales@more-on.ru",
+        "WebSiteen": "www.more-on.ru/",
+        "HelpPhoneen": "(495) 374-53-35",
+        "HelpPhoneExtensionen": "",
+        "ClarificationOfWorkingHoursSummeren": "",
+        "HasEquipmentRentalen": "нет",
+        "EquipmentRentalCommentsen": "",
+        "HasTechServiceen": "нет",
+        "TechServiceCommentsen": "",
+        "HasDressingRoomen": "да",
+        "HasEateryen": "да",
+        "HasToileten": "да",
+        "HasWifien": "да",
+        "HasCashMachineen": "да",
+        "HasFirstAidPosten": "нет",
+        "HasMusicen": "да",
+        "UsagePeriodSummeren": "01.09-31.08",
+        "Lightingen": null,
+        "SurfaceTypeSummeren": null,
+        "Seatsen": 0,
+        "Paiden": null,
+        "PaidCommentsen": "",
+        "DisabilityFriendlyen": null,
+        "ServicesSummeren": null,
+        "globalid": 628676796
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.778443,
+          55.747844
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectNameen": "Аквапарк «Центр семейного отдыха аквапарк «Карибия»",
+        "NameSummeren": "главный бассейн плавательный в аквапарке №1, «Карибия»",
+        "AdmAreaen": null,
+        "Districten": null,
+        "Addressen": "Зелёный проспект, дом 10Б",
+        "Emailen": "Info@karibya.ru",
+        "WebSiteen": "www.karibiya.ru",
+        "HelpPhoneen": "(495) 095-75-75",
+        "HelpPhoneExtensionen": "",
+        "ClarificationOfWorkingHoursSummeren": "",
+        "HasEquipmentRentalen": "нет",
+        "EquipmentRentalCommentsen": "",
+        "HasTechServiceen": "да",
+        "TechServiceCommentsen": "",
+        "HasDressingRoomen": "да",
+        "HasEateryen": "да",
+        "HasToileten": "да",
+        "HasWifien": "да",
+        "HasCashMachineen": "да",
+        "HasFirstAidPosten": "да",
+        "HasMusicen": "да",
+        "UsagePeriodSummeren": "01.01-31.12",
+        "Lightingen": null,
+        "SurfaceTypeSummeren": null,
+        "Seatsen": 0,
+        "Paiden": null,
+        "PaidCommentsen": "",
+        "DisabilityFriendlyen": null,
+        "ServicesSummeren": null,
+        "globalid": 628677399
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5592128806988,
+          55.7128619790892
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectNameen": "Дворец водных видов спорта «Лужники»",
+        "NameSummeren": "бассейн в аквапарке №1, «Медленная река»",
+        "AdmAreaen": null,
+        "Districten": null,
+        "Addressen": "улица Лужники, дом 24, строение 4",
+        "Emailen": "aquaask@luzhniki.ru",
+        "WebSiteen": "aqua.luzhniki.ru/",
+        "HelpPhoneen": "(495) 637-03-60",
+        "HelpPhoneExtensionen": "",
+        "ClarificationOfWorkingHoursSummeren": "",
+        "HasEquipmentRentalen": "нет",
+        "EquipmentRentalCommentsen": "",
+        "HasTechServiceen": "да",
+        "TechServiceCommentsen": "",
+        "HasDressingRoomen": "да",
+        "HasEateryen": "да",
+        "HasToileten": "да",
+        "HasWifien": "да",
+        "HasCashMachineen": "да",
+        "HasFirstAidPosten": "да",
+        "HasMusicen": "да",
+        "UsagePeriodSummeren": "01.09-31.08",
+        "Lightingen": null,
+        "SurfaceTypeSummeren": null,
+        "Seatsen": 0,
+        "Paiden": null,
+        "PaidCommentsen": "",
+        "DisabilityFriendlyen": null,
+        "ServicesSummeren": null,
+        "globalid": 1019525146
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.739043,
+          55.65463
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectNameen": "Аквапарк «Фэнтази»",
+        "NameSummeren": "бассейн «Буль-Буль», в аквапарке Фэнтази",
+        "AdmAreaen": null,
+        "Districten": null,
+        "Addressen": "Люблинская улица, дом 100",
+        "Emailen": "info@fpark.ru",
+        "WebSiteen": "fpark.ru/",
+        "HelpPhoneen": "(495) 641-34-51",
+        "HelpPhoneExtensionen": "",
+        "ClarificationOfWorkingHoursSummeren": "",
+        "HasEquipmentRentalen": "нет",
+        "EquipmentRentalCommentsen": "",
+        "HasTechServiceen": "да",
+        "TechServiceCommentsen": "",
+        "HasDressingRoomen": "да",
+        "HasEateryen": "да",
+        "HasToileten": "да",
+        "HasWifien": "нет",
+        "HasCashMachineen": "да",
+        "HasFirstAidPosten": "да",
+        "HasMusicen": "да",
+        "UsagePeriodSummeren": "01.09-31.08",
+        "Lightingen": null,
+        "SurfaceTypeSummeren": null,
+        "Seatsen": 0,
+        "Paiden": null,
+        "PaidCommentsen": "",
+        "DisabilityFriendlyen": null,
+        "ServicesSummeren": null,
+        "globalid": 1047335139
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.739043,
+          55.65463
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectNameen": "Аквапарк «Фэнтази»",
+        "NameSummeren": "бассейн «Лягушатник», в аквапарке Фэнтази",
+        "AdmAreaen": null,
+        "Districten": null,
+        "Addressen": "Люблинская улица, дом 100",
+        "Emailen": "info@fpark.ru",
+        "WebSiteen": "fpark.ru/",
+        "HelpPhoneen": "(495) 641-34-51",
+        "HelpPhoneExtensionen": "",
+        "ClarificationOfWorkingHoursSummeren": "",
+        "HasEquipmentRentalen": "нет",
+        "EquipmentRentalCommentsen": "",
+        "HasTechServiceen": "да",
+        "TechServiceCommentsen": "",
+        "HasDressingRoomen": "да",
+        "HasEateryen": "да",
+        "HasToileten": "да",
+        "HasWifien": "нет",
+        "HasCashMachineen": "да",
+        "HasFirstAidPosten": "да",
+        "HasMusicen": "да",
+        "UsagePeriodSummeren": "01.09-31.08",
+        "Lightingen": null,
+        "SurfaceTypeSummeren": null,
+        "Seatsen": 0,
+        "Paiden": null,
+        "PaidCommentsen": "",
+        "DisabilityFriendlyen": null,
+        "ServicesSummeren": null,
+        "globalid": 1047340211
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5580756240764,
+          55.713043686017
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectNameen": "Дворец водных видов спорта «Лужники»",
+        "NameSummeren": "бассейн в аквапарке №5, «Термобассейн»",
+        "AdmAreaen": null,
+        "Districten": null,
+        "Addressen": "улица Лужники, дом 24, строение 4",
+        "Emailen": "aquaask@luzhniki.ru",
+        "WebSiteen": "aqua.luzhniki.ru/",
+        "HelpPhoneen": "(495) 637-03-60",
+        "HelpPhoneExtensionen": "",
+        "ClarificationOfWorkingHoursSummeren": "",
+        "HasEquipmentRentalen": "нет",
+        "EquipmentRentalCommentsen": "",
+        "HasTechServiceen": "да",
+        "TechServiceCommentsen": "",
+        "HasDressingRoomen": "да",
+        "HasEateryen": "да",
+        "HasToileten": "да",
+        "HasWifien": "да",
+        "HasCashMachineen": "да",
+        "HasFirstAidPosten": "да",
+        "HasMusicen": "да",
+        "UsagePeriodSummeren": "01.09-31.08",
+        "Lightingen": null,
+        "SurfaceTypeSummeren": null,
+        "Seatsen": 0,
+        "Paiden": null,
+        "PaidCommentsen": "",
+        "DisabilityFriendlyen": null,
+        "ServicesSummeren": null,
+        "globalid": 1047341034
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5584940486828,
+          55.7129498042302
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectNameen": "Дворец водных видов спорта «Лужники»",
+        "NameSummeren": "бассейн в аквапарке №2, «Волновой»",
+        "AdmAreaen": null,
+        "Districten": null,
+        "Addressen": "улица Лужники, дом 24, строение 4",
+        "Emailen": "aquaask@luzhniki.ru",
+        "WebSiteen": "aqua.luzhniki.ru/",
+        "HelpPhoneen": "(495) 637-03-60",
+        "HelpPhoneExtensionen": "",
+        "ClarificationOfWorkingHoursSummeren": "",
+        "HasEquipmentRentalen": "нет",
+        "EquipmentRentalCommentsen": "",
+        "HasTechServiceen": "да",
+        "TechServiceCommentsen": "",
+        "HasDressingRoomen": "да",
+        "HasEateryen": "да",
+        "HasToileten": "да",
+        "HasWifien": "да",
+        "HasCashMachineen": "да",
+        "HasFirstAidPosten": "да",
+        "HasMusicen": "да",
+        "UsagePeriodSummeren": "01.09-31.08",
+        "Lightingen": null,
+        "SurfaceTypeSummeren": null,
+        "Seatsen": 0,
+        "Paiden": null,
+        "PaidCommentsen": "",
+        "DisabilityFriendlyen": null,
+        "ServicesSummeren": null,
+        "globalid": 1047341035
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5586120658794,
+          55.7127802104793
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectNameen": "Дворец водных видов спорта «Лужники»",
+        "NameSummeren": "бассейн в аквапарке №4, «Термобассейн»",
+        "AdmAreaen": null,
+        "Districten": null,
+        "Addressen": "улица Лужники, дом 24, строение 4",
+        "Emailen": "aquaask@luzhniki.ru",
+        "WebSiteen": "aqua.luzhniki.ru/",
+        "HelpPhoneen": "(495) 637-03-60",
+        "HelpPhoneExtensionen": "",
+        "ClarificationOfWorkingHoursSummeren": "",
+        "HasEquipmentRentalen": "нет",
+        "EquipmentRentalCommentsen": "",
+        "HasTechServiceen": "да",
+        "TechServiceCommentsen": "",
+        "HasDressingRoomen": "да",
+        "HasEateryen": "да",
+        "HasToileten": "да",
+        "HasWifien": "да",
+        "HasCashMachineen": "да",
+        "HasFirstAidPosten": "да",
+        "HasMusicen": "да",
+        "UsagePeriodSummeren": "01.09-31.08",
+        "Lightingen": null,
+        "SurfaceTypeSummeren": null,
+        "Seatsen": 0,
+        "Paiden": null,
+        "PaidCommentsen": "",
+        "DisabilityFriendlyen": null,
+        "ServicesSummeren": null,
+        "globalid": 1047341429
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5586978965682,
+          55.7131769374985
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectNameen": "Дворец водных видов спорта «Лужники»",
+        "NameSummeren": "бассейн в аквапарке №3, «Термобассейн»",
+        "AdmAreaen": null,
+        "Districten": null,
+        "Addressen": "улица Лужники, дом 24, строение 4",
+        "Emailen": "aquaask@luzhniki.ru",
+        "WebSiteen": "aqua.luzhniki.ru/",
+        "HelpPhoneen": "(495) 637-03-60",
+        "HelpPhoneExtensionen": "",
+        "ClarificationOfWorkingHoursSummeren": "",
+        "HasEquipmentRentalen": "нет",
+        "EquipmentRentalCommentsen": "",
+        "HasTechServiceen": "да",
+        "TechServiceCommentsen": "",
+        "HasDressingRoomen": "да",
+        "HasEateryen": "да",
+        "HasToileten": "да",
+        "HasWifien": "да",
+        "HasCashMachineen": "да",
+        "HasFirstAidPosten": "да",
+        "HasMusicen": "да",
+        "UsagePeriodSummeren": "01.09-31.08",
+        "Lightingen": null,
+        "SurfaceTypeSummeren": null,
+        "Seatsen": 0,
+        "Paiden": null,
+        "PaidCommentsen": "",
+        "DisabilityFriendlyen": null,
+        "ServicesSummeren": null,
+        "globalid": 1047341594
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.778443,
+          55.747844
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectNameen": "Аквапарк «Центр семейного отдыха аквапарк «Карибия»",
+        "NameSummeren": "бассейн плавательный в аквапарке №2, «Карибия»",
+        "AdmAreaen": null,
+        "Districten": null,
+        "Addressen": "Зелёный проспект, дом 10Б",
+        "Emailen": "Info@karibya.ru",
+        "WebSiteen": "www.karibiya.ru",
+        "HelpPhoneen": "(495) 095-75-75",
+        "HelpPhoneExtensionen": "",
+        "ClarificationOfWorkingHoursSummeren": "",
+        "HasEquipmentRentalen": "нет",
+        "EquipmentRentalCommentsen": "",
+        "HasTechServiceen": "да",
+        "TechServiceCommentsen": "",
+        "HasDressingRoomen": "да",
+        "HasEateryen": "да",
+        "HasToileten": "да",
+        "HasWifien": "да",
+        "HasCashMachineen": "да",
+        "HasFirstAidPosten": "да",
+        "HasMusicen": "да",
+        "UsagePeriodSummeren": "01.01-31.12",
+        "Lightingen": null,
+        "SurfaceTypeSummeren": null,
+        "Seatsen": 0,
+        "Paiden": null,
+        "PaidCommentsen": "",
+        "DisabilityFriendlyen": null,
+        "ServicesSummeren": null,
+        "globalid": 1047346091
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

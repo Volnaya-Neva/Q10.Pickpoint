@@ -1,0 +1,6121 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.720353256895,
+          55.764079610509
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 96,
+        "TPUNameen": "Транспортно-пересадочный узел «Сортировочная» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "платформа «Сортировочная»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "пригородная железная дорога",
+        "CarCapacityen": null,
+        "globalid": 1769845
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.738276478479,
+          55.745110991584
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 97,
+        "TPUNameen": "Транспортно-пересадочный узел «Фрезер» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "платформа «Фрезер»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "пригородная железная дорога",
+        "CarCapacityen": 45,
+        "globalid": 1769846
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.764118656515,
+          55.733620469968
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 98,
+        "TPUNameen": "Транспортно-пересадочный узел «Чухлинка» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "платформа «Чухлинка»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "пригородная железная дорога",
+        "CarCapacityen": null,
+        "globalid": 1769847
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.750696290051,
+          55.659640933555
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 99,
+        "TPUNameen": "Транспортно-пересадочный узел «Братиславская» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Братиславская»",
+        "YearOfComissioningen": "2015",
+        "Statusen": null,
+        "AvailableTransferen": "метро; перехватывающая парковка",
+        "CarCapacityen": 320,
+        "globalid": 1769848
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.755893879403,
+          55.690307373337
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 100,
+        "TPUNameen": "Транспортно-пересадочный узел «Волжская» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Волжская»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "метро; перехватывающая парковка",
+        "CarCapacityen": 240,
+        "globalid": 1769849
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.727992718718,
+          55.674043644599
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 101,
+        "TPUNameen": "Транспортно-пересадочный узел «Депо» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "платформа «Депо»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "пригородная железная дорога",
+        "CarCapacityen": 45,
+        "globalid": 1769850
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.676981310387,
+          55.717923102594
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 102,
+        "TPUNameen": "Транспортно-пересадочный узел «Дубровка» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Дубровка»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "метро",
+        "CarCapacityen": null,
+        "globalid": 1769851
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.702003415502,
+          55.734379763946
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 103,
+        "TPUNameen": "Транспортно-пересадочный узел «Калитники» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "платформа «Калитники»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "пригородная железная дорога",
+        "CarCapacityen": null,
+        "globalid": 1769852
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.739594461511,
+          55.732351042538
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 104,
+        "TPUNameen": "Транспортно-пересадочный узел «Карачарово» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "платформа «Карачарово»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "пригородная железная дорога",
+        "CarCapacityen": null,
+        "globalid": 1769853
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.68545068887,
+          55.706533523954
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 105,
+        "TPUNameen": "Транспортно-пересадочный узел «Кожуховская» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Кожуховская»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "метро; перехватывающая парковка",
+        "CarCapacityen": 120,
+        "globalid": 1769854
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.733810000089,
+          55.685116000029
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 106,
+        "TPUNameen": "Транспортно-пересадочный узел «Люблино» (п) (3)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "платформа «Люблино»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "пригородная железная дорога",
+        "CarCapacityen": 85,
+        "globalid": 1769855
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.744333999899,
+          55.650510000027
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 107,
+        "TPUNameen": "Транспортно-пересадочный узел «Марьино» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Марьино»",
+        "YearOfComissioningen": "2018",
+        "Statusen": null,
+        "AvailableTransferen": "Метро; перехватывающая парковка",
+        "CarCapacityen": 230,
+        "globalid": 1769856
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.643409867746,
+          55.717730529193
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 108,
+        "TPUNameen": "Транспортно-пересадочный узел «Москва-Товарная-Павелецкая» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "платформа «Москва-Товарная-Павелецкая»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "пригородная железная дорога",
+        "CarCapacityen": null,
+        "globalid": 1769857
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.71757268363,
+          55.661816639065
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 109,
+        "TPUNameen": "Транспортно-пересадочный узел «Перерва» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "платформа «Перерва»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "пригородная железная дорога",
+        "CarCapacityen": 113,
+        "globalid": 1769858
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.727549594161,
+          55.693036631003
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 110,
+        "TPUNameen": "Транспортно-пересадочный узел «Печатники» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Печатники»",
+        "YearOfComissioningen": "2015",
+        "Statusen": null,
+        "AvailableTransferen": "метро; перехватывающая парковка",
+        "CarCapacityen": 160,
+        "globalid": 1769859
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.774168714165,
+          55.730588509651
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 111,
+        "TPUNameen": "Транспортно-пересадочный узел «Плющево» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "платформа «Плющево»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "пригородная железная дорога",
+        "CarCapacityen": null,
+        "globalid": 1769860
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.563619002403,
+          55.678179794906
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 112,
+        "TPUNameen": "Транспортно-пересадочный узел «Профсоюзная» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Профсоюзная»",
+        "YearOfComissioningen": "2015",
+        "Statusen": null,
+        "AvailableTransferen": "метро; перехватывающая парковка",
+        "CarCapacityen": 500,
+        "globalid": 1769861
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.598369121833,
+          55.651563145129
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 113,
+        "TPUNameen": "Транспортно-пересадочный узел «Севастопольская»",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Севастопольская»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "метро",
+        "CarCapacityen": 110,
+        "globalid": 1769862
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.554059028741,
+          55.547978694352
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 114,
+        "TPUNameen": "Транспортно-пересадочный узел «Улица Скобелевская» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Улица Скобелевская»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "метро",
+        "CarCapacityen": 80,
+        "globalid": 1769863
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.531930344155,
+          55.542003977384
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 115,
+        "TPUNameen": "Транспортно-пересадочный узел «Улица Горчакова» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Улица Горчакова»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "метро",
+        "CarCapacityen": 52,
+        "globalid": 1769864
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.573083937002,
+          55.687492147998
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 116,
+        "TPUNameen": "Транспортно-пересадочный узел «Академическая» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Академическая»",
+        "YearOfComissioningen": "2015",
+        "Statusen": null,
+        "AvailableTransferen": "метро; перехватывающая парковка",
+        "CarCapacityen": 260,
+        "globalid": 1769865
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.525107264077,
+          55.642288131956
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 117,
+        "TPUNameen": "Транспортно-пересадочный узел «Беляево» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Беляево»",
+        "YearOfComissioningen": "2015",
+        "Statusen": null,
+        "AvailableTransferen": "метро; перехватывающая парковка",
+        "CarCapacityen": 275,
+        "globalid": 1769866
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.545148649319,
+          55.545123200127
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 118,
+        "TPUNameen": "Транспортно-пересадочный узел «Бульвар адмирала Ушакова» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Бульвар адмирала Ушакова»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "метро",
+        "CarCapacityen": 95,
+        "globalid": 1769867
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.514704642831,
+          55.537715657006
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 119,
+        "TPUNameen": "Транспортно-пересадочный узел «Бунинская аллея» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Бунинская аллея»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "метро",
+        "CarCapacityen": null,
+        "globalid": 1769868
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.570690404674,
+          55.541704420575
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 120,
+        "TPUNameen": "Транспортно-пересадочный узел «Бутово» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "платформа «Бутово»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "пригородная железная дорога",
+        "CarCapacityen": 50,
+        "globalid": 1769869
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.541136860397,
+          55.65801065706
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 121,
+        "TPUNameen": "Транспортно-пересадочный узел «Калужская» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Калужская»",
+        "YearOfComissioningen": "2015",
+        "Statusen": null,
+        "AvailableTransferen": "метро; перехватывающая парковка",
+        "CarCapacityen": 121,
+        "globalid": 1769870
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.612037337427,
+          55.781305766613
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 67,
+        "TPUNameen": "Транспортно-пересадочный узел «Достоевская» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Достоевская»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "метро",
+        "CarCapacityen": null,
+        "globalid": 1769871
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.630689409811,
+          55.757086974263
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 68,
+        "TPUNameen": "Транспортно-пересадочный узел «Китай-город» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Китай-город»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "метро",
+        "CarCapacityen": 10,
+        "globalid": 1769872
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.577201911283,
+          55.760700959747
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 69,
+        "TPUNameen": "Транспортно-пересадочный узел «Краснопресненская» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Краснопресненская»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "метро",
+        "CarCapacityen": 83,
+        "globalid": 1769873
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.665968007225,
+          55.779903750855
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 70,
+        "TPUNameen": "Транспортно-пересадочный узел «Красносельская» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Красносельская»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "метро",
+        "CarCapacityen": null,
+        "globalid": 1769874
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.64811892989,
+          55.768437178473
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 71,
+        "TPUNameen": "Транспортно-пересадочный узел «Красные ворота» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Красные ворота»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "метро",
+        "CarCapacityen": 52,
+        "globalid": 1769875
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.627551999664,
+          55.759163000131
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 72,
+        "TPUNameen": "Транспортно-пересадочный узел «Лубянка» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Лубянка»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "метро",
+        "CarCapacityen": null,
+        "globalid": 1769876
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.561913000169,
+          55.722176000094
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 73,
+        "TPUNameen": "Транспортно-пересадочный узел «Лужники» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Спортивная»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "метро; московская кольцевая железная дорога",
+        "CarCapacityen": null,
+        "globalid": 1769877
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.596465999581,
+          55.769332999827
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 74,
+        "TPUNameen": "Транспортно-пересадочный узел «Маяковская» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Маяковская»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "метро",
+        "CarCapacityen": null,
+        "globalid": 1769878
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.628731533446,
+          55.742259637125
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 75,
+        "TPUNameen": "Транспортно-пересадочный узел «Новокузнецкая» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Новокузнецкая»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "метро",
+        "CarCapacityen": null,
+        "globalid": 1769879
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.600518160589,
+          55.780175380754
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 76,
+        "TPUNameen": "Транспортно-пересадочный узел «Новослободская» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Новослободская»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "метро",
+        "CarCapacityen": 39,
+        "globalid": 1769880
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.611616506361,
+          55.729406953381
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 77,
+        "TPUNameen": "Транспортно-пересадочный узел «Октябрьская» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Октябрьская»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "метро",
+        "CarCapacityen": null,
+        "globalid": 1769881
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.616356075292,
+          55.757917598646
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 78,
+        "TPUNameen": "Транспортно-пересадочный узел «Охотный ряд» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Охотный ряд»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "метро",
+        "CarCapacityen": null,
+        "globalid": 1769882
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.593575864191,
+          55.7352559297
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 79,
+        "TPUNameen": "Транспортно-пересадочный узел «Парк Культуры» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Парк культуры»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "метро",
+        "CarCapacityen": 44,
+        "globalid": 1769883
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6183880456,
+          55.736807785719
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 80,
+        "TPUNameen": "Транспортно-пересадочный узел «Полянка» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Полянка»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "метро",
+        "CarCapacityen": null,
+        "globalid": 1769884
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.622469840233,
+          55.708593464755
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 81,
+        "TPUNameen": "Транспортно-пересадочный узел «Тульская» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Тульская»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "метро",
+        "CarCapacityen": 257,
+        "globalid": 1769885
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.600927276726,
+          55.596369564297
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 82,
+        "TPUNameen": "Транспортно-пересадочный узел «Улица Академика Янгеля» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Улица Академика Янгеля»",
+        "YearOfComissioningen": "2015",
+        "Statusen": null,
+        "AvailableTransferen": "метро; перехватывающая парковка; автовокзал",
+        "CarCapacityen": 410,
+        "globalid": 1769886
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.627487552729,
+          55.630853198989
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 83,
+        "TPUNameen": "Транспортно-пересадочный узел «Чертаново» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "платформа «Чертаново»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "пригородная железная дорога",
+        "CarCapacityen": 117,
+        "globalid": 1769887
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.605099175974,
+          55.64068826316
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 84,
+        "TPUNameen": "Транспортно-пересадочный узел «Чертановская» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Чертановская»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "метро",
+        "CarCapacityen": 294,
+        "globalid": 1769888
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.608272657073,
+          55.718785377144
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 85,
+        "TPUNameen": "Транспортно-пересадочный узел «Шаболовская» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Шаболовская»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "метро",
+        "CarCapacityen": null,
+        "globalid": 1769889
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.743941849345,
+          55.620087867281
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 86,
+        "TPUNameen": "Транспортно-пересадочный узел «Шипиловская» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Шипиловская»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "метро; перехватывающая парковка",
+        "CarCapacityen": 230,
+        "globalid": 1769890
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.609249955831,
+          55.62211856613
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 87,
+        "TPUNameen": "Транспортно-пересадочный узел «Южная» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Южная»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "метро; перехватывающая парковка",
+        "CarCapacityen": 200,
+        "globalid": 1769891
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.657222151552,
+          55.706949489906
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 88,
+        "TPUNameen": "Транспортно-пересадочный узел «Автозаводская» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Автозаводская»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "метро; московская кольцевая железная дорога",
+        "CarCapacityen": null,
+        "globalid": 1769892
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.744182259176,
+          55.633381539122
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 89,
+        "TPUNameen": "Транспортно-пересадочный узел «Борисово» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Борисово»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "метро; перехватывающая парковка",
+        "CarCapacityen": 500,
+        "globalid": 1769893
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.656056711439,
+          55.636943528985
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 90,
+        "TPUNameen": "Транспортно-пересадочный узел «Кантемировская» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Кантемировская»",
+        "YearOfComissioningen": "2015",
+        "Statusen": null,
+        "AvailableTransferen": "метро; перехватывающая парковка",
+        "CarCapacityen": 220,
+        "globalid": 1769894
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.649587025,
+          55.655381167162
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 91,
+        "TPUNameen": "Транспортно-пересадочный узел «Каширская» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Каширская»",
+        "YearOfComissioningen": "2015",
+        "Statusen": null,
+        "AvailableTransferen": "метро; перехватывающая парковка",
+        "CarCapacityen": 500,
+        "globalid": 1769895
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.664515647006,
+          55.677855043785
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 92,
+        "TPUNameen": "Транспортно-пересадочный узел «Коломенская» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Коломенская»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "метро",
+        "CarCapacityen": null,
+        "globalid": 1769896
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.614360999691,
+          55.589302000081
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 93,
+        "TPUNameen": "Транспортно-пересадочный узел «Красный строитель» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "платформа «Красный строитель»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "пригородная железная дорога",
+        "CarCapacityen": 60,
+        "globalid": 1769897
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.610816710212,
+          55.672819068331
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 94,
+        "TPUNameen": "Транспортно-пересадочный узел «Нагорная» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Нагорная»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "метро; перехватывающая парковка",
+        "CarCapacityen": 240,
+        "globalid": 1769898
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.603265307543,
+          55.61177268291
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 95,
+        "TPUNameen": "Транспортно-пересадочный узел «Пражская» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Пражская»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "метро",
+        "CarCapacityen": null,
+        "globalid": 1769899
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.588090896593,
+          55.794116312695
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 126,
+        "TPUNameen": "Транспортно-пересадочный узел «Савёловская»",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Савёловская»",
+        "YearOfComissioningen": "2018",
+        "Statusen": null,
+        "AvailableTransferen": "Метро, станция железной дороги",
+        "CarCapacityen": 35,
+        "globalid": 1769900
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.52054915124,
+          55.938808267157
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 127,
+        "TPUNameen": "Транспортно-пересадочный узел «Долгопрудная» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "платформа «Долгопрудная»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "пригородная железная дорога",
+        "CarCapacityen": null,
+        "globalid": 1769901
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.38127499997,
+          55.924802000065
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 128,
+        "TPUNameen": "Транспортно-пересадочный узел «Планерная» (2)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "платформа «Планерная»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "пригородная железная дорога",
+        "CarCapacityen": null,
+        "globalid": 1769902
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.687934999551,
+          55.745884000226
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 131,
+        "TPUNameen": "Транспортно-пересадочный узел «Москва-Товарная-Курская» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "платформа «Москва Товарная - Курская»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "пригородная железная дорога",
+        "CarCapacityen": 110,
+        "globalid": 1769905
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.603317797003,
+          55.883976985704
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 132,
+        "TPUNameen": "Транспортно-пересадочный узел «Бибирево» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Бибирево»",
+        "YearOfComissioningen": "2013",
+        "Statusen": null,
+        "AvailableTransferen": "метро; перехватывающая парковка",
+        "CarCapacityen": 450,
+        "globalid": 1769906
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.533657251085,
+          55.606311666568
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 133,
+        "TPUNameen": "Транспортно-пересадочный узел «Ясенево» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Ясенево»",
+        "YearOfComissioningen": "2013",
+        "Statusen": null,
+        "AvailableTransferen": "метро; перехватывающая парковка",
+        "CarCapacityen": 200,
+        "globalid": 1769907
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.552707195393,
+          55.897850833216
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 134,
+        "TPUNameen": "Транспортно-пересадочный узел «Лианозово» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "платформа «Лианозово»",
+        "YearOfComissioningen": "2013",
+        "Statusen": null,
+        "AvailableTransferen": "пригородная железная дорога",
+        "CarCapacityen": null,
+        "globalid": 1769908
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.718187226506,
+          55.610928320595
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 135,
+        "TPUNameen": "Транспортно-пересадочный узел «Домодедовская» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Домодедовская»",
+        "YearOfComissioningen": "2013",
+        "Statusen": null,
+        "AvailableTransferen": "метро; перехватывающая парковка",
+        "CarCapacityen": 180,
+        "globalid": 1769909
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.670055291462,
+          55.62049785791
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 136,
+        "TPUNameen": "Транспортно-пересадочный узел «Царицыно» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Царицыно»",
+        "YearOfComissioningen": "2013",
+        "Statusen": null,
+        "AvailableTransferen": "метро; пригородная железная дорога; перехватывающая парковка",
+        "CarCapacityen": 470,
+        "globalid": 1769910
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.575803724865,
+          55.569512681131
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 137,
+        "TPUNameen": "Транспортно-пересадочный узел «Бульвар Дмитрия Донского» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Бульвар Дмитрия Донского»",
+        "YearOfComissioningen": "2013",
+        "Statusen": null,
+        "AvailableTransferen": "метро",
+        "CarCapacityen": null,
+        "globalid": 1769911
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.519366999767,
+          55.632984000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 122,
+        "TPUNameen": "Транспортно-пересадочный узел «Коньково» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Коньково»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "метро; перехватывающая парковка",
+        "CarCapacityen": null,
+        "globalid": 1769912
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.606791999923,
+          55.663649000235
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 123,
+        "TPUNameen": "Транспортно-пересадочный узел «Нахимовский проспект» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Нахимовский проспект»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "метро",
+        "CarCapacityen": null,
+        "globalid": 1769913
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.584746535265,
+          55.707143489087
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 124,
+        "TPUNameen": "Транспортно-пересадочный узел «Площадь Гагарина» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Ленинский проспект»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "метро; московская кольцевая железная дорога",
+        "CarCapacityen": null,
+        "globalid": 1769914
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.728285999793,
+          55.732324000171
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 138,
+        "TPUNameen": "Транспортно-пересадочный узел «Рязанская» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Нижегородская улица»",
+        "YearOfComissioningen": "2020",
+        "Statusen": null,
+        "AvailableTransferen": "Метро; станция московской кольцевой железной дороги; перехватывающая парковка; станция железной дороги",
+        "CarCapacityen": 500,
+        "globalid": 1769916
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.585725999861,
+          55.70721899979
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 139,
+        "TPUNameen": "Транспортно-пересадочный узел «Площадь Гагарина» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Ленинский проспект»",
+        "YearOfComissioningen": "2020",
+        "Statusen": null,
+        "AvailableTransferen": "Наземный городской пассажирский транспорт, метро",
+        "CarCapacityen": 638,
+        "globalid": 1769917
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.534126000085,
+          55.739969000133
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 144,
+        "TPUNameen": "Транспортно-пересадочный узел «Кутузово» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Кутузовская»",
+        "YearOfComissioningen": "2020",
+        "Statusen": null,
+        "AvailableTransferen": "Наземный городской пассажирский транспорт, метро",
+        "CarCapacityen": null,
+        "globalid": 1769922
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.559945999615,
+          55.721112000002
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 145,
+        "TPUNameen": "Транспортно-пересадочный узел «Лужники» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Спортивная»",
+        "YearOfComissioningen": "2020",
+        "Statusen": null,
+        "AvailableTransferen": "Наземный городской пассажирский транспорт, метро",
+        "CarCapacityen": null,
+        "globalid": 1769923
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.616006999854,
+          55.798405999787
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 36,
+        "TPUNameen": "Транспортно-пересадочный узел «Марьина Роща» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Марьина Роща»",
+        "YearOfComissioningen": "2019",
+        "Statusen": null,
+        "AvailableTransferen": "Метро; перехватывающая парковка",
+        "CarCapacityen": 190,
+        "globalid": 1769925
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.650169000353,
+          55.803031999872
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 37,
+        "TPUNameen": "Транспортно-пересадочный узел «Москва 3» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "платформа «Москва-3»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "пригородная железная дорога",
+        "CarCapacityen": null,
+        "globalid": 1769926
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.59812622816,
+          55.799336842511
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 38,
+        "TPUNameen": "Транспортно-пересадочный узел «Москва-Станколит» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "платформа «Москва-Станколит»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "пригородная железная дорога",
+        "CarCapacityen": null,
+        "globalid": 1769927
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.603257298163,
+          55.817836094306
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 39,
+        "TPUNameen": "Транспортно-пересадочный узел «Останкино» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "платформа «Останкино»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "пригородная железная дорога",
+        "CarCapacityen": null,
+        "globalid": 1769928
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.400315160726,
+          55.80394431259
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 40,
+        "TPUNameen": "Транспортно-пересадочный узел «Строгино» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Строгино»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "метро; перехватывающая парковка",
+        "CarCapacityen": 700,
+        "globalid": 1769929
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.40006628607,
+          55.833277787916
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 41,
+        "TPUNameen": "Транспортно-пересадочный узел «Трикотажная» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "платформа «Трикотажная»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "пригородная железная дорога",
+        "CarCapacityen": 20,
+        "globalid": 1769930
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.382034000028,
+          55.835507999971
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 42,
+        "TPUNameen": "Транспортно-пересадочный узел «Волоколамская» (к) (2)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Волоколамская»",
+        "YearOfComissioningen": "2018",
+        "Statusen": null,
+        "AvailableTransferen": "Метро, перехватывающая парковка",
+        "CarCapacityen": null,
+        "globalid": 1769931
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.359942999769,
+          55.846657000107
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 43,
+        "TPUNameen": "Транспортно-пересадочный узел «Митино» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Митино»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "метро",
+        "CarCapacityen": null,
+        "globalid": 1769932
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.494335962703,
+          55.792884532481
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 44,
+        "TPUNameen": "Транспортно-пересадочный узел «Октябрьское поле» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Октябрьское поле»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "метро; перехватывающая парковка",
+        "CarCapacityen": 400,
+        "globalid": 1769933
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.435040402213,
+          55.863947802316
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 45,
+        "TPUNameen": "Транспортно-пересадочный узел «Планерная» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Планерная»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "метро; перехватывающая парковка",
+        "CarCapacityen": 30,
+        "globalid": 1769934
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.476555315433,
+          55.814201538489
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 46,
+        "TPUNameen": "Транспортно-пересадочный узел «Покровское-Стрешнево» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "платформа «Покровское-Стрешнево»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "пригородная железная дорога",
+        "CarCapacityen": null,
+        "globalid": 1769935
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.797601208164,
+          55.72252412809
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 6,
+        "TPUNameen": "Транспортно-пересадочный узел «Вешняки» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "платформа «Вешняки»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "пригородная железная дорога",
+        "CarCapacityen": null,
+        "globalid": 1769937
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.498054504685,
+          55.743911691524
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 16,
+        "TPUNameen": "Транспортно-пересадочный узел «Багратионовская» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Багратионовская»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "метро",
+        "CarCapacityen": 430,
+        "globalid": 1769938
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.408081000238,
+          55.756835999936
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 17,
+        "TPUNameen": "Транспортно-пересадочный узел «Крылатское» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Крылатское»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "метро; перехватывающая парковка",
+        "CarCapacityen": 350,
+        "globalid": 1769939
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.35309511451,
+          55.65593920469
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 19,
+        "TPUNameen": "Транспортно-пересадочный узел «Переделкино» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "платформа «Переделкино»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "пригородная железная дорога; перехватывающая парковка",
+        "CarCapacityen": 55,
+        "globalid": 1769941
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.1399527786,
+          56.008723123693
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 20,
+        "TPUNameen": "Транспортно-пересадочный узел «Алабушево» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "платформа «Алабушево»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "пригородная железная дорога",
+        "CarCapacityen": null,
+        "globalid": 1769942
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.667178511325,
+          55.732565434973
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 47,
+        "TPUNameen": "Транспортно-пересадочный узел «Пролетарская» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Пролетарская»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "метро",
+        "CarCapacityen": 41,
+        "globalid": 1769943
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.633023261665,
+          55.780685060218
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 48,
+        "TPUNameen": "Транспортно-пересадочный узел «Проспект Мира» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Проспект Мира»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "метро",
+        "CarCapacityen": 30,
+        "globalid": 1769944
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.63688564279,
+          55.795407013829
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 49,
+        "TPUNameen": "Транспортно-пересадочный узел «Рижская» (п) (1)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "платформа «Рижская»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "Станция железной дороги",
+        "CarCapacityen": null,
+        "globalid": 1769945
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.636746167664,
+          55.792662715799
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 50,
+        "TPUNameen": "Транспортно-пересадочный узел «Рижская» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Рижская»",
+        "YearOfComissioningen": "2019",
+        "Statusen": null,
+        "AvailableTransferen": "Метро; станция железной дороги",
+        "CarCapacityen": 107,
+        "globalid": 1769946
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.634989000086,
+          55.792487000145
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 51,
+        "TPUNameen": "Транспортно-пересадочный узел «Рижская» (п) (2)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Рижская»",
+        "YearOfComissioningen": "2018",
+        "Statusen": null,
+        "AvailableTransferen": "Метро; станция железной дороги",
+        "CarCapacityen": null,
+        "globalid": 1769947
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.583053393313,
+          55.747980132591
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 52,
+        "TPUNameen": "Транспортно-пересадочный узел «Смоленская» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Смоленская» Филёвской линии",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "метро",
+        "CarCapacityen": null,
+        "globalid": 1769948
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.632742860634,
+          55.772199856165
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 53,
+        "TPUNameen": "Транспортно-пересадочный узел «Сухаревская» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Сухаревская»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "метро",
+        "CarCapacityen": 47,
+        "globalid": 1769949
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.604260518706,
+          55.765584788691
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 54,
+        "TPUNameen": "Транспортно-пересадочный узел «Тверская» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Тверская»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "метро",
+        "CarCapacityen": null,
+        "globalid": 1769950
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.53139705749,
+          55.7542799759
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 55,
+        "TPUNameen": "Транспортно-пересадочный узел «Тестовская» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "платформа «Тестовская»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "пригородная железная дорога",
+        "CarCapacityen": null,
+        "globalid": 1769951
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.580958151964,
+          55.727267394371
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 57,
+        "TPUNameen": "Транспортно-пересадочный узел «Фрунзенская» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Фрунзенская»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "метро",
+        "CarCapacityen": 53,
+        "globalid": 1769953
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.620878219585,
+          55.771742399609
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 58,
+        "TPUNameen": "Транспортно-пересадочный узел «Цветной бульвар» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Цветной бульвар»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "метро",
+        "CarCapacityen": 8,
+        "globalid": 1769954
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.638564706345,
+          55.764804692231
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 59,
+        "TPUNameen": "Транспортно-пересадочный узел «Чистые пруды» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Чистые пруды»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "метро",
+        "CarCapacityen": 75,
+        "globalid": 1769955
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.601534128226,
+          55.752186006541
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 60,
+        "TPUNameen": "Транспортно-пересадочный узел «Арбатская» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Арбатская» Филёвской линии",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "метро",
+        "CarCapacityen": null,
+        "globalid": 1769956
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.678653001469,
+          55.772493734401
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 61,
+        "TPUNameen": "Транспортно-пересадочный узел «Бауманская» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Бауманская»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "метро",
+        "CarCapacityen": 40,
+        "globalid": 1769957
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.549059391247,
+          55.773311435661
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 62,
+        "TPUNameen": "Транспортно-пересадочный узел «Беговая» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Беговая»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "метро; пригородная железная дорога",
+        "CarCapacityen": null,
+        "globalid": 1769958
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.610288858355,
+          55.752190534733
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 63,
+        "TPUNameen": "Транспортно-пересадочный узел «Библиотека имени Ленина» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Библиотека имени Ленина»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "метро",
+        "CarCapacityen": null,
+        "globalid": 1769959
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.602042584558,
+          55.744920485322
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 64,
+        "TPUNameen": "Транспортно-пересадочный узел «Волхонка» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Кропоткинская»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "метро",
+        "CarCapacityen": null,
+        "globalid": 1769960
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.543955912998,
+          55.749042415663
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 65,
+        "TPUNameen": "Транспортно-пересадочный узел «Выставочная» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Выставочная»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "метро",
+        "CarCapacityen": null,
+        "globalid": 1769961
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.622941617454,
+          55.72896201377
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 66,
+        "TPUNameen": "Транспортно-пересадочный узел «Добрынинская» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Добрынинская»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "метро",
+        "CarCapacityen": 26,
+        "globalid": 1769962
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.511300999881,
+          55.776771999949
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 238,
+        "TPUNameen": "Транспортно-пересадочный узел «Хорошевская» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Полежаевская»",
+        "YearOfComissioningen": "2019",
+        "Statusen": null,
+        "AvailableTransferen": "метро",
+        "CarCapacityen": null,
+        "globalid": 1769963
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.519601999944,
+          55.63303800016
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 239,
+        "TPUNameen": "Транспортно-пересадочный узел «Коньково» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Коньково»",
+        "YearOfComissioningen": "2018",
+        "Statusen": null,
+        "AvailableTransferen": "Метро; перехватывающая парковка",
+        "CarCapacityen": 300,
+        "globalid": 1769964
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.779716417407,
+          55.787867574554
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 7,
+        "TPUNameen": "Транспортно-пересадочный узел «Измайловская» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Измайловская»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "метро; перехватывающая парковка",
+        "CarCapacityen": 480,
+        "globalid": 1769965
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.74892085613,
+          55.788453548514
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 8,
+        "TPUNameen": "Транспортно-пересадочный узел «Измайловский парк» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Партизанская»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "метро; московская кольцевая железная дорога; автовокзал",
+        "CarCapacityen": 45,
+        "globalid": 1769966
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.735451583235,
+          55.814216113976
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 9,
+        "TPUNameen": "Транспортно-пересадочный узел «Открытое шоссе» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Бульвар Рокоссовского»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "метро; московская кольцевая железная дорога",
+        "CarCapacityen": 400,
+        "globalid": 1769967
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.799487149237,
+          55.795839490928
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 10,
+        "TPUNameen": "Транспортно-пересадочный узел «Первомайская» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Первомайская»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "метро",
+        "CarCapacityen": null,
+        "globalid": 1769968
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.765697999887,
+          55.737659000093
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 11,
+        "TPUNameen": "Транспортно-пересадочный узел «Перово» (п) (1)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "платформа «Перово»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "пригородная железная дорога",
+        "CarCapacityen": 179,
+        "globalid": 1769969
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.383513005177,
+          55.656348699165
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 13,
+        "TPUNameen": "Транспортно-пересадочный узел «Солнечная» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "платформа «Солнечная»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "пригородная железная дорога",
+        "CarCapacityen": 30,
+        "globalid": 1769971
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.717019319619,
+          55.796643392828
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 1,
+        "TPUNameen": "Транспортно-пересадочный узел «Преображенская площадь» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Преображенская площадь»",
+        "YearOfComissioningen": "2015",
+        "Statusen": null,
+        "AvailableTransferen": "метро; перехватывающая парковка",
+        "CarCapacityen": 330,
+        "globalid": 1769972
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.679708020668,
+          55.789193921398
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 2,
+        "TPUNameen": "Транспортно-пересадочный узел «Сокольники» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Сокольники»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "метро; перехватывающая парковка",
+        "CarCapacityen": null,
+        "globalid": 1769973
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.864981528057,
+          55.698623832218
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 3,
+        "TPUNameen": "Транспортно-пересадочный узел «Ухтомская» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "платформа «Ухтомская»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "пригородная железная дорога",
+        "CarCapacityen": 132,
+        "globalid": 1769974
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.744819000321,
+          55.802286696635
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 4,
+        "TPUNameen": "Транспортно-пересадочный узел «Черкизово» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Черкизовская»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "метро; московская кольцевая железная дорога; перехватывающая парковка",
+        "CarCapacityen": 826,
+        "globalid": 1769975
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.534531999966,
+          55.692439999916
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 14,
+        "TPUNameen": "Транспортно-пересадочный узел «Университет» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Университет»",
+        "YearOfComissioningen": "2018",
+        "Statusen": null,
+        "AvailableTransferen": "метро; перехватывающая парковка",
+        "CarCapacityen": 30,
+        "globalid": 1769976
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.482192988545,
+          55.66328995264
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 15,
+        "TPUNameen": "Транспортно-пересадочный узел «Юго-Западная» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Юго-Западная»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "метро; автовокзал; перехватывающая парковка",
+        "CarCapacityen": 210,
+        "globalid": 1769977
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.737995000367,
+          55.747173000217
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 150,
+        "TPUNameen": "Транспортно-пересадочный узел «Андроновка»",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "платформа «Андроновка»",
+        "YearOfComissioningen": "2015",
+        "Statusen": null,
+        "AvailableTransferen": "московская кольцевая железная дорога; наземный городской транспорт; перехватывающая парковка",
+        "CarCapacityen": 60,
+        "globalid": 1769981
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.716146999782,
+          55.723906000015
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 151,
+        "TPUNameen": "Транспортно-пересадочный узел «Новохохловская»",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "платформа строится",
+        "YearOfComissioningen": "2015",
+        "Statusen": null,
+        "AvailableTransferen": "московская кольцевая железная дорога; наземный городской транспорт; перехватывающая парковка; пригородная железная дорога",
+        "CarCapacityen": 120,
+        "globalid": 1769982
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.695912999573,
+          55.717826000098
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 152,
+        "TPUNameen": "Транспортно-пересадочный узел «Волгоградская»",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "платформа «Угрешская»",
+        "YearOfComissioningen": "2015",
+        "Statusen": null,
+        "AvailableTransferen": "московская кольцевая железная дорога; наземный городской транспорт",
+        "CarCapacityen": null,
+        "globalid": 1769983
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.604959000162,
+          55.69013000019
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 156,
+        "TPUNameen": "Транспортно-пересадочный узел «Севастопольский проспект» (к) (1)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "платформа «Севастопольский проспект»",
+        "YearOfComissioningen": "2020",
+        "Statusen": null,
+        "AvailableTransferen": "Наземный городской пассажирский транспорт",
+        "CarCapacityen": null,
+        "globalid": 1769987
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.668108999771,
+          55.839399000054
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 157,
+        "TPUNameen": "Транспортно-пересадочный узел «Ярославская» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "платформа «Ярославская»",
+        "YearOfComissioningen": "2020",
+        "Statusen": null,
+        "AvailableTransferen": "Наземный городской пассажирский транспорт, Ярославское направление железной дороги",
+        "CarCapacityen": null,
+        "globalid": 1769988
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.486811000147,
+          55.814903999904
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 159,
+        "TPUNameen": "Транспортно-пересадочный узел «Волоколамская» (1)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "платформа строится",
+        "YearOfComissioningen": "2015",
+        "Statusen": null,
+        "AvailableTransferen": "московская кольцевая железная дорога; наземный городской транспорт; пригородная железная дорога",
+        "CarCapacityen": null,
+        "globalid": 1769990
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.572043999618,
+          55.848899000234
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 160,
+        "TPUNameen": "Транспортно-пересадочный узел «Окружная» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "платформа «Окружная»",
+        "YearOfComissioningen": "2018",
+        "Statusen": null,
+        "AvailableTransferen": "Наземный городской пассажирский транспорт, Савеловское направление железной дороги",
+        "CarCapacityen": null,
+        "globalid": 1769991
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.74520500011,
+          55.770476999975
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 161,
+        "TPUNameen": "Транспортно-пересадочный узел «Соколиная Гора»",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "платформа строится",
+        "YearOfComissioningen": "2015",
+        "Statusen": null,
+        "AvailableTransferen": "московская кольцевая железная дорога; наземный городской транспорт; перехватывающая парковка",
+        "CarCapacityen": 800,
+        "globalid": 1769992
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4996270002,
+          55.798242999967
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 162,
+        "TPUNameen": "Транспортно-пересадочный узел «Ходынка»",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "платформа строится",
+        "YearOfComissioningen": "2015",
+        "Statusen": null,
+        "AvailableTransferen": "московская кольцевая железная дорога; наземный городской транспорт",
+        "CarCapacityen": null,
+        "globalid": 1769993
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.678081999935,
+          55.71266600003
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 163,
+        "TPUNameen": "Транспортно-пересадочный узел «Дубровка» (2)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "платформа «Угрешская»",
+        "YearOfComissioningen": "2015",
+        "Statusen": null,
+        "AvailableTransferen": "московская кольцевая железная дорога; наземный городской транспорт",
+        "CarCapacityen": null,
+        "globalid": 1769994
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.617678000132,
+          55.68989299995
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 164,
+        "TPUNameen": "Транспортно-пересадочный узел «Варшавское шоссе»",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "платформа строится",
+        "YearOfComissioningen": "2015",
+        "Statusen": null,
+        "AvailableTransferen": "московская кольцевая железная дорога; наземный городской транспорт; перехватывающая парковка; пригородная железная дорога",
+        "CarCapacityen": 100,
+        "globalid": 1769995
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.516394000181,
+          55.766699999842
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 165,
+        "TPUNameen": "Транспортно-пересадочный узел «Пресня»",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "платформа строится",
+        "YearOfComissioningen": "2015",
+        "Statusen": null,
+        "AvailableTransferen": "московская кольцевая железная дорога; наземный городской транспорт",
+        "CarCapacityen": null,
+        "globalid": 1769996
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.507081000341,
+          55.777301000187
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 166,
+        "TPUNameen": "Транспортно-пересадочный узел «Хорошёво»",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "платформа строится",
+        "YearOfComissioningen": "2015",
+        "Statusen": null,
+        "AvailableTransferen": "московская кольцевая железная дорога; наземный городской транспорт",
+        "CarCapacityen": null,
+        "globalid": 1769997
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.504441999768,
+          55.788171999955
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 167,
+        "TPUNameen": "Транспортно-пересадочный узел «Новопесчаная»",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "платформа строится",
+        "YearOfComissioningen": "2015",
+        "Statusen": null,
+        "AvailableTransferen": "московская кольцевая железная дорога; наземный городской транспорт; перехватывающая парковка",
+        "CarCapacityen": null,
+        "globalid": 1769998
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.701958000275,
+          55.829506999967
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 168,
+        "TPUNameen": "Транспортно-пересадочный узел «Белокаменная»",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "платформа строится",
+        "YearOfComissioningen": "2015",
+        "Statusen": null,
+        "AvailableTransferen": "московская кольцевая железная дорога; наземный городской транспорт",
+        "CarCapacityen": null,
+        "globalid": 1769999
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.173550000195,
+          55.980208999848
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 21,
+        "TPUNameen": "Транспортно-пересадочный узел «Крюково» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "платформа «Крюково»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "пригородная железная дорога",
+        "CarCapacityen": null,
+        "globalid": 1770001
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.210563999906,
+          55.969508999812
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 22,
+        "TPUNameen": "Транспортно-пересадочный узел «Малино» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "платформа «Малино»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "пригородная железная дорога",
+        "CarCapacityen": 16,
+        "globalid": 1770002
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.531244158839,
+          55.801229713764
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 23,
+        "TPUNameen": "Транспортно-пересадочный узел «Аэропорт» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Аэропорт»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "метро; перехватывающая парковка",
+        "CarCapacityen": 100,
+        "globalid": 1770003
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.526665000272,
+          55.815890999833
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 25,
+        "TPUNameen": "Транспортно-пересадочный узел «Красный Балтиец» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "платформа «Красный Балтиец»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "пригородная железная дорога",
+        "CarCapacityen": null,
+        "globalid": 1770005
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.538635000229,
+          55.904537000204
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 26,
+        "TPUNameen": "Транспортно-пересадочный узел «Марк» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "платформа «Марк»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "пригородная железная дорога",
+        "CarCapacityen": 90,
+        "globalid": 1770006
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.526622473128,
+          55.862531154242
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 27,
+        "TPUNameen": "Транспортно-пересадочный узел «Моссельмаш» (с)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "платформа «Моссельмаш»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "пригородная железная дорога",
+        "CarCapacityen": 53,
+        "globalid": 1770007
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.352026153458,
+          55.936659100158
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 29,
+        "TPUNameen": "Транспортно-пересадочный узел «Новоподрезково» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "платформа «Новоподрезково»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "пригородная железная дорога",
+        "CarCapacityen": 102,
+        "globalid": 1770009
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.556888576359,
+          55.790614556397
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 30,
+        "TPUNameen": "Транспортно-пересадочный узел «Петровский парк» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Петровский парк»",
+        "YearOfComissioningen": "2015",
+        "Statusen": null,
+        "AvailableTransferen": "метро; перехватывающая парковка",
+        "CarCapacityen": 300,
+        "globalid": 1770010
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.654041050943,
+          55.855889229721
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 31,
+        "TPUNameen": "Транспортно-пересадочный узел «Свиблово» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Свиблово»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "метро; перехватывающая парковка",
+        "CarCapacityen": 660,
+        "globalid": 1770011
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.669951904356,
+          55.829569603909
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 32,
+        "TPUNameen": "Транспортно-пересадочный узел «Яуза» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "платформа «Яуза»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "пригородная железная дорога",
+        "CarCapacityen": 14,
+        "globalid": 1770012
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.636681795289,
+          55.80891609238
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 33,
+        "TPUNameen": "Транспортно-пересадочный узел «Алексеевская» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Алексеевская»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "метро; перехватывающая парковка",
+        "CarCapacityen": 390,
+        "globalid": 1770013
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.638744000194,
+          55.846071000217
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 34,
+        "TPUNameen": "Транспортно-пересадочный узел «Ботанический Сад» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Ботанический сад»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "метро; московская кольцевая железная дорога; перехватывающая парковка",
+        "CarCapacityen": 200,
+        "globalid": 1770014
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.590046861343,
+          55.846448628456
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 35,
+        "TPUNameen": "Транспортно-пересадочный узел «Владыкино» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Владыкино»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "метро; московская кольцевая железная дорога; перехватывающая парковка",
+        "CarCapacityen": null,
+        "globalid": 1770015
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.469302999651,
+          55.764684999841
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 186,
+        "TPUNameen": "Транспортно-пересадочный узел «Мневники»",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Мнёвники»",
+        "YearOfComissioningen": "2019",
+        "Statusen": null,
+        "AvailableTransferen": "метро",
+        "CarCapacityen": null,
+        "globalid": 1770016
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.478895000049,
+          55.777221999996
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 187,
+        "TPUNameen": "Транспортно-пересадочный узел «улица Народного Ополчения» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «улица Народного Ополчения»",
+        "YearOfComissioningen": "2020",
+        "Statusen": null,
+        "AvailableTransferen": "метро",
+        "CarCapacityen": null,
+        "globalid": 1770017
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.680929000022,
+          55.675170999859
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 188,
+        "TPUNameen": "Транспортно-пересадочный узел «Кленовый Бульвар» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Нагатинский затон»",
+        "YearOfComissioningen": "2019",
+        "Statusen": null,
+        "AvailableTransferen": "метро",
+        "CarCapacityen": null,
+        "globalid": 1770018
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.489304000231,
+          55.692545999797
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 190,
+        "TPUNameen": "Транспортно-пересадочный узел «Мичуринский проспект» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Мичуринский проспект»",
+        "YearOfComissioningen": "2020",
+        "Statusen": null,
+        "AvailableTransferen": "метро; перехватывающая парковка",
+        "CarCapacityen": 390,
+        "globalid": 1770020
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.54617200021,
+          55.868317000013
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 192,
+        "TPUNameen": "Транспортно-пересадочный узел «Селигерская улица» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Селигерская улица»",
+        "YearOfComissioningen": "2019",
+        "Statusen": null,
+        "AvailableTransferen": "Метро; перехватывающая парковка; автовокзал",
+        "CarCapacityen": 870,
+        "globalid": 1770022
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.576539000417,
+          55.814987999799
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 195,
+        "TPUNameen": "Транспортно-пересадочный узел «Фонвизинская» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Фонвизинская»",
+        "YearOfComissioningen": "2019",
+        "Statusen": null,
+        "AvailableTransferen": "метро",
+        "CarCapacityen": null,
+        "globalid": 1770025
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.877233999662,
+          55.709428999898
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 199,
+        "TPUNameen": "Транспортно-пересадочный узел «Улица Дмитриевского » (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Улица Дмитриевского»",
+        "YearOfComissioningen": "2019",
+        "Statusen": null,
+        "AvailableTransferen": "метро",
+        "CarCapacityen": null,
+        "globalid": 1770029
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.765548999924,
+          55.633412999774
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 200,
+        "TPUNameen": "Транспортно-пересадочный узел «Алма-Атинская» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Алма-Атинская»",
+        "YearOfComissioningen": "2019",
+        "Statusen": null,
+        "AvailableTransferen": "метро",
+        "CarCapacityen": null,
+        "globalid": 1770030
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.816614999773,
+          55.751716999821
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 213,
+        "TPUNameen": "Транспортно-пересадочный узел «Новогиреево» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Новогиреево»",
+        "YearOfComissioningen": "2020",
+        "Statusen": null,
+        "AvailableTransferen": "метро",
+        "CarCapacityen": null,
+        "globalid": 1770031
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.798555999631,
+          55.810228000125
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 214,
+        "TPUNameen": "Транспортно-пересадочный узел «Щелковская»",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Щёлковская»",
+        "YearOfComissioningen": "2020",
+        "Statusen": null,
+        "AvailableTransferen": "Метро; перехватывающая парковка",
+        "CarCapacityen": 600,
+        "globalid": 1770032
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.65386900021,
+          55.74220299979
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 215,
+        "TPUNameen": "Транспортно-пересадочный узел «Таганская» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Таганская»",
+        "YearOfComissioningen": "2020",
+        "Statusen": null,
+        "AvailableTransferen": "Метро; станция железной дороги; автовокзал",
+        "CarCapacityen": null,
+        "globalid": 1770033
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.437585999556,
+          55.827034000085
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 216,
+        "TPUNameen": "Транспортно-пересадочный узел «Тушинская» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Тушинская», платформа «Тушинская»",
+        "YearOfComissioningen": "2020",
+        "Statusen": null,
+        "AvailableTransferen": "Метро; станция железной дороги; автовокзал",
+        "CarCapacityen": null,
+        "globalid": 1770034
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.680626999899,
+          55.746568999972
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 217,
+        "TPUNameen": "Транспортно-пересадочный узел «Площадь Ильича» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Площадь Ильича», платформа «Площадь Ильича»",
+        "YearOfComissioningen": "2020",
+        "Statusen": null,
+        "AvailableTransferen": "метро; пригородная железная дорога",
+        "CarCapacityen": null,
+        "globalid": 1770035
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.717212999987,
+          55.751630999933
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 218,
+        "TPUNameen": "Транспортно-пересадочный узел «Авиамоторная» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Авиамоторная»",
+        "YearOfComissioningen": "2019",
+        "Statusen": null,
+        "AvailableTransferen": "Метро; перехватывающая парковка; станция железной дороги",
+        "CarCapacityen": 290,
+        "globalid": 1770036
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.575098000293,
+          55.836431999998
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 219,
+        "TPUNameen": "Транспортно-пересадочный узел «Петровско-Разумовская» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Петровско-Разумовская»",
+        "YearOfComissioningen": "2018",
+        "Statusen": null,
+        "AvailableTransferen": "Метро; перехватывающая парковка; станция железной дороги",
+        "CarCapacityen": 210,
+        "globalid": 1770037
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.668847999738,
+          55.621540999768
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 220,
+        "TPUNameen": "Транспортно-пересадочный узел «Царицыно» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Царицыно»",
+        "YearOfComissioningen": "2020",
+        "Statusen": null,
+        "AvailableTransferen": "Метро; перехватывающая парковка; станция железной дороги",
+        "CarCapacityen": 470,
+        "globalid": 1770038
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.730901999902,
+          55.709227999986
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 221,
+        "TPUNameen": "Транспортно-пересадочный узел «Текстильщики» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Текстильщики»",
+        "YearOfComissioningen": "2020",
+        "Statusen": null,
+        "AvailableTransferen": "Метро; перехватывающая парковка; станция железной дороги",
+        "CarCapacityen": 250,
+        "globalid": 1770039
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.439609000186,
+          55.850693000199
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 222,
+        "TPUNameen": "Транспортно-пересадочный узел «Сходненская» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Сходненская»",
+        "YearOfComissioningen": "2020",
+        "Statusen": null,
+        "AvailableTransferen": "метро",
+        "CarCapacityen": null,
+        "globalid": 1770040
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.664383999799,
+          55.869714999901
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 223,
+        "TPUNameen": "Транспортно-пересадочный узел «Бабушкинская» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Бабушкинская»",
+        "YearOfComissioningen": "2020",
+        "Statusen": null,
+        "AvailableTransferen": "метро; перехватывающая парковка",
+        "CarCapacityen": 380,
+        "globalid": 1770041
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.744060000263,
+          55.613700999913
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 224,
+        "TPUNameen": "Транспортно-пересадочный узел «Красногвардейская» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Красногвардейская»",
+        "YearOfComissioningen": "2020",
+        "Statusen": null,
+        "AvailableTransferen": "Метро; перехватывающая парковка; автовокзал",
+        "CarCapacityen": 140,
+        "globalid": 1770042
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.575908000405,
+          55.819162999754
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 225,
+        "TPUNameen": "Транспортно-пересадочный узел «Тимирязевская» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Тимирязевская»",
+        "YearOfComissioningen": "2020",
+        "Statusen": null,
+        "AvailableTransferen": "Метро; перехватывающая парковка; станция железной дороги",
+        "CarCapacityen": 350,
+        "globalid": 1770043
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.41591500032,
+          55.740785999995
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 226,
+        "TPUNameen": "Транспортно-пересадочный узел «Молодежная» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Молодёжная»",
+        "YearOfComissioningen": "2020",
+        "Statusen": null,
+        "AvailableTransferen": "Метро; перехватывающая парковка",
+        "CarCapacityen": null,
+        "globalid": 1770044
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.505912000204,
+          55.618729999756
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 227,
+        "TPUNameen": "Транспортно-пересадочный узел «Теплый Стан» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Тёплый Стан»",
+        "YearOfComissioningen": "2020",
+        "Statusen": null,
+        "AvailableTransferen": "Метро; перехватывающая парковка; автовокзал",
+        "CarCapacityen": 210,
+        "globalid": 1770045
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.464420000311,
+          55.808646000115
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 229,
+        "TPUNameen": "Транспортно-пересадочный узел «Щукинская» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Щукинская»",
+        "YearOfComissioningen": "2020",
+        "Statusen": null,
+        "AvailableTransferen": "метро",
+        "CarCapacityen": null,
+        "globalid": 1770047
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.705392999818,
+          55.781283999821
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 230,
+        "TPUNameen": "Транспортно-пересадочный узел «Электрозаводская» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Электрозаводская»",
+        "YearOfComissioningen": "2020",
+        "Statusen": null,
+        "AvailableTransferen": "Метро; станция железной дороги",
+        "CarCapacityen": 90,
+        "globalid": 1770048
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.621773999824,
+          55.682748000245
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 232,
+        "TPUNameen": "Транспортно-пересадочный узел «Нагатинская» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Нагатинская»",
+        "YearOfComissioningen": "2020",
+        "Statusen": null,
+        "AvailableTransferen": "Метро; станция железной дороги",
+        "CarCapacityen": null,
+        "globalid": 1770049
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.718859999975,
+          55.78264399984
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 233,
+        "TPUNameen": "Транспортно-пересадочный узел «Семеновская» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Семеновская»",
+        "YearOfComissioningen": "2020",
+        "Statusen": null,
+        "AvailableTransferen": "метро; перехватывающая парковка",
+        "CarCapacityen": 100,
+        "globalid": 1770050
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.470701000117,
+          55.729581999999
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 234,
+        "TPUNameen": "Транспортно-пересадочный узел «Славянский бульвар» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Слявянский бульвар»",
+        "YearOfComissioningen": "2020",
+        "Statusen": null,
+        "AvailableTransferen": "Метро; перехватывающая парковка",
+        "CarCapacityen": 330,
+        "globalid": 1770051
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.577404999707,
+          55.808433000007
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 235,
+        "TPUNameen": "Транспортно-пересадочный узел «Дмитровская» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Дмитровская»",
+        "YearOfComissioningen": "2020",
+        "Statusen": null,
+        "AvailableTransferen": "Метро; перехватывающая парковка; станция железной дороги",
+        "CarCapacityen": 160,
+        "globalid": 1770052
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.443781999871,
+          55.731074000161
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 236,
+        "TPUNameen": "Транспортно-пересадочный узел «Кунцевская» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Кунцевская»",
+        "YearOfComissioningen": "2020",
+        "Statusen": null,
+        "AvailableTransferen": "Метро; перехватывающая парковка; станция железной дороги",
+        "CarCapacityen": null,
+        "globalid": 1770053
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.619788999727,
+          55.653694000242
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 237,
+        "TPUNameen": "Транспортно-пересадочный узел «Варшавская» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Варшавская»",
+        "YearOfComissioningen": "2020",
+        "Statusen": null,
+        "AvailableTransferen": "Метро; станция железной дороги; автовокзал",
+        "CarCapacityen": null,
+        "globalid": 1770054
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.467077000428,
+          55.735925000028
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 269,
+        "TPUNameen": "Транспортно-пересадочный узел «Пионерская» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Пионерская»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "метро; перехватывающая парковка",
+        "CarCapacityen": null,
+        "globalid": 1770055
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.348172999829,
+          55.861446999884
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 202,
+        "TPUNameen": "Транспортно-пересадочный узел «Пятницкое шоссе» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Пятницкое шоссе»",
+        "YearOfComissioningen": "2018",
+        "Statusen": null,
+        "AvailableTransferen": "Метро; перехватывающая парковка",
+        "CarCapacityen": 2100,
+        "globalid": 1770057
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.553155999997,
+          55.601418999978
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 203,
+        "TPUNameen": "Транспортно-пересадочный узел «Битцевский парк» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Новоясеневская»",
+        "YearOfComissioningen": "2018",
+        "Statusen": null,
+        "AvailableTransferen": "метро",
+        "CarCapacityen": null,
+        "globalid": 1770058
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.481265999935,
+          55.648565999802
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 205,
+        "TPUNameen": "Транспортно-пересадочный узел «Тропарево» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Тропарево»",
+        "YearOfComissioningen": "2019",
+        "Statusen": null,
+        "AvailableTransferen": "метро",
+        "CarCapacityen": null,
+        "globalid": 1770060
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.852262999703,
+          55.701138999929
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 208,
+        "TPUNameen": "Транспортно-пересадочный узел «Лермонтовский проспект» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Лермонтовский проспект»",
+        "YearOfComissioningen": "2020",
+        "Statusen": null,
+        "AvailableTransferen": "Метро; перехватывающая парковка",
+        "CarCapacityen": null,
+        "globalid": 1770063
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.704263000039,
+          55.764428999797
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 209,
+        "TPUNameen": "Транспортно-пересадочный узел «Лефортово» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Лефортово»",
+        "YearOfComissioningen": "2020",
+        "Statusen": null,
+        "AvailableTransferen": "метро",
+        "CarCapacityen": null,
+        "globalid": 1770064
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.437084000314,
+          55.822367999858
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 210,
+        "TPUNameen": "Транспортно-пересадочный узел «Спартак»",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Спартак»",
+        "YearOfComissioningen": "2015",
+        "Statusen": null,
+        "AvailableTransferen": "метро",
+        "CarCapacityen": null,
+        "globalid": 1770065
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.662908000414,
+          55.814297999979
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 254,
+        "TPUNameen": "Транспортно-пересадочный узел «Маленковская» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "платформа «Маленковская»",
+        "YearOfComissioningen": "2020",
+        "Statusen": null,
+        "AvailableTransferen": "пригородная железная дорога",
+        "CarCapacityen": null,
+        "globalid": 1770066
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.475951999702,
+          55.854925999759
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 255,
+        "TPUNameen": "Транспортно-пересадочный узел «Речной вокзал» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Речной вокзал»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "метро; перехватывающая парковка",
+        "CarCapacityen": null,
+        "globalid": 1770067
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.583741999589,
+          55.581185000019
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 211,
+        "TPUNameen": "Транспортно-пересадочный узел «Лесопарковая» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Лесопарковая»",
+        "YearOfComissioningen": "2018",
+        "Statusen": null,
+        "AvailableTransferen": "Метро",
+        "CarCapacityen": null,
+        "globalid": 1770068
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.817968999858,
+          55.715682000188
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 212,
+        "TPUNameen": "Транспортно-пересадочный узел «Выхино» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Выхино», платформа «Выхино»",
+        "YearOfComissioningen": "2019",
+        "Statusen": null,
+        "AvailableTransferen": "метро; перехватывающая парковка; пригородная железная дорога",
+        "CarCapacityen": 320,
+        "globalid": 1770069
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.693407999792,
+          55.613051000097
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 240,
+        "TPUNameen": "Транспортно-пересадочный узел «Орехово» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Орехово»",
+        "YearOfComissioningen": "2018",
+        "Statusen": null,
+        "AvailableTransferen": "метро; перехватывающая парковка",
+        "CarCapacityen": null,
+        "globalid": 1770070
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.761952999825,
+          55.676299999757
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 241,
+        "TPUNameen": "Транспортно-пересадочный узел «Люблино» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Люблино»",
+        "YearOfComissioningen": "2020",
+        "Statusen": null,
+        "AvailableTransferen": "Метро, перехватывающая парковка",
+        "CarCapacityen": null,
+        "globalid": 1770071
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.687101999873,
+          55.724899999857
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 242,
+        "TPUNameen": "Транспортно-пересадочный узел «Волгоградский проспект» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Волгоградский проспект»",
+        "YearOfComissioningen": "2020",
+        "Statusen": null,
+        "AvailableTransferen": "метро",
+        "CarCapacityen": null,
+        "globalid": 1770072
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.514769999759,
+          55.746140999787
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 243,
+        "TPUNameen": "Транспортно-пересадочный узел «Фили» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Фили», платформа «Фили»",
+        "YearOfComissioningen": "2020",
+        "Statusen": null,
+        "AvailableTransferen": "Метро; станция железной дороги",
+        "CarCapacityen": null,
+        "globalid": 1770073
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.683155000144,
+          55.862674000045
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 244,
+        "TPUNameen": "Транспортно-пересадочный узел «Лосиноостровская» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "платформа «Лосиноостровская»",
+        "YearOfComissioningen": "2020",
+        "Statusen": null,
+        "AvailableTransferen": "Станция железной дороги",
+        "CarCapacityen": null,
+        "globalid": 1770074
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.818543999793,
+          55.744461999748
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 245,
+        "TPUNameen": "Транспортно-пересадочный узел «Новогиреево» (2)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "платформа «Новогиреево»",
+        "YearOfComissioningen": "2020",
+        "Statusen": null,
+        "AvailableTransferen": "пригородная железная дорога",
+        "CarCapacityen": null,
+        "globalid": 1770075
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.659601000019,
+          55.583054999792
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 246,
+        "TPUNameen": "Транспортно-пересадочный узел «Бирюлево-Пассажирская» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "платформа «Бирюлево-Пассажирская»",
+        "YearOfComissioningen": "2020",
+        "Statusen": null,
+        "AvailableTransferen": "пригородная железная дорога",
+        "CarCapacityen": null,
+        "globalid": 1770076
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.483328000025,
+          55.73951899988
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 247,
+        "TPUNameen": "Транспортно-пересадочный узел «Филевский парк» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Филёвский парк»",
+        "YearOfComissioningen": "2020",
+        "Statusen": null,
+        "AvailableTransferen": "метро",
+        "CarCapacityen": null,
+        "globalid": 1770077
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.653788999844,
+          55.592866000245
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 248,
+        "TPUNameen": "Транспортно-пересадочный узел «Бирюлево-Товарная» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "платформа «Бирюлево-Товарная»",
+        "YearOfComissioningen": "2020",
+        "Statusen": null,
+        "AvailableTransferen": "пригородная железная дорога",
+        "CarCapacityen": null,
+        "globalid": 1770078
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.481799999862,
+          55.70465600016
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 249,
+        "TPUNameen": "Транспортно-пересадочный узел «Матвеевское» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "платформа «Матвеевская»",
+        "YearOfComissioningen": "2020",
+        "Statusen": null,
+        "AvailableTransferen": "пригородная железная дорога",
+        "CarCapacityen": null,
+        "globalid": 1770079
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.467078000253,
+          55.735986000038
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 250,
+        "TPUNameen": "Транспортно-пересадочный узел «Пионерская» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Пионерская»",
+        "YearOfComissioningen": "2020",
+        "Statusen": null,
+        "AvailableTransferen": "метро; перехватывающая парковка",
+        "CarCapacityen": 130,
+        "globalid": 1770080
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.573207999733,
+          55.865842000143
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 251,
+        "TPUNameen": "Транспортно-пересадочный узел «Дегунино» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "платформа «Дегунино»",
+        "YearOfComissioningen": "2020",
+        "Statusen": null,
+        "AvailableTransferen": "пригородная железная дорога",
+        "CarCapacityen": null,
+        "globalid": 1770081
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.450719999628,
+          55.683464000034
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 252,
+        "TPUNameen": "Транспортно-пересадочный узел «Очаково 1» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "платформа «Очаково»",
+        "YearOfComissioningen": "2021",
+        "Statusen": null,
+        "AvailableTransferen": "пригородная железная дорога",
+        "CarCapacityen": null,
+        "globalid": 1770082
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.50988900007,
+          55.869577999972
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 253,
+        "TPUNameen": "Транспортно-пересадочный узел «Ховрино» (к) (2)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "платформа «Ховрино»",
+        "YearOfComissioningen": "2020",
+        "Statusen": null,
+        "AvailableTransferen": "Станция железной дороги",
+        "CarCapacityen": null,
+        "globalid": 1770083
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.587086999618,
+          55.898327000101
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 257,
+        "TPUNameen": "Транспортно-пересадочный узел «Алтуфьево» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Алтуфьево»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "метро; перехватывающая парковка",
+        "CarCapacityen": null,
+        "globalid": 1770085
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.497555000065,
+          55.819417000113
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 258,
+        "TPUNameen": "Транспортно-пересадочный узел «Войковская» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Войковская»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "метро; перехватывающая парковка; московская кольцевая железная дорога; пригородная железная дорога",
+        "CarCapacityen": null,
+        "globalid": 1770086
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6422060004,
+          55.821351000212
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 259,
+        "TPUNameen": "Транспортно-пересадочный узел «ВДНХ» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «ВДНХ»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "метро; перехватывающая парковка; автовокзал",
+        "CarCapacityen": null,
+        "globalid": 1770087
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.462569999934,
+          55.809646999951
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 263,
+        "TPUNameen": "Транспортно-пересадочный узел «Щукинская» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Щукинская»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "метро",
+        "CarCapacityen": null,
+        "globalid": 1770091
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.786157000227,
+          55.751283000012
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 265,
+        "TPUNameen": "Транспортно-пересадочный узел «Перово» (п) (2)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Перово»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "метро; перехватывающая парковка",
+        "CarCapacityen": null,
+        "globalid": 1770093
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.762389999668,
+          55.676810000192
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 267,
+        "TPUNameen": "Транспортно-пересадочный узел «Люблино» (п) (1)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Люблино»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "метро; перехватывающая парковка",
+        "CarCapacityen": null,
+        "globalid": 1770094
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4835099996,
+          55.739469000094
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 268,
+        "TPUNameen": "Транспортно-пересадочный узел «Филевский парк» (п)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Филёвский парк»",
+        "YearOfComissioningen": "2014",
+        "Statusen": null,
+        "AvailableTransferen": "метро",
+        "CarCapacityen": null,
+        "globalid": 1770095
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.641135000172,
+          55.821047000177
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 170,
+        "TPUNameen": "Транспортно-пересадочный узел «ВДНХ» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «ВДНХ»",
+        "YearOfComissioningen": "2018",
+        "Statusen": null,
+        "AvailableTransferen": "Метро; перехватывающая парковка",
+        "CarCapacityen": 400,
+        "globalid": 1770096
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.864524999738,
+          55.70822699995
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 171,
+        "TPUNameen": "Транспортно-пересадочный узел «Новокосино» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Новокосино»",
+        "YearOfComissioningen": "2018",
+        "Statusen": null,
+        "AvailableTransferen": "метро; перехватывающая парковка",
+        "CarCapacityen": 3400,
+        "globalid": 1770097
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.419518000092,
+          55.62324499981
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 174,
+        "TPUNameen": "Транспортно-пересадочный узел «Саларьево»",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Саларьево»",
+        "YearOfComissioningen": "2017",
+        "Statusen": null,
+        "AvailableTransferen": "метро; перехватывающая парковка; автовокзал",
+        "CarCapacityen": 3800,
+        "globalid": 1770099
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.927844000299,
+          55.704647000061
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 176,
+        "TPUNameen": "Транспортно-пересадочный узел «Некрасовка» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Некрасовка»",
+        "YearOfComissioningen": "2018",
+        "Statusen": null,
+        "AvailableTransferen": "метро",
+        "CarCapacityen": null,
+        "globalid": 1770101
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.543963999632,
+          55.888288999823
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 178,
+        "TPUNameen": "Транспортно-пересадочный узел «Дегунино» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Дегунино»",
+        "YearOfComissioningen": "2020",
+        "Statusen": null,
+        "AvailableTransferen": "метро; перехватывающая парковка",
+        "CarCapacityen": 470,
+        "globalid": 1770103
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.605518000204,
+          55.690039000041
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 179,
+        "TPUNameen": "Транспортно-пересадочный узел «Севастопольский проспект» (к) (2)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Севастопольский проспект»",
+        "YearOfComissioningen": "2020",
+        "Statusen": null,
+        "AvailableTransferen": "метро",
+        "CarCapacityen": null,
+        "globalid": 1770104
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.66538600043,
+          55.689852999913
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 181,
+        "TPUNameen": "Транспортно-пересадочный узел «Технопарк» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Технопарк»",
+        "YearOfComissioningen": "2020",
+        "Statusen": null,
+        "AvailableTransferen": "метро",
+        "CarCapacityen": null,
+        "globalid": 1770106
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.856495999662,
+          55.675707999855
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 182,
+        "TPUNameen": "Транспортно-пересадочный узел «Котельники» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Котельники»",
+        "YearOfComissioningen": "2019",
+        "Statusen": null,
+        "AvailableTransferen": "Метро; перехватывающая парковка; автовокзал",
+        "CarCapacityen": null,
+        "globalid": 1770107
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.466376000096,
+          55.694678999929
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 185,
+        "TPUNameen": "Транспортно-пересадочный узел «Аминьевское шоссе» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Аминьевское шоссе»",
+        "YearOfComissioningen": "2019",
+        "Statusen": null,
+        "AvailableTransferen": "Метро; автовокзал",
+        "CarCapacityen": null,
+        "globalid": 1770110
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.57341500032,
+          55.687737000079
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 271,
+        "TPUNameen": "Транспортно-пересадочный узел «Академическая» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Академическая»",
+        "YearOfComissioningen": "2018",
+        "Statusen": null,
+        "AvailableTransferen": "Метро; перехватывающая парковка",
+        "CarCapacityen": null,
+        "globalid": 170429968
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.532633999907,
+          55.800417999959
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 273,
+        "TPUNameen": "Транспортно-пересадочный узел «Аэропорт» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Аэропорт»",
+        "YearOfComissioningen": "2018",
+        "Statusen": null,
+        "AvailableTransferen": "Метро; перехватывающая парковка",
+        "CarCapacityen": null,
+        "globalid": 170429970
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.545581000381,
+          55.773469000023
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 275,
+        "TPUNameen": "Транспортно-пересадочный узел «Беговая» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Беговая»",
+        "YearOfComissioningen": "2018",
+        "Statusen": null,
+        "AvailableTransferen": "Метро; станция железной дороги",
+        "CarCapacityen": null,
+        "globalid": 170429972
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.526114999552,
+          55.64235699989
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 276,
+        "TPUNameen": "Транспортно-пересадочный узел «Беляево» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Беляево»",
+        "YearOfComissioningen": "2018",
+        "Statusen": null,
+        "AvailableTransferen": "Метро; перехватывающая парковка",
+        "CarCapacityen": null,
+        "globalid": 170429973
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.603010999875,
+          55.883868000228
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 277,
+        "TPUNameen": "Транспортно-пересадочный узел «Бибирево» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Бибирево»",
+        "YearOfComissioningen": "2018",
+        "Statusen": null,
+        "AvailableTransferen": "Метро; перехватывающая парковка",
+        "CarCapacityen": null,
+        "globalid": 170429974
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.74381300039,
+          55.63358200007
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 278,
+        "TPUNameen": "Транспортно-пересадочный узел «Борисово» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Борисово»",
+        "YearOfComissioningen": "2018",
+        "Statusen": null,
+        "AvailableTransferen": "Метро; перехватывающая парковка",
+        "CarCapacityen": null,
+        "globalid": 170429975
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.750450999673,
+          55.659403999886
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 279,
+        "TPUNameen": "Транспортно-пересадочный узел «Братиславская» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Братиславская»",
+        "YearOfComissioningen": "2018",
+        "Statusen": null,
+        "AvailableTransferen": "Метро; перехватывающая парковка",
+        "CarCapacityen": null,
+        "globalid": 170429976
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.543218999817,
+          55.545406000139
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 280,
+        "TPUNameen": "Транспортно-пересадочный узел «Бульвар адмирала Ушакова» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Бульвар адмирала Ушакова»",
+        "YearOfComissioningen": "2018",
+        "Statusen": null,
+        "AvailableTransferen": "Метро; перехватывающая парковка",
+        "CarCapacityen": null,
+        "globalid": 170429977
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.577346000156,
+          55.569666999981
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 281,
+        "TPUNameen": "Транспортно-пересадочный узел «Бульвар Дмитрия Донского» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Бульвар Дмитрия Донского»",
+        "YearOfComissioningen": "2020",
+        "Statusen": null,
+        "AvailableTransferen": "Метро; перехватывающая парковка",
+        "CarCapacityen": null,
+        "globalid": 170429978
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          55.537964000223,
+          37.515919000204
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 282,
+        "TPUNameen": "Транспортно-пересадочный узел «Бунинская аллея» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Бунинская аллея»",
+        "YearOfComissioningen": "2018",
+        "Statusen": null,
+        "AvailableTransferen": "Метро",
+        "CarCapacityen": null,
+        "globalid": 170429979
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.717905000098,
+          55.610697000093
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 284,
+        "TPUNameen": "Транспортно-пересадочный узел «Домодедовская» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Домодедовская»",
+        "YearOfComissioningen": "2020",
+        "Statusen": null,
+        "AvailableTransferen": "Метро; перехватывающая парковка",
+        "CarCapacityen": null,
+        "globalid": 170429981
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.676240999779,
+          55.718069999862
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 285,
+        "TPUNameen": "Транспортно-пересадочный узел «Дубровка» (к) (1)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Дубровка»",
+        "YearOfComissioningen": "2018",
+        "Statusen": null,
+        "AvailableTransferen": "Метро",
+        "CarCapacityen": null,
+        "globalid": 170429982
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.855087000224,
+          55.684493000077
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 286,
+        "TPUNameen": "Транспортно-пересадочный узел «Жулебино» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Жулебино»",
+        "YearOfComissioningen": "2020",
+        "Statusen": null,
+        "AvailableTransferen": "Метро; перехватывающая парковка",
+        "CarCapacityen": null,
+        "globalid": 170429983
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.781380000295,
+          55.787745999802
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 287,
+        "TPUNameen": "Транспортно-пересадочный узел «Измайловская» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Измайловская»",
+        "YearOfComissioningen": "2018",
+        "Statusen": null,
+        "AvailableTransferen": "Метро; перехватывающая парковка",
+        "CarCapacityen": null,
+        "globalid": 170429984
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.656218000355,
+          55.636107000131
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 288,
+        "TPUNameen": "Транспортно-пересадочный узел «Кантемировская» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Кантемировская»",
+        "YearOfComissioningen": "2018",
+        "Statusen": null,
+        "AvailableTransferen": "Метро; перехватывающая парковка",
+        "CarCapacityen": null,
+        "globalid": 170429985
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.649256000309,
+          55.655411999959
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 289,
+        "TPUNameen": "Транспортно-пересадочный узел «Каширская» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Каширская»",
+        "YearOfComissioningen": "2018",
+        "Statusen": null,
+        "AvailableTransferen": "Метро; перехватывающая парковка",
+        "CarCapacityen": null,
+        "globalid": 170429986
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.685683000389,
+          55.706319999845
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 290,
+        "TPUNameen": "Транспортно-пересадочный узел «Кожуховская» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Кожуховская»",
+        "YearOfComissioningen": "2018",
+        "Statusen": null,
+        "AvailableTransferen": "Метро; перехватывающая парковка",
+        "CarCapacityen": null,
+        "globalid": 170429987
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.663827000306,
+          55.678406999956
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 291,
+        "TPUNameen": "Транспортно-пересадочный узел «Коломенская» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Коломенская»",
+        "YearOfComissioningen": "2020",
+        "Statusen": null,
+        "AvailableTransferen": "Метро",
+        "CarCapacityen": null,
+        "globalid": 170429988
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.362153999822,
+          55.845734000071
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 294,
+        "TPUNameen": "Транспортно-пересадочный узел «Митино» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Митино»",
+        "YearOfComissioningen": "2018",
+        "Statusen": null,
+        "AvailableTransferen": "Метро",
+        "CarCapacityen": null,
+        "globalid": 170429991
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.610745000398,
+          55.672853999773
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 295,
+        "TPUNameen": "Транспортно-пересадочный узел «Нагорная» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Нагорная»",
+        "YearOfComissioningen": "2018",
+        "Statusen": null,
+        "AvailableTransferen": "Метро; перехватывающая парковка",
+        "CarCapacityen": null,
+        "globalid": 170429992
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.604457999847,
+          55.661714999816
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 296,
+        "TPUNameen": "Транспортно-пересадочный узел «Нахимовский проспект» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Нахимовский проспект»",
+        "YearOfComissioningen": "2018",
+        "Statusen": null,
+        "AvailableTransferen": "Метро",
+        "CarCapacityen": null,
+        "globalid": 170429993
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.817168999792,
+          55.751660000081
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 297,
+        "TPUNameen": "Транспортно-пересадочный узел «Новогиреево» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Новогиреево»",
+        "YearOfComissioningen": "2020",
+        "Statusen": null,
+        "AvailableTransferen": "Метро",
+        "CarCapacityen": null,
+        "globalid": 170429994
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.562873999893,
+          55.677930000228
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 300,
+        "TPUNameen": "Транспортно-пересадочный узел «Профсоюзная» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Профсоюзная»",
+        "YearOfComissioningen": "2018",
+        "Statusen": null,
+        "AvailableTransferen": "Метро; перехватывающая парковка",
+        "CarCapacityen": null,
+        "globalid": 170429997
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.652238000115,
+          55.855224000125
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 301,
+        "TPUNameen": "Транспортно-пересадочный узел «Свиблово» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Свиблово»",
+        "YearOfComissioningen": "2018",
+        "Statusen": null,
+        "AvailableTransferen": "Метро; перехватывающая парковка",
+        "CarCapacityen": null,
+        "globalid": 170429998
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.403117999634,
+          55.803690999859
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 303,
+        "TPUNameen": "Транспортно-пересадочный узел «Строгино» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Строгино»",
+        "YearOfComissioningen": "2018",
+        "Statusen": null,
+        "AvailableTransferen": "Метро; перехватывающая парковка",
+        "CarCapacityen": null,
+        "globalid": 170430000
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.622612000423,
+          55.708841000176
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 304,
+        "TPUNameen": "Транспортно-пересадочный узел «Тульская» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Тульская»",
+        "YearOfComissioningen": "2020",
+        "Statusen": null,
+        "AvailableTransferen": "Метро",
+        "CarCapacityen": null,
+        "globalid": 170430001
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.531226000294,
+          55.54182499988
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 306,
+        "TPUNameen": "Транспортно-пересадочный узел «Улица Горчакова» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Улица Горчакова»",
+        "YearOfComissioningen": "2018",
+        "Statusen": null,
+        "AvailableTransferen": "Метро",
+        "CarCapacityen": null,
+        "globalid": 170430003
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.606073999873,
+          55.640538000076
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 307,
+        "TPUNameen": "Транспортно-пересадочный узел «Чертановская» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Чертановская»",
+        "YearOfComissioningen": "2018",
+        "Statusen": null,
+        "AvailableTransferen": "Метро",
+        "CarCapacityen": null,
+        "globalid": 170430004
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.743749999743,
+          55.620733000047
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 308,
+        "TPUNameen": "Транспортно-пересадочный узел «Шипиловская» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Шипиловская»",
+        "YearOfComissioningen": "2018",
+        "Statusen": null,
+        "AvailableTransferen": "Метро; перехватывающая парковка",
+        "CarCapacityen": null,
+        "globalid": 170430005
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.482851999824,
+          55.663146000081
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 309,
+        "TPUNameen": "Транспортно-пересадочный узел «Юго-Западная» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Юго-Западная»",
+        "YearOfComissioningen": "2020",
+        "Statusen": null,
+        "AvailableTransferen": "Метро; перехватывающая парковка",
+        "CarCapacityen": null,
+        "globalid": 170430006
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.609047000357,
+          55.62243599996
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 310,
+        "TPUNameen": "Транспортно-пересадочный узел «Южная» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Южная»",
+        "YearOfComissioningen": "2018",
+        "Statusen": null,
+        "AvailableTransferen": "Метро; перехватывающая парковка",
+        "CarCapacityen": null,
+        "globalid": 170430007
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.371198999873,
+          55.648719000204
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 311,
+        "TPUNameen": "Транспортно-пересадочный узел «Боровское шоссе» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Боровское шоссе»",
+        "YearOfComissioningen": "2018",
+        "Statusen": null,
+        "AvailableTransferen": "Метро",
+        "CarCapacityen": null,
+        "globalid": 170430008
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.52054915124,
+          55.938808267157
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 314,
+        "TPUNameen": "Транспортно-пересадочный узел «Долгопрудная» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "платформа «Долгопрудная»",
+        "YearOfComissioningen": "2020",
+        "Statusen": null,
+        "AvailableTransferen": "Станция железной дороги, перехватывающая парковка",
+        "CarCapacityen": null,
+        "globalid": 170430011
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.467903000433,
+          55.576573000251
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 316,
+        "TPUNameen": "Транспортно-пересадочный узел «Коммунарка» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Коммунарка»",
+        "YearOfComissioningen": "2019",
+        "Statusen": null,
+        "AvailableTransferen": "Метро",
+        "CarCapacityen": null,
+        "globalid": 170430013
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.614360999691,
+          55.589302000081
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 317,
+        "TPUNameen": "Транспортно-пересадочный узел «Красный строитель» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "платформа «Красный строитель»",
+        "YearOfComissioningen": "2020",
+        "Statusen": null,
+        "AvailableTransferen": "Станция железной дороги",
+        "CarCapacityen": null,
+        "globalid": 170430014
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.912669000055,
+          55.689877000143
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 318,
+        "TPUNameen": "Транспортно-пересадочный узел «Лухмановская» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Лухмановская»",
+        "YearOfComissioningen": "2019",
+        "Statusen": null,
+        "AvailableTransferen": "Метро; перехватывающая парковка; автовокзал",
+        "CarCapacityen": null,
+        "globalid": 170430015
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.470373999879,
+          55.762761999863
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 321,
+        "TPUNameen": "Транспортно-пересадочный узел «Мневники» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Мневники»",
+        "YearOfComissioningen": "2019",
+        "Statusen": null,
+        "AvailableTransferen": "Метро",
+        "CarCapacityen": null,
+        "globalid": 170430018
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.449102999777,
+          55.670417999943
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 323,
+        "TPUNameen": "Транспортно-пересадочный узел «Озерная» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Озёрная»",
+        "YearOfComissioningen": "2019",
+        "Statusen": null,
+        "AvailableTransferen": "Метро",
+        "CarCapacityen": null,
+        "globalid": 170430020
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.640560000237,
+          55.729802000187
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 324,
+        "TPUNameen": "Транспортно-пересадочный узел «Павелецкий» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "Павелецкий вокзал",
+        "YearOfComissioningen": "2020",
+        "Statusen": null,
+        "AvailableTransferen": "Станция железной дороги; перехватывающая парковка",
+        "CarCapacityen": null,
+        "globalid": 170430021
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.515184000036,
+          55.736871999885
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 325,
+        "TPUNameen": "Транспортно-пересадочный узел «Парк Победы» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Парк Победы»",
+        "YearOfComissioningen": "2019",
+        "Statusen": null,
+        "AvailableTransferen": "Метро",
+        "CarCapacityen": null,
+        "globalid": 170430022
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.727549594161,
+          55.693036631003
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 326,
+        "TPUNameen": "Транспортно-пересадочный узел «Печатники» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Печатники»",
+        "YearOfComissioningen": "2018",
+        "Statusen": null,
+        "AvailableTransferen": "Метро; перехватывающая парковка",
+        "CarCapacityen": null,
+        "globalid": 170430023
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.46565899987,
+          55.561275999992
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 330,
+        "TPUNameen": "Транспортно-пересадочный узел «Столбово» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Столбово»",
+        "YearOfComissioningen": "2019",
+        "Statusen": null,
+        "AvailableTransferen": "Метро",
+        "CarCapacityen": null,
+        "globalid": 170430027
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.456028000013,
+          55.74999799993
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 331,
+        "TPUNameen": "Транспортно-пересадочный узел «Терехово» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Терехово»",
+        "YearOfComissioningen": "2019",
+        "Statusen": null,
+        "AvailableTransferen": "Метро",
+        "CarCapacityen": null,
+        "globalid": 170430028
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.508767999613,
+          55.649120999904
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 333,
+        "TPUNameen": "Транспортно-пересадочный узел «Улица Академика Опарина» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Улица Академика Опарина»",
+        "YearOfComissioningen": "2019",
+        "Statusen": null,
+        "AvailableTransferen": "Метро",
+        "CarCapacityen": null,
+        "globalid": 170430030
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.486161999693,
+          55.625953000112
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 334,
+        "TPUNameen": "Транспортно-пересадочный узел «Улица генерала Тюленева» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Улица генерала Тюленева»",
+        "YearOfComissioningen": "2019",
+        "Statusen": null,
+        "AvailableTransferen": "Метро",
+        "CarCapacityen": null,
+        "globalid": 170430031
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.49398200043,
+          55.727673000007
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 335,
+        "TPUNameen": "Транспортно-пересадочный узел «Улица Минская» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Улица Минская»",
+        "YearOfComissioningen": "2020",
+        "Statusen": null,
+        "AvailableTransferen": "Метро",
+        "CarCapacityen": null,
+        "globalid": 170430032
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.481897999772,
+          55.879231999923
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 337,
+        "TPUNameen": "Транспортно-пересадочный узел «Ховрино» (к) (1)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Ховрино»",
+        "YearOfComissioningen": "2018",
+        "Statusen": null,
+        "AvailableTransferen": "Метро; перехватывающая парковка; автовокзал",
+        "CarCapacityen": null,
+        "globalid": 170430034
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.815371000191,
+          55.706231000205
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 338,
+        "TPUNameen": "Транспортно-пересадочный узел «Юго-Восточная» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Юго-Восточная»",
+        "YearOfComissioningen": "2018",
+        "Statusen": null,
+        "AvailableTransferen": "Метро; перехватывающая парковка",
+        "CarCapacityen": null,
+        "globalid": 170430035
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.58183100001,
+          55.776841999905
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 339,
+        "TPUNameen": "Транспортно-пересадочный узел «Белорусский» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "Белорусский вокзал",
+        "YearOfComissioningen": "2020",
+        "Statusen": null,
+        "AvailableTransferen": "Станция железной дороги; перехватывающая парковка",
+        "CarCapacityen": null,
+        "globalid": 170430036
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.660852999997,
+          55.757398999954
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 340,
+        "TPUNameen": "Транспортно-пересадочный узел «Курская» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Курская»",
+        "YearOfComissioningen": "2020",
+        "Statusen": null,
+        "AvailableTransferen": "Метро; станция железной дороги",
+        "CarCapacityen": null,
+        "globalid": 170430037
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.55345999977,
+          55.897235999847
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 341,
+        "TPUNameen": "Транспортно-пересадочный узел «Лианозово» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "платформа «Лианозово»",
+        "YearOfComissioningen": "2020",
+        "Statusen": null,
+        "AvailableTransferen": "Станция железной дороги",
+        "CarCapacityen": null,
+        "globalid": 170430038
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.711041999787,
+          55.880293000144
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 342,
+        "TPUNameen": "Транспортно-пересадочный узел «Лось» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "платформа «Лось»",
+        "YearOfComissioningen": "2020",
+        "Statusen": null,
+        "AvailableTransferen": "Станция железной дороги",
+        "CarCapacityen": null,
+        "globalid": 170430039
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.83831500022,
+          55.775925000171
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 343,
+        "TPUNameen": "Транспортно-пересадочный узел «Ивановское» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "автостанция",
+        "YearOfComissioningen": "2020",
+        "Statusen": null,
+        "AvailableTransferen": "Ускоренный трамвай; перехватывающая парковка",
+        "CarCapacityen": null,
+        "globalid": 170430040
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.541285999599,
+          55.9506140002
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 344,
+        "TPUNameen": "Транспортно-пересадочный узел «Северный» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "автостанция",
+        "YearOfComissioningen": "2020",
+        "Statusen": null,
+        "AvailableTransferen": "Ускоренный трамвай; перехватывающая парковка",
+        "CarCapacityen": null,
+        "globalid": 170430041
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.718156999993,
+          55.880737999829
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 345,
+        "TPUNameen": "Транспортно-пересадочный узел «Холмогорская» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "автостанция",
+        "YearOfComissioningen": "2020",
+        "Statusen": null,
+        "AvailableTransferen": "Ускоренный трамвай; перехватывающая парковка",
+        "CarCapacityen": null,
+        "globalid": 170430042
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.481788000167,
+          55.688407999747
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 348,
+        "TPUNameen": "Транспортно-пересадочный узел «Саларьево» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "станция метро «Мичуринский проспект»",
+        "YearOfComissioningen": "2018",
+        "Statusen": null,
+        "AvailableTransferen": "Метро; перехватывающая парковка",
+        "CarCapacityen": null,
+        "globalid": 170430045
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.38351,
+          55.65634
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 349,
+        "TPUNameen": "Транспортно-пересадочный узел «Солнечная» (к)",
+        "AdmAreaen": null,
+        "Districten": null,
+        "NearStationen": "платформа «Солнечная»",
+        "YearOfComissioningen": "2017",
+        "Statusen": null,
+        "AvailableTransferen": "Железнодорожная станция Киевского направления Московской железной дороги",
+        "CarCapacityen": 30,
+        "globalid": 860862615
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

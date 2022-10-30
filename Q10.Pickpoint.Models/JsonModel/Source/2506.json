@@ -1,0 +1,131 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.5801154858859,
+          55.7092659622599
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Nameen": "Люди Икс",
+        "IsNetObjecten": "нет",
+        "OperatingCompanyen": "",
+        "TypeServiceen": "",
+        "AdmAreaen": "Yugo-Zapadny'j administrativny'j okrug",
+        "Districten": "Gagarinskij rajon",
+        "Addressen": "город Москва, Ленинский проспект, дом 32",
+        "ClarificationOfWorkingHoursen": "",
+        "globalid": 637641299
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6674769999999,
+          55.7143969999999
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Nameen": "Большие люди",
+        "IsNetObjecten": "да",
+        "OperatingCompanyen": "Большие люди",
+        "TypeServiceen": "",
+        "AdmAreaen": "Yugo-Vostochny'j administrativny'j okrug",
+        "Districten": "Yuzhnoportovy'j rajon",
+        "Addressen": "город Москва, 1-я улица Машиностроения, дом 2/7, корпус 2",
+        "ClarificationOfWorkingHoursen": "",
+        "globalid": 637646155
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5144815352709,
+          55.7780433872957
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Nameen": "Гулливер (Одежда больших размеров)",
+        "IsNetObjecten": "нет",
+        "OperatingCompanyen": "",
+        "TypeServiceen": "",
+        "AdmAreaen": "Severny'j administrativny'j okrug",
+        "Districten": "Xoroshyovskij rajon",
+        "Addressen": "город Москва, Хорошёвское шоссе, дом 92",
+        "ClarificationOfWorkingHoursen": "",
+        "globalid": 637704371
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7559075674351,
+          55.6589600906059
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Nameen": "Магазин «Табачные изделия»",
+        "IsNetObjecten": "нет",
+        "OperatingCompanyen": "",
+        "TypeServiceen": "",
+        "AdmAreaen": "Yugo-Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Mar`ino",
+        "Addressen": "город Москва, Братиславская улица, дом 14",
+        "ClarificationOfWorkingHoursen": "",
+        "globalid": 637723236
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5886496450114,
+          55.8882256728663
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Nameen": "Зубик И.А.",
+        "IsNetObjecten": "нет",
+        "OperatingCompanyen": "",
+        "TypeServiceen": "",
+        "AdmAreaen": "Severo-Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Bibirevo",
+        "Addressen": "город Москва, Алтуфьевское шоссе, дом 70, корпус 1",
+        "ClarificationOfWorkingHoursen": "",
+        "globalid": 638374843
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.834066,
+          55.70286
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Nameen": "Муфталиева Бэлла Абдуселимовна",
+        "IsNetObjecten": "нет",
+        "OperatingCompanyen": "",
+        "TypeServiceen": "",
+        "AdmAreaen": "Yugo-Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Vy'xino-Zhulebino",
+        "Addressen": "город Москва, 8-й километр Московской Кольцевой Автодороги, дом 3, корпус 2",
+        "ClarificationOfWorkingHoursen": "",
+        "globalid": 638386624
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

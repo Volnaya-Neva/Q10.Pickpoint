@@ -1,0 +1,114 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.5739284507052,
+          55.7804256247972
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Государственное бюджетное учреждение города Москвы «Московский городской трест геолого-геодезических и картографических работ»",
+        "ShortName": "ГБУ «Мосгоргеотрест»",
+        "AdmArea": "Северный административный округ",
+        "District": "район Беговой",
+        "Address": "город Москва, Ленинградский проспект, дом 11",
+        "Index": 125040,
+        "ChiefPosition": "Управляющий",
+        "ChiefName": "Серов Александр Юрьевич",
+        "WebSite": "www.mggt.ru/",
+        "globalid": 930071378,
+        "PublicPhoneglobalid0": 13,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "Emailglobalid0": 13,
+        "Emailisdeleted0": 0,
+        "EmailEmail0": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5924561934091,
+          55.7694909173616
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Государственное бюджетное учреждение города Москвы «Главное архитектурно-планировочное управление Москомархитектуры»",
+        "ShortName": "ГБУ «ГлавАПУ»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "Address": "город Москва, улица Гашека, дом 12, строение 2",
+        "Index": 125047,
+        "ChiefPosition": "Директор",
+        "ChiefName": "Чумачков Дмитрий Васильевич",
+        "WebSite": "www.glavapu-mos.ru",
+        "globalid": 930071421,
+        "PublicPhoneglobalid0": 14,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "Emailglobalid0": 14,
+        "Emailisdeleted0": 0,
+        "EmailEmail0": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5934264751399,
+          55.769815473679
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Государственное автономное учреждение «Научно-исследовательский и проектный институт Генерального плана города Москвы»",
+        "ShortName": "ГАУ «НИ и ПИ Генплана Москвы»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "город Москва, Триумфальная площадь, дом 1",
+        "Index": 125047,
+        "ChiefPosition": "Директор",
+        "ChiefName": "Гук Татьяна Николаевна",
+        "WebSite": "www.genplanmos.ru/",
+        "globalid": 930071556,
+        "PublicPhoneglobalid0": 19,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": "",
+        "Emailglobalid0": 19,
+        "Emailisdeleted0": 0,
+        "EmailEmail0": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5848824492983,
+          55.7989001710918
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Государственное автономное учреждение города Москвы «Научно-исследовательский и проектный институт Градостроительного планирования города Москвы»",
+        "ShortName": "ГАУ «НИ и ПИ Градплан города Москвы»",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Бутырский район",
+        "Address": "город Москва, Бутырская улица, дом 42",
+        "Index": 127015,
+        "ChiefPosition": "Директор",
+        "ChiefName": "Саттарова Дина Илинична",
+        "WebSite": "www.gradplan.mos.ru",
+        "globalid": 930071581,
+        "PublicPhoneglobalid0": 20,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

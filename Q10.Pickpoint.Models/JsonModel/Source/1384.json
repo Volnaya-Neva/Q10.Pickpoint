@@ -1,0 +1,425 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.248266,
+          55.981263
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectName": "Автодром «Картодром»",
+        "NameSummer": "автодром спортивный крытый",
+        "AdmArea": "Зеленоградский административный округ",
+        "District": "район Савёлки",
+        "Address": "Сосновая аллея, дом 4, строение 3",
+        "Email": "camk@list.ru",
+        "WebSite": "tsamk.ru",
+        "HelpPhone": "(499) 735-75-92",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "EquipmentRentalComments": "",
+        "HasTechService": "да",
+        "TechServiceComments": "",
+        "HasDressingRoom": "нет",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.09-31.08",
+        "Lighting": "освещение газоразрядными лампами",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "PaidComments": "",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407276985
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6822671033357,
+          55.7196720508554
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectName": "Автодром «Картинг-центр «Форза картинг»»",
+        "NameSummer": "автодром спортивный крытый",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "Южнопортовый район",
+        "Address": "Шарикоподшипниковская улица, дом 13, строение 89",
+        "Email": "info@forza-karting.ru",
+        "WebSite": "www.forza-karting.ru",
+        "HelpPhone": "(495) 640-33-02",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "EquipmentRentalComments": "",
+        "HasTechService": "да",
+        "TechServiceComments": "",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "да",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.01-31.12",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "асфальтовое, бетонное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "PaidComments": "",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 628697162
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.1665717718277,
+          55.9658298451992
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectName": "Развлекательный центр «Картинг-центр «Зеленокарт»",
+        "NameSummer": "автодром спортивный крытый",
+        "AdmArea": "Зеленоградский административный округ",
+        "District": "район Крюково",
+        "Address": "Проезд N 687, дом 15, строение 2",
+        "Email": "info@zelenokart.ru",
+        "WebSite": "zelenokart.ru/",
+        "HelpPhone": "(495) 150-96-69",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "EquipmentRentalComments": "",
+        "HasTechService": "да",
+        "TechServiceComments": "",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.09-31.08",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "PaidComments": "",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1047346184
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.527008,
+          55.758298
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectName": "Автодром «Картинг-клуб «Ле Манс»»",
+        "NameSummer": "автодром спортивный крытый",
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "Address": "2-я Магистральная улица, дом 9А, строение 1",
+        "Email": "",
+        "WebSite": "vk.com/lemanskarting",
+        "HelpPhone": "(495) 505-02-27",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "EquipmentRentalComments": "",
+        "HasTechService": "да",
+        "TechServiceComments": "",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "да",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.01-31.12",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "PaidComments": "",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1047346455
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5079534957008,
+          55.7427504587025
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectName": "Развлекательный центр «Картинг «Скай картинг»",
+        "NameSummer": "автодром спортивный крытый, «Картинг арена»",
+        "AdmArea": "Западный административный округ",
+        "District": "район Филёвский Парк",
+        "Address": "Багратионовский проезд, дом 5, строение 32",
+        "Email": "hello@skykarting.ru",
+        "WebSite": "skykarting.ru/",
+        "HelpPhone": "(495) 120-57-57",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "EquipmentRentalComments": "",
+        "HasTechService": "да",
+        "TechServiceComments": "",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.09-31.08",
+        "Lighting": "освещение газоразрядными лампами",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "PaidComments": "",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1047357469
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6183642933235,
+          55.6807374939713
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectName": "Автодром «Лонато картинг»",
+        "NameSummer": "автодром спортивный крытый",
+        "AdmArea": "Южный административный округ",
+        "District": "Нагорный район",
+        "Address": "Варшавское шоссе, дом 30А",
+        "Email": "",
+        "WebSite": "lonato.ru/",
+        "HelpPhone": "(495) 445-41-00",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "EquipmentRentalComments": "",
+        "HasTechService": "да",
+        "TechServiceComments": "",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.09-31.08",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "PaidComments": "",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1047359287
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6036687790985,
+          55.6871315685996
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectName": "Развлекательный центр «Капитолий»",
+        "NameSummer": "автодром спортивный крытый, «Юрейс картинг»",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Котловка",
+        "Address": "Севастопольский проспект, дом 11Е",
+        "Email": "Kapitoliy.EnkaTC@enka.com",
+        "WebSite": "kapitoliy.ru/ru",
+        "HelpPhone": "(495) 937-04-40",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "EquipmentRentalComments": "",
+        "HasTechService": "да",
+        "TechServiceComments": "",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "да",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.09-31.08",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "PaidComments": "",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1047359748
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5354254763054,
+          55.7888033846352
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectName": "Комплекс спортивных сооружений «ТЦ «Авиапарк»",
+        "NameSummer": "автодром спортивный крытый, «Форза картинг»",
+        "AdmArea": "Северный административный округ",
+        "District": "Хорошёвский район",
+        "Address": "улица Авиаконструктора Микояна, дом 10А, строение 1",
+        "Email": "SMM@aviapark.com",
+        "WebSite": "aviapark.com",
+        "HelpPhone": "(495) 644-45-44",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "EquipmentRentalComments": "",
+        "HasTechService": "нет",
+        "TechServiceComments": "",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.09-31.08",
+        "Lighting": "освещение газоразрядными лампами",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "PaidComments": "",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1047359751
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5058266994057,
+          55.7404349999937
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectName": "Развлекательный центр «Картинг «Форза ван картинг»",
+        "NameSummer": "автодром спортивный крытый, «Картинг»",
+        "AdmArea": "Западный административный округ",
+        "District": "район Филёвский Парк",
+        "Address": "улица Барклая, дом 6, строение 26",
+        "Email": "info@f1-karting.ru",
+        "WebSite": "www.f1-karting.ru/",
+        "HelpPhone": "(495) 909-22-88",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "EquipmentRentalComments": "",
+        "HasTechService": "да",
+        "TechServiceComments": "",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.09-31.08",
+        "Lighting": "освещение газоразрядными лампами",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "PaidComments": "",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1047360512
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6399874232788,
+          55.7050876136796
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectName": "Автодром «Блэк стар картинг»",
+        "NameSummer": "автодром спортивный крытый",
+        "AdmArea": "Южный административный округ",
+        "District": "Даниловский район",
+        "Address": "Автозаводская улица, дом 18, корпус 1, сооружение 1",
+        "Email": "manager@bskarting.ru",
+        "WebSite": "blackstarkarting.ru/",
+        "HelpPhone": "(495) 120-43-13",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "EquipmentRentalComments": "",
+        "HasTechService": "нет",
+        "TechServiceComments": "",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.09-31.08",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "PaidComments": "",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1047362004
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,1193 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.603735145043,
+          55.764399414527
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "улица Арбат, дом 19",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Арбат",
+        "EventName": "Московская Весна",
+        "Period": "28.04.2017-09.05.2017",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru/vesna",
+        "AmountOfPlaces": 24,
+        "globalid": 345260651
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.612390471199,
+          55.759416422083
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Площадь Революции",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "EventName": "Московская Весна",
+        "Period": "28.04.2017-09.05.2017",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru/vesna",
+        "AmountOfPlaces": 23,
+        "globalid": 345260652
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.575197258288,
+          55.567034994604
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Белорусский вокзал",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "EventName": "Московская Весна",
+        "Period": "28.04.2017-09.05.2017",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru/vesna",
+        "AmountOfPlaces": 10,
+        "globalid": 345260653
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.209669180714,
+          56.001773070199
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Рижский вокзал",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Марьина Роща",
+        "EventName": "Московская Весна",
+        "Period": "28.04.2017-09.05.2017",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru/vesna",
+        "AmountOfPlaces": 10,
+        "globalid": 345260654
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.864868509637,
+          55.743557682981
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "улица Кузнецкий мост, владение 6/3 (у ресторана «Большой»)",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "EventName": "Московская Весна",
+        "Period": "28.04.2017-09.05.2017",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru/vesna",
+        "AmountOfPlaces": 7,
+        "globalid": 345260655
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.878349767047,
+          55.714039177821
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "ЦПКиО им. Горького(сцена)",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Якиманка",
+        "EventName": "Московская Весна",
+        "Period": "28.04.2017-09.05.2017",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru/vesna",
+        "AmountOfPlaces": 10,
+        "globalid": 345260656
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.605727595604,
+          55.765450769326
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Климентовский переулок",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Замоскворечье",
+        "EventName": "Московская Весна",
+        "Period": "28.04.2017-09.05.2017",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru/vesna",
+        "AmountOfPlaces": 13,
+        "globalid": 345260657
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.610769259079,
+          55.767339692894
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Переход от Манежной площади к Площади Революции",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "EventName": "Московская Весна",
+        "Period": "28.04.2017-09.05.2017",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru/vesna",
+        "AmountOfPlaces": 2,
+        "globalid": 345260659
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.674154958584,
+          55.745715573962
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "улица Никольская(выставка)",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "EventName": "Московская Весна",
+        "Period": "28.04.2017-09.05.2017",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru/vesna",
+        "AmountOfPlaces": 2,
+        "globalid": 345260660
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.617407952261,
+          55.767740298112
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "МПК Северное Тушино",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Северное Тушино",
+        "EventName": "Московская Весна",
+        "Period": "28.04.2017-09.05.2017",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru/vesna",
+        "AmountOfPlaces": 7,
+        "globalid": 345260661
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.627277612207,
+          55.76649723028
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "ПКИО Лианозовский",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Лианозово",
+        "EventName": "Московская Весна",
+        "Period": "28.04.2017-09.05.2017",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru/vesna",
+        "AmountOfPlaces": 10,
+        "globalid": 345260662
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.63203689295,
+          55.766609391297
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "ГАУК Бабушкинский",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Лосиноостровский район",
+        "EventName": "Московская Весна",
+        "Period": "28.04.2017-09.05.2017",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru/vesna",
+        "AmountOfPlaces": 8,
+        "globalid": 345260663
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.490412675287,
+          55.74734469526
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "ПКИО Фили",
+        "AdmArea": "Западный административный округ",
+        "District": "район Филёвский Парк",
+        "EventName": "Московская Весна",
+        "Period": "28.04.2017-09.05.2017",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru/vesna",
+        "AmountOfPlaces": 10,
+        "globalid": 345260664
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.754080369112,
+          55.77365817355
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "ПКиО Измайловский",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Измайлово",
+        "EventName": "Московская Весна",
+        "Period": "28.04.2017-09.05.2017",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru/vesna",
+        "AmountOfPlaces": 8,
+        "globalid": 345260665
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.628184831744,
+          55.751078944244
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "ПКиО Красная Пресня",
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "EventName": "Московская Весна",
+        "Period": "28.04.2017-09.05.2017",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru/vesna",
+        "AmountOfPlaces": 8,
+        "globalid": 345260666
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.611028798324,
+          55.762123148191
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "улица Арбат, владение 12 строение 2 (крыша)",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Арбат",
+        "EventName": "Московская Весна",
+        "Period": "28.04.2017-09.05.2017",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru/vesna",
+        "AmountOfPlaces": 2,
+        "globalid": 345260667
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.603646382251,
+          55.764236013054
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Камергерский переулок ( у магазина «Педкнига»)",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "EventName": "Московская Весна",
+        "Period": "28.04.2017-09.05.2017",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru/vesna",
+        "AmountOfPlaces": 12,
+        "globalid": 345260668
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.616128646125,
+          55.756142772044
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Тверская площадь",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "EventName": "Московская Весна",
+        "Period": "28.04.2017-09.05.2017",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru/vesna",
+        "AmountOfPlaces": 13,
+        "globalid": 345260669
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.61255103787,
+          55.759452691438
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Камергерский переулок",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "EventName": "Московская Весна",
+        "Period": "28.04.2017-09.05.2017",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru/vesna",
+        "AmountOfPlaces": 12,
+        "globalid": 345260670
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.619353883089,
+          55.761544632564
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "улица Кузнецкий мост, владение 7 (ЦУМ)",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "EventName": "Московская Весна",
+        "Period": "28.04.2017-09.05.2017",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru/vesna",
+        "AmountOfPlaces": 16,
+        "globalid": 345260671
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.296821297681,
+          55.46870915137
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "улица Рождественка",
+        "AdmArea": "Центральный административный округ",
+        "District": "Мещанский район",
+        "EventName": "Московская Весна",
+        "Period": "28.04.2017-09.05.2017",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru/vesna",
+        "AmountOfPlaces": 12,
+        "globalid": 345260672
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.555307302388,
+          55.669337356604
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Столешников переулок, 6-8",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "EventName": "Московская Весна",
+        "Period": "28.04.2017-09.05.2017",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru/vesna",
+        "AmountOfPlaces": 12,
+        "globalid": 345260673
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.743346648952,
+          55.613636594399
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Столешников переулок, 10-14",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "EventName": "Московская Весна",
+        "Period": "28.04.2017-09.05.2017",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru/vesna",
+        "AmountOfPlaces": 12,
+        "globalid": 345260674
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.655025912028,
+          55.876987596092
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Новопушкинский сквер",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "EventName": "Московская Весна",
+        "Period": "28.04.2017-09.05.2017",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru/vesna",
+        "AmountOfPlaces": 10,
+        "globalid": 345260675
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.601726404252,
+          55.761523314374
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Тверской бульвар, владение 19 (у памятника Есенину)",
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "EventName": "Московская Весна",
+        "Period": "28.04.2017-09.05.2017",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru/vesna",
+        "AmountOfPlaces": 21,
+        "globalid": 345260676
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.594369208436,
+          55.769169212578
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Тверской бульвар",
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "EventName": "Московская Весна",
+        "Period": "28.04.2017-09.05.2017",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru/vesna",
+        "AmountOfPlaces": 6,
+        "globalid": 345260677
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.606272589678,
+          55.765558515717
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Пушкинская площадь",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "EventName": "Московская Весна",
+        "Period": "28.04.2017-09.05.2017",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru/vesna",
+        "AmountOfPlaces": 12,
+        "globalid": 345260678
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.593544209022,
+          55.75232621619
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "улица Новый Арбат, владение 13",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Арбат",
+        "EventName": "Московская Весна",
+        "Period": "28.04.2017-09.05.2017",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru/vesna",
+        "AmountOfPlaces": 16,
+        "globalid": 345260679
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.592051094171,
+          55.752257053394
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "улица Новый Арбат, владение 15",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Арбат",
+        "EventName": "Московская Весна",
+        "Period": "28.04.2017-09.05.2017",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru/vesna",
+        "AmountOfPlaces": 6,
+        "globalid": 345260680
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.588618981554,
+          55.752225009832
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "улица Новый Арбат,  владение 19",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Арбат",
+        "EventName": "Московская Весна",
+        "Period": "28.04.2017-09.05.2017",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru/vesna",
+        "AmountOfPlaces": 4,
+        "globalid": 345260681
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.585576559006,
+          55.752241826507
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "улица Новый Арбат, владение 21",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Арбат",
+        "EventName": "Московская Весна",
+        "Period": "28.04.2017-09.05.2017",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru/vesna",
+        "AmountOfPlaces": 8,
+        "globalid": 345260682
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.865134774686,
+          55.743396572487
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "улица Арбат, дом 6/2",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Арбат",
+        "EventName": "Московская Весна",
+        "Period": "28.04.2017-09.05.2017",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru/vesna",
+        "AmountOfPlaces": 8,
+        "globalid": 345260683
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.359255867994,
+          55.846860147825
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "ПКИО Сокольники",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Сокольники",
+        "EventName": "Московская Весна",
+        "Period": "28.04.2017-09.05.2017",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru/vesna",
+        "AmountOfPlaces": 16,
+        "globalid": 345260684
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.598722660931,
+          55.758039313275
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Тверской бульвар, владение 2 (у памятника Тимирязеву)",
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "EventName": "Московская Весна",
+        "Period": "28.04.2017-09.05.2017",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru/vesna",
+        "AmountOfPlaces": 23,
+        "globalid": 345260685
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.585235234116,
+          55.747488191068
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "улица Арбат, дом 53 - дом музей Пушкина - (балкон)",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Арбат",
+        "EventName": "Московская Весна",
+        "Period": "28.04.2017-09.05.2017",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru/vesna",
+        "AmountOfPlaces": 10,
+        "globalid": 345260686
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.878411623201,
+          55.714066242917
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Арбат, владение 55, ресторан «Белый» - (балкон)",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Арбат",
+        "EventName": "Московская Весна",
+        "Period": "28.04.2017-09.05.2017",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru/vesna",
+        "AmountOfPlaces": 10,
+        "globalid": 345260687
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.59848458717,
+          55.859616095223
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "ТДК Смоленский пассаж",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Арбат",
+        "EventName": "Московская Весна",
+        "Period": "28.04.2017-09.05.2017",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru/vesna",
+        "AmountOfPlaces": 10,
+        "globalid": 345260688
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.513759880096,
+          55.798656683277
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Площадь Революции (крыша)",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "EventName": "Московская Весна",
+        "Period": "28.04.2017-09.05.2017",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru/vesna",
+        "AmountOfPlaces": 10,
+        "globalid": 345260689
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.625370111205,
+          55.759281047707
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Площадь Революции (сквер у памятника К. Марксу)",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "EventName": "Московская Весна",
+        "Period": "28.04.2017-09.05.2017",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru/vesna",
+        "AmountOfPlaces": 10,
+        "globalid": 345260690
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.623900317079,
+          55.766773812771
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "станция метро Новокузнецкая (фонтан)",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Замоскворечье",
+        "EventName": "Московская Весна",
+        "Period": "28.04.2017-09.05.2017",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru/vesna",
+        "AmountOfPlaces": 10,
+        "globalid": 345260691
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.609970325726,
+          55.761804680313
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Третьяковский проезд",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "EventName": "Московская Весна",
+        "Period": "28.04.2017-09.05.2017",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru/vesna",
+        "AmountOfPlaces": 10,
+        "globalid": 345260692
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.592834539983,
+          55.780282360553
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Камергерский переулок - (балкон)",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "EventName": "Московская Весна",
+        "Period": "28.04.2017-09.05.2017",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru/vesna",
+        "AmountOfPlaces": 10,
+        "globalid": 345260693
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.623438269695,
+          55.760661533162
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "улица Рождественка, дом 3/6, строение 1 - отель Савой - (балкон)",
+        "AdmArea": "Центральный административный округ",
+        "District": "Мещанский район",
+        "EventName": "Московская Весна",
+        "Period": "28.04.2017-09.05.2017",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru/vesna",
+        "AmountOfPlaces": 10,
+        "globalid": 345260694
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.581145247997,
+          55.760451329552
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "Тверской бульвар, владение 28 (у магазина Армения)",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "EventName": "Московская Весна",
+        "Period": "28.04.2017-09.05.2017",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru/vesna",
+        "AmountOfPlaces": 10,
+        "globalid": 345260695
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.602749438615,
+          55.752580057351
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "улица. Тверская, дом 21 - Музей современной истории - (балкон)",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "EventName": "Московская Весна",
+        "Period": "28.04.2017-09.05.2017",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru/vesna",
+        "AmountOfPlaces": 10,
+        "globalid": 345260696
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.211259038814,
+          56.001416967188
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "улица Тверская, дом 18 - издательство Известия - (балкон)",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "EventName": "Московская Весна",
+        "Period": "28.04.2017-09.05.2017",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru/vesna",
+        "AmountOfPlaces": 10,
+        "globalid": 345260697
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.613300126856,
+          55.762427765485
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "улица Большая Дмитровка, дом 13 - Бутик Неспрессо - (балкон)",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "EventName": "Московская Весна",
+        "Period": "28.04.2017-09.05.2017",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru/vesna",
+        "AmountOfPlaces": 10,
+        "globalid": 345260698
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.766126810357,
+          55.706229521764
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "улица Большая Дмитровка, дом 9, строение 1 - над кафе Му-Му - (балкон)",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "EventName": "Московская Весна",
+        "Period": "28.04.2017-09.05.2017",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru/vesna",
+        "AmountOfPlaces": 10,
+        "globalid": 345260699
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.575221245143,
+          55.567128398981
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "ТЦ Авиапарк",
+        "AdmArea": "Северный административный округ",
+        "District": "Хорошёвский район",
+        "EventName": "Московская Весна",
+        "Period": "28.04.2017-09.05.2017",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru/vesna",
+        "AmountOfPlaces": 10,
+        "globalid": 345260701
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.555316840502,
+          55.669330754666
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "ТРЦ Океания",
+        "AdmArea": "Западный административный округ",
+        "District": "район Фили-Давыдково",
+        "EventName": "Московская Весна",
+        "Period": "28.04.2017-09.05.2017",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru/vesna",
+        "AmountOfPlaces": 10,
+        "globalid": 345260703
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.359462733767,
+          55.84682349157
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "ТРЦ Калейдоскоп",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Южное Тушино",
+        "EventName": "Московская Весна",
+        "Period": "28.04.2017-09.05.2017",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru/vesna",
+        "AmountOfPlaces": 10,
+        "globalid": 345260704
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.625302507123,
+          55.74073191717
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "ТРЦ Хорошо",
+        "AdmArea": "Северный административный округ",
+        "District": "Хорошёвский район",
+        "EventName": "Московская Весна",
+        "Period": "28.04.2017-09.05.2017",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru/vesna",
+        "AmountOfPlaces": 10,
+        "globalid": 345262615
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7433156026,
+          55.613636975762
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "МГОМЗ «Коломенское»",
+        "AdmArea": "Южный административный округ",
+        "District": "район Нагатинский Затон",
+        "EventName": "Московская Весна",
+        "Period": "28.04.2017-09.05.2017",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru/vesna",
+        "AmountOfPlaces": 11,
+        "globalid": 345262783
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.623497936612,
+          55.761532717289
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Address": "ТРЦ Ривьера",
+        "AdmArea": "Южный административный округ",
+        "District": "Даниловский район",
+        "EventName": "Московская Весна",
+        "Period": "28.04.2017-09.05.2017",
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-21:00",
+        "WebSite": "mos.ru/vesna",
+        "AmountOfPlaces": 10,
+        "globalid": 345262795
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

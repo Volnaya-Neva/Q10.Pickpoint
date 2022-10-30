@@ -1,0 +1,383 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.721230357861,
+          55.7102342982
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Детский технопарк «Москва»",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Лефортово",
+        "Address": "город Москва, Авиамоторная улица, 2к34",
+        "WebSite": "vk.com/technoparkmoscow",
+        "globalid": 868360277
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.624869191788,
+          55.65758208682
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Детский технопарк «Мосгормаш»",
+        "AdmArea": "Южный административный округ",
+        "District": "район Нагатино-Садовники",
+        "Address": "город Москва, Каширский проезд, дом 13, строение 4",
+        "WebSite": "vk.com/technoparkmgm",
+        "globalid": 869835807
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.296151310177,
+          55.470298989539
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Детский IT-технопарк «Байтик»",
+        "AdmArea": "Троицкий административный округ",
+        "District": "поселение Троицк",
+        "Address": "город Москва, город Троицк, Сиреневый бульвар, дом 11",
+        "WebSite": "bytic.ru",
+        "globalid": 869835941
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.686977433943,
+          55.770500315965
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Детский технопарк «Инжинириум МГТУ им.Н.Э.Баумана»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Басманный район",
+        "Address": "город Москва, Госпитальный переулок, дом 4-6, строение 1",
+        "WebSite": "inginirium.ru",
+        "globalid": 869836032
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.631339062102,
+          55.82846489722
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Детский технопарк «Кулибин про»",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Останкинский район",
+        "Address": "город Москва, проспект Мира, дом 119, строение 34",
+        "WebSite": "Kulibinpro.ru",
+        "globalid": 869836115
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.625451698303,
+          55.806674632693
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Детский анимационный технопарк «Калибр»",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Останкинский район",
+        "Address": "город Москва, улица Годовикова, дом 9, строение 1",
+        "WebSite": "kalibr-club.ru",
+        "globalid": 869837814
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.549836621961,
+          55.648444254022
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Детский технопарк МФЮА «Наукоград»",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Коньково",
+        "Address": "город Москва, улица Введенского, дом 1А",
+        "WebSite": "naukograd.mfua.ru",
+        "globalid": 869839878
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.506962432861,
+          55.783295967701
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Детский технопарк «На Зорге»",
+        "AdmArea": "Северный административный округ",
+        "District": "Хорошёвский район",
+        "Address": "город Москва, улица Зорге, дом 9А, стр. 2",
+        "WebSite": "arch-tehnopark.com",
+        "globalid": 869840250
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.712647096983,
+          55.781134371195
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Детский технопарк Центра развития инжиниринга Московского политеха",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Соколиная Гора",
+        "Address": "город Москва, Большая Семёновская улица, дом 38 (корпус Б)",
+        "WebSite": "edc.mospolytech.ru",
+        "globalid": 869840472
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.556938983875,
+          55.776662970605
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Детский технопарк равных возможностей РГСУ",
+        "AdmArea": "Северный административный округ",
+        "District": "район Беговой",
+        "Address": "город Москва, Беговая улица, дом 12",
+        "WebSite": "technopark.rgsu.net",
+        "globalid": 869840621
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.205020964549,
+          55.981795739877
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Детский технопарк «Смарт-Парк»",
+        "AdmArea": "Зеленоградский административный округ",
+        "District": "район Старое Крюково",
+        "Address": "город Москва, город Зеленоград, площадь Шокина, дом 1, строение 8",
+        "WebSite": "dt.miet.ru",
+        "globalid": 869843947
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.46179607745,
+          55.79630843353
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Научно-образовательный детский технопарк Национального исследовательского центра «Курчатовский институт",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Щукино",
+        "Address": "город Москва, улица Рогова, дом 10",
+        "WebSite": "nou-inesnec.ru/Технопарк/",
+        "globalid": 885529739
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.685996363132,
+          55.742323504299
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Детский технопарк «Вертикальный взлет»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Таганский район",
+        "Address": "город Москва, Рабочая улица, дом 33",
+        "WebSite": "www.vzlet.org",
+        "globalid": 886429113
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.502029254341,
+          55.812745598874
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Детский технопарк «Траектория взлета»",
+        "AdmArea": "Северный административный округ",
+        "District": "Войковский район",
+        "Address": "Москва, Ленинградское шоссе, 5А",
+        "WebSite": "traektoria.mai.ru",
+        "globalid": 905399279
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.476060791593,
+          55.660930227803
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Детский технопарк «Альтаир»",
+        "AdmArea": "Западный административный округ",
+        "District": "район Тропарёво-Никулино",
+        "Address": "город Москва, проспект Вернадского, дом 86, строение 2",
+        "WebSite": "www.mirea.ru/education/children-s-technology-park-altair/about-technopark/",
+        "globalid": 1006451860
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.500140110214,
+          55.831522567689
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Детский технопарк «Инжинириум МГТУ им.Н. Э. Баумана»",
+        "AdmArea": "Северный административный округ",
+        "District": "Войковский район",
+        "Address": "город Москва, ул. Нарвская, д. 1А, корп. 3",
+        "WebSite": "inginirium.ru/branches/",
+        "globalid": 1023600971
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.596043958664,
+          55.778458910807
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Детский технопарк «Менделеев Центр»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "город Москва, Миусская площадь, дом 9, строение 12",
+        "WebSite": "muctr.ru",
+        "globalid": 1028776569
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.634546756744,
+          55.835298110253
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Детский технопарк равных возможностей РГСУ (2)",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Останкинский район",
+        "Address": "Москва, ул. Вильгельма Пика, д. 4, корп. 8",
+        "WebSite": "technopark.rgsu.net",
+        "globalid": 1136517487
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.609559297562,
+          55.788539874088
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Детский технопарк «Московский транспорт» РУТ МИИТ",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Марьина Роща",
+        "Address": "г. Москва, ул. Образцова, д. 9, стр. 2",
+        "WebSite": "",
+        "globalid": 1146370880
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.601662874222,
+          55.720593476979
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Детский технопарк «Косыгин парк» РГУ им. А.Н. Косыгина",
+        "AdmArea": "Южный административный округ",
+        "District": "Донской район",
+        "Address": "г. Москва, ул. Малая Калужская, д. 1",
+        "WebSite": "dt.kosygin.tech",
+        "globalid": 1266777859
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.49801158905,
+          55.804883909929
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Детский технопарк МГУПП «Superfood Технологии»",
+        "AdmArea": "Северный административный округ",
+        "District": "район Сокол",
+        "Address": " ул. Врубеля д.12 ",
+        "WebSite": "www.technopark-kids.ru/parks/view/47",
+        "globalid": 2365822498
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

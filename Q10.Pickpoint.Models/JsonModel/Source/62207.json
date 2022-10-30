@@ -1,0 +1,4776 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.28143,
+          55.672198
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Проход 1",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "нет",
+        "AdmArea": null,
+        "District": null,
+        "LatitudeWGS84": "55.672198",
+        "LongitudeWGS84": "37.281430",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059314872
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.280726,
+          55.671064
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Проход 2",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "нет",
+        "AdmArea": null,
+        "District": null,
+        "LatitudeWGS84": "55.671064",
+        "LongitudeWGS84": "37.280726",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059315973
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.283735,
+          55.673384
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Проход 3",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "нет",
+        "AdmArea": null,
+        "District": null,
+        "LatitudeWGS84": "55.673384",
+        "LongitudeWGS84": "37.283735",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059316135
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.284388,
+          55.672908
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Проход 4",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "нет",
+        "AdmArea": null,
+        "District": null,
+        "LatitudeWGS84": "55.672908",
+        "LongitudeWGS84": "37.284388",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059316279
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.317476,
+          55.683022
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "выход 1",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "нет",
+        "AdmArea": null,
+        "District": null,
+        "LatitudeWGS84": "55.683022",
+        "LongitudeWGS84": "37.317476",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059317055
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.315642,
+          55.683111
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 3",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "нет",
+        "AdmArea": null,
+        "District": null,
+        "LatitudeWGS84": "55.683111",
+        "LongitudeWGS84": "37.315642",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059317525
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.316747,
+          55.68288
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "выход 4",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "нет",
+        "AdmArea": null,
+        "District": null,
+        "LatitudeWGS84": "55.682880",
+        "LongitudeWGS84": "37.316747",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059317898
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.341887,
+          55.700414
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Проход 1",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "нет",
+        "AdmArea": null,
+        "District": null,
+        "LatitudeWGS84": "55.700414",
+        "LongitudeWGS84": "37.341887",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059318647
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.346246,
+          55.698446
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Проход 2",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "нет",
+        "AdmArea": null,
+        "District": null,
+        "LatitudeWGS84": "55.698446",
+        "LongitudeWGS84": "37.346246",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059320677
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.373467,
+          55.715538
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Проход 1",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "нет",
+        "AdmArea": null,
+        "District": null,
+        "LatitudeWGS84": "55.715538",
+        "LongitudeWGS84": "37.373467",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059320929
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.37409,
+          55.715211
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Проход 2",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "нет",
+        "AdmArea": null,
+        "District": null,
+        "LatitudeWGS84": "55.715211",
+        "LongitudeWGS84": "37.374090",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059321026
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.375219,
+          55.715758
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Проход 3",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "нет",
+        "AdmArea": null,
+        "District": null,
+        "LatitudeWGS84": "55.715758",
+        "LongitudeWGS84": "37.375219",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059321219
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.396838,
+          55.723888
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Проход 1",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Западный административный округ",
+        "District": "Можайский район",
+        "LatitudeWGS84": "55.723888",
+        "LongitudeWGS84": "37.396838",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059321327
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.396494,
+          55.723231
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Проход 2",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Западный административный округ",
+        "District": "Можайский район",
+        "LatitudeWGS84": "55.723231",
+        "LongitudeWGS84": "37.396494",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059321596
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.417441,
+          55.727196
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Проход 1",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Западный административный округ",
+        "District": "район Кунцево",
+        "LatitudeWGS84": "55.727196",
+        "LongitudeWGS84": "37.417441",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059329981
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.418342,
+          55.72667
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Проход 2",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Западный административный округ",
+        "District": "Можайский район",
+        "LatitudeWGS84": "55.726670",
+        "LongitudeWGS84": "37.418342",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059330189
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.417455,
+          55.726678
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Проход 3",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Западный административный округ",
+        "District": "Можайский район",
+        "LatitudeWGS84": "55.726678",
+        "LongitudeWGS84": "37.417455",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059330704
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.416842,
+          55.726699
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Проход 4",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Западный административный округ",
+        "District": "Можайский район",
+        "LatitudeWGS84": "55.726699",
+        "LongitudeWGS84": "37.416842",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059330781
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.446597,
+          55.726825
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Проход 1",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Западный административный округ",
+        "District": "Можайский район",
+        "LatitudeWGS84": "55.726825",
+        "LongitudeWGS84": "37.446597",
+        "NameMetroExit": "Кунцевская, вход-выход 1 в западный вестибюль (Ф)",
+        "ObjectStatus": "действует",
+        "globalid": 1059330934
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.649538,
+          55.776061
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Проход 2",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Центральный административный округ",
+        "District": "Красносельский район",
+        "LatitudeWGS84": "55.776061",
+        "LongitudeWGS84": "37.649538",
+        "NameMetroExit": "Кунцевская, вход-выход 2 в восточный вестибюль (Ф)",
+        "ObjectStatus": "действует",
+        "globalid": 1059340331
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.450303,
+          55.726705
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Проход 3",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Западный административный округ",
+        "District": "район Фили-Давыдково",
+        "LatitudeWGS84": "55.726705",
+        "LongitudeWGS84": "37.450303",
+        "NameMetroExit": "Кунцевская, вход-выход 2 в восточный вестибюль (Ф)",
+        "ObjectStatus": "действует",
+        "globalid": 1059340620
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.472291,
+          55.73075
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Проход 2",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Западный административный округ",
+        "District": "район Фили-Давыдково",
+        "LatitudeWGS84": "55.730750",
+        "LongitudeWGS84": "37.472291",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059382266
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.473189,
+          55.730235
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 3",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Западный административный округ",
+        "District": "район Фили-Давыдково",
+        "LatitudeWGS84": "55.730235",
+        "LongitudeWGS84": "37.473189",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059382267
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.472957,
+          55.729307
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Проход 4",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Западный административный округ",
+        "District": "район Фили-Давыдково",
+        "LatitudeWGS84": "55.729307",
+        "LongitudeWGS84": "37.472957",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059382268
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.514368,
+          55.744265
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Проход 1",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Западный административный округ",
+        "District": "район Филёвский Парк",
+        "LatitudeWGS84": "55.744265",
+        "LongitudeWGS84": "37.514368",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059382269
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.51483,
+          55.744551
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Проход 2",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Западный административный округ",
+        "District": "район Филёвский Парк",
+        "LatitudeWGS84": "55.744551",
+        "LongitudeWGS84": "37.514830",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059382270
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.515198,
+          55.744231
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Проход 3",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Западный административный округ",
+        "District": "район Дорогомилово",
+        "LatitudeWGS84": "55.744231",
+        "LongitudeWGS84": "37.515198",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059382271
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.531604,
+          55.752812
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Проход 1",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "LatitudeWGS84": "55.752812",
+        "LongitudeWGS84": "37.531604",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059382272
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.532436,
+          55.752716
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Проход 2",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "LatitudeWGS84": "55.752716",
+        "LongitudeWGS84": "37.532436",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059382273
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.532224,
+          55.752297
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Проход 3",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "LatitudeWGS84": "55.752297",
+        "LongitudeWGS84": "37.532224",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059382274
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.532493,
+          55.755687
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Проход 4",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "LatitudeWGS84": "55.755687",
+        "LongitudeWGS84": "37.532493",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059382275
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.549109,
+          55.77327
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Проход 4",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "LatitudeWGS84": "55.773270",
+        "LongitudeWGS84": "37.549109",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059382276
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.549128,
+          55.77296
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Проход 6",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "LatitudeWGS84": "55.772960",
+        "LongitudeWGS84": "37.549128",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059382277
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.549662,
+          55.773365
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Проход 7",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "LatitudeWGS84": "55.773365",
+        "LongitudeWGS84": "37.549662",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059382278
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.582197,
+          55.777095
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Проход 4",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "LatitudeWGS84": "55.777095",
+        "LongitudeWGS84": "37.582197",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059382279
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.580874,
+          55.776839
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Проход 5",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "LatitudeWGS84": "55.776839",
+        "LongitudeWGS84": "37.580874",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059382280
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.581279,
+          55.777623
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Проход 6",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Северный административный округ",
+        "District": "район Беговой",
+        "LatitudeWGS84": "55.777623",
+        "LongitudeWGS84": "37.581279",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059382281
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.587374,
+          55.794323
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Проход 1",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Бутырский район",
+        "LatitudeWGS84": "55.794323",
+        "LongitudeWGS84": "37.587374",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059382282
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.58886,
+          55.794369
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Проход 2",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Бутырский район",
+        "LatitudeWGS84": "55.794369",
+        "LongitudeWGS84": "37.588860",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059382283
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.57697,
+          55.817612
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Проход 5",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Бутырский район",
+        "LatitudeWGS84": "55.817612",
+        "LongitudeWGS84": "37.576970",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059382284
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.577275,
+          55.817772
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Проход 8",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Бутырский район",
+        "LatitudeWGS84": "55.817772",
+        "LongitudeWGS84": "37.577275",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059382286
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.574656,
+          55.847762
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Проход 1",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Марфино",
+        "LatitudeWGS84": "55.847762",
+        "LongitudeWGS84": "37.574656",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059382287
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.574367,
+          55.847409
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Проход 2",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Марфино",
+        "LatitudeWGS84": "55.847409",
+        "LongitudeWGS84": "37.574367",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059382288
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.57417,
+          55.84799
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Проход 3",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Марфино",
+        "LatitudeWGS84": "55.847990",
+        "LongitudeWGS84": "37.574170",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059382289
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.572725,
+          55.867065
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Проход 1",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Отрадное",
+        "LatitudeWGS84": "55.867065",
+        "LongitudeWGS84": "37.572725",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059382290
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.573751,
+          55.864684
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Проход 2",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Отрадное",
+        "LatitudeWGS84": "55.864684",
+        "LongitudeWGS84": "37.573751",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059382291
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.572497,
+          55.86691
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Проход 3",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Отрадное",
+        "LatitudeWGS84": "55.866910",
+        "LongitudeWGS84": "37.572497",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059382292
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.572644,
+          55.866491
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Проход 4",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Отрадное",
+        "LatitudeWGS84": "55.866491",
+        "LongitudeWGS84": "37.572644",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059382293
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.572985,
+          55.86571
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Проход 5",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Отрадное",
+        "LatitudeWGS84": "55.865710",
+        "LongitudeWGS84": "37.572985",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059382294
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.573369,
+          55.864789
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Проход 6",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Отрадное",
+        "LatitudeWGS84": "55.864789",
+        "LongitudeWGS84": "37.573369",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059382295
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.569944,
+          55.881394
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Проход 1",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Алтуфьевский район",
+        "LatitudeWGS84": "55.881394",
+        "LongitudeWGS84": "37.569944",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059382296
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.567482,
+          55.881671
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Проход 2",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Алтуфьевский район",
+        "LatitudeWGS84": "55.881671",
+        "LongitudeWGS84": "37.567482",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059382297
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.567311,
+          55.882877
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Проход 3",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Алтуфьевский район",
+        "LatitudeWGS84": "55.882877",
+        "LongitudeWGS84": "37.567311",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059382298
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.553882,
+          55.897203
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Проход 1",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Лианозово",
+        "LatitudeWGS84": "55.897203",
+        "LongitudeWGS84": "37.553882",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059382299
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.553791,
+          55.897
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Проход 2",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Северный административный округ",
+        "District": "район Восточное Дегунино",
+        "LatitudeWGS84": "55.897000",
+        "LongitudeWGS84": "37.553791",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059382300
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.538376,
+          55.904459
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Проход 1",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Лианозово",
+        "LatitudeWGS84": "55.904459",
+        "LongitudeWGS84": "37.538376",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059382301
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.540175,
+          55.90291
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Проход 2",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Лианозово",
+        "LatitudeWGS84": "55.902910",
+        "LongitudeWGS84": "37.540175",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059382302
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.540669,
+          55.902407
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Проход 3",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Лианозово",
+        "LatitudeWGS84": "55.902407",
+        "LongitudeWGS84": "37.540669",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059382303
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.53678,
+          55.906802
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Проход 4",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Лианозово",
+        "LatitudeWGS84": "55.906802",
+        "LongitudeWGS84": "37.536780",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059382304
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.527597,
+          55.924534
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Проход 1",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "нет",
+        "AdmArea": null,
+        "District": null,
+        "LatitudeWGS84": "55.924534",
+        "LongitudeWGS84": "37.527597",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059382305
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.527307,
+          55.925079
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Проход 2",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "нет",
+        "AdmArea": null,
+        "District": null,
+        "LatitudeWGS84": "55.925079",
+        "LongitudeWGS84": "37.527307",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059382306
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.527819,
+          55.925155
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Проход 3",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "нет",
+        "AdmArea": null,
+        "District": null,
+        "LatitudeWGS84": "55.925155",
+        "LongitudeWGS84": "37.527819",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059382307
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.528092,
+          55.924605
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Проход 4",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "нет",
+        "AdmArea": null,
+        "District": null,
+        "LatitudeWGS84": "55.924605",
+        "LongitudeWGS84": "37.528092",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059382308
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.520195,
+          55.940404
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 1",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "нет",
+        "AdmArea": null,
+        "District": null,
+        "LatitudeWGS84": "55.940404",
+        "LongitudeWGS84": "37.520195",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059382309
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.519831,
+          55.939583
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 2",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "нет",
+        "AdmArea": null,
+        "District": null,
+        "LatitudeWGS84": "55.939583",
+        "LongitudeWGS84": "37.519831",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059382310
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.521395,
+          55.937773
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Проход 3",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "нет",
+        "AdmArea": null,
+        "District": null,
+        "LatitudeWGS84": "55.937773",
+        "LongitudeWGS84": "37.521395",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059382311
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.511378,
+          55.953601
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Проход 1",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "нет",
+        "AdmArea": null,
+        "District": null,
+        "LatitudeWGS84": "55.953601",
+        "LongitudeWGS84": "37.511378",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059382312
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.513664,
+          55.951708
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Проход 2",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "нет",
+        "AdmArea": null,
+        "District": null,
+        "LatitudeWGS84": "55.951708",
+        "LongitudeWGS84": "37.513664",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059382313
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.51341,
+          55.951614
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Проход 3",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "нет",
+        "AdmArea": null,
+        "District": null,
+        "LatitudeWGS84": "55.951614",
+        "LongitudeWGS84": "37.513410",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059382315
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.512341,
+          55.952423
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Проход 4",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "нет",
+        "AdmArea": null,
+        "District": null,
+        "LatitudeWGS84": "55.952423",
+        "LongitudeWGS84": "37.512341",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059382317
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.511083,
+          55.953535
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Проход 5",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "нет",
+        "AdmArea": null,
+        "District": null,
+        "LatitudeWGS84": "55.953535",
+        "LongitudeWGS84": "37.511083",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059382318
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.50436,
+          55.971942
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Проход 1",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "нет",
+        "AdmArea": null,
+        "District": null,
+        "LatitudeWGS84": "55.971942",
+        "LongitudeWGS84": "37.504360",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059382319
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.505093,
+          55.969796
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Проход 2",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "нет",
+        "AdmArea": null,
+        "District": null,
+        "LatitudeWGS84": "55.969796",
+        "LongitudeWGS84": "37.505093",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059382320
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.504879,
+          55.969793
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Проход 3",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "нет",
+        "AdmArea": null,
+        "District": null,
+        "LatitudeWGS84": "55.969793",
+        "LongitudeWGS84": "37.504879",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059382322
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.503998,
+          55.971919
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Проход 4",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "нет",
+        "AdmArea": null,
+        "District": null,
+        "LatitudeWGS84": "55.971919",
+        "LongitudeWGS84": "37.503998",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059382323
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.498575,
+          55.984638
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Проход 1",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "нет",
+        "AdmArea": null,
+        "District": null,
+        "LatitudeWGS84": "55.984638",
+        "LongitudeWGS84": "37.498575",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059382324
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.498845,
+          55.984093
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Проход 2",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "нет",
+        "AdmArea": null,
+        "District": null,
+        "LatitudeWGS84": "55.984093",
+        "LongitudeWGS84": "37.498845",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059382325
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.49936,
+          55.982988
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Проход 3",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "нет",
+        "AdmArea": null,
+        "District": null,
+        "LatitudeWGS84": "55.982988",
+        "LongitudeWGS84": "37.499360",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059382326
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.498178,
+          55.984776
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Проход 4",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "нет",
+        "AdmArea": null,
+        "District": null,
+        "LatitudeWGS84": "55.984776",
+        "LongitudeWGS84": "37.498178",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059382327
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.49902,
+          55.982875
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Проход 5",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "нет",
+        "AdmArea": null,
+        "District": null,
+        "LatitudeWGS84": "55.982875",
+        "LongitudeWGS84": "37.499020",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059382329
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.484166,
+          56.012914
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Проход 1",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "нет",
+        "AdmArea": null,
+        "District": null,
+        "LatitudeWGS84": "56.012914",
+        "LongitudeWGS84": "37.484166",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059382330
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.485436,
+          56.013099
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Проход 2",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "нет",
+        "AdmArea": null,
+        "District": null,
+        "LatitudeWGS84": "56.013099",
+        "LongitudeWGS84": "37.485436",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059382331
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.564881,
+          55.431492
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 1",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "нет",
+        "AdmArea": null,
+        "District": null,
+        "LatitudeWGS84": "55.431492",
+        "LongitudeWGS84": "37.564881",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059340681
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.565899,
+          55.433323
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 2",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "нет",
+        "AdmArea": null,
+        "District": null,
+        "LatitudeWGS84": "55.433323",
+        "LongitudeWGS84": "37.565899",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059340682
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.566226,
+          55.431496
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 3",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "нет",
+        "AdmArea": null,
+        "District": null,
+        "LatitudeWGS84": "55.431496",
+        "LongitudeWGS84": "37.566226",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059340684
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.566473,
+          55.431334
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 4",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "нет",
+        "AdmArea": null,
+        "District": null,
+        "LatitudeWGS84": "55.431334",
+        "LongitudeWGS84": "37.566473",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059340685
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.566194,
+          55.430802
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 5",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "нет",
+        "AdmArea": null,
+        "District": null,
+        "LatitudeWGS84": "55.430802",
+        "LongitudeWGS84": "37.566194",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059340686
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.555184,
+          55.470428
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 1",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "нет",
+        "AdmArea": null,
+        "District": null,
+        "LatitudeWGS84": "55.470428",
+        "LongitudeWGS84": "37.555184",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059340687
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.555678,
+          55.470517
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 2",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "нет",
+        "AdmArea": null,
+        "District": null,
+        "LatitudeWGS84": "55.470517",
+        "LongitudeWGS84": "37.555678",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059340688
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.555761,
+          55.485849
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 1",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Новомосковский административный округ",
+        "District": "поселение Рязановское",
+        "LatitudeWGS84": "55.485849",
+        "LongitudeWGS84": "37.555761",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059340690
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.554684,
+          55.486071
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 2",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Новомосковский административный округ",
+        "District": "поселение Рязановское",
+        "LatitudeWGS84": "55.486071",
+        "LongitudeWGS84": "37.554684",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059340691
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.561603,
+          55.508618
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 1",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Новомосковский административный округ",
+        "District": "поселение Щербинка",
+        "LatitudeWGS84": "55.508618",
+        "LongitudeWGS84": "37.561603",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059340692
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.561673,
+          55.509157
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 2",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Новомосковский административный округ",
+        "District": "поселение Щербинка",
+        "LatitudeWGS84": "55.509157",
+        "LongitudeWGS84": "37.561673",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059340693
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.562005,
+          55.510035
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 3",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Новомосковский административный округ",
+        "District": "поселение Щербинка",
+        "LatitudeWGS84": "55.510035",
+        "LongitudeWGS84": "37.562005",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059340694
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.56201,
+          55.510504
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 4",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Новомосковский административный округ",
+        "District": "поселение Щербинка",
+        "LatitudeWGS84": "55.510504",
+        "LongitudeWGS84": "37.562010",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059340696
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.562798,
+          55.510276
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 5",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Новомосковский административный округ",
+        "District": "поселение Щербинка",
+        "LatitudeWGS84": "55.510276",
+        "LongitudeWGS84": "37.562798",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059340697
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.563206,
+          55.510548
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 6",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Новомосковский административный округ",
+        "District": "поселение Щербинка",
+        "LatitudeWGS84": "55.510548",
+        "LongitudeWGS84": "37.563206",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059340698
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.570234,
+          55.541456
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 1",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Южное Бутово",
+        "LatitudeWGS84": "55.541456",
+        "LongitudeWGS84": "37.570234",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059340699
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.570691,
+          55.542269
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 2",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Южное Бутово",
+        "LatitudeWGS84": "55.542269",
+        "LongitudeWGS84": "37.570691",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059340700
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.571564,
+          55.542182
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 3",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Южное Бутово",
+        "LatitudeWGS84": "55.542182",
+        "LongitudeWGS84": "37.571564",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059340702
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.571454,
+          55.541798
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 4",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Южное Бутово",
+        "LatitudeWGS84": "55.541798",
+        "LongitudeWGS84": "37.571454",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059340703
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.610387,
+          55.570229
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 1",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "нет",
+        "AdmArea": null,
+        "District": null,
+        "LatitudeWGS84": "55.570229",
+        "LongitudeWGS84": "37.610387",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059340704
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.612116,
+          55.572271
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 2",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "нет",
+        "AdmArea": null,
+        "District": null,
+        "LatitudeWGS84": "55.572271",
+        "LongitudeWGS84": "37.612116",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059340705
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.612393,
+          55.572234
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 3",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "нет",
+        "AdmArea": null,
+        "District": null,
+        "LatitudeWGS84": "55.572234",
+        "LongitudeWGS84": "37.612393",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059340706
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.611222,
+          55.570753
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 4",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "нет",
+        "AdmArea": null,
+        "District": null,
+        "LatitudeWGS84": "55.570753",
+        "LongitudeWGS84": "37.611222",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059340707
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.611222,
+          55.570753
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 5",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "нет",
+        "AdmArea": null,
+        "District": null,
+        "LatitudeWGS84": "55.570753",
+        "LongitudeWGS84": "37.611222",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059340708
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.616359,
+          55.58903
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 1",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Южный административный округ",
+        "District": "район Бирюлёво Западное",
+        "LatitudeWGS84": "55.589030",
+        "LongitudeWGS84": "37.616359",
+        "NameMetroExit": "Курская, вход-выход 2 в вестибюль с Курского вокзала",
+        "ObjectStatus": "действует",
+        "globalid": 1059390544
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.614634,
+          55.589106
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 2",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Южный административный округ",
+        "District": "район Чертаново Южное",
+        "LatitudeWGS84": "55.589106",
+        "LongitudeWGS84": "37.614634",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059392577
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.632215,
+          55.603288
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 1",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Южный административный округ",
+        "District": "район Чертаново Южное",
+        "LatitudeWGS84": "55.603288",
+        "LongitudeWGS84": "37.632215",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059340712
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6319,
+          55.602542
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 2",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Южный административный округ",
+        "District": "район Чертаново Южное",
+        "LatitudeWGS84": "55.602542",
+        "LongitudeWGS84": "37.631900",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059340713
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.668957,
+          55.619053
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 7",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Южный административный округ",
+        "District": "район Царицыно",
+        "LatitudeWGS84": "55.619053",
+        "LongitudeWGS84": "37.668957",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059340714
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.670191,
+          55.619279
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 8",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Южный административный округ",
+        "District": "район Царицыно",
+        "LatitudeWGS84": "55.619279",
+        "LongitudeWGS84": "37.670191",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059340715
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.669472,
+          55.618847
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 9",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Южный административный округ",
+        "District": "район Царицыно",
+        "LatitudeWGS84": "55.618847",
+        "LongitudeWGS84": "37.669472",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059340716
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.652768,
+          55.627387
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 10",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Южный административный округ",
+        "District": "район Царицыно",
+        "LatitudeWGS84": "55.627387",
+        "LongitudeWGS84": "37.652768",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059340717
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.652768,
+          55.627387
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 11",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Южный административный округ",
+        "District": "район Царицыно",
+        "LatitudeWGS84": "55.627387",
+        "LongitudeWGS84": "37.652768",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059340718
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.66702,
+          55.618182
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 12",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Южный административный округ",
+        "District": "район Царицыно",
+        "LatitudeWGS84": "55.618182",
+        "LongitudeWGS84": "37.667020",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059340719
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.668901,
+          55.617292
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 13",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Южный административный округ",
+        "District": "район Бирюлёво Восточное",
+        "LatitudeWGS84": "55.617292",
+        "LongitudeWGS84": "37.668901",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059340720
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.688197,
+          55.640088
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 1",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Южный административный округ",
+        "District": "район Москворечье-Сабурово",
+        "LatitudeWGS84": "55.640088",
+        "LongitudeWGS84": "37.688197",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059340722
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.689302,
+          55.639823
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 2",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Южный административный округ",
+        "District": "район Москворечье-Сабурово",
+        "LatitudeWGS84": "55.639823",
+        "LongitudeWGS84": "37.689302",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059340723
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.702632,
+          55.649326
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 1",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Марьино",
+        "LatitudeWGS84": "55.649326",
+        "LongitudeWGS84": "37.702632",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059340724
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.701059,
+          55.650014
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 2",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Печатники",
+        "LatitudeWGS84": "55.650014",
+        "LongitudeWGS84": "37.701059",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059340725
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.714613,
+          55.659853
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 1",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Печатники",
+        "LatitudeWGS84": "55.659853",
+        "LongitudeWGS84": "37.714613",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059340726
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.716177,
+          55.662117
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 2",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Печатники",
+        "LatitudeWGS84": "55.662117",
+        "LongitudeWGS84": "37.716177",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059340727
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.719879,
+          55.660873
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 3",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Люблино",
+        "LatitudeWGS84": "55.660873",
+        "LongitudeWGS84": "37.719879",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059340728
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.727548,
+          55.673191
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 1",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Печатники",
+        "LatitudeWGS84": "55.673191",
+        "LongitudeWGS84": "37.727548",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059340729
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.727898,
+          55.674829
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 2",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Печатники",
+        "LatitudeWGS84": "55.674829",
+        "LongitudeWGS84": "37.727898",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059340730
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.730985,
+          55.674216
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 3",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Люблино",
+        "LatitudeWGS84": "55.674216",
+        "LongitudeWGS84": "37.730985",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059340732
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.73256,
+          55.67427
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 4",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Люблино",
+        "LatitudeWGS84": "55.674270",
+        "LongitudeWGS84": "37.732560",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059340733
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.73238,
+          55.673758
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 5",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Люблино",
+        "LatitudeWGS84": "55.673758",
+        "LongitudeWGS84": "37.732380",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059340734
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.733471,
+          55.685164
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 1",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Печатники",
+        "LatitudeWGS84": "55.685164",
+        "LongitudeWGS84": "37.733471",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059340735
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.733306,
+          55.68492
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 2",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Печатники",
+        "LatitudeWGS84": "55.684920",
+        "LongitudeWGS84": "37.733306",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059340736
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.734733,
+          55.684952
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 3",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Люблино",
+        "LatitudeWGS84": "55.684952",
+        "LongitudeWGS84": "37.734733",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059340737
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.734633,
+          55.68479
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 4",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Люблино",
+        "LatitudeWGS84": "55.684790",
+        "LongitudeWGS84": "37.734633",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059340738
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.729568,
+          55.708583
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 1",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Текстильщики",
+        "LatitudeWGS84": "55.708583",
+        "LongitudeWGS84": "37.729568",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059340739
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.729297,
+          55.708551
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 2",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Печатники",
+        "LatitudeWGS84": "55.708551",
+        "LongitudeWGS84": "37.729297",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059340740
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.729901,
+          55.707064
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 3",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Текстильщики",
+        "LatitudeWGS84": "55.707064",
+        "LongitudeWGS84": "37.729901",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059340741
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.715289,
+          55.724113
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 1",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "Нижегородский район",
+        "LatitudeWGS84": "55.724113",
+        "LongitudeWGS84": "37.715289",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059340742
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.701904,
+          55.734115
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 1",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "Нижегородский район",
+        "LatitudeWGS84": "55.734115",
+        "LongitudeWGS84": "37.701904",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059340743
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.702154,
+          55.734213
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 2",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "Нижегородский район",
+        "LatitudeWGS84": "55.734213",
+        "LongitudeWGS84": "37.702154",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059340744
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.702664,
+          55.733815
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 3",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "Нижегородский район",
+        "LatitudeWGS84": "55.733815",
+        "LongitudeWGS84": "37.702664",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059340745
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.702154,
+          55.734213
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 4",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "Нижегородский район",
+        "LatitudeWGS84": "55.734213",
+        "LongitudeWGS84": "37.702154",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059340747
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.687394,
+          55.744957
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 1",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Центральный административный округ",
+        "District": "Таганский район",
+        "LatitudeWGS84": "55.744957",
+        "LongitudeWGS84": "37.687394",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059340748
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.688317,
+          55.746393
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 2",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Лефортово",
+        "LatitudeWGS84": "55.746393",
+        "LongitudeWGS84": "37.688317",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059340749
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.660163,
+          55.758494
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 1",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Центральный административный округ",
+        "District": "Басманный район",
+        "LatitudeWGS84": "55.758494",
+        "LongitudeWGS84": "37.660163",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059392626
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.660322,
+          55.757277
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 2",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Центральный административный округ",
+        "District": "Басманный район",
+        "LatitudeWGS84": "55.757277",
+        "LongitudeWGS84": "37.660322",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059390869
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.66179,
+          55.75999
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 3",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Центральный административный округ",
+        "District": "Басманный район",
+        "LatitudeWGS84": "55.759990",
+        "LongitudeWGS84": "37.66179",
+        "NameMetroExit": "Курская, вход-выход 2 в вестибюль с Курского вокзала",
+        "ObjectStatus": "действует",
+        "globalid": 1059391620
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.649557,
+          55.775952
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 1",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Центральный административный округ",
+        "District": "Красносельский район",
+        "LatitudeWGS84": "55.775952",
+        "LongitudeWGS84": "37.649557",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059340753
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.654574,
+          55.778041
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 2",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Центральный административный округ",
+        "District": "Красносельский район",
+        "LatitudeWGS84": "55.778041",
+        "LongitudeWGS84": "37.654574",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059340754
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.638137,
+          55.793919
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 1",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Центральный административный округ",
+        "District": "Мещанский район",
+        "LatitudeWGS84": "55.793919",
+        "LongitudeWGS84": "37.638137",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059340755
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.638543,
+          55.794236
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 2",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Центральный административный округ",
+        "District": "Мещанский район",
+        "LatitudeWGS84": "55.794236",
+        "LongitudeWGS84": "37.638543",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059340756
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.570914,
+          55.799694
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 1",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Северный административный округ",
+        "District": "Савёловский район",
+        "LatitudeWGS84": "55.799694",
+        "LongitudeWGS84": "37.570914",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059340758
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.557071,
+          55.825527
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 2",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Северный административный округ",
+        "District": "Тимирязевский район",
+        "LatitudeWGS84": "55.825527",
+        "LongitudeWGS84": "37.557071",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059340759
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.579809,
+          55.808049
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 3",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Северный административный округ",
+        "District": "Савёловский район",
+        "LatitudeWGS84": "55.808049",
+        "LongitudeWGS84": "37.579809",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059340760
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.55133,
+          55.806229
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 1",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Северный административный округ",
+        "District": "Тимирязевский район",
+        "LatitudeWGS84": "55.806229",
+        "LongitudeWGS84": "37.551330",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059340761
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.55126,
+          55.806038
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 2",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Северный административный округ",
+        "District": "Савёловский район",
+        "LatitudeWGS84": "55.806038",
+        "LongitudeWGS84": "37.551260",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059340762
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.55512,
+          55.805225
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 3",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Северный административный округ",
+        "District": "Тимирязевский район",
+        "LatitudeWGS84": "55.805225",
+        "LongitudeWGS84": "37.555120",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059340763
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.555694,
+          55.804798
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 4",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Северный административный округ",
+        "District": "Савёловский район",
+        "LatitudeWGS84": "55.804798",
+        "LongitudeWGS84": "37.555694",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059340764
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.525743,
+          55.81562
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 1",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Северный административный округ",
+        "District": "район Коптево",
+        "LatitudeWGS84": "55.815620",
+        "LongitudeWGS84": "37.525743",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059392013
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5268,
+          55.815619
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 2",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Северный административный округ",
+        "District": "район Коптево",
+        "LatitudeWGS84": "55.815619",
+        "LongitudeWGS84": "37.526800",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059392496
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.527235,
+          55.814012
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 3",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Северный административный округ",
+        "District": "район Аэропорт",
+        "LatitudeWGS84": "55.814012",
+        "LongitudeWGS84": "37.527235",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059392904
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.527103,
+          55.812745
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 4",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Северный административный округ",
+        "District": "район Аэропорт",
+        "LatitudeWGS84": "55.812745",
+        "LongitudeWGS84": "37.527103",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059392914
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.48733,
+          55.815014
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 4",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Северный административный округ",
+        "District": "район Сокол",
+        "LatitudeWGS84": "55.815014",
+        "LongitudeWGS84": "37.487330",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059340769
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.487415,
+          55.81564
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 5",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Северный административный округ",
+        "District": "Войковский район",
+        "LatitudeWGS84": "55.815640",
+        "LongitudeWGS84": "37.487415",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059340770
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.493765,
+          55.815335
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 6",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Северный административный округ",
+        "District": "Войковский район",
+        "LatitudeWGS84": "55.815335",
+        "LongitudeWGS84": "37.493765",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059340772
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.492466,
+          55.814933
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 7",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Северный административный округ",
+        "District": "район Сокол",
+        "LatitudeWGS84": "55.814933",
+        "LongitudeWGS84": "37.492466",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059340773
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.437419,
+          55.827246
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 2",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Покровское-Стрешнево",
+        "LatitudeWGS84": "55.827246",
+        "LongitudeWGS84": "37.437419",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059340776
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.439565,
+          55.827306
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 6",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Покровское-Стрешнево",
+        "LatitudeWGS84": "55.827306",
+        "LongitudeWGS84": "37.439565",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059340778
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.44095,
+          55.826837
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 7",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Покровское-Стрешнево",
+        "LatitudeWGS84": "55.826837",
+        "LongitudeWGS84": "37.440950",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059340780
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.397191,
+          55.833555
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 1",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Южное Тушино",
+        "LatitudeWGS84": "55.833555",
+        "LongitudeWGS84": "37.397191",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059394854
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.399059,
+          55.833268
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 2",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Южное Тушино",
+        "LatitudeWGS84": "55.833268",
+        "LongitudeWGS84": "37.399059",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059395325
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4008,
+          55.832972
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 3",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Южное Тушино",
+        "LatitudeWGS84": "55.832972",
+        "LongitudeWGS84": "37.400800",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059395326
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.396853,
+          55.833358
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 4",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Покровское-Стрешнево",
+        "LatitudeWGS84": "55.833358",
+        "LongitudeWGS84": "37.396853",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059787706
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.398958,
+          55.833056
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 5",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Покровское-Стрешнево",
+        "LatitudeWGS84": "55.833056",
+        "LongitudeWGS84": "37.398958",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059787776
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.400413,
+          55.832794
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 6",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Покровское-Стрешнево",
+        "LatitudeWGS84": "55.832794",
+        "LongitudeWGS84": "37.400413",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059788618
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.38355,
+          55.833346
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 1",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Митино",
+        "LatitudeWGS84": "55.833346",
+        "LongitudeWGS84": "37.383550",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059340787
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.360096,
+          55.822026
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 1",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "нет",
+        "AdmArea": null,
+        "District": null,
+        "LatitudeWGS84": "55.822026",
+        "LongitudeWGS84": "37.360096",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059340788
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.360843,
+          55.82108
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 2",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "нет",
+        "AdmArea": null,
+        "District": null,
+        "LatitudeWGS84": "55.821080",
+        "LongitudeWGS84": "37.360843",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059340790
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.34204,
+          55.815721
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 1",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "нет",
+        "AdmArea": null,
+        "District": null,
+        "LatitudeWGS84": "55.815721",
+        "LongitudeWGS84": "37.342040",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059340791
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.342096,
+          55.814911
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 2",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "нет",
+        "AdmArea": null,
+        "District": null,
+        "LatitudeWGS84": "55.814911",
+        "LongitudeWGS84": "37.342096",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059870157
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.304286,
+          55.814307
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 1",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "нет",
+        "AdmArea": null,
+        "District": null,
+        "LatitudeWGS84": "55.814307",
+        "LongitudeWGS84": "37.304286",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059340793
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.304545,
+          55.813906
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 2",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "нет",
+        "AdmArea": null,
+        "District": null,
+        "LatitudeWGS84": "55.813906",
+        "LongitudeWGS84": "37.304545",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059340794
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.24645,
+          55.822986
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 1",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "нет",
+        "AdmArea": null,
+        "District": null,
+        "LatitudeWGS84": "55.822986",
+        "LongitudeWGS84": "37.246450",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059340795
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.248438,
+          55.823
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 2",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "нет",
+        "AdmArea": null,
+        "District": null,
+        "LatitudeWGS84": "55.823000",
+        "LongitudeWGS84": "37.248438",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059340796
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.218316,
+          55.832651
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 1",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "нет",
+        "AdmArea": null,
+        "District": null,
+        "LatitudeWGS84": "55.832651",
+        "LongitudeWGS84": "37.218316",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059340797
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.218203,
+          55.832549
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 2",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "нет",
+        "AdmArea": null,
+        "District": null,
+        "LatitudeWGS84": "55.832549",
+        "LongitudeWGS84": "37.218203",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059340798
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.219818,
+          55.831966
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 3",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "нет",
+        "AdmArea": null,
+        "District": null,
+        "LatitudeWGS84": "55.831966",
+        "LongitudeWGS84": "37.219818",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059340802
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.184625,
+          55.842035
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 1",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "нет",
+        "AdmArea": null,
+        "District": null,
+        "LatitudeWGS84": "55.842035",
+        "LongitudeWGS84": "37.184625",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059340800
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.184069,
+          55.841313
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 2",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "нет",
+        "AdmArea": null,
+        "District": null,
+        "LatitudeWGS84": "55.841313",
+        "LongitudeWGS84": "37.184069",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059340801
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.438203,
+          55.828159
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 3",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Покровское-Стрешнево",
+        "LatitudeWGS84": "55.828159",
+        "LongitudeWGS84": "37.438203",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1072022554
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.576262,
+          55.80748
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 7",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Северный административный округ",
+        "District": "Савёловский район",
+        "LatitudeWGS84": "55.807480",
+        "LongitudeWGS84": "37.576262",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1072022947
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.579809,
+          55.80799
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 6",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Северный административный округ",
+        "District": "Савёловский район",
+        "LatitudeWGS84": "55.807990",
+        "LongitudeWGS84": "37.579809",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1072023217
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.579305,
+          55.808258
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 5",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Северный административный округ",
+        "District": "Тимирязевский район",
+        "LatitudeWGS84": "55.808258",
+        "LongitudeWGS84": "37.579305",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1072023249
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.661796,
+          55.75999
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 4",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Центральный административный округ",
+        "District": "Басманный район",
+        "LatitudeWGS84": "55.759990",
+        "LongitudeWGS84": "37.661796",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1072023491
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.660163,
+          55.758494
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 3",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Центральный административный округ",
+        "District": "Басманный район",
+        "LatitudeWGS84": "55.758494",
+        "LongitudeWGS84": "37.660163",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1072023550
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.660303,
+          55.757303
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 2",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Центральный административный округ",
+        "District": "Басманный район",
+        "LatitudeWGS84": "55.757303",
+        "LongitudeWGS84": "37.660303",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1072023598
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.688317,
+          55.746393
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 2",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Лефортово",
+        "LatitudeWGS84": "55.746393",
+        "LongitudeWGS84": "37.688317",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1072023627
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.687394,
+          55.744957
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 1",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Центральный административный округ",
+        "District": "Таганский район",
+        "LatitudeWGS84": "55.744957",
+        "LongitudeWGS84": "37.687394",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1072023856
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.715289,
+          55.724113
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 3",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "Нижегородский район",
+        "LatitudeWGS84": "55.724113",
+        "LongitudeWGS84": "37.715289",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1072024219
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.668819,
+          55.616803
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 13",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Южный административный округ",
+        "District": "район Бирюлёво Восточное",
+        "LatitudeWGS84": "55.616803",
+        "LongitudeWGS84": "37.668819",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1072024471
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.66702,
+          55.618182
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 12",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Южный административный округ",
+        "District": "район Царицыно",
+        "LatitudeWGS84": "55.618182",
+        "LongitudeWGS84": "37.667020",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1072024710
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.668625,
+          55.618364
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 11",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Южный административный округ",
+        "District": "район Царицыно",
+        "LatitudeWGS84": "55.618364",
+        "LongitudeWGS84": "37.668625",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1072025706
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.669113,
+          55.618695
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 10",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Южный административный округ",
+        "District": "район Царицыно",
+        "LatitudeWGS84": "55.618695",
+        "LongitudeWGS84": "37.669113",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1072025778
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.669472,
+          55.618847
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 9",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Южный административный округ",
+        "District": "район Царицыно",
+        "LatitudeWGS84": "55.618847",
+        "LongitudeWGS84": "37.669472",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1072025796
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.670191,
+          55.619279
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 8",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Южный административный округ",
+        "District": "район Царицыно",
+        "LatitudeWGS84": "55.619279",
+        "LongitudeWGS84": "37.670191",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1072025909
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.668957,
+          55.619053
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 7",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Южный административный округ",
+        "District": "район Царицыно",
+        "LatitudeWGS84": "55.619053",
+        "LongitudeWGS84": "37.668957",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1072026019
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.527655,
+          55.92454
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 5",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "нет",
+        "AdmArea": null,
+        "District": null,
+        "LatitudeWGS84": "55.924540",
+        "LongitudeWGS84": "37.527655",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 1072026061
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.461462,
+          55.810905
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Проход 1",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Щукино",
+        "LatitudeWGS84": "55.810905",
+        "LongitudeWGS84": "37.461462",
+        "ObjectStatus": "действует",
+        "globalid": 1136235537
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.632215,
+          55.603288
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 1",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Южный административный округ",
+        "District": "район Чертаново Южное",
+        "LatitudeWGS84": "55.603288",
+        "LongitudeWGS84": "37.632215",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 2362997463
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6319,
+          55.602542
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 2",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Южный административный округ",
+        "District": "район Чертаново Южное",
+        "LatitudeWGS84": "55.602542",
+        "LongitudeWGS84": "37.631900",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 2362997842
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.733471,
+          55.685164
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 1",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Печатники",
+        "LatitudeWGS84": "55.685164",
+        "LongitudeWGS84": "37.733471",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 2363344284
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.733306,
+          55.68492
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 2",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Печатники",
+        "LatitudeWGS84": "55.684920",
+        "LongitudeWGS84": "37.733306",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 2363344302
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.734733,
+          55.684952
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 3",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Люблино",
+        "LatitudeWGS84": "55.684952",
+        "LongitudeWGS84": "37.734733",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 2363344304
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.734633,
+          55.68479
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 4",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Люблино",
+        "LatitudeWGS84": "55.684790",
+        "LongitudeWGS84": "37.734633",
+        "NameMetroExit": null,
+        "ObjectStatus": "действует",
+        "globalid": 2363344305
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.729802,
+          55.693479
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 6",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Печатники",
+        "LatitudeWGS84": "55.693479",
+        "LongitudeWGS84": "37.729802",
+        "ObjectStatus": "действует",
+        "globalid": 2372361054
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.730014,
+          55.694107
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 7",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Печатники",
+        "LatitudeWGS84": "55.694107",
+        "LongitudeWGS84": "37.730014",
+        "ObjectStatus": "действует",
+        "globalid": 2372366151
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.733094,
+          55.693853
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 8",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Текстильщики",
+        "LatitudeWGS84": "55.693853",
+        "LongitudeWGS84": "37.733094",
+        "NameMetroExit": "Печатники, вход-выход 4 в вестибюль",
+        "ObjectStatus": "действует",
+        "globalid": 2389385287
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.652807,
+          55.775066
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Выход 1",
+        "TypeExit": "Вход-выход",
+        "OnTerritoryOfMoscow": "да",
+        "AdmArea": "Центральный административный округ",
+        "District": "Красносельский район",
+        "LatitudeWGS84": "55.775066",
+        "LongitudeWGS84": "37.652807",
+        "NameMetroExit": "Комсомольская, вход 7 в вестибюль",
+        "ObjectStatus": "действует",
+        "globalid": 2389385562
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,89 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.627129999889,
+          55.778998000219
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectName": "Московская Соборная мечеть",
+        "AdmArea": "Центральный административный округ",
+        "District": "Мещанский район",
+        "Address": "Выползов переулок, дом 7",
+        "PublicPhone": "(495) 681-49-04",
+        "Fax": "",
+        "Email": "info@mihrab.ru",
+        "WebSite": "www.mihrab.ru",
+        "globalid": 62408188
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.632863000422,
+          55.739071000116
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectName": "Историческая мечеть",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Замоскворечье",
+        "Address": "Большая Татарская улица, дом 28, строение 1,2",
+        "PublicPhone": "(495) 951-84-48",
+        "Fax": "",
+        "Email": "",
+        "WebSite": "www.manar.ru",
+        "globalid": 62408194
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.497144000161,
+          55.725376999841
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectName": "Мемориальная мечеть",
+        "AdmArea": "Западный административный округ",
+        "District": "район Дорогомилово",
+        "Address": "Минская улица, дом 2Б",
+        "PublicPhone": "",
+        "Fax": "",
+        "Email": "vopros@umma.ru",
+        "WebSite": "www.umma.ru",
+        "globalid": 62408190
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.592932000304,
+          55.856694000138
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectName": "Смежные мечети «Ярдям» и «Инам»",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Отрадное",
+        "Address": "улица Хачатуряна, дом 8",
+        "PublicPhone": "(499) 903-60-88",
+        "Fax": "",
+        "Email": "",
+        "WebSite": "www.maginur.ru",
+        "globalid": 62408191
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

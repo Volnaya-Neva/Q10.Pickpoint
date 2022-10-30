@@ -1,0 +1,4505 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.174777,
+          55.980553
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ 11137",
+        "Locationen": "город Москва, город Зеленоград, корпус 834Б",
+        "AdmAreaen": "Zelenogradskij administrativny'j okrug",
+        "Districten": "rajon Staroe Kryukovo",
+        "StreetNameen": "Крюковская площадь",
+        "ActualLocatonen": "Крюковская площадь, корпус 834Б (остановка наземного городского пассажирского транспорта «Крюковская площадь (старый город)»)",
+        "ClarificationOfWorkingHoursen": "два регламентированных перерыва по 30 минут",
+        "UNOMen": "77013",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "07:00-20:00",
+        "PointTypeen": "ticket kiosk",
+        "PaymentTypeen": "cash payment",
+        "globalid": 1035862846
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.174585,
+          55.980617
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ 11138",
+        "Locationen": "город Москва, город Зеленоград, корпус 834Б",
+        "AdmAreaen": "Zelenogradskij administrativny'j okrug",
+        "Districten": "rajon Staroe Kryukovo",
+        "StreetNameen": "Крюковская площадь",
+        "ActualLocatonen": "Крюковская площадь, корпус 834Б (остановка наземного городского пассажирского транспорта «Крюковская площадь (старый город)»)",
+        "ClarificationOfWorkingHoursen": "два регламентированных перерыва по 30 минут",
+        "UNOMen": "77013",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "07:00-20:00",
+        "PointTypeen": "ticket kiosk",
+        "PaymentTypeen": "cash payment",
+        "globalid": 1035862848
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.816195,
+          55.750208
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0036",
+        "Locationen": "город Москва, Свободный проспект, дом 22",
+        "AdmAreaen": "Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Novogireevo",
+        "StreetNameen": "Свободный проспект",
+        "ActualLocatonen": "Свободный проспект, дом 22 (станция метро «Новогиреево»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "22836",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1035862849
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.628625,
+          55.667908
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0037",
+        "Locationen": "город Москва, Каширское шоссе, дом 4, корпус 1",
+        "AdmAreaen": "Yuzhny'j administrativny'j okrug",
+        "Districten": "rajon Nagatino-Sadovniki",
+        "StreetNameen": "Каширское шоссе",
+        "ActualLocatonen": "Каширское шоссе, дом 4, корпус 1 (остановка наземного городского транспорта «Хлебозаводский проезд»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "78184",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1035862854
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.287578,
+          55.611551
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0038",
+        "Locationen": "город Москва, посёлок Толстопальцево, Центральная улица, дом 13",
+        "AdmAreaen": "Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Vnukovo",
+        "StreetNameen": "Центральная улица",
+        "ActualLocatonen": "Центральная улица, дом 13 (остановка наземного городского пассажирского транспорта МФЦ «Внуково»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "41634",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1035862857
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.663027,
+          55.600389
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0039",
+        "Locationen": "город Москва, Бирюлёвская улица, дом 3, корпус 1",
+        "AdmAreaen": "Yuzhny'j administrativny'j okrug",
+        "Districten": "rajon Biryulyovo Vostochnoe",
+        "StreetNameen": "Бирюлёвская улица",
+        "ActualLocatonen": "Бирюлёвская улица, дом 3, корпус 1 (остановка наземного городского транспорта «Бирюлёвская улица»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "2162",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1035862861
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.733849,
+          55.814365
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0054",
+        "Locationen": "город Москва, Открытое шоссе, дом 5А",
+        "AdmAreaen": "Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Bogorodskoe",
+        "StreetNameen": "Открытое шоссе",
+        "ActualLocatonen": "Открытое шоссе, дом 5А, (напротив) (станция метро Бульвар «Рокоссовского»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "2109493",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1035862893
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.60299,
+          55.61055
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0022",
+        "Locationen": "город Москва, Кировоградская улица, дом 28, корпус 1",
+        "AdmAreaen": "Yuzhny'j administrativny'j okrug",
+        "Districten": "rajon Chertanovo Czentral`noe",
+        "StreetNameen": "Кировоградская улица",
+        "ActualLocatonen": "Кировоградская улица, дом 28, корпус 1 (станция метро «Пражская»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "10122",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1035862894
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.60925,
+          55.672155
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0057",
+        "Locationen": "город Москва, Электролитный проезд, дом 9, корпус 1",
+        "AdmAreaen": "Yuzhny'j administrativny'j okrug",
+        "Districten": "Nagorny'j rajon",
+        "StreetNameen": "Электролитный проезд",
+        "ActualLocatonen": "Электролитный проезд, дом 9, корпус 1 (станция метро «Нагорная»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "3801810",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1035862899
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.211171,
+          55.997507
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ 11049",
+        "Locationen": "город Москва, город Зеленоград, корпус 433",
+        "AdmAreaen": "Zelenogradskij administrativny'j okrug",
+        "Districten": "rajon Matushkino",
+        "StreetNameen": "Центральный проспект",
+        "ActualLocatonen": "Центральный проспект, корпус 433 (остановка наземного городского пассажирского транспорта «Магазин «Океан»»)",
+        "ClarificationOfWorkingHoursen": "два регламентированных перерыва по 30 минут",
+        "UNOMen": "30986",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "07:00-20:00",
+        "PointTypeen": "ticket kiosk",
+        "PaymentTypeen": "cash payment",
+        "globalid": 1035862902
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.188602,
+          55.994697
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ 11095",
+        "Locationen": "город Москва, город Зеленоград, корпус 1104",
+        "AdmAreaen": "Zelenogradskij administrativny'j okrug",
+        "Districten": "rajon Silino",
+        "StreetNameen": "Панфиловский проспект",
+        "ActualLocatonen": "11-й микрорайон, корпус 1104 (остановка наземного городского пассажирского транспорта «12-й микрорайон»)",
+        "ClarificationOfWorkingHoursen": "два регламентированных перерыва по 30 минут",
+        "UNOMen": "3700448",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "07:00-20:00",
+        "PointTypeen": "ticket kiosk",
+        "PaymentTypeen": "cash payment",
+        "globalid": 1035862904
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.152062,
+          55.984317
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ 10927",
+        "Locationen": "город Москва, город Зеленоград, корпус 1446",
+        "AdmAreaen": "Zelenogradskij administrativny'j okrug",
+        "Districten": "rajon Kryukovo",
+        "StreetNameen": "улица Логвиненко",
+        "ActualLocatonen": "14-й микрорайон, корпус 1446 (остановка наземного городского пассажирского транспорта «Дворец единоборств»)",
+        "ClarificationOfWorkingHoursen": "два регламентированных перерыва по 30 минут",
+        "UNOMen": "3700497",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "07:00-20:00",
+        "PointTypeen": "ticket kiosk",
+        "PaymentTypeen": "cash payment",
+        "globalid": 1035862906
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.172762,
+          55.979388
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ 11172",
+        "Locationen": "город Москва, город Зеленоград, Привокзальная площадь, дом 1",
+        "AdmAreaen": "Zelenogradskij administrativny'j okrug",
+        "Districten": "rajon Kryukovo",
+        "StreetNameen": "Привокзальная площадь",
+        "ActualLocatonen": "Привокзальная площадь (напротив дома 1) (остановка наземного городского пассажирского транспорта «станция Крюково»)",
+        "ClarificationOfWorkingHoursen": "два регламентированных перерыва по 30 минут",
+        "UNOMen": "3700906",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "07:00-20:00",
+        "PointTypeen": "ticket kiosk",
+        "PaymentTypeen": "cash payment",
+        "globalid": 1035862923
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.17259,
+          55.97946
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ 11139",
+        "Locationen": "город Москва, город Зеленоград, Привокзальная площадь, дом 1",
+        "AdmAreaen": "Zelenogradskij administrativny'j okrug",
+        "Districten": "rajon Kryukovo",
+        "StreetNameen": "Привокзальная площадь",
+        "ActualLocatonen": "Привокзальная площадь (напротив дома 1) (остановка наземного городского пассажирского транспорта «станция Крюково»)",
+        "ClarificationOfWorkingHoursen": "два регламентированных перерыва по 30 минут",
+        "UNOMen": "3700906",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "07:00-20:00",
+        "PointTypeen": "ticket kiosk",
+        "PaymentTypeen": "cash payment",
+        "globalid": 1035862924
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.572253,
+          55.686949
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0166",
+        "Locationen": "город Москва, Профсоюзная улица, дом 4",
+        "AdmAreaen": "Yugo-Zapadny'j administrativny'j okrug",
+        "Districten": "Akademicheskij rajon",
+        "StreetNameen": "Профсоюзная улица",
+        "ActualLocatonen": "Профсоюзная улица, дом 4 (станция метро «Академическая», от центра)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "2107869",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1035862952
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.351871,
+          55.637873
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ Л 011",
+        "Locationen": "город Москва, Боровское шоссе, дом 40",
+        "AdmAreaen": "Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Novo-Peredelkino",
+        "StreetNameen": "Боровское шоссе",
+        "ActualLocatonen": "Боровское шоссе, дом 40 (остановка наземного городского пассажирского транспорта станция метро «Новопеределкино», от центра)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "2621",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cashless payment",
+        "globalid": 1035862955
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.611046,
+          55.728614
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0143",
+        "Locationen": "город Москва, Ленинский проспект, дом 2А",
+        "AdmAreaen": "Czentral`ny'j administrativny'j okrug",
+        "Districten": "rajon Yakimanka",
+        "StreetNameen": "Ленинский проспект",
+        "ActualLocatonen": "Ленинский проспект, дом 2А (станция метро «Октябрьская», от центра)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "12848",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1035862962
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.751553,
+          55.820816
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ Л 014",
+        "Locationen": "город Москва, Открытое шоссе, дом 24, корпус 1",
+        "AdmAreaen": "Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Metrogorodok",
+        "StreetNameen": "Открытое шоссе",
+        "ActualLocatonen": "Открытое шоссе, дом 24, корпус 1 (остановка наземного городского пассажирского транспорта «Тагильская улица», от центра)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "260046",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cashless payment",
+        "globalid": 1035862963
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.632383,
+          55.753125
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0161",
+        "Locationen": "город Москва, улица Варварка, дом 15, строение 2",
+        "AdmAreaen": "Czentral`ny'j administrativny'j okrug",
+        "Districten": "Tverskoj rajon",
+        "StreetNameen": "улица Варварка",
+        "ActualLocatonen": "улица Варварка, дом 15, строение 2 (станция метро «Китай-город», в центр)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "4304698",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1035862974
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6527283534002,
+          55.7661980478695
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0173",
+        "Locationen": "город Москва, Садовая-Черногрязская улица, дом 14/19, корпус 2",
+        "AdmAreaen": "Czentral`ny'j administrativny'j okrug",
+        "Districten": "Basmanny'j rajon",
+        "StreetNameen": "Садовая-Черногрязская улица",
+        "ActualLocatonen": "Садовая-Черногрязская улица, дом 14/19, корпус 2 (остановка наземного городского транспорта «институт Глазных болезней»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "2106270",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1035862975
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.665994,
+          55.869313
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0067",
+        "Locationen": "город Москва, улица Менжинского, дом 21",
+        "AdmAreaen": "Severo-Vostochny'j administrativny'j okrug",
+        "Districten": "Babushkinskij rajon",
+        "StreetNameen": "улица Менжинского",
+        "ActualLocatonen": "улица Менжинского, дом 21 (станция метро «Бабушкинская»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "14184",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1035862986
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.656433,
+          55.754141
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0163",
+        "Locationen": "город Москва, улица Земляной Вал, дом 42/20",
+        "AdmAreaen": "Czentral`ny'j administrativny'j okrug",
+        "Districten": "Taganskij rajon",
+        "StreetNameen": "улица Земляной Вал",
+        "ActualLocatonen": "улица Земляной Вал, дом 42/20 (остановка наземного городского пассажирского транспорта «Сыромятники»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "29071",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1035862990
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6594,
+          55.887824
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0069",
+        "Locationen": "город Москва, Широкая улица, дом 9, корпус 1",
+        "AdmAreaen": "Severo-Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Severnoe Medvedkovo",
+        "StreetNameen": "Широкая улица",
+        "ActualLocatonen": "Широкая улица, дом 9, корпус 1 (станция метро «Медведково»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "31420",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1035862993
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.657875,
+          55.75635
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0170",
+        "Locationen": "город Москва, улица Земляной Вал, дом 33",
+        "AdmAreaen": "Czentral`ny'j administrativny'j okrug",
+        "Districten": "Basmanny'j rajon",
+        "StreetNameen": "улица Земляной Вал",
+        "ActualLocatonen": "улица Земляной Вал, дом 33 (остановка наземного городского пассажирского транспорта «Курский вокзал» - пересадка на второй диаметр, внеш/с)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "4301522",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1035862998
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.58823,
+          55.596448
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0073",
+        "Locationen": "город Москва, Чертановская улица, дом 65",
+        "AdmAreaen": "Yuzhny'j administrativny'j okrug",
+        "Districten": "rajon Chertanovo Yuzhnoe",
+        "StreetNameen": "Чертановская улица",
+        "ActualLocatonen": "Чертановская улица, дом 65 (остановка наземного городского транспорта «улица Академика Янгеля»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "28933",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1035862999
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.400066,
+          55.803989
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0071",
+        "Locationen": "город Москва, Строгинский бульвар, дом 14, корпус 3",
+        "AdmAreaen": "Severo-Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Strogino",
+        "StreetNameen": "Строгинский бульвар",
+        "ActualLocatonen": "Строгинский бульвар, дом 14, корпус 3 (станция метро «Строгино»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "24907",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1035863000
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.767271,
+          55.829289
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0097",
+        "Locationen": "город Москва, Открытое шоссе, дом 31, строение 1",
+        "AdmAreaen": "Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Metrogorodok",
+        "StreetNameen": "Открытое шоссе",
+        "ActualLocatonen": "Открытое шоссе, дом 31, строение 1 (остановка наземного городского транспорта «Детский санаторий»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "2132392",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1035863001
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.365332,
+          55.844912
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0077",
+        "Locationen": "город Москва, Митинская улица, дом 32",
+        "AdmAreaen": "Severo-Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Mitino",
+        "StreetNameen": "Митинская улица",
+        "ActualLocatonen": "Митинская улица, дом 32 (остановка наземного городского транспорта «Митинская улица, дом 32»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "31738",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1035863008
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.423009,
+          55.719276
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0082",
+        "Locationen": "город Москва, Можайское шоссе, дом 29",
+        "AdmAreaen": "Zapadny'j administrativny'j okrug",
+        "Districten": "Mozhajskij rajon",
+        "StreetNameen": "Можайское шоссе",
+        "ActualLocatonen": "Можайское шоссе, дом 29 (остановка наземного городского транспорта «улица Гришина»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "14907",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1035863018
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.493782,
+          55.692829
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0083",
+        "Locationen": "город Москва, улица Раменки, дом 6, корпус 1",
+        "AdmAreaen": "Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Ramenki",
+        "StreetNameen": "улица Раменки",
+        "ActualLocatonen": "улица Раменки, дом 6, корпус 1 (остановка наземного городского транспорта «Универсам»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "21605",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1035863020
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.393685,
+          55.652422
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ Л 003",
+        "Locationen": "город Москва, улица Богданова, дом 19",
+        "AdmAreaen": "Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Solnczevo",
+        "StreetNameen": "улица Богданова",
+        "ActualLocatonen": "улица Богданова, дом 19 (остановка наземного городского пассажирского транспорта «Управа района Солнцево», от центра)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "2112541",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cashless payment",
+        "globalid": 1035863022
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.52309,
+          55.877885
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0087",
+        "Locationen": "город Москва, Коровинское шоссе, дом 25/30",
+        "AdmAreaen": "Severny'j administrativny'j okrug",
+        "Districten": "rajon Zapadnoe Degunino",
+        "StreetNameen": "Коровинское шоссе",
+        "ActualLocatonen": "Коровинское шоссе, дом 25/30 (остановка наземного городского транспорта «Ангарская улица»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "11023",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1035863027
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.784524,
+          55.750514
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0088",
+        "Locationen": "город Москва, 2-я Владимирская улица, дом 38/18",
+        "AdmAreaen": "Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Perovo",
+        "StreetNameen": "2-я Владимирская улица",
+        "ActualLocatonen": "2-я Владимирская улица, дом 38/18 (станция метро «Перово»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "4077",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1035863030
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.865989,
+          55.743379
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0089",
+        "Locationen": "город Москва, Новокосинская улица, дом 35",
+        "AdmAreaen": "Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Novokosino",
+        "StreetNameen": "Новокосинская улица",
+        "ActualLocatonen": "Новокосинская улица, дом 35 (станция метро «Новокосино»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "2131734",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1035863032
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.475783,
+          55.855692
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0094",
+        "Locationen": "город Москва, Фестивальная улица, дом 13, корпус 1",
+        "AdmAreaen": "Severny'j administrativny'j okrug",
+        "Districten": "rajon Levoberezhny'j",
+        "StreetNameen": "Фестивальная улица",
+        "ActualLocatonen": "Фестивальная улица, дом 13, корпус 1 (северный вестибюль станции метро «Речной вокзал»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "27256",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1035863044
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.675007,
+          55.644181
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0095",
+        "Locationen": "город Москва, Каширское шоссе, дом 64, корпус 1",
+        "AdmAreaen": "Yuzhny'j administrativny'j okrug",
+        "Districten": "rajon Moskvorech`e-Saburovo",
+        "StreetNameen": "Каширское шоссе",
+        "ActualLocatonen": "Каширское шоссе, дом 64, корпус 1 (остановка наземного городского транспорта «Спортивная»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "2123589",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1035863045
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.785888,
+          55.718299
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0104",
+        "Locationen": "город Москва, Рязанский проспект, дом 32, корпус 3",
+        "AdmAreaen": "Yugo-Vostochny'j administrativny'j okrug",
+        "Districten": "Ryazanskij rajon",
+        "StreetNameen": "Рязанский проспект",
+        "ActualLocatonen": "Рязанский проспект, дом 32, корпус 3 (остановка наземного городского транспорта «Театр Чихачёва»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "2707266",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1035863048
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.793336,
+          55.717441
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0107",
+        "Locationen": "город Москва, Рязанский проспект, дом 75, корпус 2",
+        "AdmAreaen": "Yugo-Vostochny'j administrativny'j okrug",
+        "Districten": "Ryazanskij rajon",
+        "StreetNameen": "Рязанский проспект",
+        "ActualLocatonen": "Рязанский проспект, дом 75, корпус 2 (станция метро «Рязанский проспект»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "2700610",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1035863050
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.556217,
+          55.790329
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0113",
+        "Locationen": "город Москва, Ленинградский проспект, дом 36, строение 61",
+        "AdmAreaen": "Severny'j administrativny'j okrug",
+        "Districten": "rajon Ae'roport",
+        "StreetNameen": "Ленинградский проспект",
+        "ActualLocatonen": "Ленинградский проспект, дом 36, строение 61 (станция метро «Динамо»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "3404827",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1035863054
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.636581,
+          55.80777
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0116",
+        "Locationen": "город Москва, проспект Мира, дом 95, строение 4",
+        "AdmAreaen": "Severo-Vostochny'j administrativny'j okrug",
+        "Districten": "Ostankinskij rajon",
+        "StreetNameen": "проспект Мира",
+        "ActualLocatonen": "проспект Мира, дом 95, строение 4 (станция метро «Алексеевская»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "2305444",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1035863056
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5925398751139,
+          55.7668217642726
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0099",
+        "Locationen": "город Москва, Большая Садовая улица, дом 8, строение 1",
+        "AdmAreaen": "Czentral`ny'j administrativny'j okrug",
+        "Districten": "Presnenskij rajon",
+        "StreetNameen": "Большая Садовая улица",
+        "ActualLocatonen": "Большая Садовая улица, дом 8, строение 1 (остановка наземного городского транспорта «Триумфальная площадь»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "2104811",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1035863057
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.438126,
+          55.721613
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0117",
+        "Locationen": "город Москва, Можайское шоссе, дом 8",
+        "AdmAreaen": "Zapadny'j administrativny'j okrug",
+        "Districten": "Mozhajskij rajon",
+        "StreetNameen": "Староможайское шоссе",
+        "ActualLocatonen": "Можайское шоссе, дом 8 (остановка наземного городского транспорта «улица Багрицкого»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "2119044",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1035863058
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6387554308332,
+          55.7646288954132
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0123",
+        "Locationen": "город Москва, Чистопрудный бульвар, дом 2",
+        "AdmAreaen": "Czentral`ny'j administrativny'j okrug",
+        "Districten": "Basmanny'j rajon",
+        "StreetNameen": "Чистопрудный бульвар",
+        "ActualLocatonen": "Чистопрудный бульвар, дом 2 (станция метро «Чистые пруды»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "10071",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1035863067
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.439103,
+          55.850051
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0004",
+        "Locationen": "город Москва, Сходненская улица, дом 37",
+        "AdmAreaen": "Severo-Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Yuzhnoe Tushino",
+        "StreetNameen": "Сходненская улица",
+        "ActualLocatonen": "Сходненская улица, дом 37 (станция метро «Сходненская»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "25383",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1035863074
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.640126,
+          55.819834
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0112",
+        "Locationen": "город Москва, проспект Мира, дом 142",
+        "AdmAreaen": "Severo-Vostochny'j administrativny'j okrug",
+        "Districten": "Alekseevskij rajon",
+        "StreetNameen": "проспект Мира",
+        "ActualLocatonen": "проспект Мира, дом 142 (станция метро «ВДНХ»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "2302118",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1035863077
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.761378,
+          55.725988
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0103",
+        "Locationen": "город Москва, Рязанский проспект, дом 45, корпус 1",
+        "AdmAreaen": "Yugo-Vostochny'j administrativny'j okrug",
+        "Districten": "Ryazanskij rajon",
+        "StreetNameen": "Рязанский проспект",
+        "ActualLocatonen": "Рязанский проспект, дом 45, корпус 1 (остановка наземного городского транспорта «Стахановская улица»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "22373",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1035863080
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.748035,
+          55.787975
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0141",
+        "Locationen": "город Москва, Измайловское шоссе, дом 69Д",
+        "AdmAreaen": "Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Izmajlovo",
+        "StreetNameen": "Измайловское шоссе",
+        "ActualLocatonen": "Измайловское шоссе, дом 69Д (станция метро «Партизанская»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "2501524",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1035863083
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.618754,
+          55.730196
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0147",
+        "Locationen": "город Москва, Житная улица, дом 10",
+        "AdmAreaen": "Czentral`ny'j administrativny'j okrug",
+        "Districten": "rajon Yakimanka",
+        "StreetNameen": "Житная улица",
+        "ActualLocatonen": "Житная улица, дом 10 (остановка наземного городского транспорта «Житная улица»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "7762",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1035863088
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.638298,
+          55.771729
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0157",
+        "Locationen": "город Москва, Большая Сухаревская площадь, дом 16/18, строение 1",
+        "AdmAreaen": "Czentral`ny'j administrativny'j okrug",
+        "Districten": "Krasnosel`skij rajon",
+        "StreetNameen": "Большая Сухаревская площадь",
+        "ActualLocatonen": "Большая Сухаревская площадь, дом 16/18, строение 1 (остановка наземного городского транспорта «Большая Спасская улица»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "10542",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1035863095
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.590029,
+          55.765172
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0101",
+        "Locationen": "город Москва, Садовая-Кудринская улица, дом 32, строение 2",
+        "AdmAreaen": "Czentral`ny'j administrativny'j okrug",
+        "Districten": "Presnenskij rajon",
+        "StreetNameen": "Садовая-Кудринская улица",
+        "ActualLocatonen": "Садовая-Кудринская улица, дом 32, строение 2 (остановка наземного городского транспорта «улица Малая Бронная»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "22509",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1035863096
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.415083,
+          55.741478
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0025",
+        "Locationen": "город Москва, Ярцевская улица, дом 25",
+        "AdmAreaen": "Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Kunczevo",
+        "StreetNameen": "Ярцевская улица",
+        "ActualLocatonen": "Ярцевская улица, дом 25 (станция метро «Молодежная», западный выход)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "30686",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1035863100
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6133560484669,
+          55.7731507475695
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0167",
+        "Locationen": "город Москва, Садовая-Самотёчная улица, дом 4А",
+        "AdmAreaen": "Czentral`ny'j administrativny'j okrug",
+        "Districten": "Tverskoj rajon",
+        "StreetNameen": "Садовая-Самотёчная улица",
+        "ActualLocatonen": "Садовая-Самотёчная улица, дом 4А (остановка наземного городского транспорта «Театр кукол имени Образцова»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "22510",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1035863101
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.587767,
+          55.76276
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0100",
+        "Locationen": "город Москва, Садовая-Кудринская улица, дом 22, строение 1",
+        "AdmAreaen": "Czentral`ny'j administrativny'j okrug",
+        "Districten": "Presnenskij rajon",
+        "StreetNameen": "Садовая-Кудринская улица",
+        "ActualLocatonen": "Садовая-Кудринская улица, дом 22, строение 1 (остановка наземного городского транспорта «улица Спиридоновка»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "3600337",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1035863108
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.584555,
+          55.776065
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0137",
+        "Locationen": "город Москва, 1-я Тверская-Ямская улица, дом 29, строение 1",
+        "AdmAreaen": "Czentral`ny'j administrativny'j okrug",
+        "Districten": "Tverskoj rajon",
+        "StreetNameen": "1-я Тверская-Ямская улица",
+        "ActualLocatonen": "1-я Тверская-Ямская улица, дом 29, строение 1 (остановка наземного городского пассажирского транспорта «Тверская Застава» - пересадка на первый диаметр)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "2136486",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1035863112
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.532941,
+          55.700095
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0053",
+        "Locationen": "город Москва, территория Ленинские Горы, дом 1",
+        "AdmAreaen": "Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Ramenki",
+        "StreetNameen": "проезд без названия",
+        "ActualLocatonen": "территория Ленинские горы, дом 1 (остановка наземного городского транспорта «улица Лебедева»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "3103322",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1035864816
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.663511,
+          55.868239
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0066",
+        "Locationen": "город Москва, Енисейская улица, дом 17, корпус 1",
+        "AdmAreaen": "Severo-Vostochny'j administrativny'j okrug",
+        "Districten": "Babushkinskij rajon",
+        "StreetNameen": "Енисейская улица",
+        "ActualLocatonen": "Енисейская улица, дом 17, корпус 1 (станция метро «Бабушкинская»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "7471",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1035865080
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.643469,
+          55.887441
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0070",
+        "Locationen": "город Москва, Полярная улица, дом 31, строение 1",
+        "AdmAreaen": "Severo-Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Severnoe Medvedkovo",
+        "StreetNameen": "Полярная улица",
+        "ActualLocatonen": "Полярная улица, дом 31, строение 1 (остановка наземного городского транспорта «Медведково»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "2300484",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1035865126
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5891977795223,
+          55.7376970826579
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0136",
+        "Locationen": "город Москва, Зубовский бульвар, дом 4, строение 1",
+        "AdmAreaen": "Czentral`ny'j administrativny'j okrug",
+        "Districten": "rajon Xamovniki",
+        "StreetNameen": "Зубовский бульвар",
+        "ActualLocatonen": "Зубовский бульвар, дом 4, строение 1 (остановка наземного городского транспорта «Зубовская площадь»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "2120693",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1035865515
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.585802,
+          55.739699
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0149",
+        "Locationen": "город Москва, Смоленский бульвар, дом 4",
+        "AdmAreaen": "Czentral`ny'j administrativny'j okrug",
+        "Districten": "rajon Xamovniki",
+        "StreetNameen": "Смоленский бульвар",
+        "ActualLocatonen": "Смоленский бульвар, дом 4 (остановка наземного городского транспорта «Смоленский бульвар»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "2101495",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1035865801
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.626626,
+          55.74974
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0139",
+        "Locationen": "город Москва, улица Варварка, дом 6, сооружение 1",
+        "AdmAreaen": "Czentral`ny'j administrativny'j okrug",
+        "Districten": "Tverskoj rajon",
+        "StreetNameen": "улица Варварка",
+        "ActualLocatonen": "улица Варварка, дом 6, сооружение 1 (остановка наземного городского транспорта «Зарядье», от центр)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "4308109",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1035865883
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.681197,
+          55.789209
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0006",
+        "Locationen": "город Москва, Русаковская улица, дом 26",
+        "AdmAreaen": "Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Sokol`niki",
+        "StreetNameen": "Русаковская улица",
+        "ActualLocatonen": "Русаковская улица, дом 26 (остановка наземного городского пассажирского транспорта станция метро «Сокольники», от центра)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "2137055",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1035866174
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.413261,
+          55.981816
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0011",
+        "Locationen": "город Химки, Аэропорт «Шереметьево», терминал B",
+        "AdmAreaen": null,
+        "Districten": null,
+        "StreetNameen": "Шереметьевское шоссе",
+        "ActualLocatonen": "",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "",
+        "OnTerritoryOfMoscowen": "no",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1035866403
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.546995,
+          55.874648
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0028",
+        "Locationen": "город Москва, Дмитровское шоссе, дом 99, корпус 1",
+        "AdmAreaen": "Severny'j administrativny'j okrug",
+        "Districten": "Beskudnikovskij rajon",
+        "StreetNameen": "Дмитровское шоссе",
+        "ActualLocatonen": "Дмитровское шоссе, дом 99, корпус 1 (остановка наземного городского транспорта «Бескудниково»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "6706",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1056386174
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.601875,
+          55.771529
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0179",
+        "Locationen": "город Москва, Садовая-Триумфальная улица, дом 16, строение 1",
+        "AdmAreaen": "Czentral`ny'j administrativny'j okrug",
+        "Districten": "Tverskoj rajon",
+        "StreetNameen": "Садовая-Триумфальная улица",
+        "ActualLocatonen": "Садовая-Триумфальная улица, дом 16, строение 1 (остановка наземного городского транспорта «Воротниковский переулок»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "22539",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1056386177
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.59227824097,
+          55.7358698244004
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0126",
+        "Locationen": "город Москва, Зубовский бульвар, дом 13, строение 1",
+        "AdmAreaen": "Czentral`ny'j administrativny'j okrug",
+        "Districten": "rajon Xamovniki",
+        "StreetNameen": "Зубовский бульвар",
+        "ActualLocatonen": "Зубовский бульвар, дом 13, строение 1 (станция метро «Парк культуры)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "8514",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1061683644
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.602219,
+          55.744774
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0138",
+        "Locationen": "город Москва, Гоголевский бульвар, дом 2",
+        "AdmAreaen": "Czentral`ny'j administrativny'j okrug",
+        "Districten": "rajon Xamovniki",
+        "StreetNameen": "Гоголевский бульвар",
+        "ActualLocatonen": "Гоголевский бульвар, дом 2 (станция метро «Кропоткинская», от центра)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "2120563",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1061683646
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.657248,
+          55.76057
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0165",
+        "Locationen": "город Москва, улица Земляной Вал, дом 14-16, строение 1",
+        "AdmAreaen": "Czentral`ny'j administrativny'j okrug",
+        "Districten": "Basmanny'j rajon",
+        "StreetNameen": "улица Земляной Вал",
+        "ActualLocatonen": "улица Земляной Вал, дом 14-16, строение 1 (остановка наземного городского пассажирского транспорта «кинотеатр «Звезда»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "29047",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1061683647
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.438502,
+          55.851397
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0023",
+        "Locationen": "город Москва, улица Героев Панфиловцев, дом 1А",
+        "AdmAreaen": "Severo-Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Severnoe Tushino",
+        "StreetNameen": "улица Героев Панфиловцев",
+        "ActualLocatonen": "улица Героев Панфиловцев, дом 1А (станция метро «Сходненская»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "3305905",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1061975429
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.749531,
+          55.788737
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0164",
+        "Locationen": "город Москва, Измайловское шоссе, дом 69Д, строение 2",
+        "AdmAreaen": "Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Izmajlovo",
+        "StreetNameen": "Измайловское шоссе",
+        "ActualLocatonen": "Измайловское шоссе, дом 69Д, строение 2 (станция метро «Партизанская»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "2503323",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1061975430
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.598097,
+          55.584544
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0098",
+        "Locationen": "город Москва, Варшавское шоссе, дом 143А",
+        "AdmAreaen": "Yuzhny'j administrativny'j okrug",
+        "Districten": "rajon Chertanovo Yuzhnoe",
+        "StreetNameen": "Варшавское шоссе",
+        "ActualLocatonen": "Варшавское шоссе, дом 143А (станция метро «Аннино»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "3900711",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1061975433
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.652625,
+          55.74208
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0178",
+        "Locationen": "город Москва, Нижняя Радищевская улица, дом 12, строение 1",
+        "AdmAreaen": "Czentral`ny'j administrativny'j okrug",
+        "Districten": "Taganskij rajon",
+        "StreetNameen": "Нижняя Радищевская улица",
+        "ActualLocatonen": "Нижняя Радищевская улица, дом 12, строение 1 (станция метро «Таганская»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "2124183",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1068721295
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.657977,
+          55.758908
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0174",
+        "Locationen": "город Москва, улица Земляной Вал, дом 27, строение 1",
+        "AdmAreaen": "Czentral`ny'j administrativny'j okrug",
+        "Districten": "Basmanny'j rajon",
+        "StreetNameen": "улица Земляной Вал",
+        "ActualLocatonen": "улица Земляной Вал, дом 27, строение 1 (остановка наземного городского пассажирского транспорта станция метро «Курская» - пересадка на второй диаметр, внеш/с)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "29059",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1068964197
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.640231,
+          55.732744
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0129",
+        "Locationen": "город Москва, улица Зацепский Вал, дом 4, строение 2",
+        "AdmAreaen": "Czentral`ny'j administrativny'j okrug",
+        "Districten": "rajon Zamoskvorech`e",
+        "StreetNameen": "улица Зацепский Вал",
+        "ActualLocatonen": "улица Зацепский Вал, дом 4, строение 2 (остановка наземного городского пассажирского транспорта «Дом Музыки»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "2101791",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1078575553
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.636974,
+          55.731275
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0130",
+        "Locationen": "город Москва, улица Зацепский Вал, дом 14",
+        "AdmAreaen": "Czentral`ny'j administrativny'j okrug",
+        "Districten": "rajon Zamoskvorech`e",
+        "StreetNameen": "улица Зацепский Вал",
+        "ActualLocatonen": "улица Зацепский Вал, дом 14 (станция метро «Павелецкая»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "2112753",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1078575633
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.456805,
+          55.668778
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0044",
+        "Locationen": "город Москва, Никулинская улица, дом 15, корпус 1",
+        "AdmAreaen": "Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Troparyovo-Nikulino",
+        "StreetNameen": "Никулинская улица",
+        "ActualLocatonen": "Никулинская улица, дом 15, корпус 1 (остановка наземного городского транспорта «Никулинская улица»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "51702",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1080943922
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.634859,
+          55.753692
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0162",
+        "Locationen": "город Москва, Славянская площадь, дом 4, строение 4",
+        "AdmAreaen": "Czentral`ny'j administrativny'j okrug",
+        "Districten": "Taganskij rajon",
+        "StreetNameen": "Славянская площадь",
+        "ActualLocatonen": "Славянская площадь, дом 4-2/5, строение 4 (станция метро «Китай-город»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "4307990",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1080944120
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.557143,
+          55.768804
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0048",
+        "Locationen": "город Москва, улица 1905 Года, дом 25",
+        "AdmAreaen": "Czentral`ny'j administrativny'j okrug",
+        "Districten": "Presnenskij rajon",
+        "StreetNameen": "улица 1905 Года",
+        "ActualLocatonen": "улица 1905 Года, дом 25 (остановка наземного городского транспорта «Ваганьково»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "26516",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1082632630
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.460487,
+          55.778439
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0065",
+        "Locationen": "город Москва, улица Генерала Глаголева, дом 2",
+        "AdmAreaen": "Severo-Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Xoroshyovo-Mnyovniki",
+        "StreetNameen": "улица Генерала Глаголева",
+        "ActualLocatonen": "улица Генерала Глаголева, дом 2 (остановка наземного городского транспорта «улица Генерала Глаголева»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "5496",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1082632633
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5933177203318,
+          55.7360535292431
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0128",
+        "Locationen": "город Москва, Зубовский бульвар, дом 2, строение 1",
+        "AdmAreaen": "Czentral`ny'j administrativny'j okrug",
+        "Districten": "rajon Xamovniki",
+        "StreetNameen": "Зубовский бульвар",
+        "ActualLocatonen": "Зубовский бульвар, дом 2, строение 1 (станция метро «Парк культуры»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "4305186",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1083256215
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.654781,
+          55.746674
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0146",
+        "Locationen": "город Москва, улица Земляной Вал, дом 62",
+        "AdmAreaen": "Czentral`ny'j administrativny'j okrug",
+        "Districten": "Taganskij rajon",
+        "StreetNameen": "улица Земляной Вал",
+        "ActualLocatonen": "улица Земляной Вал, дом 62 (остановка наземного городского транспорта «Николоямская улица»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "2130347",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1083256216
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.714814,
+          55.751304
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0031",
+        "Locationen": "город Москва, шоссе Энтузиастов, дом 13",
+        "AdmAreaen": "Yugo-Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Lefortovo",
+        "StreetNameen": "шоссе Энтузиастов",
+        "ActualLocatonen": "шоссе Энтузиастов, дом 13 (станция метро «Авиамоторная»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "30126",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1083256219
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.657431,
+          55.758142
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0172",
+        "Locationen": "город Москва, улица Земляной Вал, дом 26, строение 1",
+        "AdmAreaen": "Czentral`ny'j administrativny'j okrug",
+        "Districten": "Basmanny'j rajon",
+        "StreetNameen": "улица Земляной Вал",
+        "ActualLocatonen": "улица Земляной Вал, дом 26, строение 1 (остановка наземного городского пассажирского транспорта «Курский вокзал» - пересадка на второй диаметр, внутр/с)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "2121349",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1089400453
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.625988,
+          55.752475
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0151",
+        "Locationen": "город Москва, улица Варварка, дом 2",
+        "AdmAreaen": "Czentral`ny'j administrativny'j okrug",
+        "Districten": "Tverskoj rajon",
+        "StreetNameen": "улица Варварка",
+        "ActualLocatonen": "улица Варварка, дом 2 (остановка наземного городского транспорта «Красная площадь», от центра)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "2124616",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1091756249
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.795822,
+          55.63508
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0084",
+        "Locationen": "город Москва, 3-й квартал Капотня, дом 13, корпус 2",
+        "AdmAreaen": "Yugo-Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Kapotnya",
+        "StreetNameen": "проезд без названия",
+        "ActualLocatonen": "3-й квартал Капотня, дом 13 (остановка наземного городского транспорта «Продмаг»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "2701376",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1103068971
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.211412,
+          55.997172
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0180",
+        "Locationen": "город Москва, город Зеленоград, корпус 433, строение 1",
+        "AdmAreaen": "Zelenogradskij administrativny'j okrug",
+        "Districten": "rajon Matushkino",
+        "StreetNameen": "Центральный проспект",
+        "ActualLocatonen": "Центральный проспект, корпус 433 (остановка наземного городского пассажирского транспорта «Магазин «Океан»»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "3701306",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1103069077
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.601572,
+          55.883454
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0055",
+        "Locationen": "город Москва, Костромская улица, дом 20",
+        "AdmAreaen": "Severo-Vostochny'j administrativny'j okrug",
+        "Districten": "Altuf`evskij rajon",
+        "StreetNameen": "Костромская улица",
+        "ActualLocatonen": "Костромская улица, дом 20 (станция метро «Бибирево»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "11253",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1117802371
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.826369,
+          55.812738
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0076",
+        "Locationen": "город Москва, Щёлковское шоссе, владение 91А, строение 1",
+        "AdmAreaen": "Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Gol`yanovo",
+        "StreetNameen": "Щёлковское шоссе",
+        "ActualLocatonen": "Щёлковское шоссе, владение 91А, строение 1 (остановка наземного городского транспорта «Хабаровская улица»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "2403503",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1117802372
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.356848,
+          55.642395
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ Л 006",
+        "Locationen": "город Москва, Чоботовская улица, дом 1",
+        "AdmAreaen": "Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Novo-Peredelkino",
+        "StreetNameen": "Чоботовская улица",
+        "ActualLocatonen": "Чоботовская улица, дом 1 (остановка наземного городского пассажирского транспорта «Чоботовская улица, дом 1»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "29151",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cashless payment",
+        "globalid": 1129980956
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.359436,
+          55.63521
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ Л 009",
+        "Locationen": "город Москва, улица Шолохова, дом 2",
+        "AdmAreaen": "Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Novo-Peredelkino",
+        "StreetNameen": "улица Шолохова",
+        "ActualLocatonen": "улица Шолохова, дом 2 (остановка наземного городского пассажирского транспорта «Новоорловская улица», от центра)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "31755",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cashless payment",
+        "globalid": 1129980957
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.743822,
+          55.613138
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ Л 012",
+        "Locationen": "город Москва, Ореховый бульвар, владение 24, строение 1А",
+        "AdmAreaen": "Yuzhny'j administrativny'j okrug",
+        "Districten": "rajon Zyablikovo",
+        "StreetNameen": "Ореховый бульвар",
+        "ActualLocatonen": "Ореховый бульвар, владение 24, строение 1А (остановка наземного городского пассажирского транспорта станция метро «Красногвардейская»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "3806863",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cashless payment",
+        "globalid": 1129980958
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.711675,
+          55.621666
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ Л 015",
+        "Locationen": "город Москва, Каширское шоссе, дом 86, корпус 2",
+        "AdmAreaen": "Yuzhny'j administrativny'j okrug",
+        "Districten": "rajon Orexovo-Borisovo Severnoe",
+        "StreetNameen": "Каширское шоссе",
+        "ActualLocatonen": "Каширское шоссе, дом 86, корпус 2 (остановка наземного городского пассажирского транспорта «7-й микрорайон Орехово-Борисова», от центра)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "9887",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cashless payment",
+        "globalid": 1129980959
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.81828,
+          55.751256
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0026",
+        "Locationen": "город Москва, Зелёный проспект, дом 60А",
+        "AdmAreaen": "Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Novogireevo",
+        "StreetNameen": "Зелёный проспект",
+        "ActualLocatonen": "Зеленый проспект, дом 60А (станция метро «Новогиреево»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "2131733",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1129980963
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.581403,
+          55.819136
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0046",
+        "Locationen": "город Москва, улица Фонвизина, дом 2/14",
+        "AdmAreaen": "Severo-Vostochny'j administrativny'j okrug",
+        "Districten": "Buty'rskij rajon",
+        "StreetNameen": "улица Фонвизина",
+        "ActualLocatonen": "улица Фонвизина, дом 2/14 (остановка наземного городского пассажирского транспорта станция метро «Тимирязевская» - пересадка на первый диаметр)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "30432",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1129980967
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.496991,
+          55.671312
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0058",
+        "Locationen": "город Москва, проспект Вернадского, дом 79",
+        "AdmAreaen": "Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Prospekt Vernadskogo",
+        "StreetNameen": "проспект Вернадского",
+        "ActualLocatonen": "проспект Вернадского, дом 79 (остановка наземного городского транспорта «улица Лобачевского»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "3645",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1129980968
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.634556,
+          55.661776
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0121",
+        "Locationen": "город Москва, Каширское шоссе, дом 21",
+        "AdmAreaen": "Yuzhny'j administrativny'j okrug",
+        "Districten": "rajon Nagatino-Sadovniki",
+        "StreetNameen": "Каширское шоссе",
+        "ActualLocatonen": "Каширское шоссе, дом 21 (остановка наземного городского транспорта «Библиотека им. Льва Толстого»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "2123670",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1129980974
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.631161,
+          55.730566
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0131",
+        "Locationen": "город Москва, Валовая улица, дом 8/18",
+        "AdmAreaen": "Czentral`ny'j administrativny'j okrug",
+        "Districten": "rajon Zamoskvorech`e",
+        "StreetNameen": "Валовая улица",
+        "ActualLocatonen": "Валовая улица, дом 8/18 (остановка наземного городского транспорта «Большой Строченовский переулок»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "3220",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1129980975
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.613126,
+          55.730314
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0148",
+        "Locationen": "город Москва, Житная улица, дом 16",
+        "AdmAreaen": "Czentral`ny'j administrativny'j okrug",
+        "Districten": "rajon Yakimanka",
+        "StreetNameen": "Житная улица",
+        "ActualLocatonen": "Житная улица, дом 16 (станция метро «Октябрьская»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "3000656",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1129980978
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.633101,
+          55.7496
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0160",
+        "Locationen": "город Москва, Китайгородский проезд, дом 9, строение 2",
+        "AdmAreaen": "Czentral`ny'j administrativny'j okrug",
+        "Districten": "Taganskij rajon",
+        "StreetNameen": "Китайгородский проезд",
+        "ActualLocatonen": "Китайгородский проезд, дом 9, строение 2 (остановка наземного городского транспорта «Китайгородский проезд», в центр)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "2130634",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1129980980
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6062585711989,
+          55.7724927997364
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0171",
+        "Locationen": "город Москва, Садовая-Каретная улица, дом 4-6, строение 1",
+        "AdmAreaen": "Czentral`ny'j administrativny'j okrug",
+        "Districten": "Tverskoj rajon",
+        "StreetNameen": "Садовая-Каретная улица",
+        "ActualLocatonen": "Садовая-Каретная улица, дом 4-6, строение 1 (остановка наземного городского транспорта «улица Малая Дмитровка»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "22480",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1129980982
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.656309,
+          55.763447
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0176",
+        "Locationen": "город Москва, улица Земляной Вал, дом 2",
+        "AdmAreaen": "Czentral`ny'j administrativny'j okrug",
+        "Districten": "Basmanny'j rajon",
+        "StreetNameen": "улица Земляной Вал",
+        "ActualLocatonen": "улица Земляной Вал, дом 2 (остановка наземного городского транспорта «площадь Земляной Вал»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "29039",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1129980983
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.521637,
+          55.63396
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0029",
+        "Locationen": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Коньково, Профсоюзная улица, дом 109В, строение 4",
+        "AdmAreaen": "Yugo-Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Kon`kovo",
+        "StreetNameen": "Профсоюзная улица",
+        "ActualLocatonen": "Профсоюзная улица, дом 109В, строение 4 (остановка наземного городского транспорта «Универсам»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "2800570",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1129981036
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.610243,
+          55.773075
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0168",
+        "Locationen": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Тверской, Садовая-Каретная улица, дом 20, строение 1",
+        "AdmAreaen": "Czentral`ny'j administrativny'j okrug",
+        "Districten": "Tverskoj rajon",
+        "StreetNameen": "Садовая-Каретная улица",
+        "ActualLocatonen": "Садовая-Каретная улица, дом 20, строение 1 (остановка наземного городского транспорта «улица Каретный Ряд»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "22487",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1129981077
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.648971,
+          55.76862
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0175",
+        "Locationen": "город Москва, Садовая-Черногрязская улица, дом 4, строение 1",
+        "AdmAreaen": "Czentral`ny'j administrativny'j okrug",
+        "Districten": "Basmanny'j rajon",
+        "StreetNameen": "Садовая-Черногрязская улица",
+        "ActualLocatonen": "Садовая-Черногрязская улица, дом 4, строение 1 (станция метро «Красные ворота»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "2106187",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1136414590
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7000811,
+          55.816914
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0092",
+        "Locationen": "город Москва, Миллионная улица, дом 15, корпус 3",
+        "AdmAreaen": "Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Bogorodskoe",
+        "StreetNameen": "Миллионная улица",
+        "ActualLocatonen": "Миллионная улица, дом 15, корпус 3 (остановка наземного городского транспорта «Богородское»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "14386",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1136414591
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.633476,
+          55.77246
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0158",
+        "Locationen": "город Москва, Панкратьевский переулок, дом 2",
+        "AdmAreaen": "Czentral`ny'j administrativny'j okrug",
+        "Districten": "Krasnosel`skij rajon",
+        "StreetNameen": "Панкратьевский переулок",
+        "ActualLocatonen": "Панкратьевский переулок, дом 2 (станция метро «Сухаревская»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "2109732",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1138980996
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.495946,
+          55.881435
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0024",
+        "Locationen": "город Москва, улица Бусиновская Горка, дом 3",
+        "AdmAreaen": "Severny'j administrativny'j okrug",
+        "Districten": "rajon Zapadnoe Degunino",
+        "StreetNameen": "улица Бусиновская Горка",
+        "ActualLocatonen": "улица Бусиновская горка, дом 3 (остановка наземного городского транспорта «Бусиново»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "2103119",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1139494016
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.661967,
+          55.649234
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0010",
+        "Locationen": "город Москва, Каширское шоссе, дом 40, корпус 2",
+        "AdmAreaen": "Yuzhny'j administrativny'j okrug",
+        "Districten": "rajon Moskvorech`e-Saburovo",
+        "StreetNameen": "Каширское шоссе",
+        "ActualLocatonen": "Каширское шоссе, дом 40, корпус 2 (остановка наземного городского транспорта «МИФИ»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "2123204",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1139494017
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.52161,
+          55.844201
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0074",
+        "Locationen": "город Москва, Онежская улица, дом 1/2",
+        "AdmAreaen": "Severny'j administrativny'j okrug",
+        "Districten": "Golovinskij rajon",
+        "StreetNameen": "Онежская улица",
+        "ActualLocatonen": "Онежская улица, дом 1/2 (остановка наземного городского транспорта «Онежская улица»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "17540",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1139494020
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5831533552884,
+          55.7492027564676
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0115",
+        "Locationen": "город Москва, Смоленская площадь, дом 6, строение 1",
+        "AdmAreaen": "Czentral`ny'j administrativny'j okrug",
+        "Districten": "rajon Arbat",
+        "StreetNameen": "Смоленская площадь",
+        "ActualLocatonen": "Смоленская площадь, дом 6, строение 1 (станция метро «Смоленская»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "2127631",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1139494021
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.686145,
+          55.639904
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0002",
+        "Locationen": "город Москва, Каширское шоссе, дом 78А",
+        "AdmAreaen": "Yuzhny'j administrativny'j okrug",
+        "Districten": "rajon Moskvorech`e-Saburovo",
+        "StreetNameen": "Каширское шоссе",
+        "ActualLocatonen": "Каширское шоссе, дом 78А (остановка наземного городского пассажирского транспорта станция МЦД «Москворечье»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "3800379",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1139494022
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.620849,
+          55.70714
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0009",
+        "Locationen": "город Москва, Большая Тульская улица, дом 10",
+        "AdmAreaen": "Yuzhny'j administrativny'j okrug",
+        "Districten": "Danilovskij rajon",
+        "StreetNameen": "Большая Тульская улица",
+        "ActualLocatonen": "Большая Тульская улица, дом 10 (станция метро «Тульская»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "3801298",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1139494026
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.666825,
+          55.779987
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0063",
+        "Locationen": "город Москва, Краснопрудная улица, дом 13А, строение 1",
+        "AdmAreaen": "Czentral`ny'j administrativny'j okrug",
+        "Districten": "Krasnosel`skij rajon",
+        "StreetNameen": "Краснопрудная улица",
+        "ActualLocatonen": "Краснопрудная улица, дом 13А, строение 1 (станция метро «Красносельская»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "4301466",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1139494027
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.528167,
+          55.890474
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0075",
+        "Locationen": "город Москва, Клязьминская улица, дом 17",
+        "AdmAreaen": "Severny'j administrativny'j okrug",
+        "Districten": "Dmitrovskij rajon",
+        "StreetNameen": "Клязьминская улица",
+        "ActualLocatonen": "Клязьминская улица, дом 17 (остановка наземного городского транспорта «Больница»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "10261",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1139494029
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.662289,
+          55.649711
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0096",
+        "Locationen": "город Москва, Каширское шоссе, дом 31, строение 2",
+        "AdmAreaen": "Yuzhny'j administrativny'j okrug",
+        "Districten": "rajon Moskvorech`e-Saburovo",
+        "StreetNameen": "Каширское шоссе",
+        "ActualLocatonen": "Каширское шоссе, дом 31, строение 2 (остановка наземного городского транспорта «МИФИ»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "2123694",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1139494030
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.516152,
+          55.777548
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0064",
+        "Locationen": "город Москва, Хорошёвское шоссе, дом 88",
+        "AdmAreaen": "Severny'j administrativny'j okrug",
+        "Districten": "Xoroshyovskij rajon",
+        "StreetNameen": "Хорошёвское шоссе",
+        "ActualLocatonen": "Хорошёвское шоссе, дом 88 (станция метро «Полежаевская»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "28131",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1139494031
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.750858,
+          55.787859
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0156",
+        "Locationen": "город Москва, Измайловское шоссе, дом 69Г",
+        "AdmAreaen": "Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Izmajlovo",
+        "StreetNameen": "Измайловское шоссе",
+        "ActualLocatonen": "Измайловское шоссе, дом 69Г, (напротив) (станция метро «Партизанская»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "2504762",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1139494033
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6247654491906,
+          55.7299937913319
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0124",
+        "Locationen": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Замоскворечье, Серпуховская площадь, дом 36/71, строение 1",
+        "AdmAreaen": "Czentral`ny'j administrativny'j okrug",
+        "Districten": "rajon Zamoskvorech`e",
+        "StreetNameen": "Серпуховская площадь",
+        "ActualLocatonen": "Серпуховская площадь, дом 36/71, строение 1 (остановка наземного городского транспорта «Серпуховская площадь»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "4301439",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1139494106
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.682592,
+          55.683267
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0078",
+        "Locationen": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Нагатинский Затон, Судостроительная улица, дом 31, корпус 1",
+        "AdmAreaen": "Yuzhny'j administrativny'j okrug",
+        "Districten": "rajon Nagatinskij Zaton",
+        "StreetNameen": "Судостроительная улица",
+        "ActualLocatonen": "Судостроительная улица, дом 31, корпус 1 (остановка наземного городского транспорта «улица Затонная»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "25141",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1139494125
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.553083,
+          55.669248
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0060",
+        "Locationen": "город Москва, Профсоюзная улица, дом 58/32, корпус 2",
+        "AdmAreaen": "Yugo-Zapadny'j administrativny'j okrug",
+        "Districten": "Obruchevskij rajon",
+        "StreetNameen": "Профсоюзная улица",
+        "ActualLocatonen": "Профсоюзная улица, дом 58/32, корпус 2 (станция метро «Новые Черёмушки»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "20994",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1140572117
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.65799,
+          55.836925
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0105",
+        "Locationen": "город Москва, проспект Мира, дом 169",
+        "AdmAreaen": "Severo-Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Rostokino",
+        "StreetNameen": "проспект Мира",
+        "ActualLocatonen": "проспект Мира, дом 169 (остановка наземного городского транспорта «Улица Докукина»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "14560",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1140572299
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.529984,
+          55.80141
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0110",
+        "Locationen": "город Москва, Ленинградский проспект, дом 64",
+        "AdmAreaen": "Severny'j administrativny'j okrug",
+        "Districten": "rajon Ae'roport",
+        "StreetNameen": "Ленинградский проспект",
+        "ActualLocatonen": "Ленинградский проспект, дом 64 (остановка наземного городского транспорта «МАДИ - Финансовый университет»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "2117334",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1140572387
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.655621,
+          55.751058
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0177",
+        "Locationen": "город Москва, улица Земляной Вал, дом 50А, строение 3",
+        "AdmAreaen": "Czentral`ny'j administrativny'j okrug",
+        "Districten": "Taganskij rajon",
+        "StreetNameen": "улица Земляной Вал",
+        "ActualLocatonen": "улица Земляной Вал, дом 50А, строение 3 (остановка наземного городского пассажирского транспорта «Высокояузский мост»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "2131105",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1140572436
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.717558,
+          55.75074
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0034",
+        "Locationen": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Лефортово, шоссе Энтузиастов, дом 22/18, сооружение 1",
+        "AdmAreaen": "Yugo-Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Lefortovo",
+        "StreetNameen": "шоссе Энтузиастов",
+        "ActualLocatonen": "шоссе Энтузиастов, дом 22/18 (станция метро «Авиамоторная»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "2708400",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1140603095
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.706207,
+          55.782522
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0090",
+        "Locationen": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Соколиная Гора, Большая Семёновская улица, дом 21",
+        "AdmAreaen": "Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Sokolinaya Gora",
+        "StreetNameen": "Большая Семёновская улица",
+        "ActualLocatonen": "Большая Семеновская улица, дом 21 (станция метро «Электрозаводская»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "23359",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1140645722
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.479737,
+          55.856591
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0047",
+        "Locationen": "город Москва, Фестивальная улица, дом 17, корпус 1",
+        "AdmAreaen": "Severny'j administrativny'j okrug",
+        "Districten": "rajon Levoberezhny'j",
+        "StreetNameen": "Фестивальная улица",
+        "ActualLocatonen": "Фестивальная улица, дом 17, корпус 1 (станция метро «Речной вокзал»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "340027",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1146573718
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.71785,
+          55.609276
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0008",
+        "Locationen": "город Москва, Каширское шоссе, дом 108, корпус 1",
+        "AdmAreaen": "Yuzhny'j administrativny'j okrug",
+        "Districten": "rajon Orexovo-Borisovo Yuzhnoe",
+        "StreetNameen": "Каширское шоссе",
+        "ActualLocatonen": "Каширское шоссе, дом 108, корпус 1 (станция метро «Домодедовская»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "9905",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1146573898
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.595284,
+          55.770679
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0127",
+        "Locationen": "город Москва, 1-я Тверская-Ямская улица, дом 1/3, строение 2",
+        "AdmAreaen": "Czentral`ny'j administrativny'j okrug",
+        "Districten": "Tverskoj rajon",
+        "StreetNameen": "1-я Тверская-Ямская улица",
+        "ActualLocatonen": "1-я Тверская-Ямская улица, дом 1/3, строение 2, (напротив) (остановка наземного городского пассажирского транспорта станция метро «Маяковская» от центра)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "2117668",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1266585112
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.514882,
+          55.747117
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0081",
+        "Locationen": "город Москва, Новозаводская улица, дом 2, корпус 1",
+        "AdmAreaen": "Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Filyovskij Park",
+        "StreetNameen": "Новозаводская улица",
+        "ActualLocatonen": "Новозаводская улица, дом 2, корпус 1 (остановка наземного городского пассажирского транспорта станция метро «Фили» - пересадка на первый диаметр)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "16517",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1266585114
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.584005,
+          55.794856
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0035",
+        "Locationen": "город Москва, Бутырская улица, дом 9, корпус 2",
+        "AdmAreaen": "Severny'j administrativny'j okrug",
+        "Districten": "Savyolovskij rajon",
+        "StreetNameen": "Бутырская улица",
+        "ActualLocatonen": "Бутырская улица, дом 9, корпус 2 (остановка наземного городского пассажирского транспорта «Савёловский вокзал» - пересадка на первый диаметр)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "3083",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1508983115
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.407633,
+          55.648919
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0043",
+        "Locationen": "город Москва, Солнцевский проспект, дом 15",
+        "AdmAreaen": "Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Solnczevo",
+        "StreetNameen": "Солнцевский проспект",
+        "ActualLocatonen": "Солнцевский проспект, дом 15 (остановка наземного городского транспорта «Солнцево»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "24316",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1508983116
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.742281,
+          55.6484
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0080",
+        "Locationen": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Марьино, Новочеркасский бульвар, дом 55",
+        "AdmAreaen": "Yugo-Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Mar`ino",
+        "StreetNameen": "Новочеркасский бульвар",
+        "ActualLocatonen": "Новочеркасский бульвар, дом 55 (станция метро «Марьино»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "17062",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1508983177
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.516202,
+          55.658908
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0045",
+        "Locationen": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Обручевский, улица Обручева, дом 15, корпус 1, строение 1",
+        "AdmAreaen": "Yugo-Zapadny'j administrativny'j okrug",
+        "Districten": "Obruchevskij rajon",
+        "StreetNameen": "улица Обручева",
+        "ActualLocatonen": "улица Обручева, дом 15, корпус 1 (остановка наземного городского транспорта «улица Обручева, дом 15»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "2800871",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1508983187
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.717149,
+          55.796952
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0106",
+        "Locationen": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Преображенское, Большая Черкизовская улица, дом 3, корпус 1",
+        "AdmAreaen": "Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Preobrazhenskoe",
+        "StreetNameen": "Большая Черкизовская улица",
+        "ActualLocatonen": "Большая Черкизовская улица, дом 3, корпус 1 (станция метро «Преображенская площадь»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "28535",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1508983190
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.58294,
+          55.746424
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0133",
+        "Locationen": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Арбат, Смоленская-Сенная площадь, дом 32-34/57/23, строение 2",
+        "AdmAreaen": "Czentral`ny'j administrativny'j okrug",
+        "Districten": "rajon Arbat",
+        "StreetNameen": "Смоленская-Сенная площадь",
+        "ActualLocatonen": "Смоленская-Сенная площадь, дом 32/34 (остановка наземного городского транспорта «Смоленская-Сенная площадь»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "2127718",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1508983191
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.58458,
+          55.742404
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0144",
+        "Locationen": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Хамовники, Смоленский бульвар, дом 22/14",
+        "AdmAreaen": "Czentral`ny'j administrativny'j okrug",
+        "Districten": "rajon Xamovniki",
+        "StreetNameen": "Смоленский бульвар",
+        "ActualLocatonen": "Смоленский бульвар, дом 22/14 (остановка наземного городского транспорта «1-й Неопалимовский переулок»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "23980",
+        "OnTerritoryOfMoscowen": "yes",
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": "ticket vending machine",
+        "PaymentTypeen": "cash and cashless payment",
+        "globalid": 1508983193
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.538217,
+          55.655337
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0032",
+        "Locationen": "город Москва, Профсоюзная улица, дом 84А, строение 1",
+        "AdmAreaen": null,
+        "Districten": null,
+        "StreetNameen": "Профсоюзная улица",
+        "ActualLocatonen": "Профсоюзная улица, дом 84А, строение 1 (станция метро «Калужская»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "2800919",
+        "OnTerritoryOfMoscowen": null,
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": null,
+        "PaymentTypeen": null,
+        "globalid": 2305201078
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.637552,
+          55.80857
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0059",
+        "Locationen": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Алексеевский, проспект Мира, дом 114",
+        "AdmAreaen": null,
+        "Districten": null,
+        "StreetNameen": "проспект Мира",
+        "ActualLocatonen": "проспект Мира, дом 114 (станция метро «Алексеевская»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "14518",
+        "OnTerritoryOfMoscowen": null,
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": null,
+        "PaymentTypeen": null,
+        "globalid": 2305201080
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.585661685889,
+          55.759873728213
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0102",
+        "Locationen": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Пресненский, Садовая-Кудринская улица, дом 4, строение 3",
+        "AdmAreaen": null,
+        "Districten": null,
+        "StreetNameen": "Садовая-Кудринская улица",
+        "ActualLocatonen": "Садовая-Кудринская улица, дом 4, строение 3 (остановка наземного городского транспорта «улица Малая Никитская»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "2101015",
+        "OnTerritoryOfMoscowen": null,
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": null,
+        "PaymentTypeen": null,
+        "globalid": 2305201085
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.40635,
+          55.659164
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ Л 001",
+        "Locationen": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Солнцево, Боровское шоссе, дом 6",
+        "AdmAreaen": null,
+        "Districten": null,
+        "StreetNameen": "Боровское шоссе",
+        "ActualLocatonen": "Боровское шоссе, дом 6 (остановка наземного городского пассажирского транспорта «улица Главмосстроя», в центр)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "4100917",
+        "OnTerritoryOfMoscowen": null,
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": null,
+        "PaymentTypeen": null,
+        "globalid": 2305201093
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.693417,
+          55.6363
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0007",
+        "Locationen": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Орехово-Борисово Северное, Каширское шоссе, дом 80",
+        "AdmAreaen": null,
+        "Districten": null,
+        "StreetNameen": "Каширское шоссе",
+        "ActualLocatonen": "Каширское шоссе, дом 80Г, строение 2 (остановка наземного городского транспорта «Сабурово», от центра)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "2123458",
+        "OnTerritoryOfMoscowen": null,
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": null,
+        "PaymentTypeen": null,
+        "globalid": 2305201094
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.614153,
+          55.77378
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0072",
+        "Locationen": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Тверской, Садовая-Самотёчная улица, дом 3",
+        "AdmAreaen": null,
+        "Districten": null,
+        "StreetNameen": "Садовая-Самотёчная улица",
+        "ActualLocatonen": "Садовая-Самотёчная улица, дом 3 (остановка наземного городского транспорта «Театр кукол имени Образцова»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "2111349",
+        "OnTerritoryOfMoscowen": null,
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": null,
+        "PaymentTypeen": null,
+        "globalid": 2305201097
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.51408,
+          55.856476
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0033",
+        "Locationen": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Головинский, Онежская улица, дом 28/1",
+        "AdmAreaen": null,
+        "Districten": null,
+        "StreetNameen": "Онежская улица",
+        "ActualLocatonen": "Онежская улица, дом 28/1 (остановка наземного городского транспорта «улица Солнечногорская»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "17575",
+        "OnTerritoryOfMoscowen": null,
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": null,
+        "PaymentTypeen": null,
+        "globalid": 2305201102
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.301032,
+          55.489115
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0086",
+        "Locationen": "город Москва, город Троицк, улица Полковника Милиции Курочкина, дом 5",
+        "AdmAreaen": null,
+        "Districten": null,
+        "StreetNameen": "улица Полковника Милиции Курочкина",
+        "ActualLocatonen": "улица Полковника Милиции Курочкина, дом 5 (остановка наземного городского транспорта «Троицк (Микрорайон «В»)»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "440832",
+        "OnTerritoryOfMoscowen": null,
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": null,
+        "PaymentTypeen": null,
+        "globalid": 2363179615
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.679758,
+          55.642436
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0020",
+        "Locationen": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Москворечье-Сабурово, Каширское шоссе, дом 76, корпус 1",
+        "AdmAreaen": null,
+        "Districten": null,
+        "StreetNameen": "Каширское шоссе",
+        "ActualLocatonen": "Каширское шоссе, дом 76, корпус 1 (остановка наземного городского транспорта «завод Полиметаллов», от центра)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "2123750",
+        "OnTerritoryOfMoscowen": null,
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": null,
+        "PaymentTypeen": null,
+        "globalid": 2363180003
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.641866,
+          55.822822
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0040",
+        "Locationen": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Останкинский, проспект Мира, дом 115, строение 1",
+        "AdmAreaen": null,
+        "Districten": null,
+        "StreetNameen": "проспект Мира",
+        "ActualLocatonen": "проспект Мира, дом 115, строение 1 (станция метро «ВДНХ»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "2302329",
+        "OnTerritoryOfMoscowen": null,
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": null,
+        "PaymentTypeen": null,
+        "globalid": 2363180320
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.612329,
+          55.731296
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0108",
+        "Locationen": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Якиманка, улица Большая Якиманка, дом 45",
+        "AdmAreaen": null,
+        "Districten": null,
+        "StreetNameen": "улица Большая Якиманка",
+        "ActualLocatonen": "улица Большая Якиманка, дом 45 (станция метро «Октябрьская» радиальная)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "2102780",
+        "OnTerritoryOfMoscowen": null,
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": null,
+        "PaymentTypeen": null,
+        "globalid": 2363182686
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.576974,
+          55.759222
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0125",
+        "Locationen": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Пресненский, Дружинниковская улица, дом 30, строение 1",
+        "AdmAreaen": null,
+        "Districten": null,
+        "StreetNameen": "Дружинниковская улица",
+        "ActualLocatonen": "Дружинниковская улица, дом 30, строение 1 (станция метро «Краснопресненская»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "2106391",
+        "OnTerritoryOfMoscowen": null,
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": null,
+        "PaymentTypeen": null,
+        "globalid": 2363183916
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.632989,
+          55.749337
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0145",
+        "Locationen": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Таганский, Китайгородский проезд, дом 9, строение 2",
+        "AdmAreaen": null,
+        "Districten": null,
+        "StreetNameen": "Китайгородский проезд",
+        "ActualLocatonen": "Китайгородский проезд, дом 9, строение 2 (остановка наземного городского транспорта «Китайгородский проезд», от центра)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "2130634",
+        "OnTerritoryOfMoscowen": null,
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": null,
+        "PaymentTypeen": null,
+        "globalid": 2363184200
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.408448,
+          55.98097
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0061",
+        "Locationen": "город Химки, Аэропорт «Шереметьево», терминал C",
+        "AdmAreaen": null,
+        "Districten": null,
+        "StreetNameen": "Шереметьевское шоссе",
+        "ActualLocatonen": "",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "",
+        "OnTerritoryOfMoscowen": null,
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": null,
+        "PaymentTypeen": null,
+        "globalid": 2363184962
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.188155,
+          55.290504
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0122",
+        "Locationen": "Российская Федерация, город Москва, внутригородская территория поселение Вороновское, Варшавское шоссе, 64-й километр, дом 1, строение 11",
+        "AdmAreaen": null,
+        "Districten": null,
+        "StreetNameen": "Варшавское шоссе",
+        "ActualLocatonen": "поселение Вороновское, 64-й километр Варшавского шоссе, владение 1/1 (ГБУ «Многофункциональный миграционный центр»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "5309397",
+        "OnTerritoryOfMoscowen": null,
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": null,
+        "PaymentTypeen": null,
+        "globalid": 2366346552
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.580295,
+          55.726726
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0049",
+        "Locationen": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Хамовники, Комсомольский проспект, дом 28",
+        "AdmAreaen": null,
+        "Districten": null,
+        "StreetNameen": "Комсомольский проспект",
+        "ActualLocatonen": "Комсомольский проспект, дом 28 (станция метро «Фрунзенская»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "2120726",
+        "OnTerritoryOfMoscowen": null,
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": null,
+        "PaymentTypeen": null,
+        "globalid": 2366346578
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.676766,
+          55.644089
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0003",
+        "Locationen": "город Москва, Каширское шоссе, дом 45, строение 21",
+        "AdmAreaen": null,
+        "Districten": null,
+        "StreetNameen": "Каширское шоссе",
+        "ActualLocatonen": "Каширское шоссе, дом 45, строение 21 (остановка наземного городского транспорта «Спортивная»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "3806316",
+        "OnTerritoryOfMoscowen": null,
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": null,
+        "PaymentTypeen": null,
+        "globalid": 2369443662
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.719487,
+          55.87818
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0016",
+        "Locationen": "город Москва, Ярославское шоссе, дом 133",
+        "AdmAreaen": null,
+        "Districten": null,
+        "StreetNameen": "Ярославское шоссе",
+        "ActualLocatonen": "Ярославское шоссе, дом 133 (остановка наземного городского транспорта «улица Егора Абакумова»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "30657",
+        "OnTerritoryOfMoscowen": null,
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": null,
+        "PaymentTypeen": null,
+        "globalid": 2369443664
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.725068,
+          55.596898
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0017",
+        "Locationen": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Орехово-Борисово Южное, Каширское шоссе, дом 144, корпус 1",
+        "AdmAreaen": null,
+        "Districten": null,
+        "StreetNameen": "Каширское шоссе",
+        "ActualLocatonen": "Каширское шоссе, дом 144, корпус 1 (остановка наземного городского транспорта «16-й автобусный парк»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "78054",
+        "OnTerritoryOfMoscowen": null,
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": null,
+        "PaymentTypeen": null,
+        "globalid": 2369443665
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.514777,
+          55.805503
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0109",
+        "Locationen": "город Москва, Ленинградский проспект, дом 74А",
+        "AdmAreaen": null,
+        "Districten": null,
+        "StreetNameen": "Ленинградский проспект",
+        "ActualLocatonen": "Ленинградский проспект, дом 74А (станция метро «Сокол»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "3404824",
+        "OnTerritoryOfMoscowen": null,
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": null,
+        "PaymentTypeen": null,
+        "globalid": 2369443669
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.619348,
+          55.773409
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0154",
+        "Locationen": "город Москва, Садовая-Самотёчная улица, дом 20, строение 1",
+        "AdmAreaen": null,
+        "Districten": null,
+        "StreetNameen": "Садовая-Самотёчная улица",
+        "ActualLocatonen": "Садовая-Самотёчная улица, дом 20, строение 1 (остановка наземного городского транспорта «Самотечная площадь»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "4309125",
+        "OnTerritoryOfMoscowen": null,
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": null,
+        "PaymentTypeen": null,
+        "globalid": 2369443673
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.627297,
+          55.752762
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0150",
+        "Locationen": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Тверской, улица Варварка, дом 5/10, строение 1",
+        "AdmAreaen": null,
+        "Districten": null,
+        "StreetNameen": "улица Варварка",
+        "ActualLocatonen": "улица Варварка, дом 3 (остановка наземного городского транспорта «Красная площадь», в центр)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "2116464",
+        "OnTerritoryOfMoscowen": null,
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": null,
+        "PaymentTypeen": null,
+        "globalid": 2369444068
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.655131,
+          55.748949
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0152",
+        "Locationen": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Таганский, улица Земляной Вал, дом 52/16, строение 1",
+        "AdmAreaen": null,
+        "Districten": null,
+        "StreetNameen": "улица Земляной Вал",
+        "ActualLocatonen": "улица Земляной Вал, дом 52/16, строение 1 (остановка наземного городского транспорта «Сивяков переулок»",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "29077",
+        "OnTerritoryOfMoscowen": null,
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": null,
+        "PaymentTypeen": null,
+        "globalid": 2369445031
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.597523,
+          55.584424
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0012",
+        "Locationen": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Чертаново Южное, Варшавское шоссе, дом 158, корпус 1",
+        "AdmAreaen": null,
+        "Districten": null,
+        "StreetNameen": "Варшавское шоссе",
+        "ActualLocatonen": "Варшавское шоссе, дом 158, корпус 1 (станция метро «Аннино»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "3381",
+        "OnTerritoryOfMoscowen": null,
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": null,
+        "PaymentTypeen": null,
+        "globalid": 2369445113
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.604611,
+          55.641022
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0021",
+        "Locationen": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Чертаново Северное, Балаклавский проспект, дом 7",
+        "AdmAreaen": null,
+        "Districten": null,
+        "StreetNameen": "Балаклавский проспект",
+        "ActualLocatonen": "Балаклавский проспект, дом 7, строение 2 (станция метро «Чертановская»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "3807460",
+        "OnTerritoryOfMoscowen": null,
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": null,
+        "PaymentTypeen": null,
+        "globalid": 2369445160
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.615502,
+          55.803307
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0068",
+        "Locationen": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Марьина Роща, Шереметьевская улица, дом 27",
+        "AdmAreaen": null,
+        "Districten": null,
+        "StreetNameen": "Шереметьевская улица",
+        "ActualLocatonen": "Шереметьевская улица, дом 27 (остановка наземного городского транспорта «Поликлиника»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "63256",
+        "OnTerritoryOfMoscowen": null,
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": null,
+        "PaymentTypeen": null,
+        "globalid": 2369445254
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.70346,
+          55.866598
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0111",
+        "Locationen": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Ярославский, Ярославское шоссе, дом 67",
+        "AdmAreaen": null,
+        "Districten": null,
+        "StreetNameen": "Ярославское шоссе",
+        "ActualLocatonen": "Ярославское шоссе, дом 67 (остановка наземного городского транспорта «Федоскинская улица»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "30623",
+        "OnTerritoryOfMoscowen": null,
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": null,
+        "PaymentTypeen": null,
+        "globalid": 2369445386
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6050003728261,
+          55.7322040909691
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0142",
+        "Locationen": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Якиманка, улица Крымский Вал, дом 8, корпус 2",
+        "AdmAreaen": null,
+        "Districten": null,
+        "StreetNameen": "улица Крымский Вал",
+        "ActualLocatonen": "улица Крымский Вал, дом 8, корпус 2 (остановка наземного городского транспорта «Парк Горького»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "4300811",
+        "OnTerritoryOfMoscowen": null,
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": null,
+        "PaymentTypeen": null,
+        "globalid": 2369445430
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.667967,
+          55.64692
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0019",
+        "Locationen": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Москворечье-Сабурово, Каширское шоссе, дом 52",
+        "AdmAreaen": null,
+        "Districten": null,
+        "StreetNameen": "Каширское шоссе",
+        "ActualLocatonen": "Каширское шоссе, дом 52 (остановка наземного городского транспорта «дом культуры «Москворечье»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "2123653",
+        "OnTerritoryOfMoscowen": null,
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": null,
+        "PaymentTypeen": null,
+        "globalid": 2387162816
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.824269,
+          55.822114
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0042",
+        "Locationen": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Гольяново, Хабаровская улица, дом 15",
+        "AdmAreaen": null,
+        "Districten": null,
+        "StreetNameen": "Хабаровская улица",
+        "ActualLocatonen": "Хабаровская улица, дом 15 (остановка наземного городского транспорта «Уссурийская улица»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "2400603",
+        "OnTerritoryOfMoscowen": null,
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": null,
+        "PaymentTypeen": null,
+        "globalid": 2387162828
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.533895,
+          55.691653
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0056",
+        "Locationen": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Гагаринский, проспект Вернадского, дом 9/10",
+        "AdmAreaen": null,
+        "Districten": null,
+        "StreetNameen": "проспект Вернадского",
+        "ActualLocatonen": "проспект Вернадского, дом 9/10 (станция метро «Университет»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "",
+        "OnTerritoryOfMoscowen": null,
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": null,
+        "PaymentTypeen": null,
+        "globalid": 2387162848
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.559344,
+          55.788989
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0114",
+        "Locationen": "город Москва, Ленинградский проспект, дом 36",
+        "AdmAreaen": null,
+        "Districten": null,
+        "StreetNameen": "Ленинградский проспект",
+        "ActualLocatonen": "Ленинградский проспект, дом 36, строение 60 (станция метро «Динамо»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "2117313",
+        "OnTerritoryOfMoscowen": null,
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": null,
+        "PaymentTypeen": null,
+        "globalid": 2387162850
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.768134,
+          55.704749
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0119",
+        "Locationen": "город Москва, Волгоградский проспект, дом 84, корпус 1",
+        "AdmAreaen": null,
+        "Districten": null,
+        "StreetNameen": "Волгоградский проспект",
+        "ActualLocatonen": "Волгоградский проспект, дом 84, корпус 1 (станция метро «Кузьминки»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "270338",
+        "OnTerritoryOfMoscowen": null,
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": null,
+        "PaymentTypeen": null,
+        "globalid": 2387162861
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.627396,
+          55.746424
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0132",
+        "Locationen": "город Москва, Садовая-Сухаревская улица, дом 8/12",
+        "AdmAreaen": null,
+        "Districten": null,
+        "StreetNameen": "Садовая-Сухаревская улица",
+        "ActualLocatonen": "Садовая-Сухаревская улица, дом 8/12 (остановка наземного городского транспорта «Мещанская улица»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "22533",
+        "OnTerritoryOfMoscowen": null,
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": null,
+        "PaymentTypeen": null,
+        "globalid": 2387162866
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.577263,
+          55.760733
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0135",
+        "Locationen": "город Москва, улица Красная Пресня, дом 1, строение 2",
+        "AdmAreaen": null,
+        "Districten": null,
+        "StreetNameen": "улица Красная Пресня",
+        "ActualLocatonen": "улица Красная Пресня, дом 1, строение 2 (станция метро «Краснопресненская», в центр)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "4302244",
+        "OnTerritoryOfMoscowen": null,
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": null,
+        "PaymentTypeen": null,
+        "globalid": 2387162877
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.626508,
+          55.749994
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0153",
+        "Locationen": "город Москва, улица Варварка, дом 6, сооружение 1",
+        "AdmAreaen": null,
+        "Districten": null,
+        "StreetNameen": "улица Варварка",
+        "ActualLocatonen": "улица Варварка, дом 6, сооружение 1 (остановка наземного городского транспорта «Зарядье», в центр)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "",
+        "OnTerritoryOfMoscowen": null,
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": null,
+        "PaymentTypeen": null,
+        "globalid": 2387162880
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.644954,
+          55.769748
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0155",
+        "Locationen": "город Москва, Садовая-Спасская улица, дом 20, строение 1",
+        "AdmAreaen": null,
+        "Districten": null,
+        "StreetNameen": "Садовая-Спасская улица",
+        "ActualLocatonen": "Садовая-Спасская улица, дом 20, строение 1 (остановка наземного городского транспорта «проспект Академика Сахарова»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "",
+        "OnTerritoryOfMoscowen": null,
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": null,
+        "PaymentTypeen": null,
+        "globalid": 2387162887
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.396041,
+          55.652579
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ Л 004",
+        "Locationen": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Солнцево, Солнцевский проспект, дом 2",
+        "AdmAreaen": null,
+        "Districten": null,
+        "StreetNameen": "Солнцевский проспект",
+        "ActualLocatonen": "Солнцевский проспект, дом 2 (остановка наземного городского пассажирского транспорта «Выставочный зал», в центр)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "24297",
+        "OnTerritoryOfMoscowen": null,
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": null,
+        "PaymentTypeen": null,
+        "globalid": 2387162910
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.346324,
+          55.944109
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0015",
+        "Locationen": "город Москва, Синявинская улица, дом 11, корпус 16",
+        "AdmAreaen": null,
+        "Districten": null,
+        "StreetNameen": "Синявинская улица",
+        "ActualLocatonen": "Синявинская улица, дом 11, корпус 16 (остановка наземного городского транспорта «1-я Сестрорецкая улица»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "340437",
+        "OnTerritoryOfMoscowen": null,
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": null,
+        "PaymentTypeen": null,
+        "globalid": 2387163190
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.718423,
+          55.609758
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0018",
+        "Locationen": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Орехово-Борисово Южное, Ореховый бульвар, дом 14, корпус 1",
+        "AdmAreaen": null,
+        "Districten": null,
+        "StreetNameen": "Ореховый бульвар",
+        "ActualLocatonen": "Ореховый бульвар, дом 14Г (станция метро «Домодедовская»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "17727",
+        "OnTerritoryOfMoscowen": null,
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": null,
+        "PaymentTypeen": null,
+        "globalid": 2387163268
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5812,
+          55.806828
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0030",
+        "Locationen": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Савеловский, Бутырская улица, дом 93",
+        "AdmAreaen": null,
+        "Districten": null,
+        "StreetNameen": "Бутырская улица",
+        "ActualLocatonen": "Бутырская улица, дом 93 (остановка наземного городского пассажирского транспорта станция метро «Дмитровская» - пересадка на второй диаметр)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "3103",
+        "OnTerritoryOfMoscowen": null,
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": null,
+        "PaymentTypeen": null,
+        "globalid": 2387163316
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.666574,
+          55.67708
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0051",
+        "Locationen": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Нагатинский Затон, улица Новинки, дом 1",
+        "AdmAreaen": null,
+        "Districten": null,
+        "StreetNameen": "улица Новинки",
+        "ActualLocatonen": "улица Новинки, дом 1 (остановка наземного городского транспорта «кинотеатр «Орбита»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "380141",
+        "OnTerritoryOfMoscowen": null,
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": null,
+        "PaymentTypeen": null,
+        "globalid": 2387163370
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.63428,
+          55.754242
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0159",
+        "Locationen": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Басманный, Лубянский проезд, дом 25, строение 2",
+        "AdmAreaen": null,
+        "Districten": null,
+        "StreetNameen": "Лубянский проезд",
+        "ActualLocatonen": "Лубянский проезд, дом 25, строение 2 (станция метро «Китай-город»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "2121451",
+        "OnTerritoryOfMoscowen": null,
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": null,
+        "PaymentTypeen": null,
+        "globalid": 2387163442
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.290604,
+          55.60751
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ М 0169",
+        "Locationen": "город Москва, посёлок Внуково, Центральная улица, дом 2",
+        "AdmAreaen": null,
+        "Districten": null,
+        "StreetNameen": "Центральная улица",
+        "ActualLocatonen": "Центральная улица, дом 2, строение 2 (остановка наземного городского пассажирского транспорта Аэропорт «Внуково»)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "2106562",
+        "OnTerritoryOfMoscowen": null,
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": null,
+        "PaymentTypeen": null,
+        "globalid": 2387163531
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.355322,
+          55.637158
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumberen": "№ Л 010",
+        "Locationen": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Ново-Переделкино, улица Шолохова, дом 5",
+        "AdmAreaen": null,
+        "Districten": null,
+        "StreetNameen": "улица Шолохова",
+        "ActualLocatonen": "улица Шолохова, дом 5 (остановка наземного городского пассажирского транспорта станция метро «Новопеределкино», в центр)",
+        "ClarificationOfWorkingHoursen": "",
+        "UNOMen": "4100569",
+        "OnTerritoryOfMoscowen": null,
+        "WorkingHoursen": "круглосуточно",
+        "PointTypeen": null,
+        "PaymentTypeen": null,
+        "globalid": 2387163603
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

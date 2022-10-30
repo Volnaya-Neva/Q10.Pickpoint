@@ -1,0 +1,1680 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.422583,
+          55.740953
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ЗАО",
+        "ADDRESS": "Рублевское ш., д.97, корп.2",
+        "FLOOR": "1 этаж",
+        "SQUARE": "71.9",
+        "STARTARENDE": "905688,35",
+        "USE": "торговое",
+        "DATEAUCTION": "28.05.2014",
+        "DATEREQUST": "21.05.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "XWGS84": "37.422583",
+        "YWGS84": "55.740953",
+        "GLOBALID": "90651749"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.47001,
+          55.813548
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "СЗАО",
+        "ADDRESS": "Волоколамское ш., д.41, корп.1",
+        "FLOOR": "подвал",
+        "SQUARE": "447.7",
+        "STARTARENDE": "3754860,00",
+        "USE": "торговое",
+        "DATEAUCTION": "14.05.2014",
+        "DATEREQUST": "07.05.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "XWGS84": "37.47001",
+        "YWGS84": "55.813548",
+        "GLOBALID": "90651715"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.725541,
+          55.779653
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ВАО",
+        "ADDRESS": "Измайловское ш.,  д.15",
+        "FLOOR": "подвал",
+        "SQUARE": "194.8",
+        "STARTARENDE": "1341393,00",
+        "USE": "торговое",
+        "DATEAUCTION": "14.05.2014",
+        "DATEREQUST": "07.05.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "XWGS84": "37.725541",
+        "YWGS84": "55.779653",
+        "GLOBALID": "90651730"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.438635,
+          55.843844
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "СЗАО",
+        "ADDRESS": "Фабрициуса ул., д.30",
+        "FLOOR": "1 этаж",
+        "SQUARE": "434.7",
+        "STARTARENDE": "3452820,00",
+        "USE": "медицинское",
+        "DATEAUCTION": "27.05.2014",
+        "DATEREQUST": "20.05.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "XWGS84": "37.438635",
+        "YWGS84": "55.843844",
+        "GLOBALID": "90891805"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.720749,
+          55.622038
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ЮАО",
+        "ADDRESS": "Шипиловская ул., д.25, корп.2",
+        "FLOOR": "2, подземный этаж",
+        "SQUARE": "1817.8",
+        "STARTARENDE": "5289798,00",
+        "USE": "дошкольное образование",
+        "DATEAUCTION": "11.06.2014",
+        "DATEREQUST": "05.06.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "XWGS84": "37.720749",
+        "YWGS84": "55.622038",
+        "GLOBALID": "90651701"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.810185,
+          55.752234
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ВАО",
+        "ADDRESS": "Зеленый пр., д.48, корп.3",
+        "FLOOR": "1 этаж",
+        "SQUARE": "403.3",
+        "STARTARENDE": "3655915,00",
+        "USE": "медицинское",
+        "DATEAUCTION": "27.05.2014",
+        "DATEREQUST": "20.05.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "XWGS84": "37.810185",
+        "YWGS84": "55.752234",
+        "GLOBALID": "90651707"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.729582,
+          55.779482
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ВАО",
+        "ADDRESS": "Измайловское ш., д.29",
+        "FLOOR": "подвал",
+        "SQUARE": "385.3",
+        "STARTARENDE": "3399502,00",
+        "USE": "торговое",
+        "DATEAUCTION": "21.05.2014",
+        "DATEREQUST": "15.05.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "XWGS84": "37.729582",
+        "YWGS84": "55.779482",
+        "GLOBALID": "91523093"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.869475,
+          55.813957
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ВАО",
+        "ADDRESS": "Западная ул., д.7А, стр.1",
+        "FLOOR": "здание",
+        "SQUARE": "27.9",
+        "STARTARENDE": "272555,00",
+        "USE": "торговое",
+        "DATEAUCTION": "14.05.2014",
+        "DATEREQUST": "07.05.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "XWGS84": "37.869475",
+        "YWGS84": "55.813957",
+        "GLOBALID": "90651732"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.502809,
+          55.691648
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ЗАО",
+        "ADDRESS": "Мичуринский проспект, д.39",
+        "FLOOR": "1 этаж",
+        "SQUARE": "176.8",
+        "STARTARENDE": "2118159,47",
+        "USE": "торговое",
+        "DATEAUCTION": "15.05.2014",
+        "DATEREQUST": "07.05.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "XWGS84": "37.502809",
+        "YWGS84": "55.691648",
+        "GLOBALID": "90891807"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.660355,
+          55.833732
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "СВАО",
+        "ADDRESS": "Бажова ул., д.5",
+        "FLOOR": "подвал",
+        "SQUARE": "137.7",
+        "STARTARENDE": "830882,00",
+        "USE": "торговое",
+        "DATEAUCTION": "21.05.2014",
+        "DATEREQUST": "15.05.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "XWGS84": "37.660355",
+        "YWGS84": "55.833732",
+        "GLOBALID": "91523092"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.610225,
+          55.678967
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ЮЗАО",
+        "ADDRESS": "Нагорная ул., д.13А, корп.4",
+        "FLOOR": "цоколь",
+        "SQUARE": "288.9",
+        "STARTARENDE": "2284043,00",
+        "USE": "торговое",
+        "DATEAUCTION": "28.05.2014",
+        "DATEREQUST": "21.05.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "XWGS84": "37.610225",
+        "YWGS84": "55.678967",
+        "GLOBALID": "89657358"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.771312,
+          55.744089
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ВАО",
+        "ADDRESS": "Лазо ул., д.8, корп.1",
+        "FLOOR": "1 этаж",
+        "SQUARE": "299.5",
+        "STARTARENDE": "2435235,00",
+        "USE": "торговое",
+        "DATEAUCTION": "21.05.2014",
+        "DATEREQUST": "15.05.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "XWGS84": "37.771312",
+        "YWGS84": "55.744089",
+        "GLOBALID": "90651723"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.426313,
+          55.739823
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ЗАО",
+        "ADDRESS": "Рублевское ш., д.93, корп.2",
+        "FLOOR": "1 этаж",
+        "SQUARE": "152.9",
+        "STARTARENDE": "1926004,85",
+        "USE": "торговое",
+        "DATEAUCTION": "28.05.2014",
+        "DATEREQUST": "21.05.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "XWGS84": "37.426313",
+        "YWGS84": "55.739823",
+        "GLOBALID": "90651750"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.40113,
+          55.655908
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ЗАО",
+        "ADDRESS": "Богданова ул., д.6, корп.1",
+        "FLOOR": "1 этаж",
+        "SQUARE": "148.2",
+        "STARTARENDE": "955872,22",
+        "USE": "медицинское",
+        "DATEAUCTION": "27.05.2014",
+        "DATEREQUST": "20.05.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "XWGS84": "37.40113",
+        "YWGS84": "55.655908",
+        "GLOBALID": "89305787"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.66383,
+          55.828768
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "СВАО",
+        "ADDRESS": "Кадомцева пр., д.13",
+        "FLOOR": "подвал",
+        "SQUARE": "148.1",
+        "STARTARENDE": "1047067,00",
+        "USE": "торговое",
+        "DATEAUCTION": "28.05.2014",
+        "DATEREQUST": "21.05.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "XWGS84": "37.66383",
+        "YWGS84": "55.828768",
+        "GLOBALID": "91523094"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.356179,
+          55.830764
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "СЗАО",
+        "ADDRESS": "Белобородова Генерала ул., д.35/2",
+        "FLOOR": "1 этаж",
+        "SQUARE": "118.3",
+        "STARTARENDE": "844544,00",
+        "USE": "медицинское",
+        "DATEAUCTION": "27.05.2014",
+        "DATEREQUST": "20.05.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "XWGS84": "37.356179",
+        "YWGS84": "55.830764",
+        "GLOBALID": "89305786"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.502809,
+          55.691648
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ЗАО",
+        "ADDRESS": "Мичуринский пр., д.39",
+        "FLOOR": "1 этаж",
+        "SQUARE": "211.4",
+        "STARTARENDE": "2282984,70",
+        "USE": "торговое",
+        "DATEAUCTION": "21.05.2014",
+        "DATEREQUST": "15.05.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "XWGS84": "37.502809",
+        "YWGS84": "55.691648",
+        "GLOBALID": "90651719"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.411561,
+          55.651496
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ЗАО",
+        "ADDRESS": "Главмосстроя ул., д.4, корп.2",
+        "FLOOR": "1 этаж",
+        "SQUARE": "178.6",
+        "STARTARENDE": "1151948,57",
+        "USE": "медицинское",
+        "DATEAUCTION": "27.05.2014",
+        "DATEREQUST": "20.05.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "XWGS84": "37.411561",
+        "YWGS84": "55.651496",
+        "GLOBALID": "89305789"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.807651,
+          55.748925
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ВАО",
+        "ADDRESS": "Алексея Дикого ул., д.3",
+        "FLOOR": "подвал",
+        "SQUARE": "73.9",
+        "STARTARENDE": "478946,00",
+        "USE": "торговое",
+        "DATEAUCTION": "14.05.2014",
+        "DATEREQUST": "07.05.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "XWGS84": "37.807651",
+        "YWGS84": "55.748925",
+        "GLOBALID": "90651720"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.805234,
+          55.760241
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ВАО",
+        "ADDRESS": "Металлургов ул., д.56",
+        "FLOOR": "2",
+        "SQUARE": "948.0",
+        "STARTARENDE": "5802708,00",
+        "USE": "дошкольное образование",
+        "DATEAUCTION": "11.06.2014",
+        "DATEREQUST": "05.06.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "XWGS84": "37.805234",
+        "YWGS84": "55.760241",
+        "GLOBALID": "89305797"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.670893,
+          55.7774
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ЦАО",
+        "ADDRESS": "Нижняя Красносельская ул., д.15, стр.1",
+        "FLOOR": "цоколь",
+        "SQUARE": "143.4",
+        "STARTARENDE": "1128136,40",
+        "USE": "свободное",
+        "DATEAUCTION": "15.05.2014",
+        "DATEREQUST": "08.05.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "XWGS84": "37.670893",
+        "YWGS84": "55.7774",
+        "GLOBALID": "90652746"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.581792,
+          55.819966
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "СВАО",
+        "ADDRESS": "Яблочкова ул., д.25",
+        "FLOOR": "подвал",
+        "SQUARE": "127.9",
+        "STARTARENDE": "1064895,00",
+        "USE": "торговое",
+        "DATEAUCTION": "28.05.2014",
+        "DATEREQUST": "21.05.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "XWGS84": "37.581792",
+        "YWGS84": "55.819966",
+        "GLOBALID": "91523090"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.66383,
+          55.828768
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "СВАО",
+        "ADDRESS": "Кадомцева пр., д.13",
+        "FLOOR": "подвал",
+        "SQUARE": "208.4",
+        "STARTARENDE": "1495270,00",
+        "USE": "торговое",
+        "DATEAUCTION": "14.05.2014",
+        "DATEREQUST": "07.05.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "XWGS84": "37.66383",
+        "YWGS84": "55.828768",
+        "GLOBALID": "90651717"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.579853,
+          55.821874
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "СВАО",
+        "ADDRESS": "Яблочкова ул., д.25",
+        "FLOOR": "подвал",
+        "SQUARE": "629.4",
+        "STARTARENDE": "3984731,00",
+        "USE": "торговое",
+        "DATEAUCTION": "14.05.2014",
+        "DATEREQUST": "07.05.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "XWGS84": "37.579853",
+        "YWGS84": "55.821874",
+        "GLOBALID": "90891803"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.39422,
+          55.709077
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ЗАО",
+        "ADDRESS": "Беловежская ул., д.57",
+        "FLOOR": "1 этаж",
+        "SQUARE": "212.1",
+        "STARTARENDE": "1715405,41",
+        "USE": "медицинское",
+        "DATEAUCTION": "27.05.2014",
+        "DATEREQUST": "20.05.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "XWGS84": "37.39422",
+        "YWGS84": "55.709077",
+        "GLOBALID": "90651713"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.611584,
+          55.681663
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ЮЗАО",
+        "ADDRESS": "Нагорная ул., д.5, корп.1",
+        "FLOOR": "подвал",
+        "SQUARE": "385.1",
+        "STARTARENDE": "3180926,00",
+        "USE": "свободное",
+        "DATEAUCTION": "28.05.2014",
+        "DATEREQUST": "21.05.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "XWGS84": "37.611584",
+        "YWGS84": "55.681663",
+        "GLOBALID": "90651705"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.614158,
+          55.858052
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "СВАО",
+        "ADDRESS": "Якушина пр., д.6Б",
+        "FLOOR": "подвал",
+        "SQUARE": "155.3",
+        "STARTARENDE": "1104028,00",
+        "USE": "торговое",
+        "DATEAUCTION": "28.05.2014",
+        "DATEREQUST": "21.05.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "XWGS84": "37.614158",
+        "YWGS84": "55.858052",
+        "GLOBALID": "91523095"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.898635,
+          55.715373
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ВАО",
+        "ADDRESS": "Лухмановская ул., д.5",
+        "FLOOR": "1 этаж",
+        "SQUARE": "320.8",
+        "STARTARENDE": "3068319,00",
+        "USE": "торговое",
+        "DATEAUCTION": "28.05.2014",
+        "DATEREQUST": "21.05.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "XWGS84": "37.898635",
+        "YWGS84": "55.715373",
+        "GLOBALID": "91523087"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.550415,
+          55.675118
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ЮЗАО",
+        "ADDRESS": "Архитектора Власова ул., д.21, корп.2",
+        "FLOOR": "цоколь",
+        "SQUARE": "262.1",
+        "STARTARENDE": "2164946,00",
+        "USE": "торговое",
+        "DATEAUCTION": "04.06.2014",
+        "DATEREQUST": "29.05.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "XWGS84": "37.550415",
+        "YWGS84": "55.675118",
+        "GLOBALID": "91523098"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.490805,
+          55.830435
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "САО",
+        "ADDRESS": "Ленинградское ш., д. 34, корп.2",
+        "FLOOR": "1 этаж",
+        "SQUARE": "109.5",
+        "STARTARENDE": "1056033,33",
+        "USE": "торговое",
+        "DATEAUCTION": "14.05.2014",
+        "DATEREQUST": "07.05.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "XWGS84": "37.490805",
+        "YWGS84": "55.830435",
+        "GLOBALID": "90651718"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.541041,
+          55.839522
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "САО",
+        "ADDRESS": "3-й Новомихалковский пр., д.5",
+        "FLOOR": "1 этаж",
+        "SQUARE": "270.0",
+        "STARTARENDE": "1959708,60",
+        "USE": "медицинское",
+        "DATEAUCTION": "27.05.2014",
+        "DATEREQUST": "20.05.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "XWGS84": "37.541041",
+        "YWGS84": "55.839522",
+        "GLOBALID": "90651706"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.660677,
+          55.747447
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ЦАО",
+        "ADDRESS": "Николоямская ул., д. 39/43, корп.2",
+        "FLOOR": "подвал",
+        "SQUARE": "283.2",
+        "STARTARENDE": "2193197,09",
+        "USE": "торговое",
+        "DATEAUCTION": "21.05.2014",
+        "DATEREQUST": "15.05.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "XWGS84": "37.660677",
+        "YWGS84": "55.747447",
+        "GLOBALID": "89657340"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.662311,
+          55.829693
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "СВАО",
+        "ADDRESS": "Малахитовая ул., д.8, корп.3",
+        "FLOOR": "1 этаж",
+        "SQUARE": "226.3",
+        "STARTARENDE": "2413263,00",
+        "USE": "торговое",
+        "DATEAUCTION": "21.05.2014",
+        "DATEREQUST": "15.05.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "XWGS84": "37.662311",
+        "YWGS84": "55.829693",
+        "GLOBALID": "90651724"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.458523,
+          55.681237
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ЗАО",
+        "ADDRESS": "Озёрная ул., д. 10",
+        "FLOOR": "1 этаж",
+        "SQUARE": "408.3",
+        "STARTARENDE": "2312129,41",
+        "USE": "медицинское",
+        "DATEAUCTION": "27.05.2014",
+        "DATEREQUST": "20.05.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "XWGS84": "37.458523",
+        "YWGS84": "55.681237",
+        "GLOBALID": "90891806"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.415885,
+          55.730426
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ЗАО",
+        "ADDRESS": "Кунцевская ул., д.15",
+        "FLOOR": "1 этаж",
+        "SQUARE": "133.2",
+        "STARTARENDE": "922151,59",
+        "USE": "медицинское",
+        "DATEAUCTION": "27.05.2014",
+        "DATEREQUST": "20.05.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "XWGS84": "37.415885",
+        "YWGS84": "55.730426",
+        "GLOBALID": "89305791"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.458187,
+          55.786579
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "СЗАО",
+        "ADDRESS": "Маршала Тухачевского ул., д.58, корп.3",
+        "FLOOR": "1 этаж",
+        "SQUARE": "285.9",
+        "STARTARENDE": "3334166,00",
+        "USE": "медицинское",
+        "DATEAUCTION": "27.05.2014",
+        "DATEREQUST": "21.05.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "XWGS84": "37.458187",
+        "YWGS84": "55.786579",
+        "GLOBALID": "91523088"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.420663,
+          55.664149
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ЗАО",
+        "ADDRESS": "Матросова ул., д.7, корп.4",
+        "FLOOR": "подвал",
+        "SQUARE": "671.0",
+        "STARTARENDE": "2302496,24",
+        "USE": "торговое",
+        "DATEAUCTION": "14.05.2014",
+        "DATEREQUST": "07.05.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "XWGS84": "37.420663",
+        "YWGS84": "55.664149",
+        "GLOBALID": "90651734"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.486697,
+          55.79248
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "СЗАО",
+        "ADDRESS": "Маршала Вершинина ул., д.8, корп.2",
+        "FLOOR": "3 этаж",
+        "SQUARE": "254.0",
+        "STARTARENDE": "2154428,00",
+        "USE": "свободное",
+        "DATEAUCTION": "28.05.2014",
+        "DATEREQUST": "21.05.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "XWGS84": "37.486697",
+        "YWGS84": "55.79248",
+        "GLOBALID": "91523091"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.565391,
+          55.795677
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "САО",
+        "ADDRESS": "Мишина ул., д.26",
+        "FLOOR": "1 этаж",
+        "SQUARE": "241.3",
+        "STARTARENDE": "3528993,20",
+        "USE": "торговое",
+        "DATEAUCTION": "21.05.2014",
+        "DATEREQUST": "15.05.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "XWGS84": "37.565391",
+        "YWGS84": "55.795677",
+        "GLOBALID": "89657360"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.483624,
+          55.79339
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "СЗАО",
+        "ADDRESS": "Расплетина ул., д.20",
+        "FLOOR": "1 этаж",
+        "SQUARE": "742.4",
+        "STARTARENDE": "4614785,00",
+        "USE": "медицинское",
+        "DATEAUCTION": "27.05.2014",
+        "DATEREQUST": "20.05.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "XWGS84": "37.483624",
+        "YWGS84": "55.79339",
+        "GLOBALID": "90651712"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.796154,
+          55.81284
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ВАО",
+        "ADDRESS": "Амурская ул., д.76",
+        "FLOOR": "1 этаж",
+        "SQUARE": "49.9",
+        "STARTARENDE": "722702,00",
+        "USE": "торговое",
+        "DATEAUCTION": "14.05.2014",
+        "DATEREQUST": "07.05.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "XWGS84": "37.796154",
+        "YWGS84": "55.81284",
+        "GLOBALID": "90651744"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.654625,
+          55.681658
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ВАО",
+        "ADDRESS": "Парковая 5-я ул., д.25",
+        "FLOOR": "подвал",
+        "SQUARE": "233.7",
+        "STARTARENDE": "895772,00",
+        "USE": "свободное",
+        "DATEAUCTION": "28.05.2014",
+        "DATEREQUST": "21.05.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "XWGS84": "37.654625",
+        "YWGS84": "55.681658",
+        "GLOBALID": "90652743"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.800657,
+          55.757151
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ВАО",
+        "ADDRESS": "Федеративный проспект, д.7, корп.1",
+        "FLOOR": "1 этаж",
+        "SQUARE": "297.9",
+        "STARTARENDE": "2660545,00",
+        "USE": "медицинское",
+        "DATEAUCTION": "27.05.2014",
+        "DATEREQUST": "20.05.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "XWGS84": "37.800657",
+        "YWGS84": "55.757151",
+        "GLOBALID": "90891804"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.812334,
+          55.810361
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ВАО",
+        "ADDRESS": "Щелковское ш., д.78",
+        "FLOOR": "подвал",
+        "SQUARE": "367.7",
+        "STARTARENDE": "2665090,00",
+        "USE": "торговое",
+        "DATEAUCTION": "15.05.2014",
+        "DATEREQUST": "08.05.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "XWGS84": "37.812334",
+        "YWGS84": "55.810361",
+        "GLOBALID": "90651748"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.794652,
+          55.789001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ВАО",
+        "ADDRESS": "Парковая ул. 7-я, д.2, корп.1",
+        "FLOOR": "подвал",
+        "SQUARE": "277.7",
+        "STARTARENDE": "1206884,00",
+        "USE": "свободное",
+        "DATEAUCTION": "28.05.2014",
+        "DATEREQUST": "21.05.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "XWGS84": "37.794652",
+        "YWGS84": "55.789001",
+        "GLOBALID": "90652741"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.709813,
+          55.81172
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ВАО",
+        "ADDRESS": "2-я Прогонная ул., д.11",
+        "FLOOR": "1 этаж",
+        "SQUARE": "134.6",
+        "STARTARENDE": "1182999,00",
+        "USE": "торговое",
+        "DATEAUCTION": "21.05.2014",
+        "DATEREQUST": "15.05.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "XWGS84": "37.709813",
+        "YWGS84": "55.81172",
+        "GLOBALID": "90651727"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.808734,
+          55.791444
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ВАО",
+        "ADDRESS": "Нижняя Первомайская ул., д.47",
+        "FLOOR": "подвал",
+        "SQUARE": "2143.5",
+        "STARTARENDE": "12432300,00",
+        "USE": "свободное",
+        "DATEAUCTION": "14.05.2014",
+        "DATEREQUST": "07.05.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "XWGS84": "37.808734",
+        "YWGS84": "55.791444",
+        "GLOBALID": "90651702"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.490092,
+          55.870557
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "САО",
+        "ADDRESS": "Петрозаводская ул., д.28, корп.3",
+        "FLOOR": "1 этаж",
+        "SQUARE": "174.4",
+        "STARTARENDE": "1483966,11",
+        "USE": "медицинское",
+        "DATEAUCTION": "27.05.2014",
+        "DATEREQUST": "20.05.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "XWGS84": "37.490092",
+        "YWGS84": "55.870557",
+        "GLOBALID": "90652749"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.796154,
+          55.81284
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ВАО",
+        "ADDRESS": "Амурская ул., д.76",
+        "FLOOR": "1 этаж",
+        "SQUARE": "33.2",
+        "STARTARENDE": "494282,00",
+        "USE": "торговое",
+        "DATEAUCTION": "14.05.2014",
+        "DATEREQUST": "07.05.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "XWGS84": "37.796154",
+        "YWGS84": "55.81284",
+        "GLOBALID": "90651743"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.821946,
+          55.793379
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ВАО",
+        "ADDRESS": "Первомайская ул., д. 128/9",
+        "FLOOR": "подвал",
+        "SQUARE": "97.2",
+        "STARTARENDE": "718794,00",
+        "USE": "торговое",
+        "DATEAUCTION": "21.05.2014",
+        "DATEREQUST": "15.05.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "XWGS84": "37.821946",
+        "YWGS84": "55.793379",
+        "GLOBALID": "90651735"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.502809,
+          55.691648
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ЗАО",
+        "ADDRESS": "Мичуринский проспект, д.39",
+        "FLOOR": "1 этаж",
+        "SQUARE": "176.8",
+        "STARTARENDE": "2118159,47",
+        "USE": "торговое",
+        "DATEAUCTION": "15.05.2014",
+        "DATEREQUST": "08.05.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "XWGS84": "37.502809",
+        "YWGS84": "55.691648",
+        "GLOBALID": "90651739"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.64801,
+          55.766044
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ЦАО",
+        "ADDRESS": "Большой Козловский пер., д.11, стр.4",
+        "FLOOR": "2-х этажное здание",
+        "SQUARE": "107.9",
+        "STARTARENDE": "1288244,00",
+        "USE": "свободное",
+        "DATEAUCTION": "04.06.2014",
+        "DATEREQUST": "29.05.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "XWGS84": "37.64801",
+        "YWGS84": "55.766044",
+        "GLOBALID": "91523096"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.667541,
+          55.712058
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ЮВАО",
+        "ADDRESS": "Велозаводская ул., д.9",
+        "FLOOR": "1 этаж",
+        "SQUARE": "98.8",
+        "STARTARENDE": "1101386,00",
+        "USE": "торговое",
+        "DATEAUCTION": "04.06.2014",
+        "DATEREQUST": "29.05.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "XWGS84": "37.667541",
+        "YWGS84": "55.712058",
+        "GLOBALID": "91523097"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.731535,
+          55.771582
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ВАО",
+        "ADDRESS": "Соколиной горы 9-я ул., д.3",
+        "FLOOR": "подвал",
+        "SQUARE": "698.7",
+        "STARTARENDE": "1773301,00",
+        "USE": "свободное",
+        "DATEAUCTION": "21.05.2014",
+        "DATEREQUST": "15.05.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "XWGS84": "37.731535",
+        "YWGS84": "55.771582",
+        "GLOBALID": "90652742"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.68539,
+          55.743443
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ЦАО",
+        "ADDRESS": "Ковров пер., д.15",
+        "FLOOR": "1 этаж",
+        "SQUARE": "144.6",
+        "STARTARENDE": "2484855,56",
+        "USE": "торговое",
+        "DATEAUCTION": "04.06.2014",
+        "DATEREQUST": "29.05.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "XWGS84": "37.68539",
+        "YWGS84": "55.743443",
+        "GLOBALID": "89657397"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.551003,
+          55.842885
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "САО",
+        "ADDRESS": "Большая Академическая ул., д.73, корп.3",
+        "FLOOR": "1 этаж",
+        "SQUARE": "138.4",
+        "STARTARENDE": "884824,42",
+        "USE": "медицинское",
+        "DATEAUCTION": "27.05.2014",
+        "DATEREQUST": "20.05.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "XWGS84": "37.551003",
+        "YWGS84": "55.842885",
+        "GLOBALID": "89305788"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.464003,
+          55.723765
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ЗАО",
+        "ADDRESS": "Кременчугская ул., д.3, корп.3",
+        "FLOOR": "1 этаж",
+        "SQUARE": "213.7",
+        "STARTARENDE": "2075830,51",
+        "USE": "медицинское",
+        "DATEAUCTION": "27.05.2014",
+        "DATEREQUST": "20.05.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "XWGS84": "37.464003",
+        "YWGS84": "55.723765",
+        "GLOBALID": "90651711"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.48434,
+          55.872707
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "САО",
+        "ADDRESS": "Дыбенко ул., д.22, корп.1",
+        "FLOOR": "1 этаж",
+        "SQUARE": "182.3",
+        "STARTARENDE": "1435025,49",
+        "USE": "медицинское",
+        "DATEAUCTION": "27.05.2014",
+        "DATEREQUST": "20.05.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "XWGS84": "37.48434",
+        "YWGS84": "55.872707",
+        "GLOBALID": "89305790"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.679838,
+          55.700745
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ЮВАО",
+        "ADDRESS": "2-й Южнопортовый пр., д.5, корп.1",
+        "FLOOR": "1 этаж",
+        "SQUARE": "235.4",
+        "STARTARENDE": "1878963,00",
+        "USE": "торговое",
+        "DATEAUCTION": "21.05.2014",
+        "DATEREQUST": "15.05.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "XWGS84": "37.679838",
+        "YWGS84": "55.700745",
+        "GLOBALID": "90651703"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.696501,
+          55.816745
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ВАО",
+        "ADDRESS": "Миллионная ул., д.11, корп.1",
+        "FLOOR": "1 этаж",
+        "SQUARE": "232.7",
+        "STARTARENDE": "1903486,00",
+        "USE": "торговое",
+        "DATEAUCTION": "15.05.2014",
+        "DATEREQUST": "08.05.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "XWGS84": "37.696501",
+        "YWGS84": "55.816745",
+        "GLOBALID": "90651747"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.508886,
+          55.600204
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ЮЗАО",
+        "ADDRESS": "Одоевского пр., д.3, корп.7",
+        "FLOOR": "1 этаж",
+        "SQUARE": "274.5",
+        "STARTARENDE": "2040633,00",
+        "USE": "медицинское",
+        "DATEAUCTION": "27.05.2014",
+        "DATEREQUST": "20.05.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "XWGS84": "37.508886",
+        "YWGS84": "55.600204",
+        "GLOBALID": "90651709"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.498574,
+          55.747629
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ЗАО",
+        "ADDRESS": "Большая Филевская ул. д.15",
+        "FLOOR": "подвал",
+        "SQUARE": "114.3",
+        "STARTARENDE": "670863,28",
+        "USE": "торговое",
+        "DATEAUCTION": "21.05.2014",
+        "DATEREQUST": "15.05.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "XWGS84": "37.498574",
+        "YWGS84": "55.747629",
+        "GLOBALID": "90651731"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.717309,
+          55.748553
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ЮВАО",
+        "ADDRESS": "2-я Кабельная ул., д.10",
+        "FLOOR": "подвал",
+        "SQUARE": "273.0",
+        "STARTARENDE": "1304394,00",
+        "USE": "медицинское",
+        "DATEAUCTION": "27.05.2014",
+        "DATEREQUST": "20.05.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "XWGS84": "37.717309",
+        "YWGS84": "55.748553",
+        "GLOBALID": "90651751"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.452775,
+          55.804058
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "СЗАО",
+        "ADDRESS": "Живописная ул., д.56",
+        "FLOOR": "подвал, 1 этаж",
+        "SQUARE": "260.8",
+        "STARTARENDE": "1655298,00",
+        "USE": "медицинское",
+        "DATEAUCTION": "27.05.2014",
+        "DATEREQUST": "20.05.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "XWGS84": "37.452775",
+        "YWGS84": "55.804058",
+        "GLOBALID": "90651752"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.779031,
+          55.752284
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ВАО",
+        "ADDRESS": "1-я Владимирская ул., д.31",
+        "FLOOR": "1 этаж",
+        "SQUARE": "58.8",
+        "STARTARENDE": "612931,00",
+        "USE": "торговое",
+        "DATEAUCTION": "21.05.2014",
+        "DATEREQUST": "15.05.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "XWGS84": "37.779031",
+        "YWGS84": "55.752284",
+        "GLOBALID": "90651737"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.568015,
+          55.5476
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ЮЗАО",
+        "ADDRESS": "Изюмская ул., д.47, корп.1",
+        "FLOOR": "1 этаж",
+        "SQUARE": "144.3",
+        "STARTARENDE": "1437084,00",
+        "USE": "торговое",
+        "DATEAUCTION": "14.05.2014",
+        "DATEREQUST": "07.05.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "XWGS84": "37.568015",
+        "YWGS84": "55.5476",
+        "GLOBALID": "90651722"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.670916,
+          55.625571
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OKRUG": "ЮАО",
+        "ADDRESS": "Каспийская ул., д.28, корп.4",
+        "FLOOR": "2, подземный этаж",
+        "SQUARE": "2839.1",
+        "STARTARENDE": "8363989,00",
+        "USE": "дошкольное образование",
+        "DATEAUCTION": "11.06.2014",
+        "DATEREQUST": "05.06.2014",
+        "ADRESAUCTION": "Департамент города Москвы по конкурентной политике (Макаренко ул., д.4, стр.1)",
+        "SAIT": "www.tender.mos.ru",
+        "XWGS84": "37.670916",
+        "YWGS84": "55.625571",
+        "GLOBALID": "89657378"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

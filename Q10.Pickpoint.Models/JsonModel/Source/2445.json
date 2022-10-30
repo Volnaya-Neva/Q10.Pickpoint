@@ -1,0 +1,1013 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.554151000057,
+          55.752043999889
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FreshwaterBodyType": "ручей",
+        "FreshwaterBodyName": "Ваганьковский Студенец",
+        "SamplingSiteName": "устье",
+        "globalid": 272665339
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.413786000283,
+          55.821941999793
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FreshwaterBodyType": "ручей",
+        "FreshwaterBodyName": "Керосиновый",
+        "SamplingSiteName": "устье",
+        "globalid": 272665340
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.786069000364,
+          55.626293000225
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FreshwaterBodyType": "река",
+        "FreshwaterBodyName": "Городня",
+        "SamplingSiteName": "устье",
+        "globalid": 272665271
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.627336999579,
+          55.689231000048
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FreshwaterBodyType": "река",
+        "FreshwaterBodyName": "Котловка",
+        "SamplingSiteName": "устье",
+        "globalid": 272665278
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.608226000374,
+          55.739222000108
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FreshwaterBodyType": "река",
+        "FreshwaterBodyName": "Москва",
+        "SamplingSiteName": "Бабьегородская плотина",
+        "globalid": 272665280
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.657221999737,
+          55.685684000103
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FreshwaterBodyType": "река",
+        "FreshwaterBodyName": "Москва",
+        "SamplingSiteName": "в районе ЗИЛа",
+        "globalid": 272665282
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.547241999714,
+          55.727808000122
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FreshwaterBodyType": "река",
+        "FreshwaterBodyName": "Москва",
+        "SamplingSiteName": "выше впадения р.Сетуни",
+        "globalid": 272665283
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.394322000003,
+          55.829162999902
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FreshwaterBodyType": "река",
+        "FreshwaterBodyName": "Москва",
+        "SamplingSiteName": "Спасский мост",
+        "globalid": 272665295
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.638524000086,
+          55.747163000203
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FreshwaterBodyType": "река",
+        "FreshwaterBodyName": "Москва",
+        "SamplingSiteName": "выше впадения р.Яузы",
+        "globalid": 272665285
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.710649000325,
+          55.68121899982
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FreshwaterBodyType": "река",
+        "FreshwaterBodyName": "Москва",
+        "SamplingSiteName": "плотина Перерва",
+        "globalid": 272665293
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.541062000191,
+          55.724465000045
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FreshwaterBodyType": "река",
+        "FreshwaterBodyName": "Москва",
+        "SamplingSiteName": "ниже впадения р.Сетуни",
+        "globalid": 272665287
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.41574500044,
+          55.814150999962
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FreshwaterBodyType": "река",
+        "FreshwaterBodyName": "Москва",
+        "SamplingSiteName": "ниже впадения р.Сходни",
+        "globalid": 272665288
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.647107000181,
+          55.736801000108
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FreshwaterBodyType": "река",
+        "FreshwaterBodyName": "Москва",
+        "SamplingSiteName": "ниже впадения р.Яузы",
+        "globalid": 272665290
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.792869000028,
+          55.623464999815
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FreshwaterBodyType": "река",
+        "FreshwaterBodyName": "Москва",
+        "SamplingSiteName": "Бесединский мост",
+        "globalid": 272665281
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.349070999804,
+          55.789463000102
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FreshwaterBodyType": "река",
+        "FreshwaterBodyName": "Москва",
+        "SamplingSiteName": "ниже п.Рублево",
+        "globalid": 272665292
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.678461999877,
+          55.669723999757
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FreshwaterBodyType": "река",
+        "FreshwaterBodyName": "Москва",
+        "SamplingSiteName": "выше КОС",
+        "globalid": 272665286
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.692538000304,
+          55.643762999772
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FreshwaterBodyType": "река",
+        "FreshwaterBodyName": "Москва",
+        "SamplingSiteName": "ниже КОС",
+        "globalid": 272665291
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.626077000103,
+          55.749527000189
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FreshwaterBodyType": "река",
+        "FreshwaterBodyName": "Неглинка",
+        "SamplingSiteName": "устье",
+        "globalid": 272665298
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.716285999699,
+          55.669364000227
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FreshwaterBodyType": "река",
+        "FreshwaterBodyName": "Нищенка",
+        "SamplingSiteName": "устье",
+        "globalid": 272665300
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.572862000126,
+          55.752672999852
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FreshwaterBodyType": "река",
+        "FreshwaterBodyName": "Пресня",
+        "SamplingSiteName": "устье",
+        "globalid": 272665308
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.543942999715,
+          55.727680000174
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FreshwaterBodyType": "река",
+        "FreshwaterBodyName": "Сетунь",
+        "SamplingSiteName": "устье",
+        "globalid": 272665316
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.412362999703,
+          55.823510000075
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FreshwaterBodyType": "река",
+        "FreshwaterBodyName": "Сходня",
+        "SamplingSiteName": "устье",
+        "globalid": 272665325
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.497931999633,
+          55.766320999865
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FreshwaterBodyType": "река",
+        "FreshwaterBodyName": "Таракановка",
+        "SamplingSiteName": "устье",
+        "globalid": 272665326
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.520334000238,
+          55.74729999986
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FreshwaterBodyType": "река",
+        "FreshwaterBodyName": "Филька",
+        "SamplingSiteName": "устье",
+        "globalid": 272665327
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.625964000125,
+          55.701593000224
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FreshwaterBodyType": "река",
+        "FreshwaterBodyName": "Чура",
+        "SamplingSiteName": "устье",
+        "globalid": 272665329
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.63340800022,
+          55.860257999842
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FreshwaterBodyType": "река",
+        "FreshwaterBodyName": "Яуза",
+        "SamplingSiteName": "50 м ниже устья р. Чермянки",
+        "globalid": 272665338
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.640355000197,
+          55.747314999826
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FreshwaterBodyType": "река",
+        "FreshwaterBodyName": "Яуза",
+        "SamplingSiteName": "устье",
+        "globalid": 272665335
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.447689000316,
+          55.796808000097
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FreshwaterBodyType": "ручей",
+        "FreshwaterBodyName": "Соболевский",
+        "SamplingSiteName": "устье",
+        "globalid": 272665342
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.362056,
+          55.900997
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FreshwaterBodyType": "река",
+        "FreshwaterBodyName": "Сходня",
+        "SamplingSiteName": "Куркино, выше руч. Безымянного",
+        "globalid": 272665320
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.392731999916,
+          55.851521000065
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FreshwaterBodyType": "река",
+        "FreshwaterBodyName": "Сходня",
+        "SamplingSiteName": "Митино, ниже выпуска р. Братовки",
+        "globalid": 272665321
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.408010000093,
+          55.83326599985
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FreshwaterBodyType": "река",
+        "FreshwaterBodyName": "Сходня",
+        "SamplingSiteName": "мост по Походному пр-ду",
+        "globalid": 272665322
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.424059999848,
+          55.837323000057
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FreshwaterBodyType": "река",
+        "FreshwaterBodyName": "Сходня",
+        "SamplingSiteName": "мост по Строительному пр-ду",
+        "globalid": 272665324
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.685095000035,
+          55.894698999804
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FreshwaterBodyType": "река",
+        "FreshwaterBodyName": "Яуза",
+        "SamplingSiteName": "МКАД",
+        "globalid": 272665330
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6815829996,
+          55.886996000068
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FreshwaterBodyType": "река",
+        "FreshwaterBodyName": "Яуза",
+        "SamplingSiteName": "мост, ул. Широкая",
+        "globalid": 272665333
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.636323000079,
+          55.840272000002
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FreshwaterBodyType": "река",
+        "FreshwaterBodyName": "Яуза",
+        "SamplingSiteName": "мост, ул. В.Пика",
+        "globalid": 272665332
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.670110999586,
+          55.824406999829
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FreshwaterBodyType": "река",
+        "FreshwaterBodyName": "Яуза",
+        "SamplingSiteName": "мост Ярославской ж/д",
+        "globalid": 272665334
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.699172000287,
+          55.782688999865
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FreshwaterBodyType": "река",
+        "FreshwaterBodyName": "Яуза",
+        "SamplingSiteName": "Электрозаводский мост",
+        "globalid": 272665337
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.374285,
+          55.640338
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FreshwaterBodyType": "река",
+        "FreshwaterBodyName": "Сетунь",
+        "SamplingSiteName": "Новопеределкинская ул.",
+        "globalid": 272665315
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.437646999656,
+          55.712933999883
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FreshwaterBodyType": "река",
+        "FreshwaterBodyName": "Сетунь",
+        "SamplingSiteName": "Багрицкий мост",
+        "globalid": 272665311
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.45481399967,
+          55.709882
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FreshwaterBodyType": "река",
+        "FreshwaterBodyName": "Сетунь",
+        "SamplingSiteName": "Аминьевский мост",
+        "globalid": 272665309
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.500045999602,
+          55.721218999804
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FreshwaterBodyType": "река",
+        "FreshwaterBodyName": "Сетунь",
+        "SamplingSiteName": "Минский мост",
+        "globalid": 272665312
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.402541999874,
+          55.699110000109
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FreshwaterBodyType": "река",
+        "FreshwaterBodyName": "Сетунь",
+        "SamplingSiteName": "МКАД",
+        "globalid": 272665313
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.871654000188,
+          55.71531199998
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FreshwaterBodyType": "озеро",
+        "FreshwaterBodyName": "Святое",
+        "SamplingSiteName": "восточная сторона",
+        "globalid": 272665268
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.457803999872,
+          55.882804000022
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FreshwaterBodyType": "водохранилище",
+        "FreshwaterBodyName": "Химкинское",
+        "SamplingSiteName": "Химкинский мост",
+        "globalid": 272665264
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.841441999792,
+          55.722724999894
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FreshwaterBodyType": "озеро",
+        "FreshwaterBodyName": "Черное",
+        "SamplingSiteName": "со стороны МКАД",
+        "globalid": 272665269
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.240247000398,
+          55.516562999943
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FreshwaterBodyType": "река",
+        "FreshwaterBodyName": "Десна",
+        "SamplingSiteName": "мост Птичное-Хатминки",
+        "globalid": 272665277
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.327751000197,
+          55.516830999825
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FreshwaterBodyType": "река",
+        "FreshwaterBodyName": "Десна",
+        "SamplingSiteName": "мост, Покровский храм",
+        "globalid": 272665276
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.377657999954,
+          55.519740999798
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FreshwaterBodyType": "река",
+        "FreshwaterBodyName": "Десна",
+        "SamplingSiteName": "мост Калужского шоссе",
+        "globalid": 272665275
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.479362999854,
+          55.460361000252
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FreshwaterBodyType": "река",
+        "FreshwaterBodyName": "Десна",
+        "SamplingSiteName": "выход из Новой Москвы",
+        "globalid": 272665273
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          36.919457999788,
+          55.464532000081
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FreshwaterBodyType": "река",
+        "FreshwaterBodyName": "Пахра",
+        "SamplingSiteName": "мост Киевского шоссе, 10 км ниже истока",
+        "globalid": 272665306
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.186808000115,
+          55.41950699991
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FreshwaterBodyType": "река",
+        "FreshwaterBodyName": "Пахра",
+        "SamplingSiteName": "мост ММК",
+        "globalid": 272665307
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.28673799998,
+          55.438598000088
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FreshwaterBodyType": "река",
+        "FreshwaterBodyName": "Пахра",
+        "SamplingSiteName": "мост Калужского шоссе",
+        "globalid": 272665304
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.389673999942,
+          55.443086000139
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FreshwaterBodyType": "река",
+        "FreshwaterBodyName": "Пахра",
+        "SamplingSiteName": "вход на территорию МО",
+        "globalid": 272665302
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.538036000004,
+          55.437537999894
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FreshwaterBodyType": "река",
+        "FreshwaterBodyName": "Пахра",
+        "SamplingSiteName": "выход из Новой Москвы",
+        "globalid": 272665303
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.372181,
+          55.529308
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FreshwaterBodyType": "река",
+        "FreshwaterBodyName": "Незнайка",
+        "SamplingSiteName": "устье",
+        "globalid": 272665299
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.438916,
+          55.554447
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FreshwaterBodyType": "река",
+        "FreshwaterBodyName": "Сосенка",
+        "SamplingSiteName": "мост Калужского шоссе",
+        "globalid": 272665317
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.426513,
+          55.512393
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FreshwaterBodyType": "река",
+        "FreshwaterBodyName": "Сосенка",
+        "SamplingSiteName": "устье",
+        "globalid": 272665319
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.34699,
+          55.317875
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FreshwaterBodyType": "река",
+        "FreshwaterBodyName": "Моча",
+        "SamplingSiteName": "мост Клёново",
+        "globalid": 272665296
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.850882999679,
+          55.717299000118
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FreshwaterBodyType": "озеро",
+        "FreshwaterBodyName": "Белое",
+        "SamplingSiteName": "пляж",
+        "globalid": 272665267
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.857320000018,
+          55.72010899979
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FreshwaterBodyType": "озеро",
+        "FreshwaterBodyName": "Белое",
+        "SamplingSiteName": "лодочная станция",
+        "globalid": 272665266
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.117278000068,
+          55.527415000225
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FreshwaterBodyType": "река",
+        "FreshwaterBodyName": "Десна",
+        "SamplingSiteName": "вход в Новую Москву",
+        "globalid": 272665272
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.427665300206,
+          55.61941590012
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FreshwaterBodyType": "река",
+        "FreshwaterBodyName": "Сетунь",
+        "SamplingSiteName": "д. Саларьево, нижний пруд",
+        "globalid": 272666198
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.39790080006,
+          55.615666299792
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FreshwaterBodyType": "река",
+        "FreshwaterBodyName": "Сетунь",
+        "SamplingSiteName": "д. Картмазово, мост",
+        "globalid": 272666197
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

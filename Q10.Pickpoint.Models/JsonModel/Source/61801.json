@@ -1,0 +1,3167 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.549979,
+          55.75439
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "лыжная трасса",
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "NameOfPark": {
+          "globalid": 4331849,
+          "value": "Парк Красная Пресня (основная территория)"
+        },
+        "Name": "",
+        "Location": "Мантулинская улица, владение 5",
+        "WorkingHours": "Круглосуточно (по погодным условиям)",
+        "PaidService": "Бесплатно",
+        "InventoryRental": "нет",
+        "HasDressingRoom": "нет",
+        "SharpeningSkates": null,
+        "HireSkatersAssistants": null,
+        "Square": null,
+        "Length": 0.5,
+        "LightingAvailability": "да",
+        "globalid": 1021742800
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.825441,
+          55.72838
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "лыжная трасса",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Вешняки",
+        "NameOfPark": {
+          "globalid": 4331793,
+          "value": "Парк у прудов «Радуга»"
+        },
+        "Name": "",
+        "Location": "Косинская улица, дом 4",
+        "WorkingHours": "Круглосуточно (по погодным условиям)",
+        "PaidService": "Бесплатно",
+        "InventoryRental": "да",
+        "HasDressingRoom": "нет",
+        "SharpeningSkates": null,
+        "HireSkatersAssistants": null,
+        "Square": null,
+        "Length": 2.5,
+        "LightingAvailability": "да",
+        "globalid": 1021744222
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.820942,
+          55.765096
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "лыжная трасса",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Ивановское",
+        "NameOfPark": {
+          "globalid": 4331830,
+          "value": "Зона отдыха «Терлецкая Дубрава»"
+        },
+        "Name": "",
+        "Location": "Свободный проспект, дом 2а",
+        "WorkingHours": "Круглосуточно (по погодным условиям)",
+        "PaidService": "Бесплатно",
+        "InventoryRental": "да",
+        "HasDressingRoom": "нет",
+        "SharpeningSkates": null,
+        "HireSkatersAssistants": null,
+        "Square": null,
+        "Length": 0.5,
+        "LightingAvailability": "да",
+        "globalid": 1021744223
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.748963,
+          55.774606
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "лыжная трасса",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Измайлово",
+        "NameOfPark": {
+          "globalid": 4331846,
+          "value": "Измайловский парк"
+        },
+        "Name": "",
+        "Location": "Аллея Большого Круга",
+        "WorkingHours": "Круглосуточно (по погодным условиям)",
+        "PaidService": "Бесплатно",
+        "InventoryRental": "да",
+        "HasDressingRoom": "нет",
+        "SharpeningSkates": null,
+        "HireSkatersAssistants": null,
+        "Square": null,
+        "Length": 3,
+        "LightingAvailability": "да",
+        "globalid": 1021744225
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.748963,
+          55.774606
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "лыжная трасса",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Измайлово",
+        "NameOfPark": {
+          "globalid": 4331846,
+          "value": "Измайловский парк"
+        },
+        "Name": "",
+        "Location": "Аллея Большого Круга",
+        "WorkingHours": "Круглосуточно (по погодным условиям)",
+        "PaidService": "Бесплатно",
+        "InventoryRental": "да",
+        "HasDressingRoom": "нет",
+        "SharpeningSkates": null,
+        "HireSkatersAssistants": null,
+        "Square": null,
+        "Length": 4.5,
+        "LightingAvailability": "да",
+        "globalid": 1021744226
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.748106,
+          55.776156
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "лыжная трасса",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Измайлово",
+        "NameOfPark": {
+          "globalid": 4331846,
+          "value": "Измайловский парк"
+        },
+        "Name": "",
+        "Location": "Московский проспект, дом 2",
+        "WorkingHours": "Круглосуточно (по погодным условиям)",
+        "PaidService": "Бесплатно",
+        "InventoryRental": "да",
+        "HasDressingRoom": "нет",
+        "SharpeningSkates": null,
+        "HireSkatersAssistants": null,
+        "Square": null,
+        "Length": 1,
+        "LightingAvailability": "да",
+        "globalid": 1021744227
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.752278,
+          55.784469
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "лыжная трасса",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Измайлово",
+        "NameOfPark": {
+          "globalid": 4331846,
+          "value": "Измайловский парк"
+        },
+        "Name": "",
+        "Location": "Майская аллея",
+        "WorkingHours": "Круглосуточно (по погодным условиям)",
+        "PaidService": "Бесплатно",
+        "InventoryRental": "да",
+        "HasDressingRoom": "нет",
+        "SharpeningSkates": null,
+        "HireSkatersAssistants": null,
+        "Square": null,
+        "Length": 3.5,
+        "LightingAvailability": "да",
+        "globalid": 1021744229
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.752278,
+          55.784469
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "лыжная трасса",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Измайлово",
+        "NameOfPark": {
+          "globalid": 4331846,
+          "value": "Измайловский парк"
+        },
+        "Name": "",
+        "Location": "Майская аллея",
+        "WorkingHours": "Круглосуточно (по погодным условиям)",
+        "PaidService": "Бесплатно",
+        "InventoryRental": "да",
+        "HasDressingRoom": "нет",
+        "SharpeningSkates": null,
+        "HireSkatersAssistants": null,
+        "Square": null,
+        "Length": 5,
+        "LightingAvailability": "да",
+        "globalid": 1021744230
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.676964,
+          55.795803
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "лыжная трасса",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Сокольники",
+        "NameOfPark": {
+          "globalid": 4331866,
+          "value": "Парк Сокольники"
+        },
+        "Name": "",
+        "Location": "Сокольнический Вал, дом 1",
+        "WorkingHours": "Круглосуточно (по погодным условиям)",
+        "PaidService": "Бесплатно",
+        "InventoryRental": "да",
+        "HasDressingRoom": "да",
+        "SharpeningSkates": null,
+        "HireSkatersAssistants": null,
+        "Square": null,
+        "Length": 2,
+        "LightingAvailability": "да",
+        "globalid": 1021744260
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.662285,
+          55.794574
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "лыжная трасса",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Сокольники",
+        "NameOfPark": {
+          "globalid": 4331866,
+          "value": "Парк Сокольники"
+        },
+        "Name": "",
+        "Location": "Сокольнический Вал, дом 1",
+        "WorkingHours": "Круглосуточно (по погодным условиям)",
+        "PaidService": "Бесплатно",
+        "InventoryRental": "да",
+        "HasDressingRoom": "да",
+        "SharpeningSkates": null,
+        "HireSkatersAssistants": null,
+        "Square": null,
+        "Length": 2,
+        "LightingAvailability": "да",
+        "globalid": 1021744261
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.665651,
+          55.810584
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "лыжная трасса",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Сокольники",
+        "NameOfPark": {
+          "globalid": 4331866,
+          "value": "Парк Сокольники"
+        },
+        "Name": "",
+        "Location": "Сокольнический Вал, дом 1",
+        "WorkingHours": "Круглосуточно (по погодным условиям)",
+        "PaidService": "Бесплатно",
+        "InventoryRental": "да",
+        "HasDressingRoom": "да",
+        "SharpeningSkates": null,
+        "HireSkatersAssistants": null,
+        "Square": null,
+        "Length": 2,
+        "LightingAvailability": "да",
+        "globalid": 1021744262
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.665651,
+          55.810584
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "лыжная трасса",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Сокольники",
+        "NameOfPark": {
+          "globalid": 4331866,
+          "value": "Парк Сокольники"
+        },
+        "Name": "",
+        "Location": "Сокольнический Вал, дом 1",
+        "WorkingHours": "Круглосуточно (по погодным условиям)",
+        "PaidService": "Бесплатно",
+        "InventoryRental": "да",
+        "HasDressingRoom": "да",
+        "SharpeningSkates": null,
+        "HireSkatersAssistants": null,
+        "Square": null,
+        "Length": 2,
+        "LightingAvailability": "да",
+        "globalid": 1021744263
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.665756,
+          55.810657
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "лыжная трасса",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Сокольники",
+        "NameOfPark": {
+          "globalid": 4331866,
+          "value": "Парк Сокольники"
+        },
+        "Name": "",
+        "Location": "Сокольнический Вал, дом 1",
+        "WorkingHours": "Круглосуточно (по погодным условиям)",
+        "PaidService": "Бесплатно",
+        "InventoryRental": "да",
+        "HasDressingRoom": "да",
+        "SharpeningSkates": null,
+        "HireSkatersAssistants": null,
+        "Square": null,
+        "Length": 5.5,
+        "LightingAvailability": "да",
+        "globalid": 1021744264
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6651,
+          55.811465
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "лыжная трасса",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Сокольники",
+        "NameOfPark": {
+          "globalid": 4331866,
+          "value": "Парк Сокольники"
+        },
+        "Name": "",
+        "Location": "Сокольнический Вал, дом 1",
+        "WorkingHours": "Круглосуточно (по погодным условиям)",
+        "PaidService": "Бесплатно",
+        "InventoryRental": "да",
+        "HasDressingRoom": "да",
+        "SharpeningSkates": null,
+        "HireSkatersAssistants": null,
+        "Square": null,
+        "Length": 10,
+        "LightingAvailability": "да",
+        "globalid": 1021744265
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.668359,
+          55.797725
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "лыжная трасса",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Сокольники",
+        "NameOfPark": {
+          "globalid": 4331866,
+          "value": "Парк Сокольники"
+        },
+        "Name": "",
+        "Location": "Сокольнический Вал, дом 1",
+        "WorkingHours": "Круглосуточно (по погодным условиям)",
+        "PaidService": "Бесплатно",
+        "InventoryRental": "да",
+        "HasDressingRoom": "да",
+        "SharpeningSkates": null,
+        "HireSkatersAssistants": null,
+        "Square": null,
+        "Length": 2,
+        "LightingAvailability": "да",
+        "globalid": 1021744266
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.667258,
+          55.796086
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "лыжная трасса",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Сокольники",
+        "NameOfPark": {
+          "globalid": 4331866,
+          "value": "Парк Сокольники"
+        },
+        "Name": "",
+        "Location": "Сокольнический Вал, дом 1",
+        "WorkingHours": "Круглосуточно (по погодным условиям)",
+        "PaidService": "Бесплатно",
+        "InventoryRental": "да",
+        "HasDressingRoom": "да",
+        "SharpeningSkates": null,
+        "HireSkatersAssistants": null,
+        "Square": null,
+        "Length": 3,
+        "LightingAvailability": "да",
+        "globalid": 1021744268
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.669899,
+          55.791863
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "лыжная трасса",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Сокольники",
+        "NameOfPark": {
+          "globalid": 4331866,
+          "value": "Парк Сокольники"
+        },
+        "Name": "",
+        "Location": "Сокольнический Вал, дом 1",
+        "WorkingHours": "Круглосуточно (по погодным условиям)",
+        "PaidService": "Бесплатно",
+        "InventoryRental": "да",
+        "HasDressingRoom": "да",
+        "SharpeningSkates": null,
+        "HireSkatersAssistants": null,
+        "Square": null,
+        "Length": 2,
+        "LightingAvailability": "да",
+        "globalid": 1021744269
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.664951,
+          55.791727
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "лыжная трасса",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Сокольники",
+        "NameOfPark": {
+          "globalid": 4331866,
+          "value": "Парк Сокольники"
+        },
+        "Name": "",
+        "Location": "Сокольнический Вал, дом 1",
+        "WorkingHours": "Круглосуточно (по погодным условиям)",
+        "PaidService": "Бесплатно",
+        "InventoryRental": "да",
+        "HasDressingRoom": "да",
+        "SharpeningSkates": null,
+        "HireSkatersAssistants": null,
+        "Square": null,
+        "Length": 3,
+        "LightingAvailability": "да",
+        "globalid": 1021744270
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.69172,
+          55.801555
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "лыжная трасса",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Сокольники",
+        "NameOfPark": {
+          "globalid": 4331866,
+          "value": "Парк Сокольники"
+        },
+        "Name": "",
+        "Location": "Сокольнический Вал, дом 1",
+        "WorkingHours": "Круглосуточно (по погодным условиям)",
+        "PaidService": "Бесплатно",
+        "InventoryRental": "да",
+        "HasDressingRoom": "да",
+        "SharpeningSkates": null,
+        "HireSkatersAssistants": null,
+        "Square": null,
+        "Length": 4,
+        "LightingAvailability": "да",
+        "globalid": 1021744273
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.691632,
+          55.802349
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "лыжная трасса",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Сокольники",
+        "NameOfPark": {
+          "globalid": 4331866,
+          "value": "Парк Сокольники"
+        },
+        "Name": "",
+        "Location": "Сокольнический Вал, дом 1",
+        "WorkingHours": "Круглосуточно (по погодным условиям)",
+        "PaidService": "Бесплатно",
+        "InventoryRental": "да",
+        "HasDressingRoom": "да",
+        "SharpeningSkates": null,
+        "HireSkatersAssistants": null,
+        "Square": null,
+        "Length": 3,
+        "LightingAvailability": "да",
+        "globalid": 1021744326
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.679931,
+          55.803225
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "лыжная трасса",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Сокольники",
+        "NameOfPark": {
+          "globalid": 4331866,
+          "value": "Парк Сокольники"
+        },
+        "Name": "",
+        "Location": "Сокольнический Вал, дом 1",
+        "WorkingHours": "Круглосуточно (по погодным условиям)",
+        "PaidService": "Бесплатно",
+        "InventoryRental": "да",
+        "HasDressingRoom": "да",
+        "SharpeningSkates": null,
+        "HireSkatersAssistants": null,
+        "Square": null,
+        "Length": 3,
+        "LightingAvailability": "да",
+        "globalid": 1021744328
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.663409,
+          55.804445
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "лыжная трасса",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Сокольники",
+        "NameOfPark": {
+          "globalid": 4331866,
+          "value": "Парк Сокольники"
+        },
+        "Name": "",
+        "Location": "Сокольнический Вал, дом 1",
+        "WorkingHours": "Круглосуточно (по погодным условиям)",
+        "PaidService": "Бесплатно",
+        "InventoryRental": "да",
+        "HasDressingRoom": "да",
+        "SharpeningSkates": null,
+        "HireSkatersAssistants": null,
+        "Square": null,
+        "Length": 1.5,
+        "LightingAvailability": "да",
+        "globalid": 1021744364
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.491533,
+          55.75239
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "лыжная трасса",
+        "AdmArea": "Западный административный округ",
+        "District": "район Филёвский Парк",
+        "NameOfPark": {
+          "globalid": 4331786,
+          "value": "Парк «Фили»"
+        },
+        "Name": "",
+        "Location": "Улица Большая Филевская, дом 22",
+        "WorkingHours": "Круглосуточно (по погодным условиям)",
+        "PaidService": "Бесплатно",
+        "InventoryRental": "да",
+        "HasDressingRoom": "да",
+        "SharpeningSkates": null,
+        "HireSkatersAssistants": null,
+        "Square": null,
+        "Length": 3,
+        "LightingAvailability": "да",
+        "globalid": 1021744383
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.491533,
+          55.752389
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "лыжная трасса",
+        "AdmArea": "Западный административный округ",
+        "District": "район Филёвский Парк",
+        "NameOfPark": {
+          "globalid": 4331786,
+          "value": "Парк «Фили»"
+        },
+        "Name": "",
+        "Location": "Улица Большая Филевская, дом 22",
+        "WorkingHours": "Круглосуточно (по погодным условиям)",
+        "PaidService": "Бесплатно",
+        "InventoryRental": "да",
+        "HasDressingRoom": "да",
+        "SharpeningSkates": null,
+        "HireSkatersAssistants": null,
+        "Square": null,
+        "Length": 1,
+        "LightingAvailability": "да",
+        "globalid": 1021744385
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.491533,
+          55.75239
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "лыжная трасса",
+        "AdmArea": "Западный административный округ",
+        "District": "район Филёвский Парк",
+        "NameOfPark": {
+          "globalid": 4331786,
+          "value": "Парк «Фили»"
+        },
+        "Name": "",
+        "Location": "Улица Большая Филевская, дом 22",
+        "WorkingHours": "Круглосуточно (по погодным условиям)",
+        "PaidService": "Бесплатно",
+        "InventoryRental": "да",
+        "HasDressingRoom": "да",
+        "SharpeningSkates": null,
+        "HireSkatersAssistants": null,
+        "Square": null,
+        "Length": 5,
+        "LightingAvailability": "да",
+        "globalid": 1021744417
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4779,
+          55.680373
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "лыжная трасса",
+        "AdmArea": "Западный административный округ",
+        "District": "район Проспект Вернадского",
+        "NameOfPark": {
+          "globalid": 4331831,
+          "value": "Парк «Олимпийской деревни»"
+        },
+        "Name": "",
+        "Location": "Пересечение Мичуринского проспекта с улицей Лобачевского",
+        "WorkingHours": "Круглосуточно (по погодным условиям)",
+        "PaidService": "Бесплатно",
+        "InventoryRental": "нет",
+        "HasDressingRoom": "да",
+        "SharpeningSkates": null,
+        "HireSkatersAssistants": null,
+        "Square": null,
+        "Length": 1,
+        "LightingAvailability": "да",
+        "globalid": 1021744418
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4779,
+          55.680373
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "лыжная трасса",
+        "AdmArea": "Западный административный округ",
+        "District": "район Проспект Вернадского",
+        "NameOfPark": {
+          "globalid": 4331831,
+          "value": "Парк «Олимпийской деревни»"
+        },
+        "Name": "",
+        "Location": "Пересечение Мичуринского проспекта с улицей Лобачевского",
+        "WorkingHours": "Круглосуточно (по погодным условиям)",
+        "PaidService": "Бесплатно",
+        "InventoryRental": "нет",
+        "HasDressingRoom": "да",
+        "SharpeningSkates": null,
+        "HireSkatersAssistants": null,
+        "Square": null,
+        "Length": 3,
+        "LightingAvailability": "да",
+        "globalid": 1021744445
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4779,
+          55.680373
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "лыжная трасса",
+        "AdmArea": "Западный административный округ",
+        "District": "район Проспект Вернадского",
+        "NameOfPark": {
+          "globalid": 4331831,
+          "value": "Парк «Олимпийской деревни»"
+        },
+        "Name": "",
+        "Location": "Пересечение Мичуринского проспекта с улицей Лобачевского",
+        "WorkingHours": "Круглосуточно (по погодным условиям)",
+        "PaidService": "Бесплатно",
+        "InventoryRental": "нет",
+        "HasDressingRoom": "да",
+        "SharpeningSkates": null,
+        "HireSkatersAssistants": null,
+        "Square": null,
+        "Length": 5,
+        "LightingAvailability": "да",
+        "globalid": 1021744450
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.500751,
+          55.686709
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "лыжная трасса",
+        "AdmArea": "Западный административный округ",
+        "District": "район Проспект Вернадского",
+        "NameOfPark": {
+          "globalid": 4331863,
+          "value": "Парк «50-летия Октября»"
+        },
+        "Name": "",
+        "Location": "Улица Удальцова, владение 22а",
+        "WorkingHours": "Круглосуточно (по погодным условиям)",
+        "PaidService": "Бесплатно",
+        "InventoryRental": "нет",
+        "HasDressingRoom": "да",
+        "SharpeningSkates": null,
+        "HireSkatersAssistants": null,
+        "Square": null,
+        "Length": 2.5,
+        "LightingAvailability": "нет",
+        "globalid": 1021744458
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.529224,
+          55.788245
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "лыжная трасса",
+        "AdmArea": "Северный административный округ",
+        "District": "Хорошёвский район",
+        "NameOfPark": {
+          "globalid": 911801150,
+          "value": "Парк «Ходынское поле» (основная территория)"
+        },
+        "Name": "",
+        "Location": "Ходынский бульвар, владение 1",
+        "WorkingHours": "Круглосуточно (по погодным условиям)",
+        "PaidService": "Бесплатно",
+        "InventoryRental": "нет",
+        "HasDressingRoom": "нет",
+        "SharpeningSkates": null,
+        "HireSkatersAssistants": null,
+        "Square": null,
+        "Length": 2.3,
+        "LightingAvailability": "да",
+        "globalid": 1021744471
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.532785,
+          55.877191
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "лыжная трасса",
+        "AdmArea": "Северный административный округ",
+        "District": "Дмитровский район",
+        "NameOfPark": {
+          "globalid": 4331795,
+          "value": "Парк по Ангарской улице"
+        },
+        "Name": "",
+        "Location": "Улица Софьи Ковалевской, дом 14",
+        "WorkingHours": "Круглосуточно (по погодным условиям)",
+        "PaidService": "Бесплатно",
+        "InventoryRental": "да",
+        "HasDressingRoom": "нет",
+        "SharpeningSkates": null,
+        "HireSkatersAssistants": null,
+        "Square": null,
+        "Length": 2.8,
+        "LightingAvailability": "да",
+        "globalid": 1021744511
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.589571,
+          55.814459
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "лыжная трасса",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Бутырский район",
+        "NameOfPark": {
+          "globalid": 4331870,
+          "value": "Парк «Гончаровский»"
+        },
+        "Name": "",
+        "Location": "Улица Руставели, дом 7, строение 1",
+        "WorkingHours": "Круглосуточно (по погодным условиям)",
+        "PaidService": "Бесплатно",
+        "InventoryRental": "да",
+        "HasDressingRoom": "да",
+        "SharpeningSkates": null,
+        "HireSkatersAssistants": null,
+        "Square": null,
+        "Length": 0.8,
+        "LightingAvailability": "да",
+        "globalid": 1021745038
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.696152,
+          55.888497
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "лыжная трасса",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Лосиноостровский район",
+        "NameOfPark": {
+          "globalid": 4331792,
+          "value": "Парк у Джамгаровского пруда"
+        },
+        "Name": "",
+        "Location": "Улица Стартовая, дом 10",
+        "WorkingHours": "Круглосуточно (по погодным условиям)",
+        "PaidService": "Бесплатно",
+        "InventoryRental": "нет",
+        "HasDressingRoom": "нет",
+        "SharpeningSkates": null,
+        "HireSkatersAssistants": null,
+        "Square": null,
+        "Length": 1.5,
+        "LightingAvailability": "да",
+        "globalid": 1021745097
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.654347,
+          55.876397
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "лыжная трасса",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Южное Медведково",
+        "NameOfPark": {
+          "globalid": 4331859,
+          "value": "Сквер по Олонецкому проезду"
+        },
+        "Name": "",
+        "Location": "Олонецкий проезд, дом 10",
+        "WorkingHours": "Круглосуточно (по погодным условиям)",
+        "PaidService": "Бесплатно",
+        "InventoryRental": "нет",
+        "HasDressingRoom": "нет",
+        "SharpeningSkates": null,
+        "HireSkatersAssistants": null,
+        "Square": null,
+        "Length": 1.5,
+        "LightingAvailability": "да",
+        "globalid": 1021745130
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.579344,
+          55.906127
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "лыжная трасса",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Лианозово",
+        "NameOfPark": {
+          "globalid": 4331829,
+          "value": "Усадьба «Алтуфьево»"
+        },
+        "Name": "",
+        "Location": "Алтуфьевское шоссе, дом 147а",
+        "WorkingHours": "Круглосуточно (по погодным условиям)",
+        "PaidService": "Бесплатно",
+        "InventoryRental": "нет",
+        "HasDressingRoom": "нет",
+        "SharpeningSkates": null,
+        "HireSkatersAssistants": null,
+        "Square": null,
+        "Length": 0.75,
+        "LightingAvailability": "да",
+        "globalid": 1021745141
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.654347,
+          55.876397
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "лыжная трасса",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Южное Медведково",
+        "NameOfPark": {
+          "globalid": 4331859,
+          "value": "Сквер по Олонецкому проезду"
+        },
+        "Name": "",
+        "Location": "Олонецкий проезд, дом 20 ",
+        "WorkingHours": "Круглосуточно (по погодным условиям)",
+        "PaidService": "Бесплатно",
+        "InventoryRental": "нет",
+        "HasDressingRoom": "нет",
+        "SharpeningSkates": null,
+        "HireSkatersAssistants": null,
+        "Square": null,
+        "Length": 1,
+        "LightingAvailability": "да",
+        "globalid": 1021745142
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.3785,
+          55.83719
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "лыжная трасса",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Митино",
+        "NameOfPark": {
+          "globalid": 4331832,
+          "value": "Ландшафтный парк «Митино»"
+        },
+        "Name": "",
+        "Location": "Улица Пенягинская, дом 16",
+        "WorkingHours": "Круглосуточно (по погодным условиям)",
+        "PaidService": "Бесплатно",
+        "InventoryRental": "нет",
+        "HasDressingRoom": "нет",
+        "SharpeningSkates": null,
+        "HireSkatersAssistants": null,
+        "Square": null,
+        "Length": 3,
+        "LightingAvailability": "да",
+        "globalid": 1021745143
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.450152,
+          55.859565
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "лыжная трасса",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Северное Тушино",
+        "NameOfPark": {
+          "globalid": 4331867,
+          "value": "Парк «Северное Тушино»"
+        },
+        "Name": "",
+        "Location": "Улица Свободы, дом 56, строение 1",
+        "WorkingHours": "Круглосуточно (по погодным условиям)",
+        "PaidService": "Бесплатно",
+        "InventoryRental": "нет",
+        "HasDressingRoom": "нет",
+        "SharpeningSkates": null,
+        "HireSkatersAssistants": null,
+        "Square": null,
+        "Length": 1.7,
+        "LightingAvailability": "да",
+        "globalid": 1021745144
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.452598,
+          55.861606
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "лыжная трасса",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Северное Тушино",
+        "NameOfPark": {
+          "globalid": 4331867,
+          "value": "Парк «Северное Тушино»"
+        },
+        "Name": "",
+        "Location": "Улица Свободы, дом 56, строение 1",
+        "WorkingHours": "Круглосуточно (по погодным условиям)",
+        "PaidService": "Бесплатно",
+        "InventoryRental": "нет",
+        "HasDressingRoom": "нет",
+        "SharpeningSkates": null,
+        "HireSkatersAssistants": null,
+        "Square": null,
+        "Length": 1,
+        "LightingAvailability": "да",
+        "globalid": 1021745160
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.480584,
+          55.853859
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "лыжная трасса",
+        "AdmArea": "Северный административный округ",
+        "District": "район Левобережный",
+        "NameOfPark": {
+          "globalid": 4331813,
+          "value": "Парк Дружбы"
+        },
+        "Name": "",
+        "Location": "Улица Флотская, дом 1а",
+        "WorkingHours": "Круглосуточно (по погодным условиям)",
+        "PaidService": "Бесплатно",
+        "InventoryRental": "нет",
+        "HasDressingRoom": "нет",
+        "SharpeningSkates": null,
+        "HireSkatersAssistants": null,
+        "Square": null,
+        "Length": 0.35,
+        "LightingAvailability": "да",
+        "globalid": 1021745161
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.531065,
+          55.664675
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "лыжная трасса",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "Обручевский район",
+        "NameOfPark": {
+          "globalid": 4331842,
+          "value": "Воронцовский парк"
+        },
+        "Name": "",
+        "Location": "Воронцовский парк, дом 9",
+        "WorkingHours": "Круглосуточно (по погодным условиям)",
+        "PaidService": "Бесплатно",
+        "InventoryRental": "нет",
+        "HasDressingRoom": "нет",
+        "SharpeningSkates": null,
+        "HireSkatersAssistants": null,
+        "Square": null,
+        "Length": 2.5,
+        "LightingAvailability": "нет",
+        "globalid": 1021745162
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.540793,
+          55.666732
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "лыжная трасса",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "Обручевский район",
+        "NameOfPark": {
+          "globalid": 4331842,
+          "value": "Воронцовский парк"
+        },
+        "Name": "",
+        "Location": "Воронцовский парк, дом 1",
+        "WorkingHours": "Круглосуточно (по погодным условиям)",
+        "PaidService": "Бесплатно",
+        "InventoryRental": "нет",
+        "HasDressingRoom": "нет",
+        "SharpeningSkates": null,
+        "HireSkatersAssistants": null,
+        "Square": null,
+        "Length": 0.5,
+        "LightingAvailability": "нет",
+        "globalid": 1021745163
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.684487,
+          55.622273
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "лыжная трасса",
+        "AdmArea": "Южный административный округ",
+        "District": "район Орехово-Борисово Северное",
+        "NameOfPark": {
+          "globalid": 4331869,
+          "value": "Государственный музей-заповедник «Царицыно»"
+        },
+        "Name": "",
+        "Location": "Улица Баженова, дом 4а",
+        "WorkingHours": "Круглосуточно (по погодным условиям)",
+        "PaidService": "Бесплатно",
+        "InventoryRental": "нет",
+        "HasDressingRoom": "нет",
+        "SharpeningSkates": null,
+        "HireSkatersAssistants": null,
+        "Square": null,
+        "Length": 7,
+        "LightingAvailability": "да",
+        "globalid": 1021745247
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.684487,
+          55.622273
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "лыжная трасса",
+        "AdmArea": "Южный административный округ",
+        "District": "район Орехово-Борисово Северное",
+        "NameOfPark": {
+          "globalid": 4331869,
+          "value": "Государственный музей-заповедник «Царицыно»"
+        },
+        "Name": "",
+        "Location": "Улица Баженова, дом 4а",
+        "WorkingHours": "Круглосуточно (по погодным условиям)",
+        "PaidService": "Бесплатно",
+        "InventoryRental": "нет",
+        "HasDressingRoom": "нет",
+        "SharpeningSkates": null,
+        "HireSkatersAssistants": null,
+        "Square": null,
+        "Length": 12,
+        "LightingAvailability": "да",
+        "globalid": 1021745248
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.69616,
+          55.609234
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "лыжная трасса",
+        "AdmArea": "Южный административный округ",
+        "District": "район Орехово-Борисово Северное",
+        "NameOfPark": {
+          "globalid": 4331869,
+          "value": "Государственный музей-заповедник «Царицыно»"
+        },
+        "Name": "",
+        "Location": "Улица Дольская, дом 1, строение 25",
+        "WorkingHours": "Круглосуточно (по погодным условиям)",
+        "PaidService": "Бесплатно",
+        "InventoryRental": "да",
+        "HasDressingRoom": "нет",
+        "SharpeningSkates": null,
+        "HireSkatersAssistants": null,
+        "Square": null,
+        "Length": 5,
+        "LightingAvailability": "да",
+        "globalid": 1021745249
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.69616,
+          55.609234
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "лыжная трасса",
+        "AdmArea": "Южный административный округ",
+        "District": "район Орехово-Борисово Северное",
+        "NameOfPark": {
+          "globalid": 4331869,
+          "value": "Государственный музей-заповедник «Царицыно»"
+        },
+        "Name": "",
+        "Location": "Улица Дольская, дом 1, строение 25",
+        "WorkingHours": "Круглосуточно (по погодным условиям)",
+        "PaidService": "Бесплатно",
+        "InventoryRental": "да",
+        "HasDressingRoom": "нет",
+        "SharpeningSkates": null,
+        "HireSkatersAssistants": null,
+        "Square": null,
+        "Length": 3,
+        "LightingAvailability": "да",
+        "globalid": 1021745250
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.69616,
+          55.609234
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "лыжная трасса",
+        "AdmArea": "Южный административный округ",
+        "District": "район Орехово-Борисово Северное",
+        "NameOfPark": {
+          "globalid": 4331869,
+          "value": "Государственный музей-заповедник «Царицыно»"
+        },
+        "Name": "",
+        "Location": "Улица Дольская, дом 1, строение 25",
+        "WorkingHours": "Круглосуточно (по погодным условиям)",
+        "PaidService": "Бесплатно",
+        "InventoryRental": "да",
+        "HasDressingRoom": "нет",
+        "SharpeningSkates": null,
+        "HireSkatersAssistants": null,
+        "Square": null,
+        "Length": 1,
+        "LightingAvailability": "да",
+        "globalid": 1021745251
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.657558,
+          55.652366
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "лыжная трасса",
+        "AdmArea": "Южный административный округ",
+        "District": "район Нагатино-Садовники",
+        "NameOfPark": {
+          "globalid": 4331857,
+          "value": "Территория усадьбы «Коломенское»"
+        },
+        "Name": "",
+        "Location": "Проспект Андропова, дом 39",
+        "WorkingHours": "Ежедневно: 06:00-22:00 (по погодным условиям)",
+        "PaidService": "Бесплатно",
+        "InventoryRental": "да",
+        "HasDressingRoom": "да",
+        "SharpeningSkates": null,
+        "HireSkatersAssistants": null,
+        "Square": null,
+        "Length": 3,
+        "LightingAvailability": "да",
+        "globalid": 1021745253
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.671695,
+          55.675995
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "лыжная трасса",
+        "AdmArea": "Южный административный округ",
+        "District": "район Нагатинский Затон",
+        "NameOfPark": {
+          "globalid": 4331857,
+          "value": "Территория усадьбы «Коломенское»"
+        },
+        "Name": "",
+        "Location": "Проспект Андропова, дом 39",
+        "WorkingHours": "Ежедневно: 06:00-22:00 (по погодным условиям)",
+        "PaidService": "Бесплатно",
+        "InventoryRental": "да",
+        "HasDressingRoom": "да",
+        "SharpeningSkates": null,
+        "HireSkatersAssistants": null,
+        "Square": null,
+        "Length": 5,
+        "LightingAvailability": "да",
+        "globalid": 1021745255
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.763598,
+          55.790772
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "лыжная трасса",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Измайлово",
+        "NameOfPark": {
+          "globalid": 4331790,
+          "value": "Территория усадьбы «Измайлово»"
+        },
+        "Name": "",
+        "Location": "Городок имени Баумана, дом 2, строение 14",
+        "WorkingHours": "Ежедневно: 06:00-22:00 (по погодным условиям)",
+        "PaidService": "Бесплатно",
+        "InventoryRental": "нет",
+        "HasDressingRoom": "нет",
+        "SharpeningSkates": null,
+        "HireSkatersAssistants": null,
+        "Square": null,
+        "Length": 1,
+        "LightingAvailability": "да",
+        "globalid": 1021745257
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.706498,
+          55.635035
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "лыжная трасса",
+        "AdmArea": "Южный административный округ",
+        "District": "район Москворечье-Сабурово",
+        "NameOfPark": {
+          "globalid": 4331798,
+          "value": "Зона отдыха Борисовские пруды"
+        },
+        "Name": "",
+        "Location": "Борисовские Пруды, дом 2",
+        "WorkingHours": "Круглосуточно (по погодным условиям)",
+        "PaidService": "Бесплатно",
+        "InventoryRental": "нет",
+        "HasDressingRoom": "нет",
+        "SharpeningSkates": null,
+        "HireSkatersAssistants": null,
+        "Square": null,
+        "Length": 3,
+        "LightingAvailability": "нет",
+        "globalid": 1021745258
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.695801,
+          55.624713
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "лыжная трасса",
+        "AdmArea": "Южный административный округ",
+        "District": "район Орехово-Борисово Северное",
+        "NameOfPark": {
+          "globalid": 4331852,
+          "value": "Парк по Борисовским прудам"
+        },
+        "Name": "",
+        "Location": "Каширское шоссе, дом 80, корпус 1",
+        "WorkingHours": "Круглосуточно (по погодным условиям)",
+        "PaidService": "Бесплатно",
+        "InventoryRental": "нет",
+        "HasDressingRoom": "нет",
+        "SharpeningSkates": null,
+        "HireSkatersAssistants": null,
+        "Square": null,
+        "Length": 1.2,
+        "LightingAvailability": "нет",
+        "globalid": 1021745260
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.708782,
+          55.629089
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "лыжная трасса",
+        "AdmArea": "Южный административный округ",
+        "District": "район Орехово-Борисово Северное",
+        "NameOfPark": {
+          "globalid": 4331852,
+          "value": "Парк по Борисовским прудам"
+        },
+        "Name": "",
+        "Location": "Борисовский проезд, дом 9, корпус 3",
+        "WorkingHours": "Круглосуточно (по погодным условиям)",
+        "PaidService": "Бесплатно",
+        "InventoryRental": "нет",
+        "HasDressingRoom": "нет",
+        "SharpeningSkates": null,
+        "HireSkatersAssistants": null,
+        "Square": null,
+        "Length": 0.8,
+        "LightingAvailability": "нет",
+        "globalid": 1021745261
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.653569,
+          55.660524
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "лыжная трасса",
+        "AdmArea": "Южный административный округ",
+        "District": "район Нагатино-Садовники",
+        "NameOfPark": {
+          "globalid": 4331839,
+          "value": "Парк имени Юрия Лужкова"
+        },
+        "Name": "",
+        "Location": "Проспект Андропова, дом 58а",
+        "WorkingHours": "Круглосуточно (по погодным условиям)",
+        "PaidService": "Бесплатно",
+        "InventoryRental": "да",
+        "HasDressingRoom": "нет",
+        "SharpeningSkates": null,
+        "HireSkatersAssistants": null,
+        "Square": null,
+        "Length": 2,
+        "LightingAvailability": "нет",
+        "globalid": 1021745262
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.768266,
+          55.69583
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "лыжная трасса",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Кузьминки",
+        "NameOfPark": {
+          "globalid": 4331808,
+          "value": "Парк культуры и отдыха «Кузьминки» (основная территория)"
+        },
+        "Name": "",
+        "Location": "Кузьминский парк, дом 1, строение 2",
+        "WorkingHours": "Круглосуточно (по погодным условиям)",
+        "PaidService": "Бесплатно",
+        "InventoryRental": "да",
+        "HasDressingRoom": "нет",
+        "SharpeningSkates": null,
+        "HireSkatersAssistants": null,
+        "Square": null,
+        "Length": 2,
+        "LightingAvailability": "да",
+        "globalid": 1021745264
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.770536,
+          55.692217
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "лыжная трасса",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Кузьминки",
+        "NameOfPark": {
+          "globalid": 4331808,
+          "value": "Парк культуры и отдыха «Кузьминки» (основная территория)"
+        },
+        "Name": "",
+        "Location": "Кузьминский парк, дом 1, строение 2",
+        "WorkingHours": "Круглосуточно (по погодным условиям)",
+        "PaidService": "Бесплатно",
+        "InventoryRental": "нет",
+        "HasDressingRoom": "нет",
+        "SharpeningSkates": null,
+        "HireSkatersAssistants": null,
+        "Square": null,
+        "Length": 2,
+        "LightingAvailability": "да",
+        "globalid": 1021745265
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.364171,
+          55.833125
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "всепогодная лыжная трасса",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Митино",
+        "NameOfPark": {
+          "globalid": 4331832,
+          "value": "Ландшафтный парк «Митино»"
+        },
+        "Name": "",
+        "Location": "Новотушинский проезд, дом 5, строение 3",
+        "WorkingHours": "Круглосуточно",
+        "PaidService": "Бесплатно",
+        "InventoryRental": "нет",
+        "HasDressingRoom": null,
+        "SharpeningSkates": null,
+        "HireSkatersAssistants": null,
+        "Square": null,
+        "Length": 1.5,
+        "LightingAvailability": "да",
+        "globalid": 1021746105
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.451182,
+          55.859128
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "всепогодная лыжная трасса",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Северное Тушино",
+        "NameOfPark": {
+          "globalid": 4331867,
+          "value": "Парк «Северное Тушино»"
+        },
+        "Name": "",
+        "Location": "Улица Свободы, дом 56",
+        "WorkingHours": "Круглосуточно (по погодным условиям)",
+        "PaidService": "Бесплатно",
+        "InventoryRental": "нет",
+        "HasDressingRoom": null,
+        "SharpeningSkates": null,
+        "HireSkatersAssistants": null,
+        "Square": null,
+        "Length": 0.3,
+        "LightingAvailability": "да",
+        "globalid": 1021746126
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.478246,
+          55.680916
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "всепогодная лыжная трасса",
+        "AdmArea": "Западный административный округ",
+        "District": "район Проспект Вернадского",
+        "NameOfPark": {
+          "globalid": 4331831,
+          "value": "Парк «Олимпийской деревни»"
+        },
+        "Name": "",
+        "Location": "Пересечение Мичуринского проспекта с улицей Лобачевского",
+        "WorkingHours": "Круглосуточно (по погодным условиям)",
+        "PaidService": "Бесплатно",
+        "InventoryRental": "нет",
+        "HasDressingRoom": null,
+        "SharpeningSkates": null,
+        "HireSkatersAssistants": null,
+        "Square": null,
+        "Length": 1,
+        "LightingAvailability": "да",
+        "globalid": 1021746154
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.668472,
+          55.797677
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "всепогодная лыжная трасса",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Сокольники",
+        "NameOfPark": {
+          "globalid": 4331866,
+          "value": "Парк Сокольники"
+        },
+        "Name": "",
+        "Location": "2-й Лучевой просек",
+        "WorkingHours": "Круглосуточно (по погодным условиям)",
+        "PaidService": "Бесплатно",
+        "InventoryRental": "да",
+        "HasDressingRoom": null,
+        "SharpeningSkates": null,
+        "HireSkatersAssistants": null,
+        "Square": null,
+        "Length": 1.5,
+        "LightingAvailability": "да",
+        "globalid": 1021746173
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.675717,
+          55.801347
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "всепогодная лыжная трасса",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Сокольники",
+        "NameOfPark": {
+          "globalid": 4331866,
+          "value": "Парк Сокольники"
+        },
+        "Name": "",
+        "Location": "5-й Лучевой просек",
+        "WorkingHours": "Круглосуточно (по погодным условиям)",
+        "PaidService": "Бесплатно",
+        "InventoryRental": "да",
+        "HasDressingRoom": null,
+        "SharpeningSkates": null,
+        "HireSkatersAssistants": null,
+        "Square": null,
+        "Length": 1.5,
+        "LightingAvailability": "да",
+        "globalid": 1021746245
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.549448,
+          55.755015
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "каток с естественным покрытием",
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "NameOfPark": {
+          "globalid": 4331849,
+          "value": "Парк Красная Пресня (основная территория)"
+        },
+        "Name": "«City каток»",
+        "Location": "",
+        "WorkingHours": "Понедельник-пятница: 10:00-22:00Сеансы:\n1. 10:00-12:002. 13:00-15:003. 16:00-18:004. 19:00-22:00Выходные и праздничные дни: 10:00-23:00Сеансы:\n1. 10:00-12:002. 13:00-15:003. 16:00-18:004. 19:00-23:00",
+        "PaidService": "Будни  250 рублей, выходные — 350 рублей",
+        "InventoryRental": "да",
+        "HasDressingRoom": "да",
+        "SharpeningSkates": "да",
+        "HireSkatersAssistants": "да",
+        "Square": 600,
+        "Length": null,
+        "LightingAvailability": null,
+        "globalid": 1021761457
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.608434,
+          55.77022
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "каток с естественным покрытием",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "NameOfPark": {
+          "globalid": 4331847,
+          "value": "Сад «Эрмитаж»"
+        },
+        "Name": "«JAZZ каток»",
+        "Location": "",
+        "WorkingHours": "Ежедневно: 10:00-23:00Сеансы: \n1. 10:00-12:002. 13:00-15:003. 17:00-20:004. 21:00-23:00",
+        "PaidService": "250 рублей, выходные — 350 рублей",
+        "InventoryRental": "да",
+        "HasDressingRoom": "да",
+        "SharpeningSkates": "да",
+        "HireSkatersAssistants": "да",
+        "Square": 4000,
+        "Length": null,
+        "LightingAvailability": null,
+        "globalid": 1021761460
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7761607,
+          55.7420099
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "каток с естественным покрытием",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Перово",
+        "NameOfPark": {
+          "globalid": 4331868,
+          "value": "Парк культуры и отдыха «Перовский»"
+        },
+        "Name": "Каток с натуральным покрытием",
+        "Location": "",
+        "WorkingHours": "Понедельник: 12:00-21:00Сеансы: \n1. 12:00-14:002. 16:00-18:003. 19:00-21:00Вторник-воскресенье: 10:00-21:00Сеансы: \n1. 10:00-12:002. 13:00-15:003. 16:00-18:004. 19:00-21:00",
+        "PaidService": "Взрослые:\nБудние дни: 210 руб./сеанс\nВыходные дни: 250 руб./сеанс\nДети 7-12 лет:Будние дни: 150 руб./сеанс\nВыходные дни: 200 руб./сеанс\nДети до 7 лет проходят бесплатно в сопровождении взрослого.",
+        "InventoryRental": "да",
+        "HasDressingRoom": "да",
+        "SharpeningSkates": "да",
+        "HireSkatersAssistants": "да",
+        "Square": 800,
+        "Length": null,
+        "LightingAvailability": null,
+        "globalid": 1021761473
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7761607,
+          55.7420099
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "каток с естественным покрытием",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Перово",
+        "NameOfPark": {
+          "globalid": 4331868,
+          "value": "Парк культуры и отдыха «Перовский»"
+        },
+        "Name": "Каток с натуральным покрытием (детская зона)",
+        "Location": "",
+        "WorkingHours": "Ежедневно: 10:00-21:00Сеансы:\n1. 10:00-12:002. 13:00-15:003. 16:00-18:004. 19:00-21:00",
+        "PaidService": "Дети 7-12 лет:Будние дни: 150 руб./сеанс\nВыходные дни: 200 руб./сеанс\nДети до 7 лет проходят бесплатно в сопровождении взрослого.",
+        "InventoryRental": "да",
+        "HasDressingRoom": "нет",
+        "SharpeningSkates": "да",
+        "HireSkatersAssistants": "нет",
+        "Square": 200,
+        "Length": null,
+        "LightingAvailability": null,
+        "globalid": 1021761477
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.777582,
+          55.741466
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "каток с естественным покрытием",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Перово",
+        "NameOfPark": {
+          "globalid": 4331868,
+          "value": "Парк культуры и отдыха «Перовский»"
+        },
+        "Name": "Каток с натуральным покрытием",
+        "Location": "",
+        "WorkingHours": "Понедельник: 12:00-21:00Сеансы: \n1. 12:00-14:002. 16:00-18:003. 19:00-21:00Вторник-воскресенье: 10:00-21:00Сеансы: \n1. 10:00-12:002. 13:00-15:003. 16:00-18:004. 19:00-21:00",
+        "PaidService": "Бесплатно",
+        "InventoryRental": "да",
+        "HasDressingRoom": "нет",
+        "SharpeningSkates": "нет",
+        "HireSkatersAssistants": "нет",
+        "Square": 800,
+        "Length": null,
+        "LightingAvailability": null,
+        "globalid": 1021761480
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.823285,
+          55.731001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "каток с естественным покрытием",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Вешняки",
+        "NameOfPark": {
+          "globalid": 4331793,
+          "value": "Парк у прудов «Радуга»"
+        },
+        "Name": "Каток с натуральным покрытием",
+        "Location": "",
+        "WorkingHours": "Понедельник: 12:00-21:00Сеансы: \n1. 12:00-14:002. 16:00-18:003. 19:00-21:00Вторник-воскресенье: 10:00-21:00Сеансы: \n1. 10:00-12:002. 13:00-15:003. 16:00-18:004. 19:00-21:00",
+        "PaidService": "Бесплатно",
+        "InventoryRental": "нет",
+        "HasDressingRoom": "нет",
+        "SharpeningSkates": "нет",
+        "HireSkatersAssistants": "нет",
+        "Square": 800,
+        "Length": null,
+        "LightingAvailability": null,
+        "globalid": 1021761482
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.749798,
+          55.776
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "каток с естественным покрытием",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Измайлово",
+        "NameOfPark": {
+          "globalid": 4331846,
+          "value": "Измайловский парк"
+        },
+        "Name": "Каток «Серебряный лед»",
+        "Location": "",
+        "WorkingHours": "Ежедневно: 10:00-23:00Сеансы: \n1. 10:00-12:002. 13:00-16:003. 17:00-20:004. 21:00-23:00",
+        "PaidService": "Будни  350 рублей, выходные — 450 рублей",
+        "InventoryRental": "да",
+        "HasDressingRoom": "да",
+        "SharpeningSkates": "да",
+        "HireSkatersAssistants": "да",
+        "Square": 7700,
+        "Length": null,
+        "LightingAvailability": null,
+        "globalid": 1021761488
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.749798,
+          55.776
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "каток с естественным покрытием",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Измайлово",
+        "NameOfPark": {
+          "globalid": 4331846,
+          "value": "Измайловский парк"
+        },
+        "Name": "Каток «Серебряный лед» (детская зона)",
+        "Location": "",
+        "WorkingHours": "Выходные дни: 10:00-16:00Сеансы: \n1. 10:00-12:002. 13:00-16:00",
+        "PaidService": "Выходные — 450 руб./сеанс",
+        "InventoryRental": "да",
+        "HasDressingRoom": "да",
+        "SharpeningSkates": "да",
+        "HireSkatersAssistants": "да",
+        "Square": 300,
+        "Length": null,
+        "LightingAvailability": null,
+        "globalid": 1021761490
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.570237,
+          55.899956
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "каток с естественным покрытием",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Лианозово",
+        "NameOfPark": {
+          "globalid": 4331818,
+          "value": "Лианозовский парк"
+        },
+        "Name": "Каток «Ледовый бум»",
+        "Location": "",
+        "WorkingHours": "Понедельник-пятница 12:00-22:00Сеансы:\n1. 12:00 до 14:002. 14:30 до 16:303. 17:00 до 19:004. 19:30 до 22:00Выходные и праздничные дни: 10:00-22:00Сеансы:\n1. 10:00 до 12:002. 13:00 до 15:303. 16:00 до 18:304. 19:00 до 22:00",
+        "PaidService": "Будние дни:Взрослые: 200 руб./сеанс\nДети 6-12 лет: 150 руб./сеанс\nДети до 6 лет: бесплатно\nВыходные и праздничные дни:\nВзрослые: 300 руб./сеанс\nДети 6-12 лет: 200 руб./сеанс\nДети до 6 лет: 100 руб./сеанс",
+        "InventoryRental": "да",
+        "HasDressingRoom": "да",
+        "SharpeningSkates": "нет",
+        "HireSkatersAssistants": "нет",
+        "Square": 3000,
+        "Length": null,
+        "LightingAvailability": null,
+        "globalid": 1021761492
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.672267,
+          55.797414
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "каток с естественным покрытием",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Сокольники",
+        "NameOfPark": {
+          "globalid": 4331866,
+          "value": "Парк Сокольники"
+        },
+        "Name": "Хоккейная площадка",
+        "Location": "",
+        "WorkingHours": "Ежедневно: 10:00-23:00Сеансы: \n1. 10:00-12:002. 13:00-16:003. 17:00-20:004. 21:00-23:00",
+        "PaidService": "Будни - 250 руб./сеанс. Выходные - 300 руб./сеанс.",
+        "InventoryRental": "да",
+        "HasDressingRoom": "да",
+        "SharpeningSkates": "да",
+        "HireSkatersAssistants": "да",
+        "Square": 800,
+        "Length": null,
+        "LightingAvailability": null,
+        "globalid": 1021761494
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.570238,
+          55.899956
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "каток с естественным покрытием",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Лианозово",
+        "NameOfPark": {
+          "globalid": 4331818,
+          "value": "Лианозовский парк"
+        },
+        "Name": "Каток «Ледовый бум»",
+        "Location": "",
+        "WorkingHours": "Понедельник-пятница 12:00-22:00Сеансы:\n1. 12:00 до 14:002. 14:30 до 16:303. 17:00 до 19:004. 19:30 до 22:00Выходные и праздничные дни: 10:00-22:00Сеансы:\n1. 10:00 до 12:002. 13:00 до 15:303. 16:00 до 18:304. 19:00 до 22:00",
+        "PaidService": "Будние дни:Взрослые: 200 руб./сеанс\nДети 6-12 лет: 150 руб./сеанс\nДети до 6 лет: бесплатно\nВыходные и праздничные дни:\nВзрослые: 300 руб./сеанс\nДети 6-12 лет: 200 руб./сеанс\nДети до 6 лет: 100 руб./сеанс",
+        "InventoryRental": "да",
+        "HasDressingRoom": "да",
+        "SharpeningSkates": "да",
+        "HireSkatersAssistants": "нет",
+        "Square": 500,
+        "Length": null,
+        "LightingAvailability": null,
+        "globalid": 1021761497
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5310293217354,
+          55.6665642335388
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "каток с естественным покрытием",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "Обручевский район",
+        "NameOfPark": {
+          "globalid": 4331842,
+          "value": "Воронцовский парк"
+        },
+        "Name": "Каток «Усадебный»",
+        "Location": "",
+        "WorkingHours": "Будние дни: 10:00-22:00Сеансы:\n1. 10:00-12:002. 13:00-15:003. 17:00-20:004. 21:00 -22:00Выходные дни: 10:00-23:00Сеансы:\n1. 10:00-12:002. 13:00-15:003. 17:00-20:004. 21:00-23:00",
+        "PaidService": "Будние дни: 300 руб./сеанс\nВыходные дни: 400 руб./сеанс",
+        "InventoryRental": "да",
+        "HasDressingRoom": "да",
+        "SharpeningSkates": "да",
+        "HireSkatersAssistants": "нет",
+        "Square": 1200,
+        "Length": null,
+        "LightingAvailability": null,
+        "globalid": 1021761502
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.696068,
+          55.610431
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "каток с естественным покрытием",
+        "AdmArea": "Южный административный округ",
+        "District": "район Орехово-Борисово Северное",
+        "NameOfPark": {
+          "globalid": 4331869,
+          "value": "Государственный музей-заповедник «Царицыно»"
+        },
+        "Name": "Каток с натуральным покрытием",
+        "Location": "",
+        "WorkingHours": "Вторник, среда, четверг, пятница: 11:00-20:00Сеансы:\n1. 11:00-12:00 2. 13:00-15:00 3. 16:00-28:004. 19:00-20:00Суббота, воскресенье: 10:00-21:00Сеансы:\n1. 10:00-12:00 2. 13:00-15:00 3. 16:00-18:004. 19:00-21:00",
+        "PaidService": "Взрослые со своими коньками:Вторник, среда, четверг, пятница:\n11:00-12:00: 200 руб./60 минут\n13:00-15:00: 200 руб./60 минут\n16:00-20:00: 200 руб./60 минут\nВыходные дни:\n10:00-12:00: 250 руб./60 минут\n13:00-15:00: 250 руб./60 минут\n16:00-21:00: 250 руб./60 минут\nДети 7-14 лет со своими коньками:Вторник, среда, четверг, пятница:\n11:00-12:00: 150 руб./60 минут\n13:00-15:00: 150 руб./60 минут\n16:00-20:00: 150 руб./60 минут\nВыходные дни:\n10:00-12:00: 200 руб./60 минут\n13:00-15:00: 200 руб./60 минут\n16:00-21:00: 200 руб./60 минут\nСтуденты, многодетные, пенсионеры, инвалиды со своими коньками:Вторник, среда, четверг, пятница:\n11:00-12:00: 150 руб./60 минут\n13:00-15:00: 150 руб./60 минут\n16:00-20:00: 150 руб./60 минут\nВыходные дни:\n10:00-12:00: 250 руб./60 минут\n13:00-15:00: 250 руб./60 минут\n16:00-21:00: 250 руб./60 минут\nВзрослые с коньками, взятыми на прокат:Вторник, среда, четверг, пятница:\n11:00-12:00: 300 руб./60 минут\n13:00-15:00: 300 руб./60 минут\n16:00-20:00: 300 руб./60 минут\nВыходные дни:\n10:00-12:00: 350 руб./60 минут\n13:00-15:00: 350 руб./60 минут\n16:00-21:00: 350 руб./60 минут\nДети 7-14 лет с коньками, взятыми на прокат:Вторник, среда, четверг, пятница:\n11:00-12:00: 200 руб./60 минут\n13:00-15:00: 200 руб./60 минут\n16:00-20:00: 200 руб./60 минут\nВыходные дни:\n10:00-12:00: 250 руб./60 минут\n13:00-15:00: 250 руб./60 минут\n16:00-21:00: 250 руб./60 минут\nСтуденты, многодетные, пенсионеры, инвалиды с коньками, взятыми на прокат:Вторник, среда, четверг, пятница:\n11:00-12:00: 200 руб./60 минут\n13:00-15:00: 200 руб./60 минут\n16:00-20:00: 200 руб./60 минут\nВыходные дни:\n10:00-12:00: 350 руб./60 минут\n13:00-15:00: 350 руб./60 минут\n16:00-21:00: 350 руб./60 минут",
+        "InventoryRental": "да",
+        "HasDressingRoom": "да",
+        "SharpeningSkates": "да",
+        "HireSkatersAssistants": "да",
+        "Square": 1200,
+        "Length": null,
+        "LightingAvailability": null,
+        "globalid": 1021761505
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.671933,
+          55.672418
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "каток с естественным покрытием",
+        "AdmArea": "Южный административный округ",
+        "District": "район Нагатинский Затон",
+        "NameOfPark": {
+          "globalid": 4331857,
+          "value": "Территория усадьбы «Коломенское»"
+        },
+        "Name": "Каток с натуральным покрытием",
+        "Location": "",
+        "WorkingHours": "Будние дни: 11:00-22:00Сеансы: \n1. 11:00-13:002. 14:00-16:003. 17:00-19:004. 20:00-22:00Выходные дни: 10:00-22:00Сеансы:\n1. 10:00-13:002. 14:00-16:003. 17:00-19:004. 20:00-22:00",
+        "PaidService": "Будние дни:1. 11:00-13:00  200 руб./сеанс\n2. 14:00-16:00  250 руб./сеанс\n3. 17:00-19:00  250 руб./сеанс\n4. 20:00-23:00  250 руб./сеанс\nВыходные и праздничные дни: сеансы\n1. 10:00-13:00  250 руб./сеанс\n2. 14:00-16:00  300 руб./сеанс\n3. 17:00-19:00  300 руб./сеанс\n4. 20:00-23:00  300 руб./сеанс",
+        "InventoryRental": "да",
+        "HasDressingRoom": "нет",
+        "SharpeningSkates": "нет",
+        "HireSkatersAssistants": "нет",
+        "Square": 3000,
+        "Length": null,
+        "LightingAvailability": null,
+        "globalid": 1021761509
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.451698,
+          55.861949
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "каток с естественным покрытием",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Северное Тушино",
+        "NameOfPark": {
+          "globalid": 4331867,
+          "value": "Парк «Северное Тушино»"
+        },
+        "Name": "Каток с натуральным покрытием",
+        "Location": "",
+        "WorkingHours": "Ежедневно: 10:00-23:00Сеансы: \n1. 10:00-12:002. 13:00-15:003. 17:00-20:004. 21:00-23:00",
+        "PaidService": "Бесплатно",
+        "InventoryRental": "нет",
+        "HasDressingRoom": "нет",
+        "SharpeningSkates": "нет",
+        "HireSkatersAssistants": "нет",
+        "Square": 450,
+        "Length": null,
+        "LightingAvailability": null,
+        "globalid": 1021761543
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.549448,
+          55.755015
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "каток с искусственным покрытием",
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "NameOfPark": {
+          "globalid": 4331849,
+          "value": "Парк Красная Пресня (основная территория)"
+        },
+        "Name": "«City каток»",
+        "Location": "",
+        "WorkingHours": "Понедельник-пятница: 10:00-22:00Сеансы:\n1. 10:00-12:002. 13:00-15:003. 16:00-18:004. 19:00-22:00Выходные и праздничные дни: 10:00-23:00Сеансы:\n1. 10:00-12:002. 13:00-15:003. 16:00-18:004. 19:00-23:00",
+        "PaidService": "Будни  250 рублей, выходные — 350 рублей",
+        "InventoryRental": "да",
+        "HasDressingRoom": "да",
+        "SharpeningSkates": "нет",
+        "HireSkatersAssistants": "да",
+        "Square": 800,
+        "Length": null,
+        "LightingAvailability": null,
+        "globalid": 1021761556
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.609708,
+          55.769981
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "каток с искусственным покрытием",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "NameOfPark": {
+          "globalid": 4331847,
+          "value": "Сад «Эрмитаж»"
+        },
+        "Name": "«JAZZ каток»",
+        "Location": "",
+        "WorkingHours": "Ежедневно: 10:00-23:00Сеансы:\n1. 10:00-12:002. 13:00-15:003. 17:00-20:00 4. 21:00-23:00",
+        "PaidService": "Будни  250 рублей, выходные — 350 рублей",
+        "InventoryRental": "да",
+        "HasDressingRoom": "да",
+        "SharpeningSkates": "да",
+        "HireSkatersAssistants": "да",
+        "Square": 900,
+        "Length": null,
+        "LightingAvailability": null,
+        "globalid": 1021761557
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.659157,
+          55.769058
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "каток с искусственным покрытием",
+        "AdmArea": "Центральный административный округ",
+        "District": "Басманный район",
+        "NameOfPark": {
+          "globalid": 4331848,
+          "value": "Сад культуры и отдыха имени Н.Э. Баумана"
+        },
+        "Name": "«Кинокаток»",
+        "Location": "",
+        "WorkingHours": "Ежедневно: 10:00-22:00Сеансы:\n1. 10:00-12:00 2. 13:00-15:00 3. 16:00-18:00 4. 19:00-22:00",
+        "PaidService": "Будние дни: 200 руб./сеанс \nВыходные дни: 300 руб./сеанс",
+        "InventoryRental": "да",
+        "HasDressingRoom": "да",
+        "SharpeningSkates": "да",
+        "HireSkatersAssistants": "нет",
+        "Square": 1000,
+        "Length": null,
+        "LightingAvailability": null,
+        "globalid": 1021761559
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.603199,
+          55.731284
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "каток с искусственным покрытием",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Якиманка",
+        "NameOfPark": {
+          "globalid": 4331807,
+          "value": "ЦПКиО им. М. Горького"
+        },
+        "Name": "Каток «Зеркальный»",
+        "Location": "",
+        "WorkingHours": "Вторник, среда, четверг, пятница, суббота, воскресенье: 10:00-23:00Сеансы:\n1. 10:00-12:00 2. 13:00-15:00 3. 17:00-20:004. 21:00-23:00",
+        "PaidService": "Основной каток  взрослые Вторник, среда, четверг:10:00-12:00: 300 руб./сеанс\n13:00-15:00: 300 руб./сеанс\n17:00-20:00: 500 руб./сеанс\n21:00-23:00: 500 руб./сеанс\nПятница:\n10:00-12:00: 300 руб./сеанс\n13:00-15:00: 350 руб./сеанс\n17:00-20:00: 650 руб./сеанс\n21:00-23:00: 650 руб./сеанс\nВыходные дни:\n10:00-12:00: 550 руб./сеанс\n13:00-15:00: 550 руб./сеанс\n17:00-20:00: 650 руб./сеанс\n21:00-23:00: 650 руб./сеанс\nОсновной каток  дети: Дети 7-13 лет:Вторник, среда, четверг:10:00-12:00: 150 руб./сеанс\n13:00-15:00: 150 руб./сеанс\n17:00-20:00: 250 руб./сеанс\n21:00-23:00: 250 руб./сеанс\nПятница:\n10:00-12:00: 150 руб./сеанс\n13:00-15:00: 200 руб./сеанс\n17:00-20:00: 350 руб./сеанс\n21:00-23:00: 350 руб./сеанс\nВыходные дни:\n10:00-12:00: 300 руб./сеанс\n13:00-15:00: 300 руб./сеанс\n17:00-20:00: 350 руб./сеанс\n21:00-23:00: 350 руб./сеанс",
+        "InventoryRental": "да",
+        "HasDressingRoom": "да",
+        "SharpeningSkates": "да",
+        "HireSkatersAssistants": "нет",
+        "Square": 13265,
+        "Length": null,
+        "LightingAvailability": null,
+        "globalid": 1021761561
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.598231,
+          55.729006
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "каток с искусственным покрытием",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Якиманка",
+        "NameOfPark": {
+          "globalid": 4331807,
+          "value": "ЦПКиО им. М. Горького"
+        },
+        "Name": "Хоккейная коробка",
+        "Location": "",
+        "WorkingHours": "Ежедневно с 10:00 до 23:00",
+        "PaidService": "Будние дни: 10:00-16:00 (сеанс 90 минут): 10 000 руб.16:00-23:00 (сеанс 90 минут): 15 000 руб.Выходные и праздничные дни: 10:00-23:00 (сеанс 90 минут): 18 000 руб.",
+        "InventoryRental": "да",
+        "HasDressingRoom": "да",
+        "SharpeningSkates": "да",
+        "HireSkatersAssistants": "да",
+        "Square": 920,
+        "Length": null,
+        "LightingAvailability": null,
+        "globalid": 1021761562
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.597727,
+          55.728081
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "каток с искусственным покрытием",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Якиманка",
+        "NameOfPark": {
+          "globalid": 4331807,
+          "value": "ЦПКиО им. М. Горького"
+        },
+        "Name": "Детский каток «Зеркальный»",
+        "Location": "",
+        "WorkingHours": "Вторник, среда, четверг, пятница, суббота, воскресенье: 10:00-23:00Сеансы:\n1. 10:00-12:00 2. 13:00-15:00 3. 17:00-20:004. 21:00-23:00",
+        "PaidService": "Детский каток\nДети 7-13 лет: Вторник, среда, четверг:10:00-12:00: 150 руб./сеанс\n13:00-15:00: 150 руб./сеанс\n17:00-20:00: 250 руб./сеанс\n21:00-23:00: 250 руб./сеанс\nПятница:\n10:00-12:00: 200 руб./сеанс\n13:00-15:00: 200 руб./сеанс\n17:00-20:00: 300 руб./сеанс\n21:00-23:00: 300 руб./сеанс\nВыходные дни:\n10:00-12:00: 300 руб./сеанс\n13:00-15:00: 300 руб./сеанс\n17:00-20:00: 300 руб./сеанс\n21:00-23:00: 300 руб./сеанс\nДетский каток - взрослые Взрослые:\nВторник, среда, четверг:10:00-12:00: 250 руб./сеанс\n13:00-15:00: 250 руб./сеанс\n17:00-20:00: 300 руб./сеанс\n21:00-23:00: 300 руб./сеанс\nПятница:\n10:00-12:00: 300 руб./сеанс\n13:00-15:00: 300 руб./сеанс\n17:00-20:00: 400 руб./сеанс\n21:00-23:00: 400 руб./сеанс\nВыходные дни:\n10:00-12:00: 400 руб./сеанс\n13:00-15:00: 400 руб./сеанс\n17:00-20:00: 400 руб./сеанс\n21:00-23:00: 400 руб./сеанс",
+        "InventoryRental": "да",
+        "HasDressingRoom": "да",
+        "SharpeningSkates": "да",
+        "HireSkatersAssistants": "нет",
+        "Square": 1800,
+        "Length": null,
+        "LightingAvailability": null,
+        "globalid": 1021761563
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.600605,
+          55.728085
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "каток с искусственным покрытием",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Якиманка",
+        "NameOfPark": {
+          "globalid": 4331807,
+          "value": "ЦПКиО им. М. Горького"
+        },
+        "Name": "Каток «Зеркальный»",
+        "Location": "",
+        "WorkingHours": "Вторник, среда, четверг, пятница, суббота, воскресенье: 10:00-23:00Сеансы:\n1. 10:00-12:00 2. 13:00-15:00 3. 17:00-20:004. 21:00-23:00",
+        "PaidService": "Основной каток - взрослые Вторник, среда, четверг:10:00-12:00: 300 руб./сеанс\n13:00-15:00: 300 руб./сеанс\n17:00-20:00: 500 руб./сеанс\n21:00-23:00: 500 руб./сеанс\nПятница:\n10:00-12:00: 300 руб./сеанс\n13:00-15:00: 350 руб./сеанс\n17:00-20:00: 650 руб./сеанс\n21:00-23:00: 650 руб./сеанс\nВыходные дни:\n10:00-12:00: 550 руб./сеанс\n13:00-15:00: 550 руб./сеанс\n17:00-20:00: 650 руб./сеанс\n21:00-23:00: 650 руб./сеанс\nОсновной каток - дети: Дети 7-13 лет:Вторник, среда, четверг:10:00-12:00: 150 руб./сеанс\n13:00-15:00: 150 руб./сеанс\n17:00-20:00: 250 руб./сеанс\n21:00-23:00: 250 руб./сеанс\nПятница:\n10:00-12:00: 150 руб./сеанс\n13:00-15:00: 200 руб./сеанс\n17:00-20:00: 350 руб./сеанс\n21:00-23:00: 350 руб./сеанс\nВыходные дни:\n10:00-12:00: 300 руб./сеанс\n13:00-15:00: 300 руб./сеанс\n17:00-20:00: 350 руб./сеанс\n21:00-23:00: 350 руб./сеанс",
+        "InventoryRental": "да",
+        "HasDressingRoom": "да",
+        "SharpeningSkates": "да",
+        "HireSkatersAssistants": "да",
+        "Square": 400,
+        "Length": null,
+        "LightingAvailability": null,
+        "globalid": 1021761564
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.666475,
+          55.738211
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "каток с искусственным покрытием",
+        "AdmArea": "Центральный административный округ",
+        "District": "Таганский район",
+        "NameOfPark": {
+          "globalid": 4331787,
+          "value": "Парк Таганский (Основная территория)"
+        },
+        "Name": "Каток «Сияние льда»",
+        "Location": "",
+        "WorkingHours": "Ежедневно: 10:00-23:00Сеансы: \n1. 10:00-12:002. 13:00-15:003. 17:00-20:004. 21:00-23:00",
+        "PaidService": "Дети 7-12 лет: Выходные и будние дни: 150 руб./сеанс\nВзрослые: \nБудние дни: 250 руб./сеанс\nВыходные дни: 300 руб./сеанс \nДети до 6 лет проходят бесплатно",
+        "InventoryRental": "да",
+        "HasDressingRoom": "да",
+        "SharpeningSkates": "да",
+        "HireSkatersAssistants": "да",
+        "Square": 4600,
+        "Length": null,
+        "LightingAvailability": null,
+        "globalid": 1021761565
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7761607,
+          55.7420099
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "каток с искусственным покрытием",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Перово",
+        "NameOfPark": {
+          "globalid": 4331868,
+          "value": "Парк культуры и отдыха «Перовский»"
+        },
+        "Name": "Каток в Перовском парке",
+        "Location": "",
+        "WorkingHours": "Понедельник: 12:00-21:00Сеансы: \n1. 12:00-14:002. 16:00-18:003. 19:00-21:00Вторник-воскресенье: 10:00-21:00Сеансы: \n1. 10:00-12:002. 13:00-15:003. 16:00-18:004. 19:00-21:00",
+        "PaidService": "Взрослые:\nБудние дни: 210 руб./сеанс\nВыходные дни: 250 руб./сеанс\nДети 7-12 лет:Будние дни: 150 руб./сеанс\nВыходные дни: 200 руб./сеанс\nДети до 7 лет проходят бесплатно в сопровождении взрослого.",
+        "InventoryRental": "да",
+        "HasDressingRoom": "да",
+        "SharpeningSkates": "да",
+        "HireSkatersAssistants": "да",
+        "Square": 1000,
+        "Length": null,
+        "LightingAvailability": null,
+        "globalid": 1021761566
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.749889,
+          55.77549
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "каток с искусственным покрытием",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Измайлово",
+        "NameOfPark": {
+          "globalid": 4331846,
+          "value": "Измайловский парк"
+        },
+        "Name": "Каток «Серебряный лед»",
+        "Location": "",
+        "WorkingHours": "Ежедневно: 10:00-23:00Сеансы: \n1. 10:00-12:002. 13:00-16:003. 17:00-20:004. 21:00-23:00",
+        "PaidService": "Будние дни: 350 руб./сеанс\nВыходные дни: 450 руб./сеанс",
+        "InventoryRental": "да",
+        "HasDressingRoom": "да",
+        "SharpeningSkates": "да",
+        "HireSkatersAssistants": "да",
+        "Square": 3300,
+        "Length": null,
+        "LightingAvailability": null,
+        "globalid": 1021761567
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.531847,
+          55.876875
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "каток с искусственным покрытием",
+        "AdmArea": "Северный административный округ",
+        "District": "Дмитровский район",
+        "NameOfPark": {
+          "globalid": 4331795,
+          "value": "Парк по Ангарской улице"
+        },
+        "Name": "«Синема каток»",
+        "Location": "",
+        "WorkingHours": "Ежедневно: 10:00-22:00Сеансы:\n1. 10:00-12:002. 13:00-15:003. 16:00-18:004. 19:00-22:00",
+        "PaidService": "Бесплатно",
+        "InventoryRental": "да",
+        "HasDressingRoom": "да",
+        "SharpeningSkates": "да",
+        "HireSkatersAssistants": "да",
+        "Square": 1800,
+        "Length": null,
+        "LightingAvailability": null,
+        "globalid": 1021761569
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.588617,
+          55.815283
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "каток с искусственным покрытием",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Бутырский район",
+        "NameOfPark": {
+          "globalid": 4331870,
+          "value": "Парк «Гончаровский»"
+        },
+        "Name": "Каток в Гончаровском парке",
+        "Location": "",
+        "WorkingHours": "Ежедневно: 10:00-22:00Сеансы:\n1. 10:00-12:002. 13:00-15:003. 16:00-18:004. 19:00-22:00",
+        "PaidService": "Бесплатно",
+        "InventoryRental": "да",
+        "HasDressingRoom": "да",
+        "SharpeningSkates": "да",
+        "HireSkatersAssistants": "да",
+        "Square": 759,
+        "Length": null,
+        "LightingAvailability": null,
+        "globalid": 1021761570
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.68278,
+          55.866834
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "каток с искусственным покрытием",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Лосиноостровский район",
+        "NameOfPark": {
+          "globalid": 4331819,
+          "value": "Парк Бабушкинский (основная территория)"
+        },
+        "Name": "Каток «Метелица»",
+        "Location": "",
+        "WorkingHours": "Вторник, среда, четверг, пятница, суббота, воскресенье: 10:00-22:00Сеансы: \n1. 10:00 до 12:002. 13:00 до 15:003. 16:00 до 18:004. 19:00 до 22:00",
+        "PaidService": "Будние и выходные дни: 300 руб./сеанс",
+        "InventoryRental": "да",
+        "HasDressingRoom": "да",
+        "SharpeningSkates": "да",
+        "HireSkatersAssistants": "да",
+        "Square": 1352,
+        "Length": null,
+        "LightingAvailability": null,
+        "globalid": 1021761572
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.364117,
+          55.835523
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "каток с искусственным покрытием",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Митино",
+        "NameOfPark": {
+          "globalid": 4331832,
+          "value": "Ландшафтный парк «Митино»"
+        },
+        "Name": "Каток «Льдинка»",
+        "Location": "",
+        "WorkingHours": "Вторник, среда, четверг, пятница, суббота, воскресенье: 10:00-22:00Сеансы: \n1. 10:00 до 12:002. 13:00 до 15:003. 16:00 до 18:004. 19:00 до 22:00",
+        "PaidService": "Будние и выходные дни: 300 руб./сеанс",
+        "InventoryRental": "да",
+        "HasDressingRoom": "да",
+        "SharpeningSkates": "нет",
+        "HireSkatersAssistants": "нет",
+        "Square": 4000,
+        "Length": null,
+        "LightingAvailability": null,
+        "globalid": 1021761574
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.37458,
+          55.832649
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "каток с искусственным покрытием",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Митино",
+        "NameOfPark": {
+          "globalid": 4331832,
+          "value": "Ландшафтный парк «Митино»"
+        },
+        "Name": "Хоккейная коробка",
+        "Location": "",
+        "WorkingHours": "Ежедневно: 11:00-22:00Сеансы:\n1. 11:00-13:002. 14:00-16:003. 17:00-19:004. 20:00-22:00",
+        "PaidService": "Бесплатно",
+        "InventoryRental": "нет",
+        "HasDressingRoom": "да",
+        "SharpeningSkates": "да",
+        "HireSkatersAssistants": "да",
+        "Square": 800,
+        "Length": null,
+        "LightingAvailability": null,
+        "globalid": 1021761576
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5410601145452,
+          55.6668735025643
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "каток с искусственным покрытием",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "Обручевский район",
+        "NameOfPark": {
+          "globalid": 4331842,
+          "value": "Воронцовский парк"
+        },
+        "Name": "«Live! Каток»",
+        "Location": "",
+        "WorkingHours": "Будние дни: 10:00-22:00Сеансы:\n1. 10:00-12:002. 13:00-15:003. 17:00-20:004. 21:00 -22:00Выходные дни: 10:00-23:00Сеансы:\n1. 10:00-12:002. 13:00-15:003. 17:00-20:004. 21:00-23:00",
+        "PaidService": "Бесплатно",
+        "InventoryRental": "да",
+        "HasDressingRoom": "да",
+        "SharpeningSkates": "да",
+        "HireSkatersAssistants": "нет",
+        "Square": 800,
+        "Length": null,
+        "LightingAvailability": null,
+        "globalid": 1021761577
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.500044,
+          55.685946
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "каток с искусственным покрытием",
+        "AdmArea": "Западный административный округ",
+        "District": "район Проспект Вернадского",
+        "NameOfPark": {
+          "globalid": 4331863,
+          "value": "Парк «50-летия Октября»"
+        },
+        "Name": "«Каток Дружбы»",
+        "Location": "",
+        "WorkingHours": "Ежедневно: 10:00-22:00Сеансы:\n1. 10:00-12:002. 13:00-15:003. 17:00-20:004. 21:00-22:00",
+        "PaidService": "Бесплатно",
+        "InventoryRental": "да",
+        "HasDressingRoom": "да",
+        "SharpeningSkates": "нет",
+        "HireSkatersAssistants": "да",
+        "Square": 1800,
+        "Length": null,
+        "LightingAvailability": null,
+        "globalid": 1021761578
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.492804,
+          55.752683
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "каток с искусственным покрытием",
+        "AdmArea": "Западный административный округ",
+        "District": "район Филёвский Парк",
+        "NameOfPark": {
+          "globalid": 4331786,
+          "value": "Парк «Фили»"
+        },
+        "Name": "Каток «Полярный»",
+        "Location": "",
+        "WorkingHours": "Ежедневно 10:00-22:00Сеансы:\n1. 10:00-12:002. 13:00-15:003. 17:00-20:004. 21:00-22:00",
+        "PaidService": "Бесплатно",
+        "InventoryRental": "да",
+        "HasDressingRoom": "да",
+        "SharpeningSkates": "нет",
+        "HireSkatersAssistants": "да",
+        "Square": 800,
+        "Length": null,
+        "LightingAvailability": null,
+        "globalid": 1021761579
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.528863,
+          55.788182
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "лыжная трасса",
+        "AdmArea": "Северный административный округ",
+        "District": "Хорошёвский район",
+        "NameOfPark": {
+          "globalid": 911801150,
+          "value": "Парк «Ходынское поле» (основная территория)"
+        },
+        "Name": "",
+        "Location": "Ходынский бульвар, владение 2",
+        "WorkingHours": "Круглосуточно (по погодным условиям)",
+        "PaidService": "Бесплатно",
+        "InventoryRental": "нет",
+        "HasDressingRoom": "нет",
+        "SharpeningSkates": null,
+        "HireSkatersAssistants": null,
+        "Square": null,
+        "Length": 1.6,
+        "LightingAvailability": "да",
+        "globalid": 1078573733
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.567188,
+          55.818739
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "лыжная трасса",
+        "AdmArea": "Северный административный округ",
+        "District": "Тимирязевский район",
+        "NameOfPark": {
+          "globalid": 4331794,
+          "value": "Парк «Дубки»"
+        },
+        "Name": "",
+        "Location": "Улица Дубки, дом 6",
+        "WorkingHours": "Круглосуточно (по погодным условиям)",
+        "PaidService": "Бесплатно",
+        "InventoryRental": "нет",
+        "HasDressingRoom": "нет",
+        "SharpeningSkates": null,
+        "HireSkatersAssistants": null,
+        "Square": null,
+        "Length": 1,
+        "LightingAvailability": "да",
+        "globalid": 1078573748
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.485594,
+          55.853023
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "каток с естественным покрытием",
+        "AdmArea": "Северный административный округ",
+        "District": "район Левобережный",
+        "NameOfPark": {
+          "globalid": 4331813,
+          "value": "Парк Дружбы"
+        },
+        "Name": "Каток с натуральным покрытием",
+        "Location": "",
+        "WorkingHours": "Ежедневно: 12:00-22:00Сеансы: \n1. 12:00-14:002. 14:30-16:303. 17:00-19:004. 20:00-22:00Выходные и праздничные дни: 10:00-22:00Сеансы: \n1. 10:00-12:002. 13:00-15:303. 16:00-18:304. 19:00-22:00",
+        "PaidService": "Будние дни:Взрослые: 200 руб./сеанс\nДети до 6 лет: бесплатно\nДети 6-12 лет: 150 руб./сеанс\nВыходные и праздничные дни:\nВзрослые: 300 руб./сеанс\nДети до 6 лет: 100 руб./сеанс\nДети 6-12 лет: 200 руб./сеанс",
+        "InventoryRental": "да",
+        "HasDressingRoom": "да",
+        "SharpeningSkates": "да",
+        "HireSkatersAssistants": "да",
+        "Square": 750,
+        "Length": null,
+        "LightingAvailability": null,
+        "globalid": 1078573754
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.531643,
+          55.787272
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "каток с искусственным покрытием",
+        "AdmArea": "Северный административный округ",
+        "District": "Хорошёвский район",
+        "NameOfPark": {
+          "globalid": 911801150,
+          "value": "Парк «Ходынское поле» (основная территория)"
+        },
+        "Name": "Каток «Ходынское поле»",
+        "Location": "",
+        "WorkingHours": "Ежедневно: 10:00-23:00Сеансы:\n1. 10:00-12:002. 13:00-15:003. 17:00-20:004. 21:00-23:00",
+        "PaidService": "Будние дни: 250 руб./сеанс\nВыходные дни: 350 руб./сеанс",
+        "InventoryRental": "да",
+        "HasDressingRoom": "да",
+        "SharpeningSkates": "да",
+        "HireSkatersAssistants": "да",
+        "Square": 800,
+        "Length": null,
+        "LightingAvailability": null,
+        "globalid": 1078573794
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.566127,
+          55.822816
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "каток с искусственным покрытием",
+        "AdmArea": "Северный административный округ",
+        "District": "Тимирязевский район",
+        "NameOfPark": {
+          "globalid": 4331794,
+          "value": "Парк «Дубки»"
+        },
+        "Name": "Каток «Дубки»",
+        "Location": "",
+        "WorkingHours": "Ежедневно: 10:00-22:00Сеансы:\n1. 10:00-12:002. 13:00-15:003. 17:00-20:004. 21:00-22:00",
+        "PaidService": "Бесплатно",
+        "InventoryRental": "да",
+        "HasDressingRoom": "да",
+        "SharpeningSkates": "нет",
+        "HireSkatersAssistants": "нет",
+        "Square": 1400,
+        "Length": null,
+        "LightingAvailability": null,
+        "globalid": 1078573803
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.663409,
+          55.804445
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "лыжная трасса",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Сокольники",
+        "NameOfPark": {
+          "globalid": 4331866,
+          "value": "Парк Сокольники"
+        },
+        "Name": "",
+        "Location": "Сокольнический Вал, дом 1",
+        "WorkingHours": "Круглосуточно (по погодным условиям)",
+        "PaidService": "Бесплатно",
+        "InventoryRental": "да",
+        "HasDressingRoom": "да",
+        "SharpeningSkates": null,
+        "HireSkatersAssistants": null,
+        "Square": null,
+        "Length": 0.5,
+        "LightingAvailability": "да",
+        "globalid": 1267338434
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.480584,
+          55.853859
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "лыжная трасса",
+        "AdmArea": "Северный административный округ",
+        "District": "район Левобережный",
+        "NameOfPark": {
+          "globalid": 4331813,
+          "value": "Парк Дружбы"
+        },
+        "Name": "",
+        "Location": "Улица Флотская, дом 1а",
+        "WorkingHours": "Круглосуточно (по погодным условиям)",
+        "PaidService": "Бесплатно",
+        "InventoryRental": "нет",
+        "HasDressingRoom": "нет",
+        "SharpeningSkates": null,
+        "HireSkatersAssistants": null,
+        "Square": null,
+        "Length": 0.35,
+        "LightingAvailability": "да",
+        "globalid": 1267338925
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.677121,
+          55.793655
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectType": "каток с естественным покрытием",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Сокольники",
+        "NameOfPark": {
+          "globalid": 4331866,
+          "value": "Парк Сокольники"
+        },
+        "Name": "Каток \"Гигант\"",
+        "Location": "",
+        "WorkingHours": "Ежедневно: 10:00-23:00Сеансы:\n1. 10:00-12:002. 14:00-16:003. 18:00-20:004. 21:00-23:00",
+        "PaidService": "Бесплатно",
+        "InventoryRental": "да",
+        "HasDressingRoom": "да",
+        "SharpeningSkates": "да",
+        "HireSkatersAssistants": "нет",
+        "Square": 17000,
+        "Length": null,
+        "LightingAvailability": null,
+        "globalid": 1267343594
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

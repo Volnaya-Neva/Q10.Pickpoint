@@ -1,0 +1,3724 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.893709,
+          55.453808
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 37,
+        "Nameen": "Домодедовское кладбище",
+        "OnTerritoryOfMoscowen": "no",
+        "AdmAreaen": null,
+        "Districten": null,
+        "Addressen": "Московская область, г. Домодедово, вблизи д. Истомиха, территория \"Домодедовское кладбище\"",
+        "LongitudeWGS84en": "37.893709",
+        "LatitudeWGS84en": "55.453808",
+        "ObjectAreaen": 176.5,
+        "ObjectStatusen": "closed",
+        "globalid": 1712637,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 223-56-82",
+        "ContactPhoneenglobalid0": 473
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.38099,
+          55.27651
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 39,
+        "Nameen": "Жохово кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Troiczkij administrativny'j okrug",
+        "Districten": "poselenie Klenovskoe",
+        "Addressen": "деревня Жохово",
+        "LongitudeWGS84en": "37.38099",
+        "LatitudeWGS84en": "55.27651",
+        "GraveTypeen": "grave into the land",
+        "ObjectAreaen": 0.5,
+        "ObjectStatusen": "closed",
+        "globalid": 1712638,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 232-40-21",
+        "ContactPhoneenglobalid0": 474
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.596171,
+          55.495827
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 40,
+        "Nameen": "Захарьинское кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Yugo-Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Yuzhnoe Butovo",
+        "Addressen": "улица Николая Сироткина",
+        "LongitudeWGS84en": "37.596171",
+        "LatitudeWGS84en": "55.495827",
+        "ObjectAreaen": 12.1,
+        "ObjectStatusen": "opened",
+        "globalid": 1712639,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 717-69-18",
+        "ContactPhoneenglobalid0": 475
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.21588,
+          55.952753
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 42,
+        "Nameen": "Зеленоградское (Северное) кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Zelenogradskij administrativny'j okrug",
+        "Districten": "rajon Savyolki",
+        "Addressen": "Зеленоград, Проезд N 710, дом 19 стр. 1, 3, 4",
+        "LongitudeWGS84en": "37.215880",
+        "LatitudeWGS84en": "55.952753",
+        "ObjectAreaen": 14.7,
+        "ObjectStatusen": "closed",
+        "globalid": 1712640,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(499) 735-85-33",
+        "ContactPhoneenglobalid0": 476
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          36.909239,
+          55.408224
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 43,
+        "Nameen": "Зосимова пустынь кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Troiczkij administrativny'j okrug",
+        "Districten": "poselenie Novofedorovskoe",
+        "Addressen": "поселок Зосимова пустынь",
+        "LongitudeWGS84en": "36.909239",
+        "LatitudeWGS84en": "55.408224",
+        "GraveTypeen": "grave into the land",
+        "ObjectAreaen": 1,
+        "ObjectStatusen": "closed",
+        "globalid": 1712641,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 952-47-37",
+        "ContactPhoneenglobalid0": 478
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.838953,
+          55.768869
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 44,
+        "Nameen": "Ивановское кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Ivanovskoe",
+        "Addressen": "улица Сталеваров, владение 6, стр. 1,2,3,4,5,6",
+        "LongitudeWGS84en": "37.838953",
+        "LatitudeWGS84en": "55.768869",
+        "GraveTypeen": "grave into the land",
+        "ObjectAreaen": 1.9,
+        "ObjectStatusen": "closed",
+        "globalid": 1712642,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 791-05-39",
+        "ContactPhoneenglobalid0": 479
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.263326,
+          55.62614
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 46,
+        "Nameen": "Изваринское кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Novomoskovskij administrativny'j okrug",
+        "Districten": "poselenie Vnukovskoe",
+        "Addressen": "деревня Изварино",
+        "LongitudeWGS84en": "37.263326",
+        "LatitudeWGS84en": "55.626140",
+        "GraveTypeen": "grave into the land",
+        "ObjectAreaen": 1.38,
+        "ObjectStatusen": "closed",
+        "globalid": 1712644,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 448-67-88",
+        "ContactPhoneenglobalid0": 352
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.441303,
+          55.401341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 47,
+        "Nameen": "Ознобишино кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Troiczkij administrativny'j okrug",
+        "Districten": "poselenie Shhapovskoe",
+        "Addressen": "вблизи с. Ознобишино",
+        "LongitudeWGS84en": "37.441303",
+        "LatitudeWGS84en": "55.401341",
+        "GraveTypeen": "grave into the land",
+        "ObjectAreaen": 1.7,
+        "ObjectStatusen": "closed",
+        "globalid": 1712645,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 232-40-21",
+        "ContactPhoneenglobalid0": 502
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.180299,
+          55.400007
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 48,
+        "Nameen": "Исаково кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Troiczkij administrativny'j okrug",
+        "Districten": "poselenie Mixajlovo-Yarczevskoe",
+        "Addressen": "д. Исаково",
+        "LongitudeWGS84en": "37.180299",
+        "LatitudeWGS84en": "55.400007",
+        "GraveTypeen": "grave into the land",
+        "ObjectAreaen": 4.8,
+        "ObjectStatusen": "closed",
+        "globalid": 1712646,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 232-40-21",
+        "ContactPhoneenglobalid0": 354
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.688346,
+          55.733101
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 49,
+        "Nameen": "Калитниковское кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Czentral`ny'j administrativny'j okrug",
+        "Districten": "Taganskij rajon",
+        "Addressen": "Большой Калитниковский проезд, вл. 11",
+        "LongitudeWGS84en": "37.688346",
+        "LatitudeWGS84en": "55.733101",
+        "ObjectAreaen": 16.7,
+        "ObjectStatusen": "closed",
+        "globalid": 1712647,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 670-50-09",
+        "ContactPhoneenglobalid0": 481
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.791112,
+          55.639315
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 50,
+        "Nameen": "Капотненское кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Yugo-Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Kapotnya",
+        "Addressen": "1-й квартал Капотня, 1-й Капотнинский проезд",
+        "LongitudeWGS84en": "37.791112",
+        "LatitudeWGS84en": "55.639315",
+        "GraveTypeen": "grave into the land",
+        "ObjectAreaen": 2.5,
+        "ObjectStatusen": "closed",
+        "globalid": 1712648,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 355-30-29",
+        "ContactPhoneenglobalid0": 482
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.58017,
+          55.571173
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 51,
+        "Nameen": "Качаловское кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Yugo-Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Severnoe Butovo",
+        "Addressen": "Старокачаловская улица, владение 8",
+        "LongitudeWGS84en": "37.580170",
+        "LatitudeWGS84en": "55.571173",
+        "ObjectAreaen": 1,
+        "ObjectStatusen": "closed",
+        "globalid": 1712649,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(916) 929-89-74",
+        "ContactPhoneenglobalid0": 357
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.2614,
+          55.52169
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 53,
+        "Nameen": "Клоково кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Troiczkij administrativny'j okrug",
+        "Districten": "poselenie Pervomajskoe",
+        "Addressen": "деревня Клоково",
+        "LongitudeWGS84en": "37.26140",
+        "LatitudeWGS84en": "55.52169",
+        "GraveTypeen": "grave into the land",
+        "ObjectAreaen": 0.2,
+        "ObjectStatusen": "closed",
+        "globalid": 1712650,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 952-47-37",
+        "ContactPhoneenglobalid0": 483
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.63621,
+          55.620471
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 54,
+        "Nameen": "Котляковское кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Yuzhny'j administrativny'j okrug",
+        "Districten": "rajon Czariczy'no",
+        "Addressen": "улица Деловая, вл. 21",
+        "LongitudeWGS84en": "37.636210",
+        "LatitudeWGS84en": "55.620471",
+        "ObjectAreaen": 38.7,
+        "ObjectStatusen": "closed",
+        "globalid": 1712651,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 325-23-10",
+        "ContactPhoneenglobalid0": 484
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.292286,
+          55.423774
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 55,
+        "Nameen": "Красное кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Troiczkij administrativny'j okrug",
+        "Districten": "poselenie Krasnopaxorskoe",
+        "Addressen": "село Красное",
+        "LongitudeWGS84en": "37.292286",
+        "LatitudeWGS84en": "55.423774",
+        "GraveTypeen": "grave into the land",
+        "ObjectAreaen": 1.4,
+        "ObjectStatusen": "closed",
+        "globalid": 1712652,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 232-40-21",
+        "ContactPhoneenglobalid0": 485
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.435135,
+          55.493202
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 56,
+        "Nameen": "Кувекинское кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Novomoskovskij administrativny'j okrug",
+        "Districten": "poselenie Desenovskoe",
+        "Addressen": "деревня Кувекино",
+        "LongitudeWGS84en": "37.435135",
+        "LatitudeWGS84en": "55.493202",
+        "GraveTypeen": "grave into the land",
+        "ObjectAreaen": 1.2,
+        "ObjectStatusen": "closed",
+        "globalid": 1712653,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 448-67-88",
+        "ContactPhoneenglobalid0": 486
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          36.945886,
+          55.459938
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 57,
+        "Nameen": "Кузнецово кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Troiczkij administrativny'j okrug",
+        "Districten": "poselenie Novofedorovskoe",
+        "Addressen": "деревня Кузнецово",
+        "LongitudeWGS84en": "36.945886",
+        "LatitudeWGS84en": "55.459938",
+        "GraveTypeen": "grave into the land",
+        "ObjectAreaen": 1.1,
+        "ObjectStatusen": "closed",
+        "globalid": 1712654,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 952-47-37",
+        "ContactPhoneenglobalid0": 487
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.799055,
+          55.705256
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 58,
+        "Nameen": "Кузьминское кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Yugo-Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Vy'xino-Zhulebino",
+        "Addressen": "улица Академика Скрябина, вл. 19",
+        "LongitudeWGS84en": "37.799055",
+        "LatitudeWGS84en": "55.705256",
+        "ObjectAreaen": 42.9,
+        "ObjectStatusen": "closed",
+        "globalid": 1712655,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 378-60-82",
+        "ContactPhoneenglobalid0": 176
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.806136,
+          55.702787
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 59,
+        "Nameen": "Кузьминское (мусульманское) кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Yugo-Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Vy'xino-Zhulebino",
+        "Addressen": "улица Академика Скрябина, вл. 19",
+        "LongitudeWGS84en": "37.806136",
+        "LatitudeWGS84en": "55.702787",
+        "ObjectAreaen": 2.4,
+        "ObjectStatusen": "closed",
+        "globalid": 1712656,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 378-60-82",
+        "ContactPhoneenglobalid0": 177
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.350034,
+          55.774616
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 60,
+        "Nameen": "Рублевское кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Kunczevo",
+        "Addressen": "поселок Рублево",
+        "LongitudeWGS84en": "37.350034",
+        "LatitudeWGS84en": "55.774616",
+        "GraveTypeen": "grave into the land",
+        "ObjectAreaen": 3.4,
+        "ObjectStatusen": "closed",
+        "globalid": 1712657,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 440-69-84",
+        "ContactPhoneenglobalid0": 521
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.645017,
+          55.844036
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 61,
+        "Nameen": "Леоновское кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Severo-Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Rostokino",
+        "Addressen": "1-я улица Леонова, вл. 8",
+        "LongitudeWGS84en": "37.645017",
+        "LatitudeWGS84en": "55.844036",
+        "ObjectAreaen": 2.6,
+        "ObjectStatusen": "closed",
+        "globalid": 1712658,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(499) 188-42-46",
+        "ContactPhoneenglobalid0": 489
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.406477,
+          55.562548
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 62,
+        "Nameen": "Летовское кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Novomoskovskij administrativny'j okrug",
+        "Districten": "poselenie Sosenskoe",
+        "Addressen": "д. Летово",
+        "LongitudeWGS84en": "37.406477",
+        "LatitudeWGS84en": "55.562548",
+        "GraveTypeen": "grave into the land",
+        "ObjectAreaen": 0.51,
+        "ObjectStatusen": "closed",
+        "globalid": 1712659,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 448-67-88",
+        "ContactPhoneenglobalid0": 366
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.561797,
+          55.911693
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 63,
+        "Nameen": "Лианозовское кладбище",
+        "OnTerritoryOfMoscowen": "no",
+        "AdmAreaen": null,
+        "Districten": null,
+        "Addressen": "Московская область, Мытищинский район, юго-западная часть городского поселения Мытищи, 83-й км МКАД",
+        "LongitudeWGS84en": "37.561797",
+        "LatitudeWGS84en": "55.911693",
+        "ObjectAreaen": 79.2,
+        "ObjectStatusen": "closed",
+        "globalid": 1712660,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(499) 188-42-46",
+        "ContactPhoneenglobalid0": 490
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.271186,
+          55.330646
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 64,
+        "Nameen": "Лукошкино кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Troiczkij administrativny'j okrug",
+        "Districten": "poselenie Klenovskoe",
+        "Addressen": "деревня Лукошкино",
+        "LongitudeWGS84en": "37.271186",
+        "LatitudeWGS84en": "55.330646",
+        "GraveTypeen": "grave into the land",
+        "ObjectAreaen": 1.4,
+        "ObjectStatusen": "closed",
+        "globalid": 1712661,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 232-40-21",
+        "ContactPhoneenglobalid0": 491
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.1408,
+          56.012556
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 1,
+        "Nameen": "Алабушевское кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Zelenogradskij administrativny'j okrug",
+        "Districten": "rajon Savyolki",
+        "Addressen": "г. Зеленоград, промзона «Алабушево»",
+        "LongitudeWGS84en": "37.140800",
+        "LatitudeWGS84en": "56.012556",
+        "GraveTypeen": "grave into the land",
+        "ObjectAreaen": 34,
+        "ObjectStatusen": "opened",
+        "globalid": 1712662,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(499) 735-85-33",
+        "ContactPhoneenglobalid0": 309
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.643389,
+          55.818256
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 2,
+        "Nameen": "Алексеевское кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Severo-Vostochny'j administrativny'j okrug",
+        "Districten": "Alekseevskij rajon",
+        "Addressen": "Проспект Мира, владение 132",
+        "LongitudeWGS84en": "37.643389",
+        "LatitudeWGS84en": "55.818256",
+        "ObjectAreaen": 2.3,
+        "ObjectStatusen": "closed",
+        "globalid": 1712663,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 602-21-39",
+        "ContactPhoneenglobalid0": 445
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.594309,
+          55.907706
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 3,
+        "Nameen": "Алтуфьевское кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Severo-Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Bibirevo",
+        "Addressen": "85-й км МКАД",
+        "LongitudeWGS84en": "37.594309",
+        "LatitudeWGS84en": "55.907706",
+        "ObjectAreaen": 1.4,
+        "ObjectStatusen": "closed",
+        "globalid": 1712664,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 977-80-90",
+        "ContactPhoneenglobalid0": 447
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.146053,
+          55.56827
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 4,
+        "Nameen": "Анкудиново кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Novomoskovskij administrativny'j okrug",
+        "Districten": "poselenie Marushkinskoe",
+        "Addressen": "деревня Анкудиново",
+        "LongitudeWGS84en": "37.146053",
+        "LatitudeWGS84en": "55.568270",
+        "GraveTypeen": "grave into the land",
+        "ObjectAreaen": 10.9,
+        "ObjectStatusen": "closed",
+        "globalid": 1712665,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 952-47-37",
+        "ContactPhoneenglobalid0": 448
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.704604,
+          55.863275
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 5,
+        "Nameen": "Бабушкинское кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Severo-Vostochny'j administrativny'j okrug",
+        "Districten": "Yaroslavskij rajon",
+        "Addressen": "Ярославское шоссе, владение 52",
+        "LongitudeWGS84en": "37.704604",
+        "LatitudeWGS84en": "55.863275",
+        "ObjectAreaen": 11.1,
+        "ObjectStatusen": "closed",
+        "globalid": 1712666,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(499) 188-42-46",
+        "ContactPhoneenglobalid0": 449
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.015686,
+          55.411069
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 6,
+        "Nameen": "Белоусово кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Troiczkij administrativny'j okrug",
+        "Districten": "poselenie Novofedorovskoe",
+        "Addressen": "деревня Белоусово",
+        "LongitudeWGS84en": "37.015686",
+        "LatitudeWGS84en": "55.411069",
+        "GraveTypeen": "grave into the land",
+        "ObjectAreaen": 0.5,
+        "ObjectStatusen": "closed",
+        "globalid": 1712667,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 952-47-37",
+        "ContactPhoneenglobalid0": 450
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.053418,
+          55.213226
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 7,
+        "Nameen": "Богородское (д. Богородское) кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Troiczkij administrativny'j okrug",
+        "Districten": "poselenie Rogovskoe",
+        "Addressen": "деревня Богородское",
+        "LongitudeWGS84en": "37.053418",
+        "LatitudeWGS84en": "55.213226",
+        "GraveTypeen": "grave into the land",
+        "ObjectAreaen": 0.13,
+        "ObjectStatusen": "closed",
+        "globalid": 1712668,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 232-40-21",
+        "ContactPhoneenglobalid0": 315
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.708192,
+          55.803805
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 8,
+        "Nameen": "Богородское кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Preobrazhenskoe",
+        "Addressen": "Краснобогатырская улица, вл. 81",
+        "LongitudeWGS84en": "37.708192",
+        "LatitudeWGS84en": "55.803805",
+        "GraveTypeen": "grave into the land",
+        "ObjectAreaen": 2.46,
+        "ObjectStatusen": "closed",
+        "globalid": 1712669,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 791-05-39",
+        "ContactPhoneenglobalid0": 451
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.17643,
+          55.25522
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 9,
+        "Nameen": "Богоявление кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Troiczkij administrativny'j okrug",
+        "Districten": "poselenie Voronovskoe",
+        "Addressen": "село Богоявление",
+        "LongitudeWGS84en": "37.17643",
+        "LatitudeWGS84en": "55.25522",
+        "GraveTypeen": "grave into the land",
+        "ObjectAreaen": 0.4,
+        "ObjectStatusen": "closed",
+        "globalid": 1712670,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 232-40-21",
+        "ContactPhoneenglobalid0": 452
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.709299,
+          55.766382
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 10,
+        "Nameen": "Введенское кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Yugo-Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Lefortovo",
+        "Addressen": "Наличная ул., вл. 1",
+        "LongitudeWGS84en": "37.709299",
+        "LatitudeWGS84en": "55.766382",
+        "ObjectAreaen": 17,
+        "ObjectStatusen": "closed",
+        "globalid": 1712671,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 360-65-00",
+        "ContactPhoneenglobalid0": 329
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.145168,
+          55.571571
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 11,
+        "Nameen": "Большое Свинорье кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Novomoskovskij administrativny'j okrug",
+        "Districten": "poselenie Marushkinskoe",
+        "Addressen": "деревня Большое Свинорье",
+        "LongitudeWGS84en": "37.145168",
+        "LatitudeWGS84en": "55.571571",
+        "GraveTypeen": "grave into the land",
+        "ObjectAreaen": 7.5,
+        "ObjectStatusen": "closed",
+        "globalid": 1712672,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 952-47-37",
+        "ContactPhoneenglobalid0": 454
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.734079,
+          55.634297
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 12,
+        "Nameen": "Борисовское кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Yuzhny'j administrativny'j okrug",
+        "Districten": "rajon Brateevo",
+        "Addressen": "Борисовские Пруды улица, вл. 4",
+        "LongitudeWGS84en": "37.734079",
+        "LatitudeWGS84en": "55.634297",
+        "ObjectAreaen": 1.1,
+        "ObjectStatusen": "closed",
+        "globalid": 1712673,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 644-75-14",
+        "ContactPhoneenglobalid0": 455
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.495282,
+          55.888083
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 13,
+        "Nameen": "Бусиновское кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Severny'j administrativny'j okrug",
+        "Districten": "rajon Zapadnoe Degunino",
+        "Addressen": "улица Краснополянская, вл. 18",
+        "LongitudeWGS84en": "37.495282",
+        "LatitudeWGS84en": "55.888083",
+        "ObjectAreaen": 1.1,
+        "ObjectStatusen": "closed",
+        "globalid": 1712674,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 486-55-98",
+        "ContactPhoneenglobalid0": 456
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.562586,
+          55.528625
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 14,
+        "Nameen": "Бутовское кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Yugo-Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Yuzhnoe Butovo",
+        "Addressen": "Южное Бутово, 36-й км Курской ж/д",
+        "LongitudeWGS84en": "37.562586",
+        "LatitudeWGS84en": "55.528625",
+        "ObjectAreaen": 24.7,
+        "ObjectStatusen": "closed",
+        "globalid": 1712675,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 773-56-33",
+        "ContactPhoneenglobalid0": 457
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.241735,
+          55.444574
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 15,
+        "Nameen": "Былово кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Troiczkij administrativny'j okrug",
+        "Districten": "poselenie Krasnopaxorskoe",
+        "Addressen": "село Былово",
+        "LongitudeWGS84en": "37.241735",
+        "LatitudeWGS84en": "55.444574",
+        "GraveTypeen": "grave into the land",
+        "ObjectAreaen": 0.2,
+        "ObjectStatusen": "closed",
+        "globalid": 1712676,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 232-40-21",
+        "ContactPhoneenglobalid0": 458
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.554625,
+          55.767955
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 16,
+        "Nameen": "Ваганьковское кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Czentral`ny'j administrativny'j okrug",
+        "Districten": "Presnenskij rajon",
+        "Addressen": "ул. Сергея Макеева, вл. 15",
+        "LongitudeWGS84en": "37.554625",
+        "LatitudeWGS84en": "55.767955",
+        "ObjectAreaen": 48.1,
+        "ObjectStatusen": "closed",
+        "globalid": 1712677,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 253-80-17",
+        "ContactPhoneenglobalid0": 459
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.501284,
+          55.838304
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 17,
+        "Nameen": "Головинское кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Severny'j administrativny'j okrug",
+        "Districten": "Golovinskij rajon",
+        "Addressen": "Головинское шоссе, вл. 13",
+        "LongitudeWGS84en": "37.501284",
+        "LatitudeWGS84en": "55.838304",
+        "ObjectAreaen": 15.4,
+        "ObjectStatusen": "closed",
+        "globalid": 1712678,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 450-59-27",
+        "ContactPhoneenglobalid0": 336
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.25062,
+          55.431382
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 19,
+        "Nameen": "Варварино кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Troiczkij administrativny'j okrug",
+        "Districten": "poselenie Krasnopaxorskoe",
+        "Addressen": "деревня Варварино",
+        "LongitudeWGS84en": "37.250620",
+        "LatitudeWGS84en": "55.431382",
+        "GraveTypeen": "grave into the land",
+        "ObjectAreaen": 0.6,
+        "ObjectStatusen": "closed",
+        "globalid": 1712680,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 232-40-21",
+        "ContactPhoneenglobalid0": 461
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          36.99186,
+          55.24202
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 20,
+        "Nameen": "Васюнино кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Troiczkij administrativny'j okrug",
+        "Districten": "poselenie Rogovskoe",
+        "Addressen": "деревня Васюнино",
+        "LongitudeWGS84en": "36.99186",
+        "LatitudeWGS84en": "55.24202",
+        "GraveTypeen": "grave into the land",
+        "ObjectAreaen": 0.4,
+        "ObjectStatusen": "closed",
+        "globalid": 1712681,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 232-40-21",
+        "ContactPhoneenglobalid0": 327
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.324094,
+          55.499753
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 21,
+        "Nameen": "Ватутинское кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Novomoskovskij administrativny'j okrug",
+        "Districten": "poselenie Desenovskoe",
+        "Addressen": "поселок Ватутинки",
+        "LongitudeWGS84en": "37.324094",
+        "LatitudeWGS84en": "55.499753",
+        "GraveTypeen": "grave into the land",
+        "ObjectAreaen": 3.4,
+        "ObjectStatusen": "closed",
+        "globalid": 1712682,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 448-67-88",
+        "ContactPhoneenglobalid0": 462
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.494443,
+          55.906987
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 22,
+        "Nameen": "Долгопрудненское (Южное) кладбище",
+        "OnTerritoryOfMoscowen": "no",
+        "AdmAreaen": null,
+        "Districten": null,
+        "Addressen": "Московская область, г. Долгопрудный, Лихачевский проспект",
+        "LongitudeWGS84en": "37.494443",
+        "LatitudeWGS84en": "55.906987",
+        "ObjectAreaen": 27.9,
+        "ObjectStatusen": "closed",
+        "globalid": 1712683,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 408-80-98",
+        "ContactPhoneenglobalid0": 343
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.79793,
+          55.723436
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 23,
+        "Nameen": "Вешняковское кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Veshnyaki",
+        "Addressen": "Юности улица, дом 17",
+        "LongitudeWGS84en": "37.797930",
+        "LatitudeWGS84en": "55.723436",
+        "GraveTypeen": "grave into the land",
+        "ObjectAreaen": 7.5,
+        "ObjectStatusen": "closed",
+        "globalid": 1712684,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 375-29-61",
+        "ContactPhoneenglobalid0": 463
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.591009,
+          55.845844
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 24,
+        "Nameen": "Владыкинское кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Severo-Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Marfino",
+        "Addressen": "Станционная улица, дом 8А",
+        "LongitudeWGS84en": "37.591009",
+        "LatitudeWGS84en": "55.845844",
+        "ObjectAreaen": 1.4,
+        "ObjectStatusen": "closed",
+        "globalid": 1712685,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 977-80-90",
+        "ContactPhoneenglobalid0": 464
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.152352,
+          55.314498
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 25,
+        "Nameen": "Вороново кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Troiczkij administrativny'j okrug",
+        "Districten": "poselenie Voronovskoe",
+        "Addressen": "вблизи с. Вороново",
+        "LongitudeWGS84en": "37.152352",
+        "LatitudeWGS84en": "55.314498",
+        "GraveTypeen": "grave into the land",
+        "ObjectAreaen": 1.4,
+        "ObjectStatusen": "closed",
+        "globalid": 1712686,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 232-40-21",
+        "ContactPhoneenglobalid0": 465
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.24814,
+          55.34398
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 26,
+        "Nameen": "Ворсино кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Troiczkij administrativny'j okrug",
+        "Districten": "poselenie Voronovskoe",
+        "Addressen": "деревня Ворсино",
+        "LongitudeWGS84en": "37.24814",
+        "LatitudeWGS84en": "55.34398",
+        "GraveTypeen": "grave into the land",
+        "ObjectAreaen": 0.3,
+        "ObjectStatusen": "closed",
+        "globalid": 1712687,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 232-40-21",
+        "ContactPhoneenglobalid0": 466
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.442812,
+          55.66169
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 27,
+        "Nameen": "Востряковское (Центральное) кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Troparyovo-Nikulino",
+        "Addressen": "Озерная улица, вл. 47, корпус 3, 4, 5, 6, 7, 8",
+        "LongitudeWGS84en": "37.442812",
+        "LatitudeWGS84en": "55.661690",
+        "ObjectAreaen": 62,
+        "ObjectStatusen": "closed",
+        "globalid": 1712688,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 437-47-00",
+        "ContactPhoneenglobalid0": 468
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.442726,
+          55.66209
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 28,
+        "Nameen": "Востряковское (Северное) кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Troparyovo-Nikulino",
+        "Addressen": "Озерная улица, вл. 47, корпус 3, 4, 5, 6, 7, 8",
+        "LongitudeWGS84en": "37.442726",
+        "LatitudeWGS84en": "55.662090",
+        "ObjectAreaen": 25.9,
+        "ObjectStatusen": "closed",
+        "globalid": 1712689,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 437-47-00",
+        "ContactPhoneenglobalid0": 467
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.769308,
+          55.800888
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 29,
+        "Nameen": "Измайловское кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Izmajlovo",
+        "Addressen": "Измайловский проезд, владение 30",
+        "LongitudeWGS84en": "37.769308",
+        "LatitudeWGS84en": "55.800888",
+        "GraveTypeen": "grave into the land",
+        "ObjectAreaen": 2.2,
+        "ObjectStatusen": "closed",
+        "globalid": 1712690,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 791-05-39",
+        "ContactPhoneenglobalid0": 480
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.812444,
+          55.830448
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 30,
+        "Nameen": "Гольяновское кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Gol`yanovo",
+        "Addressen": "Курганская улица, вл. 11",
+        "LongitudeWGS84en": "37.812444",
+        "LatitudeWGS84en": "55.830448",
+        "ObjectAreaen": 1.97,
+        "ObjectStatusen": "closed",
+        "globalid": 1712691,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 791-05-39",
+        "ContactPhoneenglobalid0": 337
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.242527,
+          55.515113
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 31,
+        "Nameen": "Губцево кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Troiczkij administrativny'j okrug",
+        "Districten": "poselenie Pervomajskoe",
+        "Addressen": "деревня Губцево",
+        "LongitudeWGS84en": "37.242527",
+        "LatitudeWGS84en": "55.515113",
+        "GraveTypeen": "grave into the land",
+        "ObjectAreaen": 4,
+        "ObjectStatusen": "closed",
+        "globalid": 1712692,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 952-47-37",
+        "ContactPhoneenglobalid0": 469
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.610432,
+          55.704192
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 32,
+        "Nameen": "Даниловское (Центральное) кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Yuzhny'j administrativny'j okrug",
+        "Districten": "Donskoj rajon",
+        "Addressen": "4-й Рощинский проезд, вл. 30",
+        "LongitudeWGS84en": "37.610432",
+        "LatitudeWGS84en": "55.704192",
+        "ObjectAreaen": 20.3,
+        "ObjectStatusen": "closed",
+        "globalid": 1712693,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 952-29-63",
+        "ContactPhoneenglobalid0": 470
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.604054,
+          55.704628
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 33,
+        "Nameen": "Даниловское (мусульманское) кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Yuzhny'j administrativny'j okrug",
+        "Districten": "Donskoj rajon",
+        "Addressen": "2-й Рощинский проезд, вл. 10",
+        "LongitudeWGS84en": "37.604054",
+        "LatitudeWGS84en": "55.704628",
+        "ObjectAreaen": 4.2,
+        "ObjectStatusen": "closed",
+        "globalid": 1712694,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 952-29-63",
+        "ContactPhoneenglobalid0": 471
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.513948,
+          55.460753
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 34,
+        "Nameen": "Девятское кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Novomoskovskij administrativny'j okrug",
+        "Districten": "poselenie Ryazanovskoe",
+        "Addressen": "дер. Девятское",
+        "LongitudeWGS84en": "37.513948",
+        "LatitudeWGS84en": "55.460753",
+        "GraveTypeen": "grave into the land",
+        "ObjectAreaen": 5.96,
+        "ObjectStatusen": "closed",
+        "globalid": 1712695,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 232-40-21",
+        "ContactPhoneenglobalid0": 341
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.512071,
+          55.920393
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 35,
+        "Nameen": "Долгопрудненское (Центральное) кладбище",
+        "OnTerritoryOfMoscowen": "no",
+        "AdmAreaen": null,
+        "Districten": null,
+        "Addressen": "Московская область, г. Долгопрудный, Лихачевский проезд",
+        "LongitudeWGS84en": "37.512071",
+        "LatitudeWGS84en": "55.920393",
+        "ObjectAreaen": 60.4,
+        "ObjectStatusen": "closed",
+        "globalid": 1712696,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 408-80-98",
+        "ContactPhoneenglobalid0": 472
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.420299,
+          55.708501
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 36,
+        "Nameen": "Кунцевское кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Zapadny'j administrativny'j okrug",
+        "Districten": "Mozhajskij rajon",
+        "Addressen": "Рябиновая улица, вл. 20",
+        "LongitudeWGS84en": "37.420299",
+        "LatitudeWGS84en": "55.708501",
+        "ObjectAreaen": 18.1,
+        "ObjectStatusen": "closed",
+        "globalid": 1712697,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 440-69-84",
+        "ContactPhoneenglobalid0": 488
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.780774,
+          55.681443
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 66,
+        "Nameen": "Люблинское кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Yugo-Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Lyublino",
+        "Addressen": "Ставропольская улица, вл. 74А",
+        "LongitudeWGS84en": "37.780774",
+        "LatitudeWGS84en": "55.681443",
+        "ObjectAreaen": 19,
+        "ObjectStatusen": "closed",
+        "globalid": 1712698,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(499) 784-02-71",
+        "ContactPhoneenglobalid0": 370
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.313905,
+          55.286419
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 67,
+        "Nameen": "Маврино кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Troiczkij administrativny'j okrug",
+        "Districten": "poselenie Klenovskoe",
+        "Addressen": "деревня Маврино",
+        "LongitudeWGS84en": "37.313905",
+        "LatitudeWGS84en": "55.286419",
+        "GraveTypeen": "grave into the land",
+        "ObjectAreaen": 5,
+        "ObjectStatusen": "closed",
+        "globalid": 1712699,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 232-40-21",
+        "ContactPhoneenglobalid0": 492
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.637506,
+          55.865318
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 68,
+        "Nameen": "Медведковское кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Severo-Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Yuzhnoe Medvedkovo",
+        "Addressen": "Заповедная улица, владение 7А",
+        "LongitudeWGS84en": "37.637506",
+        "LatitudeWGS84en": "55.865318",
+        "ObjectAreaen": 1.2,
+        "ObjectStatusen": "closed",
+        "globalid": 1712700,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 211-49-64",
+        "ContactPhoneenglobalid0": 493
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.239828,
+          55.998084
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 71,
+        "Nameen": "Никольское кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Zelenogradskij administrativny'j okrug",
+        "Districten": "rajon Matushkino",
+        "Addressen": "Зеленоград, Московский проспект",
+        "LongitudeWGS84en": "37.239828",
+        "LatitudeWGS84en": "55.998084",
+        "GraveTypeen": "grave into the land",
+        "ObjectAreaen": 0.4,
+        "ObjectStatusen": "closed",
+        "globalid": 1712701,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(499) 735-85-33",
+        "ContactPhoneenglobalid0": 500
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.618377,
+          55.506016
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 72,
+        "Nameen": "Щербинское кладбище",
+        "OnTerritoryOfMoscowen": "no",
+        "AdmAreaen": null,
+        "Districten": null,
+        "Addressen": "Московская область, Подольский район, сельское поселение Стрелковское, 29 км автодороги М-2 \"Крым\", Щербинский проезд",
+        "LongitudeWGS84en": "37.618377",
+        "LatitudeWGS84en": "55.506016",
+        "ObjectAreaen": 90,
+        "ObjectStatusen": "closed",
+        "globalid": 1712702,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 232-40-21",
+        "ContactPhoneenglobalid0": 439
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.891167,
+          55.741716
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 73,
+        "Nameen": "Николо-Архангельское (Центральное), Николо-Архангельское (Восточное) кладбище",
+        "OnTerritoryOfMoscowen": "no",
+        "AdmAreaen": null,
+        "Districten": null,
+        "Addressen": "Московская область, Балашихинский район, с. Никольско-Архангельское ",
+        "LongitudeWGS84en": "37.891167",
+        "LatitudeWGS84en": "55.741716",
+        "ObjectAreaen": 140.6,
+        "ObjectStatusen": "closed",
+        "globalid": 1712703,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 791-05-39",
+        "ContactPhoneenglobalid0": 496
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.43054,
+          55.60526
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 76,
+        "Nameen": "Николо-Хованское-1 кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Novomoskovskij administrativny'j okrug",
+        "Districten": "poselenie Sosenskoe",
+        "Addressen": "поселение Сосенское, в районе Николо-Хованского кладбища",
+        "LongitudeWGS84en": "37.43054",
+        "LatitudeWGS84en": "55.60526",
+        "GraveTypeen": "grave into the land",
+        "ObjectAreaen": 5.3,
+        "ObjectStatusen": "closed",
+        "globalid": 1712705,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 448-67-88",
+        "ContactPhoneenglobalid0": 498
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.24048,
+          55.26129
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 77,
+        "Nameen": "Новогромово кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Troiczkij administrativny'j okrug",
+        "Districten": "poselenie Voronovskoe",
+        "Addressen": "дер. Новогромово",
+        "LongitudeWGS84en": "37.24048",
+        "LatitudeWGS84en": "55.26129",
+        "GraveTypeen": "grave into the land",
+        "ObjectAreaen": 0.3,
+        "ObjectStatusen": "closed",
+        "globalid": 1712706,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 232-40-21",
+        "ContactPhoneenglobalid0": 501
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.347456,
+          55.871545
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 69,
+        "Nameen": "Митинское кладбище",
+        "OnTerritoryOfMoscowen": "no",
+        "AdmAreaen": null,
+        "Districten": null,
+        "Addressen": "Московская область, Красногорский муниципальный район, сельское поселение Отрадненское, Пятницкое шоссе, 6-й км",
+        "LongitudeWGS84en": "37.347456",
+        "LatitudeWGS84en": "55.871545",
+        "ObjectAreaen": 106.8,
+        "ObjectStatusen": "closed",
+        "globalid": 1712707,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(499) 650-75-10",
+        "ContactPhoneenglobalid0": 494
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.599792,
+          55.714219
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 38,
+        "Nameen": "Донское кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Yuzhny'j administrativny'j okrug",
+        "Districten": "Donskoj rajon",
+        "Addressen": "Донская площадь, владение 1",
+        "LongitudeWGS84en": "37.599792",
+        "LatitudeWGS84en": "55.714219",
+        "ObjectAreaen": 7,
+        "ObjectStatusen": "closed",
+        "globalid": 4089829,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 954-12-89",
+        "ContactPhoneenglobalid0": 229
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.259296,
+          55.984601
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 41,
+        "Nameen": "Зеленоградское (Центральное) кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Zelenogradskij administrativny'j okrug",
+        "Districten": "rajon Savyolki",
+        "Addressen": "Зеленоград, Проезд N 4921, дом 3, строение 1, 2",
+        "LongitudeWGS84en": "37.259296",
+        "LatitudeWGS84en": "55.984601",
+        "ObjectAreaen": 23.7,
+        "ObjectStatusen": "closed",
+        "globalid": 4856088,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(499) 735-85-33",
+        "ContactPhoneenglobalid0": 477
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.353087,
+          55.322532
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 52,
+        "Nameen": "Кленово кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Troiczkij administrativny'j okrug",
+        "Districten": "poselenie Klenovskoe",
+        "Addressen": "деревня Кленово",
+        "LongitudeWGS84en": "37.353087",
+        "LatitudeWGS84en": "55.322532",
+        "GraveTypeen": "grave into the land",
+        "ObjectAreaen": 2.67,
+        "ObjectStatusen": "closed",
+        "globalid": 4856089,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 232-40-21",
+        "ContactPhoneenglobalid0": 358
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.599673,
+          55.793194
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 70,
+        "Nameen": "Миусское кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Severo-Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Mar`ina Roshha",
+        "Addressen": "улица Сущевский вал, вл. 19",
+        "LongitudeWGS84en": "37.599673",
+        "LatitudeWGS84en": "55.793194",
+        "ObjectAreaen": 5,
+        "ObjectStatusen": "closed",
+        "globalid": 4856090,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 689-43-13",
+        "ContactPhoneenglobalid0": 375
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.555675,
+          55.723942
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 78,
+        "Nameen": "Новодевичье кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Czentral`ny'j administrativny'j okrug",
+        "Districten": "rajon Xamovniki",
+        "Addressen": "Лужнецкий проезд, вл. 2",
+        "LongitudeWGS84en": "37.555675",
+        "LatitudeWGS84en": "55.723942",
+        "ObjectAreaen": 6,
+        "ObjectStatusen": "closed",
+        "globalid": 4856091,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(499) 246-66-14",
+        "ContactPhoneenglobalid0": 384
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.696141,
+          55.607734
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 80,
+        "Nameen": "Ореховское кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Yuzhny'j administrativny'j okrug",
+        "Districten": "rajon Orexovo-Borisovo Severnoe",
+        "Addressen": "Шипиловский проезд, вл. 20",
+        "LongitudeWGS84en": "37.696141",
+        "LatitudeWGS84en": "55.607734",
+        "ObjectAreaen": 2.3,
+        "ObjectStatusen": "closed",
+        "globalid": 4856093,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 325-28-45",
+        "ContactPhoneenglobalid0": 503
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.378404,
+          55.631754
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 81,
+        "Nameen": "Орловское кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Novo-Peredelkino",
+        "Addressen": "Староорловская улица",
+        "LongitudeWGS84en": "37.378404",
+        "LatitudeWGS84en": "55.631754",
+        "ObjectAreaen": 0.7,
+        "ObjectStatusen": "closed",
+        "globalid": 4856094,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 437-47-00",
+        "ContactPhoneenglobalid0": 504
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.613603,
+          55.816843
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 82,
+        "Nameen": "Останкинское кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Severo-Vostochny'j administrativny'j okrug",
+        "Districten": "Ostankinskij rajon",
+        "Addressen": "Прудовой проезд, вл. 11",
+        "LongitudeWGS84en": "37.613603",
+        "LatitudeWGS84en": "55.816843",
+        "ObjectAreaen": 2.3,
+        "ObjectStatusen": "closed",
+        "globalid": 4856095,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 602-21-39",
+        "ContactPhoneenglobalid0": 505
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.497909,
+          55.493052
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 83,
+        "Nameen": "Остафьево кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Novomoskovskij administrativny'j okrug",
+        "Districten": "poselenie Ryazanovskoe",
+        "Addressen": "вблизи с. Остафьево",
+        "LongitudeWGS84en": "37.497909",
+        "LatitudeWGS84en": "55.493052",
+        "GraveTypeen": "grave into the land",
+        "ObjectAreaen": 7.25,
+        "ObjectStatusen": "closed",
+        "globalid": 4856096,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 232-40-21",
+        "ContactPhoneenglobalid0": 389
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.375477,
+          55.586565
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 85,
+        "Nameen": "Передельцевское кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Novomoskovskij administrativny'j okrug",
+        "Districten": "poselenie Moskovskij",
+        "Addressen": "г. Московский",
+        "LongitudeWGS84en": "37.375477",
+        "LatitudeWGS84en": "55.586565",
+        "GraveTypeen": "grave into the land",
+        "ObjectAreaen": 3,
+        "ObjectStatusen": "closed",
+        "globalid": 4856097,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 448-67-88",
+        "ContactPhoneenglobalid0": 391
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.39571,
+          56.006301
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 86,
+        "Nameen": "Перепечинское кладбище",
+        "OnTerritoryOfMoscowen": "no",
+        "AdmAreaen": null,
+        "Districten": null,
+        "Addressen": "Московская область, Солнечногорский район, с.п. Луневское, д. Перепечино",
+        "LongitudeWGS84en": "37.395710",
+        "LatitudeWGS84en": "56.006301",
+        "ObjectAreaen": 141,
+        "ObjectStatusen": "closed",
+        "globalid": 4856098,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 578-90-26",
+        "ContactPhoneenglobalid0": 507
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.700115,
+          55.892861
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 87,
+        "Nameen": "Перловское кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Severo-Vostochny'j administrativny'j okrug",
+        "Districten": "Losinoostrovskij rajon",
+        "Addressen": "92 километр Московской Кольцевой Автодороги",
+        "LongitudeWGS84en": "37.700115",
+        "LatitudeWGS84en": "55.892861",
+        "GraveTypeen": "grave into the land",
+        "ObjectAreaen": 21.5,
+        "ObjectStatusen": "closed",
+        "globalid": 4856099,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 474-24-19",
+        "ContactPhoneenglobalid0": 508
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.838437,
+          55.742823
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 88,
+        "Nameen": "Перовское кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Veshnyaki",
+        "Addressen": "Кетчерская улица, вл. 20",
+        "LongitudeWGS84en": "37.838437",
+        "LatitudeWGS84en": "55.742823",
+        "ObjectAreaen": 5.9,
+        "ObjectStatusen": "closed",
+        "globalid": 4856100,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 375-29-61",
+        "ContactPhoneenglobalid0": 509
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.386726,
+          55.408183
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 89,
+        "Nameen": "Песье кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Troiczkij administrativny'j okrug",
+        "Districten": "poselenie Shhapovskoe",
+        "Addressen": "деревня Песье",
+        "LongitudeWGS84en": "37.386726",
+        "LatitudeWGS84en": "55.408183",
+        "GraveTypeen": "grave into the land",
+        "ObjectAreaen": 0.48,
+        "ObjectStatusen": "closed",
+        "globalid": 4856101,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 232-40-21",
+        "ContactPhoneenglobalid0": 396
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.634504,
+          55.596495
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 90,
+        "Nameen": "Покровское кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Yuzhny'j administrativny'j okrug",
+        "Districten": "rajon Biryulyovo Zapadnoe",
+        "Addressen": "улица Подольских Курсантов, вл. 24",
+        "LongitudeWGS84en": "37.634504",
+        "LatitudeWGS84en": "55.596495",
+        "ObjectAreaen": 14.5,
+        "ObjectStatusen": "closed",
+        "globalid": 4856102,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 383-43-38",
+        "ContactPhoneenglobalid0": 510
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.23325,
+          55.51691
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 91,
+        "Nameen": "Поповка кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Troiczkij administrativny'j okrug",
+        "Districten": "poselenie Pervomajskoe",
+        "Addressen": "деревня Поповка",
+        "LongitudeWGS84en": "37.23325",
+        "LatitudeWGS84en": "55.51691",
+        "GraveTypeen": "grave into the land",
+        "ObjectAreaen": 0.5,
+        "ObjectStatusen": "closed",
+        "globalid": 4856103,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 952-47-37",
+        "ContactPhoneenglobalid0": 511
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.719868,
+          55.791854
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 92,
+        "Nameen": "Преображенское кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Preobrazhenskoe",
+        "Addressen": "улица Преображенский вал, вл. 17А",
+        "LongitudeWGS84en": "37.719868",
+        "LatitudeWGS84en": "55.791854",
+        "ObjectAreaen": 16.5,
+        "ObjectStatusen": "closed",
+        "globalid": 4856104,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(499) 161-12-01",
+        "ContactPhoneenglobalid0": 512
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.442131,
+          55.579759
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 93,
+        "Nameen": "Прокшинское кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Novomoskovskij administrativny'j okrug",
+        "Districten": "poselenie Sosenskoe",
+        "Addressen": "деревня Прокшино",
+        "LongitudeWGS84en": "37.442131",
+        "LatitudeWGS84en": "55.579759",
+        "GraveTypeen": "grave into the land",
+        "ObjectAreaen": 3.1,
+        "ObjectStatusen": "closed",
+        "globalid": 4856105,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 448-67-88",
+        "ContactPhoneenglobalid0": 400
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.26896,
+          55.48545
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 94,
+        "Nameen": "Пучково кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Troiczkij administrativny'j okrug",
+        "Districten": "poselenie Pervomajskoe",
+        "Addressen": "деревня Пучково",
+        "LongitudeWGS84en": "37.268960",
+        "LatitudeWGS84en": "55.485450",
+        "GraveTypeen": "grave into the land",
+        "ObjectAreaen": 1.8,
+        "ObjectStatusen": "closed",
+        "globalid": 4856106,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 952-47-37",
+        "ContactPhoneenglobalid0": 513
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.298117,
+          55.626045
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 95,
+        "Nameen": "Пыхтинское кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Novomoskovskij administrativny'j okrug",
+        "Districten": "poselenie Vnukovskoe",
+        "Addressen": "деревня Пыхтино",
+        "LongitudeWGS84en": "37.298117",
+        "LatitudeWGS84en": "55.626045",
+        "GraveTypeen": "grave into the land",
+        "ObjectAreaen": 25,
+        "ObjectStatusen": "closed",
+        "globalid": 4856107,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 448-67-88",
+        "ContactPhoneenglobalid0": 402
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.639084,
+          55.799861
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 96,
+        "Nameen": "Пятницкое кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Severo-Vostochny'j administrativny'j okrug",
+        "Districten": "Alekseevskij rajon",
+        "Addressen": "Дроболитейный переулок, дом 3, строение 1",
+        "LongitudeWGS84en": "37.639084",
+        "LatitudeWGS84en": "55.799861",
+        "ObjectAreaen": 14.3,
+        "ObjectStatusen": "closed",
+        "globalid": 4856108,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 687-34-61",
+        "ContactPhoneenglobalid0": 514
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.336686,
+          55.429367
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 97,
+        "Nameen": "Раево кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Troiczkij administrativny'j okrug",
+        "Districten": "poselenie Krasnopaxorskoe",
+        "Addressen": "деревня Раево, строение 1",
+        "LongitudeWGS84en": "37.336686",
+        "LatitudeWGS84en": "55.429367",
+        "GraveTypeen": "grave into the land",
+        "ObjectAreaen": 0.7,
+        "ObjectStatusen": "closed",
+        "globalid": 4856109,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 232-40-21",
+        "ContactPhoneenglobalid0": 515
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.658344,
+          55.872227
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 98,
+        "Nameen": "Раевское кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Severo-Vostochny'j administrativny'j okrug",
+        "Districten": "Babushkinskij rajon",
+        "Addressen": "Олонецкий проезд, дом 4, корпус 2",
+        "LongitudeWGS84en": "37.658344",
+        "LatitudeWGS84en": "55.872227",
+        "ObjectAreaen": 2.9,
+        "ObjectStatusen": "closed",
+        "globalid": 4856110,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(499) 188-42-46",
+        "ContactPhoneenglobalid0": 516
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.392869,
+          55.537818
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 99,
+        "Nameen": "Ракитки кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Novomoskovskij administrativny'j okrug",
+        "Districten": "poselenie Desenovskoe",
+        "Addressen": "в районе д. Десна",
+        "LongitudeWGS84en": "37.392869",
+        "LatitudeWGS84en": "55.537818",
+        "GraveTypeen": "grave into the land",
+        "ObjectAreaen": 33.3,
+        "ObjectStatusen": "closed",
+        "globalid": 4856111,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 448-67-88",
+        "ContactPhoneenglobalid0": 517
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.70158,
+          55.740811
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 100,
+        "Nameen": "Рогожское кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Yugo-Vostochny'j administrativny'j okrug",
+        "Districten": "Nizhegorodskij rajon",
+        "Addressen": "улица Войтовича, вл. 31А",
+        "LongitudeWGS84en": "37.701580",
+        "LatitudeWGS84en": "55.740811",
+        "ObjectAreaen": 9.6,
+        "ObjectStatusen": "closed",
+        "globalid": 4856112,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 361-49-00",
+        "ContactPhoneenglobalid0": 518
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.063805,
+          55.195361
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 101,
+        "Nameen": "Рождественно кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Troiczkij administrativny'j okrug",
+        "Districten": "poselenie Rogovskoe",
+        "Addressen": "деревня Рождественно",
+        "LongitudeWGS84en": "37.063805",
+        "LatitudeWGS84en": "55.195361",
+        "GraveTypeen": "grave into the land",
+        "ObjectAreaen": 4.9,
+        "ObjectStatusen": "closed",
+        "globalid": 4856113,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 232-40-21",
+        "ContactPhoneenglobalid0": 519
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.43377,
+          55.60625
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 102,
+        "Nameen": "Николо-Хованское кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Novomoskovskij administrativny'j okrug",
+        "Districten": "poselenie Sosenskoe",
+        "Addressen": "поселение Сосенское, в районе Николо-Хованского кладбища, уч. № 27",
+        "LongitudeWGS84en": "37.43377",
+        "LatitudeWGS84en": "55.60625",
+        "GraveTypeen": "grave into the land",
+        "ObjectAreaen": 5.7,
+        "ObjectStatusen": "closed",
+        "globalid": 4856114,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 448-67-88",
+        "ContactPhoneenglobalid0": 497
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          36.962813,
+          55.426793
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 104,
+        "Nameen": "Руднево кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Troiczkij administrativny'j okrug",
+        "Districten": "poselenie Novofedorovskoe",
+        "Addressen": "деревня Руднево",
+        "LongitudeWGS84en": "36.962813",
+        "LatitudeWGS84en": "55.426793",
+        "GraveTypeen": "grave into the land",
+        "ObjectAreaen": 2.5,
+        "ObjectStatusen": "closed",
+        "globalid": 4856116,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 952-47-37",
+        "ContactPhoneenglobalid0": 522
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.436687,
+          55.620479
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 105,
+        "Nameen": "Саларьевское кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Novomoskovskij administrativny'j okrug",
+        "Districten": "poselenie Moskovskij",
+        "Addressen": "деревня Саларьево, дом 9",
+        "LongitudeWGS84en": "37.436687",
+        "LatitudeWGS84en": "55.620479",
+        "GraveTypeen": "grave into the land",
+        "ObjectAreaen": 1.6,
+        "ObjectStatusen": "closed",
+        "globalid": 4856117,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 448-67-88",
+        "ContactPhoneenglobalid0": 523
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.400979,
+          55.323705
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 106,
+        "Nameen": "Сальково кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Troiczkij administrativny'j okrug",
+        "Districten": "poselenie Klenovskoe",
+        "Addressen": "деревня Сальково",
+        "LongitudeWGS84en": "37.400979",
+        "LatitudeWGS84en": "55.323705",
+        "GraveTypeen": "grave into the land",
+        "ObjectAreaen": 0.6,
+        "ObjectStatusen": "closed",
+        "globalid": 4856118,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 232-40-21",
+        "ContactPhoneenglobalid0": 524
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.355027,
+          55.376404
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 107,
+        "Nameen": "Сатино-Русское кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Troiczkij administrativny'j okrug",
+        "Districten": "poselenie Shhapovskoe",
+        "Addressen": "деревня Сатино-Русское",
+        "LongitudeWGS84en": "37.355027",
+        "LatitudeWGS84en": "55.376404",
+        "GraveTypeen": "grave into the land",
+        "ObjectAreaen": 1.5,
+        "ObjectStatusen": "closed",
+        "globalid": 4856119,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 232-40-21",
+        "ContactPhoneenglobalid0": 414
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.072323,
+          55.321238
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 108,
+        "Nameen": "Свитино кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Troiczkij administrativny'j okrug",
+        "Districten": "poselenie Voronovskoe",
+        "Addressen": "село Свитино",
+        "LongitudeWGS84en": "37.072323",
+        "LatitudeWGS84en": "55.321238",
+        "GraveTypeen": "grave into the land",
+        "ObjectAreaen": 1.8,
+        "ObjectStatusen": "closed",
+        "globalid": 4856120,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 232-40-21",
+        "ContactPhoneenglobalid0": 525
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.28209,
+          55.564055
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 109,
+        "Nameen": "Середневское кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Novomoskovskij administrativny'j okrug",
+        "Districten": "poselenie Filimonkovskoe",
+        "Addressen": "деревня Середнево",
+        "LongitudeWGS84en": "37.282090",
+        "LatitudeWGS84en": "55.564055",
+        "GraveTypeen": "grave into the land",
+        "ObjectAreaen": 0.5,
+        "ObjectStatusen": "closed",
+        "globalid": 4856121,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 448-67-88",
+        "ContactPhoneenglobalid0": 526
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.453613,
+          55.559772
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 110,
+        "Nameen": "Сосенское кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Novomoskovskij administrativny'j okrug",
+        "Districten": "poselenie Sosenskoe",
+        "Addressen": "деревня Сосенки",
+        "LongitudeWGS84en": "37.453613",
+        "LatitudeWGS84en": "55.559772",
+        "GraveTypeen": "grave into the land",
+        "ObjectAreaen": 4.5,
+        "ObjectStatusen": "closed",
+        "globalid": 4856122,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 448-67-88",
+        "ContactPhoneenglobalid0": 417
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.088007,
+          55.231031
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 111,
+        "Nameen": "Спас-Купля кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Troiczkij administrativny'j okrug",
+        "Districten": "poselenie Rogovskoe",
+        "Addressen": "деревня Спас-Купля",
+        "LongitudeWGS84en": "37.088007",
+        "LatitudeWGS84en": "55.231031",
+        "GraveTypeen": "grave into the land",
+        "ObjectAreaen": 0.6,
+        "ObjectStatusen": "closed",
+        "globalid": 4856123,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 232-40-21",
+        "ContactPhoneenglobalid0": 527
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.365827,
+          55.524365
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 112,
+        "Nameen": "Станиславское кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Novomoskovskij administrativny'j okrug",
+        "Districten": "poselenie Desenovskoe",
+        "Addressen": "деревня Станиславль",
+        "LongitudeWGS84en": "37.365827",
+        "LatitudeWGS84en": "55.524365",
+        "GraveTypeen": "grave into the land",
+        "ObjectAreaen": 1.1,
+        "ObjectStatusen": "closed",
+        "globalid": 4856124,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 448-67-88",
+        "ContactPhoneenglobalid0": 528
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.55791,
+          55.926092
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 113,
+        "Nameen": "Старо-Марковское кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Severo-Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Severny'j",
+        "Addressen": "Дмитровское шоссе, владение 124А",
+        "LongitudeWGS84en": "37.557910",
+        "LatitudeWGS84en": "55.926092",
+        "ObjectAreaen": 9.7,
+        "ObjectStatusen": "closed",
+        "globalid": 4856125,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(499) 188-42-46",
+        "ContactPhoneenglobalid0": 529
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.624028,
+          55.613829
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 114,
+        "Nameen": "Старо-Покровское кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Yuzhny'j administrativny'j okrug",
+        "Districten": "rajon Chertanovo Czentral`noe",
+        "Addressen": "1-й Дорожный проезд, вл. 10",
+        "LongitudeWGS84en": "37.624028",
+        "LatitudeWGS84en": "55.613829",
+        "ObjectAreaen": 0.9,
+        "ObjectStatusen": "closed",
+        "globalid": 4856126,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 383-43-38",
+        "ContactPhoneenglobalid0": 530
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.280679,
+          55.355849
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 115,
+        "Nameen": "Товарищево-1 кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Troiczkij administrativny'j okrug",
+        "Districten": "poselenie Klenovskoe",
+        "Addressen": "дер. Товарищево",
+        "LongitudeWGS84en": "37.280679",
+        "LatitudeWGS84en": "55.355849",
+        "GraveTypeen": "grave into the land",
+        "ObjectAreaen": 0.5,
+        "ObjectStatusen": "closed",
+        "globalid": 4856127,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 232-40-21",
+        "ContactPhoneenglobalid0": 531
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.408646,
+          55.700187
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 116,
+        "Nameen": "Троекуровское кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Ochakovo-Matveevskoe",
+        "Addressen": "Рябиновая улица, вл. 24",
+        "LongitudeWGS84en": "37.408646",
+        "LatitudeWGS84en": "55.700187",
+        "ObjectAreaen": 29.4,
+        "ObjectStatusen": "closed",
+        "globalid": 4856128,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 448-87-87",
+        "ContactPhoneenglobalid0": 532
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.398858,
+          55.791424
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 117,
+        "Nameen": "Троице-Лыковское кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Severo-Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Strogino",
+        "Addressen": "улица Твардовского, вл. 12, корпус 3",
+        "LongitudeWGS84en": "37.398858",
+        "LatitudeWGS84en": "55.791424",
+        "GraveTypeen": "grave into the land",
+        "ObjectAreaen": 1.3,
+        "ObjectStatusen": "closed",
+        "globalid": 4856129,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 757-18-55",
+        "ContactPhoneenglobalid0": 533
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.34873,
+          55.559444
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 118,
+        "Nameen": "Филимонковское кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Novomoskovskij administrativny'j okrug",
+        "Districten": "poselenie Filimonkovskoe",
+        "Addressen": "поселок Филимонки",
+        "LongitudeWGS84en": "37.348730",
+        "LatitudeWGS84en": "55.559444",
+        "GraveTypeen": "grave into the land",
+        "ObjectAreaen": 0.5,
+        "ObjectStatusen": "closed",
+        "globalid": 4856130,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 448-67-88",
+        "ContactPhoneenglobalid0": 535
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.249312,
+          55.522719
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 119,
+        "Nameen": "Хатминки кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Troiczkij administrativny'j okrug",
+        "Districten": "poselenie Pervomajskoe",
+        "Addressen": "деревня Хатминки",
+        "LongitudeWGS84en": "37.249312",
+        "LatitudeWGS84en": "55.522719",
+        "GraveTypeen": "grave into the land",
+        "ObjectAreaen": 0.4,
+        "ObjectStatusen": "closed",
+        "globalid": 4856131,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 952-47-37",
+        "ContactPhoneenglobalid0": 536
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.385921,
+          55.917787
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 120,
+        "Nameen": "Химкинское кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Severny'j administrativny'j okrug",
+        "Districten": "Molzhaninovskij rajon",
+        "Addressen": "Новосходненское шоссе, вл. 1",
+        "LongitudeWGS84en": "37.385921",
+        "LatitudeWGS84en": "55.917787",
+        "ObjectAreaen": 66.9,
+        "ObjectStatusen": "closed",
+        "globalid": 4856132,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 575-81-88",
+        "ContactPhoneenglobalid0": 537
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.446203,
+          55.607057
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 121,
+        "Nameen": "Хованское (Центральное) кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Novomoskovskij administrativny'j okrug",
+        "Districten": "poselenie \"Mosrentgen\"",
+        "Addressen": "поселение \"Мосрентген\", 21-й км Киевского ш.",
+        "LongitudeWGS84en": "37.446203",
+        "LatitudeWGS84en": "55.607057",
+        "ObjectAreaen": 87,
+        "ObjectStatusen": "opened",
+        "globalid": 4856133,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 339-05-60",
+        "ContactPhoneenglobalid0": 433
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.450377,
+          55.615492
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 122,
+        "Nameen": "Хованское (Северное) кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Novomoskovskij administrativny'j okrug",
+        "Districten": "poselenie \"Mosrentgen\"",
+        "Addressen": "поселение \"Мосрентген\", 21-й км Киевского ш.",
+        "LongitudeWGS84en": "37.450377",
+        "LatitudeWGS84en": "55.615492",
+        "ObjectAreaen": 63.4,
+        "ObjectStatusen": "closed",
+        "globalid": 4856134,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 339-05-60",
+        "ContactPhoneenglobalid0": 432
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.426537,
+          55.604223
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 123,
+        "Nameen": "Хованское (Западное) кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Novomoskovskij administrativny'j okrug",
+        "Districten": "poselenie \"Mosrentgen\"",
+        "Addressen": "поселение Сосенское, Хованское Западное кладбище",
+        "LongitudeWGS84en": "37.426537",
+        "LatitudeWGS84en": "55.604223",
+        "ObjectAreaen": 55.1,
+        "ObjectStatusen": "closed",
+        "globalid": 4856135,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 339-05-60",
+        "ContactPhoneenglobalid0": 538
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.524348,
+          55.537038
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 126,
+        "Nameen": "Черневское кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Yugo-Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Severnoe Butovo",
+        "Addressen": "Южное Бутово, по улице Южнобутовской",
+        "LongitudeWGS84en": "37.524348",
+        "LatitudeWGS84en": "55.537038",
+        "ObjectAreaen": 2.5,
+        "ObjectStatusen": "closed",
+        "globalid": 4856136,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(916) 929-89-74",
+        "ContactPhoneenglobalid0": 541
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.24323,
+          55.39137
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 127,
+        "Nameen": "Чириково кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Troiczkij administrativny'j okrug",
+        "Districten": "poselenie Krasnopaxorskoe",
+        "Addressen": "деревня Чириково",
+        "LongitudeWGS84en": "37.24323",
+        "LatitudeWGS84en": "55.39137",
+        "GraveTypeen": "grave into the land",
+        "ObjectAreaen": 0.2,
+        "ObjectStatusen": "closed",
+        "globalid": 4856137,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 232-40-21",
+        "ContactPhoneenglobalid0": 542
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.414097,
+          55.412987
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 128,
+        "Nameen": "Щапово кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Troiczkij administrativny'j okrug",
+        "Districten": "poselenie Shhapovskoe",
+        "Addressen": "поселок Щапово",
+        "LongitudeWGS84en": "37.414097",
+        "LatitudeWGS84en": "55.412987",
+        "GraveTypeen": "grave into the land",
+        "ObjectAreaen": 2.5,
+        "ObjectStatusen": "closed",
+        "globalid": 4856138,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 232-40-21",
+        "ContactPhoneenglobalid0": 543
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.20989,
+          55.322116
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 130,
+        "Nameen": "Юдановка кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Troiczkij administrativny'j okrug",
+        "Districten": "poselenie Voronovskoe",
+        "Addressen": "деревня Юдановка",
+        "LongitudeWGS84en": "37.209890",
+        "LatitudeWGS84en": "55.322116",
+        "GraveTypeen": "grave into the land",
+        "ObjectAreaen": 0.7,
+        "ObjectStatusen": "closed",
+        "globalid": 4856139,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 232-40-21",
+        "ContactPhoneenglobalid0": 544
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.551936,
+          55.601196
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 131,
+        "Nameen": "Ясеневское кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Yugo-Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Yasenevo",
+        "Addressen": "Новоясеневский проспект, вл. 42",
+        "LongitudeWGS84en": "37.551936",
+        "LatitudeWGS84en": "55.601196",
+        "ObjectAreaen": 1.9,
+        "ObjectStatusen": "closed",
+        "globalid": 4856140,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 921-75-37",
+        "ContactPhoneenglobalid0": 546
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.395552,
+          55.479402
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 133,
+        "Nameen": "Яковлевское кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Novomoskovskij administrativny'j okrug",
+        "Districten": "poselenie Desenovskoe",
+        "Addressen": "деревня Яковлево",
+        "LongitudeWGS84en": "37.395552",
+        "LatitudeWGS84en": "55.479402",
+        "GraveTypeen": "grave into the land",
+        "ObjectAreaen": 0.08,
+        "ObjectStatusen": "closed",
+        "globalid": 4856142,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 448-67-88",
+        "ContactPhoneenglobalid0": 441
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.344926,
+          55.871608
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 135,
+        "Nameen": "Митинский крематорий",
+        "OnTerritoryOfMoscowen": "no",
+        "AdmAreaen": null,
+        "Districten": null,
+        "Addressen": "Московская область, Красногорский район, Пятницкое шоссе, 6-й км",
+        "LongitudeWGS84en": "37.344926",
+        "LatitudeWGS84en": "55.871608",
+        "GraveTypeen": null,
+        "ObjectAreaen": null,
+        "ObjectStatusen": null,
+        "globalid": 4856144,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 561-53-41",
+        "ContactPhoneenglobalid0": 373
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.454363,
+          55.608337
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 136,
+        "Nameen": "Хованский крематорий",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Novomoskovskij administrativny'j okrug",
+        "Districten": "poselenie \"Mosrentgen\"",
+        "Addressen": "кладбище Хованское, стр.1",
+        "LongitudeWGS84en": "37.454363",
+        "LatitudeWGS84en": "55.608337",
+        "GraveTypeen": null,
+        "ObjectAreaen": null,
+        "ObjectStatusen": null,
+        "globalid": 4856145,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 339-54-00",
+        "ContactPhoneenglobalid0": 430
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.893774,
+          55.74174
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 137,
+        "Nameen": "Николо-Архангельский крематорий",
+        "OnTerritoryOfMoscowen": "no",
+        "AdmAreaen": null,
+        "Districten": null,
+        "Addressen": "Московская область, Балашихинский район, г. Балашиха, мкр-н Салтыковка, ул. Окольная владение 4",
+        "LongitudeWGS84en": "37.893774",
+        "LatitudeWGS84en": "55.741740",
+        "GraveTypeen": null,
+        "ObjectAreaen": null,
+        "ObjectStatusen": null,
+        "globalid": 4856146,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 702-05-52",
+        "ContactPhoneenglobalid0": 376
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.734113,
+          55.800158
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 140,
+        "Nameen": "Черкизовское кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Preobrazhenskoe",
+        "Addressen": "Большая Черкизовская ул., вл. 15",
+        "LongitudeWGS84en": "37.734113",
+        "LatitudeWGS84en": "55.800158",
+        "GraveTypeen": "grave into the land",
+        "ObjectAreaen": 0.4,
+        "ObjectStatusen": "closed",
+        "globalid": 4856147,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 701-60-80",
+        "ContactPhoneenglobalid0": 540
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.368426,
+          55.860836
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 8886,
+        "Nameen": "Рождественское кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Severo-Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Mitino",
+        "Addressen": "1-я Муравская улица. вл. 39",
+        "LongitudeWGS84en": "37.368426",
+        "LatitudeWGS84en": "55.860836",
+        "GraveTypeen": "grave into the land",
+        "ObjectAreaen": 1.1,
+        "ObjectStatusen": "closed",
+        "globalid": 13505668,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(903) 132-13-01",
+        "ContactPhoneenglobalid0": 520
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.222548,
+          55.373955
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 8884,
+        "Nameen": "Никольское (п.Вороновское) кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Troiczkij administrativny'j okrug",
+        "Districten": "poselenie Voronovskoe",
+        "Addressen": "село Никольское",
+        "LongitudeWGS84en": "37.222548",
+        "LatitudeWGS84en": "55.373955",
+        "GraveTypeen": "grave into the land",
+        "ObjectAreaen": 0.6,
+        "ObjectStatusen": "closed",
+        "globalid": 13508202,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 232-40-21",
+        "ContactPhoneenglobalid0": 499
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.474081,
+          55.544784
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 8883,
+        "Nameen": "Ивановское (п.Сосенское) кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Novomoskovskij administrativny'j okrug",
+        "Districten": "poselenie Sosenskoe",
+        "Addressen": "дер. Ямонтово",
+        "LongitudeWGS84en": "37.474081",
+        "LatitudeWGS84en": "55.544784",
+        "GraveTypeen": "grave into the land",
+        "ObjectAreaen": 7.2,
+        "ObjectStatusen": "closed",
+        "globalid": 13508905,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 448-67-88",
+        "ContactPhoneenglobalid0": 350
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.554247,
+          55.766795
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 8882,
+        "Nameen": "Ваганьковское (Армянский участок) кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Czentral`ny'j administrativny'j okrug",
+        "Districten": "Presnenskij rajon",
+        "Addressen": "ул. Сергея Макеева, вл. 10",
+        "LongitudeWGS84en": "37.554247",
+        "LatitudeWGS84en": "55.766795",
+        "ObjectAreaen": 2.1,
+        "ObjectStatusen": "closed",
+        "globalid": 13521171,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 253-80-17",
+        "ContactPhoneenglobalid0": 297
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.408808,
+          55.699575
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 8888,
+        "Nameen": "Троекуровское трупохранилище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Ochakovo-Matveevskoe",
+        "Addressen": "Рябиновая ул., д. 24 стр.1",
+        "LongitudeWGS84en": "37.408808",
+        "LatitudeWGS84en": "55.699575",
+        "GraveTypeen": null,
+        "ObjectAreaen": null,
+        "ObjectStatusen": null,
+        "globalid": 13521194,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 447-56-15",
+        "ContactPhoneenglobalid0": 424
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.343042,
+          55.94745
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 8892,
+        "Nameen": "Черкизовское (северное) кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Severny'j administrativny'j okrug",
+        "Districten": "Molzhaninovskij rajon",
+        "Addressen": "Проектируемый проезд № 5363, Черкизовское кладбище, дом 1 ",
+        "LongitudeWGS84en": "37.343042",
+        "LatitudeWGS84en": "55.947450",
+        "GraveTypeen": "grave into the land",
+        "ObjectAreaen": 3.3,
+        "ObjectStatusen": "closed",
+        "globalid": 13521380,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 578-90-26",
+        "ContactPhoneenglobalid0": 644
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.232369,
+          55.562428
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 8894,
+        "Nameen": "Большое Покровское кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Novomoskovskij administrativny'j okrug",
+        "Districten": "poselenie Marushkinskoe",
+        "Addressen": "деревня Большое Покровское",
+        "LongitudeWGS84en": "37.232369",
+        "LatitudeWGS84en": "55.562428",
+        "GraveTypeen": "grave into the land",
+        "ObjectAreaen": 1.1,
+        "ObjectStatusen": "closed",
+        "globalid": 13523189,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 952-47-37",
+        "ContactPhoneenglobalid0": 453
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.345936,
+          55.656501
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 8893,
+        "Nameen": "Переделкинское кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Novomoskovskij administrativny'j okrug",
+        "Districten": "poselenie Vnukovskoe",
+        "Addressen": "пос. ДСК \"Мичуринец\"",
+        "LongitudeWGS84en": "37.345936",
+        "LatitudeWGS84en": "55.656501",
+        "GraveTypeen": "grave into the land",
+        "ObjectAreaen": 4.5,
+        "ObjectStatusen": "closed",
+        "globalid": 13523367,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 448-67-88",
+        "ContactPhoneenglobalid0": 506
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          36.749647,
+          55.671385
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 8895,
+        "Nameen": "Ястребковское кладбище",
+        "OnTerritoryOfMoscowen": "no",
+        "AdmAreaen": null,
+        "Districten": null,
+        "Addressen": "Московская обл., Одинцовский р-н",
+        "LongitudeWGS84en": "36.749647",
+        "LatitudeWGS84en": "55.671385",
+        "GraveTypeen": null,
+        "ObjectAreaen": 29.81,
+        "ObjectStatusen": "opened",
+        "globalid": 13780516,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(499) 157-43-83",
+        "ContactPhoneenglobalid0": 443
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.307978,
+          55.447268
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 8896,
+        "Nameen": "Троицкое городское кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Troiczkij administrativny'j okrug",
+        "Districten": "poselenie Krasnopaxorskoe",
+        "Addressen": "п. Краснопахорское, вблизи д. Подосинки",
+        "LongitudeWGS84en": "37.307978",
+        "LatitudeWGS84en": "55.447268",
+        "GraveTypeen": "grave into the land",
+        "ObjectAreaen": 7.3,
+        "ObjectStatusen": "closed",
+        "globalid": 13780517,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(985) 315-88-51",
+        "ContactPhoneenglobalid0": 308
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.534505,
+          55.493618
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 8897,
+        "Nameen": "Барыши кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Troiczkij administrativny'j okrug",
+        "Districten": "poselenie Shherbinka",
+        "Addressen": "г. Щербинка, ул. Весенняя",
+        "LongitudeWGS84en": "37.534505",
+        "LatitudeWGS84en": "55.493618",
+        "ObjectAreaen": 0.67,
+        "ObjectStatusen": "closed",
+        "globalid": 170685837,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(915) 215-92-84",
+        "ContactPhoneenglobalid0": 649
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.2386,
+          55.44002
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 8898,
+        "Nameen": "Былово-1 кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Troiczkij administrativny'j okrug",
+        "Districten": "poselenie Krasnopaxorskoe",
+        "Addressen": "д. Былово",
+        "LongitudeWGS84en": "37.23860",
+        "LatitudeWGS84en": "55.44002",
+        "ObjectAreaen": 0.16,
+        "ObjectStatusen": "closed",
+        "globalid": 170685838,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(985) 319-47-33",
+        "ContactPhoneenglobalid0": 650
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.546819,
+          55.940732
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 8899,
+        "Nameen": "Виноградово кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Severo-Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Severny'j",
+        "Addressen": "Дмитровское шоссе, владение 162",
+        "LongitudeWGS84en": "37.546819",
+        "LatitudeWGS84en": "55.940732",
+        "ObjectAreaen": 1.3,
+        "ObjectStatusen": "closed",
+        "globalid": 170685840,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(985) 767-50-14",
+        "ContactPhoneenglobalid0": 652
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.266789,
+          55.401023
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 8900,
+        "Nameen": "Романцево кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Troiczkij administrativny'j okrug",
+        "Districten": "poselenie Krasnopaxorskoe",
+        "Addressen": "д. Романцево",
+        "LongitudeWGS84en": "37.266789",
+        "LatitudeWGS84en": "55.401023",
+        "ObjectAreaen": 0.39,
+        "ObjectStatusen": "closed",
+        "globalid": 170685841,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(985) 319-47-33",
+        "ContactPhoneenglobalid0": 653
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.453375,
+          55.659152
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 8901,
+        "Nameen": "Востряковское (Южное) иудейское кладбище",
+        "OnTerritoryOfMoscowen": "yes",
+        "AdmAreaen": "Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Troparyovo-Nikulino",
+        "Addressen": "Боровское шоссе, проектируемый проезд № 634",
+        "LongitudeWGS84en": "37.453375",
+        "LatitudeWGS84en": "55.659152",
+        "GraveTypeen": "grave into the land",
+        "ObjectAreaen": 5.8,
+        "ObjectStatusen": "opened",
+        "globalid": 281850588,
+        "ContactPhoneenisdeleted0": 0,
+        "ContactPhoneenContactPhoneen0": "(495) 437-47-00",
+        "ContactPhoneenglobalid0": 655
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

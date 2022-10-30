@@ -1,0 +1,4505 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.174777,
+          55.980553
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ 11137",
+        "ActualLocaton": "Крюковская площадь, корпус 834Б (остановка наземного городского пассажирского транспорта «Крюковская площадь (старый город)»)",
+        "AdmArea": "Зеленоградский административный округ",
+        "District": "район Старое Крюково",
+        "Location": "город Москва, город Зеленоград, корпус 834Б",
+        "StreetName": "Крюковская площадь",
+        "ClarificationOfWorkingHours": "два регламентированных перерыва по 30 минут",
+        "UNOM": "77013",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "07:00-20:00",
+        "PointType": "билетный киоск",
+        "PaymentType": "наличная оплата",
+        "globalid": 1035862846
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.174585,
+          55.980617
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ 11138",
+        "ActualLocaton": "Крюковская площадь, корпус 834Б (остановка наземного городского пассажирского транспорта «Крюковская площадь (старый город)»)",
+        "AdmArea": "Зеленоградский административный округ",
+        "District": "район Старое Крюково",
+        "Location": "город Москва, город Зеленоград, корпус 834Б",
+        "StreetName": "Крюковская площадь",
+        "ClarificationOfWorkingHours": "два регламентированных перерыва по 30 минут",
+        "UNOM": "77013",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "07:00-20:00",
+        "PointType": "билетный киоск",
+        "PaymentType": "наличная оплата",
+        "globalid": 1035862848
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.816195,
+          55.750208
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0036",
+        "ActualLocaton": "Свободный проспект, дом 22 (станция метро «Новогиреево»)",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Новогиреево",
+        "Location": "город Москва, Свободный проспект, дом 22",
+        "StreetName": "Свободный проспект",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "22836",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1035862849
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.628625,
+          55.667908
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0037",
+        "ActualLocaton": "Каширское шоссе, дом 4, корпус 1 (остановка наземного городского транспорта «Хлебозаводский проезд»)",
+        "AdmArea": "Южный административный округ",
+        "District": "район Нагатино-Садовники",
+        "Location": "город Москва, Каширское шоссе, дом 4, корпус 1",
+        "StreetName": "Каширское шоссе",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "78184",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1035862854
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.287578,
+          55.611551
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0038",
+        "ActualLocaton": "Центральная улица, дом 13 (остановка наземного городского пассажирского транспорта МФЦ «Внуково»)",
+        "AdmArea": "Западный административный округ",
+        "District": "район Внуково",
+        "Location": "город Москва, посёлок Толстопальцево, Центральная улица, дом 13",
+        "StreetName": "Центральная улица",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "41634",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1035862857
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.663027,
+          55.600389
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0039",
+        "ActualLocaton": "Бирюлёвская улица, дом 3, корпус 1 (остановка наземного городского транспорта «Бирюлёвская улица»)",
+        "AdmArea": "Южный административный округ",
+        "District": "район Бирюлёво Восточное",
+        "Location": "город Москва, Бирюлёвская улица, дом 3, корпус 1",
+        "StreetName": "Бирюлёвская улица",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "2162",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1035862861
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.733849,
+          55.814365
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0054",
+        "ActualLocaton": "Открытое шоссе, дом 5А, (напротив) (станция метро Бульвар «Рокоссовского»)",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Богородское",
+        "Location": "город Москва, Открытое шоссе, дом 5А",
+        "StreetName": "Открытое шоссе",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "2109493",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1035862893
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.60299,
+          55.61055
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0022",
+        "ActualLocaton": "Кировоградская улица, дом 28, корпус 1 (станция метро «Пражская»)",
+        "AdmArea": "Южный административный округ",
+        "District": "район Чертаново Центральное",
+        "Location": "город Москва, Кировоградская улица, дом 28, корпус 1",
+        "StreetName": "Кировоградская улица",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "10122",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1035862894
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.60925,
+          55.672155
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0057",
+        "ActualLocaton": "Электролитный проезд, дом 9, корпус 1 (станция метро «Нагорная»)",
+        "AdmArea": "Южный административный округ",
+        "District": "Нагорный район",
+        "Location": "город Москва, Электролитный проезд, дом 9, корпус 1",
+        "StreetName": "Электролитный проезд",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "3801810",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1035862899
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.211171,
+          55.997507
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ 11049",
+        "ActualLocaton": "Центральный проспект, корпус 433 (остановка наземного городского пассажирского транспорта «Магазин «Океан»»)",
+        "AdmArea": "Зеленоградский административный округ",
+        "District": "район Матушкино",
+        "Location": "город Москва, город Зеленоград, корпус 433",
+        "StreetName": "Центральный проспект",
+        "ClarificationOfWorkingHours": "два регламентированных перерыва по 30 минут",
+        "UNOM": "30986",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "07:00-20:00",
+        "PointType": "билетный киоск",
+        "PaymentType": "наличная оплата",
+        "globalid": 1035862902
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.188602,
+          55.994697
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ 11095",
+        "ActualLocaton": "11-й микрорайон, корпус 1104 (остановка наземного городского пассажирского транспорта «12-й микрорайон»)",
+        "AdmArea": "Зеленоградский административный округ",
+        "District": "район Силино",
+        "Location": "город Москва, город Зеленоград, корпус 1104",
+        "StreetName": "Панфиловский проспект",
+        "ClarificationOfWorkingHours": "два регламентированных перерыва по 30 минут",
+        "UNOM": "3700448",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "07:00-20:00",
+        "PointType": "билетный киоск",
+        "PaymentType": "наличная оплата",
+        "globalid": 1035862904
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.152062,
+          55.984317
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ 10927",
+        "ActualLocaton": "14-й микрорайон, корпус 1446 (остановка наземного городского пассажирского транспорта «Дворец единоборств»)",
+        "AdmArea": "Зеленоградский административный округ",
+        "District": "район Крюково",
+        "Location": "город Москва, город Зеленоград, корпус 1446",
+        "StreetName": "улица Логвиненко",
+        "ClarificationOfWorkingHours": "два регламентированных перерыва по 30 минут",
+        "UNOM": "3700497",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "07:00-20:00",
+        "PointType": "билетный киоск",
+        "PaymentType": "наличная оплата",
+        "globalid": 1035862906
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.172762,
+          55.979388
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ 11172",
+        "ActualLocaton": "Привокзальная площадь (напротив дома 1) (остановка наземного городского пассажирского транспорта «станция Крюково»)",
+        "AdmArea": "Зеленоградский административный округ",
+        "District": "район Крюково",
+        "Location": "город Москва, город Зеленоград, Привокзальная площадь, дом 1",
+        "StreetName": "Привокзальная площадь",
+        "ClarificationOfWorkingHours": "два регламентированных перерыва по 30 минут",
+        "UNOM": "3700906",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "07:00-20:00",
+        "PointType": "билетный киоск",
+        "PaymentType": "наличная оплата",
+        "globalid": 1035862923
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.17259,
+          55.97946
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ 11139",
+        "ActualLocaton": "Привокзальная площадь (напротив дома 1) (остановка наземного городского пассажирского транспорта «станция Крюково»)",
+        "AdmArea": "Зеленоградский административный округ",
+        "District": "район Крюково",
+        "Location": "город Москва, город Зеленоград, Привокзальная площадь, дом 1",
+        "StreetName": "Привокзальная площадь",
+        "ClarificationOfWorkingHours": "два регламентированных перерыва по 30 минут",
+        "UNOM": "3700906",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "07:00-20:00",
+        "PointType": "билетный киоск",
+        "PaymentType": "наличная оплата",
+        "globalid": 1035862924
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.572253,
+          55.686949
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0166",
+        "ActualLocaton": "Профсоюзная улица, дом 4 (станция метро «Академическая», от центра)",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "Академический район",
+        "Location": "город Москва, Профсоюзная улица, дом 4",
+        "StreetName": "Профсоюзная улица",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "2107869",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1035862952
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.351871,
+          55.637873
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ Л 011",
+        "ActualLocaton": "Боровское шоссе, дом 40 (остановка наземного городского пассажирского транспорта станция метро «Новопеределкино», от центра)",
+        "AdmArea": "Западный административный округ",
+        "District": "район Ново-Переделкино",
+        "Location": "город Москва, Боровское шоссе, дом 40",
+        "StreetName": "Боровское шоссе",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "2621",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "безналичная оплата",
+        "globalid": 1035862955
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.611046,
+          55.728614
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0143",
+        "ActualLocaton": "Ленинский проспект, дом 2А (станция метро «Октябрьская», от центра)",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Якиманка",
+        "Location": "город Москва, Ленинский проспект, дом 2А",
+        "StreetName": "Ленинский проспект",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "12848",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1035862962
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.751553,
+          55.820816
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ Л 014",
+        "ActualLocaton": "Открытое шоссе, дом 24, корпус 1 (остановка наземного городского пассажирского транспорта «Тагильская улица», от центра)",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Метрогородок",
+        "Location": "город Москва, Открытое шоссе, дом 24, корпус 1",
+        "StreetName": "Открытое шоссе",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "260046",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "безналичная оплата",
+        "globalid": 1035862963
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.632383,
+          55.753125
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0161",
+        "ActualLocaton": "улица Варварка, дом 15, строение 2 (станция метро «Китай-город», в центр)",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Location": "город Москва, улица Варварка, дом 15, строение 2",
+        "StreetName": "улица Варварка",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "4304698",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1035862974
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6527283534002,
+          55.7661980478695
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0173",
+        "ActualLocaton": "Садовая-Черногрязская улица, дом 14/19, корпус 2 (остановка наземного городского транспорта «институт Глазных болезней»)",
+        "AdmArea": "Центральный административный округ",
+        "District": "Басманный район",
+        "Location": "город Москва, Садовая-Черногрязская улица, дом 14/19, корпус 2",
+        "StreetName": "Садовая-Черногрязская улица",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "2106270",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1035862975
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.665994,
+          55.869313
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0067",
+        "ActualLocaton": "улица Менжинского, дом 21 (станция метро «Бабушкинская»)",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Бабушкинский район",
+        "Location": "город Москва, улица Менжинского, дом 21",
+        "StreetName": "улица Менжинского",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "14184",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1035862986
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.656433,
+          55.754141
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0163",
+        "ActualLocaton": "улица Земляной Вал, дом 42/20 (остановка наземного городского пассажирского транспорта «Сыромятники»)",
+        "AdmArea": "Центральный административный округ",
+        "District": "Таганский район",
+        "Location": "город Москва, улица Земляной Вал, дом 42/20",
+        "StreetName": "улица Земляной Вал",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "29071",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1035862990
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6594,
+          55.887824
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0069",
+        "ActualLocaton": "Широкая улица, дом 9, корпус 1 (станция метро «Медведково»)",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Северное Медведково",
+        "Location": "город Москва, Широкая улица, дом 9, корпус 1",
+        "StreetName": "Широкая улица",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "31420",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1035862993
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.657875,
+          55.75635
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0170",
+        "ActualLocaton": "улица Земляной Вал, дом 33 (остановка наземного городского пассажирского транспорта «Курский вокзал» - пересадка на второй диаметр, внеш/с)",
+        "AdmArea": "Центральный административный округ",
+        "District": "Басманный район",
+        "Location": "город Москва, улица Земляной Вал, дом 33",
+        "StreetName": "улица Земляной Вал",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "4301522",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1035862998
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.58823,
+          55.596448
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0073",
+        "ActualLocaton": "Чертановская улица, дом 65 (остановка наземного городского транспорта «улица Академика Янгеля»)",
+        "AdmArea": "Южный административный округ",
+        "District": "район Чертаново Южное",
+        "Location": "город Москва, Чертановская улица, дом 65",
+        "StreetName": "Чертановская улица",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "28933",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1035862999
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.400066,
+          55.803989
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0071",
+        "ActualLocaton": "Строгинский бульвар, дом 14, корпус 3 (станция метро «Строгино»)",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Строгино",
+        "Location": "город Москва, Строгинский бульвар, дом 14, корпус 3",
+        "StreetName": "Строгинский бульвар",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "24907",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1035863000
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.767271,
+          55.829289
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0097",
+        "ActualLocaton": "Открытое шоссе, дом 31, строение 1 (остановка наземного городского транспорта «Детский санаторий»)",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Метрогородок",
+        "Location": "город Москва, Открытое шоссе, дом 31, строение 1",
+        "StreetName": "Открытое шоссе",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "2132392",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1035863001
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.365332,
+          55.844912
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0077",
+        "ActualLocaton": "Митинская улица, дом 32 (остановка наземного городского транспорта «Митинская улица, дом 32»)",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Митино",
+        "Location": "город Москва, Митинская улица, дом 32",
+        "StreetName": "Митинская улица",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "31738",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1035863008
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.423009,
+          55.719276
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0082",
+        "ActualLocaton": "Можайское шоссе, дом 29 (остановка наземного городского транспорта «улица Гришина»)",
+        "AdmArea": "Западный административный округ",
+        "District": "Можайский район",
+        "Location": "город Москва, Можайское шоссе, дом 29",
+        "StreetName": "Можайское шоссе",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "14907",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1035863018
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.493782,
+          55.692829
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0083",
+        "ActualLocaton": "улица Раменки, дом 6, корпус 1 (остановка наземного городского транспорта «Универсам»)",
+        "AdmArea": "Западный административный округ",
+        "District": "район Раменки",
+        "Location": "город Москва, улица Раменки, дом 6, корпус 1",
+        "StreetName": "улица Раменки",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "21605",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1035863020
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.393685,
+          55.652422
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ Л 003",
+        "ActualLocaton": "улица Богданова, дом 19 (остановка наземного городского пассажирского транспорта «Управа района Солнцево», от центра)",
+        "AdmArea": "Западный административный округ",
+        "District": "район Солнцево",
+        "Location": "город Москва, улица Богданова, дом 19",
+        "StreetName": "улица Богданова",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "2112541",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "безналичная оплата",
+        "globalid": 1035863022
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.52309,
+          55.877885
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0087",
+        "ActualLocaton": "Коровинское шоссе, дом 25/30 (остановка наземного городского транспорта «Ангарская улица»)",
+        "AdmArea": "Северный административный округ",
+        "District": "район Западное Дегунино",
+        "Location": "город Москва, Коровинское шоссе, дом 25/30",
+        "StreetName": "Коровинское шоссе",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "11023",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1035863027
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.784524,
+          55.750514
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0088",
+        "ActualLocaton": "2-я Владимирская улица, дом 38/18 (станция метро «Перово»)",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Перово",
+        "Location": "город Москва, 2-я Владимирская улица, дом 38/18",
+        "StreetName": "2-я Владимирская улица",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "4077",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1035863030
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.865989,
+          55.743379
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0089",
+        "ActualLocaton": "Новокосинская улица, дом 35 (станция метро «Новокосино»)",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Новокосино",
+        "Location": "город Москва, Новокосинская улица, дом 35",
+        "StreetName": "Новокосинская улица",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "2131734",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1035863032
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.475783,
+          55.855692
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0094",
+        "ActualLocaton": "Фестивальная улица, дом 13, корпус 1 (северный вестибюль станции метро «Речной вокзал»)",
+        "AdmArea": "Северный административный округ",
+        "District": "район Левобережный",
+        "Location": "город Москва, Фестивальная улица, дом 13, корпус 1",
+        "StreetName": "Фестивальная улица",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "27256",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1035863044
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.675007,
+          55.644181
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0095",
+        "ActualLocaton": "Каширское шоссе, дом 64, корпус 1 (остановка наземного городского транспорта «Спортивная»)",
+        "AdmArea": "Южный административный округ",
+        "District": "район Москворечье-Сабурово",
+        "Location": "город Москва, Каширское шоссе, дом 64, корпус 1",
+        "StreetName": "Каширское шоссе",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "2123589",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1035863045
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.785888,
+          55.718299
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0104",
+        "ActualLocaton": "Рязанский проспект, дом 32, корпус 3 (остановка наземного городского транспорта «Театр Чихачёва»)",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "Рязанский район",
+        "Location": "город Москва, Рязанский проспект, дом 32, корпус 3",
+        "StreetName": "Рязанский проспект",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "2707266",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1035863048
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.793336,
+          55.717441
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0107",
+        "ActualLocaton": "Рязанский проспект, дом 75, корпус 2 (станция метро «Рязанский проспект»)",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "Рязанский район",
+        "Location": "город Москва, Рязанский проспект, дом 75, корпус 2",
+        "StreetName": "Рязанский проспект",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "2700610",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1035863050
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.556217,
+          55.790329
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0113",
+        "ActualLocaton": "Ленинградский проспект, дом 36, строение 61 (станция метро «Динамо»)",
+        "AdmArea": "Северный административный округ",
+        "District": "район Аэропорт",
+        "Location": "город Москва, Ленинградский проспект, дом 36, строение 61",
+        "StreetName": "Ленинградский проспект",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "3404827",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1035863054
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.636581,
+          55.80777
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0116",
+        "ActualLocaton": "проспект Мира, дом 95, строение 4 (станция метро «Алексеевская»)",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Останкинский район",
+        "Location": "город Москва, проспект Мира, дом 95, строение 4",
+        "StreetName": "проспект Мира",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "2305444",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1035863056
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5925398751139,
+          55.7668217642726
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0099",
+        "ActualLocaton": "Большая Садовая улица, дом 8, строение 1 (остановка наземного городского транспорта «Триумфальная площадь»)",
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "Location": "город Москва, Большая Садовая улица, дом 8, строение 1",
+        "StreetName": "Большая Садовая улица",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "2104811",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1035863057
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.438126,
+          55.721613
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0117",
+        "ActualLocaton": "Можайское шоссе, дом 8 (остановка наземного городского транспорта «улица Багрицкого»)",
+        "AdmArea": "Западный административный округ",
+        "District": "Можайский район",
+        "Location": "город Москва, Можайское шоссе, дом 8",
+        "StreetName": "Староможайское шоссе",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "2119044",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1035863058
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6387554308332,
+          55.7646288954132
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0123",
+        "ActualLocaton": "Чистопрудный бульвар, дом 2 (станция метро «Чистые пруды»)",
+        "AdmArea": "Центральный административный округ",
+        "District": "Басманный район",
+        "Location": "город Москва, Чистопрудный бульвар, дом 2",
+        "StreetName": "Чистопрудный бульвар",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "10071",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1035863067
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.439103,
+          55.850051
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0004",
+        "ActualLocaton": "Сходненская улица, дом 37 (станция метро «Сходненская»)",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Южное Тушино",
+        "Location": "город Москва, Сходненская улица, дом 37",
+        "StreetName": "Сходненская улица",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "25383",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1035863074
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.640126,
+          55.819834
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0112",
+        "ActualLocaton": "проспект Мира, дом 142 (станция метро «ВДНХ»)",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Алексеевский район",
+        "Location": "город Москва, проспект Мира, дом 142",
+        "StreetName": "проспект Мира",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "2302118",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1035863077
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.761378,
+          55.725988
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0103",
+        "ActualLocaton": "Рязанский проспект, дом 45, корпус 1 (остановка наземного городского транспорта «Стахановская улица»)",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "Рязанский район",
+        "Location": "город Москва, Рязанский проспект, дом 45, корпус 1",
+        "StreetName": "Рязанский проспект",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "22373",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1035863080
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.748035,
+          55.787975
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0141",
+        "ActualLocaton": "Измайловское шоссе, дом 69Д (станция метро «Партизанская»)",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Измайлово",
+        "Location": "город Москва, Измайловское шоссе, дом 69Д",
+        "StreetName": "Измайловское шоссе",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "2501524",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1035863083
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.618754,
+          55.730196
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0147",
+        "ActualLocaton": "Житная улица, дом 10 (остановка наземного городского транспорта «Житная улица»)",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Якиманка",
+        "Location": "город Москва, Житная улица, дом 10",
+        "StreetName": "Житная улица",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "7762",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1035863088
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.638298,
+          55.771729
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0157",
+        "ActualLocaton": "Большая Сухаревская площадь, дом 16/18, строение 1 (остановка наземного городского транспорта «Большая Спасская улица»)",
+        "AdmArea": "Центральный административный округ",
+        "District": "Красносельский район",
+        "Location": "город Москва, Большая Сухаревская площадь, дом 16/18, строение 1",
+        "StreetName": "Большая Сухаревская площадь",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "10542",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1035863095
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.590029,
+          55.765172
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0101",
+        "ActualLocaton": "Садовая-Кудринская улица, дом 32, строение 2 (остановка наземного городского транспорта «улица Малая Бронная»)",
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "Location": "город Москва, Садовая-Кудринская улица, дом 32, строение 2",
+        "StreetName": "Садовая-Кудринская улица",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "22509",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1035863096
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.415083,
+          55.741478
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0025",
+        "ActualLocaton": "Ярцевская улица, дом 25 (станция метро «Молодежная», западный выход)",
+        "AdmArea": "Западный административный округ",
+        "District": "район Кунцево",
+        "Location": "город Москва, Ярцевская улица, дом 25",
+        "StreetName": "Ярцевская улица",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "30686",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1035863100
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6133560484669,
+          55.7731507475695
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0167",
+        "ActualLocaton": "Садовая-Самотёчная улица, дом 4А (остановка наземного городского транспорта «Театр кукол имени Образцова»)",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Location": "город Москва, Садовая-Самотёчная улица, дом 4А",
+        "StreetName": "Садовая-Самотёчная улица",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "22510",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1035863101
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.587767,
+          55.76276
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0100",
+        "ActualLocaton": "Садовая-Кудринская улица, дом 22, строение 1 (остановка наземного городского транспорта «улица Спиридоновка»)",
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "Location": "город Москва, Садовая-Кудринская улица, дом 22, строение 1",
+        "StreetName": "Садовая-Кудринская улица",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "3600337",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1035863108
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.584555,
+          55.776065
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0137",
+        "ActualLocaton": "1-я Тверская-Ямская улица, дом 29, строение 1 (остановка наземного городского пассажирского транспорта «Тверская Застава» - пересадка на первый диаметр)",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Location": "город Москва, 1-я Тверская-Ямская улица, дом 29, строение 1",
+        "StreetName": "1-я Тверская-Ямская улица",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "2136486",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1035863112
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.532941,
+          55.700095
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0053",
+        "ActualLocaton": "территория Ленинские горы, дом 1 (остановка наземного городского транспорта «улица Лебедева»)",
+        "AdmArea": "Западный административный округ",
+        "District": "район Раменки",
+        "Location": "город Москва, территория Ленинские Горы, дом 1",
+        "StreetName": "проезд без названия",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "3103322",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1035864816
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.663511,
+          55.868239
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0066",
+        "ActualLocaton": "Енисейская улица, дом 17, корпус 1 (станция метро «Бабушкинская»)",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Бабушкинский район",
+        "Location": "город Москва, Енисейская улица, дом 17, корпус 1",
+        "StreetName": "Енисейская улица",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "7471",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1035865080
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.643469,
+          55.887441
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0070",
+        "ActualLocaton": "Полярная улица, дом 31, строение 1 (остановка наземного городского транспорта «Медведково»)",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Северное Медведково",
+        "Location": "город Москва, Полярная улица, дом 31, строение 1",
+        "StreetName": "Полярная улица",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "2300484",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1035865126
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5891977795223,
+          55.7376970826579
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0136",
+        "ActualLocaton": "Зубовский бульвар, дом 4, строение 1 (остановка наземного городского транспорта «Зубовская площадь»)",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Хамовники",
+        "Location": "город Москва, Зубовский бульвар, дом 4, строение 1",
+        "StreetName": "Зубовский бульвар",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "2120693",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1035865515
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.585802,
+          55.739699
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0149",
+        "ActualLocaton": "Смоленский бульвар, дом 4 (остановка наземного городского транспорта «Смоленский бульвар»)",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Хамовники",
+        "Location": "город Москва, Смоленский бульвар, дом 4",
+        "StreetName": "Смоленский бульвар",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "2101495",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1035865801
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.626626,
+          55.74974
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0139",
+        "ActualLocaton": "улица Варварка, дом 6, сооружение 1 (остановка наземного городского транспорта «Зарядье», от центр)",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Location": "город Москва, улица Варварка, дом 6, сооружение 1",
+        "StreetName": "улица Варварка",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "4308109",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1035865883
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.681197,
+          55.789209
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0006",
+        "ActualLocaton": "Русаковская улица, дом 26 (остановка наземного городского пассажирского транспорта станция метро «Сокольники», от центра)",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Сокольники",
+        "Location": "город Москва, Русаковская улица, дом 26",
+        "StreetName": "Русаковская улица",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "2137055",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1035866174
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.413261,
+          55.981816
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0011",
+        "ActualLocaton": "",
+        "AdmArea": null,
+        "District": null,
+        "Location": "город Химки, Аэропорт «Шереметьево», терминал B",
+        "StreetName": "Шереметьевское шоссе",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "",
+        "OnTerritoryOfMoscow": "нет",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1035866403
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.546995,
+          55.874648
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0028",
+        "ActualLocaton": "Дмитровское шоссе, дом 99, корпус 1 (остановка наземного городского транспорта «Бескудниково»)",
+        "AdmArea": "Северный административный округ",
+        "District": "Бескудниковский район",
+        "Location": "город Москва, Дмитровское шоссе, дом 99, корпус 1",
+        "StreetName": "Дмитровское шоссе",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "6706",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1056386174
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.601875,
+          55.771529
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0179",
+        "ActualLocaton": "Садовая-Триумфальная улица, дом 16, строение 1 (остановка наземного городского транспорта «Воротниковский переулок»)",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Location": "город Москва, Садовая-Триумфальная улица, дом 16, строение 1",
+        "StreetName": "Садовая-Триумфальная улица",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "22539",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1056386177
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.59227824097,
+          55.7358698244004
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0126",
+        "ActualLocaton": "Зубовский бульвар, дом 13, строение 1 (станция метро «Парк культуры)",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Хамовники",
+        "Location": "город Москва, Зубовский бульвар, дом 13, строение 1",
+        "StreetName": "Зубовский бульвар",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "8514",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1061683644
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.602219,
+          55.744774
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0138",
+        "ActualLocaton": "Гоголевский бульвар, дом 2 (станция метро «Кропоткинская», от центра)",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Хамовники",
+        "Location": "город Москва, Гоголевский бульвар, дом 2",
+        "StreetName": "Гоголевский бульвар",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "2120563",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1061683646
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.657248,
+          55.76057
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0165",
+        "ActualLocaton": "улица Земляной Вал, дом 14-16, строение 1 (остановка наземного городского пассажирского транспорта «кинотеатр «Звезда»)",
+        "AdmArea": "Центральный административный округ",
+        "District": "Басманный район",
+        "Location": "город Москва, улица Земляной Вал, дом 14-16, строение 1",
+        "StreetName": "улица Земляной Вал",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "29047",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1061683647
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.438502,
+          55.851397
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0023",
+        "ActualLocaton": "улица Героев Панфиловцев, дом 1А (станция метро «Сходненская»)",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Северное Тушино",
+        "Location": "город Москва, улица Героев Панфиловцев, дом 1А",
+        "StreetName": "улица Героев Панфиловцев",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "3305905",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1061975429
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.749531,
+          55.788737
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0164",
+        "ActualLocaton": "Измайловское шоссе, дом 69Д, строение 2 (станция метро «Партизанская»)",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Измайлово",
+        "Location": "город Москва, Измайловское шоссе, дом 69Д, строение 2",
+        "StreetName": "Измайловское шоссе",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "2503323",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1061975430
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.598097,
+          55.584544
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0098",
+        "ActualLocaton": "Варшавское шоссе, дом 143А (станция метро «Аннино»)",
+        "AdmArea": "Южный административный округ",
+        "District": "район Чертаново Южное",
+        "Location": "город Москва, Варшавское шоссе, дом 143А",
+        "StreetName": "Варшавское шоссе",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "3900711",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1061975433
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.652625,
+          55.74208
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0178",
+        "ActualLocaton": "Нижняя Радищевская улица, дом 12, строение 1 (станция метро «Таганская»)",
+        "AdmArea": "Центральный административный округ",
+        "District": "Таганский район",
+        "Location": "город Москва, Нижняя Радищевская улица, дом 12, строение 1",
+        "StreetName": "Нижняя Радищевская улица",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "2124183",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1068721295
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.657977,
+          55.758908
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0174",
+        "ActualLocaton": "улица Земляной Вал, дом 27, строение 1 (остановка наземного городского пассажирского транспорта станция метро «Курская» - пересадка на второй диаметр, внеш/с)",
+        "AdmArea": "Центральный административный округ",
+        "District": "Басманный район",
+        "Location": "город Москва, улица Земляной Вал, дом 27, строение 1",
+        "StreetName": "улица Земляной Вал",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "29059",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1068964197
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.640231,
+          55.732744
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0129",
+        "ActualLocaton": "улица Зацепский Вал, дом 4, строение 2 (остановка наземного городского пассажирского транспорта «Дом Музыки»)",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Замоскворечье",
+        "Location": "город Москва, улица Зацепский Вал, дом 4, строение 2",
+        "StreetName": "улица Зацепский Вал",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "2101791",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1078575553
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.636974,
+          55.731275
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0130",
+        "ActualLocaton": "улица Зацепский Вал, дом 14 (станция метро «Павелецкая»)",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Замоскворечье",
+        "Location": "город Москва, улица Зацепский Вал, дом 14",
+        "StreetName": "улица Зацепский Вал",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "2112753",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1078575633
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.456805,
+          55.668778
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0044",
+        "ActualLocaton": "Никулинская улица, дом 15, корпус 1 (остановка наземного городского транспорта «Никулинская улица»)",
+        "AdmArea": "Западный административный округ",
+        "District": "район Тропарёво-Никулино",
+        "Location": "город Москва, Никулинская улица, дом 15, корпус 1",
+        "StreetName": "Никулинская улица",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "51702",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1080943922
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.634859,
+          55.753692
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0162",
+        "ActualLocaton": "Славянская площадь, дом 4-2/5, строение 4 (станция метро «Китай-город»)",
+        "AdmArea": "Центральный административный округ",
+        "District": "Таганский район",
+        "Location": "город Москва, Славянская площадь, дом 4, строение 4",
+        "StreetName": "Славянская площадь",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "4307990",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1080944120
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.557143,
+          55.768804
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0048",
+        "ActualLocaton": "улица 1905 Года, дом 25 (остановка наземного городского транспорта «Ваганьково»)",
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "Location": "город Москва, улица 1905 Года, дом 25",
+        "StreetName": "улица 1905 Года",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "26516",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1082632630
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.460487,
+          55.778439
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0065",
+        "ActualLocaton": "улица Генерала Глаголева, дом 2 (остановка наземного городского транспорта «улица Генерала Глаголева»)",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Хорошёво-Мнёвники",
+        "Location": "город Москва, улица Генерала Глаголева, дом 2",
+        "StreetName": "улица Генерала Глаголева",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "5496",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1082632633
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5933177203318,
+          55.7360535292431
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0128",
+        "ActualLocaton": "Зубовский бульвар, дом 2, строение 1 (станция метро «Парк культуры»)",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Хамовники",
+        "Location": "город Москва, Зубовский бульвар, дом 2, строение 1",
+        "StreetName": "Зубовский бульвар",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "4305186",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1083256215
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.654781,
+          55.746674
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0146",
+        "ActualLocaton": "улица Земляной Вал, дом 62 (остановка наземного городского транспорта «Николоямская улица»)",
+        "AdmArea": "Центральный административный округ",
+        "District": "Таганский район",
+        "Location": "город Москва, улица Земляной Вал, дом 62",
+        "StreetName": "улица Земляной Вал",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "2130347",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1083256216
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.714814,
+          55.751304
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0031",
+        "ActualLocaton": "шоссе Энтузиастов, дом 13 (станция метро «Авиамоторная»)",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Лефортово",
+        "Location": "город Москва, шоссе Энтузиастов, дом 13",
+        "StreetName": "шоссе Энтузиастов",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "30126",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1083256219
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.657431,
+          55.758142
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0172",
+        "ActualLocaton": "улица Земляной Вал, дом 26, строение 1 (остановка наземного городского пассажирского транспорта «Курский вокзал» - пересадка на второй диаметр, внутр/с)",
+        "AdmArea": "Центральный административный округ",
+        "District": "Басманный район",
+        "Location": "город Москва, улица Земляной Вал, дом 26, строение 1",
+        "StreetName": "улица Земляной Вал",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "2121349",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1089400453
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.625988,
+          55.752475
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0151",
+        "ActualLocaton": "улица Варварка, дом 2 (остановка наземного городского транспорта «Красная площадь», от центра)",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Location": "город Москва, улица Варварка, дом 2",
+        "StreetName": "улица Варварка",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "2124616",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1091756249
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.795822,
+          55.63508
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0084",
+        "ActualLocaton": "3-й квартал Капотня, дом 13 (остановка наземного городского транспорта «Продмаг»)",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Капотня",
+        "Location": "город Москва, 3-й квартал Капотня, дом 13, корпус 2",
+        "StreetName": "проезд без названия",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "2701376",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1103068971
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.211412,
+          55.997172
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0180",
+        "ActualLocaton": "Центральный проспект, корпус 433 (остановка наземного городского пассажирского транспорта «Магазин «Океан»»)",
+        "AdmArea": "Зеленоградский административный округ",
+        "District": "район Матушкино",
+        "Location": "город Москва, город Зеленоград, корпус 433, строение 1",
+        "StreetName": "Центральный проспект",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "3701306",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1103069077
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.601572,
+          55.883454
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0055",
+        "ActualLocaton": "Костромская улица, дом 20 (станция метро «Бибирево»)",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Алтуфьевский район",
+        "Location": "город Москва, Костромская улица, дом 20",
+        "StreetName": "Костромская улица",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "11253",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1117802371
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.826369,
+          55.812738
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0076",
+        "ActualLocaton": "Щёлковское шоссе, владение 91А, строение 1 (остановка наземного городского транспорта «Хабаровская улица»)",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Гольяново",
+        "Location": "город Москва, Щёлковское шоссе, владение 91А, строение 1",
+        "StreetName": "Щёлковское шоссе",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "2403503",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1117802372
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.356848,
+          55.642395
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ Л 006",
+        "ActualLocaton": "Чоботовская улица, дом 1 (остановка наземного городского пассажирского транспорта «Чоботовская улица, дом 1»)",
+        "AdmArea": "Западный административный округ",
+        "District": "район Ново-Переделкино",
+        "Location": "город Москва, Чоботовская улица, дом 1",
+        "StreetName": "Чоботовская улица",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "29151",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "безналичная оплата",
+        "globalid": 1129980956
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.359436,
+          55.63521
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ Л 009",
+        "ActualLocaton": "улица Шолохова, дом 2 (остановка наземного городского пассажирского транспорта «Новоорловская улица», от центра)",
+        "AdmArea": "Западный административный округ",
+        "District": "район Ново-Переделкино",
+        "Location": "город Москва, улица Шолохова, дом 2",
+        "StreetName": "улица Шолохова",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "31755",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "безналичная оплата",
+        "globalid": 1129980957
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.743822,
+          55.613138
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ Л 012",
+        "ActualLocaton": "Ореховый бульвар, владение 24, строение 1А (остановка наземного городского пассажирского транспорта станция метро «Красногвардейская»)",
+        "AdmArea": "Южный административный округ",
+        "District": "район Зябликово",
+        "Location": "город Москва, Ореховый бульвар, владение 24, строение 1А",
+        "StreetName": "Ореховый бульвар",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "3806863",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "безналичная оплата",
+        "globalid": 1129980958
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.711675,
+          55.621666
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ Л 015",
+        "ActualLocaton": "Каширское шоссе, дом 86, корпус 2 (остановка наземного городского пассажирского транспорта «7-й микрорайон Орехово-Борисова», от центра)",
+        "AdmArea": "Южный административный округ",
+        "District": "район Орехово-Борисово Северное",
+        "Location": "город Москва, Каширское шоссе, дом 86, корпус 2",
+        "StreetName": "Каширское шоссе",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "9887",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "безналичная оплата",
+        "globalid": 1129980959
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.81828,
+          55.751256
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0026",
+        "ActualLocaton": "Зеленый проспект, дом 60А (станция метро «Новогиреево»)",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Новогиреево",
+        "Location": "город Москва, Зелёный проспект, дом 60А",
+        "StreetName": "Зелёный проспект",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "2131733",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1129980963
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.581403,
+          55.819136
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0046",
+        "ActualLocaton": "улица Фонвизина, дом 2/14 (остановка наземного городского пассажирского транспорта станция метро «Тимирязевская» - пересадка на первый диаметр)",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Бутырский район",
+        "Location": "город Москва, улица Фонвизина, дом 2/14",
+        "StreetName": "улица Фонвизина",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "30432",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1129980967
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.496991,
+          55.671312
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0058",
+        "ActualLocaton": "проспект Вернадского, дом 79 (остановка наземного городского транспорта «улица Лобачевского»)",
+        "AdmArea": "Западный административный округ",
+        "District": "район Проспект Вернадского",
+        "Location": "город Москва, проспект Вернадского, дом 79",
+        "StreetName": "проспект Вернадского",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "3645",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1129980968
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.634556,
+          55.661776
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0121",
+        "ActualLocaton": "Каширское шоссе, дом 21 (остановка наземного городского транспорта «Библиотека им. Льва Толстого»)",
+        "AdmArea": "Южный административный округ",
+        "District": "район Нагатино-Садовники",
+        "Location": "город Москва, Каширское шоссе, дом 21",
+        "StreetName": "Каширское шоссе",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "2123670",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1129980974
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.631161,
+          55.730566
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0131",
+        "ActualLocaton": "Валовая улица, дом 8/18 (остановка наземного городского транспорта «Большой Строченовский переулок»)",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Замоскворечье",
+        "Location": "город Москва, Валовая улица, дом 8/18",
+        "StreetName": "Валовая улица",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "3220",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1129980975
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.613126,
+          55.730314
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0148",
+        "ActualLocaton": "Житная улица, дом 16 (станция метро «Октябрьская»)",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Якиманка",
+        "Location": "город Москва, Житная улица, дом 16",
+        "StreetName": "Житная улица",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "3000656",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1129980978
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.633101,
+          55.7496
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0160",
+        "ActualLocaton": "Китайгородский проезд, дом 9, строение 2 (остановка наземного городского транспорта «Китайгородский проезд», в центр)",
+        "AdmArea": "Центральный административный округ",
+        "District": "Таганский район",
+        "Location": "город Москва, Китайгородский проезд, дом 9, строение 2",
+        "StreetName": "Китайгородский проезд",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "2130634",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1129980980
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6062585711989,
+          55.7724927997364
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0171",
+        "ActualLocaton": "Садовая-Каретная улица, дом 4-6, строение 1 (остановка наземного городского транспорта «улица Малая Дмитровка»)",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Location": "город Москва, Садовая-Каретная улица, дом 4-6, строение 1",
+        "StreetName": "Садовая-Каретная улица",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "22480",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1129980982
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.656309,
+          55.763447
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0176",
+        "ActualLocaton": "улица Земляной Вал, дом 2 (остановка наземного городского транспорта «площадь Земляной Вал»)",
+        "AdmArea": "Центральный административный округ",
+        "District": "Басманный район",
+        "Location": "город Москва, улица Земляной Вал, дом 2",
+        "StreetName": "улица Земляной Вал",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "29039",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1129980983
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.521637,
+          55.63396
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0029",
+        "ActualLocaton": "Профсоюзная улица, дом 109В, строение 4 (остановка наземного городского транспорта «Универсам»)",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Коньково",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Коньково, Профсоюзная улица, дом 109В, строение 4",
+        "StreetName": "Профсоюзная улица",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "2800570",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1129981036
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.610243,
+          55.773075
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0168",
+        "ActualLocaton": "Садовая-Каретная улица, дом 20, строение 1 (остановка наземного городского транспорта «улица Каретный Ряд»)",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Тверской, Садовая-Каретная улица, дом 20, строение 1",
+        "StreetName": "Садовая-Каретная улица",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "22487",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1129981077
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.648971,
+          55.76862
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0175",
+        "ActualLocaton": "Садовая-Черногрязская улица, дом 4, строение 1 (станция метро «Красные ворота»)",
+        "AdmArea": "Центральный административный округ",
+        "District": "Басманный район",
+        "Location": "город Москва, Садовая-Черногрязская улица, дом 4, строение 1",
+        "StreetName": "Садовая-Черногрязская улица",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "2106187",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1136414590
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7000811,
+          55.816914
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0092",
+        "ActualLocaton": "Миллионная улица, дом 15, корпус 3 (остановка наземного городского транспорта «Богородское»)",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Богородское",
+        "Location": "город Москва, Миллионная улица, дом 15, корпус 3",
+        "StreetName": "Миллионная улица",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "14386",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1136414591
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.633476,
+          55.77246
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0158",
+        "ActualLocaton": "Панкратьевский переулок, дом 2 (станция метро «Сухаревская»)",
+        "AdmArea": "Центральный административный округ",
+        "District": "Красносельский район",
+        "Location": "город Москва, Панкратьевский переулок, дом 2",
+        "StreetName": "Панкратьевский переулок",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "2109732",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1138980996
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.495946,
+          55.881435
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0024",
+        "ActualLocaton": "улица Бусиновская горка, дом 3 (остановка наземного городского транспорта «Бусиново»)",
+        "AdmArea": "Северный административный округ",
+        "District": "район Западное Дегунино",
+        "Location": "город Москва, улица Бусиновская Горка, дом 3",
+        "StreetName": "улица Бусиновская Горка",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "2103119",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1139494016
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.661967,
+          55.649234
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0010",
+        "ActualLocaton": "Каширское шоссе, дом 40, корпус 2 (остановка наземного городского транспорта «МИФИ»)",
+        "AdmArea": "Южный административный округ",
+        "District": "район Москворечье-Сабурово",
+        "Location": "город Москва, Каширское шоссе, дом 40, корпус 2",
+        "StreetName": "Каширское шоссе",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "2123204",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1139494017
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.52161,
+          55.844201
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0074",
+        "ActualLocaton": "Онежская улица, дом 1/2 (остановка наземного городского транспорта «Онежская улица»)",
+        "AdmArea": "Северный административный округ",
+        "District": "Головинский район",
+        "Location": "город Москва, Онежская улица, дом 1/2",
+        "StreetName": "Онежская улица",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "17540",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1139494020
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5831533552884,
+          55.7492027564676
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0115",
+        "ActualLocaton": "Смоленская площадь, дом 6, строение 1 (станция метро «Смоленская»)",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Арбат",
+        "Location": "город Москва, Смоленская площадь, дом 6, строение 1",
+        "StreetName": "Смоленская площадь",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "2127631",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1139494021
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.686145,
+          55.639904
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0002",
+        "ActualLocaton": "Каширское шоссе, дом 78А (остановка наземного городского пассажирского транспорта станция МЦД «Москворечье»)",
+        "AdmArea": "Южный административный округ",
+        "District": "район Москворечье-Сабурово",
+        "Location": "город Москва, Каширское шоссе, дом 78А",
+        "StreetName": "Каширское шоссе",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "3800379",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1139494022
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.620849,
+          55.70714
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0009",
+        "ActualLocaton": "Большая Тульская улица, дом 10 (станция метро «Тульская»)",
+        "AdmArea": "Южный административный округ",
+        "District": "Даниловский район",
+        "Location": "город Москва, Большая Тульская улица, дом 10",
+        "StreetName": "Большая Тульская улица",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "3801298",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1139494026
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.666825,
+          55.779987
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0063",
+        "ActualLocaton": "Краснопрудная улица, дом 13А, строение 1 (станция метро «Красносельская»)",
+        "AdmArea": "Центральный административный округ",
+        "District": "Красносельский район",
+        "Location": "город Москва, Краснопрудная улица, дом 13А, строение 1",
+        "StreetName": "Краснопрудная улица",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "4301466",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1139494027
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.528167,
+          55.890474
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0075",
+        "ActualLocaton": "Клязьминская улица, дом 17 (остановка наземного городского транспорта «Больница»)",
+        "AdmArea": "Северный административный округ",
+        "District": "Дмитровский район",
+        "Location": "город Москва, Клязьминская улица, дом 17",
+        "StreetName": "Клязьминская улица",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "10261",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1139494029
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.662289,
+          55.649711
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0096",
+        "ActualLocaton": "Каширское шоссе, дом 31, строение 2 (остановка наземного городского транспорта «МИФИ»)",
+        "AdmArea": "Южный административный округ",
+        "District": "район Москворечье-Сабурово",
+        "Location": "город Москва, Каширское шоссе, дом 31, строение 2",
+        "StreetName": "Каширское шоссе",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "2123694",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1139494030
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.516152,
+          55.777548
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0064",
+        "ActualLocaton": "Хорошёвское шоссе, дом 88 (станция метро «Полежаевская»)",
+        "AdmArea": "Северный административный округ",
+        "District": "Хорошёвский район",
+        "Location": "город Москва, Хорошёвское шоссе, дом 88",
+        "StreetName": "Хорошёвское шоссе",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "28131",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1139494031
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.750858,
+          55.787859
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0156",
+        "ActualLocaton": "Измайловское шоссе, дом 69Г, (напротив) (станция метро «Партизанская»)",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Измайлово",
+        "Location": "город Москва, Измайловское шоссе, дом 69Г",
+        "StreetName": "Измайловское шоссе",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "2504762",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1139494033
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6247654491906,
+          55.7299937913319
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0124",
+        "ActualLocaton": "Серпуховская площадь, дом 36/71, строение 1 (остановка наземного городского транспорта «Серпуховская площадь»)",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Замоскворечье",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Замоскворечье, Серпуховская площадь, дом 36/71, строение 1",
+        "StreetName": "Серпуховская площадь",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "4301439",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1139494106
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.682592,
+          55.683267
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0078",
+        "ActualLocaton": "Судостроительная улица, дом 31, корпус 1 (остановка наземного городского транспорта «улица Затонная»)",
+        "AdmArea": "Южный административный округ",
+        "District": "район Нагатинский Затон",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Нагатинский Затон, Судостроительная улица, дом 31, корпус 1",
+        "StreetName": "Судостроительная улица",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "25141",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1139494125
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.553083,
+          55.669248
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0060",
+        "ActualLocaton": "Профсоюзная улица, дом 58/32, корпус 2 (станция метро «Новые Черёмушки»)",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "Обручевский район",
+        "Location": "город Москва, Профсоюзная улица, дом 58/32, корпус 2",
+        "StreetName": "Профсоюзная улица",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "20994",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1140572117
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.65799,
+          55.836925
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0105",
+        "ActualLocaton": "проспект Мира, дом 169 (остановка наземного городского транспорта «Улица Докукина»)",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Ростокино",
+        "Location": "город Москва, проспект Мира, дом 169",
+        "StreetName": "проспект Мира",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "14560",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1140572299
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.529984,
+          55.80141
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0110",
+        "ActualLocaton": "Ленинградский проспект, дом 64 (остановка наземного городского транспорта «МАДИ - Финансовый университет»)",
+        "AdmArea": "Северный административный округ",
+        "District": "район Аэропорт",
+        "Location": "город Москва, Ленинградский проспект, дом 64",
+        "StreetName": "Ленинградский проспект",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "2117334",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1140572387
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.655621,
+          55.751058
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0177",
+        "ActualLocaton": "улица Земляной Вал, дом 50А, строение 3 (остановка наземного городского пассажирского транспорта «Высокояузский мост»)",
+        "AdmArea": "Центральный административный округ",
+        "District": "Таганский район",
+        "Location": "город Москва, улица Земляной Вал, дом 50А, строение 3",
+        "StreetName": "улица Земляной Вал",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "2131105",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1140572436
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.717558,
+          55.75074
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0034",
+        "ActualLocaton": "шоссе Энтузиастов, дом 22/18 (станция метро «Авиамоторная»)",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Лефортово",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Лефортово, шоссе Энтузиастов, дом 22/18, сооружение 1",
+        "StreetName": "шоссе Энтузиастов",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "2708400",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1140603095
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.706207,
+          55.782522
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0090",
+        "ActualLocaton": "Большая Семеновская улица, дом 21 (станция метро «Электрозаводская»)",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Соколиная Гора",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Соколиная Гора, Большая Семёновская улица, дом 21",
+        "StreetName": "Большая Семёновская улица",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "23359",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1140645722
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.479737,
+          55.856591
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0047",
+        "ActualLocaton": "Фестивальная улица, дом 17, корпус 1 (станция метро «Речной вокзал»)",
+        "AdmArea": "Северный административный округ",
+        "District": "район Левобережный",
+        "Location": "город Москва, Фестивальная улица, дом 17, корпус 1",
+        "StreetName": "Фестивальная улица",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "340027",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1146573718
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.71785,
+          55.609276
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0008",
+        "ActualLocaton": "Каширское шоссе, дом 108, корпус 1 (станция метро «Домодедовская»)",
+        "AdmArea": "Южный административный округ",
+        "District": "район Орехово-Борисово Южное",
+        "Location": "город Москва, Каширское шоссе, дом 108, корпус 1",
+        "StreetName": "Каширское шоссе",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "9905",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1146573898
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.595284,
+          55.770679
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0127",
+        "ActualLocaton": "1-я Тверская-Ямская улица, дом 1/3, строение 2, (напротив) (остановка наземного городского пассажирского транспорта станция метро «Маяковская» от центра)",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Location": "город Москва, 1-я Тверская-Ямская улица, дом 1/3, строение 2",
+        "StreetName": "1-я Тверская-Ямская улица",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "2117668",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1266585112
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.514882,
+          55.747117
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0081",
+        "ActualLocaton": "Новозаводская улица, дом 2, корпус 1 (остановка наземного городского пассажирского транспорта станция метро «Фили» - пересадка на первый диаметр)",
+        "AdmArea": "Западный административный округ",
+        "District": "район Филёвский Парк",
+        "Location": "город Москва, Новозаводская улица, дом 2, корпус 1",
+        "StreetName": "Новозаводская улица",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "16517",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1266585114
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.584005,
+          55.794856
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0035",
+        "ActualLocaton": "Бутырская улица, дом 9, корпус 2 (остановка наземного городского пассажирского транспорта «Савёловский вокзал» - пересадка на первый диаметр)",
+        "AdmArea": "Северный административный округ",
+        "District": "Савёловский район",
+        "Location": "город Москва, Бутырская улица, дом 9, корпус 2",
+        "StreetName": "Бутырская улица",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "3083",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1508983115
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.407633,
+          55.648919
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0043",
+        "ActualLocaton": "Солнцевский проспект, дом 15 (остановка наземного городского транспорта «Солнцево»)",
+        "AdmArea": "Западный административный округ",
+        "District": "район Солнцево",
+        "Location": "город Москва, Солнцевский проспект, дом 15",
+        "StreetName": "Солнцевский проспект",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "24316",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1508983116
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.742281,
+          55.6484
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0080",
+        "ActualLocaton": "Новочеркасский бульвар, дом 55 (станция метро «Марьино»)",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Марьино",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Марьино, Новочеркасский бульвар, дом 55",
+        "StreetName": "Новочеркасский бульвар",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "17062",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1508983177
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.516202,
+          55.658908
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0045",
+        "ActualLocaton": "улица Обручева, дом 15, корпус 1 (остановка наземного городского транспорта «улица Обручева, дом 15»)",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "Обручевский район",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Обручевский, улица Обручева, дом 15, корпус 1, строение 1",
+        "StreetName": "улица Обручева",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "2800871",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1508983187
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.717149,
+          55.796952
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0106",
+        "ActualLocaton": "Большая Черкизовская улица, дом 3, корпус 1 (станция метро «Преображенская площадь»)",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Преображенское",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Преображенское, Большая Черкизовская улица, дом 3, корпус 1",
+        "StreetName": "Большая Черкизовская улица",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "28535",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1508983190
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.58294,
+          55.746424
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0133",
+        "ActualLocaton": "Смоленская-Сенная площадь, дом 32/34 (остановка наземного городского транспорта «Смоленская-Сенная площадь»)",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Арбат",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Арбат, Смоленская-Сенная площадь, дом 32-34/57/23, строение 2",
+        "StreetName": "Смоленская-Сенная площадь",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "2127718",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1508983191
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.58458,
+          55.742404
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0144",
+        "ActualLocaton": "Смоленский бульвар, дом 22/14 (остановка наземного городского транспорта «1-й Неопалимовский переулок»)",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Хамовники",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Хамовники, Смоленский бульвар, дом 22/14",
+        "StreetName": "Смоленский бульвар",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "23980",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 1508983193
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.538217,
+          55.655337
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0032",
+        "ActualLocaton": "Профсоюзная улица, дом 84А, строение 1 (станция метро «Калужская»)",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Коньково",
+        "Location": "город Москва, Профсоюзная улица, дом 84А, строение 1",
+        "StreetName": "Профсоюзная улица",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "2800919",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 2305201078
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.637552,
+          55.80857
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0059",
+        "ActualLocaton": "проспект Мира, дом 114 (станция метро «Алексеевская»)",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Алексеевский район",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Алексеевский, проспект Мира, дом 114",
+        "StreetName": "проспект Мира",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "14518",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 2305201080
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.585661685889,
+          55.759873728213
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0102",
+        "ActualLocaton": "Садовая-Кудринская улица, дом 4, строение 3 (остановка наземного городского транспорта «улица Малая Никитская»)",
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Пресненский, Садовая-Кудринская улица, дом 4, строение 3",
+        "StreetName": "Садовая-Кудринская улица",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "2101015",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 2305201085
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.40635,
+          55.659164
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ Л 001",
+        "ActualLocaton": "Боровское шоссе, дом 6 (остановка наземного городского пассажирского транспорта «улица Главмосстроя», в центр)",
+        "AdmArea": "Западный административный округ",
+        "District": "район Солнцево",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Солнцево, Боровское шоссе, дом 6",
+        "StreetName": "Боровское шоссе",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "4100917",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "безналичная оплата",
+        "globalid": 2305201093
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.693417,
+          55.6363
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0007",
+        "ActualLocaton": "Каширское шоссе, дом 80Г, строение 2 (остановка наземного городского транспорта «Сабурово», от центра)",
+        "AdmArea": "Южный административный округ",
+        "District": "район Москворечье-Сабурово",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Орехово-Борисово Северное, Каширское шоссе, дом 80",
+        "StreetName": "Каширское шоссе",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "2123458",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 2305201094
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.614153,
+          55.77378
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0072",
+        "ActualLocaton": "Садовая-Самотёчная улица, дом 3 (остановка наземного городского транспорта «Театр кукол имени Образцова»)",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Тверской, Садовая-Самотёчная улица, дом 3",
+        "StreetName": "Садовая-Самотёчная улица",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "2111349",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 2305201097
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.51408,
+          55.856476
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0033",
+        "ActualLocaton": "Онежская улица, дом 28/1 (остановка наземного городского транспорта «улица Солнечногорская»)",
+        "AdmArea": "Северный административный округ",
+        "District": "Головинский район",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Головинский, Онежская улица, дом 28/1",
+        "StreetName": "Онежская улица",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "17575",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 2305201102
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.301032,
+          55.489115
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0086",
+        "ActualLocaton": "улица Полковника Милиции Курочкина, дом 5 (остановка наземного городского транспорта «Троицк (Микрорайон «В»)»)",
+        "AdmArea": "Троицкий административный округ",
+        "District": "поселение Троицк",
+        "Location": "город Москва, город Троицк, улица Полковника Милиции Курочкина, дом 5",
+        "StreetName": "улица Полковника Милиции Курочкина",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "440832",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 2363179615
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.679758,
+          55.642436
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0020",
+        "ActualLocaton": "Каширское шоссе, дом 76, корпус 1 (остановка наземного городского транспорта «завод Полиметаллов», от центра)",
+        "AdmArea": "Южный административный округ",
+        "District": "район Москворечье-Сабурово",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Москворечье-Сабурово, Каширское шоссе, дом 76, корпус 1",
+        "StreetName": "Каширское шоссе",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "2123750",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 2363180003
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.641866,
+          55.822822
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0040",
+        "ActualLocaton": "проспект Мира, дом 115, строение 1 (станция метро «ВДНХ»)",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Останкинский район",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Останкинский, проспект Мира, дом 115, строение 1",
+        "StreetName": "проспект Мира",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "2302329",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 2363180320
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.612329,
+          55.731296
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0108",
+        "ActualLocaton": "улица Большая Якиманка, дом 45 (станция метро «Октябрьская» радиальная)",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Якиманка",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Якиманка, улица Большая Якиманка, дом 45",
+        "StreetName": "улица Большая Якиманка",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "2102780",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 2363182686
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.576974,
+          55.759222
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0125",
+        "ActualLocaton": "Дружинниковская улица, дом 30, строение 1 (станция метро «Краснопресненская»)",
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Пресненский, Дружинниковская улица, дом 30, строение 1",
+        "StreetName": "Дружинниковская улица",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "2106391",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 2363183916
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.632989,
+          55.749337
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0145",
+        "ActualLocaton": "Китайгородский проезд, дом 9, строение 2 (остановка наземного городского транспорта «Китайгородский проезд», от центра)",
+        "AdmArea": "Центральный административный округ",
+        "District": "Таганский район",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Таганский, Китайгородский проезд, дом 9, строение 2",
+        "StreetName": "Китайгородский проезд",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "2130634",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 2363184200
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.408448,
+          55.98097
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0061",
+        "ActualLocaton": "",
+        "AdmArea": null,
+        "District": null,
+        "Location": "город Химки, Аэропорт «Шереметьево», терминал C",
+        "StreetName": "Шереметьевское шоссе",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "",
+        "OnTerritoryOfMoscow": "нет",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 2363184962
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.188155,
+          55.290504
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0122",
+        "ActualLocaton": "поселение Вороновское, 64-й километр Варшавского шоссе, владение 1/1 (ГБУ «Многофункциональный миграционный центр»)",
+        "AdmArea": "Троицкий административный округ",
+        "District": "поселение Вороновское",
+        "Location": "Российская Федерация, город Москва, внутригородская территория поселение Вороновское, Варшавское шоссе, 64-й километр, дом 1, строение 11",
+        "StreetName": "Варшавское шоссе",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "5309397",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 2366346552
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.580295,
+          55.726726
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0049",
+        "ActualLocaton": "Комсомольский проспект, дом 28 (станция метро «Фрунзенская»)",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Хамовники",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Хамовники, Комсомольский проспект, дом 28",
+        "StreetName": "Комсомольский проспект",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "2120726",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 2366346578
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.676766,
+          55.644089
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0003",
+        "ActualLocaton": "Каширское шоссе, дом 45, строение 21 (остановка наземного городского транспорта «Спортивная»)",
+        "AdmArea": "Южный административный округ",
+        "District": "район Москворечье-Сабурово",
+        "Location": "город Москва, Каширское шоссе, дом 45, строение 21",
+        "StreetName": "Каширское шоссе",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "3806316",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 2369443662
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.719487,
+          55.87818
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0016",
+        "ActualLocaton": "Ярославское шоссе, дом 133 (остановка наземного городского транспорта «улица Егора Абакумова»)",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Ярославский район",
+        "Location": "город Москва, Ярославское шоссе, дом 133",
+        "StreetName": "Ярославское шоссе",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "30657",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 2369443664
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.725068,
+          55.596898
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0017",
+        "ActualLocaton": "Каширское шоссе, дом 144, корпус 1 (остановка наземного городского транспорта «16-й автобусный парк»)",
+        "AdmArea": "Южный административный округ",
+        "District": "район Орехово-Борисово Южное",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Орехово-Борисово Южное, Каширское шоссе, дом 144, корпус 1",
+        "StreetName": "Каширское шоссе",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "78054",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 2369443665
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.514777,
+          55.805503
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0109",
+        "ActualLocaton": "Ленинградский проспект, дом 74А (станция метро «Сокол»)",
+        "AdmArea": "Северный административный округ",
+        "District": "район Аэропорт",
+        "Location": "город Москва, Ленинградский проспект, дом 74А",
+        "StreetName": "Ленинградский проспект",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "3404824",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 2369443669
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.619348,
+          55.773409
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0154",
+        "ActualLocaton": "Садовая-Самотёчная улица, дом 20, строение 1 (остановка наземного городского транспорта «Самотечная площадь»)",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Location": "город Москва, Садовая-Самотёчная улица, дом 20, строение 1",
+        "StreetName": "Садовая-Самотёчная улица",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "4309125",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 2369443673
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.627297,
+          55.752762
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0150",
+        "ActualLocaton": "улица Варварка, дом 3 (остановка наземного городского транспорта «Красная площадь», в центр)",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Тверской, улица Варварка, дом 5/10, строение 1",
+        "StreetName": "улица Варварка",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "2116464",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 2369444068
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.655131,
+          55.748949
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0152",
+        "ActualLocaton": "улица Земляной Вал, дом 52/16, строение 1 (остановка наземного городского транспорта «Сивяков переулок»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Таганский район",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Таганский, улица Земляной Вал, дом 52/16, строение 1",
+        "StreetName": "улица Земляной Вал",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "29077",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 2369445031
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.597523,
+          55.584424
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0012",
+        "ActualLocaton": "Варшавское шоссе, дом 158, корпус 1 (станция метро «Аннино»)",
+        "AdmArea": "Южный административный округ",
+        "District": "район Чертаново Южное",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Чертаново Южное, Варшавское шоссе, дом 158, корпус 1",
+        "StreetName": "Варшавское шоссе",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "3381",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 2369445113
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.604611,
+          55.641022
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0021",
+        "ActualLocaton": "Балаклавский проспект, дом 7, строение 2 (станция метро «Чертановская»)",
+        "AdmArea": "Южный административный округ",
+        "District": "район Чертаново Северное",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Чертаново Северное, Балаклавский проспект, дом 7",
+        "StreetName": "Балаклавский проспект",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "3807460",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 2369445160
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.615502,
+          55.803307
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0068",
+        "ActualLocaton": "Шереметьевская улица, дом 27 (остановка наземного городского транспорта «Поликлиника»)",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Марьина Роща",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Марьина Роща, Шереметьевская улица, дом 27",
+        "StreetName": "Шереметьевская улица",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "63256",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 2369445254
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.70346,
+          55.866598
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0111",
+        "ActualLocaton": "Ярославское шоссе, дом 67 (остановка наземного городского транспорта «Федоскинская улица»)",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Ярославский район",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Ярославский, Ярославское шоссе, дом 67",
+        "StreetName": "Ярославское шоссе",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "30623",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 2369445386
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6050003728261,
+          55.7322040909691
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0142",
+        "ActualLocaton": "улица Крымский Вал, дом 8, корпус 2 (остановка наземного городского транспорта «Парк Горького»)",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Якиманка",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Якиманка, улица Крымский Вал, дом 8, корпус 2",
+        "StreetName": "улица Крымский Вал",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "4300811",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 2369445430
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.667967,
+          55.64692
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0019",
+        "ActualLocaton": "Каширское шоссе, дом 52 (остановка наземного городского транспорта «дом культуры «Москворечье»)",
+        "AdmArea": "Южный административный округ",
+        "District": "район Москворечье-Сабурово",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Москворечье-Сабурово, Каширское шоссе, дом 52",
+        "StreetName": "Каширское шоссе",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "2123653",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 2387162816
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.824269,
+          55.822114
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0042",
+        "ActualLocaton": "Хабаровская улица, дом 15 (остановка наземного городского транспорта «Уссурийская улица»)",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Гольяново",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Гольяново, Хабаровская улица, дом 15",
+        "StreetName": "Хабаровская улица",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "2400603",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 2387162828
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.533895,
+          55.691653
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0056",
+        "ActualLocaton": "проспект Вернадского, дом 9/10 (станция метро «Университет»)",
+        "AdmArea": null,
+        "District": null,
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Гагаринский, проспект Вернадского, дом 9/10",
+        "StreetName": "проспект Вернадского",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "",
+        "OnTerritoryOfMoscow": "нет",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 2387162848
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.559344,
+          55.788989
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0114",
+        "ActualLocaton": "Ленинградский проспект, дом 36, строение 60 (станция метро «Динамо»)",
+        "AdmArea": "Северный административный округ",
+        "District": "район Аэропорт",
+        "Location": "город Москва, Ленинградский проспект, дом 36",
+        "StreetName": "Ленинградский проспект",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "2117313",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 2387162850
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.768134,
+          55.704749
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0119",
+        "ActualLocaton": "Волгоградский проспект, дом 84, корпус 1 (станция метро «Кузьминки»)",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Кузьминки",
+        "Location": "город Москва, Волгоградский проспект, дом 84, корпус 1",
+        "StreetName": "Волгоградский проспект",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "270338",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 2387162861
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.627396,
+          55.746424
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0132",
+        "ActualLocaton": "Садовая-Сухаревская улица, дом 8/12 (остановка наземного городского транспорта «Мещанская улица»)",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Замоскворечье",
+        "Location": "город Москва, Садовая-Сухаревская улица, дом 8/12",
+        "StreetName": "Садовая-Сухаревская улица",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "22533",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 2387162866
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.577263,
+          55.760733
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0135",
+        "ActualLocaton": "улица Красная Пресня, дом 1, строение 2 (станция метро «Краснопресненская», в центр)",
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "Location": "город Москва, улица Красная Пресня, дом 1, строение 2",
+        "StreetName": "улица Красная Пресня",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "4302244",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 2387162877
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.626508,
+          55.749994
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0153",
+        "ActualLocaton": "улица Варварка, дом 6, сооружение 1 (остановка наземного городского транспорта «Зарядье», в центр)",
+        "AdmArea": null,
+        "District": null,
+        "Location": "город Москва, улица Варварка, дом 6, сооружение 1",
+        "StreetName": "улица Варварка",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "",
+        "OnTerritoryOfMoscow": "нет",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 2387162880
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.644954,
+          55.769748
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0155",
+        "ActualLocaton": "Садовая-Спасская улица, дом 20, строение 1 (остановка наземного городского транспорта «проспект Академика Сахарова»)",
+        "AdmArea": null,
+        "District": null,
+        "Location": "город Москва, Садовая-Спасская улица, дом 20, строение 1",
+        "StreetName": "Садовая-Спасская улица",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "",
+        "OnTerritoryOfMoscow": "нет",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 2387162887
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.396041,
+          55.652579
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ Л 004",
+        "ActualLocaton": "Солнцевский проспект, дом 2 (остановка наземного городского пассажирского транспорта «Выставочный зал», в центр)",
+        "AdmArea": "Западный административный округ",
+        "District": "район Солнцево",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Солнцево, Солнцевский проспект, дом 2",
+        "StreetName": "Солнцевский проспект",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "24297",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "безналичная оплата",
+        "globalid": 2387162910
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.346324,
+          55.944109
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0015",
+        "ActualLocaton": "Синявинская улица, дом 11, корпус 16 (остановка наземного городского транспорта «1-я Сестрорецкая улица»)",
+        "AdmArea": "Северный административный округ",
+        "District": "Молжаниновский район",
+        "Location": "город Москва, Синявинская улица, дом 11, корпус 16",
+        "StreetName": "Синявинская улица",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "340437",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 2387163190
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.718423,
+          55.609758
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0018",
+        "ActualLocaton": "Ореховый бульвар, дом 14Г (станция метро «Домодедовская»)",
+        "AdmArea": "Южный административный округ",
+        "District": "район Орехово-Борисово Южное",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Орехово-Борисово Южное, Ореховый бульвар, дом 14, корпус 1",
+        "StreetName": "Ореховый бульвар",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "17727",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 2387163268
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5812,
+          55.806828
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0030",
+        "ActualLocaton": "Бутырская улица, дом 93 (остановка наземного городского пассажирского транспорта станция метро «Дмитровская» - пересадка на второй диаметр)",
+        "AdmArea": "Северный административный округ",
+        "District": "Савёловский район",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Савеловский, Бутырская улица, дом 93",
+        "StreetName": "Бутырская улица",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "3103",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 2387163316
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.666574,
+          55.67708
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0051",
+        "ActualLocaton": "улица Новинки, дом 1 (остановка наземного городского транспорта «кинотеатр «Орбита»)",
+        "AdmArea": "Южный административный округ",
+        "District": "район Нагатинский Затон",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Нагатинский Затон, улица Новинки, дом 1",
+        "StreetName": "улица Новинки",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "380141",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 2387163370
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.63428,
+          55.754242
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0159",
+        "ActualLocaton": "Лубянский проезд, дом 25, строение 2 (станция метро «Китай-город»)",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Басманный, Лубянский проезд, дом 25, строение 2",
+        "StreetName": "Лубянский проезд",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "2121451",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 2387163442
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.290604,
+          55.60751
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ М 0169",
+        "ActualLocaton": "Центральная улица, дом 2, строение 2 (остановка наземного городского пассажирского транспорта Аэропорт «Внуково»)",
+        "AdmArea": "Западный административный округ",
+        "District": "район Внуково",
+        "Location": "город Москва, посёлок Внуково, Центральная улица, дом 2",
+        "StreetName": "Центральная улица",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "2106562",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "наличная и безналичная оплата",
+        "globalid": 2387163531
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.355322,
+          55.637158
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "BoothNumber": "№ Л 010",
+        "ActualLocaton": "улица Шолохова, дом 5 (остановка наземного городского пассажирского транспорта станция метро «Новопеределкино», в центр)",
+        "AdmArea": "Западный административный округ",
+        "District": "район Ново-Переделкино",
+        "Location": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Ново-Переделкино, улица Шолохова, дом 5",
+        "StreetName": "улица Шолохова",
+        "ClarificationOfWorkingHours": "",
+        "UNOM": "4100569",
+        "OnTerritoryOfMoscow": "да",
+        "WorkingHours": "круглосуточно",
+        "PointType": "автомат по продаже билетов",
+        "PaymentType": "безналичная оплата",
+        "globalid": 2387163603
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

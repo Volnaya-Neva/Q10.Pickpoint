@@ -1,0 +1,555 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.620669116992,
+          55.75417090335
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Золотая осень",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "Красная площадь",
+        "Period": "04.10.2019-13.10.2019",
+        "AmountOfPlaces": 24,
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-22:00",
+        "WebSite": "mos.ru",
+        "globalid": 272864312
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.618302382199,
+          55.756546103827
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Золотая осень",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "Площадь Революции (переход к Манежной площади)",
+        "Period": "04.10.2019-13.10.2019",
+        "AmountOfPlaces": 25,
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-22:00",
+        "WebSite": "mos.ru",
+        "globalid": 272864333
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.619396204691,
+          55.75711844245
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Золотая осень",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "Площадь Революции",
+        "Period": "04.10.2019-13.10.2019",
+        "AmountOfPlaces": 48,
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-22:00",
+        "WebSite": "mos.ru",
+        "globalid": 272864334
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.519822874723,
+          55.784929099363
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Золотая осень",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "Пр. Берёзовой рощи, вл.2 (напротив)",
+        "Period": "04.10.2019-13.10.2019",
+        "AmountOfPlaces": 80,
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-22:00",
+        "WebSite": "mos.ru",
+        "globalid": 272864337
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.580788195702,
+          55.828042498889
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Золотая осень",
+        "AdmArea": "Центральный административный округ",
+        "District": "Мещанский район",
+        "Address": "Милашенкова ул., вл.14",
+        "Period": "04.10.2019-13.10.2019",
+        "AmountOfPlaces": 30,
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-22:00",
+        "WebSite": "mos.ru",
+        "globalid": 272864339
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.585375681408,
+          55.865786875404
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Золотая осень",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "Алтуфьевское шоссе, вл. 30Г",
+        "Period": "04.10.2019-13.10.2019",
+        "AmountOfPlaces": 14,
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-22:00",
+        "WebSite": "mos.ru",
+        "globalid": 272864340
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.710130080763,
+          55.870405506452
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Золотая осень",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "Ярославское шоссе, вл.111",
+        "Period": "04.10.2019-13.10.2019",
+        "AmountOfPlaces": 30,
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-22:00",
+        "WebSite": "mos.ru",
+        "globalid": 272864341
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.864916814764,
+          55.743615503806
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Золотая осень",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "ул. Городецкая, вл.1",
+        "Period": "04.10.2019-13.10.2019",
+        "AmountOfPlaces": 22,
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-22:00",
+        "WebSite": "mos.ru",
+        "globalid": 272864347
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.878378701047,
+          55.714081614672
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Золотая осень",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "Святоозерская ул., вл.1",
+        "Period": "04.10.2019-13.10.2019",
+        "AmountOfPlaces": 34,
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-22:00",
+        "WebSite": "mos.ru",
+        "globalid": 272864349
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.796404685804,
+          55.716125540358
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Золотая осень",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "Академика Скрябина ул., вл.4",
+        "Period": "04.10.2019-13.10.2019",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-22:00",
+        "WebSite": "mos.ru",
+        "globalid": 272864351
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.766202485926,
+          55.676468894499
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Золотая осень",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "Краснодарская ул., вл.57",
+        "Period": "04.10.2019-13.10.2019",
+        "AmountOfPlaces": 25,
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-22:00",
+        "WebSite": "mos.ru",
+        "globalid": 272864352
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7638636327,
+          55.699973172306
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Золотая осень",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "Юных Ленинцев ул., вл.52",
+        "Period": "04.10.2019-13.10.2019",
+        "AmountOfPlaces": 44,
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-22:00",
+        "WebSite": "mos.ru",
+        "globalid": 272864357
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.743382416255,
+          55.613651947404
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Золотая осень",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "Ореховый бульвар, вл. 24",
+        "Period": "04.10.2019-13.10.2019",
+        "AmountOfPlaces": 6,
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-22:00",
+        "WebSite": "mos.ru",
+        "globalid": 272864359
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6524236983,
+          55.592528818056
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Золотая осень",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "Булатниковский пр., вл.6",
+        "Period": "04.10.2019-13.10.2019",
+        "AmountOfPlaces": 30,
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-22:00",
+        "WebSite": "mos.ru",
+        "globalid": 272864376
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.496003539498,
+          55.694120767055
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Золотая осень",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "Раменки ул., вл.3",
+        "Period": "04.10.2019-13.10.2019",
+        "AmountOfPlaces": 30,
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-22:00",
+        "WebSite": "mos.ru",
+        "globalid": 272864382
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.358325720763,
+          55.847325896569
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Золотая осень",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Замоскворечье",
+        "Address": "ул. Митинская, вл. 31",
+        "Period": "04.10.2019-13.10.2019",
+        "AmountOfPlaces": 5,
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-22:00",
+        "WebSite": "mos.ru",
+        "globalid": 272878276
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.173038154126,
+          55.98146422951
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Золотая осень",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Арбат",
+        "Address": "Крюковская площадь",
+        "Period": "04.10.2019-13.10.2019",
+        "AmountOfPlaces": 99,
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-22:00",
+        "WebSite": "mos.ru",
+        "globalid": 272878277
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.508610148226,
+          55.620852321466
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Золотая осень",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Коньково",
+        "Address": "ул. Профсоюзная, вл.127а",
+        "Period": "04.10.2019-13.10.2019",
+        "AmountOfPlaces": 99,
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-22:00",
+        "WebSite": "mos.ru",
+        "globalid": 272879465
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.208465339441,
+          56.003966864891
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Золотая осень",
+        "AdmArea": "Зеленоградский административный округ",
+        "District": "район Матушкино",
+        "Address": "Площадь Юности, владение 2",
+        "Period": "04.10.2019-13.10.2019",
+        "AmountOfPlaces": null,
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-22:00",
+        "WebSite": "mos.ru",
+        "globalid": 272879470
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.721060991979,
+          55.781968535713
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Золотая осень",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Соколиная Гора",
+        "Address": "Семеновская площадь владение 4",
+        "Period": "04.10.2019-13.10.2019",
+        "AmountOfPlaces": 68,
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-22:00",
+        "WebSite": "mos.ru",
+        "globalid": 273230587
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.81927904858,
+          55.751926785625
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Золотая осень",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Новогиреево",
+        "Address": "Зеленый проспект, владение 81 (возле кинотеатра Киргизия)",
+        "Period": "04.10.2019-13.10.2019",
+        "AmountOfPlaces": 30,
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-22:00",
+        "WebSite": "mos.ru",
+        "globalid": 273230588
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.657075361108,
+          55.63451693971
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Золотая осень",
+        "AdmArea": "Южный административный округ",
+        "District": "район Царицыно",
+        "Address": "Пролетарский проспект владение 18 ",
+        "Period": "04.10.2019-13.10.2019",
+        "AmountOfPlaces": 30,
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-22:00",
+        "WebSite": "mos.ru",
+        "globalid": 273230591
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.70555307568,
+          55.614635795782
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Золотая осень",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Черёмушки",
+        "Address": "ул. Домодедовская, вл.12",
+        "Period": "04.10.2019-13.10.2019",
+        "AmountOfPlaces": 14,
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-22:00",
+        "WebSite": "mos.ru",
+        "globalid": 273230592
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.56371075908,
+          55.677294845564
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Золотая осень",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Черёмушки",
+        "Address": "Нахимовский проспект владение 51/21",
+        "Period": "04.10.2019-13.10.2019",
+        "AmountOfPlaces": 35,
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-22:00",
+        "WebSite": "mos.ru",
+        "globalid": 273230593
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.578486491018,
+          55.570661009778
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "EventName": "Золотая осень",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Северное Бутово",
+        "Address": "Старокачаловская владение 5а",
+        "Period": "04.10.2019-13.10.2019",
+        "AmountOfPlaces": 40,
+        "WorkingHours": "11:00-21:00",
+        "WorkingHoursWeekend": "10:00-22:00",
+        "WebSite": "mos.ru",
+        "globalid": 273230594
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

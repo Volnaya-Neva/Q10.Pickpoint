@@ -1,0 +1,383 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.2060327964538,
+          56.0107361454746
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectName": "Дворовая территория",
+        "NameSummer": "скалодром открытый",
+        "AdmArea": "Зеленоградский административный округ",
+        "District": "район Матушкино",
+        "Address": "город Зеленоград, корпус 158А",
+        "Email": "gbuzelenograd@zelao.mos.ru",
+        "WebSite": "gbuzelenograd.ru/",
+        "HelpPhone": "(499) 736-78-86",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "EquipmentRentalComments": "",
+        "HasTechService": "нет",
+        "TechServiceComments": "",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "грунтовое покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "PaidComments": "",
+        "DisabilityFriendly": "частично приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 423037116
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6772835399838,
+          55.5912497787458
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectName": "Парк «Бирюлевский дендропарк»",
+        "NameSummer": "скалодром открытый детский",
+        "AdmArea": "Южный административный округ",
+        "District": "район Бирюлёво Восточное",
+        "Address": "Липецкая улица, дом 10, корпус 2",
+        "Email": "oopt.uao@gmail.com",
+        "WebSite": "www.dpioos.ru/eco/ru/oopt/o1008",
+        "HelpPhone": "(499) 782-78-23",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "EquipmentRentalComments": "",
+        "HasTechService": "нет",
+        "TechServiceComments": "",
+        "HasDressingRoom": "да",
+        "HasEatery": "нет",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "грунтовое покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "PaidComments": "",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 612966634
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.48420784695,
+          55.838407015933
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectName": "Спортивный комплекс образовательного учреждения",
+        "NameSummer": "скалодром открытый",
+        "AdmArea": "Северный административный округ",
+        "District": "Войковский район",
+        "Address": "Ленинградское шоссе, дом 56А",
+        "Email": "voenpatriot@edu.mos.ru",
+        "WebSite": "voenpatriot.mskobr.ru",
+        "HelpPhone": "(499) 164-08-06",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "EquipmentRentalComments": "",
+        "HasTechService": "нет",
+        "TechServiceComments": "",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "да",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "PaidComments": "",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 626641152
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5451839024332,
+          55.7231082447203
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectName": "Спортивный городок «Лужники»",
+        "NameSummer": "скалодром открытый, «Бигволл Спорт»",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Хамовники",
+        "Address": "улица Лужники, дом 24, строение 11",
+        "Email": "",
+        "WebSite": "luzhniki.ru",
+        "HelpPhone": "(495) 780-08-08",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "EquipmentRentalComments": "",
+        "HasTechService": "нет",
+        "TechServiceComments": "",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "да",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "PaidComments": "",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1047340491
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.478659711021,
+          55.840358321561
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectName": "Спортивный комплекс образовательного учреждения",
+        "NameSummer": "скалодром открытый",
+        "AdmArea": "Северный административный округ",
+        "District": "Войковский район",
+        "Address": "Ленинградское шоссе, дом 45, строение 1",
+        "Email": "voenpatriot@edu.mos.ru",
+        "WebSite": "voenpatriot.mskobr.ru",
+        "HelpPhone": "(499) 164-08-06",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "EquipmentRentalComments": "",
+        "HasTechService": "нет",
+        "TechServiceComments": "",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "PaidComments": "",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1047350522
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4883177724374,
+          55.6869182241002
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectName": "Парк, озелененная городская территория «Парк 50-летия Октября»",
+        "NameSummer": "скалодром открытый",
+        "AdmArea": "Западный административный округ",
+        "District": "район Проспект Вернадского",
+        "Address": "улица Удальцова, дом 22, корпус 2",
+        "Email": "info@parkfili.com",
+        "WebSite": "parkfili.com",
+        "HelpPhone": "(495) 621-88-68",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "EquipmentRentalComments": "",
+        "HasTechService": "нет",
+        "TechServiceComments": "",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "освещение светодиодными лампами",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "PaidComments": "",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1047355301
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.8219538091442,
+          55.7778958751726
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectName": "Спортивный комплекс образовательного учреждения",
+        "NameSummer": "скалодром открытый",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Ивановское",
+        "Address": "Челябинская улица, дом 5Б",
+        "Email": "vost@edu.mos.ru",
+        "WebSite": "vostok.mskobr.ru",
+        "HelpPhone": "(495) 672-67-72",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "EquipmentRentalComments": "",
+        "HasTechService": "нет",
+        "TechServiceComments": "",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "да",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "PaidComments": "",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1047358761
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.2930295826645,
+          55.4896979008583
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectName": "Плоскостное спортивное сооружение",
+        "NameSummer": "скалодром открытый",
+        "AdmArea": "Троицкий административный округ",
+        "District": "поселение Троицк",
+        "Address": "город Троицк, микрорайон \"В\", дом 15",
+        "Email": "troitsk@mos.ru",
+        "WebSite": "admtroitsk.ru",
+        "HelpPhone": "(495) 851-00-75",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "EquipmentRentalComments": "",
+        "HasTechService": "нет",
+        "TechServiceComments": "",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "освещение лампами накаливания",
+        "SurfaceTypeSummer": "деревянное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "PaidComments": "",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 2366650098
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.603413532402,
+          55.74862897749
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectName": "Дворовая территория",
+        "NameSummer": "скалодром открытый",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Хамовники",
+        "Address": "Колымажный переулок, дом 10",
+        "Email": "urhamovn@mos.ru",
+        "WebSite": "hamovniki.mos.ru/",
+        "HelpPhone": "(495) 777-77-77",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "EquipmentRentalComments": "",
+        "HasTechService": "нет",
+        "TechServiceComments": "",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.09-31.08",
+        "Lighting": "освещение светодиодными лампами",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "PaidComments": "",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 2366665403
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

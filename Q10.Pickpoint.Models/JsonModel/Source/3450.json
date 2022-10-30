@@ -1,0 +1,131 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.8272736867709,
+          55.6768273218588
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectNameen": "Спортивный комплекс военно-охотничьего общества-общероссийской спортивной общественной организации",
+        "NameSummeren": "стрельбище №1, «Кузьминки»",
+        "AdmAreaen": null,
+        "Districten": null,
+        "Addressen": "улица Головачёва, дом 31, строение 9",
+        "Emailen": "CCKBOO@MAIL.RU",
+        "WebSiteen": "www.sskvoo.ru/",
+        "HelpPhoneen": "(495) 377-20-02",
+        "HelpPhoneExtensionen": "",
+        "ClarificationOfWorkingHoursSummeren": "",
+        "HasEquipmentRentalen": "нет",
+        "EquipmentRentalCommentsen": "",
+        "HasTechServiceen": "да",
+        "TechServiceCommentsen": "",
+        "HasDressingRoomen": "да",
+        "HasEateryen": "да",
+        "HasToileten": "да",
+        "HasWifien": "нет",
+        "HasCashMachineen": "нет",
+        "HasFirstAidPosten": "нет",
+        "HasMusicen": "нет",
+        "UsagePeriodSummeren": "01.01-31.12",
+        "Lightingen": null,
+        "SurfaceTypeSummeren": null,
+        "Seatsen": 0,
+        "Paiden": null,
+        "PaidCommentsen": "",
+        "DisabilityFriendlyen": null,
+        "ServicesSummeren": null,
+        "globalid": 930213656
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7805585169679,
+          55.652750753793
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectNameen": "Биатлонно-лыжный комплекс «Марьино»",
+        "NameSummeren": "стрельбище",
+        "AdmAreaen": null,
+        "Districten": null,
+        "Addressen": "улица Марьинский Парк, дом 4, строение 3",
+        "Emailen": "info@biathlon-maryino.ru",
+        "WebSiteen": "biathlon-maryino.ru/",
+        "HelpPhoneen": "(495) 363-70-22",
+        "HelpPhoneExtensionen": "",
+        "ClarificationOfWorkingHoursSummeren": "",
+        "HasEquipmentRentalen": "нет",
+        "EquipmentRentalCommentsen": "",
+        "HasTechServiceen": "нет",
+        "TechServiceCommentsen": "",
+        "HasDressingRoomen": "да",
+        "HasEateryen": "да",
+        "HasToileten": "да",
+        "HasWifien": "да",
+        "HasCashMachineen": "нет",
+        "HasFirstAidPosten": "да",
+        "HasMusicen": "нет",
+        "UsagePeriodSummeren": "01.09-31.08",
+        "Lightingen": null,
+        "SurfaceTypeSummeren": null,
+        "Seatsen": 0,
+        "Paiden": null,
+        "PaidCommentsen": "",
+        "DisabilityFriendlyen": null,
+        "ServicesSummeren": null,
+        "globalid": 2305332787
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.8267018214569,
+          55.6783577294406
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectNameen": "Спортивный комплекс военно-охотничьего общества-общероссийской спортивной общественной организации",
+        "NameSummeren": "стрельбище №2",
+        "AdmAreaen": null,
+        "Districten": null,
+        "Addressen": "улица Головачёва, дом 31, строение 9",
+        "Emailen": "CCKBOO@MAIL.RU",
+        "WebSiteen": "www.sskvoo.ru/",
+        "HelpPhoneen": "(495) 377-20-02",
+        "HelpPhoneExtensionen": "",
+        "ClarificationOfWorkingHoursSummeren": "",
+        "HasEquipmentRentalen": "нет",
+        "EquipmentRentalCommentsen": "",
+        "HasTechServiceen": "да",
+        "TechServiceCommentsen": "",
+        "HasDressingRoomen": "да",
+        "HasEateryen": "да",
+        "HasToileten": "да",
+        "HasWifien": "нет",
+        "HasCashMachineen": "нет",
+        "HasFirstAidPosten": "нет",
+        "HasMusicen": "нет",
+        "UsagePeriodSummeren": "01.01-31.12",
+        "Lightingen": null,
+        "SurfaceTypeSummeren": null,
+        "Seatsen": 0,
+        "Paiden": null,
+        "PaidCommentsen": "",
+        "DisabilityFriendlyen": null,
+        "ServicesSummeren": null,
+        "globalid": 2366648437
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

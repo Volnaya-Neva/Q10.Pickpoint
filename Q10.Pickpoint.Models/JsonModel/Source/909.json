@@ -1,0 +1,385 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.237223980198,
+          55.9912992724682
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "место для летнего купания, «озеро Черное»",
+        "AdmArea": "Зеленоградский административный округ",
+        "District": "район Савёлки",
+        "Address": "город Зеленоград, корпус 619",
+        "Email": "moseco@bk.ru",
+        "WebSite": "www.mospriroda.ru",
+        "HelpPhone": "(499) 734-53-04",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "да",
+        "HasEatery": "нет",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "да",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.06-31.08",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "отсыпное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "частично приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407135780
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4928404260789,
+          55.6369124749724
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "место для летнего купания, «Тропарево»",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Тёплый Стан",
+        "Address": "улица Академика Виноградова, дом 12",
+        "Email": "mospriroda@eco.mos.ru",
+        "WebSite": "mospriroda.ru",
+        "HelpPhone": "(499) 643-22-97",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-30.11",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "газонное покрытие (натуральное)",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407139857
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.1779564963951,
+          55.9904843253189
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "место для летнего купания, «озеро Школьное»",
+        "AdmArea": "Зеленоградский административный округ",
+        "District": "район Силино",
+        "Address": "Филаретовская улица, дом 1, строение 1",
+        "Email": "gbuzelenograd@zelao.mos.ru",
+        "WebSite": "gbuzelenograd.ru/",
+        "HelpPhone": "(499) 731-77-78",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "освещение газоразрядными лампами",
+        "SurfaceTypeSummer": "отсыпное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "частично приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407142288
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.413615379763,
+          55.7908931629643
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "место для летнего купания, «Серебряный бор-2»",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Хорошёво-Мнёвники",
+        "Address": "Таманская улица, дом 2А, строение 1",
+        "Email": "dir-serbor@mos.eco.ru",
+        "WebSite": "www.mospriroda.ru",
+        "HelpPhone": "(499) 199-01-10",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "да",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-30.11",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "грунтовое покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 865485685
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.405992422614,
+          55.7781350369093
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "место для летнего купания, «Серебряный бор-3»",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Хорошёво-Мнёвники",
+        "Address": "Таманская улица, дом 2А, строение 1",
+        "Email": "dir-serbor@mos.eco.ru",
+        "WebSite": "www.mospriroda.ru",
+        "HelpPhone": "(499) 199-01-10",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "да",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-30.11",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "грунтовое покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 865485692
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.2223239849863,
+          55.9859029259796
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "место для летнего купания",
+        "AdmArea": "Зеленоградский административный округ",
+        "District": "район Савёлки",
+        "Address": "Центральная площадь, дом 1",
+        "Email": "zhil-savelki@mosk.ru",
+        "WebSite": "zhil-savelki.ru",
+        "HelpPhone": "(499) 736-78-86",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "да",
+        "HasEatery": "нет",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "да",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.08",
+        "Lighting": "освещение газоразрядными лампами",
+        "SurfaceTypeSummer": "отсыпное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "частично приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1047355328
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.46348264949,
+          55.8764984236521
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "место для летнего купания",
+        "AdmArea": "Северный административный округ",
+        "District": "район Левобережный",
+        "Address": "Левобережная улица, дом 11А",
+        "Email": "info@mosparks.ru",
+        "WebSite": "mosparks.ru/",
+        "HelpPhone": "(495) 640-73-55",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "да",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.06-01.09",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "отсыпное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "частично приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1047355440
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.8488387652108,
+          55.7174900119467
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "место для летнего купания, «Белое озеро»",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Косино-Ухтомский",
+        "Address": "Заозёрная улица, дом 18А",
+        "Email": "ooptvao@gmail.com",
+        "WebSite": "www.mosecovao.info/vaoeco/ru/aboutdepartment",
+        "HelpPhone": "(495) 291-27-34",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "да",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-30.11",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "отсыпное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1047356207
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.539003807843,
+          55.8336222104738
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "место для летнего купания",
+        "AdmArea": "Северный административный округ",
+        "District": "Тимирязевский район",
+        "Address": "Большая Академическая улица, дом 32А, строение 1",
+        "Email": "info@timacad.ru",
+        "WebSite": "www.timacad.ru/",
+        "HelpPhone": "(499) 976-15-60",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "отсыпное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1047358549
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4057161063612,
+          55.6731939638085
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "место для летнего купания, «Мещерский пруд»",
+        "AdmArea": "Западный административный округ",
+        "District": "район Солнцево",
+        "Address": "Воскресенская улица, дом 3, строение 1",
+        "Email": "info@meshersky.ru",
+        "WebSite": "park-meshersky.ru",
+        "HelpPhone": "(495) 743-19-34",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "да",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "31.05-30.09",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "отсыпное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 2366701221
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

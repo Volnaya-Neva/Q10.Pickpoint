@@ -1,0 +1,1815 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.281532,
+          55.672189
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Одинцово",
+        "TransliterationStation": "Odintsovo",
+        "DiameterName": "МЦД-1",
+        "City": "Одинцовский городской округ",
+        "District": "",
+        "Area": "",
+        "Tariff": "Пригород",
+        "Platforms": 3,
+        "MaskStation": "да",
+        "TransferMCD": null,
+        "TransferAeroExpress": "Шереметьево",
+        "AeroexpressStation": {
+          "globalid": 1509001630,
+          "value": "Одинцово"
+        },
+        "ExitTrainStations": null,
+        "ObjectStatus": "действует",
+        "globalid": 1058815439
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.317476,
+          55.683022
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Баковка",
+        "TransliterationStation": "Bakovka",
+        "DiameterName": "МЦД-1",
+        "City": "Одинцовский городской округ",
+        "District": "",
+        "Area": "",
+        "Tariff": "Пригород",
+        "Platforms": 2,
+        "MaskStation": "нет",
+        "TransferMCD": null,
+        "TransferAeroExpress": "Шереметьево",
+        "AeroexpressStation": {
+          "globalid": 1509001278,
+          "value": "Баковка"
+        },
+        "ExitTrainStations": null,
+        "ObjectStatus": "действует",
+        "globalid": 1058819388
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.342054,
+          55.70023
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Сколково",
+        "TransliterationStation": "Skolkovo",
+        "DiameterName": "МЦД-1",
+        "City": "Одинцовский городской округ",
+        "District": "",
+        "Area": "",
+        "Tariff": "Пригород",
+        "Platforms": 3,
+        "MaskStation": "нет",
+        "TransferMCD": null,
+        "TransferAeroExpress": "Шереметьево",
+        "AeroexpressStation": {
+          "globalid": 1509001201,
+          "value": "Сколково"
+        },
+        "ExitTrainStations": null,
+        "ObjectStatus": "действует",
+        "globalid": 1058901090
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.375731,
+          55.716016
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Немчиновка",
+        "TransliterationStation": "Nemchinovka",
+        "DiameterName": "МЦД-1",
+        "City": "Одинцовский городской округ",
+        "District": "",
+        "Area": "",
+        "Tariff": "Пригород",
+        "Platforms": 2,
+        "MaskStation": "нет",
+        "TransferMCD": null,
+        "TransferAeroExpress": "Шереметьево",
+        "AeroexpressStation": {
+          "globalid": 1508999617,
+          "value": "Немчиновка"
+        },
+        "ExitTrainStations": null,
+        "ObjectStatus": "действует",
+        "globalid": 1058901245
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.397316,
+          55.723642
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Сетунь",
+        "TransliterationStation": "Setun",
+        "DiameterName": "МЦД-1",
+        "City": "город Москва",
+        "District": "Западный административный округ",
+        "Area": "Можайский район",
+        "Tariff": "Центральная",
+        "Platforms": 2,
+        "MaskStation": "нет",
+        "TransferMCD": null,
+        "TransferAeroExpress": "Шереметьево",
+        "AeroexpressStation": {
+          "globalid": 1508997643,
+          "value": "Сетунь"
+        },
+        "RailwayStation": {
+          "globalid": 1132155504,
+          "value": "Сетунь"
+        },
+        "ExitTrainStations": null,
+        "ObjectStatus": "действует",
+        "globalid": 1058901441
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.417074,
+          55.727221
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Рабочий поселок",
+        "TransliterationStation": "Rabochiy Posyolok",
+        "DiameterName": "МЦД-1",
+        "City": "город Москва",
+        "District": "Западный административный округ",
+        "Area": "район Кунцево",
+        "Tariff": "Центральная",
+        "Platforms": 3,
+        "MaskStation": "нет",
+        "TransferMCD": null,
+        "TransferAeroExpress": "Шереметьево",
+        "AeroexpressStation": {
+          "globalid": 1508986109,
+          "value": "Рабочий поселок"
+        },
+        "RailwayStation": {
+          "globalid": 1132155393,
+          "value": "Рабочий посёлок"
+        },
+        "ExitTrainStations": null,
+        "ObjectStatus": "действует",
+        "globalid": 1058901634
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.449219,
+          55.726852
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Кунцевская",
+        "TransliterationStation": "Kuntsevskaya",
+        "DiameterName": "МЦД-1",
+        "City": "город Москва",
+        "District": "Западный административный округ",
+        "Area": "район Фили-Давыдково",
+        "Tariff": "Центральная",
+        "Platforms": 2,
+        "MaskStation": "нет",
+        "TransferMCD": null,
+        "TransferAeroExpress": "Шереметьево",
+        "AeroexpressStation": {
+          "globalid": 1508986102,
+          "value": "Кунцевская"
+        },
+        "RailwayStation": {
+          "globalid": 1132155392,
+          "value": "Кунцевская"
+        },
+        "ExitTrainStations": null,
+        "ObjectStatus": "действует",
+        "globalid": 1058901824
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.472953,
+          55.730464
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Славянский бульвар",
+        "TransliterationStation": "Slavyanskiy Bulvar",
+        "DiameterName": "МЦД-1",
+        "City": "город Москва",
+        "District": "Западный административный округ",
+        "Area": "район Фили-Давыдково",
+        "Tariff": "Центральная",
+        "Platforms": 2,
+        "MaskStation": "нет",
+        "TransferMCD": null,
+        "TransferAeroExpress": "Шереметьево",
+        "AeroexpressStation": {
+          "globalid": 1508985977,
+          "value": "Славянский бульвар"
+        },
+        "RailwayStation": {
+          "globalid": 1132155390,
+          "value": "Славянский бульвар"
+        },
+        "ExitTrainStations": null,
+        "ObjectStatus": "действует",
+        "globalid": 1058902031
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.515334,
+          55.744256
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Фили",
+        "TransliterationStation": "Fili",
+        "DiameterName": "МЦД-1",
+        "City": "город Москва",
+        "District": "Западный административный округ",
+        "Area": "район Дорогомилово",
+        "Tariff": "Центральная",
+        "Platforms": 3,
+        "MaskStation": "нет",
+        "TransferMCD": null,
+        "TransferAeroExpress": "Шереметьево",
+        "AeroexpressStation": {
+          "globalid": 1508985884,
+          "value": "Фили"
+        },
+        "RailwayStation": {
+          "globalid": 1132155388,
+          "value": "Фили"
+        },
+        "ExitTrainStations": null,
+        "ObjectStatus": "действует",
+        "globalid": 1058903042
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.531224,
+          55.752897
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Тестовская",
+        "TransliterationStation": "Testovskaya",
+        "DiameterName": "МЦД-1",
+        "City": "город Москва",
+        "District": "Центральный административный округ",
+        "Area": "Пресненский район",
+        "Tariff": "Центральная",
+        "Platforms": 2,
+        "MaskStation": "нет",
+        "TransferMCD": null,
+        "TransferAeroExpress": "Шереметьево",
+        "AeroexpressStation": {
+          "globalid": 1508985132,
+          "value": "Тестовская"
+        },
+        "RailwayStation": {
+          "globalid": 1132155494,
+          "value": "Тестовская"
+        },
+        "ExitTrainStations": null,
+        "ObjectStatus": "действует",
+        "globalid": 1058903381
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.550497,
+          55.77324
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Беговая",
+        "TransliterationStation": "Begovaya",
+        "DiameterName": "МЦД-1",
+        "City": "город Москва",
+        "District": "Северный административный округ",
+        "Area": "Пресненский район",
+        "Tariff": "Центральная",
+        "Platforms": 2,
+        "MaskStation": "нет",
+        "TransferMCD": null,
+        "TransferAeroExpress": "Шереметьево",
+        "AeroexpressStation": {
+          "globalid": 1721303669,
+          "value": "Беговая"
+        },
+        "RailwayStation": {
+          "globalid": 1132155386,
+          "value": "Беговая"
+        },
+        "ExitTrainStations": null,
+        "ObjectStatus": "действует",
+        "globalid": 1058905211
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.581495,
+          55.776622
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Белорусская",
+        "TransliterationStation": "Belorusskaya",
+        "DiameterName": "МЦД-1",
+        "City": "город Москва",
+        "District": "Центральный административный округ",
+        "Area": "Тверской район",
+        "Tariff": "Центральная",
+        "Platforms": 8,
+        "MaskStation": "нет",
+        "TransferMCD": null,
+        "TransferAeroExpress": "Шереметьево",
+        "AeroexpressStation": {
+          "globalid": 1508985008,
+          "value": "Белорусский вокзал"
+        },
+        "RailwayStation": {
+          "globalid": 1132155385,
+          "value": "Белорусская"
+        },
+        "ExitTrainStations": "Белорусский",
+        "ObjectStatus": "действует",
+        "globalid": 1058906594
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.590204,
+          55.794363
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Савеловская",
+        "TransliterationStation": "Savyolovskaya",
+        "DiameterName": "МЦД-1",
+        "City": "город Москва",
+        "District": "Северо-Восточный административный округ",
+        "Area": "Бутырский район",
+        "Tariff": "Центральная",
+        "Platforms": 5,
+        "MaskStation": "нет",
+        "TransferMCD": null,
+        "TransferAeroExpress": "Шереметьево",
+        "AeroexpressStation": {
+          "globalid": 1508984420,
+          "value": "Савеловский вокзал"
+        },
+        "RailwayStation": {
+          "globalid": 1132046977,
+          "value": "Савёловская"
+        },
+        "ExitTrainStations": "Савеловский",
+        "ObjectStatus": "действует",
+        "globalid": 1058906777
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.575512,
+          55.819363
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Тимирязевская",
+        "TransliterationStation": "Timiryazevskaya",
+        "DiameterName": "МЦД-1",
+        "City": "город Москва",
+        "District": "Северный административный округ",
+        "Area": "Бутырский район",
+        "Tariff": "Центральная",
+        "Platforms": 2,
+        "MaskStation": "нет",
+        "TransferMCD": null,
+        "TransferAeroExpress": "",
+        "RailwayStation": {
+          "globalid": 1132046986,
+          "value": "Тимирязевская"
+        },
+        "ExitTrainStations": null,
+        "ObjectStatus": "действует",
+        "globalid": 1058907003
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.574445,
+          55.847908
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Окружная",
+        "TransliterationStation": "Okruzhnaya",
+        "DiameterName": "МЦД-1",
+        "City": "город Москва",
+        "District": "Северный административный округ",
+        "Area": "район Марфино",
+        "Tariff": "Центральная",
+        "Platforms": 1,
+        "MaskStation": "нет",
+        "TransferMCD": null,
+        "TransferAeroExpress": "Шереметьево",
+        "AeroexpressStation": {
+          "globalid": 1508983290,
+          "value": "Окружная"
+        },
+        "RailwayStation": {
+          "globalid": 1132046990,
+          "value": "Окружная"
+        },
+        "ExitTrainStations": null,
+        "ObjectStatus": "действует",
+        "globalid": 1058907212
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.57321,
+          55.865309
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Дегунино",
+        "TransliterationStation": "Degunino",
+        "DiameterName": "МЦД-1",
+        "City": "город Москва",
+        "District": "Северный административный округ",
+        "Area": "район Дегунино",
+        "Tariff": "Центральная",
+        "Platforms": 2,
+        "MaskStation": "нет",
+        "TransferMCD": null,
+        "TransferAeroExpress": "",
+        "RailwayStation": {
+          "globalid": 1132047120,
+          "value": "Дегунино"
+        },
+        "ExitTrainStations": null,
+        "ObjectStatus": "действует",
+        "globalid": 1058907397
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.567546,
+          55.882701
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Бескудниково",
+        "TransliterationStation": "Beskudnikovo",
+        "DiameterName": "МЦД-1",
+        "City": "город Москва",
+        "District": "Северный административный округ",
+        "Area": "район Дегунино",
+        "Tariff": "Центральная",
+        "Platforms": 2,
+        "MaskStation": "нет",
+        "TransferMCD": null,
+        "TransferAeroExpress": "",
+        "RailwayStation": {
+          "globalid": 1132155379,
+          "value": "Бескудниково"
+        },
+        "ExitTrainStations": null,
+        "ObjectStatus": "действует",
+        "globalid": 1058907512
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.553832,
+          55.897215
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Лианозово",
+        "TransliterationStation": "Lianozovo",
+        "DiameterName": "МЦД-1",
+        "City": "город Москва",
+        "District": "Северный административный округ",
+        "Area": "район Лианозово",
+        "Tariff": "Центральная",
+        "Platforms": 2,
+        "MaskStation": "нет",
+        "TransferMCD": null,
+        "TransferAeroExpress": "",
+        "RailwayStation": {
+          "globalid": 1132155380,
+          "value": "Лианозово"
+        },
+        "ExitTrainStations": null,
+        "ObjectStatus": "действует",
+        "globalid": 1058907703
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.538593,
+          55.904234
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Марк",
+        "TransliterationStation": "Mark",
+        "DiameterName": "МЦД-1",
+        "City": "город Москва",
+        "District": "Северный административный округ",
+        "Area": "Дмитровский район",
+        "Tariff": "Центральная",
+        "Platforms": 2,
+        "MaskStation": "нет",
+        "TransferMCD": null,
+        "TransferAeroExpress": "",
+        "RailwayStation": {
+          "globalid": 1132155381,
+          "value": "Марк"
+        },
+        "ExitTrainStations": null,
+        "ObjectStatus": "действует",
+        "globalid": 1058907818
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.527639,
+          55.9247
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Новодачная",
+        "TransliterationStation": "Novodachnaya",
+        "DiameterName": "МЦД-1",
+        "City": "городской округ Долгопрудный",
+        "District": "",
+        "Area": "",
+        "Tariff": "Пригород",
+        "Platforms": 2,
+        "MaskStation": "нет",
+        "TransferMCD": null,
+        "TransferAeroExpress": "",
+        "RailwayStation": {
+          "globalid": 1132155383,
+          "value": "Новодачная"
+        },
+        "ExitTrainStations": null,
+        "ObjectStatus": "действует",
+        "globalid": 1058907985
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.520658,
+          55.938454
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Долгопрудная",
+        "TransliterationStation": "Dolgoprudnaya",
+        "DiameterName": "МЦД-1",
+        "City": "городской округ Долгопрудный",
+        "District": "",
+        "Area": "",
+        "Tariff": "Пригород",
+        "Platforms": 2,
+        "MaskStation": "нет",
+        "TransferMCD": null,
+        "TransferAeroExpress": "",
+        "RailwayStation": {
+          "globalid": 1132155384,
+          "value": "Долгопрудная"
+        },
+        "ExitTrainStations": null,
+        "ObjectStatus": "действует",
+        "globalid": 1058908056
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.512507,
+          55.952486
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Водники",
+        "TransliterationStation": "Vodniki",
+        "DiameterName": "МЦД-1",
+        "City": "городской округ Долгопрудный",
+        "District": "",
+        "Area": "",
+        "Tariff": "Пригород",
+        "Platforms": 2,
+        "MaskStation": "нет",
+        "TransferMCD": null,
+        "TransferAeroExpress": "",
+        "ExitTrainStations": null,
+        "ObjectStatus": "действует",
+        "globalid": 1058908183
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.504519,
+          55.97062
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Хлебниково",
+        "TransliterationStation": "Khlebnikovo",
+        "DiameterName": "МЦД-1",
+        "City": "городской округ Долгопрудный",
+        "District": "",
+        "Area": "",
+        "Tariff": "Пригород",
+        "Platforms": 2,
+        "MaskStation": "нет",
+        "TransferMCD": null,
+        "TransferAeroExpress": "",
+        "ExitTrainStations": null,
+        "ObjectStatus": "действует",
+        "globalid": 1058908343
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.498799,
+          55.983856
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Шереметьевская",
+        "TransliterationStation": "Sheremetyevskaya",
+        "DiameterName": "МЦД-1",
+        "City": "городской округ Долгопрудный",
+        "District": "",
+        "Area": "",
+        "Tariff": "Пригород",
+        "Platforms": 2,
+        "MaskStation": "нет",
+        "TransferMCD": null,
+        "TransferAeroExpress": "",
+        "ExitTrainStations": null,
+        "ObjectStatus": "действует",
+        "globalid": 1058908468
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.484545,
+          56.013189
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Лобня",
+        "TransliterationStation": "Lobnya",
+        "DiameterName": "МЦД-1",
+        "City": "городской округ Лобня",
+        "District": "",
+        "Area": "",
+        "Tariff": "Пригород",
+        "Platforms": 2,
+        "MaskStation": "да",
+        "TransferMCD": null,
+        "TransferAeroExpress": "",
+        "ExitTrainStations": null,
+        "ObjectStatus": "действует",
+        "globalid": 1058908633
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.185223,
+          55.841671
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Нахабино",
+        "TransliterationStation": "Nakhabino",
+        "DiameterName": "МЦД-2",
+        "City": "городской округ Красногорск",
+        "District": "",
+        "Area": "",
+        "Tariff": "Пригород",
+        "Platforms": 2,
+        "MaskStation": "да",
+        "TransferMCD": null,
+        "TransferAeroExpress": "",
+        "ExitTrainStations": null,
+        "ObjectStatus": "действует",
+        "globalid": 1058974354
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.219917,
+          55.832086
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Аникеевка",
+        "TransliterationStation": "Anikeevka",
+        "DiameterName": "МЦД-2",
+        "City": "городской округ Красногорск",
+        "District": "",
+        "Area": "",
+        "Tariff": "Пригород",
+        "Platforms": 2,
+        "MaskStation": "нет",
+        "TransferMCD": null,
+        "TransferAeroExpress": "",
+        "ExitTrainStations": null,
+        "ObjectStatus": "действует",
+        "globalid": 1058974590
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.242622,
+          55.824731
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Опалиха",
+        "TransliterationStation": "Opalikha",
+        "DiameterName": "МЦД-2",
+        "City": "городской округ Красногорск",
+        "District": "",
+        "Area": "",
+        "Tariff": "Пригород",
+        "Platforms": 1,
+        "MaskStation": "нет",
+        "TransferMCD": null,
+        "TransferAeroExpress": "",
+        "ExitTrainStations": null,
+        "ObjectStatus": "действует",
+        "globalid": 1058976210
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.303172,
+          55.814752
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Красногорская",
+        "TransliterationStation": "Krasnogorskaya",
+        "DiameterName": "МЦД-2",
+        "City": "городской округ Красногорск",
+        "District": "",
+        "Area": "",
+        "Tariff": "Пригород",
+        "Platforms": 2,
+        "MaskStation": "нет",
+        "TransferMCD": null,
+        "TransferAeroExpress": "",
+        "ExitTrainStations": null,
+        "ObjectStatus": "действует",
+        "globalid": 1058976411
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.341809,
+          55.815631
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Павшино",
+        "TransliterationStation": "Pavshino",
+        "DiameterName": "МЦД-2",
+        "City": "городской округ Красногорск",
+        "District": "",
+        "Area": "",
+        "Tariff": "Пригород",
+        "Platforms": 1,
+        "MaskStation": "нет",
+        "TransferMCD": null,
+        "TransferAeroExpress": "",
+        "ExitTrainStations": null,
+        "ObjectStatus": "действует",
+        "globalid": 1058976748
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.361165,
+          55.823149
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Пенягино",
+        "TransliterationStation": "Penyagino",
+        "DiameterName": "МЦД-2",
+        "City": "городской округ Красногорск",
+        "District": "",
+        "Area": "",
+        "Tariff": "Пригород",
+        "Platforms": 1,
+        "MaskStation": "нет",
+        "TransferMCD": null,
+        "TransferAeroExpress": "",
+        "RailwayStation": {
+          "globalid": 1132155405,
+          "value": "Пенягино"
+        },
+        "ExitTrainStations": null,
+        "ObjectStatus": "действует",
+        "globalid": 1058982557
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.381824,
+          55.832165
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Волоколамская",
+        "TransliterationStation": "Volokolamskaya",
+        "DiameterName": "МЦД-2",
+        "City": "город Москва",
+        "District": "Северо-Западный административный округ",
+        "Area": "район Митино",
+        "Tariff": "Центральная",
+        "Platforms": 1,
+        "MaskStation": "нет",
+        "TransferMCD": null,
+        "TransferAeroExpress": "",
+        "RailwayStation": {
+          "globalid": 1132155513,
+          "value": "Волоколамская"
+        },
+        "ExitTrainStations": null,
+        "ObjectStatus": "действует",
+        "globalid": 1058982846
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.399195,
+          55.833127
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Трикотажная",
+        "TransliterationStation": "Trikotazhnaya",
+        "DiameterName": "МЦД-2",
+        "City": "город Москва",
+        "District": "Северо-Западный административный округ",
+        "Area": "район Южное Тушино",
+        "Tariff": "Центральная",
+        "Platforms": 2,
+        "MaskStation": "нет",
+        "TransferMCD": null,
+        "TransferAeroExpress": "",
+        "RailwayStation": {
+          "globalid": 1132155403,
+          "value": "Трикотажная"
+        },
+        "ExitTrainStations": null,
+        "ObjectStatus": "действует",
+        "globalid": 1058983081
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.439691,
+          55.827297
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Тушинская",
+        "TransliterationStation": "Tushinskaya",
+        "DiameterName": "МЦД-2",
+        "City": "город Москва",
+        "District": "Северо-Западный административный округ",
+        "Area": "район Покровское-Стрешнево",
+        "Tariff": "Центральная",
+        "Platforms": 2,
+        "MaskStation": "нет",
+        "TransferMCD": null,
+        "TransferAeroExpress": "",
+        "RailwayStation": {
+          "globalid": 1132155511,
+          "value": "Тушинская"
+        },
+        "ExitTrainStations": null,
+        "ObjectStatus": "действует",
+        "globalid": 1058984243
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.476699,
+          55.814204
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Щукинская",
+        "TransliterationStation": "Schukinskaya",
+        "DiameterName": "МЦД-2",
+        "City": "город Москва",
+        "District": "Северо-Западный административный округ",
+        "Area": "Покровское-СтрешневоЩукино",
+        "Tariff": "Центральная",
+        "Platforms": 1,
+        "MaskStation": "нет",
+        "TransferMCD": null,
+        "TransferAeroExpress": "",
+        "RailwayStation": {
+          "globalid": 1132155510,
+          "value": "Щукинская"
+        },
+        "ExitTrainStations": null,
+        "ObjectStatus": "действует",
+        "globalid": 1058984955
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.493585,
+          55.815317
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Стрешнево",
+        "TransliterationStation": "Streshnevo",
+        "DiameterName": "МЦД-2",
+        "City": "город Москва",
+        "District": "Северный административный округ",
+        "Area": "Войковский район",
+        "Tariff": "Центральная",
+        "Platforms": 2,
+        "MaskStation": "нет",
+        "TransferMCD": null,
+        "TransferAeroExpress": "",
+        "RailwayStation": {
+          "globalid": 1132155400,
+          "value": "Стрешнево"
+        },
+        "ExitTrainStations": null,
+        "ObjectStatus": "действует",
+        "globalid": 1058985425
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.525755,
+          55.815544
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Красный Балтиец",
+        "TransliterationStation": "Krasniy Baltiets",
+        "DiameterName": "МЦД-2",
+        "City": "город Москва",
+        "District": "Северный административный округ",
+        "Area": "район Аэропорт",
+        "Tariff": "Центральная",
+        "Platforms": 2,
+        "MaskStation": "нет",
+        "TransferMCD": null,
+        "TransferAeroExpress": "",
+        "RailwayStation": {
+          "globalid": 1132155508,
+          "value": "Красный Балтиец"
+        },
+        "ExitTrainStations": null,
+        "ObjectStatus": "действует",
+        "globalid": 1058994867
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.55388,
+          55.805418
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Гражданская",
+        "TransliterationStation": "Grazhdanskaya",
+        "DiameterName": "МЦД-2",
+        "City": "город Москва",
+        "District": "Северный административный округ",
+        "Area": "Тимирязевский район",
+        "Tariff": "Центральная",
+        "Platforms": 2,
+        "MaskStation": "нет",
+        "TransferMCD": null,
+        "TransferAeroExpress": "",
+        "RailwayStation": {
+          "globalid": 1132155397,
+          "value": "Гражданская"
+        },
+        "ExitTrainStations": null,
+        "ObjectStatus": "действует",
+        "globalid": 1058986231
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.579781,
+          55.808045
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Дмитровская",
+        "TransliterationStation": "Dmitrovskaya",
+        "DiameterName": "МЦД-2",
+        "City": "город Москва",
+        "District": "Северо-Восточный административный округ",
+        "Area": "Бутырский район",
+        "Tariff": "Центральная",
+        "Platforms": 2,
+        "MaskStation": "нет",
+        "TransferMCD": null,
+        "TransferAeroExpress": "",
+        "RailwayStation": {
+          "globalid": 1132155396,
+          "value": "Дмитровская"
+        },
+        "ExitTrainStations": null,
+        "ObjectStatus": "действует",
+        "globalid": 1058996666
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.638769,
+          55.793967
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Рижская",
+        "TransliterationStation": "Rizhskaya",
+        "DiameterName": "МЦД-2",
+        "City": "город Москва",
+        "District": "Центральный административный округ",
+        "Area": "Мещанский район",
+        "Tariff": "Центральная",
+        "Platforms": 2,
+        "MaskStation": "нет",
+        "TransferMCD": null,
+        "TransferAeroExpress": "",
+        "RailwayStation": {
+          "globalid": 1132155428,
+          "value": "Рижская"
+        },
+        "ExitTrainStations": "Рижский",
+        "ObjectStatus": "действует",
+        "globalid": 1058999474
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.652112,
+          55.775773
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Каланчевская",
+        "TransliterationStation": "Kalanchyovskaya",
+        "DiameterName": "МЦД-2",
+        "City": "город Москва",
+        "District": "Центральный административный округ",
+        "Area": "Красносельский район",
+        "Tariff": "Центральная",
+        "Platforms": 2,
+        "MaskStation": "нет",
+        "TransferMCD": null,
+        "TransferAeroExpress": "",
+        "RailwayStation": {
+          "globalid": 1132155516,
+          "value": "Каланчёвская"
+        },
+        "ExitTrainStations": "Ленинградский",
+        "ObjectStatus": "действует",
+        "globalid": 1059233585
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.661519,
+          55.757614
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Курская",
+        "TransliterationStation": "Kurskaya",
+        "DiameterName": "МЦД-2",
+        "City": "город Москва",
+        "District": "Центральный административный округ",
+        "Area": "Басманный район",
+        "Tariff": "Центральная",
+        "Platforms": 9,
+        "MaskStation": "нет",
+        "TransferMCD": null,
+        "TransferAeroExpress": "",
+        "RailwayStation": {
+          "globalid": 1132155409,
+          "value": "Курская"
+        },
+        "ExitTrainStations": "Курский",
+        "ObjectStatus": "действует",
+        "globalid": 1059233904
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.688837,
+          55.745356
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Москва-Товарная",
+        "TransliterationStation": "Moskva-Tovarnaya",
+        "DiameterName": "МЦД-2",
+        "City": "город Москва",
+        "District": "Юго-Восточный административный округ",
+        "Area": "Таганский район",
+        "Tariff": "Центральная",
+        "Platforms": 1,
+        "MaskStation": "нет",
+        "TransferMCD": null,
+        "TransferAeroExpress": "",
+        "RailwayStation": {
+          "globalid": 1132155410,
+          "value": "Москва-Товарная"
+        },
+        "ExitTrainStations": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059234781
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.702463,
+          55.733844
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Калитники",
+        "TransliterationStation": "Kalitniki",
+        "DiameterName": "МЦД-2",
+        "City": "город Москва",
+        "District": "Юго-Восточный административный округ",
+        "Area": "Нижегородский район",
+        "Tariff": "Центральная",
+        "Platforms": 2,
+        "MaskStation": "нет",
+        "TransferMCD": null,
+        "TransferAeroExpress": "",
+        "RailwayStation": {
+          "globalid": 1132155520,
+          "value": "Калитники"
+        },
+        "ExitTrainStations": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059234962
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.713798,
+          55.724282
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Новохохловская",
+        "TransliterationStation": "Novokhokhlovskaya",
+        "DiameterName": "МЦД-2",
+        "City": "город Москва",
+        "District": "Юго-Восточный административный округ",
+        "Area": "Нижегородский район",
+        "Tariff": "Центральная",
+        "Platforms": 1,
+        "MaskStation": "нет",
+        "TransferMCD": null,
+        "TransferAeroExpress": "",
+        "ExitTrainStations": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059235164
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.729899,
+          55.707111
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Текстильщики",
+        "TransliterationStation": "Tekstilschiki",
+        "DiameterName": "МЦД-2",
+        "City": "город Москва",
+        "District": "Юго-Восточный административный округ",
+        "Area": "район Текстильщики",
+        "Tariff": "Центральная",
+        "Platforms": 2,
+        "MaskStation": "нет",
+        "TransferMCD": null,
+        "TransferAeroExpress": "",
+        "ExitTrainStations": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059235328
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.734005,
+          55.684985
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Люблино",
+        "TransliterationStation": "Lyublino",
+        "DiameterName": "МЦД-2",
+        "City": "город Москва",
+        "District": "Юго-Восточный административный округ",
+        "Area": "район Печатники",
+        "Tariff": "Центральная",
+        "Platforms": 2,
+        "MaskStation": "нет",
+        "TransferMCD": null,
+        "TransferAeroExpress": "",
+        "RailwayStation": {
+          "globalid": 1132155414,
+          "value": "Люблино"
+        },
+        "ExitTrainStations": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059235510
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.728179,
+          55.674275
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Депо",
+        "TransliterationStation": "Depo",
+        "DiameterName": "МЦД-2",
+        "City": "город Москва",
+        "District": "Юго-Восточный административный округ",
+        "Area": "район Печатники",
+        "Tariff": "Центральная",
+        "Platforms": 1,
+        "MaskStation": "нет",
+        "TransferMCD": null,
+        "TransferAeroExpress": "",
+        "RailwayStation": {
+          "globalid": 1132155415,
+          "value": "Депо"
+        },
+        "ExitTrainStations": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059235707
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.716995,
+          55.661225
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Перерва",
+        "TransliterationStation": "Pererva",
+        "DiameterName": "МЦД-2",
+        "City": "город Москва",
+        "District": "Юго-Восточный административный округ",
+        "Area": "район Печатники",
+        "Tariff": "Центральная",
+        "Platforms": 2,
+        "MaskStation": "нет",
+        "TransferMCD": null,
+        "TransferAeroExpress": "",
+        "RailwayStation": {
+          "globalid": 1132155525,
+          "value": "Перерва"
+        },
+        "ExitTrainStations": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059236171
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.701552,
+          55.649861
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Курьяново",
+        "TransliterationStation": "Kuryanovo",
+        "DiameterName": "МЦД-2",
+        "City": "город Москва",
+        "District": "Юго-Восточный административный округ",
+        "Area": "район Печатники",
+        "Tariff": "Центральная",
+        "Platforms": 1,
+        "MaskStation": "нет",
+        "TransferMCD": null,
+        "TransferAeroExpress": "",
+        "RailwayStation": {
+          "globalid": 1132155418,
+          "value": "Курьяново"
+        },
+        "ExitTrainStations": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059236415
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.689931,
+          55.641196
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Москворечье",
+        "TransliterationStation": "Moskvorechye",
+        "DiameterName": "МЦД-2",
+        "City": "город Москва",
+        "District": "Южный административный округ",
+        "Area": "район Москворечье-Сабурово",
+        "Tariff": "Центральная",
+        "Platforms": 2,
+        "MaskStation": "нет",
+        "TransferMCD": null,
+        "TransferAeroExpress": "",
+        "RailwayStation": {
+          "globalid": 1132155419,
+          "value": "Москворечье"
+        },
+        "ExitTrainStations": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059237711
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.667718,
+          55.61789
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Царицыно",
+        "TransliterationStation": "Tsaritsyno",
+        "DiameterName": "МЦД-2",
+        "City": "город Москва",
+        "District": "Южный административный округ",
+        "Area": "район Бирюлево Восточное",
+        "Tariff": "Центральная",
+        "Platforms": 4,
+        "MaskStation": "нет",
+        "TransferMCD": null,
+        "TransferAeroExpress": "",
+        "RailwayStation": {
+          "globalid": 1132155420,
+          "value": "Царицыно"
+        },
+        "ExitTrainStations": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059237948
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.632235,
+          55.603317
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Покровское",
+        "TransliterationStation": "Pokrovskoe",
+        "DiameterName": "МЦД-2",
+        "City": "город Москва",
+        "District": "Южный административный округ",
+        "Area": "район Чертаново Южное",
+        "Tariff": "Центральная",
+        "Platforms": 2,
+        "MaskStation": "нет",
+        "TransferMCD": null,
+        "TransferAeroExpress": "",
+        "RailwayStation": {
+          "globalid": 1132155421,
+          "value": "Покровское"
+        },
+        "ExitTrainStations": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059238143
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.614536,
+          55.589168
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Красный Строитель",
+        "TransliterationStation": "Krasniy Stroitel",
+        "DiameterName": "МЦД-2",
+        "City": "город Москва",
+        "District": "Южный административный округ",
+        "Area": "район Бирюлево Западное",
+        "Tariff": "Центральная",
+        "Platforms": 2,
+        "MaskStation": "нет",
+        "TransferMCD": null,
+        "TransferAeroExpress": "",
+        "RailwayStation": {
+          "globalid": 1132155530,
+          "value": "Красный Строитель"
+        },
+        "ExitTrainStations": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059238308
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.61156,
+          55.571247
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Битца",
+        "TransliterationStation": "Bitsa",
+        "DiameterName": "МЦД-2",
+        "City": "Ленинский городской округ",
+        "District": "",
+        "Area": "",
+        "Tariff": "Центральная",
+        "Platforms": 2,
+        "MaskStation": "нет",
+        "TransferMCD": null,
+        "TransferAeroExpress": "",
+        "ExitTrainStations": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059238551
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.570544,
+          55.541226
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Бутово",
+        "TransliterationStation": "Butovo",
+        "DiameterName": "МЦД-2",
+        "City": "город Москва",
+        "District": "Юго-Западный административный округ",
+        "Area": "район Южное Бутово",
+        "Tariff": "Центральная",
+        "Platforms": 2,
+        "MaskStation": "нет",
+        "TransferMCD": null,
+        "TransferAeroExpress": "",
+        "RailwayStation": {
+          "globalid": 1132155531,
+          "value": "Бутово"
+        },
+        "ExitTrainStations": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059238979
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.562267,
+          55.510377
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Щербинка",
+        "TransliterationStation": "Scherbinka",
+        "DiameterName": "МЦД-2",
+        "City": "город Москва",
+        "District": "Новомосковский административный округ",
+        "Area": "городской округ Щербинка",
+        "Tariff": "Центральная",
+        "Platforms": 2,
+        "MaskStation": "нет",
+        "TransferMCD": null,
+        "TransferAeroExpress": "",
+        "RailwayStation": {
+          "globalid": 1132155532,
+          "value": "Щербинка"
+        },
+        "ExitTrainStations": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059239079
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.555195,
+          55.486256
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Остафьево",
+        "TransliterationStation": "Ostafyevo",
+        "DiameterName": "МЦД-2",
+        "City": "город Москва",
+        "District": "Новомосковский административный округ",
+        "Area": "поселение Рязановское",
+        "Tariff": "Центральная",
+        "Platforms": 2,
+        "MaskStation": "нет",
+        "TransferMCD": null,
+        "TransferAeroExpress": "",
+        "RailwayStation": {
+          "globalid": 1132155425,
+          "value": "Остафьево"
+        },
+        "ExitTrainStations": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059239080
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.555112,
+          55.470495
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Силикатная",
+        "TransliterationStation": "Silikatnaya",
+        "DiameterName": "МЦД-2",
+        "City": "городской округ Подольск",
+        "District": "",
+        "Area": "",
+        "Tariff": "Пригород",
+        "Platforms": 2,
+        "MaskStation": "нет",
+        "TransferMCD": null,
+        "TransferAeroExpress": "",
+        "ExitTrainStations": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059239118
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.565152,
+          55.432241
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Подольск",
+        "TransliterationStation": "Podolsk",
+        "DiameterName": "МЦД-2",
+        "City": "городской округ Подольск",
+        "District": "",
+        "Area": "",
+        "Tariff": "Пригород",
+        "Platforms": 3,
+        "MaskStation": "да",
+        "TransferMCD": null,
+        "TransferAeroExpress": "",
+        "ExitTrainStations": null,
+        "ObjectStatus": "действует",
+        "globalid": 1059239214
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.732185,
+          55.692865
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "StationName": "Печатники",
+        "TransliterationStation": "Pechatniki",
+        "DiameterName": "МЦД-2",
+        "City": "город Москва",
+        "District": "Юго-Восточный административный округ",
+        "Area": "район Печатники",
+        "Tariff": "Центральная",
+        "Platforms": 2,
+        "MaskStation": "нет",
+        "TransferMCD": null,
+        "TransferAeroExpress": "",
+        "ExitTrainStations": null,
+        "ObjectStatus": "действует",
+        "globalid": 2372331630
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

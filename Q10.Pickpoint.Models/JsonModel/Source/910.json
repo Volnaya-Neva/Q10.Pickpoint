@@ -1,0 +1,157 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.5967880397865,
+          55.7258061443962
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "мини-зоопарк",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Якиманка",
+        "Address": "улица Крымский Вал, дом 9, строение 1",
+        "Email": "official@park-gorkogo.com",
+        "WebSite": "www.park-gorkogo.com",
+        "HelpPhone": "(495) 995-00-20",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "да",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "да",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.05-30.09",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "деревянное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "приспособлен для всех групп инвалидов",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 625842769
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7877378928921,
+          55.6941754096078
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "мини-зоопарк",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Кузьминки",
+        "Address": "Тополёвая аллея, дом 16",
+        "Email": "dir-yuvao@eco.mos.ru",
+        "WebSite": "kuzpark.ru",
+        "HelpPhone": "(495) 258-45-60",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "грунтовое покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 930205950
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4361464676915,
+          55.7717991647162
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "мини-зоопарк, «Енотия»",
+        "AdmArea": "Западный административный округ",
+        "District": "район Крылатское",
+        "Address": "Крылатская улица, дом 30, строение 2",
+        "Email": "info@parkskazka.com",
+        "WebSite": "parkskazka.com/",
+        "HelpPhone": "(499) 113-45-96",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "да",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "да",
+        "HasFirstAidPost": "да",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1047358123
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6770233657093,
+          55.5933551914482
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "мини-зоопарк",
+        "AdmArea": "Южный административный округ",
+        "District": "район Бирюлёво Восточное",
+        "Address": "Липецкая улица, дом 10, корпус 2",
+        "Email": "oopt.uao@gmail.com",
+        "WebSite": "www.dpioos.ru/eco/ru/oopt/o1008",
+        "HelpPhone": "(499) 782-78-23",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "да",
+        "HasEatery": "нет",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-01.11",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "отсыпное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": "частично приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1047358130
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

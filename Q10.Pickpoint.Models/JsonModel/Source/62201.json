@@ -1,0 +1,285 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.5813118549838,
+          55.7768936333287
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Белорусский",
+        "Transliteration": "Belorusskiy Railway Terminal",
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "город Москва, площадь Тверская Застава, дом 7, строение 1",
+        "LongitudeWGS84": "37.58131185498377",
+        "LatitudeWGS84": "55.77689363332867",
+        "Aeroexpress": "Аэропорт Шереметьево",
+        "AeroexpressTerminal": "есть",
+        "AeroexpressTicketWindow": "есть",
+        "AeroexpressTicketAutomat": "есть",
+        "WiFiAvailability": "нет",
+        "BabyCareRoom": "нет",
+        "WebSite": "belorussky.dzvr.ru",
+        "ExtraInfo": "Планируется пересадка на МЦД-4",
+        "globalid": 1058611508
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6563762027765,
+          55.7735218489397
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Казанский",
+        "Transliteration": "Kazanskiy Railway Terminal",
+        "AdmArea": "Центральный административный округ",
+        "District": "Красносельский район",
+        "Address": "город Москва, Комсомольская площадь, дом 2",
+        "LongitudeWGS84": "37.6563762027765",
+        "LatitudeWGS84": "55.7735218489397",
+        "Aeroexpress": null,
+        "AeroexpressTerminal": "нет",
+        "AeroexpressTicketWindow": "нет",
+        "AeroexpressTicketAutomat": "нет",
+        "WiFiAvailability": "есть",
+        "BabyCareRoom": "есть",
+        "WebSite": "kazansky.dzvr.ru",
+        "ExtraInfo": "Планируется пересадка на МЦД-4",
+        "globalid": 1058611738
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6326024179034,
+          55.7925809499944
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Рижский",
+        "Transliteration": "Rizhskiy Railway Terminal",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Марьина Роща",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Марьина Роща, Рижская площадь, дом 1",
+        "LongitudeWGS84": "37.6326024179034",
+        "LatitudeWGS84": "55.7925809499944",
+        "Aeroexpress": null,
+        "AeroexpressTerminal": "нет",
+        "AeroexpressTicketWindow": "нет",
+        "AeroexpressTicketAutomat": "нет",
+        "WiFiAvailability": "есть",
+        "BabyCareRoom": "нет",
+        "WebSite": "rizhsky.dzvr.ru",
+        "ExtraInfo": "Планируется пересадка на МЦД-3 и МЦД-4",
+        "globalid": 1058611993
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6573380229531,
+          55.7767189166741
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Ярославский",
+        "Transliteration": "Yaroslavskiy Railway Terminal",
+        "AdmArea": "Центральный административный округ",
+        "District": "Красносельский район",
+        "Address": "город Москва, Комсомольская площадь, дом 5",
+        "LongitudeWGS84": "37.6573380229531",
+        "LatitudeWGS84": "55.7767189166741",
+        "Aeroexpress": null,
+        "AeroexpressTerminal": "нет",
+        "AeroexpressTicketWindow": "нет",
+        "AeroexpressTicketAutomat": "нет",
+        "WiFiAvailability": "есть",
+        "BabyCareRoom": "есть",
+        "WebSite": "yaroslavsky.dzvr.ru",
+        "ExtraInfo": "Планируется пересадка на МЦД-4",
+        "globalid": 1058612845
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6550038884932,
+          55.7766445500945
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Ленинградский",
+        "Transliteration": "Leningradskiy Railway Terminal",
+        "AdmArea": "Центральный административный округ",
+        "District": "Красносельский район",
+        "Address": "город Москва, Комсомольская площадь, дом 3",
+        "LongitudeWGS84": "37.6550038884932",
+        "LatitudeWGS84": "55.7766445500945",
+        "Aeroexpress": null,
+        "AeroexpressTerminal": "нет",
+        "AeroexpressTicketWindow": "нет",
+        "AeroexpressTicketAutomat": "нет",
+        "WiFiAvailability": "есть",
+        "BabyCareRoom": "есть",
+        "WebSite": "leningradsky.dzvr.ru",
+        "ExtraInfo": "Планируется пересадка на МЦД-4",
+        "globalid": 1058613060
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6608582467716,
+          55.757497106595
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Курский",
+        "Transliteration": "Kursky Railway Terminal",
+        "AdmArea": "Центральный административный округ",
+        "District": "Басманный район",
+        "Address": "город Москва, улица Земляной Вал, дом 29, строение 1",
+        "LongitudeWGS84": "37.6608582467716",
+        "LatitudeWGS84": "55.757497106595",
+        "Aeroexpress": null,
+        "AeroexpressTerminal": "нет",
+        "AeroexpressTicketWindow": "нет",
+        "AeroexpressTicketAutomat": "нет",
+        "WiFiAvailability": "есть",
+        "BabyCareRoom": "есть",
+        "WebSite": "kursky.dzvr.ru/",
+        "ExtraInfo": "Планируется пересадка на МЦД-4",
+        "globalid": 1058614652
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5880900996221,
+          55.7943579956359
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Савеловский",
+        "Transliteration": "Savelovsky Railway Terminal",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Бутырский район",
+        "Address": "город Москва, площадь Савёловского Вокзала, дом 2",
+        "LongitudeWGS84": "37.5880900996221",
+        "LatitudeWGS84": "55.7943579956359",
+        "Aeroexpress": "Аэропорт Шереметьево",
+        "AeroexpressTerminal": "есть",
+        "AeroexpressTicketWindow": "нет",
+        "AeroexpressTicketAutomat": "нет",
+        "WiFiAvailability": "есть",
+        "BabyCareRoom": "нет",
+        "WebSite": "savelovsky.dzvr.ru",
+        "ExtraInfo": "Планируется пересадка на МЦД-4",
+        "globalid": 1058615229
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.63953214978,
+          55.7297435221741
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Павелецкий",
+        "Transliteration": "Paveletsky Railway Terminal",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Замоскворечье",
+        "Address": "город Москва, Павелецкая площадь, дом 1А, строение 1",
+        "LongitudeWGS84": "37.63953214978",
+        "LatitudeWGS84": "55.7297435221741",
+        "Aeroexpress": "Аэропорт Домодедово",
+        "AeroexpressTerminal": "нет",
+        "AeroexpressTicketWindow": "нет",
+        "AeroexpressTicketAutomat": "нет",
+        "WiFiAvailability": "есть",
+        "BabyCareRoom": "есть",
+        "WebSite": "paveletsky.dzvr.ru",
+        "ExtraInfo": "",
+        "globalid": 1058615635
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5663404195679,
+          55.7430813650752
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Киевский",
+        "Transliteration": "Kievsky Railway Terminal",
+        "AdmArea": "Западный административный округ",
+        "District": "район Дорогомилово",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Дорогомилово, площадь Киевского Вокзала, дом 1",
+        "LongitudeWGS84": "37.5663404195679",
+        "LatitudeWGS84": "55.7430813650752",
+        "Aeroexpress": "Аэропорт Внуково",
+        "AeroexpressTerminal": "нет",
+        "AeroexpressTicketWindow": "нет",
+        "AeroexpressTicketAutomat": "есть",
+        "WiFiAvailability": "есть",
+        "BabyCareRoom": "есть",
+        "WebSite": "kievsky.dzvr.ru",
+        "ExtraInfo": "",
+        "globalid": 1058616246
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7472775577111,
+          55.8027423531649
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Восточный",
+        "Transliteration": "Vostochniy Railway Terminal",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Гольяново",
+        "Address": "город Москва, Щёлковское шоссе, дом 1, строение 5",
+        "LongitudeWGS84": "37.7472775577111",
+        "LatitudeWGS84": "55.8027423531649",
+        "Aeroexpress": null,
+        "AeroexpressTerminal": "нет",
+        "AeroexpressTicketWindow": "нет",
+        "AeroexpressTicketAutomat": "нет",
+        "WiFiAvailability": "есть",
+        "BabyCareRoom": "есть",
+        "WebSite": "",
+        "ExtraInfo": "",
+        "globalid": 1124877069
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

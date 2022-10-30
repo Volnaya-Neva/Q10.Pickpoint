@@ -1,0 +1,551 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.481891186426,
+          55.8188884237479
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectName": "Парк (озелененная городская территория) «Природный исторический парк «Покровское Стрешнево»",
+        "NameSummer": "зона отдыха у воды",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Покровское-Стрешнево",
+        "Address": "Иваньковское шоссе, дом 6",
+        "Email": "mospriroda@eco.mos.ru",
+        "WebSite": "www.mospriroda.ru",
+        "HelpPhone": "(499) 739-27-05",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "EquipmentRentalComments": "",
+        "HasTechService": "нет",
+        "TechServiceComments": "бесплатно",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.04-30.11",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "газонное покрытие (натуральное)",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "PaidComments": "",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407145012
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4789301433201,
+          55.8193729111173
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectName": "Парк (озелененная городская территория) «Природный исторический парк «Покровское Стрешнево»",
+        "NameSummer": "универсальная зона отдыха в парке",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Покровское-Стрешнево",
+        "Address": "Иваньковское шоссе, дом 6",
+        "Email": "mospriroda@eco.mos.ru",
+        "WebSite": "www.mospriroda.ru",
+        "HelpPhone": "(499) 739-27-05",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "EquipmentRentalComments": "",
+        "HasTechService": "нет",
+        "TechServiceComments": "бесплатно",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.09-31.08",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "деревянное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "PaidComments": "",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 688502828
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5616268222834,
+          55.8756879929689
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectName": "Парк народный",
+        "NameSummer": "универсальная зона отдыха в парке",
+        "AdmArea": "Северный административный округ",
+        "District": "район Восточное Дегунино",
+        "Address": "улица 800-летия Москвы, дом 26, корпус 2",
+        "Email": "sao-ur-vdegunino@mos.ru",
+        "WebSite": "vost-degunino.mos.ru/",
+        "HelpPhone": "(499) 900-46-33",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "EquipmentRentalComments": "",
+        "HasTechService": "нет",
+        "TechServiceComments": "",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.09-31.08",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "асфальтовое, бетонное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "PaidComments": "",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 688502931
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5230604004194,
+          55.839915449139
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectName": "Парк, озелененная городская территория",
+        "NameSummer": "универсальная зона отдыха",
+        "AdmArea": "Северный административный округ",
+        "District": "район Коптево",
+        "Address": "проезд Черепановых, дом 24, строение 1",
+        "Email": "gbuKoptevo@mail.ru",
+        "WebSite": "gbu-koptevo.ru",
+        "HelpPhone": "(495) 450-41-93",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "EquipmentRentalComments": "",
+        "HasTechService": "нет",
+        "TechServiceComments": "",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.09-31.08",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "PaidComments": "",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 688503128
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4134148380502,
+          55.7908554997642
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectName": "Парк, озелененная городская территория «Памятник природы «Серебряный бор»",
+        "NameSummer": "универсальная зона отдыха в парке",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Хорошёво-Мнёвники",
+        "Address": "Таманская улица, дом 2А, строение 1",
+        "Email": "dir-serbor@mos.eco.ru",
+        "WebSite": "www.mospriroda.ru",
+        "HelpPhone": "(499) 199-01-10",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "EquipmentRentalComments": "",
+        "HasTechService": "нет",
+        "TechServiceComments": "",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "да",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.09-31.08",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "газонное покрытие (натуральное)",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "PaidComments": "",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 688503260
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4656513240933,
+          55.7124610759889
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectName": "Природный заказник «Долина реки Сетунь»",
+        "NameSummer": "универсальная зона отдыха в парке",
+        "AdmArea": "Западный административный округ",
+        "District": "район Фили-Давыдково",
+        "Address": "Кременчугская улица, дом 36",
+        "Email": "mospriroda@eco.mos.ru",
+        "WebSite": "www.mospriroda.ru",
+        "HelpPhone": "(499) 739-27-05",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "EquipmentRentalComments": "",
+        "HasTechService": "нет",
+        "TechServiceComments": "",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.01-31.12",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "отсыпное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "PaidComments": "",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 688504274
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4213685164764,
+          55.7153669514354
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectName": "Парк, особо охраняемая природная территория",
+        "NameSummer": "универсальная зона отдыха в парке №3, «площадка для тихого отдыха»",
+        "AdmArea": "Западный административный округ",
+        "District": "Можайский район",
+        "Address": "Дорогобужская улица, дом 14, строение 40",
+        "Email": "uoopt.zao@gmail.com",
+        "WebSite": "uooptzao.ru",
+        "HelpPhone": "(499) 726-15-85",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "EquipmentRentalComments": "",
+        "HasTechService": "нет",
+        "TechServiceComments": "",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.01-31.12",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "отсыпное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "PaidComments": "",
+        "DisabilityFriendly": "частично приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 688505137
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.421031538307,
+          55.715376029759
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectName": "Парк, особо охраняемая природная территория",
+        "NameSummer": "универсальная зона отдыха в парке №1, «площадка для тихого отдыха»",
+        "AdmArea": "Западный административный округ",
+        "District": "Можайский район",
+        "Address": "Дорогобужская улица, дом 14, строение 40",
+        "Email": "uoopt.zao@gmail.com",
+        "WebSite": "uooptzao.ru",
+        "HelpPhone": "(499) 726-15-85",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "EquipmentRentalComments": "",
+        "HasTechService": "нет",
+        "TechServiceComments": "",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.01-31.12",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "отсыпное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "PaidComments": "",
+        "DisabilityFriendly": "частично приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 688505138
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4216140653721,
+          55.7153545252493
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectName": "Парк, особо охраняемая природная территория",
+        "NameSummer": "универсальная зона отдыха в парке №2, «площадка для тихого отдыха»",
+        "AdmArea": "Западный административный округ",
+        "District": "Можайский район",
+        "Address": "Дорогобужская улица, дом 14, строение 40",
+        "Email": "uoopt.zao@gmail.com",
+        "WebSite": "uooptzao.ru",
+        "HelpPhone": "(499) 726-15-85",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "EquipmentRentalComments": "",
+        "HasTechService": "нет",
+        "TechServiceComments": "",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.01-31.12",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "отсыпное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "PaidComments": "",
+        "DisabilityFriendly": "частично приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 688505141
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5357909847641,
+          55.6425763677898
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectName": "Парк, озелененная городская территория",
+        "NameSummer": "универсальная зона отдыха в парке",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Коньково",
+        "Address": "улица Генерала Антонова, дом 8",
+        "Email": "Uzao-konkovo@mos.ru",
+        "WebSite": "gbu-kon.ru",
+        "HelpPhone": "(495) 420-94-85",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "EquipmentRentalComments": "",
+        "HasTechService": "нет",
+        "TechServiceComments": "",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "нет",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.09-31.08",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "асфальтовое, бетонное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "PaidComments": "",
+        "DisabilityFriendly": "частично приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 688505651
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5046230528768,
+          55.7194135345393
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectName": "Парк у Мосфильмовского пруда",
+        "NameSummer": "зона массового отдыха Мосфильмовский пруд",
+        "AdmArea": "Западный административный округ",
+        "District": "район Раменки",
+        "Address": "улица Довженко, дом 12, корпус 2",
+        "Email": "mospriroda@eco.mos.ru",
+        "WebSite": "www.mospriroda.ru",
+        "HelpPhone": "(499) 739-27-05",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "да",
+        "EquipmentRentalComments": "велосипеды детские, прокат, платно, лето ",
+        "HasTechService": "нет",
+        "TechServiceComments": "",
+        "HasDressingRoom": "нет",
+        "HasEatery": "нет",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.01-31.12",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "газонное покрытие (натуральное)",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "PaidComments": "",
+        "DisabilityFriendly": "частично приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1022257437
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4362599490432,
+          55.7720276995943
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectName": "Парк, озелененная городская территория «Семейный парк «Сказка»",
+        "NameSummer": "универсальная зона отдыха в парке, «Айс парк»",
+        "AdmArea": "Западный административный округ",
+        "District": "район Крылатское",
+        "Address": "Крылатская улица, дом 30, строение 2",
+        "Email": "info@parkskazka.com",
+        "WebSite": "parkskazka.com/",
+        "HelpPhone": "(499) 113-45-96",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "EquipmentRentalComments": "",
+        "HasTechService": "да",
+        "TechServiceComments": "",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "да",
+        "HasFirstAidPost": "да",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.09-31.08",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "PaidComments": "",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1022257438
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5648000328119,
+          55.8194192680365
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ObjectName": "Парк «Дубки»",
+        "NameSummer": "Универсальная зона отдыха с качелями",
+        "AdmArea": "Северный административный округ",
+        "District": "Тимирязевский район",
+        "Address": "улица Дубки, дом 6",
+        "Email": "parkdubki@culture.mos.ru",
+        "WebSite": "www.park-dubki.ru",
+        "HelpPhone": "(910) 458-53-00",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "EquipmentRentalComments": "",
+        "HasTechService": "нет",
+        "TechServiceComments": "",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "нет",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "да",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.01-31.12",
+        "Lighting": "без дополнительного освещения",
+        "SurfaceTypeSummer": "асфальтовое, бетонное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "PaidComments": "",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 2366648151
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

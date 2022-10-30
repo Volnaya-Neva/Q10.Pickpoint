@@ -1,0 +1,27 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.6638926428226,
+          55.6174388460996
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "TerritorialUnit": "Неотложная ветеринарная помощь",
+        "AdmArea": "Южный административный округ",
+        "District": "район Царицыно",
+        "Address": "город Москва, Каспийская улица, дом 40",
+        "WebSite": "",
+        "Comments": "",
+        "globalid": 902555577,
+        "PublicPhoneglobalid0": 5,
+        "PublicPhoneisdeleted0": 0,
+        "PublicPhonePublicPhone0": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

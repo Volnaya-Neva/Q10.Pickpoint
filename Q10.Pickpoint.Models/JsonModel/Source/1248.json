@@ -1,0 +1,24 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.5272674710513,
+          55.8776157607667
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Северный административный округ",
+        "District": "Дмитровский район",
+        "Address": "Ангарская улица, дом 53, корпус 1",
+        "Email": "Liapark@ya.ru",
+        "WebSite": "liapark.ru/park-angarskie-prudy",
+        "HelpPhone": "(499) 908-35-00",
+        "globalid": 1266771941
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

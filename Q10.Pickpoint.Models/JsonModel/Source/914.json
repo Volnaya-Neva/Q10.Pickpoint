@@ -1,0 +1,195 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.7731739368221,
+          55.7422354878023
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "автодром аттракционный",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Перово",
+        "Address": "улица Лазо, дом 7",
+        "Email": "ppkio@mail.ru",
+        "WebSite": "www.perovskiy-park.ru",
+        "HelpPhone": "(495) 309-53-42",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "да",
+        "HasDressingRoom": "нет",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "асфальтовое, бетонное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407124028
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5273344395926,
+          55.6681015291915
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "автодром аттракционный №2",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "Обручевский район",
+        "Address": "Воронцовский парк, дом 3",
+        "Email": "info@usadba-vorontsovo.ru",
+        "WebSite": "www.usadba-vorontsovo.ru",
+        "HelpPhone": "(495) 580-26-78",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": "не приспособлен",
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 407135832
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.2352098424333,
+          55.9858865197086
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "автодром аттракционный",
+        "AdmArea": "Зеленоградский административный округ",
+        "District": "район Савёлки",
+        "Address": "город Зеленоград, корпус 105",
+        "Email": "zelkultura@mail.ru",
+        "WebSite": "zelkultura.ru",
+        "HelpPhone": "(499) 729-81-31",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "нет",
+        "HasDressingRoom": "да",
+        "HasEatery": "нет",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.05-30.09",
+        "Lighting": "освещение лампами накаливания",
+        "SurfaceTypeSummer": "асфальтовое, бетонное покрытие",
+        "Seats": 0,
+        "Paid": "бесплатно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 930089774
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5123223443212,
+          55.7305425601007
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "автодром аттракционный",
+        "AdmArea": "Западный административный округ",
+        "District": "район Дорогомилово",
+        "Address": "площадь Победы, дом 3, строение 2",
+        "Email": "info@poklonnaya-gora.ru",
+        "WebSite": "wikiway.com/russia/moskva/poklonnaya-gora/",
+        "HelpPhone": "(499) 148-83-00",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "да",
+        "HasTechService": "нет",
+        "HasDressingRoom": "нет",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "нет",
+        "HasFirstAidPost": "нет",
+        "HasMusic": "нет",
+        "UsagePeriodSummer": "01.05-30.09",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "асфальтовое, бетонное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 930205821
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4342319663108,
+          55.7720968386558
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "NameSummer": "автодром аттракционный, «Бамперные машинки»",
+        "AdmArea": "Западный административный округ",
+        "District": "район Крылатское",
+        "Address": "Крылатская улица, дом 30, строение 2",
+        "Email": "info@parkskazka.com",
+        "WebSite": "parkskazka.com/",
+        "HelpPhone": "(499) 113-45-96",
+        "HelpPhoneExtension": "",
+        "ClarificationOfWorkingHoursSummer": "",
+        "HasEquipmentRental": "нет",
+        "HasTechService": "да",
+        "HasDressingRoom": "да",
+        "HasEatery": "да",
+        "HasToilet": "да",
+        "HasWifi": "да",
+        "HasCashMachine": "да",
+        "HasFirstAidPost": "да",
+        "HasMusic": "да",
+        "UsagePeriodSummer": "01.04-31.10",
+        "Lighting": "смешанное освещение",
+        "SurfaceTypeSummer": "специальное покрытие",
+        "Seats": 0,
+        "Paid": "платно",
+        "DisabilityFriendly": null,
+        "ServicesSummer": "общая физическая подготовка",
+        "globalid": 1047340384
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

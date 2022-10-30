@@ -1,0 +1,3345 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.691030166675,
+          55.741460690732
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 3,
+        "Addressen": "Международная улица, дом 25",
+        "AdmAreaen": "Czentral`ny'j administrativny'j okrug",
+        "Districten": "Taganskij rajon",
+        "TotalParkingSlotsen": 390,
+        "ConstructionBeginen": "февраль 2010 года",
+        "ConstructionEnden": "март 2011 года",
+        "globalid": 20440992
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.692749573707,
+          55.739611343782
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 4,
+        "Addressen": "Международная улица, дом 27",
+        "AdmAreaen": "Czentral`ny'j administrativny'j okrug",
+        "Districten": "Taganskij rajon",
+        "TotalParkingSlotsen": 375,
+        "ConstructionBeginen": "февраль 2010 года",
+        "ConstructionEnden": "март 2011 года",
+        "globalid": 20440993
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.509377600938,
+          55.876079327219
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 6,
+        "Addressen": "Базовская улица, дом 8А",
+        "AdmAreaen": "Severny'j administrativny'j okrug",
+        "Districten": "rajon Zapadnoe Degunino",
+        "TotalParkingSlotsen": 125,
+        "ConstructionBeginen": "март 2010 года",
+        "ConstructionEnden": "май 2011 года",
+        "globalid": 20440995
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.573253296561,
+          55.802535726004
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 7,
+        "Addressen": "Башиловская улица, дом 23, сооружение 1, сооружение 2, сооружение 3",
+        "AdmAreaen": "Severny'j administrativny'j okrug",
+        "Districten": "Savyolovskij rajon",
+        "TotalParkingSlotsen": 123,
+        "ConstructionBeginen": "август 2010 года",
+        "ConstructionEnden": "март 2012 года",
+        "globalid": 20440996
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.570730295773,
+          55.802482401731
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 8,
+        "Addressen": "Башиловская улица, дом 23Б",
+        "AdmAreaen": "Severny'j administrativny'j okrug",
+        "Districten": "Savyolovskij rajon",
+        "TotalParkingSlotsen": 100,
+        "ConstructionBeginen": "сентябрь 2010 года",
+        "ConstructionEnden": "декабрь 2011 года",
+        "globalid": 20440997
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.517644248488,
+          55.87268238644
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 11,
+        "Addressen": "Весенняя улица, дом 6А",
+        "AdmAreaen": "Severny'j administrativny'j okrug",
+        "Districten": "rajon Zapadnoe Degunino",
+        "TotalParkingSlotsen": 98,
+        "ConstructionBeginen": "декабрь 2011 года",
+        "ConstructionEnden": "июль 2013 года",
+        "globalid": 20441000
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.52649796547,
+          55.866115004824
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 12,
+        "Addressen": "улица Ивана Сусанина, дом 2, строение 1",
+        "AdmAreaen": "Severny'j administrativny'j okrug",
+        "Districten": "rajon Zapadnoe Degunino",
+        "TotalParkingSlotsen": 299,
+        "ConstructionBeginen": "ноябрь 2010 года",
+        "ConstructionEnden": "декабрь 2013 года",
+        "globalid": 20441001
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.542002569536,
+          55.800485347988
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 13,
+        "Addressen": "Красноармейская улица, дом 15А",
+        "AdmAreaen": "Severny'j administrativny'j okrug",
+        "Districten": "rajon Ae'roport",
+        "TotalParkingSlotsen": 99,
+        "ConstructionBeginen": "апрель 2010 года",
+        "ConstructionEnden": "сентябрь 2011 года",
+        "globalid": 20441002
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.523727898384,
+          55.827918367673
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 14,
+        "Addressen": "Новопетровская улица, дом 7А",
+        "AdmAreaen": "Severny'j administrativny'j okrug",
+        "Districten": "rajon Koptevo",
+        "TotalParkingSlotsen": 149,
+        "ConstructionBeginen": "май 2010 года",
+        "ConstructionEnden": "март 2011 года",
+        "globalid": 20441003
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.537060397035,
+          55.884143028313
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 18,
+        "Addressen": "Учинская улица, дом 6А",
+        "AdmAreaen": "Severny'j administrativny'j okrug",
+        "Districten": "Dmitrovskij rajon",
+        "TotalParkingSlotsen": 100,
+        "ConstructionBeginen": "март 2010 года",
+        "ConstructionEnden": "декабрь 2011 года",
+        "globalid": 20441007
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.614437398591,
+          55.821034661754
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 19,
+        "Addressen": "улица Академика Королёва, дом 15А",
+        "AdmAreaen": "Severo-Vostochny'j administrativny'j okrug",
+        "Districten": "Ostankinskij rajon",
+        "TotalParkingSlotsen": 440,
+        "ConstructionBeginen": "октябрь 2010 года",
+        "ConstructionEnden": "июль 2013 года",
+        "globalid": 20441008
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.617099555174,
+          55.864989552684
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 23,
+        "Addressen": "улица Пестеля, дом 6, корпус 1",
+        "AdmAreaen": "Severo-Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Otradnoe",
+        "TotalParkingSlotsen": 170,
+        "ConstructionBeginen": "август 2010 года",
+        "ConstructionEnden": "сентябрь 2013 года",
+        "globalid": 20441012
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.609569863187,
+          55.876709892556
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 24,
+        "Addressen": "улица Римского-Корсакова, дом 15Б, строение 4",
+        "AdmAreaen": "Severo-Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Otradnoe",
+        "TotalParkingSlotsen": 409,
+        "ConstructionBeginen": "июнь 2010 года",
+        "ConstructionEnden": "февраль 2012 года",
+        "globalid": 20441013
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.550851266608,
+          55.914786777346
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 26,
+        "Addressen": "Челобитьевское шоссе, дом 4А",
+        "AdmAreaen": "Severo-Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Severny'j",
+        "TotalParkingSlotsen": 196,
+        "ConstructionBeginen": "август 2010 года",
+        "ConstructionEnden": "январь 2014 года",
+        "globalid": 20441015
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.910534847581,
+          55.827375332845
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 27,
+        "Addressen": "Северный, микрорайон 9, корпус 2",
+        "AdmAreaen": "Severo-Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Severny'j",
+        "TotalParkingSlotsen": 197,
+        "ConstructionBeginen": "апрель 2010 года",
+        "ConstructionEnden": "июнь 2013 года",
+        "globalid": 20441016
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.663965642595,
+          55.852179091595
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 28,
+        "Addressen": "Уржумская улица, 4, корпус 1",
+        "AdmAreaen": "Severo-Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Sviblovo",
+        "TotalParkingSlotsen": 360,
+        "ConstructionBeginen": "март 2010 года",
+        "ConstructionEnden": "февраль 2011 года",
+        "globalid": 20441017
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.707171362283,
+          55.813251822127
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 29,
+        "Addressen": "3-я Гражданская улица, дом 19",
+        "AdmAreaen": "Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Bogorodskoe",
+        "TotalParkingSlotsen": 182,
+        "ConstructionBeginen": "март 2012 года",
+        "ConstructionEnden": "октябрь 2012 года",
+        "globalid": 20441018
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.826277363668,
+          55.724710254425
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 31,
+        "Addressen": "Вешняковская улица, дом 16, блок А, стр. 1",
+        "AdmAreaen": "Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Veshnyaki",
+        "TotalParkingSlotsen": 183,
+        "ConstructionBeginen": "март 2010 года",
+        "ConstructionEnden": "июнь 2011 года",
+        "globalid": 20441020
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.82554423849,
+          55.725171855273
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 32,
+        "Addressen": "Вешняковская улица, дом 16, блок Б",
+        "AdmAreaen": "Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Veshnyaki",
+        "TotalParkingSlotsen": 100,
+        "ConstructionBeginen": "март 2010 года",
+        "ConstructionEnden": "июнь 2011 года",
+        "globalid": 20441021
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.679254596699,
+          55.784437170072
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 33,
+        "Addressen": "улица Жебрунова, 6Б",
+        "AdmAreaen": "Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Sokol`niki",
+        "TotalParkingSlotsen": 369,
+        "ConstructionBeginen": "октябрь 2010 года",
+        "ConstructionEnden": "август 2012 года",
+        "globalid": 20441022
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.829129995584,
+          55.745685350395
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 34,
+        "Addressen": "Кетчерская улица, дом 5А",
+        "AdmAreaen": "Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Veshnyaki",
+        "TotalParkingSlotsen": 292,
+        "ConstructionBeginen": "июнь 2010 года",
+        "ConstructionEnden": "май 2012 года",
+        "globalid": 20441023
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.839145569093,
+          55.782812095021
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 35,
+        "Addressen": "Малый Купавенский проезд, дом 14А",
+        "AdmAreaen": "Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Ivanovskoe",
+        "TotalParkingSlotsen": 350,
+        "ConstructionBeginen": "февраль 2010 года",
+        "ConstructionEnden": "декабрь 2011 года",
+        "globalid": 20441024
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.749330344092,
+          55.825775619365
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 36,
+        "Addressen": "Открытое шоссе, дом 19Б",
+        "AdmAreaen": "Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Bogorodskoe",
+        "TotalParkingSlotsen": 207,
+        "ConstructionBeginen": "март 2010 года",
+        "ConstructionEnden": "март 2011 года",
+        "globalid": 20441025
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.768755941669,
+          55.829173471152
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 37,
+        "Addressen": "Открытое шоссе, дом 30А",
+        "AdmAreaen": "Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Bogorodskoe",
+        "TotalParkingSlotsen": 95,
+        "ConstructionBeginen": "июль 2010 года",
+        "ConstructionEnden": "апрель 2011 года",
+        "globalid": 20441026
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.830304569221,
+          55.813928883239
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 38,
+        "Addressen": "Хабаровская улица, дом 2А",
+        "AdmAreaen": "Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Gol`yanovo",
+        "TotalParkingSlotsen": 248,
+        "ConstructionBeginen": "октябрь 2010 года",
+        "ConstructionEnden": "октябрь 2012 года",
+        "globalid": 20441027
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.753978898722,
+          55.754103900536
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 39,
+        "Addressen": "Электродная улица, дом 5",
+        "AdmAreaen": "Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Perovo",
+        "TotalParkingSlotsen": 190,
+        "ConstructionBeginen": "январь 2011 года",
+        "ConstructionEnden": "март 2013 года",
+        "globalid": 20441028
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.685069714362,
+          55.699395143838
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 40,
+        "Addressen": "2-й Южнопортовый проезд, дом 13, корпус 2",
+        "AdmAreaen": "Yugo-Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Pechatniki",
+        "TotalParkingSlotsen": 250,
+        "ConstructionBeginen": "март 2010 года",
+        "ConstructionEnden": "декабрь 2011 года",
+        "globalid": 20441029
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.685898264101,
+          55.699857627308
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 41,
+        "Addressen": "2-й Южнопортовый проезд, дом 15, корпус 2",
+        "AdmAreaen": "Yugo-Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Pechatniki",
+        "TotalParkingSlotsen": 253,
+        "ConstructionBeginen": "март 2010 года",
+        "ConstructionEnden": "декабрь 2011 года",
+        "globalid": 20441030
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.718685637677,
+          55.743501435221
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 42,
+        "Addressen": "2-й Кабельный проезд, дом 11",
+        "AdmAreaen": "Yugo-Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Lefortovo",
+        "TotalParkingSlotsen": 154,
+        "ConstructionBeginen": "октябрь 2010 года",
+        "ConstructionEnden": "декабрь 2011 года",
+        "globalid": 20441031
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.851300917185,
+          55.694277806999
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 43,
+        "Addressen": "Привольная улица, дом 33, корпус 1",
+        "AdmAreaen": "Yugo-Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Vy'xino-Zhulebino",
+        "TotalParkingSlotsen": 700,
+        "ConstructionBeginen": "март 2010 года",
+        "ConstructionEnden": "декабрь 2011 года",
+        "globalid": 20441032
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.852141251322,
+          55.694516521401
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 44,
+        "Addressen": "Привольная улица, дом 33, корпус 2",
+        "AdmAreaen": "Yugo-Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Vy'xino-Zhulebino",
+        "TotalParkingSlotsen": 313,
+        "ConstructionBeginen": "март 2010 года",
+        "ConstructionEnden": "декабрь 2011 года",
+        "globalid": 20441033
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.788389459571,
+          55.672130164183
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 45,
+        "Addressen": "Краснодарский проезд, дом 12",
+        "AdmAreaen": "Yugo-Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Lyublino",
+        "TotalParkingSlotsen": 482,
+        "ConstructionBeginen": "март 2010 года",
+        "ConstructionEnden": "февраль 2011 года",
+        "globalid": 20441034
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.783525900967,
+          55.668307428678
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 46,
+        "Addressen": "Краснодарский проезд, дом 2",
+        "AdmAreaen": "Yugo-Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Lyublino",
+        "TotalParkingSlotsen": 494,
+        "ConstructionBeginen": "март 2010 года",
+        "ConstructionEnden": "февраль 2011 года",
+        "globalid": 20441035
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.78683714204,
+          55.670384676118
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 47,
+        "Addressen": "Краснодарский проезд, дом 8",
+        "AdmAreaen": "Yugo-Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Lyublino",
+        "TotalParkingSlotsen": 494,
+        "ConstructionBeginen": "март 2010 года",
+        "ConstructionEnden": "февраль 2011 года",
+        "globalid": 20441036
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.778012545289,
+          55.664956244493
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 48,
+        "Addressen": "улица Верхние Поля, дом 44",
+        "AdmAreaen": "Yugo-Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Mar`ino",
+        "TotalParkingSlotsen": 322,
+        "ConstructionBeginen": "июнь 2010 года",
+        "ConstructionEnden": "июнь 2011 года",
+        "globalid": 20441037
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.759745678059,
+          55.673028348867
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 49,
+        "Addressen": "Новороссийская улица, 23, корпус 1",
+        "AdmAreaen": "Yugo-Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Lyublino",
+        "TotalParkingSlotsen": 397,
+        "ConstructionBeginen": "октябрь 2010 года",
+        "ConstructionEnden": "июнь 2014 года",
+        "globalid": 20441038
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.838854727138,
+          55.684581243898
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 57,
+        "Addressen": "Привольная улица, дом 54, корпус 2",
+        "AdmAreaen": "Yugo-Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Vy'xino-Zhulebino",
+        "TotalParkingSlotsen": 450,
+        "ConstructionBeginen": "март 2010 года",
+        "ConstructionEnden": "август 2011 года",
+        "globalid": 20441046
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.79790134647,
+          55.709072774745
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 58,
+        "Addressen": "Сормовский проезд, дом 7, корпус 2",
+        "AdmAreaen": "Yugo-Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Vy'xino-Zhulebino",
+        "TotalParkingSlotsen": 315,
+        "ConstructionBeginen": "апрель 2010 года",
+        "ConstructionEnden": "июль 2011 года",
+        "globalid": 20441047
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.772459303135,
+          55.634804446172
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 60,
+        "Addressen": "Братеевская улица, дом 22А",
+        "AdmAreaen": "Yuzhny'j administrativny'j okrug",
+        "Districten": "rajon Brateevo",
+        "TotalParkingSlotsen": 328,
+        "ConstructionBeginen": "сентябрь 2010 года",
+        "ConstructionEnden": "июль 2013 года",
+        "globalid": 20441049
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.771274627605,
+          55.634269840306
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 61,
+        "Addressen": "Братеевская улица, 20, корпус 2",
+        "AdmAreaen": "Yuzhny'j administrativny'j okrug",
+        "Districten": "rajon Brateevo",
+        "TotalParkingSlotsen": 397,
+        "ConstructionBeginen": "январь 2011 года",
+        "ConstructionEnden": "июль 2015 года",
+        "globalid": 20441050
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.772142195818,
+          55.636572597363
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 62,
+        "Addressen": "Братеевская улица, дом 24, корпус 1",
+        "AdmAreaen": "Yuzhny'j administrativny'j okrug",
+        "Districten": "rajon Brateevo",
+        "TotalParkingSlotsen": 472,
+        "ConstructionBeginen": "сентябрь 2010 года",
+        "ConstructionEnden": "май 2011 года",
+        "globalid": 20441051
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.735029234176,
+          55.611460306112
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 63,
+        "Addressen": "Воронежская улица, дом 13, корпус 2",
+        "AdmAreaen": "Yuzhny'j administrativny'j okrug",
+        "Districten": "rajon Orexovo-Borisovo Yuzhnoe",
+        "TotalParkingSlotsen": 517,
+        "ConstructionBeginen": "ноябрь 2010 года",
+        "ConstructionEnden": "март 2013 года",
+        "globalid": 20441052
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.711866348166,
+          55.605410520305
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 64,
+        "Addressen": "Домодедовская улица, дом 26",
+        "AdmAreaen": "Yuzhny'j administrativny'j okrug",
+        "Districten": "rajon Orexovo-Borisovo Yuzhnoe",
+        "TotalParkingSlotsen": 91,
+        "ConstructionBeginen": "июль 2010 года",
+        "ConstructionEnden": "август 2012 года",
+        "globalid": 20441053
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.638611164095,
+          55.711646833949
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 65,
+        "Addressen": "2-й Павелецкий проезд, дом 14",
+        "AdmAreaen": "Yuzhny'j administrativny'j okrug",
+        "Districten": "Danilovskij rajon",
+        "TotalParkingSlotsen": 120,
+        "ConstructionBeginen": "ноябрь 2010 года",
+        "ConstructionEnden": "сентябрь 2012 года",
+        "globalid": 20441054
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.718483916234,
+          55.605330263921
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 66,
+        "Addressen": "Каширское шоссе, дом 122, корпус 2",
+        "AdmAreaen": "Yuzhny'j administrativny'j okrug",
+        "Districten": "rajon Orexovo-Borisovo Yuzhnoe",
+        "TotalParkingSlotsen": 100,
+        "ConstructionBeginen": "май 2011 года",
+        "ConstructionEnden": "март 2014 года",
+        "globalid": 20441055
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.697771272859,
+          55.619971422582
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 67,
+        "Addressen": "улица Маршала Захарова, дом 23, корпус 1",
+        "AdmAreaen": "Yuzhny'j administrativny'j okrug",
+        "Districten": "rajon Orexovo-Borisovo Severnoe",
+        "TotalParkingSlotsen": 300,
+        "ConstructionBeginen": "март 2010 года",
+        "ConstructionEnden": "июль 2012 года",
+        "globalid": 20441056
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.649417465412,
+          55.644734837295
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 68,
+        "Addressen": "улица Москворечье, 2, корпус 3",
+        "AdmAreaen": "Yuzhny'j administrativny'j okrug",
+        "Districten": "rajon Moskvorech`e-Saburovo",
+        "TotalParkingSlotsen": 182,
+        "ConstructionBeginen": "ноябрь 2011 года",
+        "ConstructionEnden": "август 2012 года",
+        "globalid": 20441057
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.615167951045,
+          55.594572572146
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 69,
+        "Addressen": "Россошанская улица, дом 13, корпус 4",
+        "AdmAreaen": "Yuzhny'j administrativny'j okrug",
+        "Districten": "rajon Chertanovo Yuzhnoe",
+        "TotalParkingSlotsen": 42,
+        "ConstructionBeginen": "июнь 2010 года",
+        "ConstructionEnden": "апрель 2012 года",
+        "globalid": 20441058
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.64762362162,
+          55.632565148501
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 70,
+        "Addressen": "улица Бехтерева, дом 14",
+        "AdmAreaen": "Yuzhny'j administrativny'j okrug",
+        "Districten": "rajon Czariczy'no",
+        "TotalParkingSlotsen": 326,
+        "ConstructionBeginen": "июль 2010 года",
+        "ConstructionEnden": "сентябрь 2012 года",
+        "globalid": 20441059
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.560695307263,
+          55.567944610727
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 72,
+        "Addressen": "Куликовская улица, дом 22",
+        "AdmAreaen": "Yugo-Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Severnoe Butovo",
+        "TotalParkingSlotsen": 259,
+        "ConstructionBeginen": "сентябрь 2010 года",
+        "ConstructionEnden": "апрель 2014 года",
+        "globalid": 20441061
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.521099108434,
+          55.65525208166
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 73,
+        "Addressen": "Академика Волгина улица, дом 2, корпус 3",
+        "AdmAreaen": "Yugo-Zapadny'j administrativny'j okrug",
+        "Districten": "Obruchevskij rajon",
+        "TotalParkingSlotsen": 165,
+        "ConstructionBeginen": "сентябрь 2010 года",
+        "ConstructionEnden": "март 2015 года",
+        "globalid": 20441062
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.573294349138,
+          55.561154159911
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 74,
+        "Addressen": "бульвар Дмитрия Донского, дом 21",
+        "AdmAreaen": "Yugo-Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Severnoe Butovo",
+        "TotalParkingSlotsen": 225,
+        "ConstructionBeginen": "апрель 2010 года",
+        "ConstructionEnden": "декабрь 2011 года",
+        "globalid": 20441063
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.589287066623,
+          55.575646293664
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 75,
+        "Addressen": "Старобитцевская улица, 14",
+        "AdmAreaen": "Yugo-Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Severnoe Butovo",
+        "TotalParkingSlotsen": 225,
+        "ConstructionBeginen": "сентябрь 2010 года",
+        "ConstructionEnden": "апрель 2015 года",
+        "globalid": 20441064
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.535806976941,
+          55.532913145752
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 76,
+        "Addressen": "Чечёрский проезд, дом 9А",
+        "AdmAreaen": "Yugo-Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Yuzhnoe Butovo",
+        "TotalParkingSlotsen": 525,
+        "ConstructionBeginen": "январь 2011 года",
+        "ConstructionEnden": "май 2013 года",
+        "globalid": 20441065
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.52239249998,
+          55.528439926548
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 77,
+        "Addressen": "Чечёрский проезд, дом 31, строение 1",
+        "AdmAreaen": "Yugo-Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Yuzhnoe Butovo",
+        "TotalParkingSlotsen": 24,
+        "ConstructionBeginen": "февраль 2011 года",
+        "ConstructionEnden": "октябрь 2012 года",
+        "globalid": 20441066
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.578311039365,
+          55.506865004667
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 78,
+        "Addressen": "улица Маршала Савицкого, дом 5",
+        "AdmAreaen": "Yugo-Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Yuzhnoe Butovo",
+        "TotalParkingSlotsen": 488,
+        "ConstructionBeginen": "апрель 2010 года",
+        "ConstructionEnden": "май 2012 года",
+        "globalid": 20441067
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.57661213183,
+          55.505805801187
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 79,
+        "Addressen": "улица Маршала Савицкого, дом 4",
+        "AdmAreaen": "Yugo-Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Yuzhnoe Butovo",
+        "TotalParkingSlotsen": 487,
+        "ConstructionBeginen": "март 2010 года",
+        "ConstructionEnden": "декабрь 2011 года",
+        "globalid": 20441068
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.574631940292,
+          55.500690417859
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 80,
+        "Addressen": "улица Брусилова, дом 3",
+        "AdmAreaen": "Yugo-Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Yuzhnoe Butovo",
+        "TotalParkingSlotsen": 480,
+        "ConstructionBeginen": "март 2010 года",
+        "ConstructionEnden": "декабрь 2011 года",
+        "globalid": 20441069
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.588451410835,
+          55.500796538702
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 81,
+        "Addressen": "улица Брусилова, дом 23",
+        "AdmAreaen": "Yugo-Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Yuzhnoe Butovo",
+        "TotalParkingSlotsen": 487,
+        "ConstructionBeginen": "март 2010 года",
+        "ConstructionEnden": "июнь 2011 года",
+        "globalid": 20441070
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.597355329837,
+          55.50054256549
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 82,
+        "Addressen": "улица Брусилова, дом 35",
+        "AdmAreaen": "Yugo-Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Yuzhnoe Butovo",
+        "TotalParkingSlotsen": 334,
+        "ConstructionBeginen": "март 2010 года",
+        "ConstructionEnden": "май 2011 года",
+        "globalid": 20441071
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.600542823354,
+          55.50136076126
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 83,
+        "Addressen": "улица Брусилова, дом 39",
+        "AdmAreaen": "Yugo-Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Yuzhnoe Butovo",
+        "TotalParkingSlotsen": 524,
+        "ConstructionBeginen": "август 2010 года",
+        "ConstructionEnden": "июль 2011 года",
+        "globalid": 20441072
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.503993250117,
+          55.541219283203
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 84,
+        "Addressen": "улица Академика Семёнова, дом 19, строение 1",
+        "AdmAreaen": "Yugo-Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Yuzhnoe Butovo",
+        "TotalParkingSlotsen": 96,
+        "ConstructionBeginen": "июль 2010 года",
+        "ConstructionEnden": "май 2011 года",
+        "globalid": 20441073
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.506816971846,
+          55.541896322791
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 85,
+        "Addressen": "улица Академика Семёнова, дом 13, строение 1",
+        "AdmAreaen": "Yugo-Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Yuzhnoe Butovo",
+        "TotalParkingSlotsen": 99,
+        "ConstructionBeginen": "июль 2010 года",
+        "ConstructionEnden": "декабрь 2011 года",
+        "globalid": 20441074
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.509451359056,
+          55.542858485007
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 86,
+        "Addressen": "улица Академика Семёнова, дом 7, строение 1",
+        "AdmAreaen": "Yugo-Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Yuzhnoe Butovo",
+        "TotalParkingSlotsen": 99,
+        "ConstructionBeginen": "июль 2010 года",
+        "ConstructionEnden": "март 2015 года",
+        "globalid": 20441075
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.560327470886,
+          55.542663385187
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 87,
+        "Addressen": "Изюмская улица, дом 63",
+        "AdmAreaen": "Yugo-Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Yuzhnoe Butovo",
+        "TotalParkingSlotsen": 435,
+        "ConstructionBeginen": "апрель 2010 года",
+        "ConstructionEnden": "октябрь 2013 года",
+        "globalid": 20441076
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.51605755529,
+          55.541268141262
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 88,
+        "Addressen": "улица Адмирала Лазарева, дом 49",
+        "AdmAreaen": "Yugo-Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Yuzhnoe Butovo",
+        "TotalParkingSlotsen": 470,
+        "ConstructionBeginen": "март 2010 года",
+        "ConstructionEnden": "июнь 2011 года",
+        "globalid": 20441077
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.581995650786,
+          55.537869811538
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 89,
+        "Addressen": "Варшавское шоссе, дом 204",
+        "AdmAreaen": "Yugo-Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Yuzhnoe Butovo",
+        "TotalParkingSlotsen": 267,
+        "ConstructionBeginen": "апрель 2010 года",
+        "ConstructionEnden": "июнь 2011 года",
+        "globalid": 20441078
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.39812594948,
+          55.737088051019
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 90,
+        "Addressen": "Бобруйская улица, дом 11",
+        "AdmAreaen": "Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Kunczevo",
+        "TotalParkingSlotsen": 461,
+        "ConstructionBeginen": "март 2010 года",
+        "ConstructionEnden": "май 2011 года",
+        "globalid": 20441079
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.194443420692,
+          55.602608158457
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 91,
+        "Addressen": "Советская улица, дом 20",
+        "AdmAreaen": "Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Vnukovo",
+        "TotalParkingSlotsen": 121,
+        "ConstructionBeginen": "февраль 2012 года",
+        "ConstructionEnden": "декабрь 2013 года",
+        "globalid": 20441080
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.396191978943,
+          55.657309825397
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 92,
+        "Addressen": "Боровское шоссе дом 6, корпус 4",
+        "AdmAreaen": "Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Solnczevo",
+        "TotalParkingSlotsen": 538,
+        "ConstructionBeginen": "июнь 2010 года",
+        "ConstructionEnden": "май 2013 года",
+        "globalid": 20441081
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.398110254321,
+          55.657843233248
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 93,
+        "Addressen": "Боровское шоссе, дом 6, корпус 3",
+        "AdmAreaen": "Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Solnczevo",
+        "TotalParkingSlotsen": 554,
+        "ConstructionBeginen": "июнь 2010 года",
+        "ConstructionEnden": "май 2013 года",
+        "globalid": 20441082
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.404492791435,
+          55.659395623469
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 94,
+        "Addressen": "Боровское шоссе, дом 6, корпус 2",
+        "AdmAreaen": "Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Solnczevo",
+        "TotalParkingSlotsen": 345,
+        "ConstructionBeginen": "июнь 2010 года",
+        "ConstructionEnden": "июнь 2013 года",
+        "globalid": 20441083
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.40595280338,
+          55.659735956088
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 95,
+        "Addressen": "Боровское шоссе, дом 6, корпус 1",
+        "AdmAreaen": "Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Solnczevo",
+        "TotalParkingSlotsen": 402,
+        "ConstructionBeginen": "апрель 2010 года",
+        "ConstructionEnden": "июнь 2013 года",
+        "globalid": 20441084
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.36582030275,
+          55.635773050515
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 96,
+        "Addressen": "Новоорловская улица, 5, корпус 1",
+        "AdmAreaen": "Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Novo-Peredelkino",
+        "TotalParkingSlotsen": 329,
+        "ConstructionBeginen": "июнь 2010 года",
+        "ConstructionEnden": "июнь 2014 года",
+        "globalid": 20441085
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.515206880531,
+          55.668941963551
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 98,
+        "Addressen": "Ленинский проспект, дом 100",
+        "AdmAreaen": "Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Prospekt Vernadskogo",
+        "TotalParkingSlotsen": 60,
+        "ConstructionBeginen": "февраль 2010 года",
+        "ConstructionEnden": "июнь 2013 года",
+        "globalid": 20441087
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.412968021698,
+          55.726413345576
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 99,
+        "Addressen": "улица Маршала Неделина, дом 29",
+        "AdmAreaen": "Zapadny'j administrativny'j okrug",
+        "Districten": "Mozhajskij rajon",
+        "TotalParkingSlotsen": 673,
+        "ConstructionBeginen": "март 2010 года",
+        "ConstructionEnden": "ноябрь 2011 года",
+        "globalid": 20441088
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.382831563815,
+          55.641723753122
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 101,
+        "Addressen": "Производственная улица, 14, корпус 1",
+        "AdmAreaen": "Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Solnczevo",
+        "TotalParkingSlotsen": 312,
+        "ConstructionBeginen": "март 2010 года",
+        "ConstructionEnden": "июнь 2014 года",
+        "globalid": 20441090
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.410984114401,
+          55.708341072572
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 102,
+        "Addressen": "Витебская улица, дом 11",
+        "AdmAreaen": "Zapadny'j administrativny'j okrug",
+        "Districten": "Mozhajskij rajon",
+        "TotalParkingSlotsen": 805,
+        "ConstructionBeginen": "март 2010 года",
+        "ConstructionEnden": "август 2011 года",
+        "globalid": 20441091
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.339278767738,
+          55.635929600311
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 103,
+        "Addressen": "улица Федосьино, дом 3",
+        "AdmAreaen": "Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Novo-Peredelkino",
+        "TotalParkingSlotsen": 298,
+        "ConstructionBeginen": "апрель 2010 года",
+        "ConstructionEnden": "август 2012 года",
+        "globalid": 20441092
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.348829515724,
+          55.858384184162
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 104,
+        "Addressen": "улица Барышиха, дом 45",
+        "AdmAreaen": "Severo-Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Mitino",
+        "TotalParkingSlotsen": 275,
+        "ConstructionBeginen": "май 2010 года",
+        "ConstructionEnden": "декабрь 2011 года",
+        "globalid": 20441093
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.347792430021,
+          55.833541869255
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 105,
+        "Addressen": "Волоцкой переулок, дом 3",
+        "AdmAreaen": "Severo-Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Mitino",
+        "TotalParkingSlotsen": 970,
+        "ConstructionBeginen": "май 2010 года",
+        "ConstructionEnden": "май 2013 года",
+        "globalid": 20441094
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.350522826732,
+          55.826159215529
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 106,
+        "Addressen": "улица Генерала Белобородова, дом 38",
+        "AdmAreaen": "Severo-Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Mitino",
+        "TotalParkingSlotsen": 239,
+        "ConstructionBeginen": "май 2010 года",
+        "ConstructionEnden": "июль 2011 года",
+        "globalid": 20441095
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.350345309262,
+          55.839517156022
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 107,
+        "Addressen": "Дубравная улица, дом 53",
+        "AdmAreaen": "Severo-Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Mitino",
+        "TotalParkingSlotsen": 799,
+        "ConstructionBeginen": "март 2010 года",
+        "ConstructionEnden": "декабрь 2011 года",
+        "globalid": 20441096
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.409377188814,
+          55.885982707622
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 108,
+        "Addressen": "Новокуркинское шоссе, дом 20",
+        "AdmAreaen": "Severo-Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Kurkino",
+        "TotalParkingSlotsen": 284,
+        "ConstructionBeginen": "декабрь 2010 года",
+        "ConstructionEnden": "октябрь 2012 года",
+        "globalid": 20441097
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.389285266371,
+          55.79210862166
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 109,
+        "Addressen": "Проектируемый проезд № 607, владение 14, корпус 2",
+        "AdmAreaen": "Severo-Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Strogino",
+        "TotalParkingSlotsen": 978,
+        "ConstructionBeginen": "май 2010 года",
+        "ConstructionEnden": "июнь 2014 года",
+        "globalid": 20441098
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.401576063733,
+          55.795374797495
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 110,
+        "Addressen": "Проектируемый проезд № 607, дом 19",
+        "AdmAreaen": "Severo-Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Strogino",
+        "TotalParkingSlotsen": 240,
+        "ConstructionBeginen": "июль 2010 года",
+        "ConstructionEnden": "ноябрь 2011 года",
+        "globalid": 20441099
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.374511475258,
+          55.845391598871
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 111,
+        "Addressen": "Пятницкое шоссе, дом 19, корпус 1",
+        "AdmAreaen": "Severo-Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Mitino",
+        "TotalParkingSlotsen": 368,
+        "ConstructionBeginen": "март 2010 года",
+        "ConstructionEnden": "ноябрь 2011 года",
+        "globalid": 20441100
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.390729016334,
+          55.793225644664
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 112,
+        "Addressen": "улица Твардовского, дом 8, корпус 4",
+        "AdmAreaen": "Severo-Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Strogino",
+        "TotalParkingSlotsen": 676,
+        "ConstructionBeginen": "май 2010 года",
+        "ConstructionEnden": "декабрь 2011 года",
+        "globalid": 20441101
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.390987942476,
+          55.89918532335
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 113,
+        "Addressen": "Юровская улица, дом 103",
+        "AdmAreaen": "Severo-Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Kurkino",
+        "TotalParkingSlotsen": 520,
+        "ConstructionBeginen": "июль 2010 года",
+        "ConstructionEnden": "декабрь 2011 года",
+        "globalid": 20441102
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.197369842079,
+          56.006456293716
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 114,
+        "Addressen": "2-й Западный проезд, дом 2Б",
+        "AdmAreaen": "Zelenogradskij administrativny'j okrug",
+        "Districten": "rajon Matushkino",
+        "TotalParkingSlotsen": 412,
+        "ConstructionBeginen": "июль 2010 года",
+        "ConstructionEnden": "декабрь 2011 года",
+        "globalid": 20441103
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.157211007814,
+          55.989682435458
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 115,
+        "Addressen": "Новокрюковская улица, дом 3А",
+        "AdmAreaen": "Zelenogradskij administrativny'j okrug",
+        "Districten": "rajon Kryukovo",
+        "TotalParkingSlotsen": 345,
+        "ConstructionBeginen": "июнь 2010 года",
+        "ConstructionEnden": "июнь 2013 года",
+        "globalid": 20441104
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.201901413625,
+          56.000354873003
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 116,
+        "Addressen": "город Зеленоград, корпус 226",
+        "AdmAreaen": "Zelenogradskij administrativny'j okrug",
+        "Districten": "rajon Matushkino",
+        "TotalParkingSlotsen": 267,
+        "ConstructionBeginen": "ноябрь 2010 года",
+        "ConstructionEnden": "сентябрь 2012 года",
+        "globalid": 20441105
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.184473015712,
+          55.976457205664
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 117,
+        "Addressen": "город Зеленоград, корпус 845",
+        "AdmAreaen": "Zelenogradskij administrativny'j okrug",
+        "Districten": "rajon Staroe Kryukovo",
+        "TotalParkingSlotsen": 235,
+        "ConstructionBeginen": "март 2010 года",
+        "ConstructionEnden": "май 2011 года",
+        "globalid": 20441106
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.184959946121,
+          55.976851176436
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 118,
+        "Addressen": "город Зеленоград, корпус 846",
+        "AdmAreaen": "Zelenogradskij administrativny'j okrug",
+        "Districten": "rajon Staroe Kryukovo",
+        "TotalParkingSlotsen": 281,
+        "ConstructionBeginen": "март 2010 года",
+        "ConstructionEnden": "май 2011 года",
+        "globalid": 20441107
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.162940638432,
+          55.974899244101
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 119,
+        "Addressen": "город Зеленоград, корпус 2006",
+        "AdmAreaen": "Zelenogradskij administrativny'j okrug",
+        "Districten": "rajon Kryukovo",
+        "TotalParkingSlotsen": 185,
+        "ConstructionBeginen": "март 2010 года",
+        "ConstructionEnden": "декабрь 2011 года",
+        "globalid": 20441108
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.164591843864,
+          55.970816221857
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 120,
+        "Addressen": "город Зеленоград, корпус 2021",
+        "AdmAreaen": "Zelenogradskij administrativny'j okrug",
+        "Districten": "rajon Kryukovo",
+        "TotalParkingSlotsen": 177,
+        "ConstructionBeginen": "апрель 2010 года",
+        "ConstructionEnden": "декабрь 2011 года",
+        "globalid": 20441109
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.169927055345,
+          55.975463702109
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 121,
+        "Addressen": "город Зеленоград, корпус 2025",
+        "AdmAreaen": "Zelenogradskij administrativny'j okrug",
+        "Districten": "rajon Kryukovo",
+        "TotalParkingSlotsen": 185,
+        "ConstructionBeginen": "март 2010 года",
+        "ConstructionEnden": "декабрь 2011 года",
+        "globalid": 20441110
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.174735468422,
+          55.971633742327
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 122,
+        "Addressen": "город Зеленоград, корпус 2036",
+        "AdmAreaen": "Zelenogradskij administrativny'j okrug",
+        "Districten": "rajon Kryukovo",
+        "TotalParkingSlotsen": 183,
+        "ConstructionBeginen": "апрель 2010 года",
+        "ConstructionEnden": "декабрь 2011 года",
+        "globalid": 20441111
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.69023809425,
+          55.742673556619
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 124,
+        "Addressen": "Международная улица, дом 23",
+        "AdmAreaen": "Czentral`ny'j administrativny'j okrug",
+        "Districten": "Taganskij rajon",
+        "TotalParkingSlotsen": 258,
+        "ConstructionBeginen": "февраль 2010 года",
+        "ConstructionEnden": "декабрь 2010 года",
+        "globalid": 20441113
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.474711560816,
+          55.868359366427
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 126,
+        "Addressen": "Смольная улица, дом 42А",
+        "AdmAreaen": "Severny'j administrativny'j okrug",
+        "Districten": "rajon Levoberezhny'j",
+        "TotalParkingSlotsen": 100,
+        "ConstructionBeginen": "февраль 2010 года",
+        "ConstructionEnden": "декабрь 2010 года",
+        "globalid": 20441115
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.533368954246,
+          55.834349667777
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 127,
+        "Addressen": "Большая Академическая улица, дом 43А",
+        "AdmAreaen": "Severny'j administrativny'j okrug",
+        "Districten": "rajon Koptevo",
+        "TotalParkingSlotsen": 100,
+        "ConstructionBeginen": "апрель 2010 года",
+        "ConstructionEnden": "декабрь 2010 года",
+        "globalid": 20441116
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.523979895313,
+          55.836974876768
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 128,
+        "Addressen": "3-й Михалковский переулок, дом 26А",
+        "AdmAreaen": "Severny'j administrativny'j okrug",
+        "Districten": "rajon Koptevo",
+        "TotalParkingSlotsen": 274,
+        "ConstructionBeginen": "март 2010 года",
+        "ConstructionEnden": "декабрь 2010 года",
+        "globalid": 20441117
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.779584175971,
+          55.747631620292
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 129,
+        "Addressen": "1-я Владимирская улица, дом 34А",
+        "AdmAreaen": "Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Perovo",
+        "TotalParkingSlotsen": 100,
+        "ConstructionBeginen": "апрель 2010 года",
+        "ConstructionEnden": "декабрь 2010 года",
+        "globalid": 20441118
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.726791812219,
+          55.777684259867
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 130,
+        "Addressen": "Кирпичная улица, дом 15",
+        "AdmAreaen": "Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Sokolinaya Gora",
+        "TotalParkingSlotsen": 96,
+        "ConstructionBeginen": "июнь 2010 года",
+        "ConstructionEnden": "декабрь 2010 года",
+        "globalid": 20441119
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.727854031175,
+          55.777611462023
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 131,
+        "Addressen": "Кирпичная улица, дом 15, строение 1",
+        "AdmAreaen": "Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Sokolinaya Gora",
+        "TotalParkingSlotsen": 91,
+        "ConstructionBeginen": "июнь 2010 года",
+        "ConstructionEnden": "декабрь 2010 года",
+        "globalid": 20441120
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.696465491256,
+          55.798940498877
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 132,
+        "Addressen": "Колодезный переулок, дом 3Б",
+        "AdmAreaen": "Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Sokol`niki",
+        "TotalParkingSlotsen": 234,
+        "ConstructionBeginen": "май 2010 года",
+        "ConstructionEnden": "декабрь 2010 года",
+        "globalid": 20441121
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.561353057309,
+          55.568828445448
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 133,
+        "Addressen": "Куликовская улица, дом 18",
+        "AdmAreaen": "Yugo-Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Severnoe Butovo",
+        "TotalParkingSlotsen": 234,
+        "ConstructionBeginen": "март 2010 года",
+        "ConstructionEnden": "август 2010 года",
+        "globalid": 20441122
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.537804420956,
+          55.64867287834
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 134,
+        "Addressen": "улица Бутлерова, дом 15А",
+        "AdmAreaen": "Yugo-Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Kon`kovo",
+        "TotalParkingSlotsen": 207,
+        "ConstructionBeginen": "март 2010 года",
+        "ConstructionEnden": "сентябрь 2010 года",
+        "globalid": 20441123
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.434410471185,
+          55.856436193858
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 135,
+        "Addressen": "улица Героев Панфиловцев, дом 7",
+        "AdmAreaen": "Severo-Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Severnoe Tushino",
+        "TotalParkingSlotsen": 96,
+        "ConstructionBeginen": "июнь 2010 года",
+        "ConstructionEnden": "сентябрь 2010 года",
+        "globalid": 20441124
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.430076945625,
+          55.8575831387
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 136,
+        "Addressen": "улица Героев Панфиловцев, дом 11",
+        "AdmAreaen": "Severo-Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Severnoe Tushino",
+        "TotalParkingSlotsen": 260,
+        "ConstructionBeginen": "май 2010 года",
+        "ConstructionEnden": "сентябрь 2010 года",
+        "globalid": 20441125
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.717342519564,
+          55.691670545521
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 138,
+        "Addressen": "улица Гурьянова, дом 6, корпус 3",
+        "AdmAreaen": "Yugo-Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Pechatniki",
+        "TotalParkingSlotsen": 270,
+        "ConstructionBeginen": "апрель 2010 года",
+        "ConstructionEnden": "сентябрь 2010 года",
+        "globalid": 20441127
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.659998861588,
+          55.77787146034
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 1,
+        "Addressen": "Краснопрудная улица, дом 3, строение 3\n",
+        "AdmAreaen": "Czentral`ny'j administrativny'j okrug",
+        "Districten": "Krasnosel`skij rajon",
+        "TotalParkingSlotsen": 124,
+        "ConstructionBeginen": "декабрь 2010 года",
+        "ConstructionEnden": "август 2012 года",
+        "globalid": 20443056
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.689247806919,
+          55.743674831616
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 2,
+        "Addressen": "Международная улица, дом 21",
+        "AdmAreaen": "Czentral`ny'j administrativny'j okrug",
+        "Districten": "Taganskij rajon",
+        "TotalParkingSlotsen": 461,
+        "ConstructionBeginen": "февраль 2010 года",
+        "ConstructionEnden": "июль 2011 года",
+        "globalid": 20443472
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.556369011244,
+          55.870233986081
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 9,
+        "Addressen": "Бескудниковский бульвар, дом 28А, строение 1\n",
+        "AdmAreaen": "Severny'j administrativny'j okrug",
+        "Districten": "Beskudnikovskij rajon",
+        "TotalParkingSlotsen": 99,
+        "ConstructionBeginen": "июль 2011 года",
+        "ConstructionEnden": "июнь 2014 года",
+        "globalid": 20444460
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.537665203412,
+          55.875105011387
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 10,
+        "Addressen": "Бескудниковский бульвар, дом 58А",
+        "AdmAreaen": "Severny'j administrativny'j okrug",
+        "Districten": "Beskudnikovskij rajon",
+        "TotalParkingSlotsen": 300,
+        "ConstructionBeginen": "январь 2010 года",
+        "ConstructionEnden": "сентябрь 2011 года",
+        "globalid": 20444461
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.532601569675,
+          55.780900775478
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 15,
+        "Addressen": "улица Полины Осипенко, дом 16Б",
+        "AdmAreaen": "Severny'j administrativny'j okrug",
+        "Districten": "Xoroshyovskij rajon",
+        "TotalParkingSlotsen": 100,
+        "ConstructionBeginen": "февраль 2010 года",
+        "ConstructionEnden": "декабрь 2011 года",
+        "globalid": 20444462
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.532164101479,
+          55.780097969816
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 16,
+        "Addressen": "улица Полины Осипенко, дом 16А",
+        "AdmAreaen": "Severny'j administrativny'j okrug",
+        "Districten": "Xoroshyovskij rajon",
+        "TotalParkingSlotsen": 274,
+        "ConstructionBeginen": "апрель 2010 года",
+        "ConstructionEnden": "август 2012 года",
+        "globalid": 20444463
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.472823512231,
+          55.871509601564
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 17,
+        "Addressen": "Смольная улица, дом 48А",
+        "AdmAreaen": "Severny'j administrativny'j okrug",
+        "Districten": "rajon Levoberezhny'j",
+        "TotalParkingSlotsen": 169,
+        "ConstructionBeginen": "март 2010 года",
+        "ConstructionEnden": "май 2011 года",
+        "globalid": 20444464
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.649451733825,
+          55.841265733649
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 20,
+        "Addressen": "улица Докукина, 16, корпус 3",
+        "AdmAreaen": "Severo-Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Rostokino",
+        "TotalParkingSlotsen": 225,
+        "ConstructionBeginen": "март 2010 года",
+        "ConstructionEnden": "февраль 2011 года",
+        "globalid": 20444465
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.579476953136,
+          55.878117607479
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 21,
+        "Addressen": "Инженерная улица, дом 5, корпус 2",
+        "AdmAreaen": "Severo-Vostochny'j administrativny'j okrug",
+        "Districten": "Altuf`evskij rajon",
+        "TotalParkingSlotsen": 717,
+        "ConstructionBeginen": "июль 2010 года",
+        "ConstructionEnden": "август 2012 года",
+        "globalid": 20444476
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.606803703455,
+          55.89089901133
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 22,
+        "Addressen": "улица Конёнкова, дом 11, корпус 1",
+        "AdmAreaen": "Severo-Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Bibirevo",
+        "TotalParkingSlotsen": 100,
+        "ConstructionBeginen": "май 2010 года",
+        "ConstructionEnden": "май 2013 года",
+        "globalid": 20444477
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.64436073137,
+          55.889886366434
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 25,
+        "Addressen": "Полярная улица, 37, корпус 1",
+        "AdmAreaen": "Severo-Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Severnoe Medvedkovo",
+        "TotalParkingSlotsen": 189,
+        "ConstructionBeginen": "октябрь 2012 года",
+        "ConstructionEnden": "январь 2015 года",
+        "globalid": 20444478
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.709083882224,
+          55.797628681067
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 30,
+        "Addressen": "1-я улица Бухвостова, дом 1",
+        "AdmAreaen": "Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Preobrazhenskoe",
+        "TotalParkingSlotsen": 516,
+        "ConstructionBeginen": "февраль 2012 года",
+        "ConstructionEnden": "май 2013 года",
+        "globalid": 20444479
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.754969143668,
+          55.716174122963
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 50,
+        "Addressen": "улица Васильцовский Стан, дом 12, корпус 1",
+        "AdmAreaen": "Yugo-Vostochny'j administrativny'j okrug",
+        "Districten": "Ryazanskij rajon",
+        "TotalParkingSlotsen": 372,
+        "ConstructionBeginen": "апрель 2010 года",
+        "ConstructionEnden": "апрель 2011 года\n",
+        "globalid": 20444480
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.753626925842,
+          55.716635689792
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 51,
+        "Addressen": "улица Васильцовский Стан, дом 13, корпус 1",
+        "AdmAreaen": "Yugo-Vostochny'j administrativny'j okrug",
+        "Districten": "Ryazanskij rajon",
+        "TotalParkingSlotsen": 312,
+        "ConstructionBeginen": "апрель 2010 года",
+        "ConstructionEnden": "май 2011 года\n",
+        "globalid": 20444481
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.752388241657,
+          55.717115812792
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 52,
+        "Addressen": "улица Васильцовский Стан, дом 13, корпус 2",
+        "AdmAreaen": "Yugo-Vostochny'j administrativny'j okrug",
+        "Districten": "Ryazanskij rajon",
+        "TotalParkingSlotsen": 446,
+        "ConstructionBeginen": "май 2010 года",
+        "ConstructionEnden": "май 2011 года",
+        "globalid": 20444482
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.746815897292,
+          55.718160780009
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 53,
+        "Addressen": "Саратовская улица, дом 31, корпус 1",
+        "AdmAreaen": "Yugo-Vostochny'j administrativny'j okrug",
+        "Districten": "Ryazanskij rajon",
+        "TotalParkingSlotsen": 324,
+        "ConstructionBeginen": "март 2010 года",
+        "ConstructionEnden": "апрель 2011 года",
+        "globalid": 20444483
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.744393523468,
+          55.719854339595
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 54,
+        "Addressen": "Волжский бульвар, дом 1, корпус 2",
+        "AdmAreaen": "Yugo-Vostochny'j administrativny'j okrug",
+        "Districten": "Ryazanskij rajon",
+        "TotalParkingSlotsen": 463,
+        "ConstructionBeginen": "июнь 2010 года",
+        "ConstructionEnden": "декабрь 2011 года",
+        "globalid": 20444484
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.743525350297,
+          55.720023517932
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 55,
+        "Addressen": "Волжский бульвар, дом 1, корпус 1",
+        "AdmAreaen": "Yugo-Vostochny'j administrativny'j okrug",
+        "Districten": "Ryazanskij rajon",
+        "TotalParkingSlotsen": 1136,
+        "ConstructionBeginen": "июнь 2010 года",
+        "ConstructionEnden": "декабрь 2011 года",
+        "globalid": 20444485
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.757899013403,
+          55.715115328374
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 56,
+        "Addressen": "Окская улица, дом 7, корпус 2",
+        "AdmAreaen": "Yugo-Vostochny'j administrativny'j okrug",
+        "Districten": "Ryazanskij rajon",
+        "TotalParkingSlotsen": 780,
+        "ConstructionBeginen": "март 2010 года",
+        "ConstructionEnden": "май 2011 года",
+        "globalid": 20444486
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.665907786063,
+          55.589616981076
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 59,
+        "Addressen": "Бирюлёвская улица,  35",
+        "AdmAreaen": "Yuzhny'j administrativny'j okrug",
+        "Districten": "rajon Biryulyovo Vostochnoe",
+        "TotalParkingSlotsen": 130,
+        "ConstructionBeginen": "июнь 2010 года",
+        "ConstructionEnden": "ноябрь 2014 года",
+        "globalid": 20444487
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.581718991346,
+          55.537265700568
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 71,
+        "Addressen": "Варшавское шоссе, дом 206",
+        "AdmAreaen": "Yugo-Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Yuzhnoe Butovo",
+        "TotalParkingSlotsen": 300,
+        "ConstructionBeginen": "февраль 2010 года",
+        "ConstructionEnden": "июнь 2011 года",
+        "globalid": 20444488
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.476055856837,
+          55.673714586964
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 97,
+        "Addressen": "улица Коштоянца, дом 22",
+        "AdmAreaen": "Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Troparyovo-Nikulino",
+        "TotalParkingSlotsen": 442,
+        "ConstructionBeginen": "сентябрь 2010 года",
+        "ConstructionEnden": "октябрь 2014 года",
+        "globalid": 20444489
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.451240511831,
+          55.663602927683
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 100,
+        "Addressen": "Никулинская улица, дом 11, корпус 4",
+        "AdmAreaen": "Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Troparyovo-Nikulino",
+        "TotalParkingSlotsen": 418,
+        "ConstructionBeginen": "июнь 2010 года",
+        "ConstructionEnden": "декабрь 2011 года",
+        "globalid": 20462878
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.717531482766,
+          55.745017270937
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 123,
+        "Addressen": "2-й Кабельный проезд, 5",
+        "AdmAreaen": "Yugo-Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Lefortovo",
+        "TotalParkingSlotsen": 100,
+        "ConstructionBeginen": "апрель 2011 года",
+        "ConstructionEnden": "июнь 2014 года",
+        "globalid": 20462879
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.64552891564,
+          55.892902687128
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 125,
+        "Addressen": "Полярная улица, 39, корпус 1",
+        "AdmAreaen": "Severo-Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Severnoe Medvedkovo",
+        "TotalParkingSlotsen": 275,
+        "ConstructionBeginen": "март 2010 года",
+        "ConstructionEnden": "декабрь 2010 года",
+        "globalid": 20463137
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.646299103358,
+          55.780494970623
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 5,
+        "Addressen": "Пантелеевская улица, дом 4",
+        "AdmAreaen": "Czentral`ny'j administrativny'j okrug",
+        "Districten": "Krasnosel`skij rajon",
+        "TotalParkingSlotsen": 243,
+        "ConstructionBeginen": "декабрь 2010 года",
+        "ConstructionEnden": "июль 2013 года",
+        "globalid": 20463260
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.750550344223,
+          55.717759698788
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 137,
+        "Addressen": "Саратовская улица, дом 26",
+        "AdmAreaen": "Yugo-Vostochny'j administrativny'j okrug",
+        "Districten": "Ryazanskij rajon",
+        "TotalParkingSlotsen": 150,
+        "ConstructionBeginen": "апрель 2010 года",
+        "ConstructionEnden": "сентябрь 2010 года",
+        "globalid": 20463301
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.536136051379,
+          55.862232691887
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 140,
+        "Addressen": "улица Пяловская, дом 1",
+        "AdmAreaen": "Severny'j administrativny'j okrug",
+        "Districten": "rajon Zapadnoe Degunino",
+        "TotalParkingSlotsen": 457,
+        "ConstructionBeginen": "февраль 2011 года",
+        "ConstructionEnden": "январь 2016 года",
+        "globalid": 64237024
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.695054060763,
+          55.881891179503
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 141,
+        "Addressen": "улица Малыгина, дом 8А",
+        "AdmAreaen": "Severo-Vostochny'j administrativny'j okrug",
+        "Districten": "Losinoostrovskij rajon",
+        "TotalParkingSlotsen": 154,
+        "ConstructionBeginen": "март 2011 года",
+        "ConstructionEnden": "декабрь 2015 года",
+        "globalid": 64237025
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.539046092846,
+          55.921109327493
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 142,
+        "Addressen": "Долгопруднинское шоссе, дом 8",
+        "AdmAreaen": "Severo-Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Severny'j",
+        "TotalParkingSlotsen": 348,
+        "ConstructionBeginen": "май 2010 года",
+        "ConstructionEnden": "сентябрь 2015 года",
+        "globalid": 64237026
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.728908082357,
+          55.772500792508
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 143,
+        "Addressen": "10-я улица Соколиной Горы, дом 4А",
+        "AdmAreaen": "Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Sokolinaya Gora",
+        "TotalParkingSlotsen": 113,
+        "ConstructionBeginen": "июнь 2011 года",
+        "ConstructionEnden": "ноябрь 2015 года",
+        "globalid": 64237079
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.871600278031,
+          55.815365249019
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 144,
+        "Addressen": "улица Западная, дом 7Д",
+        "AdmAreaen": "Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Vostochny'j",
+        "TotalParkingSlotsen": 237,
+        "ConstructionBeginen": "апрель 2012 года",
+        "ConstructionEnden": "декабрь 2015 года",
+        "globalid": 64237113
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.729486576969,
+          55.781112984452
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 145,
+        "Addressen": "улица Ибрагимова, дом 7А",
+        "AdmAreaen": "Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Sokolinaya Gora",
+        "TotalParkingSlotsen": 100,
+        "ConstructionBeginen": "октябрь 2011 года",
+        "ConstructionEnden": "декабрь 2015 года",
+        "globalid": 64237196
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.636859402485,
+          55.681657964082
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 146,
+        "Addressen": "Нагатинская улица, дом 7",
+        "AdmAreaen": "Yuzhny'j administrativny'j okrug",
+        "Districten": "rajon Nagatino-Sadovniki",
+        "TotalParkingSlotsen": 198,
+        "ConstructionBeginen": "июль 2010 года",
+        "ConstructionEnden": "декабрь 2015 года",
+        "globalid": 64237257
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.355336458219,
+          55.635598346904
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 147,
+        "Addressen": "улица Шолохова, дом 3",
+        "AdmAreaen": "Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Novo-Peredelkino",
+        "TotalParkingSlotsen": 130,
+        "ConstructionBeginen": "ноябрь 2010 года",
+        "ConstructionEnden": "декабрь 2015 года",
+        "globalid": 64237329
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.451414322805,
+          55.663241296699
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 148,
+        "Addressen": "Никулинская улица, дом 11, корпус 5",
+        "AdmAreaen": "Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Troparyovo-Nikulino",
+        "TotalParkingSlotsen": 512,
+        "ConstructionBeginen": "июнь 2010 года",
+        "ConstructionEnden": "декабрь 2011 года",
+        "globalid": 64244102
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.399424091527,
+          55.899730584712
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 149,
+        "Addressen": "Новокуркинское шоссе, дом 18",
+        "AdmAreaen": "Severo-Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Kurkino",
+        "TotalParkingSlotsen": 284,
+        "ConstructionBeginen": "декабрь 2010 года",
+        "ConstructionEnden": "октябрь 2012 года",
+        "globalid": 64244103
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.399740361008,
+          55.899038531163
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 150,
+        "Addressen": "Новокуркинское шоссе, дом 16",
+        "AdmAreaen": "Severo-Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Kurkino",
+        "TotalParkingSlotsen": 300,
+        "ConstructionBeginen": "декабрь 2010 года",
+        "ConstructionEnden": "октябрь 2012 года",
+        "globalid": 64244104
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.535824880746,
+          55.532974076447
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 151,
+        "Addressen": "Чечёрский  проезд, дом 9А, строение 1",
+        "AdmAreaen": "Yugo-Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Yuzhnoe Butovo",
+        "TotalParkingSlotsen": 16,
+        "ConstructionBeginen": "январь 2011 года",
+        "ConstructionEnden": "май 2013 года",
+        "globalid": 64337261
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.521717880516,
+          55.528553174466
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 152,
+        "Addressen": "Чечёрский проезд, дом 31",
+        "AdmAreaen": "Yugo-Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Yuzhnoe Butovo",
+        "TotalParkingSlotsen": 763,
+        "ConstructionBeginen": "февраль 2011 года",
+        "ConstructionEnden": "октябрь 2012 года",
+        "globalid": 64337494
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.473542556874,
+          55.870842514809
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 139,
+        "Addressen": "Смольная улица, дом 48Б",
+        "AdmAreaen": "Severny'j administrativny'j okrug",
+        "Districten": "rajon Levoberezhny'j",
+        "TotalParkingSlotsen": 331,
+        "ConstructionBeginen": "март 2010 года",
+        "ConstructionEnden": "май 2011 года",
+        "globalid": 64338800
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.682145777088,
+          55.68831430667
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 153,
+        "Addressen": "Якорная улица, 1",
+        "AdmAreaen": "Yuzhny'j administrativny'j okrug",
+        "Districten": "rajon Nagatinskij Zaton",
+        "TotalParkingSlotsen": 245,
+        "ConstructionBeginen": "апрель 2011 года",
+        "ConstructionEnden": "октябрь 2016 года",
+        "globalid": 284372442
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.582414975238,
+          55.603014156466
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 154,
+        "Addressen": "Академика Янгеля улица, д.14, корп.11",
+        "AdmAreaen": "Yuzhny'j administrativny'j okrug",
+        "Districten": "rajon Chertanovo Yuzhnoe",
+        "TotalParkingSlotsen": 91,
+        "ConstructionBeginen": "август 2010 года",
+        "ConstructionEnden": "ноябрь 2016 года",
+        "globalid": 284372445
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.548178746068,
+          55.909533249027
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 155,
+        "Addressen": "МКАД 82-й км, вл.3",
+        "AdmAreaen": "Severo-Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Lianozovo",
+        "TotalParkingSlotsen": 254,
+        "ConstructionBeginen": "июль 2010 года",
+        "ConstructionEnden": "ноябрь 2016 года",
+        "globalid": 284372450
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.546122857128,
+          55.55138497971
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 156,
+        "Addressen": "Поляны улица, д.22",
+        "AdmAreaen": "Yugo-Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Yuzhnoe Butovo",
+        "TotalParkingSlotsen": 783,
+        "ConstructionBeginen": "октябрь 2011 года",
+        "ConstructionEnden": "декабрь 2016 года",
+        "globalid": 284372451
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.631566548356,
+          55.897943719645
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 157,
+        "Addressen": "Корнейчука улица, д.31",
+        "AdmAreaen": "Severo-Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Bibirevo",
+        "TotalParkingSlotsen": 567,
+        "ConstructionBeginen": "декабрь 2010 года",
+        "ConstructionEnden": "декабрь 2016 года",
+        "globalid": 284372452
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.401162706382,
+          55.641047415473
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 158,
+        "Addressen": "Авиаторов улица, д.7, корп.2",
+        "AdmAreaen": "Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Solnczevo",
+        "TotalParkingSlotsen": 216,
+        "ConstructionBeginen": "октябрь 2010 года",
+        "ConstructionEnden": "апрель 2017 года",
+        "globalid": 401132622
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.506737568925,
+          55.646956971026
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 159,
+        "Addressen": "Академика Опарина улица, д.7",
+        "AdmAreaen": "Yugo-Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Kon`kovo",
+        "TotalParkingSlotsen": 382,
+        "ConstructionBeginen": "ноябрь 2010 года",
+        "ConstructionEnden": "сентябрь 2017 года",
+        "globalid": 659867969
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.397177012849,
+          55.884891373378
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 160,
+        "Addressen": "Куркинское шоссе, д.17, корп.2",
+        "AdmAreaen": "Severo-Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Kurkino",
+        "TotalParkingSlotsen": 110,
+        "ConstructionBeginen": "декабрь 2010 года",
+        "ConstructionEnden": "октябрь 2017 года",
+        "globalid": 659867979
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.525617487916,
+          55.599467603178
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 161,
+        "Addressen": "Голубинская улица, д.21А",
+        "AdmAreaen": "Yugo-Zapadny'j administrativny'j okrug",
+        "Districten": "rajon Yasenevo",
+        "TotalParkingSlotsen": 290,
+        "ConstructionBeginen": "октябрь 2010 года",
+        "ConstructionEnden": "сентябрь 2017 года",
+        "globalid": 659867980
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.757676413529,
+          55.667905764652
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 162,
+        "Addressen": "Верхние Поля улица, д.35",
+        "AdmAreaen": "Yugo-Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Lyublino",
+        "TotalParkingSlotsen": 281,
+        "ConstructionBeginen": "апрель 2011 года",
+        "ConstructionEnden": "октябрь 2017 года",
+        "globalid": 659867982
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.774570966227,
+          55.67339952676
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 163,
+        "Addressen": "Краснодарская улица, д.66, корп.2",
+        "AdmAreaen": "Yugo-Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Lyublino",
+        "TotalParkingSlotsen": 283,
+        "ConstructionBeginen": "апрель 2011 года",
+        "ConstructionEnden": "декабрь 2017 года",
+        "globalid": 832071058
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.389834042102,
+          55.720484449295
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 164,
+        "Addressen": "Барвихинская улица, д.20А",
+        "AdmAreaen": "Zapadny'j administrativny'j okrug",
+        "Districten": "Mozhajskij rajon",
+        "TotalParkingSlotsen": 316,
+        "ConstructionBeginen": "март 2011 года",
+        "ConstructionEnden": "декабрь 2017 года",
+        "globalid": 832095105
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.836152198363,
+          55.815123072792
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 165,
+        "Addressen": "Красноярская улица, д.2",
+        "AdmAreaen": "Vostochny'j administrativny'j okrug",
+        "Districten": "rajon Gol`yanovo",
+        "TotalParkingSlotsen": 242,
+        "ConstructionBeginen": "январь 2011 года",
+        "ConstructionEnden": "декабрь 2017 года",
+        "globalid": 832142369
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.709985566239,
+          55.615386029159
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 166,
+        "Addressen": "Каширское шоссе, д.94",
+        "AdmAreaen": "Yuzhny'j administrativny'j okrug",
+        "Districten": "rajon Orexovo-Borisovo Severnoe",
+        "TotalParkingSlotsen": 371,
+        "ConstructionBeginen": "июнь 2010 года",
+        "ConstructionEnden": "январь 2018 года",
+        "globalid": 860060997
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.397655445226,
+          55.705110357539
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 167,
+        "Addressen": "Беловежская улица, д.12",
+        "AdmAreaen": "Zapadny'j administrativny'j okrug",
+        "Districten": "Mozhajskij rajon",
+        "TotalParkingSlotsen": 473,
+        "ConstructionBeginen": "апрель 2011 года",
+        "ConstructionEnden": "январь 2018 года",
+        "globalid": 860061076
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

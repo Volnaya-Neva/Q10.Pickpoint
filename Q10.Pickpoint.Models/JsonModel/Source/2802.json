@@ -1,0 +1,47 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.54002561,
+          55.65792625
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 1,
+        "AdmAreaen": null,
+        "Districten": null,
+        "Addressen": "город Москва, Профсоюзная улица, дом 80",
+        "Locationen": "Здание ЛИК, 2 этаж, кабинет 205А",
+        "ExtraInfoen": "тел. (495) 777-77-77",
+        "Nameen": "Онопенко Ярослав Аксентьевич",
+        "Positionen": "Начальник Главного архивного управления города Москвы",
+        "globalid": 25142836
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.54002561,
+          55.65792625
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 3,
+        "AdmAreaen": null,
+        "Districten": null,
+        "Addressen": "город Москва, Профсоюзная улица, дом 80",
+        "Locationen": "Здание ЛИК, 2 этаж, кабинет 205Б",
+        "ExtraInfoen": "тел. (495) 777-77-77",
+        "Nameen": "Лукинова Оксана Александровна",
+        "Positionen": "Первый заместитель начальника Главного архивного управления города Москвы",
+        "globalid": 62428792
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

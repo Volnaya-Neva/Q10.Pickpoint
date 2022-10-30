@@ -1,0 +1,62 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.6651269235201,
+          55.7668830228167
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Сервисный центр Московский транспорт",
+        "AdmArea": "Центральный административный округ",
+        "District": "Басманный район",
+        "Address": "город Москва, Старая Басманная улица, дом 20, корпус 1",
+        "WebSite": "",
+        "ClarificationOfWorkingHours": "",
+        "globalid": 894089946
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5564440647764,
+          55.7682990669341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Сервисный центр Московский транспорт",
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "Address": "город Москва, улица 1905 Года, дом 25",
+        "WebSite": "",
+        "ClarificationOfWorkingHours": "",
+        "globalid": 894089991
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7216083558176,
+          55.7604663275298
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Пункт выдачи разрешений МАДИ",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Соколиная Гора",
+        "Address": "город Москва, проезд Энтузиастов, владение 3",
+        "WebSite": "",
+        "ClarificationOfWorkingHours": "",
+        "globalid": 894090019
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

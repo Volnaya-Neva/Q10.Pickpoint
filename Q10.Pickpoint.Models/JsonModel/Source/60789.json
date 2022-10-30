@@ -1,0 +1,258 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.636778,
+          55.818675
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "CinemaName": "Государственное бюджетное учреждение культуры города Москвы Кинотеатр «Космос»",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Останкинский район",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Останкинский, проспект Мира, дом 109",
+        "NumberOfAccessPoints": 7,
+        "WiFiName": "MoscowWiFiFree",
+        "CoverageArea": 50,
+        "FunctionFlag": "действует",
+        "AccessFlag": "открытая сеть",
+        "Password": "",
+        "globalid": 879791944
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.657015,
+          55.759903
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "CinemaName": "Государственное бюджетное учреждение культуры города Москвы Кинотеатр «Звезда»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Басманный район",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Басманный, улица Земляной Вал, дом 18-22, строение 2",
+        "NumberOfAccessPoints": 4,
+        "WiFiName": "MoscowWiFiFree",
+        "CoverageArea": 50,
+        "FunctionFlag": "действует",
+        "AccessFlag": "открытая сеть",
+        "Password": "",
+        "globalid": 879795206
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.676825,
+          55.861974
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "CinemaName": "Государственное бюджетное учреждение культуры города Москвы Кинотеатр «Вымпел»",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Бабушкинский район",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Бабушкинский, улица Коминтерна, дом 8",
+        "NumberOfAccessPoints": 5,
+        "WiFiName": "MoscowWiFiFree",
+        "CoverageArea": 50,
+        "FunctionFlag": "действует",
+        "AccessFlag": "открытая сеть",
+        "Password": "",
+        "globalid": 879791951
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.718534,
+          55.685873
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "CinemaName": "Государственное бюджетное учреждение культуры города Москвы Кинотеатр «Тула»",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Печатники",
+        "Address": "город Москва, улица Кухмистерова, дом 4",
+        "NumberOfAccessPoints": 8,
+        "WiFiName": "MoscowWiFiFree",
+        "CoverageArea": 50,
+        "FunctionFlag": "действует",
+        "AccessFlag": "открытая сеть",
+        "Password": "",
+        "globalid": 879791953
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.731299,
+          55.710864
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "CinemaName": "Государственное бюджетное учреждение культуры города Москвы Кинотеатр «Молодежный»",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Текстильщики",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Текстильщики, Люблинская улица, дом 11",
+        "NumberOfAccessPoints": 6,
+        "WiFiName": "MoscowWiFiFree",
+        "CoverageArea": 50,
+        "FunctionFlag": "действует",
+        "AccessFlag": "открытая сеть",
+        "Password": "",
+        "globalid": 879795207
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.705508,
+          55.764303
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "CinemaName": "Государственное бюджетное учреждение культуры города Москвы Кинотеатр «Спутник»",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Лефортово",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Лефортово, Солдатская улица, дом 15",
+        "NumberOfAccessPoints": 4,
+        "WiFiName": "MoscowWiFiFree",
+        "CoverageArea": 50,
+        "FunctionFlag": "действует",
+        "AccessFlag": "открытая сеть",
+        "Password": "",
+        "globalid": 879795208
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.571585,
+          55.682787
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "CinemaName": "Государственное бюджетное учреждение культуры города Москвы Кинотеатр «Салют»",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "Академический район",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Академический, улица Кедрова, дом 14, корпус 1",
+        "NumberOfAccessPoints": 3,
+        "WiFiName": "MoscowWiFiFree",
+        "CoverageArea": 50,
+        "FunctionFlag": "действует",
+        "AccessFlag": "открытая сеть",
+        "Password": "",
+        "globalid": 879791961
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.57121,
+          55.814406
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "CinemaName": "Государственное бюджетное учреждение культуры города Москвы Кинотеатр «Искра»",
+        "AdmArea": "Северный административный округ",
+        "District": "Тимирязевский район",
+        "Address": "город Москва, улица Костякова, дом 10",
+        "NumberOfAccessPoints": 3,
+        "WiFiName": "MoscowWiFiFree",
+        "CoverageArea": 50,
+        "FunctionFlag": "действует",
+        "AccessFlag": "открытая сеть",
+        "Password": "",
+        "globalid": 879795209
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.802562,
+          55.749841
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "CinemaName": "Государственное бюджетное учреждение культуры города Москвы Кинотеатр «Березка»",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Новогиреево",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Новогиреево, Мартеновская улица, дом 25",
+        "NumberOfAccessPoints": 6,
+        "WiFiName": "MoscowWiFiFree",
+        "CoverageArea": 50,
+        "FunctionFlag": "действует",
+        "AccessFlag": "открытая сеть",
+        "Password": "",
+        "globalid": 879791967
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.647549,
+          55.851945
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "CinemaName": "Государственное бюджетное учреждение культуры города Москвы Кинотеатр «Сатурн»",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Свиблово",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Свиблово, Снежная улица, дом 18",
+        "NumberOfAccessPoints": 5,
+        "WiFiName": "MoscowWiFiFree",
+        "CoverageArea": 50,
+        "FunctionFlag": "действует",
+        "AccessFlag": "открытая сеть",
+        "Password": "",
+        "globalid": 879795211
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.513395,
+          55.665309
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "CinemaName": "Государственное бюджетное учреждение культуры города Москвы Киноклуб музей «Эльдар»",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "Обручевский район",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Обручевский, Ленинский проспект, дом 105",
+        "NumberOfAccessPoints": 5,
+        "WiFiName": "MoscowWiFiFree",
+        "CoverageArea": 50,
+        "FunctionFlag": "действует",
+        "AccessFlag": "открытая сеть",
+        "Password": "",
+        "globalid": 879795212
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

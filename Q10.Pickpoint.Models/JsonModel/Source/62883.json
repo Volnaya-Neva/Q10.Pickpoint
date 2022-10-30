@@ -1,0 +1,112 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.900526,
+          55.414307
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Домодедово",
+        "Aeroexpress": "есть",
+        "AeroexpressStation": {
+          "globalid": 1508979300,
+          "value": "Аэропорт Домодедово"
+        },
+        "AeroexpressTerminal": "есть",
+        "AeroexpressTicketWindow": "есть",
+        "AeroexpressTicketAutomat": "есть",
+        "AeroexpressWorkingHours": "5:30 - 23:30 (с Павелецкого вокзала), 6:00 - 00:00 (из аэропорта)",
+        "globalid": 1272818040
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.415713,
+          55.966771
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Шереметьево",
+        "Aeroexpress": "есть",
+        "AeroexpressStation": {
+          "globalid": 1508983189,
+          "value": "Аэропорт Шереметьево"
+        },
+        "AeroexpressTerminal": "есть",
+        "AeroexpressTicketWindow": "есть",
+        "AeroexpressTicketAutomat": "есть",
+        "AeroexpressWorkingHours": "5:15 - 00:31 (с Белорусского вокзала), 04:43 - 00:03 (из аэропорта)",
+        "globalid": 1272818309
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.286287,
+          55.605059
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Внуково",
+        "Aeroexpress": "есть",
+        "AeroexpressStation": {
+          "globalid": 1508979119,
+          "value": "Аэропорт Внуково"
+        },
+        "AeroexpressTerminal": "есть",
+        "AeroexpressTicketWindow": "есть",
+        "AeroexpressTicketAutomat": "есть",
+        "AeroexpressWorkingHours": "6:00 - 23:00 (с Киевского вокзала), 6:00 - 23:00 (из аэропорта)",
+        "globalid": 1272818481
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.510824,
+          55.502859
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Остафьево",
+        "Aeroexpress": "нет",
+        "AeroexpressTerminal": "нет",
+        "AeroexpressTicketWindow": "нет",
+        "AeroexpressTicketAutomat": "нет",
+        "AeroexpressWorkingHours": "",
+        "globalid": 1272818826
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          38.117812,
+          55.56155
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "Жуковский",
+        "Aeroexpress": "нет",
+        "AeroexpressTerminal": "нет",
+        "AeroexpressTicketWindow": "нет",
+        "AeroexpressTicketAutomat": "нет",
+        "AeroexpressWorkingHours": "",
+        "globalid": 1272818941
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

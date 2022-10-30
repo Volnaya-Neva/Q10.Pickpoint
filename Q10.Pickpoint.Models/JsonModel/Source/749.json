@@ -1,0 +1,471 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.44259891481,
+          55.661549864225
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Открытое акционерное общество «Экспериментальное научно-производственное объединение «Санта и РО»",
+        "ShortName": "ОАО «ЭНПО «Санта и Ро»",
+        "AdmArea": "Западный административный округ",
+        "District": "район Тропарёво-Никулино",
+        "Address": "Озерная улица, дом 47 \"Д\"",
+        "WebSite": "",
+        "globalid": 1712308,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 642,
+        "Faxisdeleted0": 0,
+        "FaxFax0": "",
+        "Faxglobalid0": 63
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.52800122364,
+          55.614701263581
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Открытое акционерное общество «Броникс-Сервис»",
+        "ShortName": "ОАО «Броникс-Сервис»",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Ясенево",
+        "Address": "Литовский бульвар, дом 1А",
+        "WebSite": "",
+        "globalid": 1712309,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 635,
+        "Faxisdeleted0": 0,
+        "FaxFax0": "",
+        "Faxglobalid0": 51
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.55537806485,
+          55.60251731362
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Открытое акционерное общество «Ритуал-Юго-Запад»",
+        "ShortName": "ОАО «Ритуал-Юго-Запад»",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Ясенево",
+        "Address": "Новоясеневский просп., дом 25/20",
+        "WebSite": "www.ritual-uz.ru",
+        "globalid": 1712310,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 604,
+        "ContactPhoneisdeleted1": 0,
+        "ContactPhoneContactPhone1": "",
+        "ContactPhoneglobalid1": 650
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.659397265169,
+          55.827291653043
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Закрытое акционерное общество «Ритуал-Сервис»",
+        "ShortName": "ЗАО «Ритуал-Сервис»",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Алексеевский район",
+        "Address": "129301, г. Москва, ул. Касаткина д. 11 стр. 13",
+        "WebSite": "www.ritual.ru",
+        "globalid": 1712311,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 640,
+        "ContactPhoneisdeleted1": 0,
+        "ContactPhoneContactPhone1": "",
+        "ContactPhoneglobalid1": 641
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.857085657361,
+          55.718084620659
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Акционерное общество «Ритуал-Горбрус»",
+        "ShortName": "АО «Ритуал-Горбрус»",
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Лефортово",
+        "Address": "проезд завода Серп и молот, дом 3, корпус 2, помещение 1/13",
+        "WebSite": "www.ritual-gorbrus.ru",
+        "globalid": 1712312,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 645,
+        "Faxisdeleted0": 0,
+        "FaxFax0": "",
+        "Faxglobalid0": 57
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.569313511868,
+          55.716304795995
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Акционерное общество «Реквием-Сервис»",
+        "ShortName": "АО «Реквием-Сервис»",
+        "AdmArea": "Центральный административный округ",
+        "District": "район Хамовники",
+        "Address": "Языковский пер., дом 5, корп.4, помещение III, ком.8.",
+        "WebSite": "www.rekviem.msk.ru",
+        "globalid": 1712313
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.643967260765,
+          55.724795442918
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Акционерное общество «Военно-Мемориальная Компания-1»",
+        "ShortName": "АО «ВМК-1»",
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Алексеевский район",
+        "Address": "улица Касаткина, дом 11, строение 13",
+        "WebSite": "www.vmkros.ru",
+        "globalid": 1712314,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 629
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.59329981548,
+          55.714585748691
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Акционерное общество «Генезис-Сервис»",
+        "ShortName": "АО «Генезис-Сервис»",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Котловка",
+        "Address": "Нагорная улица, дом 23, корп. 1",
+        "WebSite": "www.genesisritual.ru",
+        "globalid": 1712315,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 614
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.456304196123,
+          55.799279981828
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Общество с ограниченной ответственностью «Последний обряд»",
+        "ShortName": "ООО «Последний обряд»",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Щукино",
+        "Address": "ул. Гамалеи, дом 17А",
+        "WebSite": "",
+        "globalid": 1712317,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 585,
+        "ContactPhoneisdeleted1": 0,
+        "ContactPhoneContactPhone1": "",
+        "ContactPhoneglobalid1": 653
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.516419961912,
+          55.803008328284
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Государственное бюджетное учреждение «Ритуал»",
+        "ShortName": "ГБУ «Ритуал»",
+        "AdmArea": "Северный административный округ",
+        "District": "район Сокол",
+        "Address": "Песчаная ул., дом 3",
+        "WebSite": "www.mosritual.ru",
+        "globalid": 1712318,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 638,
+        "ContactPhoneisdeleted1": 0,
+        "ContactPhoneContactPhone1": "",
+        "ContactPhoneglobalid1": 639,
+        "Faxisdeleted0": 0,
+        "FaxFax0": "",
+        "Faxglobalid0": 52
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.872687203267,
+          55.745469982807
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Открытое акционерное общество «Ритус-Сервис»",
+        "ShortName": "ОАО «Ритус-Сервис»",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Новокосино",
+        "Address": "Суздальская ул., дом 38 корп. 2",
+        "WebSite": "www.ritus.ru",
+        "globalid": 1712320,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 592,
+        "ContactPhoneisdeleted1": 0,
+        "ContactPhoneContactPhone1": "",
+        "ContactPhoneglobalid1": 657,
+        "Faxisdeleted0": 0,
+        "FaxFax0": "",
+        "Faxglobalid0": 35
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.633277892192,
+          55.775210141195
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Некоммерческая организация Фонд Возрождения Ритуальных Традиций",
+        "ShortName": "НО ФВРТ",
+        "AdmArea": "Центральный административный округ",
+        "District": "Мещанский район",
+        "Address": "Выползов переулок, дом 7",
+        "WebSite": "www.ritual.org.ru",
+        "globalid": 1712321,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 627,
+        "ContactPhoneisdeleted1": 0,
+        "ContactPhoneContactPhone1": "",
+        "ContactPhoneglobalid1": 628
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.586379503711,
+          55.615063141329
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Общество с ограниченной ответственностью «ЮОО ВОИ Вектор»",
+        "ShortName": "ООО «ЮОО ВОИ Вектор»",
+        "AdmArea": "Южный административный округ",
+        "District": "район Чертаново Центральное",
+        "Address": "Днепропетровская улица. дом 18А",
+        "WebSite": "www.ritual-vektor.ru",
+        "globalid": 1712322,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 612,
+        "ContactPhoneisdeleted1": 0,
+        "ContactPhoneContactPhone1": "",
+        "ContactPhoneglobalid1": 654,
+        "Faxisdeleted0": 0,
+        "FaxFax0": "",
+        "Faxglobalid0": 60
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.441439929942,
+          55.870973959382
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Акционерное общество «Анубис-Сервис»",
+        "ShortName": "АО «Анубис-Сервис»",
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Северное Тушино",
+        "Address": "ул. Свободы, д. 99, корп. 1, пом. XIII., ком. 1",
+        "WebSite": "",
+        "globalid": 1712323,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 631
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.577198126923,
+          55.668555037927
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Открытое акционерное общество «Ритуальная православная служба»",
+        "ShortName": "ОАО «Ритуальная православная служба»",
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Черёмушки",
+        "Address": "улица Цюрупы. дом 3",
+        "WebSite": "www.rps-ritual.ru",
+        "globalid": 1712324,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 613,
+        "Faxisdeleted0": 0,
+        "FaxFax0": "",
+        "Faxglobalid0": 61
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.646849584638,
+          55.718537515779
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Акционерное общество «Стикс-С»",
+        "ShortName": "АО «Стикс-С»",
+        "AdmArea": "Южный административный округ",
+        "District": "Даниловский район",
+        "Address": "Дербеневская ул., дом 24 стр. 9",
+        "WebSite": "",
+        "globalid": 1712325,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 608
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.401413201033,
+          55.751256668094
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Открытое акционерное общество «Риторг-Сервис»",
+        "ShortName": "ОАО «Риторг-Сервис»",
+        "AdmArea": "Западный административный округ",
+        "District": "район Кунцево",
+        "Address": "ул. Маршала Тимошенко, дом 25",
+        "WebSite": "www.ritorg.ru",
+        "globalid": 1712326,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 636,
+        "ContactPhoneisdeleted1": 0,
+        "ContactPhoneContactPhone1": "",
+        "ContactPhoneglobalid1": 655,
+        "Faxisdeleted0": 0,
+        "FaxFax0": "",
+        "Faxglobalid0": 62
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.738065722233,
+          55.760052101089
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Открытое акционерное общество «Эдем-С»",
+        "ShortName": "ОАО «Эдем-С»",
+        "AdmArea": "Восточный административный округ",
+        "District": "район Соколиная Гора",
+        "Address": "просп. Будённого, дом 51А",
+        "WebSite": "www.oaoedems.ru",
+        "globalid": 1712327,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 618
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.632110836015,
+          55.778117430459
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "FullName": "Акционерное общество «Фирма «Кедр»",
+        "ShortName": "АО «Фирма «Кедр»",
+        "AdmArea": "Центральный административный округ",
+        "District": "Мещанский район",
+        "Address": "проспект Мира, дом 19, строение 1",
+        "WebSite": "www.ritual-kedr.ru",
+        "globalid": 1712328,
+        "ContactPhoneisdeleted0": 0,
+        "ContactPhoneContactPhone0": "",
+        "ContactPhoneglobalid0": 637,
+        "ContactPhoneisdeleted1": 0,
+        "ContactPhoneContactPhone1": "",
+        "ContactPhoneglobalid1": 656
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

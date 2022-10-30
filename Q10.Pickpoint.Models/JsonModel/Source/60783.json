@@ -1,0 +1,2855 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.4606113525825,
+          55.8714342953126
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Северный административный округ",
+        "District": "район Левобережный",
+        "Address": "город Москва, Ленинградское шоссе, дом 134",
+        "Linear": "да",
+        "ConstructionSize": "11,2x25,6",
+        "PartsAmount": 1,
+        "globalid": 878865916
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4735637745404,
+          55.5726316542923
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Новомосковский административный округ",
+        "District": "поселение Сосенское",
+        "Address": "город Москва, поселение Сосенское, посёлок Коммунарка, улица Александры Монаховой, дом 10",
+        "Linear": "да",
+        "ConstructionSize": "12x6",
+        "PartsAmount": 1,
+        "globalid": 878866075
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4307497233224,
+          55.6749594417023
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Западный административный округ",
+        "District": "район Очаково-Матвеевское",
+        "Address": "город Москва, Рябиновая улица, дом 44, строение 25",
+        "Linear": "да",
+        "ConstructionSize": "43x26,7",
+        "PartsAmount": 1,
+        "globalid": 878866208
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.599468221671,
+          55.753232766187
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Центральный административный округ",
+        "District": "район Арбат",
+        "Address": "город Москва, улица Новый Арбат, дом 2",
+        "Linear": "да",
+        "ConstructionSize": "79,65x25,15",
+        "PartsAmount": 1,
+        "globalid": 878867544
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6964652252352,
+          55.7494342543217
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Лефортово",
+        "Address": "город Москва, шоссе Энтузиастов, дом 5, строение 2",
+        "Linear": "да",
+        "ConstructionSize": "74x20",
+        "PartsAmount": 1,
+        "globalid": 878867558
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7163348587876,
+          55.7814348111106
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Восточный административный округ",
+        "District": "район Соколиная Гора",
+        "Address": "город Москва, Большая Семёновская улица, дом 49, корпус 1",
+        "Linear": "да",
+        "ConstructionSize": "9,6x13",
+        "PartsAmount": 1,
+        "globalid": 878867849
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4832805487494,
+          55.6484522454785
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Тёплый Стан",
+        "Address": "город Москва, Ленинский проспект, дом 123А",
+        "Linear": "да",
+        "ConstructionSize": "22,4x4,8",
+        "PartsAmount": 1,
+        "globalid": 878867865
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6897669893378,
+          55.8608002320412
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Ярославский район",
+        "Address": "город Москва, Ярославское шоссе, дом 51",
+        "Linear": "да",
+        "ConstructionSize": "18,5x8,5",
+        "PartsAmount": 1,
+        "globalid": 878867872
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5561351928641,
+          55.5653720446498
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Северное Бутово",
+        "Address": "город Москва, улица Поляны, дом 8",
+        "Linear": "да",
+        "ConstructionSize": "17x10",
+        "PartsAmount": 1,
+        "globalid": 878867887
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6116267691991,
+          55.8197158890093
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Останкинский район",
+        "Address": "город Москва, улица Академика Королёва, дом 15, корпус 1",
+        "Linear": "нет",
+        "ConstructionSize": "3780",
+        "PartsAmount": 2,
+        "globalid": 878867924
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4405130136528,
+          55.8178230106743
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Покровское-Стрешнево",
+        "Address": "город Москва, Волоколамское шоссе, дом 69",
+        "Linear": "да",
+        "ConstructionSize": "35,5x14",
+        "PartsAmount": 1,
+        "globalid": 878867963
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.2893704001148,
+          55.6056398508198
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Западный административный округ",
+        "District": "район Внуково",
+        "Address": "город Москва, 1-я Рейсовая улица, дом 1, корпус 2",
+        "Linear": "нет",
+        "ConstructionSize": "441",
+        "PartsAmount": 3,
+        "globalid": 878868785
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5876336094645,
+          55.7530870264674
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Центральный административный округ",
+        "District": "район Арбат",
+        "Address": "город Москва, улица Новый Арбат, дом 24",
+        "Linear": "да",
+        "ConstructionSize": "100,8x8,83",
+        "PartsAmount": 1,
+        "globalid": 878868149
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6448240807245,
+          55.7015017889338
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Южный административный округ",
+        "District": "Даниловский район",
+        "Address": "город Москва, Автозаводская улица, дом 23А",
+        "Linear": "да",
+        "ConstructionSize": "40x23",
+        "PartsAmount": 1,
+        "globalid": 878868193
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6353735075262,
+          55.7056359462244
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Южный административный округ",
+        "District": "Даниловский район",
+        "Address": "город Москва, Автозаводская улица, дом 22",
+        "Linear": "да",
+        "ConstructionSize": "67,75x7,5",
+        "PartsAmount": 1,
+        "globalid": 878868227
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5394202582121,
+          55.7505145154499
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "Address": "город Москва, 1-й Красногвардейский проезд, дом 15",
+        "Linear": "да",
+        "ConstructionSize": "90x14,8",
+        "PartsAmount": 1,
+        "globalid": 878868305
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.646174035514,
+          55.6533087702704
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Южный административный округ",
+        "District": "район Москворечье-Сабурово",
+        "Address": "город Москва, Каширское шоссе, дом 26",
+        "Linear": "да",
+        "ConstructionSize": "38x6",
+        "PartsAmount": 1,
+        "globalid": 878868336
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7295519887928,
+          55.8790545911422
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Ярославский район",
+        "Address": "город Москва, Ярославское шоссе, дом 146, корпус 2",
+        "Linear": "да",
+        "ConstructionSize": "20,4х35,3",
+        "PartsAmount": 2,
+        "globalid": 878868674
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.499254146438,
+          55.6520286204581
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "Обручевский район",
+        "Address": "город Москва, улица Миклухо-Маклая, дом 6",
+        "Linear": "да",
+        "ConstructionSize": "11x8",
+        "PartsAmount": 1,
+        "globalid": 878868912
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4809383153183,
+          55.6630146027824
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Западный административный округ",
+        "District": "район Тропарёво-Никулино",
+        "Address": "город Москва, проспект Вернадского, дом 86А",
+        "Linear": "да",
+        "ConstructionSize": "26,5х12",
+        "PartsAmount": 3,
+        "globalid": 878868974
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4809518817399,
+          55.6630131233497
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Западный административный округ",
+        "District": "район Тропарёво-Никулино",
+        "Address": "город Москва, проспект Вернадского, дом 86А",
+        "Linear": "да",
+        "ConstructionSize": "39x12,97",
+        "PartsAmount": 1,
+        "globalid": 878869039
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7580847339297,
+          55.8031298074131
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Восточный административный округ",
+        "District": "район Северное Измайлово",
+        "Address": "город Москва, Щёлковское шоссе, дом 2А",
+        "Linear": "да",
+        "ConstructionSize": "34x71",
+        "PartsAmount": 1,
+        "globalid": 878869076
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4762995186533,
+          55.7279011130304
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Западный административный округ",
+        "District": "район Фили-Давыдково",
+        "Address": "город Москва, Кутузовский проспект, дом 57",
+        "Linear": "нет",
+        "ConstructionSize": "870,05",
+        "PartsAmount": 3,
+        "globalid": 878869111
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5237514986134,
+          55.7771183616666
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Северный административный округ",
+        "District": "Хорошёвский район",
+        "Address": "город Москва, Хорошёвское шоссе, дом 27",
+        "Linear": "нет",
+        "ConstructionSize": "887,5",
+        "PartsAmount": 3,
+        "globalid": 878869177
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.562708433539,
+          55.74341785919
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Западный административный округ",
+        "District": "район Дорогомилово",
+        "Address": "город Москва, Киевская улица, дом 2",
+        "Linear": "нет",
+        "ConstructionSize": "1366,5",
+        "PartsAmount": 8,
+        "globalid": 878869248
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7418439186529,
+          55.6587550758409
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Марьино",
+        "Address": "город Москва, Люблинская улица, дом 153",
+        "Linear": "да",
+        "ConstructionSize": "9,6х21",
+        "PartsAmount": 2,
+        "globalid": 878869296
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7071009637656,
+          55.7474308765223
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Лефортово",
+        "Address": "город Москва, шоссе Энтузиастов, дом 12, корпус 2",
+        "Linear": "да",
+        "ConstructionSize": "18,5x18",
+        "PartsAmount": 1,
+        "globalid": 878869346
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7311713509573,
+          55.7298184842978
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "Нижегородский район",
+        "Address": "город Москва, Рязанский проспект, дом 2, корпус 2",
+        "Linear": "да",
+        "ConstructionSize": "18x18",
+        "PartsAmount": 1,
+        "globalid": 878869399
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5659795569241,
+          55.7445646678573
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Западный административный округ",
+        "District": "район Дорогомилово",
+        "Address": "город Москва, площадь Киевского Вокзала, дом 2",
+        "Linear": "да",
+        "ConstructionSize": "4,8х13,6",
+        "PartsAmount": 8,
+        "globalid": 878869767
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6408704343482,
+          55.7050178421588
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Южный административный округ",
+        "District": "Даниловский район",
+        "Address": "город Москва, Автозаводская улица, дом 18",
+        "Linear": "да",
+        "ConstructionSize": "6х13",
+        "PartsAmount": 8,
+        "globalid": 878869500
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6408704343482,
+          55.7050178421588
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Южный административный округ",
+        "District": "Даниловский район",
+        "Address": "город Москва, Автозаводская улица, дом 18",
+        "Linear": "да",
+        "ConstructionSize": "41,04x9",
+        "PartsAmount": 1,
+        "globalid": 878869533
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6408704343482,
+          55.7050178421588
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Южный административный округ",
+        "District": "Даниловский район",
+        "Address": "город Москва, Автозаводская улица, дом 18",
+        "Linear": "да",
+        "ConstructionSize": "20,04х9",
+        "PartsAmount": 1,
+        "globalid": 878869440
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6220805844711,
+          55.7086960671159
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Южный административный округ",
+        "District": "Даниловский район",
+        "Address": "город Москва, Большая Тульская улица, дом 13",
+        "Linear": "да",
+        "ConstructionSize": "7х9",
+        "PartsAmount": 2,
+        "globalid": 878869813
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5953205339246,
+          55.753117449047
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Центральный административный округ",
+        "District": "район Арбат",
+        "Address": "город Москва, улица Новый Арбат, дом 8",
+        "Linear": "да",
+        "ConstructionSize": "89,09х7,17",
+        "PartsAmount": 1,
+        "globalid": 878869938
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5849708224828,
+          55.7528969514697
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Центральный административный округ",
+        "District": "район Арбат",
+        "Address": "город Москва, улица Новый Арбат, дом 28",
+        "Linear": "да",
+        "ConstructionSize": "47,1х7,17",
+        "PartsAmount": 1,
+        "globalid": 878869974
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5598531774025,
+          55.7913300418692
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Северный административный округ",
+        "District": "район Аэропорт",
+        "Address": "город Москва, Ленинградский проспект, дом 36",
+        "Linear": "да",
+        "ConstructionSize": "80х11",
+        "PartsAmount": 1,
+        "globalid": 878870058
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5738422496718,
+          55.7283649676318
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Центральный административный округ",
+        "District": "район Хамовники",
+        "Address": "город Москва, Трубецкая улица, дом 8",
+        "Linear": "да",
+        "ConstructionSize": "5,76х3,2",
+        "PartsAmount": 1,
+        "globalid": 878870114
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4830104317589,
+          55.6514829352041
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Западный административный округ",
+        "District": "район Тропарёво-Никулино",
+        "Address": "город Москва, Ленинский проспект, дом 158",
+        "Linear": "да",
+        "ConstructionSize": "24х50,4",
+        "PartsAmount": 1,
+        "globalid": 878870157
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6852725055388,
+          55.7772942517361
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Центральный административный округ",
+        "District": "Басманный район",
+        "Address": "город Москва, Переведеновский переулок, дом 8",
+        "Linear": "да",
+        "ConstructionSize": "7,72х2,92",
+        "PartsAmount": 1,
+        "globalid": 878870204
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5999637207837,
+          55.7580321029538
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "Address": "город Москва, Тверской бульвар, дом 2",
+        "Linear": "да",
+        "ConstructionSize": "80х2",
+        "PartsAmount": 1,
+        "globalid": 878870246
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4891008633398,
+          55.8280113686556
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Северный административный округ",
+        "District": "Войковский район",
+        "Address": "город Москва, Ленинградское шоссе, дом 25",
+        "Linear": "да",
+        "ConstructionSize": "24х6",
+        "PartsAmount": 1,
+        "globalid": 878870284
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5402351959946,
+          55.9094666223667
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Северный",
+        "Address": "город Москва, Дмитровское шоссе, дом 163А, корпус 1",
+        "Linear": "да",
+        "ConstructionSize": "30х6",
+        "PartsAmount": 1,
+        "globalid": 878870376
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5402351959946,
+          55.9094666223667
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Северный",
+        "Address": "город Москва, Дмитровское шоссе, дом 163А, корпус 1",
+        "Linear": "да",
+        "ConstructionSize": "8х6",
+        "PartsAmount": 1,
+        "globalid": 878870940
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7058427880433,
+          55.7828508821347
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Восточный административный округ",
+        "District": "район Соколиная Гора",
+        "Address": "город Москва, Большая Семёновская улица, дом 17А",
+        "Linear": "да",
+        "ConstructionSize": "11,5х6,5",
+        "PartsAmount": 1,
+        "globalid": 878870961
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6204936349168,
+          55.7095271387329
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Южный административный округ",
+        "District": "Даниловский район",
+        "Address": "город Москва, Большая Тульская улица, дом 2",
+        "Linear": "да",
+        "ConstructionSize": "14,4х15,2",
+        "PartsAmount": 1,
+        "globalid": 878871011
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5905315488675,
+          55.7377171431899
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Центральный административный округ",
+        "District": "район Хамовники",
+        "Address": "город Москва, Зубовский бульвар, дом 4, строение 1",
+        "Linear": "да",
+        "ConstructionSize": "196х2",
+        "PartsAmount": 1,
+        "globalid": 878871043
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5905315488675,
+          55.7377171431899
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Центральный административный округ",
+        "District": "район Хамовники",
+        "Address": "город Москва, Зубовский бульвар, дом 4, строение 1",
+        "Linear": "да",
+        "ConstructionSize": "45х11",
+        "PartsAmount": 1,
+        "globalid": 878871070
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5326068966602,
+          55.751716242709
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "Address": "город Москва, Тестовская улица, дом 10",
+        "Linear": "да",
+        "ConstructionSize": "30х7",
+        "PartsAmount": 2,
+        "globalid": 878871120
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6180401903614,
+          55.6317445296624
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Южный административный округ",
+        "District": "район Чертаново Северное",
+        "Address": "город Москва, Варшавское шоссе, дом 118, корпус 1",
+        "Linear": "да",
+        "ConstructionSize": "31,2х16,8",
+        "PartsAmount": 1,
+        "globalid": 878871151
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5112869421024,
+          55.6636767597593
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "Обручевский район",
+        "Address": "город Москва, Ленинский проспект, дом 109",
+        "Linear": "да",
+        "ConstructionSize": "59,5х26",
+        "PartsAmount": 1,
+        "globalid": 878871186
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6170177559205,
+          55.7954290430789
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Марьина Роща",
+        "Address": "город Москва, Шереметьевская улица, дом 6, корпус 1",
+        "Linear": "да",
+        "ConstructionSize": "20х10,5",
+        "PartsAmount": 1,
+        "globalid": 878871221
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6464781584273,
+          55.8222930634339
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Алексеевский район",
+        "Address": "город Москва, проспект Мира, дом 150",
+        "Linear": "да",
+        "ConstructionSize": "19,46х45,06",
+        "PartsAmount": 1,
+        "globalid": 1035640970
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5456995300752,
+          55.7511049696197
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "Address": "город Москва, Краснопресненская набережная, дом 14",
+        "Linear": "да",
+        "ConstructionSize": "20х8",
+        "PartsAmount": 1,
+        "globalid": 1035641065
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5973993931214,
+          55.752449462571
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Центральный административный округ",
+        "District": "район Арбат",
+        "Address": "город Москва, улица Новый Арбат, дом 7А",
+        "Linear": "да",
+        "ConstructionSize": "18, 432х13,312",
+        "PartsAmount": 1,
+        "globalid": 1035641222
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6040431939692,
+          55.7016979112185
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Южный административный округ",
+        "District": "Донской район",
+        "Address": "город Москва, 5-й Донской проезд, дом 23",
+        "Linear": "да",
+        "ConstructionSize": "19,5х13,75",
+        "PartsAmount": 1,
+        "globalid": 1035641332
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5453407417859,
+          55.733354704606
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Западный административный округ",
+        "District": "район Дорогомилово",
+        "Address": "город Москва, Бережковская набережная, дом 20, строение 73",
+        "Linear": "да",
+        "ConstructionSize": "60х18",
+        "PartsAmount": 1,
+        "globalid": 1035641519
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6360865741929,
+          55.7649981312039
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Центральный административный округ",
+        "District": "Красносельский район",
+        "Address": "город Москва, Мясницкая улица, дом 23",
+        "Linear": "да",
+        "ConstructionSize": "17х6",
+        "PartsAmount": null,
+        "globalid": 1035641539
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6784887894158,
+          55.7885258268888
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Восточный административный округ",
+        "District": "район Сокольники",
+        "Address": "город Москва, Русаковская улица, дом 31",
+        "Linear": "да",
+        "ConstructionSize": "14,5х7",
+        "PartsAmount": 1,
+        "globalid": 1035641592
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6784887894158,
+          55.7885258268888
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Восточный административный округ",
+        "District": "район Сокольники",
+        "Address": "город Москва, Русаковская улица, дом 31",
+        "Linear": "да",
+        "ConstructionSize": "17,5х7",
+        "PartsAmount": 1,
+        "globalid": 1035643899
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7210867548587,
+          55.7812725807683
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Восточный административный округ",
+        "District": "район Соколиная Гора",
+        "Address": "город Москва, Семёновская площадь, дом 4",
+        "Linear": "да",
+        "ConstructionSize": "30х9",
+        "PartsAmount": 1,
+        "globalid": 1035643933
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4570559380886,
+          55.7070436358294
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Западный административный округ",
+        "District": "район Очаково-Матвеевское",
+        "Address": "город Москва, Аминьевское шоссе, дом 6",
+        "Linear": "да",
+        "ConstructionSize": "25,5х18",
+        "PartsAmount": 1,
+        "globalid": 1035643969
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5016346230502,
+          55.7706056933206
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Хорошёво-Мнёвники",
+        "Address": "город Москва, 2-й Силикатный проезд, дом 9, строение 5",
+        "Linear": "да",
+        "ConstructionSize": "16х14",
+        "PartsAmount": null,
+        "globalid": 1035644089
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6311998793102,
+          55.751219288345
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "город Москва, улица Варварка, домовладение 6, строение 4",
+        "Linear": "нет",
+        "ConstructionSize": "площадь 250,9 кв. м",
+        "PartsAmount": 1,
+        "globalid": 1035644260
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6052190848204,
+          55.6095687840023
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Южный административный округ",
+        "District": "район Чертаново Центральное",
+        "Address": "город Москва, Кировоградская улица, дом 15",
+        "Linear": "да",
+        "ConstructionSize": "28,8х7,2",
+        "PartsAmount": 1,
+        "globalid": 1035644682
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6052190848204,
+          55.6095687840023
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Южный административный округ",
+        "District": "район Чертаново Центральное",
+        "Address": "город Москва, Кировоградская улица, дом 15",
+        "Linear": "да",
+        "ConstructionSize": "14,4х7,2",
+        "PartsAmount": 2,
+        "globalid": 1035644844
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6052190848204,
+          55.6095687840023
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Южный административный округ",
+        "District": "район Чертаново Центральное",
+        "Address": "город Москва, Кировоградская улица, дом 15",
+        "Linear": "да",
+        "ConstructionSize": "19,2х7,2",
+        "PartsAmount": 1,
+        "globalid": 1035645035
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.8001510764682,
+          55.8110525165462
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Восточный административный округ",
+        "District": "район Гольяново",
+        "Address": "город Москва, Щёлковское шоссе, дом 75",
+        "Linear": "да",
+        "ConstructionSize": "20,480х11,264",
+        "PartsAmount": 1,
+        "globalid": 1035645368
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7139203727946,
+          55.621357642731
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Южный административный округ",
+        "District": "район Орехово-Борисово Северное",
+        "Address": "город Москва, Каширское шоссе, дом 61Г",
+        "Linear": "да",
+        "ConstructionSize": "61х14,4",
+        "PartsAmount": 1,
+        "globalid": 1035645577
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7139203727946,
+          55.621357642731
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Южный административный округ",
+        "District": "район Орехово-Борисово Северное",
+        "Address": "город Москва, Каширское шоссе, дом 61Г",
+        "Linear": "да",
+        "ConstructionSize": "20х18",
+        "PartsAmount": 1,
+        "globalid": 1035645761
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4720394210885,
+          55.7651255306194
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Хорошёво-Мнёвники",
+        "Address": "город Москва, улица Нижние Мнёвники, владение 110",
+        "Linear": "да",
+        "ConstructionSize": "8,8х3,6",
+        "PartsAmount": 1,
+        "globalid": 1035690539
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6680525692732,
+          55.710413013605
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "Южнопортовый район",
+        "Address": "город Москва, Велозаводская улица, дом 13, строение 1",
+        "Linear": "да",
+        "ConstructionSize": "16,8х4,8",
+        "PartsAmount": 1,
+        "globalid": 1035690613
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6696118170744,
+          55.7107481081268
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "Южнопортовый район",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Южнопортовый, Велозаводская улица, дом 13, строение 2",
+        "Linear": "да",
+        "ConstructionSize": "48 х 15",
+        "PartsAmount": 1,
+        "globalid": 1035690662
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5320793854024,
+          55.740414058299
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Западный административный округ",
+        "District": "район Дорогомилово",
+        "Address": "город Москва, Кутузовский проспект, дом 32",
+        "Linear": "да",
+        "ConstructionSize": "182,25х4",
+        "PartsAmount": null,
+        "globalid": 1035690701
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6932622434202,
+          55.8588134873784
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Ярославский район",
+        "Address": "город Москва, Ярославское шоссе, дом 26, корпус 1",
+        "Linear": "да",
+        "ConstructionSize": "27,648х7,168",
+        "PartsAmount": 2,
+        "globalid": 1035690733
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5811165580352,
+          55.7915124955408
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Северный административный округ",
+        "District": "район Беговой",
+        "Address": "город Москва, улица Расковой, дом 34, строение 14",
+        "Linear": "да",
+        "ConstructionSize": "18х16,25",
+        "PartsAmount": null,
+        "globalid": 1035690766
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5455359191712,
+          55.7094187692779
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Западный административный округ",
+        "District": "район Раменки",
+        "Address": "город Москва, улица Косыгина, дом 28, сооружение 39",
+        "Linear": "да",
+        "ConstructionSize": "6,144х34,816",
+        "PartsAmount": 2,
+        "globalid": 1035690784
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5455359191712,
+          55.7094187692779
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Западный административный округ",
+        "District": "район Раменки",
+        "Address": "город Москва, улица Косыгина, дом 28, сооружение 39",
+        "Linear": "да",
+        "ConstructionSize": "7,168х34,816",
+        "PartsAmount": 1,
+        "globalid": 1035690799
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4222374624162,
+          55.6235109487446
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Новомосковский административный округ",
+        "District": "поселение Московский",
+        "Address": "город Москва, поселение Московский, Киевское шоссе, 23-й километр, дом 1",
+        "Linear": "да",
+        "ConstructionSize": "37х17",
+        "PartsAmount": 1,
+        "globalid": 1035690815
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4222374624162,
+          55.6235109487446
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Новомосковский административный округ",
+        "District": "поселение Московский",
+        "Address": "город Москва, поселение Московский, Киевское шоссе, 23-й километр, дом 1",
+        "Linear": "да",
+        "ConstructionSize": "18х10",
+        "PartsAmount": 1,
+        "globalid": 1035690840
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6894491132233,
+          55.7056454109538
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "район Печатники",
+        "Address": "город Москва, Южнопортовая улица, дом 22, строение 1",
+        "Linear": "да",
+        "ConstructionSize": "43,5х7",
+        "PartsAmount": 1,
+        "globalid": 1035690889
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4409211017693,
+          55.6339262941685
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Новомосковский административный округ",
+        "District": "поселение Московский",
+        "Address": "город Москва, поселение Московский, Киевское шоссе, 22-й километр, домовладение 4, строение 1",
+        "Linear": "да",
+        "ConstructionSize": "7х24",
+        "PartsAmount": 6,
+        "globalid": 1035690924
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5053142990199,
+          55.8078263216456
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Северный административный округ",
+        "District": "район Сокол",
+        "Address": "город Москва, Волоколамское шоссе, дом 2",
+        "Linear": "да",
+        "ConstructionSize": "48,5x79,2",
+        "PartsAmount": 1,
+        "globalid": 1048090656
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.654177778299,
+          55.7398269883074
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Центральный административный округ",
+        "District": "Таганский район",
+        "Address": "город Москва, улица Большие Каменщики, дом 1",
+        "Linear": "да",
+        "ConstructionSize": "23x12,5",
+        "PartsAmount": 1,
+        "globalid": 1048090699
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6234416489203,
+          55.7681767967773
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Центральный административный округ",
+        "District": "Мещанский район",
+        "Address": "город Москва, Цветной бульвар, дом 2",
+        "Linear": "да",
+        "ConstructionSize": "16x1,92",
+        "PartsAmount": 1,
+        "globalid": 1078572515
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6293770281646,
+          55.8086577667041
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "Останкинский район",
+        "Address": "город Москва, улица Годовикова, дом 9, строение 17",
+        "Linear": "да",
+        "ConstructionSize": "38x2",
+        "PartsAmount": 1,
+        "globalid": 1079098659
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6811985936335,
+          55.7263734122797
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "Южнопортовый район",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Южнопортовый, Волгоградский проспект, дом 26, строение 1",
+        "Linear": "да",
+        "ConstructionSize": "36х25",
+        "PartsAmount": 1,
+        "globalid": 1092180503
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5994950432009,
+          55.5852215167275
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Южный административный округ",
+        "District": "район Чертаново Южное",
+        "Address": "город Москва, Варшавское шоссе, владение 141Б",
+        "Linear": "да",
+        "ConstructionSize": "18,415х0,68",
+        "PartsAmount": 1,
+        "globalid": 1103656984
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5994950432009,
+          55.5852215167275
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Южный административный округ",
+        "District": "район Чертаново Южное",
+        "Address": "город Москва, Варшавское шоссе, владение 141Б",
+        "Linear": "да",
+        "ConstructionSize": "5,95х0,68",
+        "PartsAmount": null,
+        "globalid": 1103657002
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5994950432009,
+          55.5852215167275
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Южный административный округ",
+        "District": "район Чертаново Южное",
+        "Address": "город Москва, Варшавское шоссе, владение 141Б",
+        "Linear": "да",
+        "ConstructionSize": "3,6х1,8",
+        "PartsAmount": 1,
+        "globalid": 1103657003
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5247525697197,
+          55.8220095916872
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Северный административный округ",
+        "District": "район Коптево",
+        "Address": "город Москва, Большая Академическая улица, дом 11А",
+        "Linear": "да",
+        "ConstructionSize": "5,42х2,2",
+        "PartsAmount": 1,
+        "globalid": 1103657017
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6313506239384,
+          55.7511919634694
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Тверской, улица Варварка, сооружение 6, строение 5",
+        "Linear": "да",
+        "ConstructionSize": "60х0,66",
+        "PartsAmount": 1,
+        "globalid": 1103657059
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6313506239384,
+          55.7511919634694
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Тверской, улица Варварка, сооружение 6, строение 5",
+        "Linear": "да",
+        "ConstructionSize": "58,08х0,66",
+        "PartsAmount": 1,
+        "globalid": 1103657079
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6313506239384,
+          55.7511919634694
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Тверской, улица Варварка, сооружение 6, строение 5",
+        "Linear": "да",
+        "ConstructionSize": "55,68х0,66",
+        "PartsAmount": 1,
+        "globalid": 1103657080
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6313506239384,
+          55.7511919634694
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Тверской, улица Варварка, сооружение 6, строение 5",
+        "Linear": "да",
+        "ConstructionSize": "52,8х0,66",
+        "PartsAmount": 1,
+        "globalid": 1103657114
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6313506239384,
+          55.7511919634694
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Тверской, улица Варварка, сооружение 6, строение 5",
+        "Linear": "да",
+        "ConstructionSize": "48,48х0,66",
+        "PartsAmount": 1,
+        "globalid": 1103657154
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6313506239384,
+          55.7511919634694
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Тверской, улица Варварка, сооружение 6, строение 5",
+        "Linear": "да",
+        "ConstructionSize": "43,68х0,66",
+        "PartsAmount": 1,
+        "globalid": 1103657185
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6313506239384,
+          55.7511919634694
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Тверской, улица Варварка, сооружение 6, строение 5",
+        "Linear": "да",
+        "ConstructionSize": "37,44х0,66",
+        "PartsAmount": null,
+        "globalid": 1103657215
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6313506239384,
+          55.7511919634694
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Тверской, улица Варварка, сооружение 6, строение 5",
+        "Linear": "да",
+        "ConstructionSize": "29,76х0,66",
+        "PartsAmount": 1,
+        "globalid": 1103657225
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4013110494841,
+          55.8964965147846
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Куркино",
+        "Address": "город Москва, Новокуркинское шоссе, владение 14",
+        "Linear": "да",
+        "ConstructionSize": "13,2х0,68",
+        "PartsAmount": 1,
+        "globalid": 1111103283
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4013110494841,
+          55.8964965147846
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Куркино",
+        "Address": "город Москва, Новокуркинское шоссе, владение 14",
+        "Linear": "да",
+        "ConstructionSize": "5,5х0,68",
+        "PartsAmount": 1,
+        "globalid": 1111109418
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6648496939136,
+          55.6949433315191
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Южный административный округ",
+        "District": "Даниловский район",
+        "Address": "город Москва, проспект Андропова, владение 10, корпус 1/1",
+        "Linear": "да",
+        "ConstructionSize": "6,144х2,048",
+        "PartsAmount": 1,
+        "globalid": 1111111788
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6797146319267,
+          55.7769938582685
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Центральный административный округ",
+        "District": "Басманный район",
+        "Address": "город Москва, Спартаковская площадь, дом 14, строение 1",
+        "Linear": "да",
+        "ConstructionSize": "18х15",
+        "PartsAmount": 1,
+        "globalid": 1111116757
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.541874288767,
+          55.7696284775352
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "Address": "город Москва, Звенигородское шоссе, дом 28, строение 6",
+        "Linear": "да",
+        "ConstructionSize": "18х15",
+        "PartsAmount": 1,
+        "globalid": 1125122308
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.54610375309,
+          55.7743104650618
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Северный административный округ",
+        "District": "Хорошёвский район",
+        "Address": "город Москва, Хорошёвское шоссе, дом 16, строение 3",
+        "Linear": "да",
+        "ConstructionSize": "45х8,75",
+        "PartsAmount": 1,
+        "globalid": 1133099495
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4689507221949,
+          55.6318404236125
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Тёплый Стан",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Теплый Стан, 43-й километр Московской Кольцевой Автодороги, сооружение 12Б",
+        "Linear": "да",
+        "ConstructionSize": "3,6х1,8",
+        "PartsAmount": 1,
+        "globalid": 1133387935
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4689507221949,
+          55.6318404236125
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Тёплый Стан",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Теплый Стан, 43-й километр Московской Кольцевой Автодороги, сооружение 12Б",
+        "Linear": "да",
+        "ConstructionSize": "21,505х0,68",
+        "PartsAmount": 1,
+        "globalid": 1133388600
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4689507221949,
+          55.6318404236125
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Тёплый Стан",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Теплый Стан, 43-й километр Московской Кольцевой Автодороги, сооружение 12Б",
+        "Linear": "да",
+        "ConstructionSize": "12,860х0,68",
+        "PartsAmount": 1,
+        "globalid": 1133391092
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5328581172957,
+          55.7506499608759
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "Address": "город Москва, Тестовская улица, дом 8",
+        "Linear": "да",
+        "ConstructionSize": "12х24",
+        "PartsAmount": 1,
+        "globalid": 1136381709
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5383232645831,
+          55.7375679037079
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Западный административный округ",
+        "District": "район Дорогомилово",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Дорогомилово, Киевская улица, дом 27, сооружение 1",
+        "Linear": "да",
+        "ConstructionSize": "35х12",
+        "PartsAmount": 1,
+        "globalid": 1138975901
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.662106628502,
+          55.8454347296778
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Свиблово",
+        "Address": "город Москва, проспект Мира, дом 211, корпус 2",
+        "Linear": "да",
+        "ConstructionSize": "57х7",
+        "PartsAmount": 1,
+        "globalid": 1138977600
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4382344513416,
+          55.8238887547305
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Покровское-Стрешнево",
+        "Address": "город Москва, Волоколамское шоссе, дом 90, строение 3",
+        "Linear": "да",
+        "ConstructionSize": "16х25,5",
+        "PartsAmount": 1,
+        "globalid": 1146054315
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.622196550165,
+          55.7842499295377
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Центральный административный округ",
+        "District": "Мещанский район",
+        "Address": "город Москва, Олимпийский проспект, дом 5, строение 1",
+        "Linear": "да",
+        "ConstructionSize": "17х1",
+        "PartsAmount": 1,
+        "globalid": 1146563029
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.622196550165,
+          55.7842499295377
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Центральный административный округ",
+        "District": "Мещанский район",
+        "Address": "город Москва, Олимпийский проспект, дом 5, строение 1",
+        "Linear": "да",
+        "ConstructionSize": "13х1",
+        "PartsAmount": 1,
+        "globalid": 1146563050
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.622196550165,
+          55.7842499295377
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Центральный административный округ",
+        "District": "Мещанский район",
+        "Address": "город Москва, Олимпийский проспект, дом 5, строение 1",
+        "Linear": "да",
+        "ConstructionSize": "20х1",
+        "PartsAmount": null,
+        "globalid": 1146563067
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5456024007441,
+          55.7321395613491
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Западный административный округ",
+        "District": "район Дорогомилово",
+        "Address": "город Москва, Бережковская набережная, домовладение 38, строение 1",
+        "Linear": "да",
+        "ConstructionSize": "40х30",
+        "PartsAmount": 1,
+        "globalid": 1262943378
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6126041226254,
+          55.7926814631216
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Марьина Роща",
+        "Address": "город Москва, улица Сущёвский Вал, дом 46",
+        "Linear": "да",
+        "ConstructionSize": "20х8,75",
+        "PartsAmount": 1,
+        "globalid": 1266533610
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4023609675925,
+          55.8095701010583
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Северо-Западный административный округ",
+        "District": "район Строгино",
+        "Address": "город Москва, улица Маршала Катукова, дом 8",
+        "Linear": "да",
+        "ConstructionSize": "9х8",
+        "PartsAmount": 1,
+        "globalid": 1266533960
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5952319873333,
+          55.5829688667588
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Южный административный округ",
+        "District": "район Чертаново Южное",
+        "Address": "город Москва, Варшавское шоссе, дом 160",
+        "Linear": "да",
+        "ConstructionSize": "49,5х6",
+        "PartsAmount": 1,
+        "globalid": 1266802749
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6121959176652,
+          55.7739309174933
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Центральный административный округ",
+        "District": "Тверской район",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Тверской, Садовая-Самотёчная улица, дом 1",
+        "Linear": "да",
+        "ConstructionSize": "34,816х17,920",
+        "PartsAmount": 1,
+        "globalid": 1269211594
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4874129157266,
+          55.7317427032781
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Западный административный округ",
+        "District": "район Фили-Давыдково",
+        "Address": "город Москва, Кутузовский проспект, дом 48",
+        "Linear": "да",
+        "ConstructionSize": "21х15",
+        "PartsAmount": 1,
+        "globalid": 2262294908
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5737577428151,
+          55.7610059013238
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Пресненский, улица Красная Пресня, дом 9",
+        "Linear": "да",
+        "ConstructionSize": "10,5х18",
+        "PartsAmount": 1,
+        "globalid": 2262294910
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.585950832312,
+          55.8520881965054
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Северо-Восточный административный округ",
+        "District": "район Отрадное",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Отрадное, Алтуфьевское шоссе, дом 6",
+        "Linear": "да",
+        "ConstructionSize": "14х30",
+        "PartsAmount": 1,
+        "globalid": 2361343294
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.8009310047727,
+          55.8110199812537
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Восточный административный округ",
+        "District": "район Гольяново",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Гольяново, Щёлковское шоссе, дом 75",
+        "Linear": "да",
+        "ConstructionSize": "8,64х1,6",
+        "PartsAmount": 1,
+        "globalid": 2365770156
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.8009310047727,
+          55.8110199812537
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Восточный административный округ",
+        "District": "район Гольяново",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Гольяново, Щёлковское шоссе, дом 75",
+        "Linear": "да",
+        "ConstructionSize": "6,08х1,12",
+        "PartsAmount": 1,
+        "globalid": 2365770157
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5659143612377,
+          55.7445445509541
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Западный административный округ",
+        "District": "район Дорогомилово",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Дорогомилово, площадь Киевского Вокзала, дом 2",
+        "Linear": "да",
+        "ConstructionSize": "4,16 х 1,6 м",
+        "PartsAmount": 1,
+        "globalid": 2366305143
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5659143612377,
+          55.7445445509541
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Западный административный округ",
+        "District": "район Дорогомилово",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Дорогомилово, площадь Киевского Вокзала, дом 2",
+        "Linear": "да",
+        "ConstructionSize": "4,48 х 1,6 м",
+        "PartsAmount": 1,
+        "globalid": 2366305150
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5659143612377,
+          55.7445445509541
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Западный административный округ",
+        "District": "район Дорогомилово",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Дорогомилово, площадь Киевского Вокзала, дом 2",
+        "Linear": "да",
+        "ConstructionSize": "6 х 3,6 м",
+        "PartsAmount": 1,
+        "globalid": 2366305155
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5659143612377,
+          55.7445445509541
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Западный административный округ",
+        "District": "район Дорогомилово",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Дорогомилово, площадь Киевского Вокзала, дом 2",
+        "Linear": "да",
+        "ConstructionSize": "6 х 2,4 м",
+        "PartsAmount": 1,
+        "globalid": 2366305158
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5659143612377,
+          55.7445445509541
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Западный административный округ",
+        "District": "район Дорогомилово",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Дорогомилово, площадь Киевского Вокзала, дом 2",
+        "Linear": "да",
+        "ConstructionSize": "6,72 х 1,6 м",
+        "PartsAmount": 1,
+        "globalid": 2366305161
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5659143612377,
+          55.7445445509541
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Западный административный округ",
+        "District": "район Дорогомилово",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Дорогомилово, площадь Киевского Вокзала, дом 2",
+        "Linear": "да",
+        "ConstructionSize": "9,28 х 1,92 м",
+        "PartsAmount": 1,
+        "globalid": 2366305163
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5659143612377,
+          55.7445445509541
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Западный административный округ",
+        "District": "район Дорогомилово",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Дорогомилово, площадь Киевского Вокзала, дом 2",
+        "Linear": "да",
+        "ConstructionSize": "9,92 х 1,92 м",
+        "PartsAmount": 1,
+        "globalid": 2366305208
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5659143612377,
+          55.7445445509541
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Западный административный округ",
+        "District": "район Дорогомилово",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Дорогомилово, площадь Киевского Вокзала, дом 2",
+        "Linear": "да",
+        "ConstructionSize": "3,835 х 3,07 м",
+        "PartsAmount": 1,
+        "globalid": 2366305224
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5659143612377,
+          55.7445445509541
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Западный административный округ",
+        "District": "район Дорогомилово",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Дорогомилово, площадь Киевского Вокзала, дом 2",
+        "Linear": "да",
+        "ConstructionSize": "8,32 х 2,24 м",
+        "PartsAmount": 1,
+        "globalid": 2366305229
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5659143612377,
+          55.7445445509541
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Западный административный округ",
+        "District": "район Дорогомилово",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Дорогомилово, площадь Киевского Вокзала, дом 2",
+        "Linear": "да",
+        "ConstructionSize": "6,14 х 4,5 м",
+        "PartsAmount": 1,
+        "globalid": 2366305232
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5659143612377,
+          55.7445445509541
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Западный административный округ",
+        "District": "район Дорогомилово",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Дорогомилово, площадь Киевского Вокзала, дом 2",
+        "Linear": "да",
+        "ConstructionSize": "7,05 х 4,5 м",
+        "PartsAmount": 1,
+        "globalid": 2366305235
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4606992401945,
+          55.599348439372
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Новомосковский административный округ",
+        "District": "поселение Сосенское",
+        "Address": "Российская Федерация, город Москва, внутригородская территория поселение Сосенское, Калужское шоссе, 22-й километр, дом 10, строение 32",
+        "Linear": "да",
+        "ConstructionSize": "15,6х3,6",
+        "PartsAmount": 3,
+        "globalid": 2369737074
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4606992401945,
+          55.599348439372
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Новомосковский административный округ",
+        "District": "поселение Сосенское",
+        "Address": "Российская Федерация, город Москва, внутригородская территория поселение Сосенское, Калужское шоссе, 22-й километр, дом 10, строение 32",
+        "Linear": "да",
+        "ConstructionSize": "10,8х1,2",
+        "PartsAmount": 1,
+        "globalid": 2369737105
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.2273838312989,
+          55.997533984181
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Зеленоградский административный округ",
+        "District": "район Савёлки",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Савелки, город Зеленоград, улица Юности, дом 17",
+        "Linear": "да",
+        "ConstructionSize": "4 х  13,5",
+        "PartsAmount": 1,
+        "globalid": 2372701869
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.534896183356,
+          55.7488108132163
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "Address": "город Москва, Пресненская набережная, дом 10, строение 1",
+        "Linear": "да",
+        "ConstructionSize": "19,5 х 283 ",
+        "PartsAmount": 1,
+        "globalid": 2375996589
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.534896183356,
+          55.7488108132163
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "Address": "город Москва, Пресненская набережная, дом 10, строение 1",
+        "Linear": "да",
+        "ConstructionSize": "22,92 х 72,4",
+        "PartsAmount": 1,
+        "globalid": 2375996591
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.534896183356,
+          55.7488108132163
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "Address": "город Москва, Пресненская набережная, дом 10, строение 1",
+        "Linear": "да",
+        "ConstructionSize": "14,25 х 209,3",
+        "PartsAmount": 1,
+        "globalid": 2375996611
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.534896183356,
+          55.7488108132163
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "Address": "город Москва, Пресненская набережная, дом 10, строение 1",
+        "Linear": "да",
+        "ConstructionSize": "145,5 х 8,2",
+        "PartsAmount": 1,
+        "globalid": 2375996675
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.534896183356,
+          55.7488108132163
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "Address": "город Москва, Пресненская набережная, дом 10, строение 1",
+        "Linear": "да",
+        "ConstructionSize": "58,1 х 5,6",
+        "PartsAmount": 2,
+        "globalid": 2375996683
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.534896183356,
+          55.7488108132163
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "Address": "город Москва, Пресненская набережная, дом 10, строение 1",
+        "Linear": "да",
+        "ConstructionSize": "12 х 5,6",
+        "PartsAmount": 1,
+        "globalid": 2375996684
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.534896183356,
+          55.7488108132163
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "Address": "город Москва, Пресненская набережная, дом 10, строение 1",
+        "Linear": "да",
+        "ConstructionSize": "14,25 х 204,7",
+        "PartsAmount": 1,
+        "globalid": 2375996686
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7164488338323,
+          55.726209502568
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Юго-Восточный административный округ",
+        "District": "Нижегородский район",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Нижегородский, Новохохловская улица, дом 25, строение 1",
+        "Linear": "да",
+        "ConstructionSize": "52 х 3 ",
+        "PartsAmount": 1,
+        "globalid": 2379903115
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.5075929459072,
+          55.6206366259559
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Ясенево",
+        "Address": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Ясенево, Профсоюзная улица, дом 127Б",
+        "Linear": "да",
+        "ConstructionSize": "8,64 х 4,8",
+        "PartsAmount": 2,
+        "globalid": 2381550292
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.560781862065,
+          55.570513822766
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Северное Бутово",
+        "Address": "город Москва, улица Поляны, владение 2, строение 2",
+        "Linear": "да",
+        "ConstructionSize": "20,365 х 0,64",
+        "PartsAmount": 1,
+        "globalid": 2383612053
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.560781862065,
+          55.570513822766
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Юго-Западный административный округ",
+        "District": "район Северное Бутово",
+        "Address": "город Москва, улица Поляны, владение 2, строение 2",
+        "Linear": "да",
+        "ConstructionSize": "6,1 х 0,64",
+        "PartsAmount": 1,
+        "globalid": 2383612323
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.539904022166,
+          55.7491865561104
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "AdmArea": "Центральный административный округ",
+        "District": "Пресненский район",
+        "Address": "Пресненская набережная, дом 2, помещение 21П",
+        "Linear": "да",
+        "ConstructionSize": "9 х 19.5",
+        "PartsAmount": 5,
+        "globalid": 2389608051
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

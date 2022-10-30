@@ -1,0 +1,1265 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.548325155238,
+          55.744517888376
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 150,
+        "CommonNameen": "Кутузовский ЗАГС",
+        "FullNameen": "Кутузовский отдел записи актов гражданского состояния Управления записи актов гражданского состояния города Москвы",
+        "ShortNameen": "Кутузовский отдел ЗАГС Управления ЗАГС Москвы",
+        "AdmAreaCodeen": "0800",
+        "AdmAreaen": null,
+        "Districten": null,
+        "PostalCodeen": "121151",
+        "Addressen": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Дорогомилово, Кутузовский проспект, дом 23, корпус 1",
+        "ChiefNameen": "Филатова Елена Юрьевна",
+        "ChiefPositionen": "исполняющий обязанности начальника",
+        "SignPGUen": "да",
+        "ClarificationOfWorkingHoursen": "",
+        "WebSiteen": "www.mos.ru/zags/function/organizagsupravleniya/kutuzovskii-otdel-zags/",
+        "INNen": "7704111479",
+        "UNOMen": "12415",
+        "EntryStateen": null,
+        "globalid": 3066195
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.474322745589,
+          55.856744254574
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 160,
+        "CommonNameen": "Левобережный ЗАГС",
+        "FullNameen": "Левобережный отдел записи актов гражданского состояния Управления записи актов гражданского состояния города Москвы",
+        "ShortNameen": "Левобережный отдел ЗАГС Управления ЗАГС Москвы",
+        "AdmAreaCodeen": "0200",
+        "AdmAreaen": null,
+        "Districten": null,
+        "PostalCodeen": "125565",
+        "Addressen": "город Москва, Фестивальная улица, дом 9",
+        "ChiefNameen": "Боровская Елена Владимировна",
+        "ChiefPositionen": "начальник",
+        "SignPGUen": "нет",
+        "ClarificationOfWorkingHoursen": "",
+        "WebSiteen": "www.mos.ru/zags/function/organizagsupravleniya/levoberezhnyi-otdel-zags/",
+        "INNen": "7704111479",
+        "UNOMen": "27253",
+        "EntryStateen": null,
+        "globalid": 3066196
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.746249149696,
+          55.701949256001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 170,
+        "CommonNameen": "Люблинский ЗАГС",
+        "FullNameen": "Люблинский отдел записи актов гражданского состояния Управления записи актов гражданского состояния города Москвы",
+        "ShortNameen": "Люблинский отдел ЗАГС Управления ЗАГС Москвы",
+        "AdmAreaCodeen": "0500",
+        "AdmAreaen": null,
+        "Districten": null,
+        "PostalCodeen": "109129",
+        "Addressen": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Текстильщики, 8-я улица Текстильщиков, дом 14",
+        "ChiefNameen": "Федякова Елена Викторовна",
+        "ChiefPositionen": "исполняющий обязанности начальника",
+        "SignPGUen": "нет",
+        "ClarificationOfWorkingHoursen": "",
+        "WebSiteen": "www.mos.ru/zags/function/organizagsupravleniya/liublinskii-otdel-zags/",
+        "INNen": "7704111479",
+        "UNOMen": "25784",
+        "EntryStateen": null,
+        "globalid": 3066197
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.646247380278,
+          55.876957249897
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 180,
+        "CommonNameen": "Медведковский ЗАГС",
+        "FullNameen": "Медведковский отдел записи актов гражданского состояния Управления записи актов гражданского состояния города Москвы",
+        "ShortNameen": "Медведковский отдел ЗАГС Управления ЗАГС Москвы",
+        "AdmAreaCodeen": "0300",
+        "AdmAreaen": null,
+        "Districten": null,
+        "PostalCodeen": "127221",
+        "Addressen": "город Москва, улица Молодцова, дом 1А",
+        "ChiefNameen": "Зверева Ольга Валерьевна",
+        "ChiefPositionen": "начальник",
+        "SignPGUen": "да",
+        "ClarificationOfWorkingHoursen": "",
+        "WebSiteen": "www.mos.ru/zags/function/organizagsupravleniya/medvedkovskii-otdel-zags/",
+        "INNen": "7704111479",
+        "UNOMen": "15044",
+        "EntryStateen": null,
+        "globalid": 3066198
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.632892907301,
+          55.775697509348
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 190,
+        "CommonNameen": "Мещанский ЗАГС",
+        "FullNameen": "Мещанский отдел записи актов гражданского состояния Управления записи актов гражданского состояния города Москвы",
+        "ShortNameen": "Мещанский отдел ЗАГС Управления ЗАГС Москвы",
+        "AdmAreaCodeen": "0100",
+        "AdmAreaen": null,
+        "Districten": null,
+        "PostalCodeen": "129090",
+        "Addressen": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Мещанский, проспект Мира, дом 16, строение 1",
+        "ChiefNameen": "Гучко Ольга Николаевна",
+        "ChiefPositionen": "начальник",
+        "SignPGUen": "нет",
+        "ClarificationOfWorkingHoursen": "",
+        "WebSiteen": "www.mos.ru/zags/function/organizagsupravleniya/meshchanskii-otdel-zags/",
+        "INNen": "7704111479",
+        "UNOMen": "2125529",
+        "EntryStateen": null,
+        "globalid": 3066199
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.670273200376,
+          55.685058628083
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 200,
+        "CommonNameen": "Нагатинский ЗАГС",
+        "FullNameen": "Нагатинский отдел записи актов гражданского состояния Управления записи актов гражданского состояния города Москвы",
+        "ShortNameen": "Нагатинский отдел ЗАГС Управления ЗАГС Москвы",
+        "AdmAreaCodeen": "0600",
+        "AdmAreaen": null,
+        "Districten": null,
+        "PostalCodeen": "115470",
+        "Addressen": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Нагатинский Затон, Нагатинская набережная, дом 34",
+        "ChiefNameen": "Васильева Ольга Сергеевна",
+        "ChiefPositionen": "начальник",
+        "SignPGUen": "нет",
+        "ClarificationOfWorkingHoursen": "",
+        "WebSiteen": "www.mos.ru/zags/function/organizagsupravleniya/nagatinskii-otdel-zags/",
+        "INNen": "7704111479",
+        "UNOMen": "15487",
+        "EntryStateen": null,
+        "globalid": 3066200
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7991148159725,
+          55.7903337663273
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 210,
+        "CommonNameen": "Перовский ЗАГС",
+        "FullNameen": "Перовский отдел записи актов гражданского состояния Управления записи актов гражданского состояния города Москвы",
+        "ShortNameen": "Перовский отдел ЗАГС Управления ЗАГС Москвы",
+        "AdmAreaCodeen": "0400",
+        "AdmAreaen": null,
+        "Districten": null,
+        "PostalCodeen": "105043",
+        "Addressen": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Измайлово, 9-я Парковая улица, дом 5А",
+        "ChiefNameen": "Жучкова Елена Владимировна",
+        "ChiefPositionen": "начальник",
+        "SignPGUen": "нет",
+        "ClarificationOfWorkingHoursen": "",
+        "WebSiteen": "www.mos.ru/zags/function/organizagsupravleniya/perovskii-otdel-zags/",
+        "INNen": "7704111479",
+        "UNOMen": "2133381",
+        "EntryStateen": null,
+        "globalid": 3066201
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7456547357505,
+          55.7021800959521
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 220,
+        "CommonNameen": "Рязанский ЗАГС",
+        "FullNameen": "Рязанский отдел записи актов гражданского состояния Управления записи актов гражданского состояния города Москвы",
+        "ShortNameen": "Рязанский отдел ЗАГС Управления ЗАГС Москвы",
+        "AdmAreaCodeen": "0500",
+        "AdmAreaen": null,
+        "Districten": null,
+        "PostalCodeen": "109129",
+        "Addressen": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Текстильщики, 8-я улица Текстильщиков, дом 14",
+        "ChiefNameen": "Федякова Елена Викторовна",
+        "ChiefPositionen": "начальник",
+        "SignPGUen": "нет",
+        "ClarificationOfWorkingHoursen": "",
+        "WebSiteen": "www.mos.ru/zags/function/organizagsupravleniya/riazanskii-otdel-zags/",
+        "INNen": "7704111479",
+        "UNOMen": "25784",
+        "EntryStateen": null,
+        "globalid": 3066202
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.392568632891,
+          55.655852812946
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 230,
+        "CommonNameen": "Солнцевский ЗАГС",
+        "FullNameen": "Солнцевский отдел записи актов гражданского состояния Управления записи актов гражданского состояния города Москвы",
+        "ShortNameen": "Солнцевский отдел ЗАГС Управления ЗАГС Москвы",
+        "AdmAreaCodeen": "0800",
+        "AdmAreaen": null,
+        "Districten": null,
+        "PostalCodeen": "119619",
+        "Addressen": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Солнцево, Боровский проезд, дом 2",
+        "ChiefNameen": "Порхунова Елена Михайловна",
+        "ChiefPositionen": "начальник",
+        "SignPGUen": "да",
+        "ClarificationOfWorkingHoursen": "",
+        "WebSiteen": "www.mos.ru/zags/function/organizagsupravleniya/solntcevskii-otdel-zags/",
+        "INNen": "7704111479",
+        "UNOMen": "2592",
+        "EntryStateen": null,
+        "globalid": 3066203
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.669719354872,
+          55.738957728115
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 240,
+        "CommonNameen": "Таганский ЗАГС",
+        "FullNameen": "Таганский отдел записи актов гражданского состояния Управления записи актов гражданского состояния города Москвы",
+        "ShortNameen": "Таганский отдел ЗАГС Управления ЗАГС Москвы",
+        "AdmAreaCodeen": "0100",
+        "AdmAreaen": null,
+        "Districten": null,
+        "PostalCodeen": "109147",
+        "Addressen": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Таганский, Таганская улица, дом 44",
+        "ChiefNameen": "Лазарева Ольга Викторовна",
+        "ChiefPositionen": "начальник",
+        "SignPGUen": "да",
+        "ClarificationOfWorkingHoursen": "",
+        "WebSiteen": "www.mos.ru/zags/function/organizagsupravleniya/taganskii-otdel-zags/",
+        "INNen": "7704111479",
+        "UNOMen": "25451",
+        "EntryStateen": null,
+        "globalid": 3066204
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6115137095656,
+          55.6507819595226
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 50,
+        "CommonNameen": "Академический ЗАГС",
+        "FullNameen": "Академический отдел записи актов гражданского состояния Управления записи актов гражданского состояния города Москвы",
+        "ShortNameen": "Академический отдел ЗАГС Управления ЗАГС Москвы",
+        "AdmAreaCodeen": "0600",
+        "AdmAreaen": null,
+        "Districten": null,
+        "PostalCodeen": "117452",
+        "Addressen": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Нагорный, Ялтинская улица, дом 1А",
+        "ChiefNameen": "Селина Елена Михайловна",
+        "ChiefPositionen": "начальник",
+        "SignPGUen": "нет",
+        "ClarificationOfWorkingHoursen": "",
+        "WebSiteen": "www.mos.ru/zags/function/organizagsupravleniya/akademicheskii-otdel-zags/",
+        "INNen": "7704111479",
+        "UNOMen": "3802321",
+        "EntryStateen": null,
+        "globalid": 3066205
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.644420890557,
+          55.765962642652
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 0,
+        "CommonNameen": "Архивно-информационный отдел",
+        "FullNameen": "Архивно информационный отдел Управления записи актов гражданского состояния города Москвы",
+        "ShortNameen": "Архивно информационный отдел Управления ЗАГС Москвы",
+        "AdmAreaCodeen": "0100",
+        "AdmAreaen": null,
+        "Districten": null,
+        "PostalCodeen": "101000",
+        "Addressen": "город Москва, Малый Харитоньевский переулок, дом 10, строение 1",
+        "ChiefNameen": "Елимова Евгения Александровна",
+        "ChiefPositionen": "начальник",
+        "SignPGUen": "нет",
+        "ClarificationOfWorkingHoursen": "Еженедельно по средам - санитарный день.",
+        "WebSiteen": "www.mos.ru/zags/function/organizagsupravleniya/arkhivno-informatcionnyi-otdel/",
+        "INNen": "7704111479",
+        "UNOMen": "2115499",
+        "EntryStateen": null,
+        "globalid": 3066206
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.645895625901,
+          55.8769771621467
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 60,
+        "CommonNameen": "Бабушкинский ЗАГС",
+        "FullNameen": "Бабушкинский отдел записи актов гражданского состояния Управления записи актов гражданского состояния города Москвы",
+        "ShortNameen": "Бабушкинский отдел ЗАГС Управления ЗАГС Москвы",
+        "AdmAreaCodeen": "0300",
+        "AdmAreaen": null,
+        "Districten": null,
+        "PostalCodeen": "127221",
+        "Addressen": "город Москва, улица Молодцова, дом 1А",
+        "ChiefNameen": "Марченко Татьяна Анатольевна",
+        "ChiefPositionen": "начальник",
+        "SignPGUen": "нет",
+        "ClarificationOfWorkingHoursen": "",
+        "WebSiteen": "www.mos.ru/zags/function/organizagsupravleniya/babushkinskii-otdel-zags/",
+        "INNen": "7704111479",
+        "UNOMen": "15044",
+        "EntryStateen": null,
+        "globalid": 3066207
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.719957011211,
+          55.81368562268
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 70,
+        "CommonNameen": "Богородский ЗАГС",
+        "FullNameen": "Богородский отдел записи актов гражданского состояния Управления записи актов гражданского состояния города Москвы",
+        "ShortNameen": "Богородский отдел ЗАГС Управления ЗАГС Москвы",
+        "AdmAreaCodeen": "0400",
+        "AdmAreaen": null,
+        "Districten": null,
+        "PostalCodeen": "107150",
+        "Addressen": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Богородское, бульвар Маршала Рокоссовского, дом 21/21",
+        "ChiefNameen": "Фролова Светлана Александровна",
+        "ChiefPositionen": "начальник",
+        "SignPGUen": "нет",
+        "ClarificationOfWorkingHoursen": "",
+        "WebSiteen": "www.mos.ru/zags/function/organizagsupravleniya/bogorodskii-otdel-zags/",
+        "INNen": "7704111479",
+        "UNOMen": "21923",
+        "EntryStateen": null,
+        "globalid": 3066208
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.509488662071,
+          55.665281174017
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 80,
+        "CommonNameen": "Вернадский ЗАГС",
+        "FullNameen": "Вернадский отдел записи актов гражданского состояния Управления записи актов гражданского состояния города Москвы",
+        "ShortNameen": "Вернадский отдел ЗАГС Управления ЗАГС Москвы",
+        "AdmAreaCodeen": "0800",
+        "AdmAreaen": null,
+        "Districten": null,
+        "PostalCodeen": "119415",
+        "Addressen": "город Москва, улица Лобачевского, дом 2",
+        "ChiefNameen": "Ермаченкова Анастасия Андреевна",
+        "ChiefPositionen": "исполняющий обязанности начальника",
+        "SignPGUen": "да",
+        "ClarificationOfWorkingHoursen": "",
+        "WebSiteen": "www.mos.ru/zags/function/organizagsupravleniya/vernadskii-otdel-zags/",
+        "INNen": "7704111479",
+        "UNOMen": "31335",
+        "EntryStateen": null,
+        "globalid": 3066209
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6115160611912,
+          55.6507759300317
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 90,
+        "CommonNameen": "Гагаринский ЗАГС",
+        "FullNameen": "Гагаринский отдел записи актов гражданского состояния Управления записи актов гражданского состояния города Москвы",
+        "ShortNameen": "Гагаринский отдел ЗАГС Управления ЗАГС Москвы",
+        "AdmAreaCodeen": "0600",
+        "AdmAreaen": null,
+        "Districten": null,
+        "PostalCodeen": "117452",
+        "Addressen": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Нагорный, Ялтинская улица, дом 1А",
+        "ChiefNameen": "Ермаченкова Анастасия Андреевна",
+        "ChiefPositionen": "начальник",
+        "SignPGUen": "нет",
+        "ClarificationOfWorkingHoursen": "",
+        "WebSiteen": "www.mos.ru/zags/function/organizagsupravleniya/gagarinskii-otdel-zags/",
+        "INNen": "7704111479",
+        "UNOMen": "3802321",
+        "EntryStateen": null,
+        "globalid": 3066210
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.644420890557,
+          55.765962642652
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 10,
+        "CommonNameen": "Дворец бракосочетания № 1",
+        "FullNameen": "Дворец бракосочетания № 1 Управления записи актов гражданского состояния города Москвы",
+        "ShortNameen": "Дворец бракосочетания № 1 Управления ЗАГС Москвы",
+        "AdmAreaCodeen": "0100",
+        "AdmAreaen": null,
+        "Districten": null,
+        "PostalCodeen": "101000",
+        "Addressen": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Басманный, Малый Харитоньевский переулок, дом 10, строение 1",
+        "ChiefNameen": "Филина Елена Сергеевна",
+        "ChiefPositionen": "начальник",
+        "SignPGUen": "да",
+        "ClarificationOfWorkingHoursen": "В воскресенье с 6.00 до 10.00 – технический перерыв. Выходные дни: нерабочие праздничные дни.",
+        "WebSiteen": "www.mos.ru/zags/function/dvorcybrakosochetaniya/dvorec-brakosochetaniya-1/",
+        "INNen": "7704111479",
+        "UNOMen": "2115499",
+        "EntryStateen": null,
+        "globalid": 3066211
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.745286401612,
+          55.700361899616
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 20,
+        "CommonNameen": "Дворец бракосочетания № 3",
+        "FullNameen": "Дворец бракосочетания № 3 Управления записи актов гражданского состояния города Москвы",
+        "ShortNameen": "Дворец бракосочетания № 3 Управления ЗАГС Москвы",
+        "AdmAreaCodeen": "0500",
+        "AdmAreaen": null,
+        "Districten": null,
+        "PostalCodeen": "109129",
+        "Addressen": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Текстильщики, улица Юных Ленинцев, дом 35, корпус 1",
+        "ChiefNameen": "Бурмистрова Наталия Анатольевна",
+        "ChiefPositionen": "начальник",
+        "SignPGUen": "да",
+        "ClarificationOfWorkingHoursen": "Выходные дни: нерабочие праздничные дни.",
+        "WebSiteen": "www.mos.ru/zags/function/dvorcybrakosochetaniya/dvorec-brakosochetaniya-3/",
+        "INNen": "7704111479",
+        "UNOMen": "30280",
+        "EntryStateen": null,
+        "globalid": 3066212
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.583296243594,
+          55.798325208383
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 30,
+        "CommonNameen": "Дворец бракосочетания № 4",
+        "FullNameen": "Дворец бракосочетания № 4 Управления записи актов гражданского состояния города Москвы",
+        "ShortNameen": "Дворец бракосочетания № 4 Управления ЗАГС Москвы",
+        "AdmAreaCodeen": "0200",
+        "AdmAreaen": null,
+        "Districten": null,
+        "PostalCodeen": "127015",
+        "Addressen": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Савеловский, Бутырская улица, дом 17",
+        "ChiefNameen": "Ткачева Светлана Эдуардовна",
+        "ChiefPositionen": "начальник",
+        "SignPGUen": "да",
+        "ClarificationOfWorkingHoursen": "Выходные дни: нерабочие праздничные дни.",
+        "WebSiteen": "www.mos.ru/zags/function/dvorcybrakosochetaniya/dvorec-brakosochetaniya-4/",
+        "INNen": "7704111479",
+        "UNOMen": "2112826",
+        "EntryStateen": null,
+        "globalid": 3066213
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.749232109455,
+          55.794551941772
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 40,
+        "CommonNameen": "Дворец бракосочетания № 5",
+        "FullNameen": "Дворец бракосочетания № 5 Управления записи актов гражданского состояния города Москвы",
+        "ShortNameen": "Дворец бракосочетания № 5 Управления ЗАГС Москвы",
+        "AdmAreaCodeen": "0400",
+        "AdmAreaen": null,
+        "Districten": null,
+        "PostalCodeen": "105187",
+        "Addressen": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Измайлово, Измайловское шоссе, дом 73Ж",
+        "ChiefNameen": "Чевордаева Ирина Владимировна",
+        "ChiefPositionen": "начальник",
+        "SignPGUen": "да",
+        "ClarificationOfWorkingHoursen": "",
+        "WebSiteen": "www.mos.ru/zags/function/dvorcybrakosochetaniya/dvoretc-brakosochetaniia-5/",
+        "INNen": "7704111479",
+        "UNOMen": "2502166",
+        "EntryStateen": null,
+        "globalid": 3066214
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4742911408939,
+          55.856789742235
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 100,
+        "CommonNameen": "Дмитровский ЗАГС",
+        "FullNameen": "Дмитровский отдел записи актов гражданского состояния Управления записи актов гражданского состояния города Москвы",
+        "ShortNameen": "Дмитровский отдел ЗАГС Управления ЗАГС Москвы",
+        "AdmAreaCodeen": "0200",
+        "AdmAreaen": null,
+        "Districten": null,
+        "PostalCodeen": "125565",
+        "Addressen": "город Москва, Фестивальная улица, дом 9",
+        "ChiefNameen": "Боровская Елена Владимировна",
+        "ChiefPositionen": "исполняющий обязанности начальника",
+        "SignPGUen": "да",
+        "ClarificationOfWorkingHoursen": "",
+        "WebSiteen": "www.mos.ru/zags/function/organizagsupravleniya/dmitrovskii-otdel-zags/",
+        "INNen": "7704111479",
+        "UNOMen": "27253",
+        "EntryStateen": null,
+        "globalid": 3066215
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.636535673618,
+          55.74119708959
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 120,
+        "CommonNameen": "Замоскворецкий ЗАГС",
+        "FullNameen": "Замоскворецкий отдел записи актов гражданского состояния Управления записи актов гражданского состояния города Москвы",
+        "ShortNameen": "Замоскворецкий отдел ЗАГС Управления ЗАГС Москвы",
+        "AdmAreaCodeen": "0100",
+        "AdmAreaen": null,
+        "Districten": null,
+        "PostalCodeen": "115184",
+        "Addressen": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Замоскворечье, Озерковский переулок, дом 4",
+        "ChiefNameen": "Палочкина Марина Игоревна",
+        "ChiefPositionen": "начальник",
+        "SignPGUen": "нет",
+        "ClarificationOfWorkingHoursen": "",
+        "WebSiteen": "www.mos.ru/zags/function/organizagsupravleniya/zamoskvoretckii-otdel-zags/",
+        "INNen": "7704111479",
+        "UNOMen": "17304",
+        "EntryStateen": null,
+        "globalid": 3066216
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.206949313375,
+          56.001319778165
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 110,
+        "CommonNameen": "Зеленоградский ЗАГС",
+        "FullNameen": "Зеленоградский отдел записи актов гражданского состояния Управления записи актов гражданского состояния города Москвы",
+        "ShortNameen": "Зеленоградский отдел ЗАГС Управления ЗАГС Москвы",
+        "AdmAreaCodeen": "1000",
+        "AdmAreaen": null,
+        "Districten": null,
+        "PostalCodeen": "124498",
+        "Addressen": "город Москва, город Зеленоград, корпус 240",
+        "ChiefNameen": "Мельникова Наталья Владимировна",
+        "ChiefPositionen": "начальник",
+        "SignPGUen": "да",
+        "ClarificationOfWorkingHoursen": "",
+        "WebSiteen": "www.mos.ru/zags/function/organizagsupravleniya/zelenogradskii-otdel-zags/",
+        "INNen": "7704111479",
+        "UNOMen": "77416",
+        "EntryStateen": null,
+        "globalid": 3066217
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.799021217927,
+          55.790327259408
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 130,
+        "CommonNameen": "Измайловский ЗАГС",
+        "FullNameen": "Измайловский отдел записи актов гражданского состояния Управления записи актов гражданского состояния города Москвы",
+        "ShortNameen": "Измайловский отдел ЗАГС Управления ЗАГС Москвы",
+        "AdmAreaCodeen": "0400",
+        "AdmAreaen": null,
+        "Districten": null,
+        "PostalCodeen": "105043",
+        "Addressen": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Измайлово, 9-я Парковая улица, дом 5А",
+        "ChiefNameen": "Коптева Оксана Владимировна",
+        "ChiefPositionen": "исполняющий обязанности начальника",
+        "SignPGUen": "нет",
+        "ClarificationOfWorkingHoursen": "",
+        "WebSiteen": "www.mos.ru/zags/function/organizagsupravleniya/izmailovskii-otdel-zags/",
+        "INNen": "7704111479",
+        "UNOMen": "2133381",
+        "EntryStateen": null,
+        "globalid": 3066218
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.423522905202,
+          55.732973903726
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 140,
+        "CommonNameen": "Кунцевский ЗАГС",
+        "FullNameen": "Кунцевский отдел записи актов гражданского состояния Управления записи актов гражданского состояния города Москвы",
+        "ShortNameen": "Кунцевский отдел ЗАГС Управления ЗАГС Москвы",
+        "AdmAreaCodeen": "0800",
+        "AdmAreaen": null,
+        "Districten": null,
+        "PostalCodeen": "121351",
+        "Addressen": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Кунцево, Полоцкая улица, дом 23",
+        "ChiefNameen": "Харитонович Елена Александровна",
+        "ChiefPositionen": "начальник",
+        "SignPGUen": "нет",
+        "ClarificationOfWorkingHoursen": "",
+        "WebSiteen": "www.mos.ru/zags/function/organizagsupravleniya/kuntcevskii-otdel-zags/",
+        "INNen": "7704111479",
+        "UNOMen": "20488",
+        "EntryStateen": null,
+        "globalid": 3066219
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.597396867596,
+          55.504393174382
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 340,
+        "CommonNameen": "ЗАГС Южное Бутово",
+        "FullNameen": "Отдел записи актов гражданского состояния Южное Бутово Управления записи актов гражданского состояния города Москвы",
+        "ShortNameen": "Отдел ЗАГС Южное Бутово Управления ЗАГС Москвы",
+        "AdmAreaCodeen": "0700",
+        "AdmAreaen": null,
+        "Districten": null,
+        "PostalCodeen": "117148",
+        "Addressen": "город Москва, улица Маршала Савицкого, дом 28",
+        "ChiefNameen": "Шатова Ирина Алексеевна",
+        "ChiefPositionen": "начальник",
+        "SignPGUen": "да",
+        "ClarificationOfWorkingHoursen": "",
+        "WebSiteen": "www.mos.ru/zags/function/organizagsupravleniya/otdel-zags-iuzhnoe-butovo/",
+        "INNen": "7704111479",
+        "UNOMen": "290419",
+        "EntryStateen": null,
+        "globalid": 3066220
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.295494807383,
+          55.467838011178
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 350,
+        "CommonNameen": "Троицкий ЗАГС",
+        "FullNameen": "Троицкий отдел записи актов гражданского состояния Управления записи актов гражданского состояния города Москвы",
+        "ShortNameen": "Троицкий отдел ЗАГС Управления ЗАГС Москвы",
+        "AdmAreaCodeen": "1200",
+        "AdmAreaen": null,
+        "Districten": null,
+        "PostalCodeen": "142190",
+        "Addressen": "город Москва, город Троицк, Центральная улица, дом 28",
+        "ChiefNameen": "Кочегурова Клавдия Павловна",
+        "ChiefPositionen": "начальник",
+        "SignPGUen": "да",
+        "ClarificationOfWorkingHoursen": "",
+        "WebSiteen": "www.mos.ru/zags/function/organizagsupravleniya/troitckii-otdel-zags/",
+        "INNen": "7704111479",
+        "UNOMen": "4401197",
+        "EntryStateen": null,
+        "globalid": 3066221
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.2954652489373,
+          55.467850363491
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 360,
+        "CommonNameen": "Новомосковский ЗАГС",
+        "FullNameen": "Новомосковский отдел записи актов гражданского состояния Управления записи актов гражданского состояния города Москвы",
+        "ShortNameen": "Новомосковский отдел ЗАГС Управления ЗАГС Москвы",
+        "AdmAreaCodeen": "1200",
+        "AdmAreaen": null,
+        "Districten": null,
+        "PostalCodeen": "142190",
+        "Addressen": "город Москва, город Троицк, Центральная улица, дом 28",
+        "ChiefNameen": "Кочегурова Клавдия Павловна",
+        "ChiefPositionen": "исполняющий обязанности начальника",
+        "SignPGUen": "нет",
+        "ClarificationOfWorkingHoursen": "",
+        "WebSiteen": "www.mos.ru/zags/function/organizagsupravleniya/nagatinskii-otdel-zags/",
+        "INNen": "7704111479",
+        "UNOMen": "4401197",
+        "EntryStateen": null,
+        "globalid": 3066222
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.656071310687,
+          55.65592070786
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 370,
+        "CommonNameen": "Дворец бракосочетания в Коломенском",
+        "FullNameen": "Дворец бракосочетания в Коломенском Управления записи актов гражданского состояния города Москвы",
+        "ShortNameen": "Дворец бракосочетания в Коломенском Управления ЗАГС Москвы",
+        "AdmAreaCodeen": "0600",
+        "AdmAreaen": null,
+        "Districten": null,
+        "PostalCodeen": "115487",
+        "Addressen": "город Москва, проспект Андропова, дом 39, строение 69",
+        "ChiefNameen": "Ермолова Наталия Александровна",
+        "ChiefPositionen": "исполняющий обязанности начальника",
+        "SignPGUen": "нет",
+        "ClarificationOfWorkingHoursen": "",
+        "WebSiteen": "www.mos.ru/zags/function/dvorcybrakosochetaniya/dvoretc-brakosochetaniia-v-kolomenskom/",
+        "INNen": "7704111479",
+        "UNOMen": "3810173",
+        "EntryStateen": null,
+        "globalid": 3066223
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.626482873475,
+          55.83576829088
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 380,
+        "CommonNameen": "Дворец бракосочетания на ВДНХ",
+        "FullNameen": "Дворец бракосочетания на ВДНХ Управления записи актов гражданского состояния города Москвы",
+        "ShortNameen": "Дворец бракосочетания на ВДНХ Управления ЗАГС Москвы",
+        "AdmAreaCodeen": "0300",
+        "AdmAreaen": null,
+        "Districten": null,
+        "PostalCodeen": "129223",
+        "Addressen": "город Москва, проспект Мира, дом 119, строение 421",
+        "ChiefNameen": "Шарпар Наталия Владимировна",
+        "ChiefPositionen": "начальник",
+        "SignPGUen": "нет",
+        "ClarificationOfWorkingHoursen": "",
+        "WebSiteen": "www.mos.ru/zags/function/dvorcybrakosochetaniya/dvoretc-brakosochetaniia-na-vdnkh/",
+        "INNen": "7704111479",
+        "UNOMen": "2304584",
+        "EntryStateen": null,
+        "globalid": 3066224
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          36.941030519833,
+          55.465019535831
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 390,
+        "CommonNameen": "Новофедоровский ЗАГС",
+        "FullNameen": "Новофедоровский отдел записи актов гражданского состояния Управления записи актов гражданского состояния города Москвы",
+        "ShortNameen": "Новофедоровский отдел ЗАГС Управления ЗАГС Москвы",
+        "AdmAreaCodeen": "1200",
+        "AdmAreaen": null,
+        "Districten": null,
+        "PostalCodeen": "143340",
+        "Addressen": "город Москва, поселение Новофедоровское, деревня Яковлевское, дом 4",
+        "ChiefNameen": "Изотова Алина Юрьевна",
+        "ChiefPositionen": "главный специалист",
+        "SignPGUen": "да",
+        "ClarificationOfWorkingHoursen": "",
+        "WebSiteen": "www.mos.ru/zags/function/organizagsupravleniya/novofedorovskii-otdel-zags/",
+        "INNen": "7704111479",
+        "UNOMen": "4402141",
+        "EntryStateen": null,
+        "globalid": 3066225
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6700808403606,
+          55.7390691505247
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 250,
+        "CommonNameen": "Тверской ЗАГС",
+        "FullNameen": "Тверской отдел записи актов гражданского состояния Управления записи актов гражданского состояния города Москвы",
+        "ShortNameen": "Тверской отдел ЗАГС Управления ЗАГС Москвы",
+        "AdmAreaCodeen": "0100",
+        "AdmAreaen": null,
+        "Districten": null,
+        "PostalCodeen": "109147",
+        "Addressen": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Таганский, Таганская улица, дом 44",
+        "ChiefNameen": "Щеглова Ольга Александровна",
+        "ChiefPositionen": "исполняющий обязанности начальника",
+        "SignPGUen": "нет",
+        "ClarificationOfWorkingHoursen": "",
+        "WebSiteen": "www.mos.ru/zags/function/organizagsupravleniya/tverskoi-otdel-zags/",
+        "INNen": "7704111479",
+        "UNOMen": "25451",
+        "EntryStateen": null,
+        "globalid": 3066226
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.44702535272,
+          55.85244295325
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 260,
+        "CommonNameen": "Тушинский ЗАГС",
+        "FullNameen": "Тушинский отдел записи актов гражданского состояния Управления записи актов гражданского состояния города Москвы",
+        "ShortNameen": "Тушинский отдел ЗАГС Управления ЗАГС Москвы",
+        "AdmAreaCodeen": "0900",
+        "AdmAreaen": null,
+        "Districten": null,
+        "PostalCodeen": "125364",
+        "Addressen": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Северное Тушино, Химкинский бульвар, дом 14, корпус 1",
+        "ChiefNameen": "Серова Елена Анатольевна",
+        "ChiefPositionen": "начальник",
+        "SignPGUen": "да",
+        "ClarificationOfWorkingHoursen": "",
+        "WebSiteen": "www.mos.ru/zags/function/organizagsupravleniya/tushinskii-otdel-zags/",
+        "INNen": "7704111479",
+        "UNOMen": "27898",
+        "EntryStateen": null,
+        "globalid": 3066227
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.639317737608,
+          55.770653830357
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 1,
+        "CommonNameen": "Управление ЗАГС Москвы",
+        "FullNameen": "Управление записи актов гражданского состояния города Москвы",
+        "ShortNameen": "Управление ЗАГС Москвы",
+        "AdmAreaCodeen": "0100",
+        "AdmAreaen": null,
+        "Districten": null,
+        "PostalCodeen": "107045",
+        "Addressen": "город Москва, Садовая-Спасская улица, дом 6, строение 2",
+        "ChiefNameen": "Уханева Светлана Николаевна",
+        "ChiefPositionen": "исполняющий обязанности начальника",
+        "SignPGUen": "нет",
+        "ClarificationOfWorkingHoursen": "",
+        "WebSiteen": "www.mos.ru/zags/",
+        "INNen": "7704111479",
+        "UNOMen": "2109524",
+        "EntryStateen": null,
+        "globalid": 3066228
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.7990745113904,
+          55.7903479279439
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 320,
+        "CommonNameen": "Ухтомский ЗАГС",
+        "FullNameen": "Ухтомский отдел записи актов гражданского состояния Управления записи актов гражданского состояния города Москвы",
+        "ShortNameen": "Ухтомский отдел ЗАГС Управления ЗАГС Москвы",
+        "AdmAreaCodeen": "0400",
+        "AdmAreaen": null,
+        "Districten": null,
+        "PostalCodeen": "105043",
+        "Addressen": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Измайлово, 9-я Парковая улица, дом 5А",
+        "ChiefNameen": "Коптева Оксана Владимировна",
+        "ChiefPositionen": "начальник",
+        "SignPGUen": "нет",
+        "ClarificationOfWorkingHoursen": "",
+        "WebSiteen": "www.mos.ru/zags/function/organizagsupravleniya/ukhtomskii-otdel-zags/",
+        "INNen": "7704111479",
+        "UNOMen": "2133381",
+        "EntryStateen": null,
+        "globalid": 3066229
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.6952632982427,
+          55.6168469119559
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 270,
+        "CommonNameen": "Хамовнический ЗАГС",
+        "FullNameen": "Хамовнический отдел записи актов гражданского состояния Управления записи актов гражданского состояния города Москвы",
+        "ShortNameen": "Хамовнический отдел ЗАГС Управления ЗАГС Москвы",
+        "AdmAreaCodeen": "0600",
+        "AdmAreaen": null,
+        "Districten": null,
+        "PostalCodeen": "115551",
+        "Addressen": "город Москва, Шипиловский проезд, дом 27",
+        "ChiefNameen": "Жарова Светлана Николаевна",
+        "ChiefPositionen": "исполняющий обязанности начальника",
+        "SignPGUen": "нет",
+        "ClarificationOfWorkingHoursen": "",
+        "WebSiteen": "www.mos.ru/zags/function/organizagsupravleniya/khamovnicheskii-otdel-zags/",
+        "INNen": "7704111479",
+        "UNOMen": "5001796",
+        "EntryStateen": null,
+        "globalid": 3066230
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.2073301635269,
+          56.0013944292847
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 280,
+        "CommonNameen": "Хорошевский ЗАГС",
+        "FullNameen": "Хорошевский отдел записи актов гражданского состояния Управления записи актов гражданского состояния города Москвы",
+        "ShortNameen": "Хорошевский отдел ЗАГС Управления ЗАГС Москвы",
+        "AdmAreaCodeen": "1000",
+        "AdmAreaen": null,
+        "Districten": null,
+        "PostalCodeen": "124498",
+        "Addressen": "город Москва, город Зеленоград, корпус 240",
+        "ChiefNameen": "Закутная Елена Владимировна",
+        "ChiefPositionen": "исполняющий обязанности начальника",
+        "SignPGUen": "нет",
+        "ClarificationOfWorkingHoursen": "",
+        "WebSiteen": "www.mos.ru/zags/function/organizagsupravleniya/khoroshevskii-otdel-zags/",
+        "INNen": "7704111479",
+        "UNOMen": "77416",
+        "EntryStateen": null,
+        "globalid": 3066231
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.671313602766,
+          55.636114754507
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 290,
+        "CommonNameen": "Царицынский ЗАГС",
+        "FullNameen": "Царицынский отдел записи актов гражданского состояния Управления записи актов гражданского состояния города Москвы",
+        "ShortNameen": "Царицынский отдел ЗАГС Управления ЗАГС Москвы",
+        "AdmAreaCodeen": "0600",
+        "AdmAreaen": null,
+        "Districten": null,
+        "PostalCodeen": "115477",
+        "Addressen": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Царицыно, Кантемировская улица, дом 9",
+        "ChiefNameen": "Бурденкова Элеонора Эдуардовна",
+        "ChiefPositionen": "исполняющий обязанности начальника",
+        "SignPGUen": "нет",
+        "ClarificationOfWorkingHoursen": "",
+        "WebSiteen": "www.mos.ru/zags/function/organizagsupravleniya/tcaritcynskii-otdel-zags/",
+        "INNen": "7704111479",
+        "UNOMen": "2123735",
+        "EntryStateen": null,
+        "globalid": 3066232
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.518850180907,
+          55.64453607503
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 300,
+        "CommonNameen": "Черемушкинский ЗАГС",
+        "FullNameen": "Черемушкинский отдел записи актов гражданского состояния Управления записи актов гражданского состояния города Москвы",
+        "ShortNameen": "Черемушкинский отдел ЗАГС Управления ЗАГС Москвы",
+        "AdmAreaCodeen": "0700",
+        "AdmAreaen": null,
+        "Districten": null,
+        "PostalCodeen": "117437",
+        "Addressen": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Коньково, улица Миклухо-Маклая, дом 20",
+        "ChiefNameen": "Корабельникова Екатерина Олеговна",
+        "ChiefPositionen": "исполняющий обязанности начальника",
+        "SignPGUen": "нет",
+        "ClarificationOfWorkingHoursen": "",
+        "WebSiteen": "www.mos.ru/zags/function/organizagsupravleniya/cheremushkinskii-otdel-zags/",
+        "INNen": "7704111479",
+        "UNOMen": "14316",
+        "EntryStateen": null,
+        "globalid": 3066233
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.611507732843,
+          55.650723940634
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 310,
+        "CommonNameen": "Чертановский ЗАГС",
+        "FullNameen": "Чертановский отдел записи актов гражданского состояния Управления записи актов гражданского состояния города Москвы",
+        "ShortNameen": "Чертановский отдел ЗАГС Управления ЗАГС Москвы",
+        "AdmAreaCodeen": "0600",
+        "AdmAreaen": null,
+        "Districten": null,
+        "PostalCodeen": "117452",
+        "Addressen": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Нагорный, Ялтинская улица, дом 1А",
+        "ChiefNameen": "Плетнева Ирина Владимировна",
+        "ChiefPositionen": "начальник",
+        "SignPGUen": "да",
+        "ClarificationOfWorkingHoursen": "",
+        "WebSiteen": "www.mos.ru/zags/function/organizagsupravleniya/chertanovskii-otdel-zags/",
+        "INNen": "7704111479",
+        "UNOMen": "3802321",
+        "EntryStateen": null,
+        "globalid": 3066234
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.4465409294698,
+          55.8523756555995
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 330,
+        "CommonNameen": "Митинский ЗАГС",
+        "FullNameen": "Митинский отдел записи актов гражданского состояния Управления записи актов гражданского состояния города Москвы",
+        "ShortNameen": "Митинский отдел ЗАГС Управления ЗАГС Москвы",
+        "AdmAreaCodeen": "0900",
+        "AdmAreaen": null,
+        "Districten": null,
+        "PostalCodeen": "125364",
+        "Addressen": "Российская Федерация, город Москва, внутригородская территория муниципальный округ Северное Тушино, Химкинский бульвар, дом 14, корпус 1",
+        "ChiefNameen": "Серова Елена Анатольевна",
+        "ChiefPositionen": "исполняющий обязанности начальника",
+        "SignPGUen": "нет",
+        "ClarificationOfWorkingHoursen": "",
+        "WebSiteen": "www.mos.ru/zags/function/organizagsupravleniya/mitinskii-otdel-zags/",
+        "INNen": "7704111479",
+        "UNOMen": "27898",
+        "EntryStateen": null,
+        "globalid": 3066235
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.695303467416,
+          55.616878985638
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Iden": 490,
+        "CommonNameen": "Шипиловский ЗАГС",
+        "FullNameen": "Шипиловский отдел ЗАГС Управления ЗАГС Москвы",
+        "ShortNameen": "Шипиловский отдел ЗАГС",
+        "AdmAreaCodeen": "0600",
+        "AdmAreaen": null,
+        "Districten": null,
+        "PostalCodeen": "115551",
+        "Addressen": "город Москва, Шипиловский проезд, дом 27",
+        "ChiefNameen": "Жарова Светлана Николаевна",
+        "ChiefPositionen": "начальник",
+        "SignPGUen": "да",
+        "ClarificationOfWorkingHoursen": "",
+        "WebSiteen": "www.mos.ru/zags/function/organizagsupravleniya/shipilovskii-otdel-zags/",
+        "INNen": "7704111479",
+        "UNOMen": "5001796",
+        "EntryStateen": null,
+        "globalid": 272777190
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

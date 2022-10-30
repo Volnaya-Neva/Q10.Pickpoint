@@ -1,0 +1,56 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.6178822973738,
+          55.7868680260809
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Name": "ГКУ «ЦСТиСК» Москомспорта",
+        "AdmArea": "Центральный административный округ",
+        "District": "Мещанский район",
+        "Address": "город Москва, улица Советской Армии, дом 6",
+        "ClarificationOfWorkingHours": "",
+        "RequiredDocuments": "Свидетельство о рождении (оригинал или копия), медицинская справка об отсутствии противопоказаний к физическим нагрузкам (оригинал или копия).",
+        "Age": "от 6 до 12 лет",
+        "Phone": "(495) 788-11-11",
+        "Website": "www.sportrezerv.ru",
+        "ExtraInfo": "",
+        "globalid": 273238325,
+        "WorkingHoursisdeleted0": 0,
+        "WorkingHoursDayOfWeek0": null,
+        "WorkingHoursHours0": "",
+        "WorkingHoursglobalid0": 29,
+        "WorkingHoursisdeleted1": 0,
+        "WorkingHoursDayOfWeek1": null,
+        "WorkingHoursHours1": "",
+        "WorkingHoursglobalid1": 30,
+        "WorkingHoursisdeleted2": 0,
+        "WorkingHoursDayOfWeek2": null,
+        "WorkingHoursHours2": "",
+        "WorkingHoursglobalid2": 31,
+        "WorkingHoursisdeleted3": 0,
+        "WorkingHoursDayOfWeek3": null,
+        "WorkingHoursHours3": "",
+        "WorkingHoursglobalid3": 32,
+        "WorkingHoursisdeleted4": 0,
+        "WorkingHoursDayOfWeek4": null,
+        "WorkingHoursHours4": "",
+        "WorkingHoursglobalid4": 33,
+        "WorkingHoursisdeleted5": 0,
+        "WorkingHoursDayOfWeek5": null,
+        "WorkingHoursHours5": "",
+        "WorkingHoursglobalid5": 34,
+        "WorkingHoursisdeleted6": 0,
+        "WorkingHoursDayOfWeek6": null,
+        "WorkingHoursHours6": "",
+        "WorkingHoursglobalid6": 35
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}
