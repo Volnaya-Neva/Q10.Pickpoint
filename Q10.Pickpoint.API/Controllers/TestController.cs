@@ -6,6 +6,7 @@ using Q10.Pickpoint.Models.Business;
 using Q10.Pickpoint.Models.Controllers.Test.MapObjects;
 using Q10.Pickpoint.Models.JsonModel;
 using System.ComponentModel;
+using System.Text;
 
 namespace Q10.Pickpoint.API.Controllers;
 
@@ -57,5 +58,49 @@ public class TestController : BaseController<TestService>
 
 
         Service.WriteDbJsons(jsonTypes);
+    }
+
+    [HttpGet("load-csv")]
+    [Description("conver data's models to csv file")]
+    public IActionResult LoadCsv()
+    {
+        var builder = new StringBuilder();
+        var list = GetTestData();
+        
+        foreach (var i in list)
+        {
+            foreach (var property in i.GetType().GetProperties())
+            {
+                builder.Append(property.GetValue(i, null)?.ToString() + ',');
+            }
+ 
+            builder.Append("\r\n");
+        }        
+
+        return File(Encoding.UTF8.GetBytes(builder.ToString()), "text/csv", "Data.csv");
+    }
+
+    private static List<Foo> GetTestData()
+    {
+        var list = new List<Foo>
+        {
+            new()
+            {
+                Id = 0,
+                Name = "Name"
+            },
+            new()
+            {
+                Id = 1,
+                Name = "Name 2"
+            },
+        };
+        return list;
+    }
+
+    private class Foo
+    {
+        public int Id { get; set; }
+        public string Name { get; set; }
     }
 }
