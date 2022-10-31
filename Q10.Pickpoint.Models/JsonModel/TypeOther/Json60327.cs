@@ -1,6 +1,6 @@
-namespace Q10.Pickpoint.Models.JsonModel.Type3;
+namespace Q10.Pickpoint.Models.JsonModel.TypeOther;
 
-public class Json60327 : JsonType3
+public class Json60327 : JsonType4
 {
     public Feature[] Features { get; set; }
     public string Type { get; set; }
@@ -35,7 +35,7 @@ public class Json60327 : JsonType3
         public string WebSiteen { get; set; }
         public string EducationProgramsen { get; set; }
         public object OrgTypeen { get; set; }
-        public long GlobalId { get; set; }
+        public string GlobalId { get; set; }
     }
 
 }

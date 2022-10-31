@@ -1,6 +1,6 @@
-namespace Q10.Pickpoint.Models.JsonModel.Type3;
+namespace Q10.Pickpoint.Models.JsonModel.TypeOther;
 
-public class Json614 : JsonType3
+public class Json2252 : JsonType4
 {
     public Feature[] Features { get; set; }
     public string Type { get; set; }
@@ -14,14 +14,17 @@ public class Json614 : JsonType3
 
     public class Geometry
     {
-        public object[][][] Coordinates { get; set; }
+        public object[] Coordinates { get; set; }
         public string Type { get; set; }
     }
 
     public class Properties
     {
-        public string ObjectNameOnDoc { get; set; }
-        public long GlobalId { get; set; }
+        public string RouteName { get; set; }
+        public string Description { get; set; }
+        public string MainObjects { get; set; }
+        public string WebSite { get; set; }
+        public string GlobalId { get; set; }
     }
 
 }

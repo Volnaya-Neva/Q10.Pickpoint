@@ -1,6 +1,6 @@
-namespace Q10.Pickpoint.Models.JsonModel.Type3;
+namespace Q10.Pickpoint.Models.JsonModel.TypeOther;
 
-public class Json530 : JsonType3
+public class Json530 : JsonType4
 {
     public Feature[] Features { get; set; }
     public string Type { get; set; }
@@ -31,7 +31,7 @@ public class Json530 : JsonType3
         public string SecurityStatus { get; set; }
         public string ObjectType { get; set; }
         public string Category { get; set; }
-        public long GlobalId { get; set; }
+        public string GlobalId { get; set; }
         public int Locationisdeleted0 { get; set; }
         public int Locationglobalobjectid0 { get; set; }
         public int LocationGlobalId0 { get; set; }

@@ -4,8 +4,33 @@ public abstract class JsonType3 : IJsonType
 {
     public int Number { get; set; }
 
-    public object CreateModelForDb()
+    public Feature[] Features { get; set; }
+    public string Type { get; set; }
+
+    public class Feature
     {
-        throw new NotImplementedException();
+        public Geometry Geometry { get; set; }
+        public Properties Properties { get; set; }
+        public string Type { get; set; }
+    }
+
+    public class Geometry
+    {
+        public float[][][] Coordinates { get; set; }
+        public string Type { get; set; }
+    }
+    public class Properties
+    {
+        public string Address { get; set; }
+        public float FieldArea { get; set; }
+        public string CadastralNumber { get; set; }
+        public float CadastralFieldCoast { get; set; }
+        public string UsageType { get; set; }
+        public int AmountObjectArea { get; set; }
+        public string SubjectOfTrades { get; set; }
+        public string TradesForm { get; set; }
+        public string TradesType { get; set; }
+        public string Stage { get; set; }
+        public string GlobalId { get; set; }
     }
 }

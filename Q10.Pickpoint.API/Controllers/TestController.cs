@@ -42,6 +42,20 @@ public class TestController : BaseController<TestService>
     public void LoadJsonSource([FromBody] string directory)
     {
         List<IJsonType> jsonTypes = Service.LoadJsonSource(directory);
+        //List<JsonDbModel> m = Mapper.Map<List<JsonDbModel>>(jsonTypes);
+        foreach (var jsonType in jsonTypes)
+        {
+            try
+            {
+                var g = Mapper.Map<JsonDbModel>(jsonType);
+            }
+            catch (Exception e)
+            {
+                string h = "";
+            }
+        }
+
+
         Service.WriteDbJsons(jsonTypes);
     }
 }

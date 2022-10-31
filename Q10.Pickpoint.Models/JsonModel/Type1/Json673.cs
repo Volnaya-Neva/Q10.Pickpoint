@@ -2,22 +2,6 @@ namespace Q10.Pickpoint.Models.JsonModel.Type1;
 
 public class Json673 : JsonType1
 {
-    public Feature[] Features { get; set; }
-    public string Type { get; set; }
-
-    public class Feature
-    {
-        public Geometry Geometry { get; set; }
-        public Properties Properties { get; set; }
-        public string Type { get; set; }
-    }
-
-    public class Geometry
-    {
-        public float[] Coordinates { get; set; }
-        public string Type { get; set; }
-    }
-
     public class Properties
     {
         public string BoothNumber { get; set; }
@@ -32,7 +16,7 @@ public class Json673 : JsonType1
         public string WorkingHours { get; set; }
         public string PointType { get; set; }
         public string PaymentType { get; set; }
-        public long GlobalId { get; set; }
+        public string GlobalId { get; set; }
     }
 
 }

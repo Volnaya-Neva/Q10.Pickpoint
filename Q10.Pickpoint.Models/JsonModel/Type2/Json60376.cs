@@ -2,22 +2,6 @@ namespace Q10.Pickpoint.Models.JsonModel.Type2;
 
 public class Json60376 : JsonType2
 {
-    public Feature[] Features { get; set; }
-    public string Type { get; set; }
-
-    public class Feature
-    {
-        public Geometry Geometry { get; set; }
-        public Properties Properties { get; set; }
-        public string Type { get; set; }
-    }
-
-    public class Geometry
-    {
-        public float[][] Coordinates { get; set; }
-        public string Type { get; set; }
-    }
-
     public class Properties
     {
         public string FullNameen { get; set; }
@@ -30,7 +14,7 @@ public class Json60376 : JsonType2
         public string InNen { get; set; }
         public int? HomesQuantityen { get; set; }
         public string OgrNen { get; set; }
-        public long GlobalId { get; set; }
+        public string GlobalId { get; set; }
         public int VisitingAddressesenisdeleted0 { get; set; }
         public int VisitingAddressesenglobalobjectid0 { get; set; }
         public int VisitingAddressesenGlobalId0 { get; set; }

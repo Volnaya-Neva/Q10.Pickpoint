@@ -1,6 +1,6 @@
-namespace Q10.Pickpoint.Models.JsonModel.Type3;
+namespace Q10.Pickpoint.Models.JsonModel.TypeOther;
 
-public class Json61041 : JsonType3
+public class Json61041 : JsonType4
 {
     public Feature[] Features { get; set; }
     public string Type { get; set; }
@@ -36,7 +36,7 @@ public class Json61041 : JsonType3
         public string WorkEntityState { get; set; }
         public string WorkDeleteReason { get; set; }
         public string WorkStopReason { get; set; }
-        public long GlobalId { get; set; }
+        public string GlobalId { get; set; }
     }
 
 }

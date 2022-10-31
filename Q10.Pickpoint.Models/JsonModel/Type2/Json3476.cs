@@ -2,22 +2,6 @@ namespace Q10.Pickpoint.Models.JsonModel.Type2;
 
 public class Json3476 : JsonType2
 {
-    public Feature[] Features { get; set; }
-    public string Type { get; set; }
-
-    public class Feature
-    {
-        public Geometry Geometry { get; set; }
-        public Properties Properties { get; set; }
-        public string Type { get; set; }
-    }
-
-    public class Geometry
-    {
-        public float[][] Coordinates { get; set; }
-        public string Type { get; set; }
-    }
-
     public class Properties
     {
         public string ChiefNameen { get; set; }
@@ -29,7 +13,7 @@ public class Json3476 : JsonType2
         public string CommonNameen { get; set; }
         public string ChiefPositionen { get; set; }
         public string Signaturedate { get; set; }
-        public int GlobalId { get; set; }
+        public string GlobalId { get; set; }
         public int PublicPhoneenisdeleted0 { get; set; }
         public int PublicPhoneenglobalobjectid0 { get; set; }
         public int PublicPhoneenGlobalId0 { get; set; }
@@ -120,7 +104,7 @@ public class Json3476 : JsonType2
     {
         public int Isdeleted { get; set; }
         public int Globalobjectid { get; set; }
-        public int GlobalId { get; set; }
+        public string GlobalId { get; set; }
         public string Systemobjectid { get; set; }
         public string ChiefPhoneen { get; set; }
     }
@@ -129,7 +113,7 @@ public class Json3476 : JsonType2
     {
         public int Isdeleted { get; set; }
         public int Globalobjectid { get; set; }
-        public int GlobalId { get; set; }
+        public string GlobalId { get; set; }
         public string Systemobjectid { get; set; }
         public string Availableken { get; set; }
         public string Availableoen { get; set; }
@@ -142,7 +126,7 @@ public class Json3476 : JsonType2
     {
         public int Isdeleted { get; set; }
         public int Globalobjectid { get; set; }
-        public int GlobalId { get; set; }
+        public string GlobalId { get; set; }
         public string Systemobjectid { get; set; }
         public string Groupmgnen { get; set; }
         public string Areamgnen { get; set; }
@@ -155,7 +139,7 @@ public class Json3476 : JsonType2
     {
         public int Isdeleted { get; set; }
         public int Globalobjectid { get; set; }
-        public int GlobalId { get; set; }
+        public string GlobalId { get; set; }
         public string Systemobjectid { get; set; }
         public string Availableken { get; set; }
         public string Availableoen { get; set; }
@@ -168,7 +152,7 @@ public class Json3476 : JsonType2
     {
         public int Isdeleted { get; set; }
         public int Globalobjectid { get; set; }
-        public int GlobalId { get; set; }
+        public string GlobalId { get; set; }
         public string Systemobjectid { get; set; }
         public string Groupmgnen { get; set; }
         public string Areamgnen { get; set; }

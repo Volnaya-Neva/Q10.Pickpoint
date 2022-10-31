@@ -2,22 +2,6 @@ namespace Q10.Pickpoint.Models.JsonModel.Type3;
 
 public class Json2587 : JsonType3
 {
-    public Feature[] Features { get; set; }
-    public string Type { get; set; }
-
-    public class Feature
-    {
-        public Geometry Geometry { get; set; }
-        public Properties Properties { get; set; }
-        public string Type { get; set; }
-    }
-
-    public class Geometry
-    {
-        public float[][][] Coordinates { get; set; }
-        public string Type { get; set; }
-    }
-
     public class Properties
     {
         public string Location { get; set; }
@@ -28,7 +12,6 @@ public class Json2587 : JsonType3
         public string WorkType { get; set; }
         public string WorkStatus { get; set; }
         public string NameOrg { get; set; }
-        public int GlobalId { get; set; }
+        public string GlobalId { get; set; }
     }
-
 }

@@ -2,22 +2,6 @@ namespace Q10.Pickpoint.Models.JsonModel.Type2;
 
 public class Json3412 : JsonType2
 {
-    public Feature[] Features { get; set; }
-    public string Type { get; set; }
-
-    public class Feature
-    {
-        public Geometry Geometry { get; set; }
-        public Properties Properties { get; set; }
-        public string Type { get; set; }
-    }
-
-    public class Geometry
-    {
-        public float[][] Coordinates { get; set; }
-        public string Type { get; set; }
-    }
-
     public class Properties
     {
         public string Categoryen { get; set; }
@@ -28,7 +12,7 @@ public class Json3412 : JsonType2
         public string ChiefNameen { get; set; }
         public string ClarificationWorkingHoursen { get; set; }
         public string WebSiteen { get; set; }
-        public long GlobalId { get; set; }
+        public string GlobalId { get; set; }
         public int OrgInfoenisdeleted0 { get; set; }
         public string OrgInfoenFullNameen0 { get; set; }
         public string OrgInfoenInNen0 { get; set; }
@@ -186,14 +170,14 @@ public class Json3412 : JsonType2
     public class OrginfoEnchiefphoneEn0
     {
         public int Isdeleted { get; set; }
-        public int GlobalId { get; set; }
+        public string GlobalId { get; set; }
         public string ChiefPhoneen { get; set; }
     }
 
     public class ObjectaddressEnavailabilityEn0
     {
         public int Isdeleted { get; set; }
-        public int GlobalId { get; set; }
+        public string GlobalId { get; set; }
         public string Availableken { get; set; }
         public string Availableoen { get; set; }
         public string Availablezen { get; set; }
@@ -204,7 +188,7 @@ public class Json3412 : JsonType2
     public class AvailableElementEn
     {
         public int Isdeleted { get; set; }
-        public int GlobalId { get; set; }
+        public string GlobalId { get; set; }
         public string Groupmgnen { get; set; }
         public string Areamgnen { get; set; }
         public string Elementmgnen { get; set; }
@@ -215,14 +199,14 @@ public class Json3412 : JsonType2
     public class OrginfoEnchiefphoneEn1
     {
         public int Isdeleted { get; set; }
-        public int GlobalId { get; set; }
+        public string GlobalId { get; set; }
         public string ChiefPhoneen { get; set; }
     }
 
     public class ObjectaddressEnavailabilityEn1
     {
         public int Isdeleted { get; set; }
-        public int GlobalId { get; set; }
+        public string GlobalId { get; set; }
         public string Availableken { get; set; }
         public string Availableoen { get; set; }
         public string Availablezen { get; set; }
@@ -233,7 +217,7 @@ public class Json3412 : JsonType2
     public class AvailableElementEn1
     {
         public int Isdeleted { get; set; }
-        public int GlobalId { get; set; }
+        public string GlobalId { get; set; }
         public string Groupmgnen { get; set; }
         public string Areamgnen { get; set; }
         public string Elementmgnen { get; set; }
@@ -244,7 +228,7 @@ public class Json3412 : JsonType2
     public class ObjectaddressEnavailabilityEn2
     {
         public int Isdeleted { get; set; }
-        public int GlobalId { get; set; }
+        public string GlobalId { get; set; }
         public string Availableken { get; set; }
         public string Availableoen { get; set; }
         public string Availablezen { get; set; }
@@ -255,7 +239,7 @@ public class Json3412 : JsonType2
     public class AvailableElementEn2
     {
         public int Isdeleted { get; set; }
-        public int GlobalId { get; set; }
+        public string GlobalId { get; set; }
         public string Groupmgnen { get; set; }
         public string Areamgnen { get; set; }
         public string Elementmgnen { get; set; }
@@ -266,7 +250,7 @@ public class Json3412 : JsonType2
     public class ObjectaddressEnavailabilityEn3
     {
         public int Isdeleted { get; set; }
-        public int GlobalId { get; set; }
+        public string GlobalId { get; set; }
         public string Availableken { get; set; }
         public string Availableoen { get; set; }
         public string Availablezen { get; set; }
@@ -277,7 +261,7 @@ public class Json3412 : JsonType2
     public class AvailableElementEn3
     {
         public int Isdeleted { get; set; }
-        public int GlobalId { get; set; }
+        public string GlobalId { get; set; }
         public string Groupmgnen { get; set; }
         public string Areamgnen { get; set; }
         public string Elementmgnen { get; set; }
@@ -288,7 +272,7 @@ public class Json3412 : JsonType2
     public class ObjectaddressEnavailabilityEn4
     {
         public int Isdeleted { get; set; }
-        public int GlobalId { get; set; }
+        public string GlobalId { get; set; }
         public string Availableken { get; set; }
         public string Availableoen { get; set; }
         public string Availablezen { get; set; }
@@ -299,7 +283,7 @@ public class Json3412 : JsonType2
     public class AvailableElementEn4
     {
         public int Isdeleted { get; set; }
-        public int GlobalId { get; set; }
+        public string GlobalId { get; set; }
         public string Groupmgnen { get; set; }
         public string Areamgnen { get; set; }
         public string Elementmgnen { get; set; }
@@ -310,7 +294,7 @@ public class Json3412 : JsonType2
     public class ObjectaddressEnavailabilityEn5
     {
         public int Isdeleted { get; set; }
-        public int GlobalId { get; set; }
+        public string GlobalId { get; set; }
         public string Availableken { get; set; }
         public string Availableoen { get; set; }
         public string Availablezen { get; set; }
@@ -321,7 +305,7 @@ public class Json3412 : JsonType2
     public class ObjectaddressEnavailabilityEn6
     {
         public int Isdeleted { get; set; }
-        public int GlobalId { get; set; }
+        public string GlobalId { get; set; }
         public string Availableken { get; set; }
         public string Availableoen { get; set; }
         public string Availablezen { get; set; }
@@ -332,7 +316,7 @@ public class Json3412 : JsonType2
     public class ObjectaddressEnavailabilityEn7
     {
         public int Isdeleted { get; set; }
-        public int GlobalId { get; set; }
+        public string GlobalId { get; set; }
         public string Availableken { get; set; }
         public string Availableoen { get; set; }
         public string Availablezen { get; set; }
@@ -343,7 +327,7 @@ public class Json3412 : JsonType2
     public class AvailableElementEn5
     {
         public int Isdeleted { get; set; }
-        public int GlobalId { get; set; }
+        public string GlobalId { get; set; }
         public string Groupmgnen { get; set; }
         public string Areamgnen { get; set; }
         public string Elementmgnen { get; set; }

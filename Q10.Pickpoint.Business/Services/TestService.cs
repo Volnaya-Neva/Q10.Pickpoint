@@ -6,6 +6,7 @@ using Q10.Pickpoint.Models.JsonModel;
 using Q10.Pickpoint.Models.JsonModel.Type1;
 using Q10.Pickpoint.Models.JsonModel.Type2;
 using Q10.Pickpoint.Models.JsonModel.Type3;
+using Q10.Pickpoint.Models.JsonModel.TypeOther;
 using Q10.Pickpoint.Serializer;
 using System.Data;
 using System.Runtime.InteropServices.JavaScript;
@@ -80,6 +81,10 @@ public class TestService : BaseService<ITestRepository>, ITestService
                     {
                         jsonType.Number = number;
                         jsonTypes.Add(jsonType);
+                    }
+                    else
+                    {
+                        string y = "";
                     }
 
                 }

@@ -2,22 +2,6 @@ namespace Q10.Pickpoint.Models.JsonModel.Type1;
 
 public class Json62841 : JsonType1
 {
-    public Feature[] Features { get; set; }
-    public string Type { get; set; }
-
-    public class Feature
-    {
-        public Geometry Geometry { get; set; }
-        public Properties Properties { get; set; }
-        public string Type { get; set; }
-    }
-
-    public class Geometry
-    {
-        public float[] Coordinates { get; set; }
-        public string Type { get; set; }
-    }
-
     public class Properties
     {
         public string NameOfStation { get; set; }
@@ -26,7 +10,7 @@ public class Json62841 : JsonType1
         public string District { get; set; }
         public string ClarificationOfWorkingHours { get; set; }
         public int BpaAmount { get; set; }
-        public int GlobalId { get; set; }
+        public string GlobalId { get; set; }
         public int WorkingHoursisDeleted0 { get; set; }
         public int WorkingHoursGlobalId0 { get; set; }
         public object WorkingHoursDayOfWeek0 { get; set; }
@@ -68,14 +52,14 @@ public class Json62841 : JsonType1
     public class Trainscheduledeparturetime0
     {
         public int IsDeleted { get; set; }
-        public int GlobalId { get; set; }
+        public string GlobalId { get; set; }
         public string DepartureTime { get; set; }
     }
 
     public class Trainscheduledeparturetime1
     {
         public int IsDeleted { get; set; }
-        public int GlobalId { get; set; }
+        public string GlobalId { get; set; }
         public string DepartureTime { get; set; }
     }
 

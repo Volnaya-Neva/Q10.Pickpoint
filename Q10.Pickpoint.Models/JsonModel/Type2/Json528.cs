@@ -2,22 +2,6 @@ namespace Q10.Pickpoint.Models.JsonModel.Type2;
 
 public class Json528 : JsonType2
 {
-    public Feature[] Features { get; set; }
-    public string Type { get; set; }
-
-    public class Feature
-    {
-        public Geometry Geometry { get; set; }
-        public Properties Properties { get; set; }
-        public string Type { get; set; }
-    }
-
-    public class Geometry
-    {
-        public float[][] Coordinates { get; set; }
-        public string Type { get; set; }
-    }
-
     public class Properties
     {
         public string CommonName { get; set; }
@@ -27,7 +11,7 @@ public class Json528 : JsonType2
         public string ChiefPosition { get; set; }
         public string ClarificationOfWorkingHours { get; set; }
         public string WebSite { get; set; }
-        public long GlobalId { get; set; }
+        public string GlobalId { get; set; }
         public int OrgInfoisdeleted0 { get; set; }
         public Orginfochiefphone0[] OrgInfoChiefPhone0 { get; set; }
         public string OrgInfoFullName0 { get; set; }
@@ -96,14 +80,14 @@ public class Json528 : JsonType2
     public class Orginfochiefphone0
     {
         public int Isdeleted { get; set; }
-        public int GlobalId { get; set; }
+        public string GlobalId { get; set; }
         public string ChiefPhone { get; set; }
     }
 
     public class Objectaddressavailability0
     {
         public int Isdeleted { get; set; }
-        public int GlobalId { get; set; }
+        public string GlobalId { get; set; }
         public object Availablek { get; set; }
         public object Availableo { get; set; }
         public object Availablez { get; set; }
@@ -114,7 +98,7 @@ public class Json528 : JsonType2
     public class AvailableElement
     {
         public int Isdeleted { get; set; }
-        public int GlobalId { get; set; }
+        public string GlobalId { get; set; }
         public object Groupmgn { get; set; }
         public object Areamgn { get; set; }
         public object Elementmgn { get; set; }

@@ -2,22 +2,6 @@ namespace Q10.Pickpoint.Models.JsonModel.Type2;
 
 public class Json604 : JsonType2
 {
-    public Feature[] Features { get; set; }
-    public string Type { get; set; }
-
-    public class Feature
-    {
-        public Geometry Geometry { get; set; }
-        public Properties Properties { get; set; }
-        public string Type { get; set; }
-    }
-
-    public class Geometry
-    {
-        public float[][] Coordinates { get; set; }
-        public string Type { get; set; }
-    }
-
     public class Properties
     {
         public string CommonName { get; set; }
@@ -27,7 +11,7 @@ public class Json604 : JsonType2
         public string ChiefPosition { get; set; }
         public string ClarificationWorkingHours { get; set; }
         public string WebSite { get; set; }
-        public long GlobalId { get; set; }
+        public string GlobalId { get; set; }
         public int OrgInfoisdeleted0 { get; set; }
         public string OrgInfoFullName0 { get; set; }
         public string OrgInfoInn0 { get; set; }
@@ -185,14 +169,14 @@ public class Json604 : JsonType2
     public class Orginfochiefphone0
     {
         public int Isdeleted { get; set; }
-        public int GlobalId { get; set; }
+        public string GlobalId { get; set; }
         public string ChiefPhone { get; set; }
     }
 
     public class Objectaddressavailability0
     {
         public int Isdeleted { get; set; }
-        public int GlobalId { get; set; }
+        public string GlobalId { get; set; }
         public string Availablek { get; set; }
         public string Availableo { get; set; }
         public string Availablez { get; set; }
@@ -203,7 +187,7 @@ public class Json604 : JsonType2
     public class AvailableElement
     {
         public int Isdeleted { get; set; }
-        public int GlobalId { get; set; }
+        public string GlobalId { get; set; }
         public string Groupmgn { get; set; }
         public string Areamgn { get; set; }
         public string Elementmgn { get; set; }
@@ -214,14 +198,14 @@ public class Json604 : JsonType2
     public class Orginfochiefphone1
     {
         public int Isdeleted { get; set; }
-        public int GlobalId { get; set; }
+        public string GlobalId { get; set; }
         public string ChiefPhone { get; set; }
     }
 
     public class Objectaddressavailability1
     {
         public int Isdeleted { get; set; }
-        public int GlobalId { get; set; }
+        public string GlobalId { get; set; }
         public string Availablek { get; set; }
         public string Availableo { get; set; }
         public string Availablez { get; set; }
@@ -232,7 +216,7 @@ public class Json604 : JsonType2
     public class AvailableElement1
     {
         public int Isdeleted { get; set; }
-        public int GlobalId { get; set; }
+        public string GlobalId { get; set; }
         public string Groupmgn { get; set; }
         public string Areamgn { get; set; }
         public string Elementmgn { get; set; }
@@ -243,7 +227,7 @@ public class Json604 : JsonType2
     public class Objectaddressavailability2
     {
         public int Isdeleted { get; set; }
-        public int GlobalId { get; set; }
+        public string GlobalId { get; set; }
         public string Availablek { get; set; }
         public string Availableo { get; set; }
         public string Availablez { get; set; }
@@ -254,7 +238,7 @@ public class Json604 : JsonType2
     public class AvailableElement2
     {
         public int Isdeleted { get; set; }
-        public int GlobalId { get; set; }
+        public string GlobalId { get; set; }
         public string Groupmgn { get; set; }
         public string Areamgn { get; set; }
         public string Elementmgn { get; set; }
@@ -265,7 +249,7 @@ public class Json604 : JsonType2
     public class Objectaddressavailability3
     {
         public int Isdeleted { get; set; }
-        public int GlobalId { get; set; }
+        public string GlobalId { get; set; }
         public string Availablek { get; set; }
         public string Availableo { get; set; }
         public string Availablez { get; set; }
@@ -276,7 +260,7 @@ public class Json604 : JsonType2
     public class AvailableElement3
     {
         public int Isdeleted { get; set; }
-        public int GlobalId { get; set; }
+        public string GlobalId { get; set; }
         public string Groupmgn { get; set; }
         public string Areamgn { get; set; }
         public string Elementmgn { get; set; }
@@ -287,7 +271,7 @@ public class Json604 : JsonType2
     public class Objectaddressavailability4
     {
         public int Isdeleted { get; set; }
-        public int GlobalId { get; set; }
+        public string GlobalId { get; set; }
         public string Availablek { get; set; }
         public string Availableo { get; set; }
         public string Availablez { get; set; }
@@ -298,7 +282,7 @@ public class Json604 : JsonType2
     public class AvailableElement4
     {
         public int Isdeleted { get; set; }
-        public int GlobalId { get; set; }
+        public string GlobalId { get; set; }
         public string Groupmgn { get; set; }
         public string Areamgn { get; set; }
         public string Elementmgn { get; set; }
@@ -309,7 +293,7 @@ public class Json604 : JsonType2
     public class Objectaddressavailability5
     {
         public int Isdeleted { get; set; }
-        public int GlobalId { get; set; }
+        public string GlobalId { get; set; }
         public string Availablek { get; set; }
         public string Availableo { get; set; }
         public string Availablez { get; set; }
@@ -320,7 +304,7 @@ public class Json604 : JsonType2
     public class Objectaddressavailability6
     {
         public int Isdeleted { get; set; }
-        public int GlobalId { get; set; }
+        public string GlobalId { get; set; }
         public string Availablek { get; set; }
         public string Availableo { get; set; }
         public string Availablez { get; set; }
@@ -331,7 +315,7 @@ public class Json604 : JsonType2
     public class Objectaddressavailability7
     {
         public int Isdeleted { get; set; }
-        public int GlobalId { get; set; }
+        public string GlobalId { get; set; }
         public string Availablek { get; set; }
         public string Availableo { get; set; }
         public string Availablez { get; set; }
@@ -342,7 +326,7 @@ public class Json604 : JsonType2
     public class AvailableElement5
     {
         public int Isdeleted { get; set; }
-        public int GlobalId { get; set; }
+        public string GlobalId { get; set; }
         public string Groupmgn { get; set; }
         public string Areamgn { get; set; }
         public string Elementmgn { get; set; }

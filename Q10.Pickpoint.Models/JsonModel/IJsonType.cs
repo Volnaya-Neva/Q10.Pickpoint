@@ -3,5 +3,4 @@
 public interface IJsonType
 {
     public int Number { get; set; }
-    object CreateModelForDb();
 }

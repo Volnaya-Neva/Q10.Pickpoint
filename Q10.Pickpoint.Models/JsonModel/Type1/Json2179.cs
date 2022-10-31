@@ -2,22 +2,6 @@ namespace Q10.Pickpoint.Models.JsonModel.Type1;
 
 public class Json2179 : JsonType1
 {
-    public Feature[] Features { get; set; }
-    public string Type { get; set; }
-
-    public class Feature
-    {
-        public Geometry Geometry { get; set; }
-        public Properties Properties { get; set; }
-        public string Type { get; set; }
-    }
-
-    public class Geometry
-    {
-        public float[] Coordinates { get; set; }
-        public string Type { get; set; }
-    }
-
     public class Properties
     {
         public int Iden { get; set; }
@@ -29,7 +13,7 @@ public class Json2179 : JsonType1
         public string ChiefNameen { get; set; }
         public string ClarificationOfWorkingHoursen { get; set; }
         public string Servicesen { get; set; }
-        public int GlobalId { get; set; }
+        public string GlobalId { get; set; }
         public int Territoryenisdeleted0 { get; set; }
         public string TerritoryenTerritoryen0 { get; set; }
         public int TerritoryenGlobalId0 { get; set; }

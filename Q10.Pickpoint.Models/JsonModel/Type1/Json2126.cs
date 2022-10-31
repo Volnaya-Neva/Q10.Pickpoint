@@ -2,22 +2,6 @@ namespace Q10.Pickpoint.Models.JsonModel.Type1;
 
 public class Json2126 : JsonType1
 {
-    public Feature[] Features { get; set; }
-    public string Type { get; set; }
-
-    public class Feature
-    {
-        public Geometry Geometry { get; set; }
-        public Properties Properties { get; set; }
-        public string Type { get; set; }
-    }
-
-    public class Geometry
-    {
-        public float[] Coordinates { get; set; }
-        public string Type { get; set; }
-    }
-
     public class Properties
     {
         public string EventName { get; set; }
@@ -25,7 +9,7 @@ public class Json2126 : JsonType1
         public string WebSite { get; set; }
         public string PeriodicEvent { get; set; }
         public string NonstandardTime { get; set; }
-        public int GlobalId { get; set; }
+        public string GlobalId { get; set; }
         public int EventsScheduleisDeleted0 { get; set; }
         public string EventsScheduleStartDate0 { get; set; }
         public string EventsScheduleEndDate0 { get; set; }

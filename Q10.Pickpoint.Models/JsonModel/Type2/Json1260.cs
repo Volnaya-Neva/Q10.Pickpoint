@@ -2,22 +2,6 @@ namespace Q10.Pickpoint.Models.JsonModel.Type2;
 
 public class Json1260 : JsonType2
 {
-    public Feature[] Features { get; set; }
-    public string Type { get; set; }
-
-    public class Feature
-    {
-        public Geometry Geometry { get; set; }
-        public Properties Properties { get; set; }
-        public string Type { get; set; }
-    }
-
-    public class Geometry
-    {
-        public float[][] Coordinates { get; set; }
-        public string Type { get; set; }
-    }
-
     public class Properties
     {
         public string FullName { get; set; }
@@ -29,7 +13,7 @@ public class Json1260 : JsonType2
         public string Specialization { get; set; }
         public string Extrainfo { get; set; }
         public string AgeRestriction { get; set; }
-        public long GlobalId { get; set; }
+        public string GlobalId { get; set; }
         public int OrgInfoisDeleted0 { get; set; }
         public string OrgInfoFullName0 { get; set; }
         public Orginfochiefphone0[] OrgInfoChiefPhone0 { get; set; }
@@ -153,14 +137,14 @@ public class Json1260 : JsonType2
     public class Orginfochiefphone0
     {
         public int IsDeleted { get; set; }
-        public int GlobalId { get; set; }
+        public string GlobalId { get; set; }
         public string ChiefPhone { get; set; }
     }
 
     public class Objectaddressavailability0
     {
         public int IsDeleted { get; set; }
-        public int GlobalId { get; set; }
+        public string GlobalId { get; set; }
         public string AvailableK { get; set; }
         public string AvailableO { get; set; }
         public string AvailableZ { get; set; }
@@ -171,7 +155,7 @@ public class Json1260 : JsonType2
     public class AvailableElement
     {
         public int IsDeleted { get; set; }
-        public int GlobalId { get; set; }
+        public string GlobalId { get; set; }
         public string GroupMgn { get; set; }
         public string AreaMgn { get; set; }
         public string ElementMgn { get; set; }
@@ -182,14 +166,14 @@ public class Json1260 : JsonType2
     public class Orginfochiefphone1
     {
         public int IsDeleted { get; set; }
-        public int GlobalId { get; set; }
+        public string GlobalId { get; set; }
         public string ChiefPhone { get; set; }
     }
 
     public class Objectaddressavailability1
     {
         public int IsDeleted { get; set; }
-        public int GlobalId { get; set; }
+        public string GlobalId { get; set; }
         public string AvailableK { get; set; }
         public string AvailableO { get; set; }
         public string AvailableZ { get; set; }
@@ -200,7 +184,7 @@ public class Json1260 : JsonType2
     public class AvailableElement1
     {
         public int IsDeleted { get; set; }
-        public int GlobalId { get; set; }
+        public string GlobalId { get; set; }
         public string GroupMgn { get; set; }
         public string AreaMgn { get; set; }
         public string ElementMgn { get; set; }

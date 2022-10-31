@@ -1,6 +1,6 @@
-namespace Q10.Pickpoint.Models.JsonModel.Type3;
+namespace Q10.Pickpoint.Models.JsonModel.TypeOther;
 
-public class Json2069 : JsonType3
+public class Json61403 : JsonType4
 {
     public Feature[] Features { get; set; }
     public string Type { get; set; }
@@ -20,13 +20,15 @@ public class Json2069 : JsonType3
 
     public class Properties
     {
-        public string Name { get; set; }
+        public int BlockRegNumber { get; set; }
         public string AdmArea { get; set; }
-        public string District { get; set; }
-        public string Location { get; set; }
-        public string Crossing { get; set; }
-        public int YearOfComissioning { get; set; }
-        public long GlobalId { get; set; }
+        public string Settlement { get; set; }
+        public int BlockNumber { get; set; }
+        public string RegulatoryName { get; set; }
+        public string AbbreviatedRegulatoryName { get; set; }
+        public string FiasGuid { get; set; }
+        public string FiasParentGuid { get; set; }
+        public string GlobalId { get; set; }
     }
 
 }
