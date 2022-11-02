@@ -1,4 +1,5 @@
-﻿using Q10.Pickpoint.DAL.Repositories;
+﻿using Newtonsoft.Json.Linq;
+using Q10.Pickpoint.DAL.Repositories;
 using Q10.Pickpoint.ExcelInterop;
 using Q10.Pickpoint.ExcelInterop.Tables;
 using Q10.Pickpoint.Models.Controllers.Test.MapObjects;
@@ -9,7 +10,6 @@ using Q10.Pickpoint.Models.JsonModel.Type3;
 using Q10.Pickpoint.Models.JsonModel.TypeOther;
 using Q10.Pickpoint.Serializer;
 using System.Data;
-using System.Runtime.InteropServices.JavaScript;
 
 namespace Q10.Pickpoint.Business.Services;
 
@@ -54,7 +54,7 @@ public class TestService : BaseService<ITestRepository>, ITestService
         T table = new();
         excelMaster.ConvertToDataSet(values, ref table);
         DataSet dataSet = table.Fill<T>();
-        Repository.WriteDataSets(dataSet);
+        Repository.WriteDataSets("AddDataMosRuTypeViaTVP", dataSet);
     }
 
     public List<IJsonType> LoadJsonSource(string directory)
@@ -98,13 +98,29 @@ public class TestService : BaseService<ITestRepository>, ITestService
         return jsonTypes;
     }
 
-    public void WriteDbJsons(List<IJsonType> jsonTypes)
+    public void WriteDbJsons(List<JsonDbModel> jsonDbModels)
     {
-        foreach (IJsonType jsonType in jsonTypes)
+        List<string> nameColumns = new()
         {
-            bool isUse = Repository.CheckIsUseByNumber(jsonType.Number);
-            if(!isUse) { continue; }
-            //Создать модель общую через jsonType.CreateModelForDb(); и захерачить в бд
+            "Number", "Type", "CommonName",
+            "FullName", "ShortName", "Area",
+            "Address", "GlobalId"
+        };
+        foreach (JsonDbModel jsonDbModel in jsonDbModels)
+        {
+            List<List<string>> source = new();
+            foreach (var feature in jsonDbModel.Features)
+            {
+                List<string> values = new()
+                {
+                    jsonDbModel.Number.ToString(), jsonDbModel.Type, feature.Properties.CommonName,
+                    feature.Properties.FullName, feature.Properties.ShortName,
+                    feature.Properties.Area, feature.Properties.Address,
+                    feature.Properties.GlobalId
+                };
+                source.Add(values);
+            }
+            Repository.WriteDataRecords("AddDataMosRuSourceViaTVP", nameColumns, source);
         }
     }
 

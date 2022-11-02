@@ -93,24 +93,28 @@ public class MapperProfile : Profile
     };
 
     private JsonDbModel.Feature GetFeature(JsonType3.Feature feature)
-        => new()
-        {
-            Geometry = GetGeometry(feature.Geometry),
-            Type = feature.Type,
-            Properties = GetProperties(feature.Properties)
-        };
+    => new()
+    {
+        Geometry = GetGeometry(feature.Geometry),
+        Type = feature.Type,
+        Properties = GetProperties(feature.Properties)
+    };
 
     private JsonDbModel.Geometry GetGeometry(JsonType3.Geometry geometry)
-        => new()
-        {
-            Coordinates3 = geometry.Coordinates,
-            Type = geometry.Type
-        };
+    => new()
+    {
+        Coordinates3 = geometry.Coordinates,
+        Type = geometry.Type
+    };
 
     private JsonDbModel.Properties GetProperties(JsonType3.Properties properties)
-        => new()
-        {
-            Address = properties.Address,
-            GlobalId = properties.GlobalId.ToString(),
-        };
+    => new()
+    {
+        Address = properties.Address,
+        Area = properties.Area,
+        CommonName = properties.CommonName,
+        FullName = properties.FullName,
+        GlobalId = properties.GlobalId,
+        ShortName = properties.ShortName
+    };
 }

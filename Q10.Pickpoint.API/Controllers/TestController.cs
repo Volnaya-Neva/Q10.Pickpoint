@@ -43,21 +43,22 @@ public class TestController : BaseController<TestService>
     public void LoadJsonSource([FromBody] string directory)
     {
         List<IJsonType> jsonTypes = Service.LoadJsonSource(directory);
-        //List<JsonDbModel> m = Mapper.Map<List<JsonDbModel>>(jsonTypes);
+        List<JsonDbModel> baseModel = new();
         foreach (var jsonType in jsonTypes)
         {
             try
             {
-                var g = Mapper.Map<JsonDbModel>(jsonType);
+                JsonDbModel j = Mapper.Map<JsonDbModel>(jsonType);
+                baseModel.Add(j);
             }
             catch (Exception e)
             {
-                string h = "";
+                baseModel = new();
             }
         }
 
 
-        Service.WriteDbJsons(jsonTypes);
+        Service.WriteDbJsons(baseModel);
     }
 
     [HttpGet("load-csv")]

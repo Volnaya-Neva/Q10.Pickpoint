@@ -21,7 +21,13 @@ public abstract class JsonType3 : IJsonType
     }
     public class Properties
     {
+        public string CommonName { get; set; }
+        public string FullName { get; set; }
+        public string ShortName { get; set; }
+        public string Area { get; set; }
+        public string District { get; set; }
         public string Address { get; set; }
+        public string GlobalId { get; set; }
         public float FieldArea { get; set; }
         public string CadastralNumber { get; set; }
         public float CadastralFieldCoast { get; set; }
@@ -31,6 +37,5 @@ public abstract class JsonType3 : IJsonType
         public string TradesForm { get; set; }
         public string TradesType { get; set; }
         public string Stage { get; set; }
-        public string GlobalId { get; set; }
     }
 }

@@ -25,12 +25,13 @@ public abstract class JsonType2 : IJsonType
         public string CommonName { get; set; }
         public string FullName { get; set; }
         public string ShortName { get; set; }
+        public string Area { get; set; }
+        public string District { get; set; }
+        public string Address { get; set; }
+        public string GlobalId { get; set; }
         public string ChiefName { get; set; }
         public string ChiefPosition { get; set; }
         public string ClarificationOfWorkingHours { get; set; }
         public string WebSite { get; set; }
-        public string Area { get; set; }
-        public string Address { get; set; }
-        public string GlobalId { get; set; }
     }
 }
