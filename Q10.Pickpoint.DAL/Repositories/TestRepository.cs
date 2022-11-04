@@ -2,7 +2,6 @@
 using Insight.Database;
 using Microsoft.Data.SqlClient;
 using Microsoft.Data.SqlClient.Server;
-using Newtonsoft.Json.Linq;
 using Q10.Pickpoint.DAL.Repositories.InterfacesDb;
 
 namespace Q10.Pickpoint.DAL.Repositories;
