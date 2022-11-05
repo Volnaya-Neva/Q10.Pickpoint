@@ -9,6 +9,7 @@ using Q10.Pickpoint.Models.JsonModel.Type3;
 using Q10.Pickpoint.Models.JsonModel.TypeOther;
 using Q10.Pickpoint.Serializer;
 using System.Data;
+using Q10.Pickpoint.Models;
 
 namespace Q10.Pickpoint.Business.Services;
 
@@ -104,10 +105,17 @@ public class TestService : BaseService<ITestRepository>, ITestService
             "Number", "Type", "CommonName",
             "FullName", "ShortName", "Area",
             "Address", "GlobalId"
+        };  
+        List<string> coordinatesNameColumns = new()
+        {
+            "GlobalId", "Float_0", "Float_1"
         };
+        
         foreach (JsonDbModel jsonDbModel in jsonDbModels)
         {
             List<List<string>> source = new();
+            List<List<string>> coordinates = new();
+            
             foreach (var feature in jsonDbModel.Features)
             {
                 List<string> values = new()
@@ -117,8 +125,23 @@ public class TestService : BaseService<ITestRepository>, ITestService
                     feature.Properties.Area, feature.Properties.Address,
                     feature.Properties.GlobalId
                 };
+
+                var floats = feature.Geometry.Coordinates2.Select(x => x).ToArray();
+                // var a = feature.Geometry.Coordinates;
+
+                coordinates.AddRange(
+                    floats.Select(f
+                        => new List<string>()
+                        {
+                            feature.Properties.GlobalId, 
+                            f[0].ToString(), 
+                            f[1].ToString()
+                        }));
+
                 source.Add(values);
             }
+            
+            Repository.WriteDataRecords("AddCoordinatesViaTVP", coordinatesNameColumns, coordinates);
             Repository.WriteDataRecords("AddDataMosRuSourceViaTVP", nameColumns, source);
         }
     }
