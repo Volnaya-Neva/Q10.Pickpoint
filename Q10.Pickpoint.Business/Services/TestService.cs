@@ -126,9 +126,10 @@ public class TestService : BaseService<ITestRepository>, ITestService
                     feature.Properties.GlobalId
                 };
 
-                var floats = feature.Geometry.Coordinates2.Select(x => x).ToArray();
-                // var a = feature.Geometry.Coordinates;
+                var floats = feature.Geometry.Coordinates2.Select(x => x).ToList(); 
+                var f = feature.Geometry.Coordinates;
 
+                floats.Add(f);
                 coordinates.AddRange(
                     floats.Select(f
                         => new List<string>()
