@@ -19,11 +19,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Q10.Pickpoint.DAL", "Q10.Pi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Q10.Pickpoint.Serializer", "Q10.Pickpoint.Serializer\Q10.Pickpoint.Serializer.csproj", "{3BA577EA-766D-4526-9BD5-BF9929721EBB}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{15C27B4C-F8B0-42A5-8819-90A6041D5195}"
-	ProjectSection(SolutionItems) = preProject
-		C:\Users\ZLoo\Downloads\Шаблон презентации для участников ЛЦТ2022.pptx = C:\Users\ZLoo\Downloads\Шаблон презентации для участников ЛЦТ2022.pptx
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
