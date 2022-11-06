@@ -3,6 +3,7 @@ using Insight.Database;
 using Microsoft.Data.SqlClient;
 using Microsoft.Data.SqlClient.Server;
 using Q10.Pickpoint.DAL.Repositories.InterfacesDb;
+using Q10.Pickpoint.Models;
 
 namespace Q10.Pickpoint.DAL.Repositories;
 
@@ -31,6 +32,40 @@ public class TestRepository : BaseRepository, ITestRepository
             Console.WriteLine(e);
         }
     }
+    
+    public IList<Coordinates> GetCoordinates()
+    {
+        var list = new List<Coordinates>();
+
+        try
+        {
+            using (var cmd = new SqlCommand("GetCoordinates", Connection.OpenConnection()))
+            {
+                using (IDataReader dr = cmd.ExecuteReader())
+                {
+                    while (dr.Read())
+                    {
+                        list.Add(new Coordinates
+                        {
+                            Id = Convert.ToInt32(dr[0].ToString()),
+                            GlobalId = dr[1].ToString(),
+                            Float_0 = Convert.ToDouble(dr[2].ToString()),
+                            Float_1 = Convert.ToDouble(dr[3].ToString()),
+                        });
+                    }
+                }
+            }
+
+            Connection.Close();
+            return list;
+        }
+        catch (Exception e)
+        {
+            Console.WriteLine(e);
+            throw;
+        }
+    }
+
 
     public void WriteDataRecords(string tvpName, List<string> nameColumn, List<List<string>> source)
     {

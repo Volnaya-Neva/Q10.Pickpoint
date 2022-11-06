@@ -145,6 +145,11 @@ public class TestService : BaseService<ITestRepository>, ITestService
             Repository.WriteDataRecords("AddCoordinatesViaTVP", coordinatesNameColumns, coordinates);
             Repository.WriteDataRecords("AddDataMosRuSourceViaTVP", nameColumns, source);
         }
+    } 
+
+    public IList<Coordinates> GetCoordinates()
+    {
+        return Repository.GetCoordinates();
     }
 
     private IJsonType? SwitchJsonEnum(JsonEnum jsonEnum, string json, JsonManager jsonManager)
